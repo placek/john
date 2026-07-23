@@ -1,3 +1,9 @@
 # Markdown files are generated exports (make export); keep only the README.
 *.md
 !README.md
+
+# The SQLite database is generated from egzegeza_jana_build.py (make build).
+egzegeza_jana.sqlite
+
+# Claude Code session directory.
+.claude/
