@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Egzegeza Ewangelii św. Jana</title>
+<style>
+  :root {
+    --tlo: #fbf9f4;
+    --papier: #fffefb;
+    --tekst: #24211c;
+    --przygaszony: #6b6459;
+    --linia: #e0d9cc;
+    --akcent: #7a1f1f;
+    --akcent-jasny: #f3ebe4;
+    --greka: #1f4a5e;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--tlo);
+    color: var(--tekst);
+    font: 16px/1.65 Georgia, "Times New Roman", serif;
+  }
+  header {
+    background: var(--papier);
+    border-bottom: 1px solid var(--linia);
+    padding: .8rem 1.2rem;
+    display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;
+    position: sticky; top: 0; z-index: 10;
+  }
+  header h1 {
+    font-size: 1.05rem; margin: 0; font-weight: normal;
+    letter-spacing: .04em; color: var(--akcent);
+  }
+  header input {
+    flex: 1; min-width: 200px; max-width: 420px;
+    padding: .45rem .7rem; border: 1px solid var(--linia);
+    border-radius: 3px; font: inherit; font-size: .9rem; background: var(--tlo);
+  }
+  header nav { display: flex; gap: .4rem; }
+  header nav button {
+    border: 1px solid var(--linia); background: var(--tlo); cursor: pointer;
+    padding: .4rem .7rem; border-radius: 3px; font: inherit; font-size: .85rem;
+    color: var(--przygaszony);
+  }
+  header nav button:hover, header nav button.akt { background: var(--akcent-jasny); color: var(--akcent); }
+
+  .uklad { display: flex; align-items: flex-start; }
+  aside {
+    width: 250px; flex-shrink: 0; padding: 1rem .8rem;
+    border-right: 1px solid var(--linia); min-height: calc(100vh - 56px);
+  }
+  aside h2 { font-size: .72rem; text-transform: uppercase; letter-spacing: .1em;
+             color: var(--przygaszony); margin: 0 0 .6rem .4rem; font-weight: normal; }
+  aside a {
+    display: block; padding: .45rem .55rem; margin-bottom: .15rem;
+    text-decoration: none; color: var(--tekst); border-radius: 3px; font-size: .88rem;
+  }
+  aside a:hover { background: var(--akcent-jasny); }
+  aside a.akt { background: var(--akcent-jasny); color: var(--akcent); font-weight: bold; }
+  aside a small { display: block; color: var(--przygaszony); font-size: .74rem; font-weight: normal; }
+
+  main { flex: 1; padding: 1.6rem 2rem 5rem; max-width: 860px; }
+  h2.tytul { font-size: 1.7rem; margin: 0 0 .2rem; color: var(--akcent); font-weight: normal; }
+  .motto { font-style: italic; color: var(--przygaszony); margin: 0 0 .3rem; }
+  .status {
+    display: inline-block; font-size: .7rem; text-transform: uppercase;
+    letter-spacing: .08em; padding: .12rem .5rem; border-radius: 2px;
+    background: var(--akcent-jasny); color: var(--akcent); margin-bottom: 1.4rem;
+  }
+
+  .zakladki { display: flex; gap: .3rem; border-bottom: 1px solid var(--linia); margin-bottom: 1.5rem; flex-wrap: wrap; }
+  .zakladki button {
+    border: none; background: none; cursor: pointer; font: inherit; font-size: .87rem;
+    padding: .5rem .8rem; color: var(--przygaszony); border-bottom: 2px solid transparent;
+  }
+  .zakladki button:hover { color: var(--tekst); }
+  .zakladki button.akt { color: var(--akcent); border-bottom-color: var(--akcent); }
+
+  .blok { margin-bottom: 2.4rem; }
+  .blok > h3 {
+    font-size: .78rem; text-transform: uppercase; letter-spacing: .1em;
+    color: var(--akcent); margin: 0 0 .7rem; font-weight: normal;
+  }
+  .grecki {
+    background: var(--papier); border-left: 3px solid var(--greka);
+    padding: .8rem 1rem; margin-bottom: .5rem; color: var(--greka);
+    font-size: 1.02rem; line-height: 1.8;
+  }
+  .przeklad { font-style: italic; color: var(--przygaszony); margin: 0 0 1rem; padding-left: 1rem; }
+  .jednostka { margin-bottom: 1.3rem; }
+  .fraza { color: var(--greka); font-weight: bold; }
+  .fraza span { color: var(--przygaszony); font-weight: normal; font-style: italic; }
+
+  .sekcja { margin-bottom: 2rem; }
+  .sekcja h3 { font-size: 1.15rem; color: var(--akcent); font-weight: normal; margin: 0 0 .5rem; }
+  .sekcja h4 { font-size: .95rem; margin: 1.2rem 0 .4rem; }
+  .podsekcja { border-left: 2px solid var(--linia); padding-left: 1rem; margin: 1rem 0; }
+
+  .ojciec { background: var(--papier); border: 1px solid var(--linia);
+            border-radius: 3px; padding: 1rem 1.2rem; margin-bottom: 1rem; }
+  .ojciec .naglowek { margin-bottom: .5rem; }
+  .ojciec .autor { font-weight: bold; }
+  .ojciec .locus { color: var(--przygaszony); font-size: .85rem; font-style: italic; }
+  .ojciec .blok-etykieta {
+    float: right; font-size: .72rem; text-transform: uppercase; letter-spacing: .06em;
+    color: var(--akcent); background: var(--akcent-jasny); padding: .1rem .45rem; border-radius: 2px;
+  }
+
+  table { border-collapse: collapse; width: 100%; font-size: .9rem; }
+  th, td { text-align: left; padding: .45rem .6rem; border-bottom: 1px solid var(--linia); vertical-align: top; }
+  th { font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
+       color: var(--przygaszony); font-weight: normal; }
+  td.lemat { color: var(--greka); font-weight: bold; white-space: nowrap; }
+  .relacja { font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; color: var(--akcent); }
+
+  .wynik { padding: .7rem .9rem; border-bottom: 1px solid var(--linia); cursor: pointer; }
+  .wynik:hover { background: var(--papier); }
+  .wynik .gdzie { font-size: .78rem; color: var(--akcent); margin-bottom: .2rem; }
+  .wynik .snip { font-size: .88rem; color: var(--przygaszony); }
+  mark { background: #fbe7b0; color: inherit; }
+
+  p { margin: 0 0 .8rem; }
+  .pusto { color: var(--przygaszony); font-style: italic; }
+  @media (max-width: 760px) {
+    .uklad { flex-direction: column; }
+    aside { width: 100%; min-height: 0; border-right: none; border-bottom: 1px solid var(--linia); }
+    main { padding: 1.2rem 1rem 4rem; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Egzegeza Ewangelii św. Jana</h1>
+  <input id="szukaj" type="search" placeholder="Szukaj w tekście, analizach i katenie…">
+  <nav>
+    <button data-widok="perykopy" class="akt">Perykopy</button>
+    <button data-widok="leksykon">Leksykon</button>
+    <button data-widok="motywy">Motywy</button>
+  </nav>
+</header>
+
+<div class="uklad">
+  <aside id="lista"></aside>
+  <main id="tresc"></main>
+</div>
+
+<script>
+const $ = (s, el = document) => el.querySelector(s);
+let PERYKOPY = [], AKT = null, ZAKLADKA = 'tekst';
+
+const esc = s => (s ?? '').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+
+// minimalny markdown: **pogrubienie**, *kursywa*, akapity
+function md(t) {
+  if (!t) return '';
+  return esc(t)
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .split(/\n\n+/).map(p => `<p>${p.replace(/\n/g, ' ')}</p>`).join('');
+}
+
+async function pobierz(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error('błąd serwera');
+  return r.json();
+}
+
+// ---------- lista perykop ----------
+async function start() {
+  PERYKOPY = await pobierz('/api/pericopes');
+  rysujListe();
+  otworz(PERYKOPY[0].id);
+}
+
+function rysujListe() {
+  $('#lista').innerHTML = '<h2>Perykopy</h2>' + PERYKOPY.map(p => `
+    <a href="#" data-id="${p.id}" class="${p.id === AKT ? 'akt' : ''}">
+      ${esc(p.title)}<small>${esc(p.siglum)}</small>
+    </a>`).join('');
+  $('#lista').querySelectorAll('a').forEach(a =>
+    a.onclick = e => { e.preventDefault(); otworz(+a.dataset.id); });
+}
+
+// ---------- perykopa ----------
+async function otworz(id, zakladka = 'tekst') {
+  AKT = id; ZAKLADKA = zakladka;
+  rysujListe();
+  const d = await pobierz('/api/pericope?id=' + id);
+  const h = d.head;
+  const zakl = [
+    ['tekst', 'Tekst i analiza'],
+    ['komentarz', 'Komentarz'],
+    ['katena', `Ojcowie (${d.catena.length})`],
+    ['odniesienia', `Odniesienia (${d.refs.length})`],
+    ['aparat', 'Aparat i liturgia'],
+  ];
+  $('#tresc').innerHTML = `
+    <h2 class="tytul">${esc(h.title)}</h2>
+    <p class="motto">${esc(h.motto || '')}</p>
+    <span class="status">${esc(h.status.replace('_', ' '))}</span>
+    <div class="zakladki">
+      ${zakl.map(([k, n]) => `<button data-z="${k}" class="${k === ZAKLADKA ? 'akt' : ''}">${n}</button>`).join('')}
+    </div>
+    <div id="panel"></div>`;
+  $('#tresc').querySelectorAll('.zakladki button').forEach(b =>
+    b.onclick = () => { ZAKLADKA = b.dataset.z; otworz(id, ZAKLADKA); });
+  rysujPanel(d);
+  window.scrollTo(0, 0);
+}
+
+function rysujPanel(d) {
+  const panel = $('#panel');
+  if (ZAKLADKA === 'tekst') {
+    const intro = d.sections.find(s => s.section_type === 'filologia' && !s.parent_id);
+    panel.innerHTML =
+      (intro?.body_md ? `<div class="sekcja">${md(intro.body_md)}</div>` : '') +
+      d.blocks.map(b => `
+        <div class="blok">
+          <h3>${esc(b.label)}</h3>
+          <div class="grecki">${esc(b.greek_text)}</div>
+          <p class="przeklad">„${esc(b.working_translation_pl)}”</p>
+          ${d.units.filter(u => u.block_id === b.id).map(u => `
+            <div class="jednostka">
+              ${u.phrase_greek ? `<p class="fraza">${esc(u.phrase_greek)}
+                 ${u.phrase_translation_pl ? `<span>— ${esc(u.phrase_translation_pl)}</span>` : ''}</p>` : ''}
+              ${md(u.body_md)}
+            </div>`).join('')}
+        </div>`).join('');
+  }
+  else if (ZAKLADKA === 'komentarz') {
+    const glowne = d.sections.filter(s => !s.parent_id &&
+      !['filologia', 'patrystyka'].includes(s.section_type));
+    panel.innerHTML = glowne.map(s => `
+      <div class="sekcja">
+        <h3>${esc(s.title)}</h3>
+        ${md(s.body_md)}
+        ${d.sections.filter(c => c.parent_id === s.id).map(c => `
+          <div class="podsekcja"><h4>${esc(c.title)}</h4>${md(c.body_md)}</div>`).join('')}
+      </div>`).join('') || '<p class="pusto">Brak sekcji komentarza.</p>';
+  }
+  else if (ZAKLADKA === 'katena') {
+    const wstep = d.sections.find(s => s.section_type === 'patrystyka' && !s.parent_id);
+    panel.innerHTML =
+      (wstep?.body_md ? `<div class="sekcja">${md(wstep.body_md)}</div>` : '') +
+      (d.catena.map(c => `
+        <div class="ojciec">
+          <div class="naglowek">
+            <span class="blok-etykieta">${esc(c.label)}</span>
+            <span class="autor">${esc(c.author)}</span><br>
+            <span class="locus">${esc(c.title_pl || c.work_title || '')}${c.locus ? ', ' + esc(c.locus) : ''}</span>
+          </div>
+          ${md(c.body_md)}
+        </div>`).join('') || '<p class="pusto">Brak komentarzy patrystycznych.</p>');
+  }
+  else if (ZAKLADKA === 'odniesienia') {
+    panel.innerHTML = d.refs.length ? `<table>
+      <tr><th>Miejsce</th><th>Relacja</th><th>Uwaga</th><th>Zaczepione przy</th></tr>
+      ${d.refs.map(r => `<tr>
+        <td class="lemat">${esc(r.target_label)}</td>
+        <td class="relacja">${esc(r.relation)}</td>
+        <td>${esc(r.note_md || '')}</td>
+        <td><small>${esc((r.kotwica || '').slice(0, 40))}</small></td></tr>`).join('')}
+      </table>` : '<p class="pusto">Brak odniesień.</p>';
+  }
+  else {
+    panel.innerHTML = `
+      ${d.textual.length ? `<div class="sekcja"><h3>Krytyka tekstu</h3>
+        ${d.textual.map(t => `<div class="jednostka">
+          <p class="fraza">w. ${t.verse_num} — ${esc(t.lemma_text)} <span>(${esc(t.issue)})</span></p>
+          ${md(t.readings_md)}${md(t.assessment_md)}</div>`).join('')}</div>` : ''}
+      ${d.liturgy.length ? `<div class="sekcja"><h3>Recepcja liturgiczna</h3><table>
+        <tr><th>Ryt</th><th>Okazja</th><th>Perykopa</th></tr>
+        ${d.liturgy.map(l => `<tr><td>${esc(l.rite)}</td>
+          <td>${esc(l.occasion)}<br><small>${esc(l.description_md || '')}</small></td>
+          <td class="lemat">${esc(l.passage || '')}</td></tr>`).join('')}</table></div>` : ''}
+      ${d.themes.length ? `<div class="sekcja"><h3>Motywy przekrojowe</h3>
+        <p>${d.themes.map(esc).join(' · ')}</p></div>` : ''}
+      ${!d.textual.length && !d.liturgy.length ? '<p class="pusto">Brak danych aparatu.</p>' : ''}`;
+  }
+}
+
+// ---------- widoki dodatkowe ----------
+document.querySelectorAll('header nav button').forEach(b => b.onclick = async () => {
+  document.querySelectorAll('header nav button').forEach(x => x.classList.remove('akt'));
+  b.classList.add('akt');
+  if (b.dataset.widok === 'perykopy') { rysujListe(); otworz(AKT || PERYKOPY[0].id); return; }
+  if (b.dataset.widok === 'leksykon') {
+    const l = await pobierz('/api/lexicon');
+    $('#lista').innerHTML = '<h2>Widok</h2><p style="padding:.4rem;font-size:.85rem;color:var(--przygaszony)">Leksykon grecki</p>';
+    $('#tresc').innerHTML = `<h2 class="tytul">Leksykon</h2>
+      <p class="motto">Słowa-klucze z mapą wystąpień</p><table>
+      <tr><th>Lemat</th><th>Transliteracja</th><th>Znaczenie</th><th>Miejsca</th></tr>
+      ${l.map(x => `<tr><td class="lemat">${esc(x.lemma)}</td><td>${esc(x.translit || '')}</td>
+        <td>${esc(x.gloss_pl || '')}</td><td><small>${esc(x.miejsca || '')}</small></td></tr>`).join('')}
+      </table>`;
+  }
+  if (b.dataset.widok === 'motywy') {
+    const t = await pobierz('/api/themes');
+    $('#lista').innerHTML = '<h2>Widok</h2><p style="padding:.4rem;font-size:.85rem;color:var(--przygaszony)">Motywy przekrojowe</p>';
+    $('#tresc').innerHTML = `<h2 class="tytul">Motywy</h2>
+      <p class="motto">Nici tematyczne przez całą księgę</p>
+      ${t.map(x => `<div class="sekcja"><h3>${esc(x.name)}</h3>${md(x.description_md)}
+        <p class="motto">powiązań: ${x.powiazania}</p></div>`).join('')}`;
+  }
+});
+
+// ---------- wyszukiwarka ----------
+let timer;
+$('#szukaj').oninput = e => {
+  clearTimeout(timer);
+  const v = e.target.value.trim();
+  if (v.length < 2) return;
+  timer = setTimeout(async () => {
+    const w = await pobierz('/api/search?q=' + encodeURIComponent(v));
+    $('#tresc').innerHTML = `<h2 class="tytul">Wyniki: ${esc(v)}</h2>
+      <p class="motto">${w.length} trafień</p>
+      ${w.map((r, i) => `<div class="wynik" data-id="${r.pericope_id || ''}">
+        <div class="gdzie">${esc(r.pericope)} — ${esc(r.where)}</div>
+        <div class="snip">${r.snippet}</div></div>`).join('') ||
+        '<p class="pusto">Nic nie znaleziono. Grekę i „ł" wpisuj w pełnym zapisie.</p>'}`;
+    $('#tresc').querySelectorAll('.wynik').forEach(el => {
+      if (el.dataset.id) el.onclick = () => otworz(+el.dataset.id);
+    });
+  }, 250);
+};
+
+start();
+</script>
+</body>
+</html>
