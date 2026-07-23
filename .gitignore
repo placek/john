@@ -2,8 +2,11 @@
 *.md
 !README.md
 
-# The SQLite database is generated from egzegeza_jana_build.py (make build).
-egzegeza_jana.sqlite
+# The SQLite database is generated from data/*.json (make build).
+data/egzegeza_jana.sqlite
+
+# Python bytecode cache.
+__pycache__/
 
 # Claude Code session directory.
 .claude/

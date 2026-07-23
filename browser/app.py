@@ -3,7 +3,7 @@
 """
 Przeglądarka egzegezy Ewangelii Jana — bardzo prosty serwer.
 
-Uruchomienie:   python3 app.py
+Uruchomienie:   python3 browser/app.py   (lub: make serve)
 Potem:          http://localhost:8000
 
 Bez zależności zewnętrznych (tylko biblioteka standardowa).
@@ -17,8 +17,9 @@ import socketserver
 import sqlite3
 import urllib.parse
 
-HERE = pathlib.Path(__file__).parent
-DB = HERE / "egzegeza_jana.sqlite"
+HERE = pathlib.Path(__file__).resolve().parent          # browser/
+ROOT = HERE.parent
+DB = ROOT / "data" / "egzegeza_jana.sqlite"
 PORT = int(os.environ.get("PORT", "8000"))
 
 
@@ -240,7 +241,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
 if __name__ == "__main__":
     os.chdir(HERE)
     if not DB.exists():
-        raise SystemExit(f"Brak bazy: {DB}\nUruchom najpierw: python3 egzegeza_jana_build.py")
+        raise SystemExit(f"Brak bazy: {DB}\nUruchom najpierw: python3 tools/egzegeza_jana_build.py")
     socketserver.TCPServer.allow_reuse_address = True  # pozwól ponownie zająć port po restarcie
     with socketserver.TCPServer(("", PORT), Handler) as httpd:
         print(f"Egzegeza Jana — serwer działa:  http://localhost:{PORT}")

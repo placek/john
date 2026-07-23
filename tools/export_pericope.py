@@ -1,15 +1,16 @@
 # -*- coding: utf-8 -*-
 """
-Eksport perykopy z bazy egzegeza_jana.sqlite do Markdown.
-Użycie: python3 export_pericope.py [id_perykopy|all] [plik_wyjsciowy.md]
+Eksport perykopy z bazy data/egzegeza_jana.sqlite do Markdown.
+Użycie: python3 tools/export_pericope.py [id_perykopy|all] [plik_wyjsciowy.md]
 Domyślnie: perykopa N -> pericope_N.md; 'all' -> wszystkie perykopy do jednego pliku (egzegeza_jan1.md).
 Z tego samego źródła można później generować LaTeX/PDF (pandoc), stronę www itd.
 """
 import sqlite3, pathlib, sys
 
-DB = pathlib.Path(__file__).with_name("egzegeza_jana.sqlite")
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+DB = ROOT / "data" / "egzegeza_jana.sqlite"
 ARG = sys.argv[1] if len(sys.argv) > 1 else "1"
-OUT = pathlib.Path(sys.argv[2]) if len(sys.argv) > 2 else pathlib.Path(__file__).with_name(
+OUT = pathlib.Path(sys.argv[2]) if len(sys.argv) > 2 else ROOT / (
     "egzegeza_jan1.md" if ARG == "all" else f"pericope_{ARG}.md")
 
 con = sqlite3.connect(DB)

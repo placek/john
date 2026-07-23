@@ -1,19 +1,26 @@
 # Egzegeza Ewangelii Jana — build & serve
 #
 #   make            # zbuduj bazę (jeśli brak) i uruchom serwer
-#   make build      # (prze)buduj bazę SQLite od zera
-#   make serve      # uruchom serwer webowy (index.html + API)
+#   make build      # (prze)buduj bazę SQLite od zera z data/*.json
+#   make serve      # uruchom serwer webowy (browser/: index.html + API)
 #   make export     # wyeksportuj wszystkie perykopy do Markdown
 #   make export PID=4 [OUT=baranek.md]   # jedną perykopę
 #   make clean      # usuń wygenerowaną bazę
 #
+# Układ repozytorium:
+#   data/     — źródła: schema.sql + *.json (oraz generowana baza)
+#   tools/    — narzędzia: egzegeza_jana_build.py, export_pericope.py
+#   browser/  — przeglądarka: app.py (backend) + index.html
+#
 # Wymaga tylko python3 (biblioteka standardowa) — patrz shell.nix.
 
 PYTHON ?= python3
-DB      = egzegeza_jana.sqlite
-BUILD   = egzegeza_jana_build.py
-APP     = app.py
-EXPORT  = export_pericope.py
+DB      = data/egzegeza_jana.sqlite
+SOURCES = tools/egzegeza_jana_build.py data/schema.sql \
+          data/prolog.json data/continuation.json data/kana.json
+BUILD   = tools/egzegeza_jana_build.py
+APP     = browser/app.py
+EXPORT  = tools/export_pericope.py
 PORT    ?= 8000
 PID     ?= all
 OUT     ?=
@@ -27,12 +34,12 @@ all: serve
 serve: $(DB)
 	PORT=$(PORT) $(PYTHON) $(APP)
 
-## zbuduj bazę SQLite tylko gdy jej nie ma
-$(DB): $(BUILD)
+## zbuduj bazę SQLite tylko gdy brak lub gdy zmieniły się źródła
+$(DB): $(SOURCES)
 	$(PYTHON) $(BUILD)
 
 ## wymuś przebudowę bazy od zera
-build: $(BUILD)
+build: $(SOURCES)
 	$(PYTHON) $(BUILD)
 
 rebuild: clean build

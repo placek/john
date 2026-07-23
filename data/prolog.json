@@ -1,0 +1,2417 @@
+{
+ "meta": [
+  [
+   "projekt",
+   "Egzegeza Ewangelii według św. Jana"
+  ],
+  [
+   "zrodlo",
+   "Google Docs — dokument roboczy (Prolog, J 1,1-14)"
+  ],
+  [
+   "edycja_tekstu_greckiego",
+   "Nestle-Aland, wyd. 28 (NA28)"
+  ],
+  [
+   "przeklad",
+   "roboczy, własny, celowo dosłowny"
+  ]
+ ],
+ "books": [
+  [
+   "Rdz",
+   "Księga Rodzaju",
+   "ST",
+   1
+  ],
+  [
+   "Wj",
+   "Księga Wyjścia",
+   "ST",
+   2
+  ],
+  [
+   "Ps",
+   "Księga Psalmów",
+   "ST",
+   19
+  ],
+  [
+   "Prz",
+   "Księga Przysłów",
+   "ST",
+   20
+  ],
+  [
+   "Mdr",
+   "Księga Mądrości",
+   "ST",
+   22
+  ],
+  [
+   "Syr",
+   "Mądrość Syracha",
+   "ST",
+   23
+  ],
+  [
+   "Iz",
+   "Księga Izajasza",
+   "ST",
+   24
+  ],
+  [
+   "Łk",
+   "Ewangelia według św. Łukasza",
+   "NT",
+   49
+  ],
+  [
+   "J",
+   "Ewangelia według św. Jana",
+   "NT",
+   50
+  ],
+  [
+   "Dz",
+   "Dzieje Apostolskie",
+   "NT",
+   51
+  ],
+  [
+   "Rz",
+   "List do Rzymian",
+   "NT",
+   52
+  ],
+  [
+   "1 Kor",
+   "1 List do Koryntian",
+   "NT",
+   53
+  ],
+  [
+   "Flp",
+   "List do Filipian",
+   "NT",
+   57
+  ],
+  [
+   "Kol",
+   "List do Kolosan",
+   "NT",
+   58
+  ],
+  [
+   "Hbr",
+   "List do Hebrajczyków",
+   "NT",
+   65
+  ],
+  [
+   "Jk",
+   "List św. Jakuba",
+   "NT",
+   66
+  ],
+  [
+   "1 P",
+   "1 List św. Piotra",
+   "NT",
+   67
+  ],
+  [
+   "2 P",
+   "2 List św. Piotra",
+   "NT",
+   68
+  ],
+  [
+   "1 J",
+   "1 List św. Jana",
+   "NT",
+   69
+  ],
+  [
+   "Ap",
+   "Apokalipsa św. Jana",
+   "NT",
+   73
+  ]
+ ],
+ "verses": {
+  "chapter": 1,
+  "items": [
+   [
+    1,
+    "Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.",
+    "Na początku było Słowo, a Słowo było u Boga, i Bogiem było Słowo."
+   ],
+   [
+    2,
+    "οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.",
+    "Ono było na początku u Boga."
+   ],
+   [
+    3,
+    "πάντα δι᾿ αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν. ὃ γέγονεν",
+    "Wszystko przez Nie się stało, a bez Niego nic się nie stało, [z tego] co się stało."
+   ],
+   [
+    4,
+    "ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων·",
+    "W Nim było życie, a życie było światłością ludzi."
+   ],
+   [
+    5,
+    "καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.",
+    "A światłość w ciemności świeci i ciemność jej nie ogarnęła."
+   ],
+   [
+    6,
+    "Ἐγένετο ἄνθρωπος, ἀπεσταλμένος παρὰ θεοῦ, ὄνομα αὐτῷ Ἰωάννης·",
+    "Pojawił się człowiek posłany od Boga — imię jego Jan."
+   ],
+   [
+    7,
+    "οὗτος ἦλθεν εἰς μαρτυρίαν ἵνα μαρτυρήσῃ περὶ τοῦ φωτός, ἵνα πάντες πιστεύσωσιν δι᾿ αὐτοῦ.",
+    "Przyszedł on na świadectwo, aby zaświadczyć o światłości, aby wszyscy przez niego uwierzyli."
+   ],
+   [
+    8,
+    "οὐκ ἦν ἐκεῖνος τὸ φῶς, ἀλλ᾿ ἵνα μαρτυρήσῃ περὶ τοῦ φωτός.",
+    "Nie był on światłością, ale [przyszedł], aby zaświadczyć o światłości."
+   ],
+   [
+    9,
+    "Ἦν τὸ φῶς τὸ ἀληθινόν, ὃ φωτίζει πάντα ἄνθρωπον, ἐρχόμενον εἰς τὸν κόσμον.",
+    "Była światłość prawdziwa, która oświeca każdego człowieka, przychodząc na świat."
+   ],
+   [
+    10,
+    "ἐν τῷ κόσμῳ ἦν, καὶ ὁ κόσμος δι᾿ αὐτοῦ ἐγένετο, καὶ ὁ κόσμος αὐτὸν οὐκ ἔγνω.",
+    "Na świecie było, i świat przez Nie się stał, a świat Go nie poznał."
+   ],
+   [
+    11,
+    "εἰς τὰ ἴδια ἦλθεν, καὶ οἱ ἴδιοι αὐτὸν οὐ παρέλαβον.",
+    "Do swojej własności przyszło, a swoi Go nie przyjęli."
+   ],
+   [
+    12,
+    "ὅσοι δὲ ἔλαβον αὐτόν, ἔδωκεν αὐτοῖς ἐξουσίαν τέκνα θεοῦ γενέσθαι, τοῖς πιστεύουσιν εἰς τὸ ὄνομα αὐτοῦ,",
+    "Tym zaś wszystkim, którzy Je przyjęli, dało moc, aby się stali dziećmi Bożymi — tym, którzy wierzą w imię Jego,"
+   ],
+   [
+    13,
+    "οἳ οὐκ ἐξ αἱμάτων οὐδὲ ἐκ θελήματος σαρκὸς οὐδὲ ἐκ θελήματος ἀνδρὸς ἀλλ᾿ ἐκ θεοῦ ἐγεννήθησαν.",
+    "którzy nie z krwi ani z woli ciała, ani z woli męża, ale z Boga zostali zrodzeni."
+   ],
+   [
+    14,
+    "Καὶ ὁ λόγος σὰρξ ἐγένετο καὶ ἐσκήνωσεν ἐν ἡμῖν, καὶ ἐθεασάμεθα τὴν δόξαν αὐτοῦ, δόξαν ὡς μονογενοῦς παρὰ πατρός, πλήρης χάριτος καὶ ἀληθείας.",
+    "A Słowo ciałem się stało i rozbiło namiot wśród nas, i oglądaliśmy chwałę Jego — chwałę, jaką Jednorodzony [ma] od Ojca — pełne łaski i prawdy."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "λόγος",
+   "logos",
+   "rzeczownik",
+   "słowo, rozum, racja, zasada, mowa"
+  ],
+  [
+   "ἀρχή",
+   "arche",
+   "rzeczownik",
+   "początek, zasada"
+  ],
+  [
+   "εἰμί",
+   "eimi",
+   "czasownik",
+   "być (ἦν — imperfectum: trwanie bez początku)"
+  ],
+  [
+   "γίνομαι",
+   "ginomai",
+   "czasownik",
+   "stawać się, powstawać (ἐγένετο — aoryst)"
+  ],
+  [
+   "θεός",
+   "theos",
+   "rzeczownik",
+   "Bóg"
+  ],
+  [
+   "ζωή",
+   "zoe",
+   "rzeczownik",
+   "życie (Boże, nie biologiczne — por. βίος)"
+  ],
+  [
+   "βίος",
+   "bios",
+   "rzeczownik",
+   "życie doczesne, sposób życia (kontrast do ζωή)"
+  ],
+  [
+   "φῶς",
+   "phos",
+   "rzeczownik",
+   "światłość"
+  ],
+  [
+   "σκοτία",
+   "skotia",
+   "rzeczownik",
+   "ciemność (u Jana nacechowana moralnie)"
+  ],
+  [
+   "φαίνω",
+   "phaino",
+   "czasownik",
+   "świecić"
+  ],
+  [
+   "καταλαμβάνω",
+   "katalambano",
+   "czasownik",
+   "chwytać, pojmować, ogarniać, dopadać"
+  ],
+  [
+   "μαρτυρία",
+   "martyria",
+   "rzeczownik",
+   "świadectwo (język procesowy)"
+  ],
+  [
+   "μαρτυρέω",
+   "martyreo",
+   "czasownik",
+   "świadczyć"
+  ],
+  [
+   "ἀποστέλλω",
+   "apostello",
+   "czasownik",
+   "posyłać (stąd ἀπόστολος — apostoł)"
+  ],
+  [
+   "ἀληθινός",
+   "alethinos",
+   "przymiotnik",
+   "prawdziwy: autentyczny, archetypiczny (por. ἀληθής)"
+  ],
+  [
+   "ἀληθής",
+   "alethes",
+   "przymiotnik",
+   "prawdomówny, zgodny z prawdą (kontrast do ἀληθινός)"
+  ],
+  [
+   "φωτίζω",
+   "photizo",
+   "czasownik",
+   "oświecać"
+  ],
+  [
+   "κόσμος",
+   "kosmos",
+   "rzeczownik",
+   "świat: miejsce / stworzenie / ludzkość odwrócona od Boga"
+  ],
+  [
+   "γινώσκω",
+   "ginosko",
+   "czasownik",
+   "poznawać (relacyjnie, por. hebr. jada)"
+  ],
+  [
+   "ἴδιος",
+   "idios",
+   "przymiotnik",
+   "własny (τὰ ἴδια — swoja własność; οἱ ἴδιοι — swoi)"
+  ],
+  [
+   "παραλαμβάνω",
+   "paralambano",
+   "czasownik",
+   "przyjmować do siebie (mocniejsze niż λαμβάνω)"
+  ],
+  [
+   "λαμβάνω",
+   "lambano",
+   "czasownik",
+   "brać, przyjmować"
+  ],
+  [
+   "ἐξουσία",
+   "exousia",
+   "rzeczownik",
+   "moc, władza, uprawnienie (nie δύναμις)"
+  ],
+  [
+   "δύναμις",
+   "dynamis",
+   "rzeczownik",
+   "siła, moc fizyczna (kontrast do ἐξουσία)"
+  ],
+  [
+   "τέκνον",
+   "teknon",
+   "rzeczownik",
+   "dziecko (od τίκτω — rodzić; kontrast do υἱός)"
+  ],
+  [
+   "υἱός",
+   "hyios",
+   "rzeczownik",
+   "syn (u Jana zarezerwowane dla Jezusa)"
+  ],
+  [
+   "πιστεύω",
+   "pisteuo",
+   "czasownik",
+   "wierzyć (πιστεύω εἰς — wiara jako ruch ku Osobie)"
+  ],
+  [
+   "ὄνομα",
+   "onoma",
+   "rzeczownik",
+   "imię (hebraizm: imię = osoba)"
+  ],
+  [
+   "σάρξ",
+   "sarx",
+   "rzeczownik",
+   "ciało-mięso, ciało w słabości i śmiertelności"
+  ],
+  [
+   "σῶμα",
+   "soma",
+   "rzeczownik",
+   "ciało jako organizm (kontrast do σάρξ)"
+  ],
+  [
+   "σκηνόω",
+   "skenoo",
+   "czasownik",
+   "rozbić namiot, zamieszkać (od σκηνή — namiot)"
+  ],
+  [
+   "θεάομαι",
+   "theaomai",
+   "czasownik",
+   "kontemplować, oglądać uważnie (stąd θέατρον)"
+  ],
+  [
+   "δόξα",
+   "doxa",
+   "rzeczownik",
+   "chwała (LXX: ciężar kawod — manifestacja obecności Boga)"
+  ],
+  [
+   "μονογενής",
+   "monogenes",
+   "przymiotnik",
+   "jednorodzony, jedyny w swoim rodzaju"
+  ],
+  [
+   "χάρις",
+   "charis",
+   "rzeczownik",
+   "łaska, dar darmowy, życzliwość"
+  ],
+  [
+   "ἀλήθεια",
+   "aletheia",
+   "rzeczownik",
+   "prawda (LXX: emet — niezawodność, wierność)"
+  ],
+  [
+   "σοφία",
+   "sophia",
+   "rzeczownik",
+   "mądrość (tło sapiencjalne Logosu)"
+  ]
+ ],
+ "semitic": [
+  [
+   "דָּבָר",
+   "dawar",
+   "hbr",
+   "słowo, rzecz, sprawa, wydarzenie"
+  ],
+  [
+   "מֵימְרָא",
+   "Memra",
+   "aram",
+   "Słowo (Pana) — targumy: Boża obecność działająca"
+  ],
+  [
+   "חָכְמָה",
+   "chochma",
+   "hbr",
+   "Mądrość (uosobiona: Prz 8, Syr 24, Mdr 7)"
+  ],
+  [
+   "שְׁכִינָה",
+   "Szechina",
+   "hbr",
+   "zamieszkiwanie, obecność Boża"
+  ],
+  [
+   "מִשְׁכָּן",
+   "miszkan",
+   "hbr",
+   "przybytek, namiot spotkania"
+  ],
+  [
+   "שׁכן",
+   "szakan",
+   "hbr",
+   "rdzeń: mieszkać, przebywać (por. σκηνόω)"
+  ],
+  [
+   "כָּבוֹד",
+   "kawod",
+   "hbr",
+   "chwała, dosł. ciężar, waga"
+  ],
+  [
+   "חֶסֶד",
+   "chesed",
+   "hbr",
+   "miłość wierna przymierzu, miłosierdzie"
+  ],
+  [
+   "אֱמֶת",
+   "emet",
+   "hbr",
+   "prawda jako niezawodność, wierność"
+  ],
+  [
+   "יָדַע",
+   "jada",
+   "hbr",
+   "poznać, także: wejść w zażyłość"
+  ],
+  [
+   "בָּשָׂר",
+   "basar",
+   "hbr",
+   "ciało"
+  ],
+  [
+   "שֵׁם",
+   "szem",
+   "hbr",
+   "imię, obecność"
+  ],
+  [
+   "בִּרְכַּת הַמִּינִים",
+   "birkat ha-minim",
+   "hbr",
+   "„błogosławieństwo\" przeciw heretykom (koniec I w.)"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "λόγος",
+   "dawar",
+   "dawar = słowo i czyn zarazem; tło Rdz 1, Ps 33,6, Iz 55"
+  ],
+  [
+   "λόγος",
+   "Memra",
+   "targumiczne Słowo Pana — najbliższe tło judaizmu synagogalnego"
+  ],
+  [
+   "σοφία",
+   "chochma",
+   "Mądrość uosobiona — literacki szkielet Prologu"
+  ],
+  [
+   "δόξα",
+   "kawod",
+   "LXX oddaje kawod przez doksa — chwała jako obecność"
+  ],
+  [
+   "χάρις",
+   "chesed",
+   "Wj 34,6: raw chesed → plēres charitos"
+  ],
+  [
+   "ἀλήθεια",
+   "emet",
+   "Wj 34,6: we'emet → kai alētheias"
+  ],
+  [
+   "σκηνόω",
+   "szakan",
+   "spółgłoski σ-κ-ν brzmią jak rdzeń szakan"
+  ],
+  [
+   "σκηνόω",
+   "miszkan",
+   "LXX: skēnē za miszkan — namiot spotkania"
+  ],
+  [
+   "σκηνόω",
+   "Szechina",
+   "ciało Jezusa miejscem Szechiny"
+  ],
+  [
+   "γινώσκω",
+   "jada",
+   "poznanie relacyjne, osobowe"
+  ],
+  [
+   "σάρξ",
+   "basar",
+   "ciało w kruchości i śmiertelności"
+  ],
+  [
+   "ὄνομα",
+   "szem",
+   "imię = sama osoba"
+  ]
+ ],
+ "occurrences": [
+  [
+   "λόγος",
+   1,
+   "ὁ λόγος"
+  ],
+  [
+   "λόγος",
+   14,
+   "ὁ λόγος"
+  ],
+  [
+   "ἀρχή",
+   1,
+   "ἐν ἀρχῇ"
+  ],
+  [
+   "ἀρχή",
+   2,
+   "ἐν ἀρχῇ"
+  ],
+  [
+   "εἰμί",
+   1,
+   "ἦν"
+  ],
+  [
+   "εἰμί",
+   4,
+   "ἦν"
+  ],
+  [
+   "εἰμί",
+   9,
+   "ἦν"
+  ],
+  [
+   "εἰμί",
+   10,
+   "ἦν"
+  ],
+  [
+   "γίνομαι",
+   3,
+   "ἐγένετο"
+  ],
+  [
+   "γίνομαι",
+   6,
+   "ἐγένετο"
+  ],
+  [
+   "γίνομαι",
+   10,
+   "ἐγένετο"
+  ],
+  [
+   "γίνομαι",
+   12,
+   "γενέσθαι"
+  ],
+  [
+   "γίνομαι",
+   14,
+   "ἐγένετο"
+  ],
+  [
+   "θεός",
+   1,
+   "θεός"
+  ],
+  [
+   "θεός",
+   2,
+   "θεόν"
+  ],
+  [
+   "θεός",
+   6,
+   "θεοῦ"
+  ],
+  [
+   "θεός",
+   12,
+   "θεοῦ"
+  ],
+  [
+   "θεός",
+   13,
+   "θεοῦ"
+  ],
+  [
+   "ζωή",
+   4,
+   "ζωή"
+  ],
+  [
+   "φῶς",
+   4,
+   "φῶς"
+  ],
+  [
+   "φῶς",
+   5,
+   "φῶς"
+  ],
+  [
+   "φῶς",
+   7,
+   "φωτός"
+  ],
+  [
+   "φῶς",
+   8,
+   "φῶς"
+  ],
+  [
+   "φῶς",
+   9,
+   "φῶς"
+  ],
+  [
+   "σκοτία",
+   5,
+   "σκοτίᾳ"
+  ],
+  [
+   "φαίνω",
+   5,
+   "φαίνει"
+  ],
+  [
+   "καταλαμβάνω",
+   5,
+   "κατέλαβεν"
+  ],
+  [
+   "μαρτυρία",
+   7,
+   "μαρτυρίαν"
+  ],
+  [
+   "μαρτυρέω",
+   7,
+   "μαρτυρήσῃ"
+  ],
+  [
+   "μαρτυρέω",
+   8,
+   "μαρτυρήσῃ"
+  ],
+  [
+   "ἀποστέλλω",
+   6,
+   "ἀπεσταλμένος"
+  ],
+  [
+   "ἀληθινός",
+   9,
+   "ἀληθινόν"
+  ],
+  [
+   "φωτίζω",
+   9,
+   "φωτίζει"
+  ],
+  [
+   "κόσμος",
+   9,
+   "κόσμον"
+  ],
+  [
+   "κόσμος",
+   10,
+   "κόσμος"
+  ],
+  [
+   "γινώσκω",
+   10,
+   "ἔγνω"
+  ],
+  [
+   "ἴδιος",
+   11,
+   "τὰ ἴδια / οἱ ἴδιοι"
+  ],
+  [
+   "παραλαμβάνω",
+   11,
+   "παρέλαβον"
+  ],
+  [
+   "λαμβάνω",
+   12,
+   "ἔλαβον"
+  ],
+  [
+   "ἐξουσία",
+   12,
+   "ἐξουσίαν"
+  ],
+  [
+   "τέκνον",
+   12,
+   "τέκνα"
+  ],
+  [
+   "πιστεύω",
+   12,
+   "πιστεύουσιν"
+  ],
+  [
+   "ὄνομα",
+   6,
+   "ὄνομα"
+  ],
+  [
+   "ὄνομα",
+   12,
+   "ὄνομα"
+  ],
+  [
+   "σάρξ",
+   13,
+   "σαρκός"
+  ],
+  [
+   "σάρξ",
+   14,
+   "σάρξ"
+  ],
+  [
+   "σκηνόω",
+   14,
+   "ἐσκήνωσεν"
+  ],
+  [
+   "θεάομαι",
+   14,
+   "ἐθεασάμεθα"
+  ],
+  [
+   "δόξα",
+   14,
+   "δόξαν"
+  ],
+  [
+   "μονογενής",
+   14,
+   "μονογενοῦς"
+  ],
+  [
+   "χάρις",
+   14,
+   "χάριτος"
+  ],
+  [
+   "ἀλήθεια",
+   14,
+   "ἀληθείας"
+  ]
+ ],
+ "works": [
+  [
+   "św. Tomasz z Akwinu",
+   "Super Evangelium S. Ioannis lectura",
+   "Wykład Ewangelii św. Jana",
+   "XIII",
+   "scholastyka"
+  ],
+  [
+   "św. Tomasz z Akwinu",
+   "Summa Theologiae",
+   "Suma teologii",
+   "XIII",
+   "scholastyka"
+  ],
+  [
+   "św. Tomasz z Akwinu",
+   "Summa contra Gentiles",
+   "Suma przeciw poganom",
+   "XIII",
+   "scholastyka"
+  ],
+  [
+   "Orygenes",
+   "Komentarz do Ewangelii Jana",
+   null,
+   "III",
+   "patrystyka"
+  ],
+  [
+   "św. Augustyn",
+   "In Iohannis Evangelium tractatus",
+   "Homilie na Ewangelię św. Jana",
+   "IV/V",
+   "patrystyka"
+  ],
+  [
+   "św. Jan Chryzostom",
+   "Homilie na Ewangelię Jana",
+   null,
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Justyn Męczennik",
+   null,
+   null,
+   "II",
+   "patrystyka"
+  ],
+  [
+   "św. Ireneusz z Lyonu",
+   null,
+   null,
+   "II",
+   "patrystyka"
+  ],
+  [
+   "św. Atanazy",
+   null,
+   null,
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Jan Damasceński",
+   null,
+   null,
+   "VIII",
+   "patrystyka"
+  ],
+  [
+   "Filon z Aleksandrii",
+   null,
+   null,
+   "I",
+   "judaizm"
+  ],
+  [
+   "Sobór Watykański II",
+   "Dei Verbum",
+   "Konstytucja o Objawieniu Bożym",
+   "XX",
+   "magisterium"
+  ],
+  [
+   "R. E. Brown",
+   "The Gospel According to John (Anchor Bible)",
+   null,
+   "XX",
+   "wspolczesna"
+  ],
+  [
+   "C. K. Barrett",
+   "The Gospel According to St John",
+   null,
+   "XX",
+   "wspolczesna"
+  ],
+  [
+   "R. Schnackenburg",
+   "Das Johannesevangelium",
+   null,
+   "XX",
+   "wspolczesna"
+  ],
+  [
+   "S. Mędala",
+   "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)",
+   null,
+   "XXI",
+   "wspolczesna"
+  ],
+  [
+   "L. Stachowiak",
+   "Ewangelia według św. Jana (KUL)",
+   null,
+   "XX",
+   "wspolczesna"
+  ],
+  [
+   "św. Ireneusz z Lyonu",
+   "Adversus haereses",
+   "Przeciw herezjom",
+   "II",
+   "patrystyka"
+  ],
+  [
+   "Tertulian",
+   "Adversus Praxean",
+   "Przeciw Prakseaszowi",
+   "III",
+   "patrystyka"
+  ],
+  [
+   "św. Hilary z Poitiers",
+   "De Trinitate",
+   "O Trójcy Świętej",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Atanazy",
+   "De incarnatione Verbi",
+   "O wcieleniu Słowa",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Grzegorz z Nazjanzu",
+   "Epistula 101 (do Kledoniusza)",
+   "List 101",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Cyryl Aleksandryjski",
+   "Commentarii in Ioannem",
+   "Komentarz do Ewangelii Jana",
+   "V",
+   "patrystyka"
+  ],
+  [
+   "św. Justyn Męczennik",
+   "Apologie",
+   null,
+   "II",
+   "patrystyka"
+  ],
+  [
+   "św. Augustyn",
+   "Confessiones",
+   "Wyznania",
+   "IV/V",
+   "patrystyka"
+  ],
+  [
+   "św. Tomasz z Akwinu",
+   "Catena aurea",
+   "Złoty łańcuch",
+   "XIII",
+   "scholastyka"
+  ]
+ ],
+ "themes": [
+  [
+   "ἦν / ἐγένετο — trwanie a stawanie się",
+   "Oś Prologu: to, co jest, wobec tego, co powstaje; tomistycznie: esse per essentiam vs per participationem."
+  ],
+  [
+   "światłość i ciemność",
+   "Dualizm etyczny (nie ontologiczny): ciemność jako nie-przyjęcie światła, bez własnej substancji."
+  ],
+  [
+   "świadectwo (μαρτυρία)",
+   "Język procesowy czwartej Ewangelii — Ewangelia jako wielki proces o tożsamość Jezusa."
+  ],
+  [
+   "Szechina — zamieszkanie Boga",
+   "Od miszkanu i obłoku chwały do ciała Jezusa jako nowego Przybytku."
+  ],
+  [
+   "narodzenie z Boga",
+   "Centrum chiazmu (w. 12): cel całego ruchu Słowa ku światu; łaska jako partycypacja w naturze Bożej."
+  ],
+  [
+   "chiazm Prologu",
+   "Budowa koncentryczna z centrum w w. 12; hipoteza wcześniejszego hymnu z prozatorskimi wstawkami."
+  ],
+  [
+   "Logos a Mądrość",
+   "Prolog na szkielecie tekstów sapiencjalnych — z korektą: nie księga, lecz Osoba."
+  ],
+  [
+   "anty-doketyzm",
+   "σάρξ jako słowo najostrzejsze z możliwych — realizm ciała przeciw gnozie i spirytualizmom."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "book": "J",
+    "cs": 1,
+    "vs": 1,
+    "ce": 1,
+    "ve": 14,
+    "title": "Prolog",
+    "motto": "In principio erat Verbum (Na początku było Słowo)",
+    "status": "ukonczona",
+    "position": 1,
+    "source_url": "https://deepbible.online/?pericopes=J+1,1-14%7CNA28;J+1,1-14%7CPAU;Rdz+1,1-5%7CPAU;Rdz+22,1-19%7CPAU;Wj+25,8%7CPAU;Wj+33,18-23%7CPAU;Wj+34,6%7CPAU;Wj+40,34-35%7CPAU;Ps+33,6%7CPAU;Prz+8,22-31%7CPAU;Mdr+7,25-26%7CPAU;Syr+24,1-23%7CPAU;Iz+55,10-11%7CPAU"
+   },
+   "intro": "Poniższy przekład jest przekładem roboczym, wykonanym bezpośrednio z tekstu greckiego na potrzeby analizy — celowo dosłownym, aby uwidocznić niuanse oryginału.",
+   "blocks": [
+    {
+     "label": "w. 1",
+     "cs": 1,
+     "vs": 1,
+     "ce": 1,
+     "ve": 1,
+     "greek": "Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.",
+     "transl": "Na początku było Słowo, a Słowo było u Boga, i Bogiem było Słowo.",
+     "units": [
+      [
+       "ἦν",
+       "było (imperfectum od εἰμί — być)",
+       "Trzy zdania, trzy stopnie objawienia — a każde z nich zbudowane wokół czasownika ἦν (było), imperfectum od εἰμί (być). To rozstrzygnięcie gramatyczne o ogromnej doniosłości teologicznej: imperfectum wyraża trwanie ciągłe, bez punktu początkowego. Jan nie mówi, że Słowo stało się na początku (wtedy użyłby aorystu ἐγένετο — stało się, zaistniało, jak w w. 3 o stworzeniu), lecz że było — trwało już, gdy „początek\" się zaczynał. Kontrast ἦν (było) / ἐγένετο (stało się) jest osią całego Prologu: to, co jest, wobec tego, co powstaje. Na tym jednym imperfectum załamie się później cała argumentacja Ariusza, którego hasło brzmiało ἦν ποτε ὅτε οὐκ ἦν (był kiedyś czas, gdy Go nie było) — Jan mówi dokładnie odwrotnie."
+      ],
+      [
+       "Ἐν ἀρχῇ",
+       "na początku",
+       "Bez rodzajnika, dokładnie jak w Septuagincie w Rdz 1,1: ἐν ἀρχῇ ἐποίησεν ὁ θεός (na początku uczynił Bóg). Aluzja jest zamierzona i dla każdego czytelnika znającego grecką Biblię natychmiastowa: Jan pisze nową Księgę Rodzaju. Ale u Jana ἀρχή (początek) sięga głębiej niż w Rdz — nie jest to początek stwarzania, lecz to, co „przed\" wszelkim stwarzaniem, absolutna anterioryzacja Słowa względem czasu."
+      ],
+      [
+       "πρὸς τὸν θεόν",
+       "u Boga, dosł. „ku Bogu\"",
+       "Przyimek πρός (ku, w stronę) z biernikiem wyraża zwykle ruch lub dynamiczne skierowanie ku komuś. Jan mógł napisać παρὰ τῷ θεῷ (przy Bogu, obok Boga — tak zresztą pisze w J 17,5) albo ἐν τῷ θεῷ (w Bogu). Wybrał πρός: Słowo jest zwrócone ku Bogu, w wiecznej relacji, twarzą w twarz. Nie statyczne współistnienie, lecz odwieczna komunia osobowa. To najstarsze w Nowym Testamencie zdanie, które gramatyką wyraża to, co teologia nazwie później relacjami trynitarnymi."
+      ],
+      [
+       "καὶ θεὸς ἦν ὁ λόγος",
+       "i Bogiem było Słowo",
+       "Najbardziej dyskutowane zdanie Prologu. Zwróćmy uwagę na trzy rzeczy. Po pierwsze, szyk: orzecznik θεός (Bóg) stoi emfatycznie na pierwszym miejscu, przed czasownikiem — akcent pada na *boskość* Słowa. Po drugie, θεός jest bez rodzajnika, podczas gdy podmiot ὁ λόγος (Słowo) ma rodzajnik. Zgodnie z tzw. regułą Colwella (orzecznik określony, stojący przed czasownikiem, zwykle traci rodzajnik) brak rodzajnika nie osłabia znaczenia — wskazuje natomiast, że θεός pełni tu funkcję jakościową: Słowo jest wszystkim tym, czym jest Bóg, ma boską naturę. Po trzecie — i to kluczowe — Jan *nie* napisał ὁ λόγος ἦν ὁ θεός (Słowo było tym-oto-Bogiem), co utożsamiłoby Osobę Słowa z Osobą Ojca (błąd, który później nazwiemy modalizmem), ani ὁ λόγος ἦν θεῖος (Słowo było boskie/bosko-podobne), co uczyniłoby ze Słowa jedynie istotę „boskawą\". Grecka składnia tego pół wersetu jest cudem precyzji: pełna boskość natury, realna odrębność osoby. Przekład strażnicy „Słowo było bogiem\" (z małej litery) gwałci zarówno regułę Colwella, jak i kontekst całej Ewangelii (por. J 20,28, gdzie Tomasz mówi do Jezusa: ὁ κύριός μου καὶ ὁ θεός μου — Pan mój i Bóg mój, z rodzajnikami!)."
+      ],
+      [
+       "ὁ λόγος",
+       "Słowo",
+       "O zapleczu tego pojęcia szerzej w części II. Filologicznie: λόγος znaczy zarówno „słowo\", jak „rozum\", „racja\", „zasada\", „rachunek\", „mowa\". Łacińskie *Verbum* (Słowo) i *Ratio* (Rozum) obie strony tego znaczenia rozdzielają; greka trzyma je razem — i Jan z tej dwuznaczności korzysta."
+      ]
+     ]
+    },
+    {
+     "label": "w. 2",
+     "cs": 1,
+     "vs": 2,
+     "ce": 1,
+     "ve": 2,
+     "greek": "οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν.",
+     "transl": "Ono było na początku u Boga.",
+     "units": [
+      [
+       "οὗτος",
+       "ten, ten właśnie",
+       "Pozorna redundancja — Jan powtarza w. 1, ale z zaimkiem οὗτος (ten, ten właśnie). Funkcja jest podwójna: retoryczna (styl semicki lubi paralelizm i inkluzje) i teologiczna — Jan zbiera trzy twierdzenia w. 1 w jedno i zamyka drogę błędnej interpretacji, jakoby Słowo „stało się\" Bogiem w pewnym momencie. Ten, który jest Bogiem, jest odwiecznie *u* Boga: jedność natury nie znosi odrębności osoby, odrębność nie rozbija jedności."
+      ]
+     ]
+    },
+    {
+     "label": "w. 3",
+     "cs": 1,
+     "vs": 3,
+     "ce": 1,
+     "ve": 3,
+     "greek": "πάντα δι᾿ αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν. ὃ γέγονεν",
+     "transl": "Wszystko przez Nie się stało, a bez Niego nic się nie stało, [z tego] co się stało.",
+     "units": [
+      [
+       "πάντα δι᾿ αὐτοῦ ἐγένετο",
+       "wszystko przez Nie się stało",
+       "Pierwsze ἐγένετο (stało się) — aoryst od γίνομαι (stawać się, powstawać). Wchodzimy w porządek stworzenia. Πάντα (wszystko) bez rodzajnika — nie ὁ κόσμος (świat) jako całość uporządkowana, lecz dystrybutywnie: każda rzecz z osobna. Δι᾿ αὐτοῦ (przez Nie) — przyimek διά (przez, za pośrednictwem) z dopełniaczem wyraża pośrednictwo sprawcze: Słowo jest tym, *przez* którego Ojciec stwarza (por. 1 Kor 8,6: δι᾿ οὗ τὰ πάντα — przez którego wszystko; Hbr 1,2; Kol 1,16). Negatywna paralela χωρὶς αὐτοῦ οὐδὲ ἕν (bez Niego ani jedno) jest emfatyczna: οὐδὲ ἕν (ani jedna rzecz) mocniejsze niż zwykłe οὐδέν (nic) — żaden byt, choćby najmniejszy, nie wymyka się przyczynowości Słowa. To wyklucza wszelki dualizm: nie ma drugiej zasady stwórczej, nie ma materii samoistnej ani złego demiurga (przeciw proto-gnostykom)."
+      ],
+      [
+       "ὃ γέγονεν",
+       "co się stało",
+       "Problem interpunkcyjny ὃ γέγονεν (co się stało): NA28, za najstarszymi świadkami i interpunkcją ojców przednicejskich, dopuszcza lekturę łączącą te słowa z w. 4: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν (to, co się stało, w Nim było życiem) — tzn. stworzenie, zanim zaistniało w sobie, istniało w Słowie jako życie, jako odwieczna idea. Po kryzysie ariańskim ojcowie zaczęli łączyć ὃ γέγονεν z w. 3 (jak w przekładach współczesnych), by arianie nie czytali „Duch też się stał\". Obie lektury są prawowierne; pierwsza, starsza, jest głęboko zbieżna z nauką o *rationes aeternae* (racjach odwiecznych) — rzeczy istnieją w Bogu wcześniej i doskonalej niż w sobie samych."
+      ]
+     ]
+    },
+    {
+     "label": "w. 4",
+     "cs": 1,
+     "vs": 4,
+     "ce": 1,
+     "ve": 4,
+     "greek": "ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων·",
+     "transl": "W Nim było życie, a życie było światłością ludzi.",
+     "units": [
+      [
+       null,
+       null,
+       "Powrót imperfectum ἦν (było) — życie w Słowie nie „stało się\", lecz *jest* odwiecznie. Ζωή (życie) u Jana to nigdy zwykła biologiczna żywotność (na to greka ma słowo βίος — życie doczesne, sposób życia), lecz życie Boże, które w dalszej Ewangelii stanie się ζωὴ αἰώνιος (życie wieczne). Φῶς (światłość) — pierwsze stworzenie z Rdz 1,3 — tutaj jest niestworzone: życie Słowa *jest* światłem dla ludzi, tzn. źródłem poznania i sensu. Τῶν ἀνθρώπων (ludzi) — nie „Żydów\", nie „wierzących\": uniwersalizm od pierwszych wersów."
+      ]
+     ]
+    },
+    {
+     "label": "w. 5",
+     "cs": 1,
+     "vs": 5,
+     "ce": 1,
+     "ve": 5,
+     "greek": "καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.",
+     "transl": "A światłość w ciemności świeci i ciemność jej nie ogarnęła.",
+     "units": [
+      [
+       "φαίνει",
+       "świeci (praesens)",
+       "Nagła zmiana czasu: φαίνει (świeci) — praesens (czas teraźniejszy). Pośród opowieści o odwiecznej przeszłości Jan mówi: światłość świeci *teraz*, w chwili gdy czytasz. Prolog nie jest kroniką, jest liturgią. Σκοτία (ciemność) — u Jana zawsze nacechowana moralnie: sfera odrzucenia Boga, nie zwykły brak światła."
+      ],
+      [
+       "οὐ κατέλαβεν",
+       "nie ogarnęła",
+       "Czasownik καταλαμβάνω (chwytać, pojmować, ogarniać, dopadać) jest celowo wieloznaczny: (1) „nie pojęła\" — intelektualnie; (2) „nie pochwyciła/nie zwyciężyła\" — w sensie zmagania (tak w J 12,35: μὴ σκοτία ὑμᾶς καταλάβῃ — aby ciemność was nie ogarnęła); (3) „nie przyjęła\". Aoryst wskazuje na konkretne wydarzenie — z perspektywy całej Ewangelii: na Krzyż, gdzie ciemność uczyniła wszystko, co mogła, i przegrała. Wulgata oddała to jako *tenebrae eam non comprehenderunt* (ciemności jej nie ogarnęły), zachowując dwuznaczność. Najlepszy przekład powinien ją zachować: ciemność światłości ani nie pojęła, ani nie pokonała."
+      ]
+     ]
+    },
+    {
+     "label": "w. 6–8",
+     "cs": 1,
+     "vs": 6,
+     "ce": 1,
+     "ve": 8,
+     "greek": "Ἐγένετο ἄνθρωπος, ἀπεσταλμένος παρὰ θεοῦ, ὄνομα αὐτῷ Ἰωάννης· οὗτος ἦλθεν εἰς μαρτυρίαν ἵνα μαρτυρήσῃ περὶ τοῦ φωτός, ἵνα πάντες πιστεύσωσιν δι᾿ αὐτοῦ. οὐκ ἦν ἐκεῖνος τὸ φῶς, ἀλλ᾿ ἵνα μαρτυρήσῃ περὶ τοῦ φωτός.",
+     "transl": "Pojawił się człowiek posłany od Boga — imię jego Jan. Przyszedł on na świadectwo, aby zaświadczyć o światłości, aby wszyscy przez niego uwierzyli. Nie był on światłością, ale [przyszedł], aby zaświadczyć o światłości.",
+     "units": [
+      [
+       null,
+       null,
+       "O Janie Chrzcicielu: ἐγένετο ἄνθρωπος (pojawił się / stał się człowiek) — ten sam aoryst, którym opisano stworzenie. Chrzciciel należy do porządku rzeczy, które się stały; Słowo — do porządku tego, co jest. Gramatyka sama ustawia hierarchię. Ἀπεσταλμένος (posłany) — participium perfecti od ἀποστέλλω (posyłać; stąd ἀπόστολος — apostoł, posłany): Jan ma mandat Boży, ale mandat świadka. Rzeczownik μαρτυρία (świadectwo) i czasownik μαρτυρέω (świadczyć) pojawiają się tu trzykrotnie — to jedno z wielkich słów-kluczy czwartej Ewangelii (użyte w niej łącznie kilkadziesiąt razy), zaczerpnięte z języka procesowego: cała Ewangelia Jana jest skonstruowana jak wielki proces sądowy o tożsamość Jezusa. Emfatyczne οὐκ ἦν ἐκεῖνος τὸ φῶς (nie był on ową światłością) sugeruje polemikę z kręgami, które za wysoko ceniły Chrzciciela (por. Dz 19,1–7: uczniowie w Efezie znający tylko chrzest Janowy — a tradycja wiąże czwartą Ewangelię właśnie z Efezem)."
+      ]
+     ]
+    },
+    {
+     "label": "w. 9",
+     "cs": 1,
+     "vs": 9,
+     "ce": 1,
+     "ve": 9,
+     "greek": "Ἦν τὸ φῶς τὸ ἀληθινόν, ὃ φωτίζει πάντα ἄνθρωπον, ἐρχόμενον εἰς τὸν κόσμον.",
+     "transl": "Była światłość prawdziwa, która oświeca każdego człowieka, przychodząc na świat.",
+     "units": [
+      [
+       "ἀληθινός",
+       "prawdziwy: autentyczny, nie-kopiowany",
+       "Ἀληθινός (prawdziwy w sensie: autentyczny, oryginalny, nie-kopiowany) — greka rozróżnia ἀληθής (prawdomówny, zgodny z prawdą) i ἀληθινός (prawdziwy jako archetyp wobec cieni i odbić). Światłość Słowa jest tym, czego wszystkie inne „światła\" — Tora, prorocy, filozofia, sam Chrzciciel — są tylko odblaskiem. Konstrukcja ἐρχόμενον εἰς τὸν κόσμον (przychodząc na świat) może gramatycznie określać „każdego człowieka\" (rabiniczny idiom o rodzeniu się: „wszyscy przychodzący na świat\") albo światłość — NA28 i większość egzegetów łączy ją ze światłością: peryfrastyczne ἦν ... ἐρχόμενον (była przychodząca) opisuje wcielenie jako proces, który w. 14 nazwie po imieniu. Φωτίζει πάντα ἄνθρωπον (oświeca każdego człowieka) — fundament nauki o powszechnym oświeceniu: żaden człowiek nie jest całkiem pozbawiony światła Logosu; każde poznanie prawdy, także u pogan, jest uczestnictwem w Nim."
+      ]
+     ]
+    },
+    {
+     "label": "w. 10",
+     "cs": 1,
+     "vs": 10,
+     "ce": 1,
+     "ve": 10,
+     "greek": "ἐν τῷ κόσμῳ ἦν, καὶ ὁ κόσμος δι᾿ αὐτοῦ ἐγένετο, καὶ ὁ κόσμος αὐτὸν οὐκ ἔγνω.",
+     "transl": "Na świecie było, i świat przez Nie się stał, a świat Go nie poznał.",
+     "units": [
+      [
+       "κόσμος",
+       "świat (trzykrotnie, w trzech znaczeniach)",
+       "Trzykrotne κόσμος (świat) w trzech znaczeniach, które Jan rozwinie w całej Ewangelii: świat jako miejsce (ἐν τῷ κόσμῳ — na świecie), świat jako stworzenie (δι᾿ αὐτοῦ ἐγένετο — przez Nie się stał), świat jako ludzkość odwrócona od Boga (αὐτὸν οὐκ ἔγνω — Go nie poznała). Οὐκ ἔγνω (nie poznał) — aoryst od γινώσκω (poznawać), które w grece biblijnej, pod wpływem hebrajskiego יָדַע (jada — poznać, także: wejść w zażyłość), oznacza poznanie relacyjne, osobowe, nie akademickie. Tragedia w trzech słowach: dzieło nie rozpoznało Twórcy."
+      ]
+     ]
+    },
+    {
+     "label": "w. 11",
+     "cs": 1,
+     "vs": 11,
+     "ce": 1,
+     "ve": 11,
+     "greek": "εἰς τὰ ἴδια ἦλθεν, καὶ οἱ ἴδιοι αὐτὸν οὐ παρέλαβον.",
+     "transl": "Do swojej własności przyszło, a swoi Go nie przyjęli.",
+     "units": [
+      [
+       "τὰ ἴδια / οἱ ἴδιοι",
+       "swoja własność / swoi",
+       "Gra rodzajów gramatycznych: τὰ ἴδια (neutrum: to, co własne — swoja własność, swój dom; tego samego zwrotu użyje J 19,27 o Janie biorącym Maryję εἰς τὰ ἴδια — do siebie) i οἱ ἴδιοι (masculinum: swoi — właśni ludzie). Słowo przyszło do swojego domu — Izraela, ziemi obiecanej, świątyni — a domownicy Go nie przyjęli. Παρέλαβον (przyjęli) od παραλαμβάνω (przyjmować do siebie, brać ze sobą) — mocniejsze niż samo λαμβάνω (brać): przyjąć jak gościa, jak swojego. Werset streszcza w jednym zdaniu całą historię odrzucenia opisaną w rozdziałach 1–12 czwartej Ewangelii."
+      ]
+     ]
+    },
+    {
+     "label": "w. 12–13",
+     "cs": 1,
+     "vs": 12,
+     "ce": 1,
+     "ve": 13,
+     "greek": "ὅσοι δὲ ἔλαβον αὐτόν, ἔδωκεν αὐτοῖς ἐξουσίαν τέκνα θεοῦ γενέσθαι, τοῖς πιστεύουσιν εἰς τὸ ὄνομα αὐτοῦ, οἳ οὐκ ἐξ αἱμάτων οὐδὲ ἐκ θελήματος σαρκὸς οὐδὲ ἐκ θελήματος ἀνδρὸς ἀλλ᾿ ἐκ θεοῦ ἐγεννήθησαν.",
+     "transl": "Tym zaś wszystkim, którzy Je przyjęli, dało moc, aby się stali dziećmi Bożymi — tym, którzy wierzą w imię Jego, którzy nie z krwi ani z woli ciała, ani z woli męża, ale z Boga zostali zrodzeni.",
+     "units": [
+      [
+       "ἐξουσία",
+       "moc, władza, uprawnienie",
+       "Ἐξουσία (moc, władza, uprawnienie) — nie δύναμις (siła, moc fizyczna): stać się dzieckiem Bożym to nie kwestia energii, lecz nadanego prawa, statusu. Τέκνα θεοῦ (dzieci Boże) — Jan konsekwentnie rezerwuje υἱός (syn) dla Jezusa; wierzący są τέκνα (dzieci) — od τίκτω (rodzić): dziecięctwo przez zrodzenie, nie przez adopcyjny dekret (to subtelnie inna perspektywa niż Pawłowa υἱοθεσία — usynowienie, adopcja, Rz 8,15). Γενέσθαι (stać się) — ten sam czasownik stawania się: oto jedyne miejsce, gdzie ἐγένετο (stało się) jest dobrą nowiną o człowieku, bo jest to stawanie się z Boga."
+      ],
+      [
+       "πιστεύουσιν εἰς",
+       "wierzącym w, dosł. „wierzącym ku\"",
+       "Πιστεύουσιν εἰς (wierzącym w, dosł. „wierzącym *ku*\") — konstrukcja πιστεύω εἰς z biernikiem, praktycznie nieobecna w grece pozabiblijnej, to Janowy znak firmowy: wiara nie jako uznanie twierdzeń (temu służy πιστεύω z celownikiem — wierzyć komuś), lecz jako ruch całej osoby ku Osobie. Participium praesentis (imiesłów czasu teraźniejszego): wierzenie trwałe, nie jednorazowy akt. Εἰς τὸ ὄνομα αὐτοῦ (w imię Jego) — hebraizm: imię to sama osoba (por. שֵׁם, szem — imię, obecność)."
+      ],
+      [
+       null,
+       null,
+       "Potrójna negacja w w. 13: οὐκ ἐξ αἱμάτων (nie z krwi — liczba mnoga! dosł. „ze krwi\", wedle starożytnej fizjologii poczęcie łączy krew obojga rodziców, a być może aluzja też do krwi ofiar i genealogii), οὐδὲ ἐκ θελήματος σαρκός (ani z woli ciała — σάρξ, ciało, tu: natura ludzka z jej popędem), οὐδὲ ἐκ θελήματος ἀνδρός (ani z woli męża — ἀνήρ, mężczyzna, mąż: inicjatywa ojcowska, decyzja o potomstwie). Nowe narodzenie nie ma nic z mechanizmów naturalnego rodzenia — wyprzedza to nocną rozmowę z Nikodemem o narodzeniu ἄνωθεν (z góry / na nowo, J 3,3, kolejna celowa dwuznaczność Janowa). Wariant tekstualny: garść świadków łacińskich i cytaty niektórych ojców (m.in. u Ireneusza i Tertuliana) czytają liczbę pojedynczą ὃς ... ἐγεννήθη (który ... został zrodzony) — odnosząc werset do dziewiczego poczęcia Chrystusa. NA28 słusznie utrzymuje liczbę mnogą (całość tradycji greckiej), ale stara lekcja świadczy, że już w II wieku widziano tu analogię: narodzenie wierzących z Boga jest odwzorowaniem narodzenia Słowa — z Ojca w wieczności, z Dziewicy w czasie."
+      ]
+     ]
+    },
+    {
+     "label": "w. 14",
+     "cs": 1,
+     "vs": 14,
+     "ce": 1,
+     "ve": 14,
+     "greek": "Καὶ ὁ λόγος σὰρξ ἐγένετο καὶ ἐσκήνωσεν ἐν ἡμῖν, καὶ ἐθεασάμεθα τὴν δόξαν αὐτοῦ, δόξαν ὡς μονογενοῦς παρὰ πατρός, πλήρης χάριτος καὶ ἀληθείας.",
+     "transl": "A Słowo ciałem się stało i rozbiło namiot wśród nas, i oglądaliśmy chwałę Jego — chwałę, jaką Jednorodzony [ma] od Ojca — pełne łaski i prawdy.",
+     "units": [
+      [
+       "ὁ λόγος σὰρξ ἐγένετο",
+       "Słowo ciałem się stało",
+       "Szczyt Prologu. Ὁ λόγος σὰρξ ἐγένετο (Słowo ciałem się stało) — dwa porządki, dotąd starannie rozdzielane (ἦν — było / ἐγένετο — stało się), zderzają się czołowo: Ten, który *jest*, wszedł w to, co *się staje*. I nie mówi Jan, że Słowo stało się ἄνθρωπος (człowiekiem) — co byłoby prawdą łagodniejszą — ani że przyjęło σῶμα (ciało jako organizm), lecz σάρξ (ciało-mięso, ciało w jego słabości, śmiertelności, kruchości; hebr. בָּשָׂר, basar). To słowo najostrzejsze z możliwych, dobrane jakby na złość każdemu doketyzmowi (doketyzm: pogląd, że Chrystus miał ciało tylko pozorne, od δοκεῖν — wydawać się): Bóg nie ubrał się w człowieczeństwo jak w kostium — stał się tym, co w człowieku najbardziej narażone."
+      ],
+      [
+       "ἐσκήνωσεν",
+       "rozbił namiot, zamieszkał w namiocie",
+       "Ἐσκήνωσεν (rozbił namiot, zamieszkał w namiocie) — od σκηνή (namiot, przybytek). Czasownik-klejnot. Septuaginta słowem σκηνή oddaje hebrajski מִשְׁכָּן (miszkan — przybytek, namiot spotkania), a spółgłoski σ-κ-ν brzmią jak hebrajski rdzeń שׁכן (szakan — mieszkać, przebywać), od którego późniejszy judaizm utworzył słowo שְׁכִינָה (Szechina — zamieszkiwanie, obecność Boża). Jan mówi więc: ciało Jezusa jest nowym Namiotem Spotkania, nową Świątynią (co powie wprost w J 2,21: mówił o świątyni swego ciała), miejscem Szechiny. Ἐν ἡμῖν (wśród nas / w nas) — pośród wspólnoty, jak niegdyś przybytek pośrodku obozu Izraela (Wj 25,8: uczynią Mi święty przybytek i zamieszkam pośród nich)."
+      ],
+      [
+       "ἐθεασάμεθα",
+       "oglądaliśmy",
+       "Ἐθεασάμεθα (oglądaliśmy) — od θεάομαι (przyglądać się, kontemplować, oglądać jako widz w teatrze; stąd θέατρον — teatr): nie przelotne dostrzeżenie, lecz uważna, świadoma kontemplacja naocznych świadków. Pierwsza osoba liczby mnogiej: „my\" — wspólnota apostolska; por. 1 J 1,1: co ujrzeliśmy własnymi oczami, na co patrzyliśmy i czego dotykały nasze ręce."
+      ],
+      [
+       "δόξα",
+       "chwała",
+       "Δόξα (chwała) — w grece klasycznej: mniemanie, opinia, sława; w Septuagincie słowo to przejęło ciężar hebrajskiego כָּבוֹד (kawod — chwała, dosł. ciężar, waga): widzialna manifestacja obecności Boga, obłok wypełniający przybytek (Wj 40,34: chwała Pana wypełniła przybytek). Jan zestawia: gdzie namiot (ἐσκήνωσεν — rozbił namiot), tam chwała (δόξα) — dokładnie jak w Wj 40. Tyle że chwałą nowego Przybytku nie jest obłok, lecz — jak pokaże cała Ewangelia — miłość aż po Krzyż, który Jan konsekwentnie nazywa „uwielbieniem\" (δοξασθῆναι — być uwielbionym, J 12,23)."
+      ],
+      [
+       "μονογενής",
+       "jednorodzony, jedyny w swoim rodzaju",
+       "Μονογενής (jednorodzony, jedyny w swoim rodzaju) — od μόνος (jedyny) i γένος (ród, rodzaj): jedyny tego rodzaju, jedyny zrodzony. Septuaginta używa tego słowa m.in. o Izaaku w tle Rdz 22 (por. Hbr 11,17: jednorodzonego składał w ofierze) — jedyny, umiłowany syn, przeznaczony na ofiarę. Παρὰ πατρός (od Ojca) — παρά z dopełniaczem: pochodzenie, „od strony\" Ojca."
+      ],
+      [
+       "πλήρης χάριτος καὶ ἀληθείας",
+       "pełne łaski i prawdy",
+       "Πλήρης χάριτος καὶ ἀληθείας (pełne łaski i prawdy) — formuła ta jest niemal na pewno kalką hebrajskiego רַב־חֶסֶד וֶאֱמֶת (raw chesed we'emet — bogaty w łaskę i wierność) z Wj 34,6, z teofanii synajskiej, gdy Bóg objawia Mojżeszowi swoje imię. Χάρις (łaska, dar darmowy, życzliwość) oddaje חֶסֶד (chesed — miłość wierna przymierzu, miłosierdzie), a ἀλήθεια (prawda) oddaje אֱמֶת (emet — prawda jako niezawodność, wierność). Wniosek egzegetyczny doniosły: w. 14 opisuje Wcielenie językiem teofanii synajskiej — to, co Mojżesz słyszał zza skały, widząc jedynie „tył\" chwały (Wj 33,23), wspólnota Janowa *oglądała* w ciele. Stąd w. 17–18 (już poza naszą perykopą) dopowiedzą: Prawo przez Mojżesza, łaska i prawda przez Jezusa Chrystusa; Boga nikt nigdy nie widział — Jednorodzony Bóg objawił."
+      ]
+     ]
+    }
+   ],
+   "struktura": "Prolog ma budowę chiastyczną (koncentryczną, zwierciadlaną): (A) Słowo u Boga, w. 1–2 — (B) stworzenie przez Słowo, w. 3 — (C) życie i światłość, w. 4–5 — (D) świadectwo Jana, w. 6–8 — (E) przyjście światłości i odrzucenie, w. 9–11 — (X, centrum) *dar stania się dziećmi Bożymi*, w. 12–13 — i dalej lustrzane odbicie: Wcielenie i chwała (w. 14), ponowne świadectwo Jana (w. 15), pełnia daru (w. 16), objawienie Ojca (w. 17–18). Środkiem ciężkości Prologu — wbrew intuicji — nie jest w. 14, lecz w. 12: cały ruch Słowa ku światu ma jeden cel — nasze narodzenie z Boga. Zstąpienie jest dla wstąpienia; *admirabile commercium* (przedziwna wymiana): Bóg stał się tym, czym my, abyśmy my stali się tym, czym On jest — dziećmi w Synu.\n\nWielu badaczy widzi w Prologu wcześniejszy hymn chrześcijański (rytmiczne wersy 1–5.9–14, tzw. paralelizm klimaktyczny: ostatnie słowo wersu staje się pierwszym następnego — λόγος...λόγος, θεόν...θεός, ζωή...ζωή), w który ewangelista wplótł prozatorskie wstawki o Chrzcicielu (w. 6–8.15). Jeśli tak, Prolog byłby jednym z najstarszych zachowanych hymnów Kościoła — śpiewanym wyznaniem wiary w boskość i wcielenie Słowa jeszcze z I wieku, obok Flp 2,6–11 i Kol 1,15–20.",
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": null,
+     "children": [
+      [
+       "Świat Prologu: judaizm Drugiej Świątyni",
+       "Czwarta Ewangelia powstała najpewniej w ostatniej dekadzie I wieku (tradycja: Efez, środowisko Jana; najstarszy zachowany fragment NT w ogóle, papirus P52 z J 18, datowany na ok. 125 r., potwierdza wczesne rozpowszechnienie tekstu aż po Egipt). Jej autor myśli po hebrajsku i aramejsku, a pisze po grecku — i Prolog jest tego najlepszym dowodem: każde niemal pojęcie ma podwójne dno, greckie i semickie.\n\nNajważniejszym tłem pojęcia λόγος (Słowo) nie jest — wbrew dawnym podręcznikom — filozofia grecka, lecz sama Biblia i judaizm epoki:\n\n**Słowo stwórcze.** Rdz 1: dziesięciokrotne „i rzekł Bóg\" (וַיֹּאמֶר אֱלֹהִים, wajjomer Elohim); Ps 33,6: przez słowo Pana (בִּדְבַר יְהוָה, bidwar Adonaj; LXX: τῷ λόγῳ τοῦ κυρίου — słowem Pana) powstały niebiosa. Hebrajskie דָּבָר (dawar) znaczy zarazem „słowo\" i „rzecz\", „sprawa\", „wydarzenie\" — słowo Boże nie jest dźwiękiem, jest czynem: Iz 55,10–11 mówi o słowie, które wychodzi z ust Boga i nie wraca bezowocne, lecz *dokonuje* tego, po co zostało posłane. Słowo, które wychodzi od Boga, działa w świecie i wraca do Boga — to już niemal fabuła czwartej Ewangelii (por. J 16,28: wyszedłem od Ojca i przyszedłem na świat; znowu opuszczam świat i idę do Ojca).\n\n**Memra.** W targumach (aramejskich parafrazach Biblii czytanych w synagodze — a więc w tekstach, które słyszał każdy Żyd I wieku) tam, gdzie tekst hebrajski mówi o bezpośrednim działaniu Boga, tłumacz z rewerencji wstawia מֵימְרָא דַּיהוה (Memra da-Adonaj — Słowo Pana): to Memra stwarza, Memra objawia się Abrahamowi, Memra zawiera przymierze, Memra zbawia. Słuchacz synagogi był więc oswojony z mową o „Słowie Pana\" jako o Bożej obecności działającej w świecie. Jan czyni krok, którego targum nigdy nie zrobił: to Słowo jest Osobą i stało się ciałem.\n\n**Mądrość uosobiona.** Trzeci nurt, najbliższy literacko: Prz 8,22–31 — Mądrość (חָכְמָה, Chochma; gr. Σοφία, Sofia) zrodzona przed wiekami, obecna przy stwarzaniu jako mistrzyni-budowniczyni, rozkoszująca się synami ludzkimi; Syr 24 — Mądrość szuka miejsca odpoczynku wśród narodów i na rozkaz Stwórcy *rozbija namiot w Jakubie* (Syr 24,8: ἐν Ιακωβ κατασκήνωσον — w Jakubie rozbij namiot; ten sam rdzeń, co Janowe ἐσκήνωσεν — rozbił namiot!); Mdr 7,25–26 — Mądrość jest tchnieniem mocy Bożej, odblaskiem światłości wiecznej, obrazem dobroci Boga. Prolog Janowy jest świadomie zbudowany na szkielecie tych tekstów — z jedną korektą: zamiast żeńskiej Sofii (Mądrości) — Logos (Słowo), być może dlatego, że Mądrość w Syr 24,23 została już utożsamiona z Torą, a Jan chce powiedzieć: nie księga, lecz Osoba; nie Prawo, lecz λόγος, który jest πλήρης χάριτος καὶ ἀληθείας (pełen łaski i prawdy).\n\n**Filon z Aleksandrii** (zm. ok. 50 r.) — żydowski filozof piszący po grecku, używa słowa λόγος (Słowo, Rozum) setki razy: Logos jest u niego obrazem Boga, narzędziem stwarzania, arcykapłanem kosmosu, „drugim Bogiem\" (δεύτερος θεός) — ale zawsze pozostaje bytem pośrednim, metaforą lub mocą, nigdy osobą równą Bogu i nigdy, przenigdy wcieloną. Dla Filona zdanie ὁ λόγος σὰρξ ἐγένετο (Słowo ciałem się stało) byłoby bluźnierstwem i absurdem. Jan być może zna aleksandryjską terminologię (Efez i Aleksandria to naczynia połączone; por. Apollos z Dz 18,24) — ale jego treść jest z innego świata."
+      ],
+      [
+       "Tło greckie",
+       "Dla czytelnika helleńskiego λόγος (rozum, zasada) niósł echa Heraklita (wszystko dzieje się według Logosu — rozumnej zasady świata) i przede wszystkim stoików, dla których λόγος był immanentnym rozumem przenikającym kosmos, a λόγος σπερματικός (logos spermatikos — rozum zarodkowy, rozumne nasienie) — racją rozwoju każdej rzeczy i iskrą rozumu w każdym człowieku. Jan tego języka nie cytuje, ale jego uniwersalizm (φωτίζει πάντα ἄνθρωπον — oświeca każdego człowieka, w. 9) pozwolił później Justynowi Męczennikowi (II w.) rozwinąć naukę o λόγος σπερματικός: wszystko, co filozofowie powiedzieli prawdziwego, powiedzieli dzięki uczestnictwu w Logosie, który w pełni objawił się w Chrystusie. Prolog stał się w ten sposób mostem między Jerozolimą a Atenami — pierwszym tekstem, w którym wiara Izraela przemówiła słowem zrozumiałym dla filozofii, nie tracąc nic ze swej treści."
+      ],
+      [
+       "Tło polemiczne",
+       "Prolog ma też ostrza polemiczne: przeciw przecenianiu Jana Chrzciciela (w. 6–8.15 — patrz wyżej); przeciw rodzącemu się doketyzmowi i proto-gnozie (σάρξ — ciało, w. 14; por. 1 J 4,2–3: każdy duch, który uznaje, że Jezus Chrystus przyszedł w ciele, jest z Boga); przeciw dualizmowi (w. 3: nic nie powstało bez Słowa — nie ma złego stwórcy materii); wreszcie — po wykluczeniu chrześcijan z synagogi (por. J 9,22: ἀποσυνάγωγος — wyłączony z synagogi; sytuacja po tzw. birkat ha-minim, בִּרְכַּת הַמִּינִים — „błogosławieństwie\" przeciw heretykom, włączonym do modlitwy synagogalnej pod koniec I w.) — Prolog odpowiada na bolesne pytanie wspólnoty: jeśli Jezus jest Mesjaszem, czemu Izrael Go odrzucił? Odpowiedź w. 11: to nie nowość — Słowo od zawsze przychodziło do swoich, i swoi Go nie przyjmowali; ale każdemu, kto przyjmuje, daje moc stania się dzieckiem Bożym."
+      ],
+      [
+       "Kontekst moralny i filozoficzny epoki",
+       "Świat, do którego wchodzi Prolog, jest światem głębokiego kryzysu sensu. Filozofia popularna I wieku (stoicyzm Seneki i Epikteta, średni platonizm, epikureizm) jest przede wszystkim terapią duszy: uczy, jak nie cierpieć, jak być niezależnym od losu (ἀπάθεια — beznamiętność; ἀταραξία — niewzruszoność). Bóg filozofów jest albo rozproszony w kosmosie (stoicy), albo tak transcendentny, że światem nie może się splamić (platonizm — stąd cała drabina bytów pośrednich: dajmony, moce, u Filona Logos). Wspólnym aksjomatem elit była zasada, że bóstwo nie miesza się z materią, a ciało jest — jak mówiło orfickie porzekadło σῶμα σῆμα (soma sema — ciało grobem) — więzieniem duszy. Moralnie epoka łączyła wysokie ideały elit (Seneka pisze o miłosierdziu) z powszechną praktyką niewolnictwa, porzucania niemowląt i pogardy dla słabych; ciało ludzkie — zwłaszcza ciało niewolnika, kobiety, dziecka — było rzeczą.\n\nNa tym tle w. 14 jest rewolucją antropologiczną: jeżeli Bóg stał się σάρξ (ciałem-mięsem), to ciało nie jest grobem ani rzeczą — jest zdolne nosić chwałę Bożą. Żadna filozofia starożytna nie mogła tego zdania wypowiedzieć; Celsus (II w.) i Porfiriusz (III w.) atakowali chrześcijaństwo dokładnie w tym punkcie jako skandal metafizyczny. A jednak to właśnie ten „skandal\" odpowiadał na pytania, których filozofia nie umiała domknąć: skąd zło (nie z materii — w. 3); czy prawda jest osiągalna dla wszystkich (tak — w. 9, światłość oświeca *każdego* człowieka, nie tylko mędrców); czy człowiek może przekroczyć swą kondycję (tak, ale nie własną ascezą, lecz darem — w. 12, ἐξουσία, moc-uprawnienie *dana*). Prolog przenosi też środek ciężkości etyki: z samodoskonalenia na przyjęcie (λαμβάνειν — przyjmować) i wiarę (πιστεύειν — wierzyć), z autarkii (samowystarczalności) na dziecięctwo."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Św. Tomasz z Akwinu zostawił obszerny wykład czwartej Ewangelii — *Super Evangelium S. Ioannis lectura* (Wykład Ewangelii św. Jana), owoc wykładów paryskich; sam Prolog komentuje także w *Summa Theologiae* (Suma teologii) i *Summa contra Gentiles* (Suma przeciw poganom). Poniższe obserwacje idą jego tropem.",
+     "children": [
+      [
+       "1. Verbum mentis — Słowo jako pojęcie umysłu",
+       "Dlaczego Syn nazwany jest Słowem? Tomasz odpowiada analogią psychologiczną (odziedziczoną po Augustynie, doprecyzowaną metafizycznie): gdy umysł poznaje, rodzi w sobie *verbum cordis / verbum mentis* (słowo serca / słowo umysłu) — wewnętrzne pojęcie, które pozostaje w umyśle, jest z nim współnaturalne, a zarazem od aktu poznającego realnie pochodzi. Otóż Bóg, poznając siebie jednym wiecznym aktem, wypowiada jedno Słowo, w którym wyraża całą swoją istotę — a ponieważ w Bogu nie ma przypadłości, to Słowo nie jest „czymś w Bogu\", lecz jest współistotne: *Deus de Deo* (Bóg z Boga). Tak analogia wyjaśnia wszystkie trzy zdania w. 1: Słowo jest odwieczne jak akt samopoznania Boga (ἐν ἀρχῇ ἦν — na początku było); jest zwrócone ku Wypowiadającemu (πρὸς τὸν θεόν — u Boga, ku Bogu); jest tym, czym On (θεὸς ἦν — Bogiem było). Pochodzenie bez początku, zrodzenie bez podziału: jak słowo umysłu nie uszczupla umysłu, tak zrodzenie Syna nie dzieli istoty Bożej — *lumen de lumine* (światłość ze światłości)."
+      ],
+      [
+       "2. Ipsum esse subsistens a porządek stawania się",
+       "Kontrast ἦν / ἐγένετο (było / stało się) jest u Jana dokładnie tym, co metafizyka Tomasza nazywa różnicą między *ipsum esse subsistens* (samoistne istnienie samo w sobie — Bóg, którego istotą jest istnieć) a bytami, w których *essentia* (istota) i *esse* (istnienie) są realnie różne, które więc istnienie *otrzymują*. Wszystko, co się „stało\" (ἐγένετο), jest bytem przez uczestnictwo (*per participationem*); Słowo, które „było\" (ἦν), jest bytem przez istotę (*per essentiam*). Stąd w. 3 czytany po tomistycznie: stworzenie nie jest przelaniem substancji Boga ani formowaniem odwiecznej materii, lecz *creatio ex nihilo* (stworzeniem z niczego) — całkowitym udzieleniem istnienia; a ponieważ Bóg stwarza przez swoje Słowo-Pojęcie, każda rzecz niesie w sobie ślad rozumności: świat jest inteligibilny (poznawalny rozumem), bo jest *pomyślany*. Tu tkwi metafizyczny fundament wszelkiej nauki: badając świat, sylabizujemy Słowo."
+      ],
+      [
+       "3. Rationes aeternae — w Nim było życie",
+       "Starsza interpunkcja w. 3b–4a (to, co się stało, w Nim było życiem) jest dla Tomasza okazją do wykładu o ideach Bożych: rzeczy istnieją w Bogu wcześniej i szlachetniej niż w sobie — a w Bogu nie są martwymi wzorcami, lecz samym Jego życiem, bo poznanie Boga jest Jego życiem, a Jego życie Jego istotą. Stworzenie w sobie jest zmienne i śmiertelne; stworzenie w Słowie jest życiem. Dlatego zbawienie u Jana nazywa się „życiem wiecznym\" — jest powrotem rzeczy do ich prawdy w Słowie."
+      ],
+      [
+       "4. Światłość ludzi — iluminacja po tomistycznie",
+       "W. 4–5.9: Tomasz odczytuje „światłość, która oświeca każdego człowieka\" nie jako szczególne natchnienie mistyczne, lecz jako samo *lumen intellectus agentis* (światło intelektu czynnego) — naturalną zdolność umysłu do ujmowania prawdy, która jest w każdym człowieku uczestnictwem w Światłości niestworzonej (*participatio luminis increati* — uczestnictwo w świetle niestworzonym). Każdy akt poznania prawdy — u poganina, u ateisty — dokonuje się mocą tego uczestnictwa. To rozwiązuje spór o „prawdy pogan\" bez dwuznaczności: prawda jest jedna, bo Światłość jest jedna; a zarazem w. 5 uczy realizmu: naturalne światło nie wystarcza, by „ogarnąć\" (καταλαμβάνειν) Boga — potrzeba, by Światłość sama przyszła. Rozum i wiara nie konkurują: mają to samo Źródło."
+      ],
+      [
+       "5. Wcielenie — conveniens (stosowne), nie konieczne",
+       "W. 14 w optyce tomistycznej: Bóg nie musiał się wcielić; Wcielenie jest najwyższą *convenientia* (stosownością, wewnętrzną harmonią) — bo naturą Dobra jest się udzielać (*bonum est diffusivum sui* — dobro jest rozlewne, udziela się), a najwyższe Dobro udzieliło się w sposób najwyższy: jednocząc stworzoną naturę z Osobą Słowa. Unia hipostatyczna (zjednoczenie osobowe): Słowo stało się ciałem nie przez zamianę (boskość nie przestała być boskością), nie przez zmieszanie, lecz przez przyjęcie — *assumpsit quod non erat, mansit quod erat* (przyjęło, czym nie było; pozostało, czym było — formuła patrystyczna, którą Tomasz chętnie powtarza). Dlaczego wcielił się Syn, a nie Ojciec lub Duch? Odpowiedź Tomasza jest przepiękna i czysto Janowa: bo rzeczy zostały stworzone przez Słowo — wypada, aby były naprawione przez to samo Słowo, jak dzieło naprawia się wedle tego samego projektu, wedle którego powstało; i bo Słowo jest naturalnym Synem — wypada, aby przez Nie ludzie stawali się synami przybranymi (w. 12!)."
+      ],
+      [
+       "6. Łaska i przebóstwienie",
+       "W. 12–13 po tomistycznie: „moc stania się dziećmi Bożymi\" to łaska uświęcająca (*gratia gratum faciens* — łaska czyniąca miłym Bogu) — nie zewnętrzny dekret, lecz realna, stworzona partycypacja w naturze Bożej (por. 2 P 1,4: uczestnicy Boskiej natury), zaszczepiona w istocie duszy, z której wyrastają wiara, nadzieja i miłość. Narodzenie „z Boga\" jest więc nowym aktem stwórczym w duszy — dlatego Jan wyklucza wszystkie przyczyny naturalne (w. 13). A racją formalną całego daru jest formuła, którą Tomasz mógłby podpisać cały Prolog: *gratia est participatio divinae naturae* (łaska jest uczestnictwem w naturze Bożej) — czyli dokładnie owa przedziwna wymiana: Słowo przyjęło naszą naturę, abyśmy my uczestniczyli w Jego."
+      ],
+      [
+       "7. Filozoficzny bilans",
+       "Prolog rozstrzyga — na poziomie zasad — główne pytania metafizyki: (a) u początku rzeczywistości nie stoi chaos, materia ani ślepa siła, lecz Rozum-Słowo: byt jest starszy niż stawanie się, sens starszy niż absurd; (b) rzeczywistość jest poznawalna, bo pomyślana; (c) zło nie jest zasadą (nic nie istnieje poza przyczynowością Słowa), lecz brakiem — ciemność nie ma własnej substancji, jest tylko nie-przyjęciem światła; (d) osoba jest szczytem bytu — skoro absolutny Początek jest relacją Osób (πρὸς τὸν θεόν — ku Bogu), to nie samotna substancja, lecz komunia jest ostateczną prawdą rzeczywistości; (e) historia ma środek: nie wieczny powrót (Grecy), lecz jednorazowe, nieodwołalne ἐγένετο (stało się) Wcielenia."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "body": "Tradycja kościelna od Ireneusza (ok. 180 r., uczeń Polikarpa, ucznia Jana) wskazuje Jana, ucznia Pańskiego, piszącego w Efezie; sam tekst mówi o „uczniu, którego Jezus miłował\" jako świadku i autorze (J 21,24: ten właśnie uczeń daje świadectwo o tych sprawach i on je opisał, a wiemy, że świadectwo jego jest prawdziwe — zauważmy „wiemy\": wspólnota potwierdza świadka). Niezależnie od dyskusji o etapach redakcji, tekst sam deklaruje swoją intencję z rzadką u starożytnych autorów jasnością — J 20,31: to zaś napisano, abyście wierzyli (πιστεύητε), że Jezus jest Mesjaszem, Synem Bożym, i abyście wierząc, mieli życie w imię Jego. Ewangelia nie jest biografią ani kroniką — jest świadectwem procesowym pisanym po to, by czytelnik wydał werdykt wiary i przez ten werdykt otrzymał życie. Prolog jest do tego procesu mową otwierającą: ujawnia od pierwszego zdania to, czego bohaterowie narracji będą się domyślać przez dwadzieścia rozdziałów. Czytelnik wie, kim jest Jezus, zanim Jezus wypowie pierwsze słowo — i dzięki temu każdą scenę Ewangelii czyta podwójnie: widzi człowieka zmęczonego przy studni i wie, że to Ten, przez którego wszystko się stało.\n\nIntencje autora ludzkiego, które da się z tekstu wyczytać: (1) osadzić Jezusa nie w genealogii Dawidowej (jak Mateusz) ani w historii Cesarstwa (jak Łukasz), lecz w wieczności — odpowiedzieć na pytanie „skąd jest\" Jezus (pytanie, które w Ewangelii wraca obsesyjnie: J 7,27n; 8,14; 19,9 — Piłat: skąd Ty jesteś?); (2) dać wspólnocie wyrzuconej z synagogi nową tożsamość: to my, nie budynek i nie rodowód, jesteśmy miejscem Szechiny (obecności), bo nosimy w sobie narodzenie z Boga; (3) zabezpieczyć wiarę przed dwiema przepaściami — przed uznaniem Jezusa za samego tylko człowieka (stąd w. 1) i za pozornego człowieka (stąd w. 14); (4) powiedzieć poganom: Logos (Rozum), którego szukacie, ma imię i twarz. Jest wreszcie w Prologu rys osobisty, niemal liryczny: ἐθεασάμεθα (oglądaliśmy) — starzec piszący te słowa twierdzi, że patrzył na to własnymi oczami. Cały Prolog jest wspomnieniem przetopionym w hymn: tak pisze ktoś, kto przez kilkadziesiąt lat rozważał to, co widział, aż zobaczył w tym, co widział, To, czego nie widać.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "body": "Katolicka nauka o natchnieniu (zob. konstytucja *Dei Verbum* — O Objawieniu Bożym, nr 11–13) uczy, że Bóg jest prawdziwym Autorem Pisma, działającym *w* ludzkim autorze i *przez* niego, nie obok niego — tak, że wszystko, co twierdzi autor ludzki, twierdzi Duch Święty, a sens Boży może przewyższać to, co pisarz w pełni ogarniał (*sensus plenior* — sens pełniejszy). Co zatem mówi sam Duch przez tę perykopę?",
+     "children": [
+      [
+       "Po pierwsze: objawia wewnętrzne życie Boga",
+       "Żaden ludzki namysł nie mógłby ustalić, że w jedynym Bogu jest odwieczne Słowo zwrócone ku Ojcu. W. 1–2 to nie wniosek — to objawienie tajemnicy trynitarnej, dane językiem tak precyzyjnym, że po wiekach sporów Kościół nie musiał tekstu poprawiać, tylko bronić jego naturalnej lektury. Warto zauważyć rzecz przedziwną: Duch Święty w Prologu o samym sobie milczy — jak w całej Ewangelii Janowej Duch „nie mówi od siebie\", lecz otacza chwałą Syna (J 16,13–14). Prolog jest napisany tak, jak działa jego Autor: całe światło kieruje na Słowo. A przecież jest w nim obecny ukrycie: narodzenie „z Boga\" (w. 13) to narodzenie z wody i Ducha (J 3,5); namaszczenie chwałą, którą „oglądaliśmy\", Duch właśnie daje oczom wiary."
+      ],
+      [
+       "Po drugie: ustanawia klucz do całego Pisma",
+       "Jeżeli Słowo jest jedno i odwieczne, to wszystkie słowa Boże — od Rdz po proroków — są jednym mówieniem jednego Słowa. Duch Święty umieszcza Prolog na czele Ewangelii jak klucz wiolinowy na początku pięciolinii: odtąd całe Pismo należy czytać chrystologicznie, i to w obie strony — Stary Testament jako brzemienny Słowem, Nowy jako jego odsłonięcie. Sam Prolog daje tego wzór, przepisując Rdz 1, Wj 33–34, Prz 8 i Syr 24 (zob. cz. VI)."
+      ],
+      [
+       "Po trzecie: mówi o czytelniku",
+       "Sensem, na którym Duchowi najbardziej zależy — bo umieścił go w samym centrum chiazmu (w. 12) — nie jest informacja o Bogu, lecz transformacja człowieka: *abyście się stali dziećmi Bożymi*. Prolog jest performatywny: nie tylko opisuje przyjęcie Słowa — dokonuje go w tym, kto czyta z wiarą. Duch, który natchnął te zdania, ten sam działa w słuchającym; dlatego Kościół zawsze traktował ten tekst nie jak traktat, lecz jak sakramentalium (zob. cz. VII)."
+      ],
+      [
+       "Po czwarte: strzeże realizmu ciała",
+       "To Duch Święty — który ukształtował ciało Słowa w łonie Dziewicy (Łk 1,35) — podyktował twarde słowo σάρξ (ciało). Przez wieki, przeciw każdej „uduchowionej\" redukcji chrześcijaństwa (gnoza, doketyzm, spirytualizmy wszystkich epok), w. 14 stoi jak zasieka: zbawienie dokonuje się w ciele, łaska przychodzi przez materię (sakramenty!), ciało jest na zawsze — bo Słowo σὰρξ ἐγένετο (ciałem się stało) i ciała już nie porzuciło."
+      ]
+     ]
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": null,
+     "children": [
+      [
+       "Rdz 1,1–5 → J 1,1–5",
+       "Fundament. Te same pierwsze słowa (ἐν ἀρχῇ — na początku), ta sama sekwencja: początek — słowo — życie — światłość — rozdzielenie światłości od ciemności. Jan pisze świadomie „nową Księgę Rodzaju\": w Jezusie zaczyna się nowe stworzenie. Symetria działa też korygująco wstecz: teraz wiemy, że owo „i rzekł Bóg\" z Rdz nie było figurą retoryczną — Mówiący nigdy nie mówił bez swojego Słowa. Warto dopowiedzieć: pierwszy tydzień Ewangelii Janowej (J 1,19–2,11) jest odliczany dzień po dniu jak tydzień stworzenia, a jego siódmym dniem są gody w Kanie — nowe stworzenie kończy się weselem."
+      ],
+      [
+       "Ps 33(32),6; Iz 55,10–11",
+       "Słowo jako sprawcza moc stwórcza i posłaniec, który wychodzi od Boga, dokonuje dzieła i wraca — schemat zstąpienia i wstąpienia Słowa, który Prolog zakłada, a J 16,28 wypowiada wprost."
+      ],
+      [
+       "Prz 8,22–31; Syr 24; Mdr 7,22–8,1",
+       "Mądrość przy stwarzaniu, Mądrość rozbijająca namiot w Izraelu, Mądrość jako odblask wiecznej światłości — literacki szkielet Prologu (omówiony w cz. II). Relacja jest typologiczna: Mądrość ksiąg sapiencjalnych jest cieniem i zapowiedzią; Prolog mówi, kim Ona jest naprawdę. Stąd liturgia bez wahania czyta te teksty o Chrystusie (i, wtórnie, o Tej, która Go nosiła)."
+      ],
+      [
+       "Wj 25,8; 33,18–23; 34,6; 40,34–35 → J 1,14",
+       "Najgęstszy węzeł. Przybytek, w którym Bóg mieszka pośród ludu (ἐσκήνωσεν — rozbił namiot); prośba Mojżesza „pokaż mi swoją chwałę\" i odmowa: „nie może człowiek ujrzeć mojego oblicza\"; imię Boże: bogaty w łaskę i wierność (chesed we'emet → χάρις καὶ ἀλήθεια — łaska i prawda); obłok chwały wypełniający przybytek. Prolog ogłasza: to, czego Mojżeszowi odmówiono, nam dano — oglądaliśmy chwałę. Wcielenie jest teofanią większą niż Synaj; dopowie to w. 17, zestawiając Prawo dane przez Mojżesza z łaską i prawdą, które *stały się* (ἐγένετο!) przez Jezusa Chrystusa."
+      ],
+      [
+       "Rdz 22 (ofiarowanie Izaaka) → μονογενής (jednorodzony)",
+       "Syn jedyny, umiłowany, niosący drzewo na górę — typ Jednorodzonego; Jan dopowie w 3,16: tak Bóg umiłował świat, że Syna Jednorodzonego dał — czasownikiem „dał\" (ἔδωκεν) nawiązując do języka ofiarniczego."
+      ],
+      [
+       "Paralele nowotestamentalne — hymny chrystologiczne",
+       "Flp 2,6–11 (istniejący w postaci Bożej ogołocił samego siebie — ta sama parabola zstąpienia i wywyższenia, akcent na kenozę, czyli ogołocenie); Kol 1,15–20 (obraz Boga niewidzialnego, w Nim wszystko zostało stworzone i w Nim ma istnienie — najbliższa paralela do w. 3–4); Hbr 1,1–4 (wielokrotnie i na różne sposoby przemawiał niegdyś Bóg... na końcu przemówił w Synu, który jest odblaskiem Jego chwały i przez którego stworzył wszechświat — ta sama teologia Słowa ostatecznego). Zbieżność trzech niezależnych tradycji (Pawłowej, aleksandryjsko-judeochrześcijańskiej i Janowej) dowodzi, że wiara w preegzystencję i boskość Chrystusa nie jest późnym rozwinięciem, lecz należy do najstarszej warstwy chrześcijaństwa."
+      ],
+      [
+       "1 J 1,1–4",
+       "Autokomentarz środowiska Janowego: co było od początku, cośmy usłyszeli, co ujrzeliśmy własnymi oczami, czego dotykały nasze ręce — o Słowie życia. Ten sam słownik (ἀρχή — początek, λόγος — słowo, ζωή — życie, θεάομαι — oglądać), z dodanym dotykiem: przeciw doketom świadectwo zmysłów."
+      ],
+      [
+       "Ap 19,13",
+       "Jeździec na białym koniu: a imię Jego nazwano — Słowo Boga (ὁ λόγος τοῦ θεοῦ). Tylko pisma Janowe nazywają Chrystusa wprost Logosem (Słowem) — klamra spinająca corpus Joanneum (zbiór pism Janowych) od Prologu po Apokalipsę: Słowo, które było na początku, jest też Słowem końca, Alfą i Omegą dziejów."
+      ],
+      [
+       "J 3,3–8; 1 P 1,23; Jk 1,18",
+       "Narodzenie z Boga (w. 12–13) rozwinięte: narodzenie z wody i Ducha; zrodzeni nie z nasienia zniszczalnego, ale z niezniszczalnego — przez słowo Boga; zrodził nas słowem prawdy. Nowy Testament jednogłośnie wiąże nowe narodzenie ze Słowem — Prolog podaje tego metafizyczną rację: rodzić z Boga może tylko Ten, kto sam jest z Boga zrodzony."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": null,
+     "children": [
+      [
+       "Historia dogmatu",
+       "Prolog jest tekstem, na którym Kościół przepracował swoją wiarę w Boga. W II wieku Justyn Męczennik buduje na w. 9 teologię λόγος σπερματικός (rozumu zarodkowego) — pierwszą chrześcijańską teologię kultury i dialogu z filozofią. Ireneusz z Lyonu w sporze z gnozą opiera na w. 3 i 14 zasadę jedności Stwórcy i Zbawiciela oraz realności ciała. W III wieku Orygenes pisze do Prologu najobszerniejszy starożytny komentarz biblijny w ogóle (jego *Komentarz do Jana* poświęca pierwszym wersetom całe księgi). W IV wieku Prolog staje się polem bitwy ariańskiej: Ariusz czyta „zrodzony\", dodając „a więc miał początek\"; Atanazy i ojcowie Soboru Nicejskiego (325 r.) odpowiadają wprost z w. 1: skoro ἐν ἀρχῇ ἦν (na początku *było*), nie ma „przedtem\" bez Słowa — i kują formułę ὁμοούσιος τῷ πατρί (współistotny Ojcu), która jest w istocie dogmatyczną parafrazą trzeciego zdania Prologu (θεὸς ἦν ὁ λόγος — Bogiem było Słowo). Sobór Efeski (431 r.) i Chalcedoński (451 r.) bronią z kolei w. 14: Słowo *samo* stało się ciałem (przeciw rozdzielaniu Chrystusa na dwa podmioty — stąd tytuł Θεοτόκος, Theotokos — Boża Rodzicielka) i stało się ciałem *prawdziwie*, bez zmieszania i bez zmiany natur. Można bez przesady powiedzieć: pierwsze cztery sobory powszechne są przypisami do czternastu wersetów Prologu. Później w. 14 karmi teologię ikony (Jan Damasceński: skoro Niewidzialny stał się widzialny w ciele, wolno Go malować), średniowieczną teologię sakramentów, a w XX wieku — teologię Słowa i konstytucję *Dei Verbum*, której pierwsze rozdziały są utkane z Prologu."
+      ],
+      [
+       "Liturgia",
+       "Mało który tekst biblijny wrósł w liturgię tak głęboko:\n\n**Ewangelia dnia Bożego Narodzenia.** Od starożytności J 1,1–14 (lub 1,1–18) jest Ewangelią głównej Mszy w dzień Narodzenia Pańskiego (*Missa in die* — Msza w dzień, 25 grudnia) — po nocnej Ewangelii o żłóbku Kościół w pełnym świetle dnia czyta metafizykę tej nocy. Tak jest w rycie rzymskim do dziś; Prolog powraca też w dni powszednie przed Epifanią (Objawieniem Pańskim) i jako Ewangelia uroczystości.\n\n**Ostatnia Ewangelia.** W tradycyjnym rycie rzymskim (dziś: nadzwyczajna forma rytu) kapłan po błogosławieństwie końcowym każdej Mszy odczytywał przy ołtarzu J 1,1–14 jako *ultimum Evangelium* (ostatnią Ewangelię) — zwyczaj wyrosły w średniowieczu z prywatnej pobożności kapłańskiej, utrwalony w Mszale Piusa V (1570 r.). Msza kończyła się więc codziennie słowami *Et Verbum caro factum est* (A Słowo ciałem się stało) — jakby pieczęcią: to, co dokonało się na ołtarzu, jest dalszym ciągiem w. 14.\n\n**Przyklęknięcie.** Na słowa *Et Verbum caro factum est* (A Słowo ciałem się stało) przyklękano — tak jak przyklęka się (dziś: w Boże Narodzenie i Zwiastowanie, dawniej: zawsze) na słowa *Et incarnatus est* (I wcielił się) w Credo (Wyznaniu wiary). Ciało liturgii samo wykłada egzegezę: wobec tego zdania nie wystarczy skłonić głowy.\n\n**Anioł Pański.** Codzienna modlitwa maryjna odmawiana rano, w południe i wieczorem ma za trzecie wezwanie właśnie w. 14: *Et Verbum caro factum est — et habitavit in nobis* (A Słowo ciałem się stało — i zamieszkało między nami). Miliony ludzi trzy razy dziennie od stuleci wypowiadają zdanie z naszej perykopy — trudno o mocniejszy dowód jej liturgicznej żywotności.\n\n**Sakramentalia i pobożność.** Prolog odmawiano nad chorymi, przy błogosławieństwach, w rytuałach egzorcyzmów mniejszych, nad noworodkami i na cztery strony świata przy błogosławieństwie pól; noszono go zapisany przy sobie (praktykę wypaczoną w amulet piętnowały synody — co samo świadczy o randze tekstu w wyobraźni wiernych). Początkowe słowa *In principio erat Verbum* (Na początku było Słowo) otwierały ewangeliarze iluminowane najświetniejszymi kartami (Book of Kells — Księga z Kells — poświęca inicjałom Prologu osobne arcydzieło strony).\n\n**Godzina czytań i tradycje wschodnie.** W liturgii bizantyjskiej J 1,1–17 jest Ewangelią głównej liturgii Paschy (!) — Wschód czyta Prolog nie przy żłóbku, lecz przy pustym grobie: światłość, której ciemność nie ogarnęła, objawia się w Zmartwychwstaniu; w praktyce paschalnej bywa odczytywany w wielu językach naraz — znak, że Słowo oświeca każdego człowieka. Ta podwójna lokalizacja (Zachód: Narodzenie; Wschód: Pascha) jest sama w sobie znakomitą egzegezą: Prolog opowiada jedną tajemnicę Słowa, które przyszło, zostało odrzucone i zwyciężyło."
+      ]
+     ]
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: Prolog objawia, że u korzenia rzeczywistości nie leży ani przypadek, ani prawo, ani nawet „coś boskiego\" — lecz Ktoś: odwieczne Słowo zwrócone ku Ojcu; że to Słowo jest racją istnienia i poznawalności każdej rzeczy oraz światłem każdego ludzkiego umysłu; że weszło ono w historię aż po kruchość ciała, by w swoim ciele stać się nową Świątynią; i że celem tego zstąpienia jest nasze narodzenie z Boga. *Verbum caro factum est, ut caro Verbi capax fieret* (Słowo stało się ciałem, aby ciało stało się zdolne pojąć Słowo) — a ciemność, która ani tego nie pojęła, ani nie pokonała, nie ma już nic do powiedzenia.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — Orygenes, św. Augustyn (In Iohannis Evangelium tractatus — Homilie na Ewangelię św. Jana), św. Jan Chryzostom i św. Tomasz (Super Ioannem — Wykład Ewangelii Jana).*",
+     "children": []
+    }
+   ],
+   "section_viii": {
+    "type": "patrystyka",
+    "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+    "body": "Katena (łac. *catena* — łańcuch) to klasyczna forma egzegezy kościelnej: pod tekstem biblijnym nawleka się, ogniwo po ogniwie, głosy Ojców, tak by nad jednym wersetem spotkały się stulecia. Wzorem gatunku pozostaje *Catena aurea* (Złoty łańcuch) św. Tomasza z Akwinu — ciągły komentarz do czterech Ewangelii utkany wyłącznie z cytatów patrystycznych; dla Prologu Tomasz splata tam przede wszystkim Chryzostoma, Augustyna, Orygenesa, Hilarego, Bedę i Teofilakta. Poniższa katena idzie za blokami części I: przy każdym zakresie wersetów zebrano najważniejsze głosy — od Ireneusza po Cyryla — z miejscem (*locus* — miejsce w dziele) i parafrazą, tak by można było wrócić do źródeł. Zasada lektury Ojców jest wspólna: Prolog czytali oni zarazem doksologicznie (jako hymn Kościoła) i polemicznie (jako mur przeciw kolejnym redukcjom wiary) — i właśnie na ich egzegezie tego tekstu wyrosły formuły Nicei, Efezu i Chalcedonu, omówione w części VII.",
+    "children": []
+   },
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Rdz",
+     1,
+     1,
+     1,
+     5,
+     "Rdz 1,1–5",
+     "aluzja",
+     "Fundament: nowa Księga Rodzaju — ta sama sekwencja początek-słowo-życie-światłość"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     33,
+     6,
+     33,
+     6,
+     "Ps 33(32),6",
+     "tlo",
+     "Słowo jako sprawcza moc stwórcza"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     55,
+     10,
+     55,
+     11,
+     "Iz 55,10–11",
+     "tlo",
+     "Słowo posłane, które dokonuje dzieła i wraca — schemat zstąpienia i wstąpienia"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Prz",
+     8,
+     22,
+     8,
+     31,
+     "Prz 8,22–31",
+     "typologia",
+     "Mądrość przy stwarzaniu — literacki szkielet Prologu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Syr",
+     24,
+     1,
+     24,
+     23,
+     "Syr 24,1–23",
+     "typologia",
+     "Mądrość rozbija namiot w Jakubie (κατασκήνωσον — ten sam rdzeń co ἐσκήνωσεν)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mdr",
+     7,
+     22,
+     8,
+     1,
+     "Mdr 7,22–8,1",
+     "typologia",
+     "Mądrość odblaskiem wiecznej światłości"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     25,
+     8,
+     25,
+     8,
+     "Wj 25,8",
+     "tlo",
+     "Przybytek: zamieszkam pośród nich"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     33,
+     18,
+     33,
+     23,
+     "Wj 33,18–23",
+     "kontrast",
+     "Mojżeszowi odmówiono oglądania chwały — nam dano (w. 14)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     34,
+     6,
+     34,
+     6,
+     "Wj 34,6",
+     "aluzja",
+     "chesed we'emet → χάρις καὶ ἀλήθεια: Wcielenie językiem teofanii synajskiej"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     40,
+     34,
+     40,
+     35,
+     "Wj 40,34–35",
+     "typologia",
+     "Obłok chwały wypełnia przybytek — gdzie namiot, tam doksa"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Rdz",
+     22,
+     1,
+     22,
+     19,
+     "Rdz 22,1–19",
+     "typologia",
+     "Ofiarowanie Izaaka: syn jedyny, umiłowany → μονογενής"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Flp",
+     2,
+     6,
+     2,
+     11,
+     "Flp 2,6–11",
+     "paralela",
+     "Hymn: parabola zstąpienia i wywyższenia, kenoza"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Kol",
+     1,
+     15,
+     1,
+     20,
+     "Kol 1,15–20",
+     "paralela",
+     "W Nim wszystko stworzone — najbliższa paralela do w. 3–4"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Hbr",
+     1,
+     1,
+     1,
+     4,
+     "Hbr 1,1–4",
+     "paralela",
+     "Bóg przemówił w Synu — teologia Słowa ostatecznego"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 J",
+     1,
+     1,
+     1,
+     4,
+     "1 J 1,1–4",
+     "paralela",
+     "Autokomentarz środowiska Janowego — ten sam słownik plus dotyk"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ap",
+     19,
+     13,
+     19,
+     13,
+     "Ap 19,13",
+     "paralela",
+     "Imię Jego: Słowo Boga — klamra corpus Joanneum"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     3,
+     3,
+     3,
+     8,
+     "J 3,3–8",
+     "rozwiniecie",
+     "Narodzenie z wody i Ducha — rozwinięcie w. 12–13"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 P",
+     1,
+     23,
+     1,
+     23,
+     "1 P 1,23",
+     "paralela",
+     "Zrodzeni z niezniszczalnego nasienia — przez słowo Boga"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Jk",
+     1,
+     18,
+     1,
+     18,
+     "Jk 1,18",
+     "paralela",
+     "Zrodził nas słowem prawdy"
+    ],
+    [
+     [
+      "unit",
+      "w. 1",
+      3
+     ],
+     "J",
+     20,
+     28,
+     20,
+     28,
+     "J 20,28",
+     "por",
+     "Tomasz: Pan mój i Bóg mój — z rodzajnikami"
+    ],
+    [
+     [
+      "unit",
+      "w. 1",
+      2
+     ],
+     "J",
+     17,
+     5,
+     17,
+     5,
+     "J 17,5",
+     "por",
+     "παρὰ σοί — przy Tobie: alternatywna konstrukcja, której Jan tu nie wybrał"
+    ],
+    [
+     [
+      "unit",
+      "w. 3",
+      0
+     ],
+     "1 Kor",
+     8,
+     6,
+     8,
+     6,
+     "1 Kor 8,6",
+     "por",
+     "δι᾿ οὗ τὰ πάντα — przez którego wszystko"
+    ],
+    [
+     [
+      "unit",
+      "w. 5",
+      1
+     ],
+     "J",
+     12,
+     35,
+     12,
+     35,
+     "J 12,35",
+     "por",
+     "aby ciemność was nie ogarnęła — ta sama wieloznaczność καταλαμβάνω"
+    ],
+    [
+     [
+      "unit",
+      "w. 6–8",
+      0
+     ],
+     "Dz",
+     19,
+     1,
+     19,
+     7,
+     "Dz 19,1–7",
+     "por",
+     "Uczniowie w Efezie znający tylko chrzest Janowy"
+    ],
+    [
+     [
+      "unit",
+      "w. 12–13",
+      0
+     ],
+     "Rz",
+     8,
+     15,
+     8,
+     15,
+     "Rz 8,15",
+     "kontrast",
+     "Pawłowa υἱοθεσία (adopcja) vs Janowe zrodzenie"
+    ],
+    [
+     [
+      "unit",
+      "w. 12–13",
+      2
+     ],
+     "J",
+     3,
+     3,
+     3,
+     3,
+     "J 3,3",
+     "rozwiniecie",
+     "Narodzenie ἄνωθεν — z góry / na nowo"
+    ],
+    [
+     [
+      "unit",
+      "w. 14",
+      1
+     ],
+     "J",
+     2,
+     21,
+     2,
+     21,
+     "J 2,21",
+     "rozwiniecie",
+     "Mówił o świątyni swego ciała"
+    ],
+    [
+     [
+      "section",
+      "Świat Prologu: judaizm Drugiej Świątyni"
+     ],
+     "J",
+     16,
+     28,
+     16,
+     28,
+     "J 16,28",
+     "por",
+     "Wyszedłem od Ojca... znowu opuszczam świat — fabuła zstąpienia i wstąpienia"
+    ],
+    [
+     [
+      "section",
+      "Świat Prologu: judaizm Drugiej Świątyni"
+     ],
+     "Syr",
+     24,
+     8,
+     24,
+     8,
+     "Syr 24,8",
+     "cytat",
+     "ἐν Ιακωβ κατασκήνωσον — w Jakubie rozbij namiot"
+    ],
+    [
+     [
+      "section",
+      "Świat Prologu: judaizm Drugiej Świątyni"
+     ],
+     "Dz",
+     18,
+     24,
+     18,
+     24,
+     "Dz 18,24",
+     "por",
+     "Apollos — Efez i Aleksandria naczyniami połączonymi"
+    ],
+    [
+     [
+      "section",
+      "Tło polemiczne"
+     ],
+     "J",
+     9,
+     22,
+     9,
+     22,
+     "J 9,22",
+     "por",
+     "ἀποσυνάγωγος — wyłączony z synagogi"
+    ],
+    [
+     [
+      "section",
+      "6. Łaska i przebóstwienie"
+     ],
+     "2 P",
+     1,
+     4,
+     1,
+     4,
+     "2 P 1,4",
+     "por",
+     "Uczestnicy Boskiej natury"
+    ],
+    [
+     [
+      "section",
+      "Po czwarte: strzeże realizmu ciała"
+     ],
+     "Łk",
+     1,
+     35,
+     1,
+     35,
+     "Łk 1,35",
+     "por",
+     "Duch ukształtował ciało Słowa w łonie Dziewicy"
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     null,
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Super Ioannem, ST i ScG — podstawa całej sekcji III",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     null,
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     null,
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     null,
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     null,
+     "Summa contra Gentiles"
+    ],
+    [
+     "Sobór Watykański II",
+     "nr 11–13",
+     [
+      "section",
+      "V. Autor Boży: co Duch Święty chce przekazać"
+     ],
+     "Nauka o natchnieniu; sensus plenior",
+     "Dei Verbum"
+    ],
+    [
+     "św. Justyn Męczennik",
+     null,
+     [
+      "section",
+      "Historia dogmatu"
+     ],
+     "Teologia λόγος σπερματικός zbudowana na w. 9",
+     null
+    ],
+    [
+     "św. Ireneusz z Lyonu",
+     null,
+     [
+      "section",
+      "Historia dogmatu"
+     ],
+     "Jedność Stwórcy i Zbawiciela oparta na w. 3 i 14; świadectwo autorstwa (ok. 180 r.)",
+     null
+    ],
+    [
+     "Orygenes",
+     null,
+     [
+      "section",
+      "Historia dogmatu"
+     ],
+     "Najobszerniejszy starożytny komentarz biblijny — całe księgi o pierwszych wersetach",
+     "Komentarz do Ewangelii Jana"
+    ],
+    [
+     "św. Atanazy",
+     null,
+     [
+      "section",
+      "Historia dogmatu"
+     ],
+     "Odpowiedź na arianizm z w. 1; ὁμοούσιος jako parafraza θεὸς ἦν ὁ λόγος",
+     null
+    ],
+    [
+     "św. Jan Damasceński",
+     null,
+     [
+      "section",
+      "Historia dogmatu"
+     ],
+     "Teologia ikony: skoro Niewidzialny stał się widzialny, wolno Go malować",
+     null
+    ],
+    [
+     "Filon z Aleksandrii",
+     null,
+     [
+      "section",
+      "Świat Prologu: judaizm Drugiej Świątyni"
+     ],
+     "Logos jako byt pośredni — nigdy osoba, nigdy wcielony",
+     null
+    ],
+    [
+     "św. Augustyn",
+     null,
+     [
+      "section",
+      "Nota warsztatowa"
+     ],
+     "Zalecany komentarz klasyczny",
+     "In Iohannis Evangelium tractatus"
+    ],
+    [
+     "R. E. Brown",
+     null,
+     [
+      "section",
+      "Nota warsztatowa"
+     ],
+     "Zalecany komentarz współczesny",
+     "The Gospel According to John (Anchor Bible)"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 1",
+     "Tertulian",
+     "Adversus Praxean",
+     "Adv. Prax. 5",
+     "Pierwsza łacińska egzegeza w. 1 zmaga się z samym przekładem: λόγος (słowo, rozum) to po łacinie zarazem *Ratio* (Rozum) i *Sermo* (Mowa, Słowo). Tertulian rozstrzyga: zanim cokolwiek powstało, Bóg nie był sam — miał w sobie Rozum, a w Rozumie Słowo, które „rozmawiał w sobie\". Przeciw Prakseaszowi (modaliście, dla którego Ojciec i Syn to jedna osoba w dwóch maskach) podkreśla: Słowo jest *alius* (inny — jako osoba), nie *aliud* (co innego — jako substancja); odrębność bez podziału, ekonomia (*dispositio* — rozporządzenie) bez rozdarcia monarchii. To surowe, przednicejskie żelazo, z którego później wykuto precyzyjniejsze formuły."
+    ],
+    [
+     "w. 1",
+     "Orygenes",
+     "Komentarz do Ewangelii Jana",
+     "Comm. in Io., ks. I–II",
+     "Najobszerniejszy starożytny komentarz do jednego wersetu: Orygenes bada kolejno każde słowo. Ἀρχή (początek) ma wiele znaczeń — początek drogi, tworzywo, zasada rządzenia — ale tu oznacza Mądrość: „na początku\" znaczy „w Mądrości\", bo Chrystus sam jest ἀρχή (zasadą). Orygenes pierwszy zauważa też grę rodzajnika w w. 1c: ὁ θεός (ten-oto Bóg, z rodzajnikiem) o Ojcu jako źródle bóstwa, θεός (Bóg, bez rodzajnika) o Słowie. Jego wyjaśnienie — Słowo jest Bogiem przez odwieczne trwanie przy Ojcu — czytano po Nicei ostrożnie (subordynacjanizm), ale dokumentuje ono, że gramatyka tego półwersetu była przedmiotem drobiazgowego namysłu już w III wieku."
+    ],
+    [
+     "w. 1",
+     "św. Hilary z Poitiers",
+     "De Trinitate",
+     "De Trin. I,10–12",
+     "Świadectwo autobiograficzne, jedyne w swoim rodzaju: Hilary opisuje, jak szukając Boga u filozofów — przez naturę, przez piękno, przez nieskończoność — trafił na Prolog Jana i „przekroczył pojmowanie rozumu\". *In principio erat Verbum* (Na początku było Słowo) dało mu to, czego filozofia obiecać nie mogła: Boga, który nie jest samotną monadą, lecz Ojcem mającym współwiecznego Syna. „Umysł mój przekroczył swoją naturalną pojętność i nauczyłem się o Bogu więcej, niż się spodziewałem\". Prolog jako droga nawrócenia intelektu — nie argument, lecz objawienie, które rozum przyjmuje, klękając."
+    ],
+    [
+     "w. 1",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 2–4",
+     "Chryzostom każe liczyć: czterokrotne ἦν (było) w w. 1–2 to cztery uderzenia młota w fundament arianizmu — „był\" nie ma punktu początkowego, więc pytanie „kiedy powstał?\" jest źle postawione. Rybak z Galilei „zagrzmiał\" (stąd tytuł ὁ βροντῆς υἱός — syn gromu) prawdą, której nie ośmieliła się wypowiedzieć żadna filozofia: nie zaczyna od ziemi jak Mateusz i Łukasz, lecz od nieba, „bo duchem został uniesiony ponad wszystko, co zmysłowe\". A jednak — dodaje kaznodzieja — mówi o Bogu tylko tyle, ile człowiek unieść może: imię „Słowo\" samo jest zniżeniem się (συγκατάβασις — synkatabasis, łaskawe zejście do słabości słuchacza)."
+    ],
+    [
+     "w. 1",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 1,8; por. Conf. VII,9",
+     "Augustyn podsuwa analogię, którą Tomasz rozwinie w naukę o *verbum mentis* (słowie umysłu): zanim słowo zabrzmi, jest noszone w sercu — *verbum quod corde gestamus* (słowo, które nosimy w sercu) — i nie umniejsza się, gdy je wypowiadamy. Tak Słowo Boże: zrodzone, a nie oddzielone; wypowiedziane, a pozostające u Ojca. W *Wyznaniach* zaś Augustyn zeznaje, że treść w. 1–5 wyczytał wcześniej „nie tymi słowami, ale co do sensu\" w księgach platoników — i właśnie dlatego wie, gdzie przebiega granica: filozofia dosięgła Słowa u Boga, lecz zdania *Verbum caro factum est* (Słowo ciałem się stało) u platoników nie znalazł nikt."
+    ],
+    [
+     "w. 2",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 4",
+     "Po co powtórzenie? Chryzostom: bo herezja czyha na każdą szczelinę. Gdyby Jan poprzestał na w. 1, ktoś mógłby czytać: Słowo „było Bogiem\" — czyli kiedyś nim się stało; οὗτος (ten właśnie) zbiera wszystko w jedno i zatrzaskuje furtkę: Ten, który jest Bogiem, ten sam był na początku u Boga. Ewangelista pisze jak dobry budowniczy — kładzie kamień i zaraz go sprawdza, zanim położy następny."
+    ],
+    [
+     "w. 3",
+     "św. Ireneusz z Lyonu",
+     "Adversus haereses",
+     "Adv. haer. I,22,1; III,8,3",
+     "Dla Ireneusza w. 3 jest artykułem reguły prawdy (*regula veritatis*): jeden i ten sam Bóg wszystko uczynił przez swoje Słowo — nie aniołowie, nie eony, nie niższy demiurg gnostyków. „Wszystko\" znaczy wszystko: świat materialny nie jest pomyłką ani upadkiem, lecz dziełem tego samego Słowa, które potem stało się ciałem. Jedność Stwórcy i Zbawiciela — najkrótsza definicja ortodoksji II wieku — wisi na jednym Janowym πάντα (wszystko)."
+    ],
+    [
+     "w. 3",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 1,16–17",
+     "Do starszej interpunkcji (to, co się stało, *w Nim* było życiem) Augustyn dodaje obraz, który stał się klasyką: stolarz robi skrzynię. Najpierw ma ją w swojej sztuce (*in arte*) — i skrzynia w sztuce żyje, bo żyje dusza rzemieślnika; potem robi ją z drewna — i skrzynia wykonana życiem nie jest, może spróchnieć i rozpaść się. Tak wszystkie rzeczy: w sobie są zmienne i śmiertelne, w Słowie są życiem — bo istnieją tam odwiecznie jako zamysł Tego, który żyje. Ziemia jest w Słowie życiem, choć w sobie jest tylko ziemią. Stąd prosta rada egzegety: chcesz zobaczyć rzecz naprawdę — szukaj jej tam, gdzie jest żywa."
+    ],
+    [
+     "w. 4",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 1,18",
+     "Światłość ludzi — Augustyn pyta: czym różni się człowiek od zwierzęcia, jeśli nie umysłem (*mens*), rozumem serca, którym widzi się sprawiedliwość i prawdę? Ta właśnie władza jest oświecana przez Życie, które jest w Słowie. Człowiek jest więc zapalony, nie samoświecący: *lucerna* (lampa) może zgasnąć — Światłość zgasnąć nie może. Cała augustyńska nauka o iluminacji (oświeceniu umysłu), którą Tomasz przełoży później na uczestnictwo w świetle niestworzonym, wyrasta z tego półwersetu."
+    ],
+    [
+     "w. 5",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 1,19",
+     "„Ciemność jej nie ogarnęła\" — Augustyn tłumaczy obrazem ślepca w słońcu: słońce jest obecne przy nim, ale on jest nieobecny dla słońca. Tak głupota i grzech: światłość świeci w ciemności, lecz serca odwrócone nie widzą — nie dlatego, że światła brak, ale że oko chore. Stąd wezwanie zamykające homilię: nie wystarczy, by światło przyszło — trzeba oczyścić oko, którym się je widzi; a oczyszcza je Ten sam, który świeci."
+    ],
+    [
+     "w. 6–8",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 2,2–5",
+     "Skąd wiedzieć o Światłości, której zobaczyć nie można? Augustyn: spójrz na górę o świcie. Jan Chrzciciel jest górą oświeconą (*mons illuminatus*) — góry pierwsze chwytają wschodzące słońce, ale góra nie jest słońcem; kto by się zatrzymał na górze, zostanie w cieniu. Dlatego sam Jan powie o sobie tylko tyle: głos; a Pan nazwie go lampą (λύχνος — lucerna, J 5,35) — zapaloną, więc mogącą zgasnąć. Podnieś oczy znad góry ku Temu, który ją oświecił — oto cała teologia świadectwa w jednym obrazie."
+    ],
+    [
+     "w. 6–8",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 6",
+     "Czy Światłość potrzebuje świadka-człowieka? Chryzostom: nie Światłość — słuchacze. Bóg zniża się (συγκατάβασις — synkatabasis, łaskawe zejście) do miary słabych: posyła głos znajomy, proroka w duchu Eliasza, aby ci, którzy nie unieśli jeszcze blasku, poszli za świadkiem aż do Świadczonego. Świadectwo Jana jest więc rusztowaniem: potrzebne, dopóki trwa budowa wiary, i pięknie usuwające się w cień, gdy przychodzi Ten, o którym świadczyło — „trzeba, by On wzrastał, a ja się umniejszał\" (J 3,30)."
+    ],
+    [
+     "w. 9",
+     "św. Justyn Męczennik",
+     "Apologie",
+     "Apol. I 46; II 8.13",
+     "Pierwsza chrześcijańska filozofia kultury wyrasta wprost z w. 9: jeżeli Słowo oświeca każdego człowieka, to każdy, kto żył według Logosu (rozumu-Słowa), miał w nim udział. Justyn ośmiela się napisać, że Sokrates i Heraklit byli „chrześcijanami przed Chrystusem\" — o tyle, o ile żyli μετὰ λόγου (według Słowa/rozumu); wszystko bowiem, co filozofowie i prawodawcy powiedzieli prawdziwego, powiedzieli dzięki nasieniu Słowa (λόγος σπερματικός — rozum zarodkowy) w sobie. W Chrystusie zaś objawił się cały Logos — dlatego chrześcijaństwo nie boi się żadnej prawdy: każda jest jego własnością."
+    ],
+    [
+     "w. 10",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 2,11–13",
+     "„Świat Go nie poznał\" — kim jest ten ślepy świat? Augustyn: miłośnicy świata, ludzie, którzy sercem zamieszkali w tym, co stworzone, i dlatego nie rozpoznali Stwórcy stojącego pośrodku. Przyszedł tu, gdzie zawsze był — *huc venit, ubi erat* (przyszedł tam, gdzie był) — bo nie zmienił miejsca, lecz stał się widzialny. A „swoi nie przyjęli\": Augustyn czyta to i o Izraelu, i o każdym ochrzczonym, który nosi imię Chrystusa, a żyje jak obcy — Prolog nie pozwala czytelnikowi ustawić się wygodnie po stronie przyjmujących bez pytania o siebie."
+    ],
+    [
+     "w. 12–13",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. I",
+     "Cyryl precyzuje mechanikę usynowienia: Syn jest Synem z natury (φύσει — z natury), my stajemy się synami przez uczestnictwo (μετοχῇ — przez udział) i łaskę — Duch Święty odciska w ochrzczonych podobieństwo Jednorodzonego jak pieczęć w wosku. Dlatego Jan mówi „dało im moc *stać się*\": dziecięctwo Boże nie jest ani metaforą, ani tytułem honorowym, lecz realnym przeobrażeniem, którego zasadą jest Ten, który sam z Boga jest zrodzony. Aleksandryjska teologia przebóstwienia — którą Tomasz odda formułą łaski jako uczestnictwa w naturze Bożej — ma tu swoje Janowe źródło."
+    ],
+    [
+     "w. 12–13",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 10–11",
+     "Chryzostom zatrzymuje się nad słowem ἐξουσία (moc, uprawnienie): dlaczego „dał moc stać się\", a nie po prostu „uczynił dziećmi\"? Bo łaska nie gwałci wolności — dar trzeba przyjąć, a przyjęcie kosztuje trud całego życia; władza stania się dzieckiem jest jak żagiel: wiatr daje Bóg, ale żagiel trzeba postawić. Narodzenie „z Boga\" wskazuje na chrzest — kąpiel odrodzenia, w której zaczyna się to, co w. 13 opisuje potrójnym przeczeniem: pochodzenie już nie z krwi i woli ciała, lecz z góry."
+    ],
+    [
+     "w. 14",
+     "św. Ireneusz z Lyonu",
+     "Adversus haereses",
+     "Adv. haer. V, praef.; III,18,1",
+     "Najstarsza formuła przedziwnej wymiany: Słowo „stało się tym, czym my jesteśmy, aby nas uczynić tym, czym samo jest\" (*factus est quod sumus nos, uti nos perficeret esse quod est ipse*). Ireneusz nazywa dzieło Wcielenia rekapitulacją (ἀνακεφαλαίωσις — anakefalaiosis, ponowne zjednoczenie pod jedną Głową): Słowo przeszło przez wszystkie etapy ludzkiego życia, aby każdy z nich uświęcić od środka i zawrócić historię Adama. Przeciw gnostykom, dla których ciało było odpadem: to samo Słowo, które ciało stworzyło (w. 3), ciało przyjęło (w. 14) — stworzenie i zbawienie są jednym łukiem."
+    ],
+    [
+     "w. 14",
+     "św. Atanazy",
+     "De incarnatione Verbi",
+     "De inc. 54",
+     "Zdanie, które streszcza całą sotoriologię grecką: Αὐτὸς γὰρ ἐνηνθρώπησεν, ἵνα ἡμεῖς θεοποιηθῶμεν (On bowiem stał się człowiekiem, abyśmy my zostali przebóstwieni). Atanazy czyta w. 14 celowościowo: Wcielenie nie jest epizodem ratunkowym, lecz otwarciem wymiany — Słowo wzięło to, co nasze (σάρξ — ciało w jego śmiertelności), aby dać nam to, co swoje (nieśmiertelność, synostwo, poznanie Ojca). Dlatego w sporze ariańskim stawką nie była subtelność metafizyczna, lecz samo zbawienie: gdyby Słowo było stworzeniem, wymiana nie miałaby pokrycia — stworzenie nie może przebóstwić stworzenia."
+    ],
+    [
+     "w. 14",
+     "św. Grzegorz z Nazjanzu",
+     "Epistula 101 (do Kledoniusza)",
+     "Ep. 101,32",
+     "Τὸ γὰρ ἀπρόσληπτον, ἀθεράπευτον (co bowiem nie zostało przyjęte, nie zostało uleczone). Przeciw Apolinaremu, który odmawiał Chrystusowi ludzkiego umysłu: σάρξ w w. 14 to nie tylko tkanka — to całe człowieczeństwo, z duszą i umysłem, bo właśnie umysł pierwszy zgrzeszył i najbardziej potrzebuje uleczenia. Zasada Grzegorza stała się probierzem chrystologii: zakres Wcielenia wyznacza zakres zbawienia; gdzie Słowo nie weszło, tam terapia nie sięga. Jan, pisząc σὰρξ ἐγένετο (ciałem się stało), użył części za całość — i Ojcowie pilnowali, by tej całości nikt nie okroił."
+    ],
+    [
+     "w. 14",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 11",
+     "„Stało się\" — ale jak? Chryzostom odpowiada z precyzją, którą powtórzy Chalcedon: nie przez przemianę (natura Boża nie przeszła w ciało), nie przez zmieszanie, lecz przez przyjęcie: pozostał, czym był, a stał się, czym nie był. Słowo zamieszkało w ciele jak w świątyni — μένων ὅ ἦν, ἔλαβεν ὃ οὐκ ἦν (pozostając, czym był, przyjął, czym nie był). Ewangelista dlatego zaraz dodaje „i oglądaliśmy chwałę Jego\": ciało nie zasłoniło bóstwa, lecz stało się jego widzialnością — namiotem, przez którego zasłonę prześwieca Szechina (obecność)."
+    ],
+    [
+     "w. 14",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 2,15–16; Conf. VII,18",
+     "Dla Augustyna w. 14 jest lekarstwem — i to celowanym: na pychę. Filozofowie dojrzeli ojczyznę z daleka, ale nie znaleźli drogi; droga zaś jest pokorna: *Verbum caro factum est* (Słowo ciałem się stało). Bóg stał się niski, aby uleczyć nadętych; Mądrość stała się mlekiem — bo pokarmu stałego nie unieśliśmy — „abyśmy przez Tego, przez którego wszystko się stało, ssali mądrość jak niemowlęta\". W *Wyznaniach* dopowie: dopóki nie uchwyciłem się pokornego Jezusa, wiedza mnie nadymała, zamiast budować. Egzegeza w. 14 jest u Augustyna nierozdzielnie doktryną i terapią duszy."
+    ],
+    [
+     "w. 14",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. I",
+     "Cyryl waży każde słowo przeciw dwóm przepaściom naraz: „stało się ciałem\" nie znaczy, że natura Słowa uległa zamianie (przeciw pomysłom o przemianie bóstwa), ani że Słowo tylko zamieszkało w człowieku jak w kimś drugim (przeciw temu, co wkrótce zarzuci Nestoriuszowi): jedno i to samo jest Słowo i Jego ciało ożywione rozumną duszą — dlatego o Maryi wolno i trzeba mówić Θεοτόκος (Theotokos — Boża Rodzicielka). Formuła Efezu (431 r.) jest w istocie egzegezą w. 14 doprowadzoną do końca: podmiotem zdania „Słowo ciałem się stało\" jest Słowo — więc i podmiotem narodzenia, głodu, łez i krzyża."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "Ewangelia głównej Mszy w dzień Narodzenia Pańskiego (Missa in die, 25 XII)",
+     "J 1,1–14 (lub 1,1–18)",
+     "Po nocnej Ewangelii o żłóbku Kościół w pełnym świetle dnia czyta metafizykę tej nocy; Prolog powraca też w dni powszednie przed Epifanią."
+    ],
+    [
+     "rzymski (forma nadzwyczajna)",
+     "Ostatnia Ewangelia (ultimum Evangelium) na końcu każdej Mszy",
+     "J 1,1–14",
+     "Zwyczaj wyrosły w średniowieczu z prywatnej pobożności kapłańskiej, utrwalony w Mszale Piusa V (1570)."
+    ],
+    [
+     "rzymski",
+     "Przyklęknięcie na Et Verbum caro factum est",
+     "J 1,14",
+     "Jak na Et incarnatus est w Credo — ciało liturgii samo wykłada egzegezę."
+    ],
+    [
+     "pobożność",
+     "Anioł Pański — trzecie wezwanie",
+     "J 1,14",
+     "Et Verbum caro factum est — et habitavit in nobis; trzy razy dziennie od stuleci."
+    ],
+    [
+     "bizantyjski",
+     "Ewangelia głównej liturgii Paschy",
+     "J 1,1–17",
+     "Wschód czyta Prolog przy pustym grobie, często w wielu językach naraz."
+    ],
+    [
+     "sakramentalia",
+     "Błogosławieństwa, modlitwy nad chorymi, egzorcyzmy mniejsze, błogosławieństwo pól",
+     "J 1,1–14",
+     "Noszony zapisany przy sobie; inicjały In principio otwierały iluminowane ewangeliarze (Book of Kells)."
+    ]
+   ],
+   "textual": [
+    [
+     3,
+     "ὃ γέγονεν",
+     "interpunkcja",
+     "NA28, za najstarszymi świadkami i interpunkcją ojców przednicejskich, dopuszcza łączenie z w. 4: ὃ γέγονεν ἐν αὐτῷ ζωὴ ἦν. Po kryzysie ariańskim ojcowie zaczęli łączyć z w. 3, by arianie nie czytali „Duch też się stał\".",
+     "Obie lektury prawowierne; starsza zbieżna z nauką o rationes aeternae."
+    ],
+    [
+     13,
+     "ὃς … ἐγεννήθη",
+     "wariant lekcji",
+     "Garść świadków łacińskich i cytaty ojców (m.in. Ireneusz, Tertulian) czytają liczbę pojedynczą — odnosząc werset do dziewiczego poczęcia Chrystusa.",
+     "NA28 słusznie utrzymuje liczbę mnogą (całość tradycji greckiej); stara lekcja świadczy o wczesnej analogii: narodzenie wierzących odwzorowaniem narodzenia Słowa."
+    ]
+   ],
+   "theme_links": [
+    [
+     "ἦν / ἐγένετο — trwanie a stawanie się",
+     [
+      "unit",
+      "w. 1",
+      0
+     ]
+    ],
+    [
+     "ἦν / ἐγένετο — trwanie a stawanie się",
+     [
+      "section",
+      "2. Ipsum esse subsistens a porządek stawania się"
+     ]
+    ],
+    [
+     "ἦν / ἐγένετο — trwanie a stawanie się",
+     [
+      "unit",
+      "w. 14",
+      0
+     ]
+    ],
+    [
+     "światłość i ciemność",
+     [
+      "block",
+      "w. 4"
+     ]
+    ],
+    [
+     "światłość i ciemność",
+     [
+      "block",
+      "w. 5"
+     ]
+    ],
+    [
+     "światłość i ciemność",
+     [
+      "unit",
+      "w. 9",
+      0
+     ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 6–8"
+     ]
+    ],
+    [
+     "Szechina — zamieszkanie Boga",
+     [
+      "unit",
+      "w. 14",
+      1
+     ]
+    ],
+    [
+     "Szechina — zamieszkanie Boga",
+     [
+      "unit",
+      "w. 14",
+      3
+     ]
+    ],
+    [
+     "Szechina — zamieszkanie Boga",
+     [
+      "section",
+      "Świat Prologu: judaizm Drugiej Świątyni"
+     ]
+    ],
+    [
+     "narodzenie z Boga",
+     [
+      "block",
+      "w. 12–13"
+     ]
+    ],
+    [
+     "narodzenie z Boga",
+     [
+      "section",
+      "6. Łaska i przebóstwienie"
+     ]
+    ],
+    [
+     "narodzenie z Boga",
+     [
+      "section",
+      "Po trzecie: mówi o czytelniku"
+     ]
+    ],
+    [
+     "chiazm Prologu",
+     [
+      "section",
+      "Struktura całości"
+     ]
+    ],
+    [
+     "Logos a Mądrość",
+     [
+      "section",
+      "Świat Prologu: judaizm Drugiej Świątyni"
+     ]
+    ],
+    [
+     "Logos a Mądrość",
+     [
+      "unit",
+      "w. 1",
+      4
+     ]
+    ],
+    [
+     "anty-doketyzm",
+     [
+      "unit",
+      "w. 14",
+      0
+     ]
+    ],
+    [
+     "anty-doketyzm",
+     [
+      "section",
+      "Tło polemiczne"
+     ]
+    ],
+    [
+     "anty-doketyzm",
+     [
+      "section",
+      "Po czwarte: strzeże realizmu ciała"
+     ]
+    ]
+   ],
+   "revision_note": "Migracja Prologu (J 1,1-14) + katena Ojców Kościoła"
+  }
+ ]
+}

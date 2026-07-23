@@ -1,0 +1,700 @@
+{
+ "books": [
+  [
+   "Am",
+   "Księga Amosa",
+   "ST",
+   37
+  ]
+ ],
+ "verses": {
+  "chapter": 2,
+  "items": [
+   [
+    1,
+    "Καὶ τῇ ἡμέρᾳ τῇ τρίτῃ γάμος ἐγένετο ἐν Κανὰ τῆς Γαλιλαίας, καὶ ἦν ἡ μήτηρ τοῦ Ἰησοῦ ἐκεῖ·",
+    "A trzeciego dnia odbyło się wesele w Kanie Galilejskiej i była tam matka Jezusa."
+   ],
+   [
+    2,
+    "ἐκλήθη δὲ καὶ ὁ Ἰησοῦς καὶ οἱ μαθηταὶ αὐτοῦ εἰς τὸν γάμον.",
+    "Zaproszony był też na wesele Jezus i Jego uczniowie."
+   ],
+   [
+    3,
+    "καὶ ὑστερήσαντος οἴνου λέγει ἡ μήτηρ τοῦ Ἰησοῦ πρὸς αὐτόν· οἶνον οὐκ ἔχουσιν.",
+    "A gdy zabrakło wina, mówi matka Jezusa do Niego: Wina nie mają."
+   ],
+   [
+    4,
+    "[καὶ] λέγει αὐτῇ ὁ Ἰησοῦς· τί ἐμοὶ καὶ σοί, γύναι; οὔπω ἥκει ἡ ὥρα μου.",
+    "[I] mówi jej Jezus: Co Mnie i tobie, niewiasto? Jeszcze nie nadeszła godzina moja."
+   ],
+   [
+    5,
+    "λέγει ἡ μήτηρ αὐτοῦ τοῖς διακόνοις· ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε.",
+    "Mówi Jego matka sługom: Cokolwiek wam powie, czyńcie."
+   ],
+   [
+    6,
+    "ἦσαν δὲ ἐκεῖ λίθιναι ὑδρίαι ἓξ κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων κείμεναι, χωροῦσαι ἀνὰ μετρητὰς δύο ἢ τρεῖς.",
+    "A stało tam sześć kamiennych stągwi, ustawionych do żydowskiego oczyszczenia, mieszczących po dwie lub trzy miary."
+   ],
+   [
+    7,
+    "λέγει αὐτοῖς ὁ Ἰησοῦς· γεμίσατε τὰς ὑδρίας ὕδατος. καὶ ἐγέμισαν αὐτὰς ἕως ἄνω.",
+    "Mówi im Jezus: Napełnijcie stągwie wodą. I napełnili je aż po brzegi."
+   ],
+   [
+    8,
+    "καὶ λέγει αὐτοῖς· ἀντλήσατε νῦν καὶ φέρετε τῷ ἀρχιτρικλίνῳ· οἱ δὲ ἤνεγκαν.",
+    "I mówi im: Zaczerpnijcie teraz i zanieście staroście weselnemu. Oni zaś zanieśli."
+   ],
+   [
+    9,
+    "ὡς δὲ ἐγεύσατο ὁ ἀρχιτρίκλινος τὸ ὕδωρ οἶνον γεγενημένον καὶ οὐκ ᾔδει πόθεν ἐστίν, οἱ δὲ διάκονοι ᾔδεισαν οἱ ἠντληκότες τὸ ὕδωρ, φωνεῖ τὸν νυμφίον ὁ ἀρχιτρίκλινος",
+    "A gdy starosta skosztował wody, która stała się winem — a nie wiedział, skąd jest; słudzy zaś, którzy zaczerpnęli wody, wiedzieli — woła starosta pana młodego"
+   ],
+   [
+    10,
+    "καὶ λέγει αὐτῷ· πᾶς ἄνθρωπος πρῶτον τὸν καλὸν οἶνον τίθησιν καὶ ὅταν μεθυσθῶσιν τὸν ἐλάσσω· σὺ τετήρηκας τὸν καλὸν οἶνον ἕως ἄρτι.",
+    "i mówi mu: Każdy człowiek stawia najpierw dobre wino, a gdy sobie podpiją — gorsze; ty zachowałeś dobre wino aż dotąd."
+   ],
+   [
+    11,
+    "Ταύτην ἐποίησεν ἀρχὴν τῶν σημείων ὁ Ἰησοῦς ἐν Κανὰ τῆς Γαλιλαίας καὶ ἐφανέρωσεν τὴν δόξαν αὐτοῦ, καὶ ἐπίστευσαν εἰς αὐτὸν οἱ μαθηταὶ αὐτοῦ.",
+    "Ten początek znaków uczynił Jezus w Kanie Galilejskiej i objawił swoją chwałę, i uwierzyli w Niego Jego uczniowie."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "γάμος",
+   "gamos",
+   "rzeczownik",
+   "wesele, gody (mesjańska uczta weselna)"
+  ],
+  [
+   "οἶνος",
+   "oinos",
+   "rzeczownik",
+   "wino — biblijny znak radości i czasów mesjańskich"
+  ],
+  [
+   "ὥρα",
+   "hora",
+   "rzeczownik",
+   "godzina — u Jana: wyznaczony czas uwielbienia przez krzyż (2,4; 7,30; 12,23; 13,1; 17,1)"
+  ],
+  [
+   "γυνή",
+   "gyne",
+   "rzeczownik",
+   "kobieta, niewiasta — u Jana tytuł teologiczny (2,4; 19,26)"
+  ],
+  [
+   "σημεῖον",
+   "semeion",
+   "rzeczownik",
+   "znak — Janowe słowo na cud: wskazuje poza siebie (nie θαῦμα — dziw)"
+  ],
+  [
+   "φανερόω",
+   "phaneroo",
+   "czasownik",
+   "objawić, uczynić jawnym"
+  ],
+  [
+   "ὑδρία",
+   "hydria",
+   "rzeczownik",
+   "stągiew na wodę"
+  ],
+  [
+   "καθαρισμός",
+   "katharismos",
+   "rzeczownik",
+   "oczyszczenie (rytualne)"
+  ],
+  [
+   "διάκονος",
+   "diakonos",
+   "rzeczownik",
+   "sługa, usługujący (stąd diakon)"
+  ],
+  [
+   "νυμφίος",
+   "nymphios",
+   "rzeczownik",
+   "pan młody, oblubieniec"
+  ]
+ ],
+ "semitic": [
+  [
+   "מַה־לִּי וָלָךְ",
+   "ma-li wa-lach",
+   "hbr",
+   "co mnie i tobie — idiom dystansu wobec wtrącenia (Sdz 11,12; 1 Krl 17,18); tło τί ἐμοὶ καὶ σοί w 2,4"
+  ]
+ ],
+ "occurrences": [
+  [
+   "γάμος",
+   1,
+   "γάμος"
+  ],
+  [
+   "γάμος",
+   2,
+   "γάμον"
+  ],
+  [
+   "γίνομαι",
+   1,
+   "ἐγένετο"
+  ],
+  [
+   "οἶνος",
+   3,
+   "οἴνου / οἶνον"
+  ],
+  [
+   "οἶνος",
+   9,
+   "οἶνον"
+  ],
+  [
+   "οἶνος",
+   10,
+   "οἶνον"
+  ],
+  [
+   "γυνή",
+   4,
+   "γύναι"
+  ],
+  [
+   "ὥρα",
+   4,
+   "ὥρα"
+  ],
+  [
+   "διάκονος",
+   5,
+   "διακόνοις"
+  ],
+  [
+   "διάκονος",
+   9,
+   "διάκονοι"
+  ],
+  [
+   "ὑδρία",
+   6,
+   "ὑδρίαι"
+  ],
+  [
+   "ὑδρία",
+   7,
+   "ὑδρίας"
+  ],
+  [
+   "καθαρισμός",
+   6,
+   "καθαρισμόν"
+  ],
+  [
+   "γίνομαι",
+   9,
+   "γεγενημένον"
+  ],
+  [
+   "νυμφίος",
+   9,
+   "νυμφίον"
+  ],
+  [
+   "ἀρχή",
+   11,
+   "ἀρχήν"
+  ],
+  [
+   "σημεῖον",
+   11,
+   "σημείων"
+  ],
+  [
+   "φανερόω",
+   11,
+   "ἐφανέρωσεν"
+  ],
+  [
+   "δόξα",
+   11,
+   "δόξαν"
+  ],
+  [
+   "πιστεύω",
+   11,
+   "ἐπίστευσαν"
+  ]
+ ],
+ "works": [],
+ "themes": [
+  [
+   "godzina Jezusa (ἡ ὥρα)",
+   "Wyznaczony czas uwielbienia przez krzyż: 2,4 (jeszcze nie) — 7,30; 8,20 — 12,23; 13,1; 17,1 (nadeszła). Zegar całej księgi uruchomiony w Kanie."
+  ],
+  [
+   "znaki (σημεῖα) i wiara",
+   "Siedem znaków księgi znaków (J 2–11); struktura znak → chwała → wiara ustanowiona w 2,11; znak jako strzałka wskazująca poza siebie (por. 20,30-31)."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 2,
+    "vs": 1,
+    "ce": 2,
+    "ve": 11,
+    "title": "Wesele w Kanie Galilejskiej",
+    "motto": "Quodcumque dixerit vobis, facite (Cokolwiek wam powie, czyńcie)",
+    "status": "w_opracowaniu",
+    "position": 7
+   },
+   "intro": "„Trzeciego dnia\" — tydzień inauguracji dobiega szczytu. Nowe stworzenie, odliczane dzień po dniu od J 1,19, kończy się nie kazaniem, lecz weselem: pierwszy znak Jezusa jest znakiem nadmiaru radości. W jedenastu wersetach spinają się wszystkie nici rozdziału pierwszego: ἀρχή (początek) wraca z 1,1, δόξα (chwała) z 1,14, wiara uczniów z 1,50 — a nad wszystkim po raz pierwszy pada słowo, które poprowadzi księgę do końca: godzina.",
+   "blocks": [
+    {
+     "label": "w. 1–2",
+     "cs": 2,
+     "vs": 1,
+     "ce": 2,
+     "ve": 2,
+     "greek": "Καὶ τῇ ἡμέρᾳ τῇ τρίτῃ γάμος ἐγένετο ἐν Κανὰ τῆς Γαλιλαίας, καὶ ἦν ἡ μήτηρ τοῦ Ἰησοῦ ἐκεῖ· ἐκλήθη δὲ καὶ ὁ Ἰησοῦς καὶ οἱ μαθηταὶ αὐτοῦ εἰς τὸν γάμον.",
+     "transl": "A trzeciego dnia odbyło się wesele w Kanie Galilejskiej i była tam matka Jezusa. Zaproszony był też na wesele Jezus i Jego uczniowie.",
+     "units": [
+      [
+       "τῇ ἡμέρᾳ τῇ τρίτῃ",
+       "trzeciego dnia",
+       "Rachuba jest podwójna i obie warstwy są zamierzone. (1) Trzeci dzień od powołania Natanaela zamyka tydzień inauguracji (J 1,19–2,11): dzień pierwszy — przesłuchanie, „nazajutrz\" — Baranek, „nazajutrz\" — pierwsi uczniowie, „nazajutrz\" — Filip i Natanael, „trzeciego dnia\" — Kana; nowy tydzień stworzenia kończy się godami, jak pierwszy kończył się szabatem. (2) „Trzeciego dnia\" to w Biblii dzień teofanii i ocalenia: trzeciego dnia Pan zstąpił na Synaj (Wj 19,11.16), trzeciego dnia Bóg wskrzesza (Oz 6,2) — a chrześcijańskie ucho słyszy tu przede wszystkim zapowiedź Zmartwychwstania. Pierwsze objawienie chwały nosi datę ostatniego."
+      ],
+      [
+       "ἡ μήτηρ τοῦ Ἰησοῦ",
+       "matka Jezusa",
+       "Czwarta Ewangelia nigdy nie nazywa Maryi po imieniu — zawsze „matka Jezusa\" albo „niewiasta\": nie z chłodu, lecz z typologii; jak „uczeń, którego Jezus miłował\", jest postacią, w której czytelnik ma zobaczyć więcej niż jednostkę. Występuje w tej księdze dokładnie dwa razy: na początku znaków (Kana) i w godzinie krzyża (J 19,25–27) — klamra zamierzona, bo oba razy pada to samo słowo γύναι (niewiasto) i oba razy chodzi o godzinę."
+      ]
+     ]
+    },
+    {
+     "label": "w. 3–5",
+     "cs": 2,
+     "vs": 3,
+     "ce": 2,
+     "ve": 5,
+     "greek": "καὶ ὑστερήσαντος οἴνου λέγει ἡ μήτηρ τοῦ Ἰησοῦ πρὸς αὐτόν· οἶνον οὐκ ἔχουσιν. [καὶ] λέγει αὐτῇ ὁ Ἰησοῦς· τί ἐμοὶ καὶ σοί, γύναι; οὔπω ἥκει ἡ ὥρα μου. λέγει ἡ μήτηρ αὐτοῦ τοῖς διακόνοις· ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε.",
+     "transl": "A gdy zabrakło wina, mówi matka Jezusa do Niego: Wina nie mają. [I] mówi jej Jezus: Co Mnie i tobie, niewiasto? Jeszcze nie nadeszła godzina moja. Mówi Jego matka sługom: Cokolwiek wam powie, czyńcie.",
+     "units": [
+      [
+       "οἶνον οὐκ ἔχουσιν",
+       "wina nie mają",
+       "Modlitwa wstawiennicza w trzech słowach: bez prośby, bez instrukcji — samo przedstawienie braku. Na weselu żydowskim, trwającym do siedmiu dni, wino było obowiązkiem gościnności; jego brak okrywał rodzinę wstydem na lata. Ale zdanie niesie więcej niż towarzyską katastrofę: wino to w Biblii radość (Ps 104,15: wino rozwesela serce człowieka) i znak czasów mesjańskich (Am 9,13: góry ociekać będą moszczem; Iz 25,6: uczta z wystałych win). „Wina nie mają\" — diagnoza Izraela i ludzkości u progu Ewangelii: skończyła się radość pierwszego przymierza; stągwie oczyszczeń stoją pełne wody, a wesele umiera."
+      ],
+      [
+       "τί ἐμοὶ καὶ σοί, γύναι;",
+       "co Mnie i tobie, niewiasto?",
+       "Semityzm ma-li wa-lach (co mnie i tobie — Sdz 11,12; 1 Krl 17,18): idiom zaznaczający dystans wobec wtrącenia — nie obelga, lecz sygnał innego porządku: między prośbą matki a działaniem Syna staje wola Ojca i „godzina\". Γύναι (niewiasto) — wołacz uprzejmy, ale w ustach syna do matki bezprecedensowy; Jan używa go celowo i powtórzy pod krzyżem (19,26). Od Ojców po współczesnych egzegetów czytano tu Niewiastę z Rdz 3,15 — nową Ewę przy nowym Adamie: w Kanie zaczyna się scena, którą dokończy Golgota, gdzie Niewiasta otrzyma macierzyństwo wobec ucznia. Ἡ ὥρα μου (godzina moja) — pierwsze uderzenie zegara czwartej Ewangelii: „godzina\" będzie wracać (7,30; 8,20: jeszcze nie nadeszła; 12,23; 13,1; 17,1: nadeszła) i zawsze znaczy jedno — uwielbienie przez krzyż. Prośba o wino dotknęła, nie wiedząc, sprężyny całej księgi: dać wino naprawdę znaczy wydać krew."
+      ],
+      [
+       "ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε",
+       "cokolwiek wam powie, czyńcie",
+       "Ostatnie zdanie Maryi zapisane w Ewangeliach — i doskonały testament: nie „zróbcie, co mówię\", lecz „czyńcie, cokolwiek On powie\". Fraza jest niemal cytatem z Rdz 41,55: faraon odsyła głodny Egipt do Józefa słowami „co wam powie, czyńcie\" — Maryja staje w roli faraona wskazującego nowego Józefa, szafarza w czasie braku. Zauważmy logikę wiary: po odpowiedzi, która brzmiała jak odmowa, matka nie wycofuje prośby, lecz przygotowuje posłuszeństwo — wierzy w „tak\" ukryte w „jeszcze nie\". To pierwszy akt wiary Nowego Testamentu wobec słowa Jezusa, złożony zanim jakikolwiek znak się dokonał."
+      ]
+     ]
+    },
+    {
+     "label": "w. 6–8",
+     "cs": 2,
+     "vs": 6,
+     "ce": 2,
+     "ve": 8,
+     "greek": "ἦσαν δὲ ἐκεῖ λίθιναι ὑδρίαι ἓξ κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων κείμεναι, χωροῦσαι ἀνὰ μετρητὰς δύο ἢ τρεῖς. λέγει αὐτοῖς ὁ Ἰησοῦς· γεμίσατε τὰς ὑδρίας ὕδατος. καὶ ἐγέμισαν αὐτὰς ἕως ἄνω. καὶ λέγει αὐτοῖς· ἀντλήσατε νῦν καὶ φέρετε τῷ ἀρχιτρικλίνῳ· οἱ δὲ ἤνεγκαν.",
+     "transl": "A stało tam sześć kamiennych stągwi, ustawionych do żydowskiego oczyszczenia, mieszczących po dwie lub trzy miary. Mówi im Jezus: Napełnijcie stągwie wodą. I napełnili je aż po brzegi. I mówi im: Zaczerpnijcie teraz i zanieście staroście weselnemu. Oni zaś zanieśli.",
+     "units": [
+      [
+       "λίθιναι ὑδρίαι ἓξ",
+       "sześć kamiennych stągwi",
+       "Każde słowo pracuje. Kamienne — bo według halachy (prawa) naczynia kamienne nie przyjmują nieczystości rytualnej (archeologia Galilei I wieku potwierdza masową produkcję naczyń kamiennych); to sprzęt religijny, nie kuchenny. Sześć — liczba o jeden mniejsza od pełni siódemki: system oczyszczeń dobry, lecz niepełny, czekający. Κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων (do żydowskiego oczyszczenia) — woda obmyć rytualnych stanie się winem wesela: nie zniesienie Prawa, lecz jego przemiana w radość (dokładnie logika 1,17). Pojemność: μετρητής (miara) ≈ 39 litrów; dwie–trzy miary na stągiew × sześć stągwi ≈ 500–700 litrów. Nadmiar jest skandaliczny i celowy: tak wygląda mesjańska obfitość — Bóg nie odmierza łaski aptekarską miarką."
+      ],
+      [
+       "γεμίσατε ... ἕως ἄνω",
+       "napełnijcie ... aż po brzegi",
+       "Cud potrzebuje posłuszeństwa bez zrozumienia: słudzy noszą setki litrów wody, nie wiedząc po co — i napełniają ἕως ἄνω (aż po brzegi), z gorliwością przekraczającą polecenie. Jan zapisuje tę nadgorliwość z czułością: pełnia cudu odpowiada pełni posłuszeństwa; kto napełnia do połowy, do połowy zobaczy. Sekwencja „napełnijcie — zaczerpnijcie — zanieście\" jest też liturgią w zalążku: ludzkie ręce podają materię, Pan daje przemianę, a droga wiedzie od posługi do stołu."
+      ]
+     ]
+    },
+    {
+     "label": "w. 9–10",
+     "cs": 2,
+     "vs": 9,
+     "ce": 2,
+     "ve": 10,
+     "greek": "ὡς δὲ ἐγεύσατο ὁ ἀρχιτρίκλινος τὸ ὕδωρ οἶνον γεγενημένον καὶ οὐκ ᾔδει πόθεν ἐστίν, οἱ δὲ διάκονοι ᾔδεισαν οἱ ἠντληκότες τὸ ὕδωρ, φωνεῖ τὸν νυμφίον ὁ ἀρχιτρίκλινος καὶ λέγει αὐτῷ· πᾶς ἄνθρωπος πρῶτον τὸν καλὸν οἶνον τίθησιν καὶ ὅταν μεθυσθῶσιν τὸν ἐλάσσω· σὺ τετήρηκας τὸν καλὸν οἶνον ἕως ἄρτι.",
+     "transl": "A gdy starosta skosztował wody, która stała się winem — a nie wiedział, skąd jest; słudzy zaś, którzy zaczerpnęli wody, wiedzieli — woła starosta pana młodego i mówi mu: Każdy człowiek stawia najpierw dobre wino, a gdy sobie podpiją — gorsze; ty zachowałeś dobre wino aż dotąd.",
+     "units": [
+      [
+       "τὸ ὕδωρ οἶνον γεγενημένον",
+       "wodę, która stała się winem",
+       "Participium perfecti od γίνομαι (stawać się) — czasownika, który w Prologu opisywał stworzenie (πάντα δι᾿ αὐτοῦ ἐγένετο — wszystko przez Nie się stało) i Wcielenie (ὁ λόγος σὰρξ ἐγένετο — Słowo ciałem się stało): ten sam Sprawca, ten sam czasownik, ta sama dyskrecja. Sam moment przemiany nie jest opisany — Jan nie pokazuje „jak\", pokazuje „skąd i dokąd\": nikt nie widzi cudu, wszyscy widzą skutek. Ironia wiedzy: starosta, ekspert od wina, nie wie πόθεν (skąd); słudzy, którzy nosili wodę, wiedzą — u Jana wiedza o pochodzeniu darów należy do tych, którzy służą (πόθεν powróci jako pytanie o samego Jezusa: 7,27n; 19,9)."
+      ],
+      [
+       "σὺ τετήρηκας τὸν καλὸν οἶνον ἕως ἄρτι",
+       "ty zachowałeś dobre wino aż dotąd",
+       "Starosta wygłasza — nieświadomie — teologię historii zbawienia: świat daje najpierw dobre, potem gorsze (młodość, potem osad); Bóg odwrotnie — najlepsze zachował na koniec. Καλός (dobry, piękny, szlachetny — to samo słowo, którym Jezus nazwie się Dobrym Pasterzem, 10,11): nowe wino przymierza nie jest tańszym zamiennikiem, lecz winem lepszym od wszystkiego, co podano dotąd. Ἕως ἄρτι (aż dotąd) — „teraz\" Ewangelii: czytelnik stoi przy stole, na który właśnie wjechało to wino."
+      ]
+     ]
+    },
+    {
+     "label": "w. 11",
+     "cs": 2,
+     "vs": 11,
+     "ce": 2,
+     "ve": 11,
+     "greek": "Ταύτην ἐποίησεν ἀρχὴν τῶν σημείων ὁ Ἰησοῦς ἐν Κανὰ τῆς Γαλιλαίας καὶ ἐφανέρωσεν τὴν δόξαν αὐτοῦ, καὶ ἐπίστευσαν εἰς αὐτὸν οἱ μαθηταὶ αὐτοῦ.",
+     "transl": "Ten początek znaków uczynił Jezus w Kanie Galilejskiej i objawił swoją chwałę, i uwierzyli w Niego Jego uczniowie.",
+     "units": [
+      [
+       "ἀρχὴν τῶν σημείων",
+       "początek znaków",
+       "Ἀρχή (początek) — ostatni raz padło w 1,1: ἐν ἀρχῇ ἦν ὁ λόγος (na początku było Słowo). Nowy „początek\" jest więc początkiem w mocnym sensie: nie pierwszym numerem na liście cudów, lecz zasadą i wzorem wszystkich znaków — każdy następny (jest ich w księdze siedem) będzie wariacją Kany: materia, brak, słowo, przemiana, chwała, wiara. Σημεῖον (znak): Jan nigdy nie mówi o „cudach\" językiem zdumienia (θαύματα — dziwy) ani mocy (δυνάμεις — dzieła mocy, jak synoptycy) — znak jest strzałką: wart tyle, ile wskazuje; kto zatrzymał się na winie, nie zobaczył nic."
+      ],
+      [
+       "ἐφανέρωσεν τὴν δόξαν αὐτοῦ",
+       "objawił swoją chwałę",
+       "Spłata obietnicy z Prologu: ἐθεασάμεθα τὴν δόξαν αὐτοῦ (oglądaliśmy chwałę Jego, 1,14) — oto pierwsza rata tego oglądania; i obietnicy sprzed czterech dni: μείζω τούτων ὄψῃ (większe zobaczysz, 1,50). Chwała (δόξα — kawod, obecność) objawia się nie w błyskawicy, lecz w uratowanym weselu ubogiej rodziny: styl Boga Janowego. Καὶ ἐπίστευσαν εἰς αὐτὸν οἱ μαθηταὶ αὐτοῦ (i uwierzyli w Niego Jego uczniowie) — cel całej księgi (J 20,31: abyście wierzyli) osiągnięty po raz pierwszy; wiara z rozdziału 1, zrodzona ze świadectwa, tu dojrzewa przez widzenie znaku. Struktura „znak → chwała → wiara\" będzie odtąd metrum Ewangelii."
+      ]
+     ]
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "**Wesele galilejskie.** Uroczystość do siedmiu dni (por. Rdz 29,27; Sdz 14,12), z procesją, ucztą i winem jako rdzeniem gościnności; za zapasy odpowiadał pan młody (stąd pretensja starosty w w. 10 idzie do niego). Brak wina to kompromitacja rodziny wobec całej wioski — Kana leżała kilka–kilkanaście kilometrów od Nazaretu (dziś wskazywana Chirbet Kana lub Kefr Kenna), zaproszenie Maryi i Jezusa sugeruje więzi rodzinne lub sąsiedzkie (Natanael był z Kany, J 21,2). **Naczynia kamienne.** Halacha czystości uznawała kamień za nieprzyjmujący nieczystości (por. Kpł 11,33 o naczyniach glinianych, które trzeba tłuc); wykopaliska w Galilei (Jerozolima, Reina k. Nazaretu — warsztaty!) potwierdzają boom produkcji naczyń kamiennych w I wieku: detal Janowy jest archeologicznie precyzyjny. **Wino czasów ostatecznych.** Prorocy malują erę mesjańską obfitością wina: Am 9,13–14, Jl 4,18 (góry moczem opływać będą), Iz 25,6 (uczta z wystałych win na górze Syjon); apokaliptyka (2 Ba 29,5) liczy grona ery mesjańskiej w tysiącach. Pierwszy znak mówi więc językiem, który każdy Żyd rozumiał bez słownika: zaczęły się gody mesjańskie. **Trzeci dzień.** Wj 19,10–11.16: „na trzeci dzień Pan zstąpi na oczach całego ludu na górę Synaj\" — objawienie chwały trzeciego dnia po dniach przygotowania; tradycja żydowska łączyła trzeci dzień z ocaleniem (Rdz 22,4; Oz 6,2; Jon 2,1).",
+     "children": []
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "**1. Cud a natura.** Tomasz definiuje cud jako dzieło dokonane przez Boga poza porządkiem całej natury stworzonej (*praeter ordinem totius naturae creatae*); Kana jest wzorcowa: woda staje się winem co roku — w winorośli, przez deszcz, glebę i słońce; tu Stwórca skraca drogę własnego stworzenia, niczego nie gwałcąc. Cud nie jest wyjątkiem od rozumności świata, lecz podpisem Autora złożonym Jego zwykłym charakterem pisma, tylko szybciej.\n\n**2. Wstawiennictwo i pośrednictwo.** Prośba Maryi jest przyczyną wstawienniczą, nie sprawczą: nie czyni cudu, lecz uprasza go u Tego, który czyni — wzór wszelkiego pośrednictwa świętych *w* jedynym Pośredniku (1 Tm 2,5), nie obok Niego. Tomistyczna zasada: Bóg chce udzielać darów także przez porządek próśb, aby stworzenia miały godność przyczyn — Kana jest jej ewangelicznym paradygmatem.\n\n**3. Małżeństwo uświęcone.** Obecność Chrystusa na godach Ojcowie i scholastyka czytają jako uświęcenie małżeństwa u progu Nowego Przymierza: to, co było „wielką tajemnicą\" stworzenia (Rdz 2,24), staje się znakiem oblubieńczej miłości Chrystusa i Kościoła (Ef 5,32); Tomasz umieści małżeństwo wśród siedmiu sakramentów jako znak tej właśnie unii. Pierwszy cud Jezusa jest prezentem ślubnym — teologia ciała zaczyna się od uratowanego wesela.\n\n**4. Znak i akt wiary.** Σημεῖον prowadzi od widzialnego do niewidzialnego jak przesłanka do wniosku — ale wiara nie jest wnioskiem koniecznym: starosta skosztował tego samego wina i nie uwierzył, bo nie zapytał „skąd\". Tomasz: do wiary trzeba i znaku zewnętrznego, i wewnętrznego pociągnięcia łaski (*instinctus interior*); Kana pokazuje oba — i wolność, która może zatrzymać się na smaku.",
+     "children": []
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "body": "Kompozycja zdradza rękę mistrza: tydzień inauguracji domknięty „trzecim dniem\"; inkluzja dwóch znaków w Kanie (2,1–11 i 4,46–54 — „drugi znak\", jakby autor odhaczał ramę); klamra „matka Jezusa — godzina — niewiasta\" zarzucona aż po 19,25–27. Szczegóły mają fakturę naocznego wspomnienia: liczba i tworzywo stągwi, ich pojemność, tytuł ἀρχιτρίκλινος (starosta weselny), przytoczona dosłownie rubaszna maksyma o kolejności win. Zarazem autor pisze z dyskrecją teologa: sam cud dzieje się poza kadrem, między w. 8 a 9 — bo nie mechanika przemiany jest tematem, lecz jej sens. I rys polemiczny à rebours: pierwszy znak Mesjasza nie dzieje się w Świątyni ani na pustyni, lecz w kuchni wiejskiego wesela — przeciw każdej religijności, która szuka Boga tylko w sacrum wydzielonym.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "body": "Duch Święty ustanawia w Kanie gramatykę znaków, którą czytelnik ma stosować do końca księgi — i do własnego życia: brak przedstawiony w modlitwie, słowo przyjęte w posłuszeństwie, materia podana ludzkimi rękami, przemiana dokonana dyskretnie, chwała objawiona, wiara pogłębiona. Ta sekwencja jest matrycą sakramentalną: Kościół od starożytności widział w wodzie przemienionej w wino zapowiedź Eucharystii (a w „godzinie\" — Krzyż, z którego ona wypływa). Duch zostawia też lekcję o Maryi: jej ostatnie słowo w Piśmie — „cokolwiek wam powie, czyńcie\" — jest całym jej orędziem; prawdziwa pobożność maryjna kończy się zawsze posłuszeństwem Jezusowi. I lekcję o Bogu: który na początek znaków wybrał ratowanie ludzkiej radości — nie nasze łzy są Mu potrzebne, lecz nasze wesele.",
+     "children": []
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": "**Rdz 41,55 → w. 5.** „Co wam powie, czyńcie\" — faraon o Józefie w czasie głodu; Maryja wskazuje nowego Józefa, szafarza w czasie braku.\n\n**Wj 19,10–11.16 → w. 1.** Trzeciego dnia Pan zstępuje na Synaj w chwale — trzeci dzień jako dzień teofanii; por. Oz 6,2 (trzeciego dnia nas wskrzesi).\n\n**Ps 104,15 → w. 3.** Wino rozwesela serce człowieka — antropologia daru.\n\n**Iz 25,6; Am 9,13–14 → w. 3.6–10.** Uczta z wystałych win i góry ociekające moszczem — obfitość wina znakiem ery mesjańskiej; stąd wymowa 500–700 litrów.\n\n**Pnp 1,2; 2,4 → całość.** Miłość lepsza niż wino; dom wina — oblubieńcze tło godów; mistyka czyta Kanę kluczem Pieśni.\n\n**Rdz 3,15 → w. 4.** Niewiasta i jej potomstwo — protoewangelia; γύναι w 2,4 i 19,26 jako klamra nowej Ewy.\n\n**Mk 2,19–22 → całość.** Oblubieniec, nowe wino i stare bukłaki — synoptyczna paralela tej samej teologii nowości.\n\n**J 4,46–54 → całość.** „Drugi znak\" w Kanie — inkluzja spinająca sekcję znaków galilejskich.\n\n**J 19,25–27 → w. 4.** Niewiasta pod krzyżem w godzinie — dokończenie sceny z Kany.\n\n**Ap 19,7–9 → w. 1–2.** Gody Baranka — wesele, ku któremu wskazuje pierwszy znak.",
+     "children": []
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": "Starożytna liturgia związała Kanę z Epifanią (Objawieniem Pańskim): antyfona nieszporów śpiewa o dniu „ozdobionym trzema cudami\" (*tribus miraculis ornatum diem colimus*) — pokłon Magów, chrzest w Jordanie i woda przemieniona w wino to trzy odsłony jednego objawienia chwały; Wschód do dziś trzyma ten splot w hymnografii Teofanii. W lekcjonarzu rzymskim J 2,1–11 czyta się w II Niedzielę zwykłą roku C — tuż po święcie Chrztu Pańskiego, zgodnie ze starą logiką epifanijną — oraz z upodobaniem na Mszach ślubnych: Kana jest biblijną ikoną sakramentu małżeństwa. Jan Paweł II, dodając w 2002 r. tajemnice światła do różańca (*Rosarium Virginis Mariae*), uczynił Kanę drugą z nich: „objawienie siebie na weselu w Kanie\". „Zróbcie wszystko, cokolwiek wam powie\" stało się osią teologii maryjnej (per Mariam ad Iesum — przez Maryję do Jezusa) i mott niezliczonych sanktuariów. W ikonografii scena należy do kanonu od katakumb (Kana obok rozmnożenia chleba — para eucharystyczna) po Giotta i monumentalne płótno Veronesego; w polskiej wyobraźni utrwaliła ją kolęda i kazania godowe. Duchowość zapamiętała z Kany dwie reguły: przedstawiaj Bogu brak, nie instrukcję; i napełniaj stągwie po brzegi — resztę zostaw Jemu.",
+     "children": []
+    },
+    {
+     "type": "patrystyka",
+     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Katena do pierwszego znaku: cud jako przyspieszona natura, sześć stągwi i epoki świata, godzina i posłuszeństwo Matki, gody uświęcone.",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Rdz",
+     41,
+     55,
+     41,
+     55,
+     "Rdz 41,55",
+     "aluzja",
+     "co wam powie, czyńcie — faraon o Józefie; Maryja wskazuje nowego szafarza"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     19,
+     10,
+     19,
+     16,
+     "Wj 19,10–16",
+     "typologia",
+     "trzeciego dnia teofania na Synaju — chwała objawiona trzeciego dnia"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     104,
+     15,
+     104,
+     15,
+     "Ps 104,15",
+     "tlo",
+     "wino rozwesela serce człowieka"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     25,
+     6,
+     25,
+     6,
+     "Iz 25,6",
+     "tlo",
+     "uczta z wystałych win — obfitość mesjańska"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Am",
+     9,
+     13,
+     9,
+     14,
+     "Am 9,13–14",
+     "tlo",
+     "góry ociekające moszczem — wino czasów ostatecznych"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pnp",
+     1,
+     2,
+     1,
+     2,
+     "Pnp 1,2",
+     "typologia",
+     "miłość lepsza niż wino — oblubieńczy klucz Kany"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Rdz",
+     3,
+     15,
+     3,
+     15,
+     "Rdz 3,15",
+     "typologia",
+     "Niewiasta i potomstwo — protoewangelia za tytułem γύναι"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mk",
+     2,
+     19,
+     2,
+     22,
+     "Mk 2,19–22",
+     "paralela",
+     "oblubieniec i nowe wino — synoptyczna teologia nowości"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     4,
+     46,
+     4,
+     54,
+     "J 4,46–54",
+     "rozwiniecie",
+     "drugi znak w Kanie — inkluzja"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     19,
+     25,
+     19,
+     27,
+     "J 19,25–27",
+     "rozwiniecie",
+     "Niewiasta pod krzyżem — dokończenie Kany w godzinie"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ap",
+     19,
+     7,
+     19,
+     9,
+     "Ap 19,7–9",
+     "rozwiniecie",
+     "gody Baranka — cel, ku któremu wskazuje znak"
+    ],
+    [
+     [
+      "unit",
+      "w. 3–5",
+      1
+     ],
+     "J",
+     7,
+     30,
+     7,
+     30,
+     "J 7,30",
+     "rozwiniecie",
+     "godzina jeszcze nie nadeszła — kolejne uderzenia zegara"
+    ],
+    [
+     [
+      "unit",
+      "w. 9–10",
+      0
+     ],
+     "J",
+     19,
+     34,
+     19,
+     34,
+     "J 19,34",
+     "rozwiniecie",
+     "krew i woda z boku — wino godziny wydane do końca"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 9–10",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 8,1",
+     "Cud Kany Augustyn wpisuje w większy cud, którego nie podziwiamy tylko dlatego, że jest codzienny: „ten, który owego dnia uczynił wino w stągwiach, czyni je co roku w winnicach — lecz tamto nikogo nie dziwi, bo dzieje się stale\". Woda z deszczu przechodzi przez winorośl i staje się winem: rzecz nie mniej cudowna, tylko rozłożona w czasie. Znaki są po to, by obudzić śpiące zdumienie: kto przez Kanę nauczy się dziwić winnicy, ten w całym świecie zobaczy nieustanny cud Słowa, przez które wszystko się stało."
+    ],
+    [
+     "w. 6–8",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 9",
+     "Sześć stągwi czyta Augustyn alegorycznie jako sześć epok dziejów (od Adama do Noego, do Abrahama, do Dawida, do niewoli, do Jana Chrzciciela, do końca): w każdej epoce stoi woda proroctwa — dobra, lecz bez smaku, dopóki czyta się ją bez Chrystusa. Pan nie wylewa wody i nie tłucze stągwi: każe je napełnić po brzegi i przemienia — tak Stary Testament, czytany w Chrystusie, nie zostaje odrzucony, lecz zaczyna smakować jak wino. Kto czyta Pisma i nie znajduje w nich Chrystusa, stoi przy stągwiach z wodą; kto znalazł — pije."
+    ],
+    [
+     "w. 3–5",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 21–22",
+     "Chryzostom broni w. 4 przed zgorszeniem: odpowiedź Jezusa nie jest wzgardą wobec Matki — jest lekcją porządku: w sprawach znaków i godziny nie więzy krwi decydują, lecz wola Ojca; a że czci Matkę, pokazał czynem — bo prośbę ostatecznie spełnił, i to z naddatkiem. Wielkość Maryi kaznodzieja widzi w jej reakcji: nie obraziła się, nie nalegała — przygotowała sługi; wiara, która po pozornej odmowie mówi „czyńcie, cokolwiek powie\", jest większa niż wiara po cudzie. Słudzy zaś, którzy napełnili stągwie po brzegi, uczą współpracy z łaską: Bóg mógł stworzyć wino z niczego — wolał je uczynić z wody, którą przynieśli ludzie."
+    ],
+    [
+     "w. 1–2",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. II",
+     "Dlaczego początek znaków na weselu? Cyryl: bo tam, gdzie grzech zaczął się od niewiasty i zatruł źródła życia, tam Chrystus — przyszedłszy z Matką-Niewiastą — uświęca sam początek ludzkich początków: małżeństwo i rodzenie. Przekleństwo ciążące na Ewie (w bólu rodzić będziesz) zostaje wzięte w nawias błogosławieństwa: Pan zasiada na godach jako gość, by okazać się Oblubieńcem. A przemiana wody w wino jest u Cyryla figurą przejścia od litery do Ducha: Prawo miało wodę oczyszczeń, Ewangelia ma wino wesela — natura nie zostaje zniszczona, lecz podniesiona ku lepszemu, jak woda, która nie przestała być darem, stając się winem."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "Epifania — antyfona Tribus miraculis (nieszpory Objawienia Pańskiego)",
+     "J 2,1–11",
+     "Trzy cuda jednego objawienia: Magowie, Jordan, Kana — starożytny splot epifanijny."
+    ],
+    [
+     "rzymski",
+     "II Niedziela zwykła, rok C",
+     "J 2,1–11",
+     "Kana tuż po święcie Chrztu Pańskiego — kontynuacja logiki epifanijnej lekcjonarza."
+    ],
+    [
+     "rzymski",
+     "Msza obrzędowa za nowożeńców (czytania ślubne)",
+     "J 2,1–11",
+     "Biblijna ikona sakramentu małżeństwa: Chrystus gościem i dawcą radości godów."
+    ],
+    [
+     "pobożność",
+     "Różaniec — II tajemnica światła (od 2002, Rosarium Virginis Mariae)",
+     "J 2,1–11",
+     "Objawienie siebie na weselu w Kanie; oś maryjnej drogi „czyńcie, cokolwiek wam powie\"."
+    ]
+   ],
+   "textual": [
+    [
+     3,
+     "ὑστερήσαντος οἴνου",
+     "wariant lekcji",
+     "Tekst krótki (NA28): ὑστερήσαντος οἴνου (gdy zabrakło wina). Lekcja rozszerzona (ℵ*, część starołacińskich): οἶνον οὐκ εἶχον, ὅτι συνετελέσθη ὁ οἶνος τοῦ γάμου (wina nie mieli, bo wyczerpało się wino wesela) — z dopiskiem o wcześniejszym spożyciu.",
+     "Lekcja dłuższa wygląda na wczesną glosę narracyjną (wyjaśnienie przyczyny braku); NA28 słusznie zachowuje tekst zwięzły. Wariant cenny jako świadek żywego, gawędziarskiego obiegu perykopy w II wieku."
+    ]
+   ],
+   "theme_links": [
+    [
+     "nowy tydzień stworzenia (J 1,19–2,11)",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "ἦν / ἐγένετο — trwanie a stawanie się",
+     [
+      "block",
+      "w. 9–10"
+     ]
+    ],
+    [
+     "godzina Jezusa (ἡ ὥρα)",
+     [
+      "block",
+      "w. 3–5"
+     ]
+    ],
+    [
+     "znaki (σημεῖα) i wiara",
+     [
+      "block",
+      "w. 11"
+     ]
+    ],
+    [
+     "tytuły chrystologiczne J 1",
+     [
+      "block",
+      "w. 1–2"
+     ]
+    ]
+   ]
+  }
+ ]
+}

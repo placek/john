@@ -3,15 +3,32 @@
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
 Zawartość: **J 1,1–2,11** w siedmiu perykopach — Prolog (zmigrowany z dokumentu roboczego, status: ukończona) oraz pięć perykop kontynuacji J 1,15–51 (status: w opracowaniu).
 
-## Pliki (skonsolidowane)
+## Układ repozytorium
 
-- `egzegeza_jana.sqlite` — baza z danymi (SQLite ≥ 3.37); **plik roboczy**
-- `egzegeza_jana_build.py` — JEDEN plik: schemat (SCHEMA_SQL) + wszystkie dane
-  (Prolog + katena Ojców) + migracja; buduje bazę od zera; **wzorzec dla
-  kolejnych perykop**
-- `export_pericope.py` — regeneruje Markdown perykopy z bazy (potok do publikacji)
-- `app.py` + `index.html` — przeglądarka webowa (patrz niżej)
-- `egzegeza_jan1.md` — eksport wszystkich perykop (`python3 export_pericope.py all`)
+Dane są oddzielone od narzędzi — pliki `.json` przechowują całą treść, a
+skrypty w `tools/` są **wyłącznie** narzędziami, które z nich budują bazę.
+
+```
+data/                     ← źródła (pod kontrolą wersji)
+  schema.sql              schemat bazy (DDL)
+  prolog.json            Prolog J 1,1-14 + katena Ojców
+  continuation.json      J 1,15-51 (pięć perykop)
+  kana.json              J 2,1-11 (Wesele w Kanie)
+  egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
+tools/
+  egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
+  export_pericope.py      regeneruje Markdown perykopy z bazy
+browser/
+  app.py                  backend (serwer + API, biblioteka standardowa)
+  index.html              interfejs przeglądarki
+Makefile                  make build | serve | export | clean
+```
+
+Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
+(`books`, `verses`, `lexemes`, `semitic`, `occurrences`, `works`, `themes`)
+oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
+`python3 tools/egzegeza_jana_build.py`) buduje bazę od zera, w kolejności
+`prolog → continuation → kana`.
 
 ## Warstwy schematu
 
@@ -34,8 +51,8 @@ Zawartość: **J 1,1–2,11** w siedmiu perykopach — Prolog (zmigrowany z doku
 
 ## Otwieranie
 
-- CLI: `sqlite3 egzegeza_jana.sqlite` (na tym środowisku: `python3 -c "import sqlite3..."`)
-- GUI: DBeaver, DB Browser for SQLite, Datasette (`datasette egzegeza_jana.sqlite`)
+- CLI: `sqlite3 data/egzegeza_jana.sqlite` (na tym środowisku: `python3 -c "import sqlite3..."`)
+- GUI: DBeaver, DB Browser for SQLite, Datasette (`datasette data/egzegeza_jana.sqlite`)
 
 ## Wyszukiwanie pełnotekstowe
 
@@ -70,12 +87,20 @@ WHERE pericope_id = 1 AND relation = 'typologia';
 
 ## Dodawanie kolejnej perykopy
 
-1. Skopiuj `egzegeza_jana_build.py` jako np. `seed_kana.py` (J 2,1–11).
-2. Podmień `VERSES`, `PERICOPE`, `BLOCKS`, `SECTIONS`, dane słownikowe
-   (leksemy już istniejące pominie UNIQUE — wtedy zamiast INSERT użyj
-   `INSERT OR IGNORE` i doczytaj id z tabeli).
-3. Usuń `DB.unlink()` / `executescript` (baza już istnieje) i wykonuj same inserty.
-4. `python3 export_pericope.py 2 kana_export.md` — kontrola.
+Nie dotyka się już kodu — dopisuje się dane.
+
+1. Dodaj perykopę jako kolejny wpis w tablicy `pericopes` w odpowiednim
+   pliku `data/*.json` (albo utwórz nowy plik danych i dopisz go do listy
+   `PHASES` w `tools/egzegeza_jana_build.py`). Uzupełnij `verses` i — w razie
+   potrzeby — słownictwo (`lexemes`, `semitic`, `works`, `themes`); leksemy
+   już istniejące zostaną pominięte (`INSERT OR IGNORE`).
+2. `make build` — przebuduj bazę od zera z `data/*.json`.
+3. `python3 tools/export_pericope.py 2 kana_export.md` — kontrola.
+
+Struktura pojedynczej perykopy (`bundle`): `pericope`, `intro` (sekcja I),
+`blocks` (z `units`), `sections` (II…), `refs`, `patristic`, `liturgy`,
+`textual`, `theme_links`; opcjonalnie `struktura`, `section_viii`,
+`citations`, `revision_note`.
 
 Status perykopy (`szkic` → `w_opracowaniu` → `ukonczona` → `do_rewizji`)
 i `revision_log` służą do prowadzenia pracy na lata.
@@ -106,18 +131,21 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 1,43–51 | Powołanie Filipa i Natanaela | w opracowaniu |
 | J 2,1–11 | Wesele w Kanie Galilejskiej | w opracowaniu |
 
-Eksport pojedynczej perykopy: `python3 export_pericope.py 4 baranek.md`;
-całości: `python3 export_pericope.py all`.
+Eksport pojedynczej perykopy: `make export PID=4` (lub
+`python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
 
 ## Aplikacja webowa
 
 ```bash
-python3 app.py          # startuje na http://localhost:8000
+make serve              # startuje na http://localhost:8000
+make serve PORT=9000    # inny port
+# równoważnie: PORT=9000 python3 browser/app.py
 ```
 
 Bez zależności zewnętrznych — tylko biblioteka standardowa Pythona; baza
 otwierana w trybie tylko do odczytu (`mode=ro`), więc przeglądanie nie może
-uszkodzić danych. Zatrzymanie: Ctrl+C. Port zmienia się w `app.py` (stała `PORT`).
+uszkodzić danych. Zatrzymanie: Ctrl+C. Port ustawia zmienna `PORT`
+(domyślnie 8000). Jeśli baza nie istnieje, uruchom najpierw `make build`.
 
 **Co jest w interfejsie**
 
