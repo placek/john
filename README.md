@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–2,25** w ośmiu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz siedem perykop J 1,15–2,25; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–3,36** w dziesięciu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz dziewięć perykop J 1,15–3,36; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -15,6 +15,8 @@ data/                     ← źródła (pod kontrolą wersji)
   continuation.json      J 1,15-51 (pięć perykop)
   kana.json              J 2,1-11 (Wesele w Kanie)
   swiatynia.json         J 2,12-25 (Oczyszczenie świątyni)
+  nikodem.json           J 3,1-21 (Rozmowa z Nikodemem)
+  oblubieniec.json       J 3,22-36 (Przyjaciel Oblubieńca)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -29,7 +31,7 @@ Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 (`books`, `verses`, `lexemes`, `semitic`, `occurrences`, `works`, `themes`)
 oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera, w kolejności
-`prolog → continuation → kana → swiatynia`.
+`prolog → continuation → kana → swiatynia → nikodem → oblubieniec`.
 
 ## Warstwy schematu
 
@@ -132,6 +134,8 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 1,43–51 | Powołanie Filipa i Natanaela | ukończona |
 | J 2,1–11 | Wesele w Kanie Galilejskiej | ukończona |
 | J 2,12–25 | Oczyszczenie świątyni | ukończona |
+| J 3,1–21 | Rozmowa z Nikodemem | ukończona |
+| J 3,22–36 | Przyjaciel Oblubieńca | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
@@ -165,3 +169,19 @@ uszkodzić danych. Zatrzymanie: Ctrl+C. Port ustawia zmienna `PORT`
 **Punkty API** (przydatne przy własnych narzędziach):
 `/api/pericopes`, `/api/pericope?id=N`, `/api/search?q=…`, `/api/lexicon`, `/api/themes`
 — wszystkie zwracają JSON.
+
+## GitHub Pages (wersja statyczna)
+
+GitHub Pages nie uruchomi Pythona, więc przeglądarkę publikuje się w wersji
+statycznej: `make site` woła `tools/export_site.py`, który importuje
+`browser/app.py` i zamienia każdy endpoint API w plik JSON w `site/api/`
+(perykopy, leksykon, motywy oraz `szukaj.json` — indeks dla wyszukiwarki
+działającej wtedy po stronie przeglądarki, bez FTS5). Kopiowany
+`index.html` dostaje atrybut `data-static` i sam przełącza się na pliki.
+
+Publikacją zajmuje się workflow `.github/workflows/pages.yml`: przy każdym
+pushu na `master` buduje bazę, generuje `site/` i wdraża na Pages.
+Jednorazowo trzeba włączyć w repozytorium:
+**Settings → Pages → Build and deployment → Source: „GitHub Actions"**.
+
+Podgląd lokalny wersji statycznej: `make site && python3 -m http.server -d site 8001`.

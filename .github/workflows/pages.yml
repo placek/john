@@ -1,0 +1,45 @@
+# Publikacja statycznej wersji przeglądarki (browser/) na GitHub Pages.
+#
+# Wymaga jednorazowego włączenia w repozytorium:
+#   Settings → Pages → Build and deployment → Source: "GitHub Actions".
+#
+# Budowanie: python3 (biblioteka standardowa) — baza SQLite z data/*.json,
+# potem eksport statyczny do site/ (tools/export_site.py, make site).
+name: GitHub Pages
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Zbuduj bazę i stronę statyczną
+        run: |
+          python3 tools/egzegeza_jana_build.py
+          python3 tools/export_site.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
