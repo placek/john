@@ -1,0 +1,824 @@
+{
+ "books": [
+  [
+   "Jr",
+   "Księga Jeremiasza",
+   "ST",
+   25
+  ]
+ ],
+ "verses": {
+  "chapter": 2,
+  "items": [
+   [
+    12,
+    "Μετὰ τοῦτο κατέβη εἰς Καφαρναοὺμ αὐτὸς καὶ ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ [αὐτοῦ] καὶ οἱ μαθηταὶ αὐτοῦ καὶ ἐκεῖ ἔμειναν οὐ πολλὰς ἡμέρας.",
+    "Potem zstąpił do Kafarnaum — On i Jego matka, i bracia [Jego], i Jego uczniowie; i pozostali tam niewiele dni."
+   ],
+   [
+    13,
+    "Καὶ ἐγγὺς ἦν τὸ πάσχα τῶν Ἰουδαίων, καὶ ἀνέβη εἰς Ἱεροσόλυμα ὁ Ἰησοῦς.",
+    "A blisko była Pascha Żydów — i Jezus wstąpił do Jerozolimy."
+   ],
+   [
+    14,
+    "Καὶ εὗρεν ἐν τῷ ἱερῷ τοὺς πωλοῦντας βόας καὶ πρόβατα καὶ περιστερὰς καὶ τοὺς κερματιστὰς καθημένους,",
+    "I znalazł w świątyni sprzedających woły, owce i gołębie oraz siedzących wymieniaczy monet."
+   ],
+   [
+    15,
+    "καὶ ποιήσας φραγέλλιον ἐκ σχοινίων πάντας ἐξέβαλεν ἐκ τοῦ ἱεροῦ τά τε πρόβατα καὶ τοὺς βόας, καὶ τῶν κολλυβιστῶν ἐξέχεεν τὸ κέρμα καὶ τὰς τραπέζας ἀνέτρεψεν,",
+    "I uczyniwszy bicz ze sznurów, wszystkich wyrzucił ze świątyni — i owce, i woły; wymieniaczom rozsypał pieniądze, a stoły powywracał."
+   ],
+   [
+    16,
+    "καὶ τοῖς τὰς περιστερὰς πωλοῦσιν εἶπεν· ἄρατε ταῦτα ἐντεῦθεν, μὴ ποιεῖτε τὸν οἶκον τοῦ πατρός μου οἶκον ἐμπορίου.",
+    "A sprzedającym gołębie powiedział: Zabierzcie to stąd, nie czyńcie z domu Ojca mego domu handlu."
+   ],
+   [
+    17,
+    "ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι γεγραμμένον ἐστίν· ὁ ζῆλος τοῦ οἴκου σου καταφάγεταί με.",
+    "Przypomnieli sobie Jego uczniowie, że jest napisane: Gorliwość o dom Twój pożre Mnie."
+   ],
+   [
+    18,
+    "ἀπεκρίθησαν οὖν οἱ Ἰουδαῖοι καὶ εἶπαν αὐτῷ· τί σημεῖον δεικνύεις ἡμῖν ὅτι ταῦτα ποιεῖς;",
+    "Odpowiedzieli więc Żydzi i rzekli Mu: Jaki znak nam pokazujesz, że to czynisz?"
+   ],
+   [
+    19,
+    "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς· λύσατε τὸν ναὸν τοῦτον καὶ ἐν τρισὶν ἡμέραις ἐγερῶ αὐτόν.",
+    "Odpowiedział Jezus i rzekł im: Zburzcie ten przybytek, a Ja w trzy dni go wzniosę."
+   ],
+   [
+    20,
+    "εἶπαν οὖν οἱ Ἰουδαῖοι· τεσσεράκοντα καὶ ἓξ ἔτεσιν οἰκοδομήθη ὁ ναὸς οὗτος, καὶ σὺ ἐν τρισὶν ἡμέραις ἐγερεῖς αὐτόν;",
+    "Rzekli więc Żydzi: Czterdzieści sześć lat budowano ten przybytek, a Ty w trzy dni go wzniesiesz?"
+   ],
+   [
+    21,
+    "ἐκεῖνος δὲ ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ.",
+    "On zaś mówił o przybytku swego ciała."
+   ],
+   [
+    22,
+    "ὅτε οὖν ἠγέρθη ἐκ νεκρῶν, ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι τοῦτο ἔλεγεν, καὶ ἐπίστευσαν τῇ γραφῇ καὶ τῷ λόγῳ ὃν εἶπεν ὁ Ἰησοῦς.",
+    "Gdy więc został wzbudzony z martwych, przypomnieli sobie Jego uczniowie, że to mówił — i uwierzyli Pismu i słowu, które wypowiedział Jezus."
+   ],
+   [
+    23,
+    "Ὡς δὲ ἦν ἐν τοῖς Ἱεροσολύμοις ἐν τῷ πάσχα ἐν τῇ ἑορτῇ, πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ θεωροῦντες αὐτοῦ τὰ σημεῖα ἃ ἐποίει·",
+    "A gdy był w Jerozolimie w Paschę, w święto, wielu uwierzyło w imię Jego, widząc Jego znaki, które czynił."
+   ],
+   [
+    24,
+    "αὐτὸς δὲ Ἰησοῦς οὐκ ἐπίστευεν αὐτὸν αὐτοῖς διὰ τὸ αὐτὸν γινώσκειν πάντας",
+    "Sam zaś Jezus nie zawierzał im siebie, dlatego że znał wszystkich"
+   ],
+   [
+    25,
+    "καὶ ὅτι οὐ χρείαν εἶχεν ἵνα τις μαρτυρήσῃ περὶ τοῦ ἀνθρώπου· αὐτὸς γὰρ ἐγίνωσκεν τί ἦν ἐν τῷ ἀνθρώπῳ.",
+    "i że nie potrzebował, aby ktoś świadczył o człowieku: sam bowiem wiedział, co było w człowieku."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "ναός",
+   "naos",
+   "rzeczownik",
+   "przybytek, sanktuarium — dom samej Obecności (w odróżnieniu od ἱερόν)"
+  ],
+  [
+   "ἱερόν",
+   "hieron",
+   "rzeczownik",
+   "świątynia jako całość kompleksu z dziedzińcami"
+  ],
+  [
+   "ζῆλος",
+   "zelos",
+   "rzeczownik",
+   "gorliwość, żarliwość (hebr. kina — zazdrosna miłość)"
+  ],
+  [
+   "ἐγείρω",
+   "egeiro",
+   "czasownik",
+   "wznosić, budzić — czasownik zmartwychwstania"
+  ],
+  [
+   "πάσχα",
+   "pascha",
+   "rzeczownik",
+   "Pascha (aram. pascha, hebr. pesach — przejście)"
+  ]
+ ],
+ "semitic": [
+  [
+   "פֶּסַח",
+   "pesach",
+   "hbr",
+   "przejście, oszczędzenie — święto wyjścia z Egiptu"
+  ],
+  [
+   "קִנְאָה",
+   "kina",
+   "hbr",
+   "gorliwość, żarliwa zazdrość (Boża) o przymierze — tło ζῆλος"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "πάσχα",
+   "pesach",
+   "greckie πάσχα jest transkrypcją aramejskiej formy hebrajskiego pesach"
+  ],
+  [
+   "ζῆλος",
+   "kina",
+   "gorliwość Psalmu 69,10 (kinat betcha) — zazdrosna miłość o dom Boży"
+  ]
+ ],
+ "occurrences": [
+  [
+   "πάσχα",
+   13,
+   "πάσχα"
+  ],
+  [
+   "ἱερόν",
+   14,
+   "ἱερῷ"
+  ],
+  [
+   "ἱερόν",
+   15,
+   "ἱεροῦ"
+  ],
+  [
+   "ζῆλος",
+   17,
+   "ζῆλος"
+  ],
+  [
+   "σημεῖον",
+   18,
+   "σημεῖον"
+  ],
+  [
+   "ναός",
+   19,
+   "ναόν"
+  ],
+  [
+   "ναός",
+   20,
+   "ναός"
+  ],
+  [
+   "ναός",
+   21,
+   "ναοῦ"
+  ],
+  [
+   "ἐγείρω",
+   19,
+   "ἐγερῶ"
+  ],
+  [
+   "ἐγείρω",
+   20,
+   "ἐγερεῖς"
+  ],
+  [
+   "ἐγείρω",
+   22,
+   "ἠγέρθη"
+  ],
+  [
+   "πάσχα",
+   23,
+   "πάσχα"
+  ],
+  [
+   "σημεῖον",
+   23,
+   "σημεῖα"
+  ],
+  [
+   "γινώσκω",
+   24,
+   "γινώσκειν"
+  ],
+  [
+   "γινώσκω",
+   25,
+   "ἐγίνωσκεν"
+  ]
+ ],
+ "works": [],
+ "themes": [
+  [
+   "świątynia — ciało Jezusa",
+   "Nowa świątynia: od namiotu Słowa (1,14) przez przybytek ciała (2,21) po kult w Duchu i prawdzie (4,23) i miasto bez świątyni (Ap 21,22)."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 2,
+    "vs": 12,
+    "ce": 2,
+    "ve": 25,
+    "title": "Oczyszczenie świątyni",
+    "motto": "Zelus domus tuae comedit me (Gorliwość o dom Twój pożera Mnie)",
+    "status": "ukonczona",
+    "position": 8
+   },
+   "intro": "Po godach — sąd. Z Kany, przez krótki postój w Kafarnaum, droga prowadzi na pierwszą Paschę Ewangelii: do Jerozolimy, do świątyni. Tydzień inauguracji pokazał chwałę w kuchni wiejskiego wesela; teraz Ewangelia pokazuje, co ta chwała czyni w miejscu najświętszym — i pada zdanie, które stanie się kluczem całej księgi: przybytkiem Boga jest odtąd ciało Jezusa.",
+   "struktura": "Perykopa ma budowę dyptyku ujętego w narratorską ramę. Rama: w. 12 (przejście — Kafarnaum, rodzina, „niewiele dni\") i w. 23–25 (bilans jerozolimski — wiara z znaków i powściągliwość Jezusa), które jest zarazem pomostem do rozmowy z Nikodemem (3,1 podejmie słowo ἄνθρωπος z 2,25 — „a był człowiek z faryzeuszów…\"). Panel pierwszy (w. 13–17): czyn — wejście, bicz, wyrzucenie, słowo o domu Ojca, wspomnienie Psalmu; panel drugi (w. 18–22): słowo — żądanie znaku, logion o zburzeniu i wzniesieniu przybytku, nieporozumienie, klucz narratora, anamneza popaschalna. Oś teologiczna biegnie przez rozróżnienie słów: akcja dzieje się w ἱερόν (kompleksie świątynnym), logion mówi o ναός (przybytku, domu samej Obecności) — i narrator przenosi ναός na ciało Jezusa. Scena jest też spięta podwójnym „przypomnieli sobie\" (ἐμνήσθησαν, w. 17 i 22): pierwsze — w czasie akcji, z Pismem; drugie — po zmartwychwstaniu, z Pismem i słowem Jezusa; między nimi rozpina się cała Janowa hermeneutyka pamięci, którą 14,26 przypisze Duchowi. Wreszcie inkluzja Paschy (w. 13 i 23) datuje całość: pierwsza z trzech Pasch Ewangelii (2,13; 6,4; 11,55) — księga zaczyna liczyć czas do godziny.",
+   "blocks": [
+    {
+     "cs": 2,
+     "vs": 12,
+     "ce": 2,
+     "ve": 12,
+     "label": "w. 12",
+     "greek": "Μετὰ τοῦτο κατέβη εἰς Καφαρναοὺμ αὐτὸς καὶ ἡ μήτηρ αὐτοῦ καὶ οἱ ἀδελφοὶ [αὐτοῦ] καὶ οἱ μαθηταὶ αὐτοῦ καὶ ἐκεῖ ἔμειναν οὐ πολλὰς ἡμέρας.",
+     "transl": "Potem zstąpił do Kafarnaum — On i Jego matka, i bracia [Jego], i Jego uczniowie; i pozostali tam niewiele dni.",
+     "units": [
+      [
+       "κατέβη εἰς Καφαρναοὺμ ... ἔμειναν",
+       "zstąpił do Kafarnaum ... pozostali",
+       "Werset przejściowy, ale nie pusty. Topografia jest ścisła: z Kany w górach schodzi się (κατέβη — zstąpił) nad jezioro, do Kafarnaum — miasta, które u synoptyków będzie centrum działalności galilejskiej, a u Jana pozostanie epizodem. Orszak wymieniony w komplecie — matka, bracia, uczniowie — to obraz rodziny naturalnej i uczniowskiej idących jeszcze razem; Ewangelia delikatnie zapowiada, że te dwa kręgi czeka rozejście (por. J 7,3–5: „bracia Jego nie wierzyli w Niego\"). Οὐ πολλὰς ἡμέρας (niewiele dni) — litotes: czas nagli, bo „blisko była Pascha\"; wraca też czasownik μένειν (pozostawać) z 1,38–39, tym razem w trybie tymczasowości — jakby ewangelista mierzył każde ludzkie „pozostawanie\" miarą tego jedynego trwania, które się nie kończy. Kafarnaum jest ostatnim przystankiem starego porządku rzeczy: następne zdanie wprowadzi Jezusa w sam środek instytucji Izraela."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 13,
+     "ce": 2,
+     "ve": 14,
+     "label": "w. 13–14",
+     "greek": "Καὶ ἐγγὺς ἦν τὸ πάσχα τῶν Ἰουδαίων, καὶ ἀνέβη εἰς Ἱεροσόλυμα ὁ Ἰησοῦς. Καὶ εὗρεν ἐν τῷ ἱερῷ τοὺς πωλοῦντας βόας καὶ πρόβατα καὶ περιστερὰς καὶ τοὺς κερματιστὰς καθημένους,",
+     "transl": "A blisko była Pascha Żydów — i Jezus wstąpił do Jerozolimy. I znalazł w świątyni sprzedających woły, owce i gołębie oraz siedzących wymieniaczy monet.",
+     "units": [
+      [
+       "τὸ πάσχα τῶν Ἰουδαίων",
+       "Pascha Żydów",
+       "Pierwsza z trzech Pasch czwartej Ewangelii (2,13; 6,4; 11,55) — to na nich opiera się tradycyjne obliczenie długości publicznej działalności Jezusa na dwa–trzy lata; synoptycy znają tylko jedną, ostatnią. Określenie „Pascha Żydów\" nie jest dystansem etnicznym, lecz kalendarzowym objaśnieniem dla czytelników spoza Izraela — a zarazem dyskretną zapowiedzią teologiczną: Ewangelia zna już inną Paschę, której tamta była figurą (por. 1 Kor 5,7: „nasza Pascha — Chrystus\"). Ἀνέβη (wstąpił) — technicznie: do Jerozolimy zawsze się „wstępuje\", topograficznie i duchowo; to pierwszy z Janowych „wstępów\" Jezusa do miasta, które okaże się miejscem Jego „wstąpienia\" w sensie ostatecznym (por. 20,17). Pielgrzymka paschalna gromadziła w mieście setki tysięcy przybyszów — scena, która za chwilę nastąpi, ma widownię z całej diaspory."
+      ],
+      [
+       "ἐν τῷ ἱερῷ ... κερματιστὰς καθημένους",
+       "w świątyni ... siedzących wymieniaczy",
+       "Εὗρεν (znalazł) — czasownik z łańcucha „znalezień\" rozdziału 1, tu w gorzkim odwróceniu: tam znajdowano Mesjasza, tu Mesjasz znajduje targowisko. Ἱερόν to cały kompleks świątynny — handel odbywał się na Dziedzińcu Pogan, jedynej przestrzeni dostępnej narodom: sprzedaż zwierząt ofiarnych (woły i owce dla zamożnych, gołębie dla ubogich — por. Kpł 5,7; ofiara Maryi w Łk 2,24) i wymiana monet były usługami dla pielgrzymów, bo podatek świątynny wolno było uiścić tylko w srebrze tyryjskim — bez wizerunku cesarza. Κερματισταί (wymieniacze drobnych, od κέρμα — moneta cięta) — słowo w NT tylko tutaj. System był więc „racjonalny\"; i właśnie jego racjonalna oczywistość jest oskarżona: instytucja usługowa rozrosła się tak, że jedyne miejsce modlitwy dane narodom wypełniał ryk bydła i brzęk kantorów. Καθημένους (siedzących) — ostatnie słowo bloku: usadowieni; handel nie gości w świątyni — mieszka w niej."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 15,
+     "ce": 2,
+     "ve": 17,
+     "label": "w. 15–17",
+     "greek": "καὶ ποιήσας φραγέλλιον ἐκ σχοινίων πάντας ἐξέβαλεν ἐκ τοῦ ἱεροῦ τά τε πρόβατα καὶ τοὺς βόας, καὶ τῶν κολλυβιστῶν ἐξέχεεν τὸ κέρμα καὶ τὰς τραπέζας ἀνέτρεψεν, καὶ τοῖς τὰς περιστερὰς πωλοῦσιν εἶπεν· ἄρατε ταῦτα ἐντεῦθεν, μὴ ποιεῖτε τὸν οἶκον τοῦ πατρός μου οἶκον ἐμπορίου. ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι γεγραμμένον ἐστίν· ὁ ζῆλος τοῦ οἴκου σου καταφάγεταί με.",
+     "transl": "I uczyniwszy bicz ze sznurów, wszystkich wyrzucił ze świątyni — i owce, i woły; wymieniaczom rozsypał pieniądze, a stoły powywracał. A sprzedającym gołębie powiedział: Zabierzcie to stąd, nie czyńcie z domu Ojca mego domu handlu. Przypomnieli sobie Jego uczniowie, że jest napisane: Gorliwość o dom Twój pożre Mnie.",
+     "units": [
+      [
+       "φραγέλλιον ἐκ σχοινίων",
+       "bicz ze sznurów",
+       "Szczegół wyłącznie Janowy — synoptycy bicza nie znają. Φραγέλλιον (z łac. flagellum) uczyniony ἐκ σχοινίων — ze sznurów, jakimi wiązano zwierzęta lub słano posłania: narzędzie improwizowane, pasterskie, nie zbrojne. Składnia w. 15 pozwala — i wielu egzegetów tak czyta — odnieść bicz przede wszystkim do zwierząt (πάντας... τά τε πρόβατα καὶ τοὺς βόας: „wszystkich — i owce, i woły\"); ludzi wyganiają słowo i wywrócone stoły. Gest stoi w rzędzie prorockich czynów znaku (Jeremiasz z jarzmem na karku, Ezechiel z tobołkiem wygnańca): nie jest wybuchem, lecz inscenizowaną wyrocznią — sądem Boga nad kultem, odegranym ciałem. Ewangelista podkreśla rozmysł: ποιήσας (uczyniwszy) — bicz trzeba było najpierw upleść; gniew Jezusa ma czas przygotowania, czyli jest decyzją, nie odruchem. To rozróżnienie uratuje scenę przed nadużyciem: kto powołuje się na bicz z Kany… z Jerozolimy dla własnej porywczości, myli furię z gorliwością — furia nie plecie sznurów, furia chwyta, co ma pod ręką."
+      ],
+      [
+       "τὸν οἶκον τοῦ πατρός μου",
+       "dom Ojca mego",
+       "Pierwsze „Ojciec mój\" czwartej Ewangelii — i od razu w zdaniu władzy: kto mówi o świątyni „dom mego Ojca\", ten ogłasza się Synem tego Domu, z prawem gospodarza (por. Łk 2,49 — dwunastolatek w tym samym miejscu: „w tym, co jest Ojca mego, muszę być\"). Οἶκον ἐμπορίου (domem handlu) — u synoptyków cytat z Jr 7,11 („jaskinia zbójców\") oskarża rozbój; Janowe „dom targowiska\" mierzy głębiej: nie w nadużycia handlu, lecz w sam handel — w religijność wymiany, która z domu Ojca robi kantor zasług: daję, aby otrzymać. Za frazą słychać ostatnie zdanie proroka Zachariasza: „nie będzie już kupca w domu Pana Zastępów w owym dniu\" (Za 14,21) — usunięcie handlu jest więc znakiem, że „ów dzień\" nadszedł: Mesjasz robi w domu Ojca miejsce dla tego, co nastanie — kultu darmowego, synowskiego, „w Duchu i prawdzie\" (4,23–24)."
+      ],
+      [
+       "ὁ ζῆλος τοῦ οἴκου σου καταφάγεταί με",
+       "gorliwość o dom Twój pożre Mnie",
+       "Ps 69(68),10 — psalm sprawiedliwego cierpiącego, obok Ps 22 najczęściej cytowany w opisach Męki (ocet — 69,22; nienawiść bez powodu — 69,5). Uczniowie wspominają go w czasie akcji, ale ewangelista zmienia czas czasownika: Septuaginta ma aoryst κατέφαγεν (pożarła), Jan pisze futurum καταφάγεταί με (pożre Mnie) — wspomnienie staje się proroctwem: ta gorliwość dosłownie pochłonie Jezusa, doprowadzi Go do śmierci; oczyszczenie świątyni jest pierwszym krokiem ku krzyżowi (u synoptyków — wprost przyczyną wyroku). Ζῆλος tłumaczy hebrajskie kina — zazdrosną miłość przymierza: Bóg Izraela jest „zazdrosny\" nie jak rywal, lecz jak oblubieniec; gorliwość Syna o dom Ojca jest tą samą miłością, która w Kanie dała wino godom. Ewangelista pokazuje też pierwszą lekcję hermeneutyki uczniowskiej: rozumieć Jezusa znaczy przypominać sobie Pismo — scena bez Psalmu byłaby gorszącą awanturą; z Psalmem jest wypełnieniem."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 18,
+     "ce": 2,
+     "ve": 22,
+     "label": "w. 18–22",
+     "greek": "ἀπεκρίθησαν οὖν οἱ Ἰουδαῖοι καὶ εἶπαν αὐτῷ· τί σημεῖον δεικνύεις ἡμῖν ὅτι ταῦτα ποιεῖς; ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς· λύσατε τὸν ναὸν τοῦτον καὶ ἐν τρισὶν ἡμέραις ἐγερῶ αὐτόν. εἶπαν οὖν οἱ Ἰουδαῖοι· τεσσεράκοντα καὶ ἓξ ἔτεσιν οἰκοδομήθη ὁ ναὸς οὗτος, καὶ σὺ ἐν τρισὶν ἡμέραις ἐγερεῖς αὐτόν; ἐκεῖνος δὲ ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ. ὅτε οὖν ἠγέρθη ἐκ νεκρῶν, ἐμνήσθησαν οἱ μαθηταὶ αὐτοῦ ὅτι τοῦτο ἔλεγεν, καὶ ἐπίστευσαν τῇ γραφῇ καὶ τῷ λόγῳ ὃν εἶπεν ὁ Ἰησοῦς.",
+     "transl": "Odpowiedzieli więc Żydzi i rzekli Mu: Jaki znak nam pokazujesz, że to czynisz? Odpowiedział Jezus i rzekł im: Zburzcie ten przybytek, a Ja w trzy dni go wzniosę. Rzekli więc Żydzi: Czterdzieści sześć lat budowano ten przybytek, a Ty w trzy dni go wzniesiesz? On zaś mówił o przybytku swego ciała. Gdy więc został wzbudzony z martwych, przypomnieli sobie Jego uczniowie, że to mówił — i uwierzyli Pismu i słowu, które wypowiedział Jezus.",
+     "units": [
+      [
+       "τί σημεῖον δεικνύεις ἡμῖν;",
+       "jaki znak nam pokazujesz?",
+       "Pytanie o mandat — uprawnione w logice Izraela: prorok czyniący gest sądu winien się wylegitymować (por. Pwt 13 i 18 o badaniu proroków; to samo pytanie w Mk 11,28: „jakim prawem to czynisz?\"). Ale w ustach „Żydów\" Janowych pytanie ma drugie dno ironii: żądają znaku (σημεῖον) od Tego, którego czyn właśnie był znakiem — stali w środku odpowiedzi i pytali o nią. Czwarta Ewangelia zna tylko jeden znak „na żądanie\" i będzie nim to samo, co tutaj: „znak Jonasza\" w wersji Janowej — zburzony i wzniesiony przybytek, śmierć i zmartwychwstanie. Wszystkie inne znaki Jezus czyni nieproszony, z litości lub obfitości; na żądanie legitymacji odpowiada zawsze jednym: Paschą. Kto chce dowodu przed zawierzeniem, otrzyma go — ale dopiero „trzeciego dnia\", i tylko jeśli zachował w pamięci słowo."
+      ],
+      [
+       "λύσατε τὸν ναὸν τοῦτον",
+       "zburzcie ten przybytek",
+       "Zmiana słowa jest zmianą tematu: akcja działa się w ἱερόν (kompleksie), logion mówi o ναός — przybytku w sensie ścisłym, domu samej Obecności, miejscu Szechiny. Λύσατε (zburzcie, dosł. rozwiążcie) to imperativus koncesywny, znany prorokom: nie rozkaz, lecz wyzwanie-przyzwolenie — „dokończcie, co czynicie\" (por. Am 4,4 ironicznie: „idźcie do Betel i grzeszcie\"); Jezus mówi: to wy zburzycie, Ja wzniosę. Ἐγερῶ (wzniosę — od ἐγείρω: podnosić, budzić) jest czasownikiem zmartwychwstania — i pierwszą osobą liczby pojedynczej: Jezus przypisuje wskrzeszenie sobie (por. 10,17–18: „mam moc oddać życie moje i mam moc znów je wziąć\") — nigdzie indziej NT nie mówi o zmartwychwstaniu tak śmiało. Logion musiał być autentyczny i szeroko znany: wraca jako zarzut fałszywych świadków w procesie (Mk 14,58; Mt 26,61 — w wersji przekręconej: „zburzę\"), jako drwina pod krzyżem (Mk 15,29) i jeszcze w oskarżeniu Szczepana (Dz 6,14). Kościół zapamiętał zdanie, które go bolało, zanim je zrozumiał — najlepszy dowód wierności przekazu."
+      ],
+      [
+       "τεσσεράκοντα καὶ ἓξ ἔτεσιν",
+       "czterdzieści sześć lat",
+       "Nieporozumienie ma wartość kroniki: Herod Wielki rozpoczął przebudowę świątyni ok. 20/19 r. przed Chr. — czterdzieści sześć lat prowadzi do ok. 27/28 r. po Chr.: jedna z dwóch–trzech najtwardszych dat chronologii życia Jezusa (prace wykończeniowe trwały zresztą do lat 60., o czym rozmówcy mówią ściśle: οἰκοδομήθη — „budowano\"). Ale ewangelista zostawia liczbę także dla ironii: rozmówcy mierzą Boga kalendarzem inwestycji — czterdzieści sześć lat kamienia przeciw trzem dniom; identyczna logika, którą w 3,4 powtórzy Nikodem („jakże może człowiek narodzić się, będąc starcem?\") i w 4,11 Samarytanka („nie masz czerpaka, a studnia głęboka\"). Janowe nieporozumienie jest techniką celową: słowo Jezusa ma zawsze piętro, na które rozmówca nie wchodzi — a czytelnik, pouczony przez narratora, patrzy z góry na własną przeszłą głuchotę. Ojcowie dopiszą do liczby jeszcze jedno piętro (gematria Adama — zob. katena), ale sens pierwszy jest historyczny: Bóg wznosi w trzy dni to, czego ludzka religia nie zdoła dokończyć przez pokolenia."
+      ],
+      [
+       "περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ",
+       "o przybytku swego ciała",
+       "Klucz narratora — jedno z tych zdań, którymi czwarta Ewangelia otwiera czytelnikowi drzwi zamknięte dla bohaterów sceny. Genetivus epexegeticus: przybytek, którym jest Jego ciało. To dopowiedzenie spina wszystko, co Prolog zapowiedział: Słowo „rozbiło namiot\" (ἐσκήνωσεν, 1,14) — a namiot był poprzednikiem przybytku; teraz pada słowo ostatnie: ναός. Ciało Jezusa jest miejscem Szechiny — tym, czym był przybytek i świątynia: punktem, w którym mieszka chwała i dokonuje się przebłaganie. Konsekwencje są nieobliczalne i Ewangelia będzie je wyciągać do końca: kult oderwie się od góry — i jerozolimskiej, i Garizim — bo „nadchodzi godzina\", gdy prawdziwi czciciele będą czcić Ojca w Duchu i prawdzie (4,21–24); z boku nowego Przybytku wypłynie krew i woda (19,34) jak źródło ze świątyni Ezechiela (Ez 47); a nowe Jeruzalem obejdzie się bez świątyni, „bo jego świątynią jest Pan Bóg wszechmogący i Baranek\" (Ap 21,22). Zburzenie świątyni Heroda w 70 r. — które wspólnota Janowa ma już za sobą — nie jest w tej perspektywie końcem kultu, lecz odsłonięciem jego prawdziwego miejsca."
+      ],
+      [
+       "ἐμνήσθησαν ... καὶ ἐπίστευσαν τῇ γραφῇ",
+       "przypomnieli sobie ... i uwierzyli Pismu",
+       "Drugie ἐμνήσθησαν (przypomnieli sobie) — tym razem z datą: „gdy został wzbudzony z martwych\". Ewangelista odsłania warsztat własnej księgi: rozumienie słów Jezusa nie było dostępne w czasie ich wypowiadania; przyszło po Passze, jako owoc pamięci prowadzonej przez Ducha (14,26: „przypomni wam wszystko, co Ja wam powiedziałem\"; por. 12,16 — ta sama formuła po wjeździe do Jerozolimy). Wiara popaschalna ma tu swoją definicję gramatyczną: ἐπίστευσαν τῇ γραφῇ καὶ τῷ λόγῳ — uwierzyli Pismu i słowu Jezusa, postawionym obok siebie jak dwa skrzydła jednego objawienia; czwarta Ewangelia zrównuje autorytet logionu Jezusa z autorytetem Pisma — zdanie o ogromnych konsekwencjach dla teologii natchnienia. A dla czytelnika płynie stąd pociecha metodologiczna: niezrozumienie nie jest klęską wiary, jeśli słowo zostało zachowane; pamięć wierna jest poczekalnią zrozumienia."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 23,
+     "ce": 2,
+     "ve": 25,
+     "label": "w. 23–25",
+     "greek": "Ὡς δὲ ἦν ἐν τοῖς Ἱεροσολύμοις ἐν τῷ πάσχα ἐν τῇ ἑορτῇ, πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ θεωροῦντες αὐτοῦ τὰ σημεῖα ἃ ἐποίει· αὐτὸς δὲ Ἰησοῦς οὐκ ἐπίστευεν αὐτὸν αὐτοῖς διὰ τὸ αὐτὸν γινώσκειν πάντας καὶ ὅτι οὐ χρείαν εἶχεν ἵνα τις μαρτυρήσῃ περὶ τοῦ ἀνθρώπου· αὐτὸς γὰρ ἐγίνωσκεν τί ἦν ἐν τῷ ἀνθρώπῳ.",
+     "transl": "A gdy był w Jerozolimie w Paschę, w święto, wielu uwierzyło w imię Jego, widząc Jego znaki, które czynił. Sam zaś Jezus nie zawierzał im siebie, dlatego że znał wszystkich — i że nie potrzebował, aby ktoś świadczył o człowieku: sam bowiem wiedział, co było w człowieku.",
+     "units": [
+      [
+       "ἐπίστευσαν ... οὐκ ἐπίστευεν",
+       "uwierzyli ... nie zawierzał",
+       "Gra słów nieprzetłumaczalna w pełni: wielu ἐπίστευσαν εἰς (uwierzyło w) Jezusa — a Jezus οὐκ ἐπίστευεν (nie powierzał, nie zawierzał) im siebie; ten sam czasownik πιστεύω w dwóch kierunkach. Ewangelista wprowadza rozróżnienie, które będzie odtąd stale pracować: jest wiara z widzenia znaków — prawdziwa, ale płytka, poruszona skutkiem, nie Osobą; taka wiara potrafi jutro wołać „hosanna\", a pojutrze „ukrzyżuj\" (tłum z rozdziału 6 po rozmnożeniu chleba chce Go obwołać królem — i odchodzi po mowie eucharystycznej). Jezus jej nie odrzuca — ale się jej nie powierza: imperfectum οὐκ ἐπίστευεν maluje stałą postawę rezerwy. Zdanie jest lustrem dla czytelnika każdej epoki: można „wierzyć w Jego imię\" i nie być jeszcze kimś, komu On zawierza; miarą dojrzałości wiary nie jest entuzjazm wobec znaków, lecz zdolność przyjęcia słowa — także tego o zburzonym przybytku."
+      ],
+      [
+       "αὐτὸς γὰρ ἐγίνωσκεν τί ἦν ἐν τῷ ἀνθρώπῳ",
+       "sam bowiem wiedział, co było w człowieku",
+       "Zamknięcie o rozmachu antropologicznym: Jezus nie potrzebuje świadectwa o człowieku (μαρτυρήσῃ — jedyne w tej Ewangelii świadectwo, które okazuje się zbędne!), bo zna wnętrze każdego — jak znał Natanaela pod figowcem (1,48) i jak za chwilę pozna Nikodema, Samarytankę, paralityka i Judasza. W tle stoi biblijne wyznanie: „Ty sam znasz serca wszystkich synów ludzkich\" (1 Krl 8,39, modlitwa Salomona przy poświęceniu świątyni! — ironia lokalizacji jest zapewne zamierzona: w świątyni stoi Ten, o którym mówiła jej modlitwa dedykacyjna) oraz Jr 17,10: „Ja, Pan, badam serce\". Rodzajnikowe τῷ ἀνθρώπῳ (w człowieku) ma walor gatunkowy: nie „w tych ludziach\", lecz w człowieku jako takim — zdanie jest diagnozą kondycji, nie epizodu. I jest zawiasem kompozycji: następne słowa księgi brzmią „a był człowiek (ἄνθρωπος) z faryzeuszów, imieniem Nikodem\" (3,1) — przychodzi nocą przedstawiciel gatunku, którego wnętrze Jezus właśnie prześwietlił; rozmowa o nowym narodzeniu będzie pokazem tej wiedzy w działaniu."
+      ]
+     ]
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Scena wymaga znajomości realiów świątyni Heroda, ekonomii ofiarniczej i prorockiej tradycji krytyki kultu — a jej Janowa lokalizacja na początku działalności ma osobną historię egzegetyczną.",
+     "children": [
+      [
+       "Świątynia Heroda i handel ofiarny",
+       "Świątynia, którą znał Jezus, była placem budowy i cudem świata naraz: Herod Wielki rozpoczął radykalną przebudowę ok. 20/19 r. przed Chr., podwajając platformę (dzisiejszy Har ha-Bait — ok. 14 hektarów) i otaczając ją portykami; rabini mawiali, że kto nie widział budowli Heroda, nie widział pięknej budowli. Handel ofiarny miał logikę pielgrzymkową: przybysz z Galilei czy diaspory nie mógł wieźć zwierzęcia setki kilometrów — kupował je na miejscu, z gwarancją rytualnej nieskazitelności; podatek świątynny (pół sykla, Wj 30,13) wolno było płacić wyłącznie srebrem tyryjskim — stąd wymieniacze z ustaloną prowizją. Źródła rabiniczne wspominają targowiska synów Annasza — kramy rodziny arcykapłańskiej — i przechowują pamięć krytyki tego systemu z wewnątrz judaizmu; oczyszczenie dokonane przez Jezusa trafia więc w strunę napiętą od dawna. Rzecz działa się najpewniej na Dziedzińcu Pogan: jedynym miejscu, gdzie mógł modlić się nie-Żyd — to nadaje scenie wymiar misyjny, który synoptycy wypowiedzą cytatem z Iz 56,7: „dom modlitwy dla wszystkich narodów\"."
+      ],
+      [
+       "Prorocka krytyka kultu i czyny znaku",
+       "Gest Jezusa stoi w długiej tradycji. Werbalnej: Jeremiasz w bramie świątyni ogłasza, że „jaskinią zbójców\" stał się dom Boży, i zapowiada mu los Szilo (Jr 7,1–15 — kazanie, za które groziła mu śmierć: Jr 26); Malachiasz zapowiada Pana, który „nagle wejdzie do swej świątyni\" i oczyści synów Lewiego jak złotnik w ogniu (Ml 3,1–4); Zachariasz kończy księgę wizją dnia, w którym „nie będzie już kupca w domu Pana\" (Za 14,21). I performatywnej: prorocy odgrywali wyrocznie ciałem — Izajasz chodził nago, Jeremiasz nosił jarzmo, Ezechiel oblegał makietę miasta. Czyn Jezusa łączy oba nurty: jest wyrocznią odegraną (sąd nad kultem) i słowem objaśniającym (dom Ojca — dom handlu). Dla współczesnych mieścił się więc w rozpoznawalnym gatunku — dlatego pytają nie „dlaczego to zrobiłeś\", lecz „jakim prawem\": o mandat proroka, nie o sens gestu."
+      ],
+      [
+       "Jan a synoptycy: chronologia oczyszczenia",
+       "Synoptycy umieszczają oczyszczenie świątyni w Wielkim Tygodniu (Mk 11,15–17 par.) jako bezpośredni zapalnik wyroku; Jan — na progu działalności. Trzy klasyczne rozwiązania: dwa oczyszczenia (tradycyjna harmonizacja — możliwa, lecz obciążona milczeniem źródeł o pierwszym); chronologia synoptyczna z Janowym przesunięciem teologicznym (większość współczesnych: Jan przenosi scenę na początek, by od progu ogłosić program nowej świątyni); chronologia Janowa z synoptycką kompresją (mniejszość: synoptycy, znający tylko jedną podróż paschalną, musieli umieścić scenę tam, gdzie mieli Jerozolimę). Spór jest pouczający sam w sobie: ewangeliści komponują teologicznie, nie kronikarsko — a Janowa lokalizacja czyni z oczyszczenia nie finał, lecz klucz: całą działalność Jezusa czyta się odtąd jako budowanie nowego przybytku. Wewnętrzna wskazówka Jana: logion o zburzeniu świątyni w procesie (Mk 14,58) przytaczają świadkowie ze słyszenia, jakby padł dawno — co dobrze współgra z wypowiedzeniem go lata przed Męką."
+      ],
+      [
+       "Trzy Paschy i rytm księgi",
+       "Pascha z 2,13 otwiera Janowy kalendarz liturgiczny: trzy Paschy (2,13; 6,4; 11,55), Namioty (7,2), Poświęcenie świątyni — Chanuka (10,22); czwarta Ewangelia opowiada życie Jezusa jako wędrówkę przez święta Izraela, w której każde święto oddaje Mu swoją treść: w Paschę jest Barankiem, w Namioty — wodą i światłem (7,37; 8,12), w Chanukę — nowym poświęconym przybytkiem (10,36). Pierwsza Pascha ustawia tę logikę od razu w centrum: święto pamięci wyzwolenia staje się sceną zapowiedzi nowego wyjścia — przez zburzony i wzniesiony przybytek ciała. Rachunek trzech Pasch dał tradycji trzyletnią chronologię działalności publicznej; nowożytna egzegeza ostrożnie dodaje, że Janowi nie o kalendarz chodzi, lecz o teologię — co nie przeszkadza, by kalendarz był przy okazji wiarygodny: 46 lat z w. 20 i Pascha ok. 28 r. składają się w spójną rachubę."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Gorliwość, kult, ciało-świątynia i wiara ze znaków — cztery węzły sceny w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem (cap. II, lect. 2–3).",
+     "children": [
+      [
+       "1. Gorliwość — gniew w służbie miłości",
+       "Scena jest klasycznym miejscem tomistycznej nauki o uczuciach uporządkowanych. Gniew nie jest u Tomasza grzechem z definicji: jest namiętnością, którą rozum może wprząc w służbę sprawiedliwości — grzechem staje się przez brak (obojętność wobec zła, ira per defectum) lub nadmiar (furia, ira per excessum). Ζῆλος to gniew doskonale uporządkowany: intensywna miłość (amor intensus), która nie znosi krzywdy rzeczy ukochanej — „gorliwość o dom Twój\" jest miłością do Ojca, która nie może patrzeć na profanację Jego domu. Znaki rozpoznawcze podaje sama scena: gorliwość plecie bicz (działa z rozmysłem), rozróżnia (zwierzęta wygania, gołębie każe wynieść — ubogim nie niszczy ofiary), mówi prawdę wprost i płaci sobą (καταφάγεται — pożre Mnie: koszt ponosi gorliwy, nie postronni). Furia nie spełnia żadnego z tych kryteriów. Chrystus w świątyni jest więc dowodem, że łagodność (mansuetudo) i gniew święty nie są sprzecznością, lecz dwoma narzędziami jednej miłości."
+      ],
+      [
+       "2. Religia i symonia — kult skorumpowany",
+       "Cnotą regulującą kult jest u Tomasza religia (virtus religionis) — sprawiedliwość oddawana Bogu; jej wypaczeniem od strony wymiany jest symonia: czynienie z rzeczy świętych przedmiotu handlu. Scena Janowa jest biblijnym locus classicus tej diagnozy: system ofiarniczy — sam w sobie prawowity — zrósł się z ekonomią tak, że dom Ojca stał się domem targowiska; nie nadużycia są oskarżone (Jan nie mówi o oszustwie), lecz przeniknięcie logiki wymiany w przestrzeń daru. Tomistyczna analiza sięga głębiej niż moralistyka: kult jest odpowiedzią na darmowość istnienia — kupczenie nim odwraca sam kierunek religii, bo próbuje Boga mieć zamiast się Bogu oddać. Stąd aktualność sceny w każdej epoce Kościoła: symonia wraca wszędzie tam, gdzie łaska bywa warunkowana świadczeniem — a bicz ze sznurów pozostaje w Ewangelii jako miara powagi, z jaką Bóg traktuje darmowość swojego domu."
+      ],
+      [
+       "3. Ciało jako przybytek — konsekwencje unii hipostatycznej",
+       "„Mówił o przybytku swego ciała\" — zdanie, które scholastyka czyta ontologicznie: ciało Chrystusa jest świątynią w sensie ścisłym i jedynym, bo w nim bóstwo mieszka nie przez łaskę (jak w duszach świętych) ani przez znak (jak w przybytku), lecz przez unię osobową — pełnia bóstwa „cieleśnie\" (Kol 2,9). Stąd Tomaszowe uporządkowanie stopni obecności Boga: przez istotę i moc we wszystkim, przez łaskę w sprawiedliwych, przez chwałę w świętych — i w Chrystusie przez zjednoczenie w jednej Osobie, sposób nieporównywalny z tamtymi. Konsekwencje idą w dwie strony. Sakramentalna: skoro świątynią jest ciało, kult chrześcijański będzie zawsze cielesny — Eucharystia jest dokładnie tym: przybytkiem obecnym na ołtarzu; ikonoklazm każdej epoki, wstydzący się materii w kulcie, przegrywa z 2,21. Antropologiczna: przez łaskę członki Chrystusa stają się świątynią Ducha (1 Kor 6,19) — nasze ciała dziedziczą godność przybytku, z całą powagą moralną, jaką Paweł z tego wyciąga."
+      ],
+      [
+       "4. Wiara ze znaków i jej granice",
+       "W. 23–25 dostarcza tomiście rozróżnienia w samym akcie wiary: „uwierzyli, widząc znaki\" — a Jezus „nie zawierzał im siebie\". Tomasz rozróżnia wiarę nieuformowaną (fides informis) — prawdziwe uznanie, któremu brak formy miłości — i wiarę uformowaną (fides caritate formata), która jednoczy z Bogiem; oraz, od strony motywu, wiarę wspartą na znakach i wiarę przylegającą do samego Boga prawdomównego (credere Deo). Znaki są dobre — sam Bóg ich udziela jako motywów wiarygodności; ale wiara zatrzymana na znakach jest jak dom postawiony na rusztowaniu: rusztowanie kiedyś się zdejmie. Powściągliwość Jezusa (imperfectum: stale „nie zawierzał\") jest w tej optyce aktem prawdomówności i miłosierdzia naraz: nie buduje wspólnoty na entuzjazmie, który zna od podszewki; poczeka — z Nikodemem przez trzy rozdziały nocy, z tłumem przez skandal mowy eucharystycznej — aż wiara przejdzie od znaków do Osoby. Deus non indiget nostro testimonio: Ten, który wie, co jest w człowieku, może sobie pozwolić na cierpliwość wobec człowieka."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "body": "Umieszczenie oczyszczenia świątyni na progu księgi — wbrew pamięci synoptycznej — jest najodważniejszą decyzją kompozycyjną ewangelisty i odsłania jego metodę: wydarzenia są dla niego kluczami, nie kamieniami milowymi; klucz wiesza się przy drzwiach. Po Kanie (chwała w znaku stworzenia — wino) następuje natychmiast świątynia (chwała w znaku kultu — przybytek): dwie sceny to dyptyk programowy — Mesjasz przemienia i ucztę człowieka, i dom Boga, radość i religię. Autor pisze przy tym z jawnie popaschalnej perspektywy i nie ukrywa tego przed czytelnikiem — przeciwnie: dwukrotne „przypomnieli sobie\" oraz klucz z w. 21–22 są odsłonięciem własnego warsztatu; ta Ewangelia nie udaje, że powstała w czasie wydarzeń — powstała z pamięci przemienionej przez Zmartwychwstanie i Ducha, i uważa to za tytuł wiarygodności, nie słabość (por. 12,16). Ślad świadka: szczegóły bez funkcji fabularnej (bicz pleciony ze sznurów, rozdzielenie losu wołów i gołębi, liczba 46) mają fakturę pamięci naocznej. A dla wspólnoty piszącej po 70 r. scena niosła odpowiedź na najboleśniejsze pytanie epoki: gdzie jest Bóg, skoro świątynia leży w gruzach? Odpowiedź księgi: tam, gdzie był zawsze — w przybytku, którego nie zburzy nikt, bo raz zburzony, został wzniesiony na wieki.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "body": "Duch Święty objawia w tej perykopie miejsce swojego przyszłego działania: przybytek ciała — i uczy rozpoznawać jego rozszerzenia: Eucharystię, Kościół, ciało każdego ochrzczonego (1 Kor 3,16; 6,19). Zarazem ustanawia hermeneutykę, którą sam będzie prowadził: podwójne „przypomnieli sobie\" jest zapowiedzią Jego urzędu nauczycielskiego (14,26) — rozumienie słów Jezusa jest darem czasu i Ducha, nie doraźnej przenikliwości; Kościół czyta więc Pismo tak, jak uczniowie logion o przybytku: zachowując w pamięci to, czego jeszcze nie rozumie, w zaufaniu, że Pascha rzuci światło wstecz. Duch przekazuje też przestrogę o dwóch nadużyciach domu Bożego: uczynić z niego targowisko (religijność wymiany — daję, aby dostać) i uczynić z niego muzeum (religijność kamienia, która myli budowlę z Obecnością); lekarstwem na oba jest kult „w Duchu i prawdzie\", zakotwiczony w żywym Przybytku. A w powściągliwości Jezusa wobec wiary ze znaków (w. 24) Duch zostawia kryterium rozeznania na każdą epokę entuzjazmu religijnego: prawdziwa wiara nie ta, która widziała najwięcej, lecz ta, której można zawierzyć — która zachowuje słowo także wtedy, gdy brzmi ono jak zapowiedź zburzenia tego, co w naszej religijności najtrwalsze.",
+     "children": []
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "Ps 69,10 → w. 17",
+       "Psalm sprawiedliwego prześladowanego — obok Ps 22 główny psalm Męki w NT (ocet: 69,22 → J 19,28–29; nienawiść bez powodu: 69,5 → J 15,25; „stałem się obcym dla braci\": 69,9). Uczniowie wspominają w. 10a; ewangelista, zmieniając aoryst LXX na futurum (καταφάγεται — pożre), czyni z cytatu proroctwo Męki: gorliwość o dom Ojca będzie Jezusa kosztować życie. Warto czytać dalej niż cytat: w. 10b psalmu — „urągania urągających Tobie spadły na mnie\" — cytuje Rz 15,3 o Chrystusie; cały psalm był dla pierwszego Kościoła gotowym scenariuszem pasyjnym, a nasza scena jest jego pierwszym aktem."
+      ],
+      [
+       "Jr 7,1–15; 26 → w. 14–16",
+       "Kazanie Jeremiasza w bramie świątyni: „jaskinią zbójców stał się w waszych oczach ten dom\" — z zapowiedzią losu Szilo i procesem o bluźnierstwo przeciw świątyni (Jr 26: prorok o włos od śmierci). Synoptycy wkładają słowa Jeremiasza wprost w usta Jezusa; Jan zachowuje samą strukturę losu: gest przeciw świątyni → żądanie legitymacji → (w perspektywie) proces i śmierć. Jezus działa świadomie w cieniu Jeremiasza — proroka odrzuconego, płaczącego nad miastem i przeżywającego zburzenie przybytku; typologia, którą pamięć Kościoła zapisze też w Mt 16,14."
+      ],
+      [
+       "Za 14,21; Ml 3,1–4 → w. 15–16",
+       "Dwa proroctwa „dnia ostatecznego\" o świątyni. Zachariasz zamyka księgę wizją: „nie będzie już kupca w domu Pana Zastępów w owym dniu\" — usunięcie handlu jest znakiem rozpoznawczym eschatonu; czyn Jezusa jest performatywnym ogłoszeniem: ów dzień nadszedł. Malachiasz: „nagle wejdzie do swej świątyni Pan, którego oczekujecie… i oczyści synów Lewiego jak złotnik\" — z pytaniem „któż zniesie dzień Jego przyjścia?\"; scena Janowa jest tym nagłym wejściem: Pan przyszedł do swego domu (τὰ ἴδια z 1,11!) i zaczął od oczyszczenia. Oba teksty czynią z gestu więcej niż reformę obyczajów — czynią zeń autoprezentację: tak wchodzi do świątyni nie prorok, lecz jej Pan."
+      ],
+      [
+       "Iz 56,7 → w. 16",
+       "„Dom mój będzie nazwany domem modlitwy dla wszystkich narodów\" — połowa cytatu, którą przytaczają synoptycy (Mk 11,17), a Jan zostawia w domyśle scenerii: handel zajmował Dziedziniec Pogan, jedyną przestrzeń modlitwy narodów. Oczyszczenie jest więc także gestem misyjnym: zrobienie miejsca dla gojów w domu Ojca. Czwarta Ewangelia poprowadzi ten wątek po swojemu: godzina uwielbienia wybije, gdy „Grecy\" poproszą o widzenie Jezusa (12,20–23) — nowy przybytek będzie miał tylko dziedziniec narodów, bo „innych owiec\" (10,16) nie dzieli już od Obecności żadna balustrada."
+      ],
+      [
+       "Mk 11,15–17; 14,58; Mt 26,61 → w. 15.19",
+       "Dossier synoptyczne. Oczyszczenie w Wielkim Tygodniu (Mk 11 par.) — ta sama akcja, inne miejsce w kompozycji (zob. sekcja II). Logion o świątyni wraca u synoptyków wyłącznie w ustach wrogów: fałszywi świadkowie w procesie („słyszeliśmy, jak mówił: Ja zburzę…\" — Mk 14,58; przekręcenie: Jezus mówił „zburzcie\") i szydercy pod krzyżem (Mk 15,29). Zestawienie z J 2,19 pokazuje mechanizm zniekształcenia: wyzwanie koncesywne („wy zburzycie\") stało się w zeznaniu groźbą („on zburzy\"). Czwarta Ewangelia, podając brzmienie pierwotne z kluczem interpretacyjnym, wykonuje pracę rehabilitacji logionu — jakby odpowiadała na proces: oto, co naprawdę powiedział i co miał na myśli."
+      ],
+      [
+       "1 Kor 3,16–17; 6,19; 1 P 2,4–5 → w. 21",
+       "Rozszerzenia nowej świątyni w katechezie apostolskiej: „czy nie wiecie, że jesteście świątynią Boga i Duch Boży w was mieszka?\" (o wspólnocie), „ciało wasze jest świątynią Ducha Świętego\" (o chrześcijaninie), „wy również, niby żywe kamienie, jesteście budowani jako duchowa świątynia\" (Piotrowa wersja tej samej wiary). Teologia przybytku ciała z J 2,21 nie jest więc Janowym unikatem, lecz wspólnym skarbem pierwszego Kościoła — Jan podaje jej chrystologiczny fundament: nasze ciała są świątynią pochodną, przez zamieszkanie Ducha; Jego ciało — świątynią źródłową, przez unię osobową."
+      ],
+      [
+       "Ap 21,22 → w. 21",
+       "Domknięcie w corpus Joanneum: w nowym Jeruzalem „świątyni nie ujrzałem, bo jego świątynią jest Pan, Bóg wszechmogący, i Baranek\". Linia, która zaczyna się w 1,14 (namiot), przechodzi przez 2,21 (przybytek ciała) i 4,23 (kult w Duchu i prawdzie), kończy się miastem bez świątyni — nie dlatego, że kult ustał, lecz dlatego, że Obecność wypełniła wszystko: zniknęła różnica między sacrum a profanum, bo nie ma już nic poza domem Ojca. Eschatologia Janowa jest konsekwentna: każda budowla była rusztowaniem Obecności; gdy Obecność jest cała, rusztowania schodzą."
+      ],
+      [
+       "J 14,26; 12,16 → w. 17.22",
+       "Autokomentarz do podwójnego „przypomnieli sobie\": „Paraklet, Duch Święty, którego Ojciec pośle w moim imieniu, On was wszystkiego nauczy i przypomni wam wszystko, co Ja wam powiedziałem\" oraz — po wjeździe palmowym — „z początku nie zrozumieli tego Jego uczniowie; gdy jednak Jezus został uwielbiony, wtedy sobie przypomnieli\". Czwarta Ewangelia trzykrotnie pokazuje ten sam mechanizm i raz podaje jego teologię: pamięć Kościoła jest charyzmatem — rozumienie przychodzi po Passze, pod prowadzeniem Ducha, i właśnie dlatego Ewangelia pisana po latach jest wierniejsza, nie mniej wierna. To Janowa odpowiedź na zarzut późności: późność jest warunkiem głębi."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Historia: reforma i granice gniewu",
+       "Scena stała się w historii Kościoła ikoną reformy — i szkołą jej rozróżniania. Ojcowie czytali ją najpierw duchowo: świątynią jest dusza (Orygenes) i Kościół — oczyszczanie zaczyna się od środka; średniowieczni reformatorzy (od Grzegorza VII po kaznodziejów sprzed Trydentu) brali z niej język przeciw symonii — handlowi rzeczami świętymi, który jest dokładnie „domem targowiska\"; a teologia moralna zbudowała na niej naukę o gniewie sprawiedliwym: jedyna scena „przemocy\" Jezusa, obwarowana wszystkimi znakami rozmysłu i miłości, służy za miarę — kto siega po bicz bez plecenia sznurów (bez rozmysłu, postu i modlitwy), ten cytuje literę sceny przeciw jej duchowi. Nowożytna wyobraźnia zapamiętała ją przez malarstwo: El Greco wracał do „Wypędzenia przekupniów\" całe życie (co najmniej cztery wersje — obraz był manifestem reformy trydenckiej), a Giotto w Padwie dał scenie miejsce w samym rytmie narracji pasyjnej. W sporach o sztukę i wystrój kościołów w. 16 bywał zawołaniem obu stron — co samo uczy, że bicz łatwiej namalować, niż uprawnić."
+      ],
+      [
+       "Liturgia",
+       "Lekcjonarz rzymski czyta J 2,13–25 w III Niedzielę Wielkiego Postu roku B — w samym sercu drogi ku Passze: Kościół słyszy zapowiedź zburzenia i wzniesienia przybytku dokładnie wtedy, gdy katechumeni przygotowują się do zanurzenia w tę Paschę. Drugim domem perykopy jest rocznica poświęcenia kościoła — zwłaszcza bazyliki laterańskiej (9 XI, święto całego obrządku): czytania i euchologia tego dnia żyją napięciem między budowlą a Ciałem, kamieniem a żywymi kamieniami; kolekta prosi, by Kościół-budowla był znakiem Kościoła-ludu, w którym mieszka Duch. Werset o gorliwości wszedł do formularzy o duszpasterzach i do tradycyjnych modlitw kapłańskich; a „zburzcie — a Ja wzniosę\" stało się w hymnografii wielkanocnej jednym z paradoksów paschalnych: świątynia zburzona w piątek, odbudowana „trzeciego dnia\". Wschód czyta perykopę w Wielki Poniedziałek tygodnia paschalnego obok historii Józefa — sprawiedliwego odrzuconego i wywyższonego: klucz ten sam."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Katena do oczyszczenia świątyni — sześć głosów: duchowa świątynia i moc bijąca z gestu (Orygenes), obrona gorliwości (Chryzostom), gematria czterdziestu sześciu lat i ciało z Adama (Augustyn), przybytek wzniesiony własną mocą (Cyryl), wiara, której się nie zawierza (Chryzostom, Augustyn).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: pierwsza Pascha Ewangelii ogłasza program całej księgi — Syn wchodzi do domu Ojca jako jego Pan, oczyszcza kult z logiki targowiska i wskazuje przybytek, którego tamten był tylko zapowiedzią: własne ciało, które ludzie zburzą, a On wzniesie w trzy dni. Scena uczy porządku gorliwości (miłość, która plecie bicz z rozmysłem i płaci sobą), porządku pamięci (słowo niezrozumiane zachowuje się do dnia, w którym Pascha i Duch je otworzą) i porządku wiary (entuzjazm wobec znaków to przedsionek — Jezus zawierza się tym, którzy przyjmują słowo, także trudne). A czytelnikowi stojącemu — jak wspólnota Janowa — wobec gruzów którejś ze swoich świątyń, perykopa zostawia pewność, na której można postawić życie: przybytek, w którym Bóg mieszka naprawdę, został już raz zburzony — i od trzeciego dnia nie można go zburzyć nigdy więcej.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — Orygenes (Comm. in Io. X), św. Jan Chryzostom (Hom. in Io. 23–24), św. Augustyn (Tract. in Io. 10–11), św. Cyryl Aleksandryjski (In Io., ks. II) i św. Tomasz (Super Ioannem, cap. II, lect. 2–3).*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     69,
+     10,
+     69,
+     10,
+     "Ps 69,10",
+     "cytat",
+     "gorliwość o dom Twój — cytat wspomniany przez uczniów; futurum καταφάγεται czyni zeń proroctwo Męki"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Jr",
+     7,
+     1,
+     7,
+     15,
+     "Jr 7,1–15",
+     "tlo",
+     "kazanie Jeremiasza w bramie świątyni — jaskinia zbójców i los Szilo; typ proroka sądzonego za słowo przeciw świątyni"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Za",
+     14,
+     21,
+     14,
+     21,
+     "Za 14,21",
+     "aluzja",
+     "nie będzie już kupca w domu Pana w ów dzień — usunięcie handlu znakiem eschatonu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ml",
+     3,
+     1,
+     3,
+     4,
+     "Ml 3,1–4",
+     "typologia",
+     "Pan nagle wejdzie do swej świątyni i oczyści jak złotnik — autoprezentacja Pana świątyni"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     56,
+     7,
+     56,
+     7,
+     "Iz 56,7",
+     "tlo",
+     "dom modlitwy dla wszystkich narodów — misyjny wymiar oczyszczenia Dziedzińca Pogan"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mk",
+     11,
+     15,
+     11,
+     17,
+     "Mk 11,15–17",
+     "paralela",
+     "synoptyczne oczyszczenie w Wielkim Tygodniu — ta sama akcja, inna lokalizacja kompozycyjna"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     26,
+     61,
+     26,
+     61,
+     "Mt 26,61",
+     "paralela",
+     "zeznanie fałszywych świadków — logion o świątyni przekręcony w procesie (por. Mk 14,58)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 Kor",
+     3,
+     16,
+     3,
+     17,
+     "1 Kor 3,16–17",
+     "rozwiniecie",
+     "jesteście świątynią Boga — nowa świątynia rozszerzona na wspólnotę (por. 6,19 o ciele chrześcijanina)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ap",
+     21,
+     22,
+     21,
+     22,
+     "Ap 21,22",
+     "rozwiniecie",
+     "świątyni w mieście nie ujrzałem — Pan i Baranek świątynią nowego Jeruzalem"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     14,
+     26,
+     14,
+     26,
+     "J 14,26",
+     "rozwiniecie",
+     "Duch przypomni wam wszystko — teologia podwójnego ἐμνήσθησαν (w. 17.22)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     4,
+     21,
+     4,
+     24,
+     "J 4,21–24",
+     "rozwiniecie",
+     "nadchodzi godzina kultu w Duchu i prawdzie — konsekwencja przeniesienia przybytku na ciało"
+    ],
+    [
+     [
+      "unit",
+      "w. 18–22",
+      3
+     ],
+     "J",
+     19,
+     34,
+     19,
+     34,
+     "J 19,34",
+     "rozwiniecie",
+     "krew i woda z boku nowego Przybytku — źródło ze świątyni (por. Ez 47,1)"
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. II, lect. 2–3",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład oczyszczenia świątyni: gorliwość, symonia, przybytek ciała i wiara ze znaków.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Dyskusja chronologii oczyszczenia (Jan a synoptycy), historii logionu o świątyni i daty z w. 20.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "C. K. Barrett",
+     "The Gospel According to St John, ad loc.",
+     [
+      "section",
+      "I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
+     ],
+     "Analiza filologiczna pary ἱερόν/ναός i składni w. 15 (zakres φραγέλλιον).",
+     "The Gospel According to St John"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana I, ad loc.",
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Polskie omówienie teologii nowej świątyni i struktury pierwszej Paschy Janowej.",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 15–17",
+     "Orygenes",
+     "Komentarz do Ewangelii Jana",
+     "Comm. in Io. X,16–25",
+     "Orygenes — pierwszy systematyczny komentator sceny — zatrzymuje się nad tym, czego „nie widać\": jak jeden człowiek z biczem ze sznurów rozproszył tłum kupców broniących swego towaru? Odpowiada: większa to moc niż przemiana wody w wino — z gestu bił blask bóstwa (θειότης), który obezwładniał opór; bicz był znakiem, mocą było Słowo. A ponieważ litera sceny domaga się głębi, Aleksandryjczyk dodaje wykład duchowy, który stał się klasyką: świątynią jest dusza i Kościół — i w jednej, i w drugim zasiadają „sprzedający woły\" (przywiązania ziemskie), „bankierzy\" (rachuby zysku w rzeczach świętych); Logos wchodzi tam z biczem uplecionym ze słów Pisma i wywraca stoły. Oczyszczenie świątyni dzieje się więc trzykrotnie: w Jerozolimie — raz; w Kościele i w duszy — ilekroć Słowo czytane jest z wiarą."
+    ],
+    [
+     "w. 15–17",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 23",
+     "Chryzostom broni sceny przed zarzutem gwałtowności — i przed jej nadużyciem. Po pierwsze: Pan nie sięgnął po bicz dla siebie (zniewag własnych nigdy nie mścił), lecz dla domu Ojca — gorliwość różni się od gniewu tym, czyjej sprawy broni. Po drugie: zauważ miarę — zwierzęta wygnał, pieniądze rozsypał (nie zabrał!), stoły wywrócił (nie połamał), a ubogim sprzedawcom gołębi rzekł tylko słowo; sąd był czytelny, szkoda — żadna. Po trzecie: uczynił to dwakroć (kaznodzieja zna obie tradycje — Janową i synoptyczną), na początku i na końcu drogi, bo cierpliwość Boża powtarza swoje upomnienia. Lekcja dla słuchaczy Chryzostoma — i każdej epoki: kto chce naśladować tę scenę, niech najpierw sprawdzi, czy umie naśladować Tego, który policzkowany — milczał; bicz w świątyni ma prawo upleść tylko ręka, która da się przybić."
+    ],
+    [
+     "w. 18–22",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 10,10–12",
+     "Skąd czterdzieści sześć lat? Augustyn, mistrz liczb, podaje wykład, który zachwycał całe średniowiecze: greckie litery imienia ΑΔΑΜ liczone jako cyfry dają 1+4+1+40 = 46 — przybytek ciała Chrystusa był „budowany\" z człowieczeństwa Adamowego; a cztery litery imienia to cztery strony świata (Anatole, Dysis, Arktos, Mesembria — wschód, zachód, północ, południe), bo nowy Adam zbiera rozproszone człowieczeństwo ze wszystkich stron. Zabawa liczbą? Augustyn wie, co robi: gematria jest u niego przypowieścią o treści najzupełniej poważnej — ciało wzięte z Adama, zburzone przez synów Adama, wzniesione trzeciego dnia dla wszystkich synów Adama. I dopowiada wykład „zburzcie\": oni burzą, On wznosi; złość ludzka jest w ekonomii Bożej tylko wykonawcą rozbiórki, po której Architekt stawia to, czego już nic nie rozbierze."
+    ],
+    [
+     "w. 18–22",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. II",
+     "Ἐγερῶ — „Ja wzniosę\": Cyryl waży pierwszą osobę tego czasownika złotą wagą aleksandryjskiej chrystologii. Pismo mówi zwykle, że Ojciec wskrzesił Jezusa; tu Syn przypisuje wskrzeszenie sobie — i nie ma sprzeczności: jedna jest moc Ojca i Syna, a zmartwychwstanie jest dziełem całej Trójcy, w którym Syn nie jest biernym przedmiotem, lecz współsprawcą własnego powstania (por. 10,18: „mam moc znów je wziąć\"). Stąd „zburzcie ten przybytek\" czyta Cyryl jako zdanie o dobrowolności Męki: nikt nie burzy tej świątyni bez przyzwolenia Mieszkańca — Pan wydaje własne ciało rozbiórce, pewien mocy, którą je wzniesie. A ponieważ ciało to jest nasze wspólne człowieczeństwo, w jego wzniesieniu została „współwzniesiona\" natura ludzka: zmartwychwstanie przybytku jest początkiem zmartwychwstania wszystkich, których ta natura obejmuje."
+    ],
+    [
+     "w. 23–25",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 24",
+     "„Wielu uwierzyło… lecz Jezus im nie zawierzał\" — Chryzostom czyta to zdanie jako diagnozę wiary połowicznej: przyszli po znakach, nie po słowie; wierzyli w Cudotwórcę, nie w Pana. Tacy — mówi kaznodzieja — są jak naczynia nieszczelnie wypalone: trzymają wodę, póki jej nie podgrzać; przyjdzie mowa twarda (o chlebie życia, o krzyżu) i entuzjazm wycieknie. Dlatego Pan „znał wszystkich\" i nie budował na aplauzie — czekał na wiarę doświadczoną. Zastosowanie Chryzostomowe jest duszpastersko trzeźwe: Kościół nie powinien ani gardzić wiarą ze znaków (jest początkiem!), ani mylić jej z dojrzałością; katechumenat, próba, czas — to nie biurokracja łaski, lecz naśladowanie powściągliwości Jezusa, który entuzjazmowi daje dojrzeć w zawierzenie."
+    ],
+    [
+     "w. 23–25",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 11,2–4",
+     "Augustyn dostrzega w zdaniu „nie zawierzał im siebie\" obraz z życia swojego Kościoła: katechumenów. Wierzą już w imię Jezusa — a Jezus jeszcze nie powierza im siebie: nie zasiadają do stołu tajemnic, nie znają „tego, co wiedzą wierni\" (sacramentum, którego katechumenat nie ogląda). Niech się więc nie dziwią ani nie obrażają: niech przejdą przez śmierć i zmartwychwstanie chrztu — a Ten, który zna, co jest w człowieku, powierzy im siebie całego. Za alegorią stoi zasada, którą Augustyn wypowiada z całą powagą: Bóg mierzy zaufanie nie ciekawości, lecz przemianie; wiara, która chce dostępu do tajemnic bez przejścia przez Paschę, chce owocu bez korzenia. A ponieważ „wie, co jest w człowieku\", nie musimy przed Nim udawać dojrzałości — wystarczy jej chcieć i dać się przeprowadzić."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "III Niedziela Wielkiego Postu roku B",
+     "J 2,13–25",
+     "Zapowiedź zburzenia i wzniesienia przybytku czytana w drodze ku Passze — katecheza paschalna dla przygotowujących się do chrztu."
+    ],
+    [
+     "rzymski",
+     "Rocznica poświęcenia kościoła (m.in. bazyliki laterańskiej, 9 XI)",
+     "J 2,13–22",
+     "Napięcie między budowlą a Ciałem: kościół-budowla znakiem Kościoła-ludu i przybytku, którym jest Chrystus."
+    ],
+    [
+     "bizantyjski",
+     "Wielki Poniedziałek (tydzień paschalny — czytania Janowe)",
+     "J 2 (w ciągu lektury Ewangelii Janowej okresu paschalnego)",
+     "Wschód czyta Jana w okresie paschalnym: logion o przybytku rozbrzmiewa w świetle Zmartwychwstania, obok historii Józefa — odrzuconego i wywyższonego."
+    ]
+   ],
+   "textual": [
+    [
+     15,
+     "φραγέλλιον",
+     "wariant lekcji",
+     "NA28: ποιήσας φραγέλλιον (uczyniwszy bicz) — tak ℵc, A, B i większość. Część najstarszych świadków (P66, P75, L, N i in.) czyta ὡς φραγέλλιον — „jakby bicz\".",
+     "Lekcja z ὡς łagodzi obraz (coś na kształt bicza) i jest na tyle wcześnie oraz szeroko poświadczona, że część krytyków uważa ją za pierwotną; NA28 pozostaje przy tekście krótszym. Dla egzegezy różnica jest pouczająca w obu kierunkach: już najstarsi kopiści czuli potrzebę osłabienia gestu — a sam gest, z ὡς czy bez, pozostaje prorockim znakiem, nie aktem przemocy."
+    ],
+    [
+     12,
+     "οἱ ἀδελφοὶ [αὐτοῦ] ... ἔμειναν",
+     "wariant lekcji",
+     "Zaimek αὐτοῦ po ἀδελφοί wahliwy w przekazie (stąd nawias NA28); nadto część świadków (ℵ, wczesne łacińskie) czyta ἔμεινεν (pozostał — liczba pojedyncza) zamiast ἔμειναν (pozostali).",
+     "Drobiazgi bez wpływu na sens sceny; liczba pojedyncza akcentowałaby samego Jezusa (orszak znika z pola widzenia), mnoga — wspólną wędrówkę rodziny i uczniów. NA28 słusznie wybiera lekcję szerzej poświadczoną; wariant przypomina, że nawet wersety „przejściowe\" mają swoją historię przekazu."
+    ]
+   ],
+   "theme_links": [
+    [
+     "świątynia — ciało Jezusa",
+     [
+      "block",
+      "w. 18–22"
+     ]
+    ],
+    [
+     "Szechina — zamieszkanie Boga",
+     [
+      "block",
+      "w. 18–22"
+     ]
+    ],
+    [
+     "znaki (σημεῖα) i wiara",
+     [
+      "block",
+      "w. 23–25"
+     ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 23–25"
+     ]
+    ],
+    [
+     "godzina Jezusa (ἡ ὥρα)",
+     [
+      "block",
+      "w. 15–17"
+     ]
+    ],
+    [
+     "nowy tydzień stworzenia (J 1,19–2,11)",
+     [
+      "block",
+      "w. 12"
+     ]
+    ]
+   ],
+   "revision_note": "Dodano perykopę Oczyszczenie świątyni (J 2,12–25) w pełnym opracowaniu: analiza filologiczna z jednostkami frazowymi, struktura dyptyku, sekcje II–VIII z podsekcjami, katena sześciu głosów, aparat (w. 12 i 15), odniesienia, cytowania i recepcja; status: ukończona"
+  }
+ ]
+}
