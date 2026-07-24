@@ -9,6 +9,7 @@ Ten plik to WYŁĄCZNIE narzędzie — cała treść (schemat i dane) leży osob
     data/prolog.json       — Prolog (J 1,1-14) + katena
     data/continuation.json — J 1,15-51 (pięć perykop)
     data/kana.json         — J 2,1-11 (Wesele w Kanie)
+    data/swiatynia.json    — J 2,12-25 (Oczyszczenie świątyni)
 
 Uruchomienie:  python3 tools/egzegeza_jana_build.py
 Wynik:         data/egzegeza_jana.sqlite (budowana od zera)
@@ -27,7 +28,7 @@ ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 DB = DATA / "egzegeza_jana.sqlite"
 SCHEMA = DATA / "schema.sql"
-PHASES = ["prolog.json", "continuation.json", "kana.json"]
+PHASES = ["prolog.json", "continuation.json", "kana.json", "swiatynia.json"]
 
 # Tytuł sekcji I jest strukturalnym szkieletem każdej perykopy (nie treścią).
 SECTION_I_TITLE = ("I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem "

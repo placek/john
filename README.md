@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–2,11** w siedmiu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz sześć perykop J 1,15–2,11; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–2,25** w ośmiu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz siedem perykop J 1,15–2,25; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -14,6 +14,7 @@ data/                     ← źródła (pod kontrolą wersji)
   prolog.json            Prolog J 1,1-14 + katena Ojców
   continuation.json      J 1,15-51 (pięć perykop)
   kana.json              J 2,1-11 (Wesele w Kanie)
+  swiatynia.json         J 2,12-25 (Oczyszczenie świątyni)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -28,7 +29,7 @@ Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 (`books`, `verses`, `lexemes`, `semitic`, `occurrences`, `works`, `themes`)
 oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera, w kolejności
-`prolog → continuation → kana`.
+`prolog → continuation → kana → swiatynia`.
 
 ## Warstwy schematu
 
@@ -130,6 +131,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 1,35–42 | Pierwsi uczniowie | ukończona |
 | J 1,43–51 | Powołanie Filipa i Natanaela | ukończona |
 | J 2,1–11 | Wesele w Kanie Galilejskiej | ukończona |
+| J 2,12–25 | Oczyszczenie świątyni | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
