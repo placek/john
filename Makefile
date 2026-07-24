@@ -5,7 +5,8 @@
 #   make serve      # uruchom serwer webowy (browser/: index.html + API)
 #   make export     # wyeksportuj wszystkie perykopy do Markdown
 #   make export PID=4 [OUT=baranek.md]   # jedną perykopę
-#   make clean      # usuń wygenerowaną bazę
+#   make site       # statyczna wersja przeglądarki (site/) — np. GitHub Pages
+#   make clean      # usuń wygenerowaną bazę i site/
 #
 # Układ repozytorium:
 #   data/     — źródła: schema.sql + *.json (oraz generowana baza)
@@ -26,7 +27,7 @@ PORT    ?= 8000
 PID     ?= all
 OUT     ?=
 
-.PHONY: all serve build rebuild export clean
+.PHONY: all serve build rebuild export site clean
 
 ## zbuduj bazę (jeśli brak) i wystaw stronę z backendem
 all: serve
@@ -49,6 +50,11 @@ rebuild: clean build
 export: $(DB)
 	$(PYTHON) $(EXPORT) $(PID) $(OUT)
 
-## usuń wygenerowaną bazę
+## statyczna wersja przeglądarki: site/ (index.html + api/*.json) — hosting bez Pythona
+site: $(DB)
+	$(PYTHON) tools/export_site.py
+
+## usuń wygenerowaną bazę i stronę statyczną
 clean:
 	rm -f $(DB)
+	rm -rf site

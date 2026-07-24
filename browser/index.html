@@ -161,10 +161,46 @@ function md(t) {
     .split(/\n\n+/).map(p => `<p>${p.replace(/\n/g, ' ')}</p>`).join('');
 }
 
+// Tryb statyczny (GitHub Pages): tools/export_site.py kopiuje ten plik z atrybutem
+// data-static na <html> i zastępuje API plikami JSON w katalogu api/.
+const STATYCZNA = document.documentElement.hasAttribute('data-static');
+
+function statycznyAdres(url) {
+  const [sciezka, zapytanie] = url.split('?');
+  if (sciezka === '/api/pericopes') return 'api/pericopes.json';
+  if (sciezka === '/api/pericope')
+    return 'api/pericope-' + new URLSearchParams(zapytanie).get('id') + '.json';
+  if (sciezka === '/api/lexicon') return 'api/lexicon.json';
+  if (sciezka === '/api/themes') return 'api/themes.json';
+  return url;
+}
+
 async function pobierz(url) {
-  const r = await fetch(url);
+  const r = await fetch(STATYCZNA ? statycznyAdres(url) : url);
   if (!r.ok) throw new Error('błąd serwera');
   return r.json();
+}
+
+// Wyszukiwanie w trybie statycznym: bez FTS5 — prosty indeks ładowany raz,
+// dopasowanie po podłańcuchu (grekę i „ł" wpisuj w pełnym zapisie, jak w FTS).
+let INDEKS = null;
+async function szukajStatycznie(q) {
+  if (!INDEKS) INDEKS = await pobierz('api/szukaj.json');
+  const igla = q.toLowerCase();
+  const wyniki = [];
+  for (const r of INDEKS) {
+    const poz = r.tekst.toLowerCase().indexOf(igla);
+    if (poz === -1) continue;
+    const od = Math.max(0, poz - 60);
+    const kres = Math.min(r.tekst.length, poz + igla.length + 60);
+    const snip = (od ? '…' : '') + esc(r.tekst.slice(od, poz)) +
+      '<mark>' + esc(r.tekst.slice(poz, poz + igla.length)) + '</mark>' +
+      esc(r.tekst.slice(poz + igla.length, kres)) + (kres < r.tekst.length ? '…' : '');
+    wyniki.push({pericope_id: r.pericope_id, pericope: r.pericope,
+                 where: r.where, snippet: snip, entity: r.entity});
+    if (wyniki.length >= 60) break;
+  }
+  return wyniki;
 }
 
 // ---------- lista perykop ----------
@@ -313,7 +349,8 @@ $('#szukaj').oninput = e => {
   const v = e.target.value.trim();
   if (v.length < 2) return;
   timer = setTimeout(async () => {
-    const w = await pobierz('/api/search?q=' + encodeURIComponent(v));
+    const w = STATYCZNA ? await szukajStatycznie(v)
+                        : await pobierz('/api/search?q=' + encodeURIComponent(v));
     $('#tresc').innerHTML = `<h2 class="tytul">Wyniki: ${esc(v)}</h2>
       <p class="motto">${w.length} trafień</p>
       ${w.map((r, i) => `<div class="wynik" data-id="${r.pericope_id || ''}">

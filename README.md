@@ -169,3 +169,19 @@ uszkodzić danych. Zatrzymanie: Ctrl+C. Port ustawia zmienna `PORT`
 **Punkty API** (przydatne przy własnych narzędziach):
 `/api/pericopes`, `/api/pericope?id=N`, `/api/search?q=…`, `/api/lexicon`, `/api/themes`
 — wszystkie zwracają JSON.
+
+## GitHub Pages (wersja statyczna)
+
+GitHub Pages nie uruchomi Pythona, więc przeglądarkę publikuje się w wersji
+statycznej: `make site` woła `tools/export_site.py`, który importuje
+`browser/app.py` i zamienia każdy endpoint API w plik JSON w `site/api/`
+(perykopy, leksykon, motywy oraz `szukaj.json` — indeks dla wyszukiwarki
+działającej wtedy po stronie przeglądarki, bez FTS5). Kopiowany
+`index.html` dostaje atrybut `data-static` i sam przełącza się na pliki.
+
+Publikacją zajmuje się workflow `.github/workflows/pages.yml`: przy każdym
+pushu na `master` buduje bazę, generuje `site/` i wdraża na Pages.
+Jednorazowo trzeba włączyć w repozytorium:
+**Settings → Pages → Build and deployment → Source: „GitHub Actions"**.
+
+Podgląd lokalny wersji statycznej: `make site && python3 -m http.server -d site 8001`.
