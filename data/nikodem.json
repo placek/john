@@ -1,0 +1,961 @@
+{
+ "books": [
+  [
+   "Lb",
+   "Księga Liczb",
+   "ST",
+   4
+  ],
+  [
+   "2 Krl",
+   "Druga Księga Królewska",
+   "ST",
+   12
+  ]
+ ],
+ "verses": {
+  "chapter": 3,
+  "items": [
+   [
+    1,
+    "Ἦν δὲ ἄνθρωπος ἐκ τῶν Φαρισαίων, Νικόδημος ὄνομα αὐτῷ, ἄρχων τῶν Ἰουδαίων·",
+    "Był zaś człowiek z faryzeuszów, imieniem Nikodem, dostojnik żydowski."
+   ],
+   [
+    2,
+    "οὗτος ἦλθεν πρὸς αὐτὸν νυκτὸς καὶ εἶπεν αὐτῷ· ῥαββί, οἴδαμεν ὅτι ἀπὸ θεοῦ ἐλήλυθας διδάσκαλος· οὐδεὶς γὰρ δύναται ταῦτα τὰ σημεῖα ποιεῖν ἃ σὺ ποιεῖς, ἐὰν μὴ ᾖ ὁ θεὸς μετ᾿ αὐτοῦ.",
+    "Ten przyszedł do Niego nocą i powiedział Mu: Rabbi, wiemy, że od Boga przyszedłeś jako nauczyciel; nikt bowiem nie może czynić tych znaków, które Ty czynisz, jeśli Bóg nie jest z nim."
+   ],
+   [
+    3,
+    "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἄνωθεν, οὐ δύναται ἰδεῖν τὴν βασιλείαν τοῦ θεοῦ.",
+    "Odpowiedział Jezus i rzekł mu: Amen, amen, mówię ci: jeśli się ktoś nie narodzi z góry [na nowo], nie może ujrzeć królestwa Bożego."
+   ],
+   [
+    4,
+    "Λέγει πρὸς αὐτὸν [ὁ] Νικόδημος· πῶς δύναται ἄνθρωπος γεννηθῆναι γέρων ὤν; μὴ δύναται εἰς τὴν κοιλίαν τῆς μητρὸς αὐτοῦ δεύτερον εἰσελθεῖν καὶ γεννηθῆναι;",
+    "Mówi do Niego Nikodem: Jakże może człowiek się narodzić, będąc starcem? Czy może po raz drugi wejść do łona swej matki i się narodzić?"
+   ],
+   [
+    5,
+    "ἀπεκρίθη Ἰησοῦς· ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἐξ ὕδατος καὶ πνεύματος, οὐ δύναται εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ.",
+    "Odpowiedział Jezus: Amen, amen, mówię ci: jeśli się ktoś nie narodzi z wody i Ducha, nie może wejść do królestwa Bożego."
+   ],
+   [
+    6,
+    "τὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστιν, καὶ τὸ γεγεννημένον ἐκ τοῦ πνεύματος πνεῦμά ἐστιν.",
+    "To, co zrodzone z ciała, ciałem jest, a to, co zrodzone z Ducha, duchem jest."
+   ],
+   [
+    7,
+    "μὴ θαυμάσῃς ὅτι εἶπόν σοι· δεῖ ὑμᾶς γεννηθῆναι ἄνωθεν.",
+    "Nie dziw się, że ci powiedziałem: trzeba wam narodzić się z góry [na nowo]."
+   ],
+   [
+    8,
+    "τὸ πνεῦμα ὅπου θέλει πνεῖ καὶ τὴν φωνὴν αὐτοῦ ἀκούεις, ἀλλ᾿ οὐκ οἶδας πόθεν ἔρχεται καὶ ποῦ ὑπάγει· οὕτως ἐστὶν πᾶς ὁ γεγεννημένος ἐκ τοῦ πνεύματος.",
+    "Wiatr [Duch] wieje, kędy chce, i głos jego słyszysz, ale nie wiesz, skąd przychodzi i dokąd zmierza — tak jest z każdym, kto się narodził z Ducha."
+   ],
+   [
+    9,
+    "ἀπεκρίθη Νικόδημος καὶ εἶπεν αὐτῷ· πῶς δύναται ταῦτα γενέσθαι;",
+    "Odpowiedział Nikodem i rzekł Mu: Jakże może się to stać?"
+   ],
+   [
+    10,
+    "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· σὺ εἶ ὁ διδάσκαλος τοῦ Ἰσραὴλ καὶ ταῦτα οὐ γινώσκεις;",
+    "Odpowiedział Jezus i rzekł mu: Ty jesteś nauczycielem Izraela, a tego nie poznajesz?"
+   ],
+   [
+    11,
+    "ἀμὴν ἀμὴν λέγω σοι ὅτι ὃ οἴδαμεν λαλοῦμεν καὶ ὃ ἑωράκαμεν μαρτυροῦμεν, καὶ τὴν μαρτυρίαν ἡμῶν οὐ λαμβάνετε.",
+    "Amen, amen, mówię ci: co wiemy, mówimy, i co widzieliśmy, świadczymy — a świadectwa naszego nie przyjmujecie."
+   ],
+   [
+    12,
+    "εἰ τὰ ἐπίγεια εἶπον ὑμῖν καὶ οὐ πιστεύετε, πῶς ἐὰν εἴπω ὑμῖν τὰ ἐπουράνια πιστεύσετε;",
+    "Jeśli powiedziałem wam o ziemskich [sprawach], a nie wierzycie, jakże uwierzycie, jeśli wam powiem o niebieskich?"
+   ],
+   [
+    13,
+    "καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ἀνθρώπου.",
+    "I nikt nie wstąpił do nieba, tylko Ten, który z nieba zstąpił — Syn Człowieczy."
+   ],
+   [
+    14,
+    "Καὶ καθὼς Μωϋσῆς ὕψωσεν τὸν ὄφιν ἐν τῇ ἐρήμῳ, οὕτως ὑψωθῆναι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου,",
+    "I jak Mojżesz wywyższył węża na pustyni, tak trzeba, aby wywyższony został Syn Człowieczy,"
+   ],
+   [
+    15,
+    "ἵνα πᾶς ὁ πιστεύων ἐν αὐτῷ ἔχῃ ζωὴν αἰώνιον.",
+    "aby każdy, kto wierzy, miał w Nim życie wieczne."
+   ],
+   [
+    16,
+    "οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον, ὥστε τὸν υἱὸν τὸν μονογενῆ ἔδωκεν, ἵνα πᾶς ὁ πιστεύων εἰς αὐτὸν μὴ ἀπόληται ἀλλ᾿ ἔχῃ ζωὴν αἰώνιον.",
+    "Tak bowiem Bóg umiłował świat, że Syna Jednorodzonego dał, aby każdy, kto w Niego wierzy, nie zginął, ale miał życie wieczne."
+   ],
+   [
+    17,
+    "οὐ γὰρ ἀπέστειλεν ὁ θεὸς τὸν υἱὸν εἰς τὸν κόσμον ἵνα κρίνῃ τὸν κόσμον, ἀλλ᾿ ἵνα σωθῇ ὁ κόσμος δι᾿ αὐτοῦ.",
+    "Nie posłał bowiem Bóg Syna na świat, aby świat osądził, lecz aby świat został przez Niego zbawiony."
+   ],
+   [
+    18,
+    "ὁ πιστεύων εἰς αὐτὸν οὐ κρίνεται· ὁ δὲ μὴ πιστεύων ἤδη κέκριται, ὅτι μὴ πεπίστευκεν εἰς τὸ ὄνομα τοῦ μονογενοῦς υἱοῦ τοῦ θεοῦ.",
+    "Kto wierzy w Niego, nie podlega sądowi; a kto nie wierzy, już został osądzony, bo nie uwierzył w imię Jednorodzonego Syna Bożego."
+   ],
+   [
+    19,
+    "αὕτη δέ ἐστιν ἡ κρίσις ὅτι τὸ φῶς ἐλήλυθεν εἰς τὸν κόσμον καὶ ἠγάπησαν οἱ ἄνθρωποι μᾶλλον τὸ σκότος ἢ τὸ φῶς· ἦν γὰρ αὐτῶν πονηρὰ τὰ ἔργα.",
+    "A sąd polega na tym, że światłość przyszła na świat, lecz ludzie bardziej umiłowali ciemność niż światłość — bo złe były ich uczynki."
+   ],
+   [
+    20,
+    "πᾶς γὰρ ὁ φαῦλα πράσσων μισεῖ τὸ φῶς καὶ οὐκ ἔρχεται πρὸς τὸ φῶς, ἵνα μὴ ἐλεγχθῇ τὰ ἔργα αὐτοῦ·",
+    "Każdy bowiem, kto źle czyni, nienawidzi światłości i nie przychodzi do światłości, aby jego uczynki nie zostały zganione."
+   ],
+   [
+    21,
+    "ὁ δὲ ποιῶν τὴν ἀλήθειαν ἔρχεται πρὸς τὸ φῶς, ἵνα φανερωθῇ αὐτοῦ τὰ ἔργα ὅτι ἐν θεῷ ἐστιν εἰργασμένα.",
+    "Kto zaś czyni prawdę, przychodzi do światłości, aby się okazały jego uczynki — że w Bogu są dokonane."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "ἄνωθεν",
+   "anothen",
+   "przysłówek",
+   "z góry / na nowo — celowa dwuznaczność Janowa"
+  ],
+  [
+   "γεννάω",
+   "gennao",
+   "czasownik",
+   "rodzić; w stronie biernej: narodzić się"
+  ],
+  [
+   "βασιλεία",
+   "basileia",
+   "rzeczownik",
+   "królestwo — u Jana tylko w 3,3.5 i 18,36"
+  ],
+  [
+   "ὑψόω",
+   "hypsoo",
+   "czasownik",
+   "wywyższać — na krzyżu i w chwale (podwójny sens)"
+  ],
+  [
+   "ἀγαπάω",
+   "agapao",
+   "czasownik",
+   "miłować — miłością daru i wyboru"
+  ],
+  [
+   "κρίσις",
+   "krisis",
+   "rzeczownik",
+   "sąd, rozdzielenie, przesilenie"
+  ],
+  [
+   "πνεῦμα",
+   "pneuma",
+   "rzeczownik",
+   "duch / wiatr / tchnienie (hebr. ruach)"
+  ]
+ ],
+ "semitic": [
+  [
+   "רוּחַ",
+   "ruach",
+   "hbr",
+   "wiatr, tchnienie, duch — tło gry słów πνεῦμα w 3,8"
+  ],
+  [
+   "נְחֻשְׁתָּן",
+   "Nechusztan",
+   "hbr",
+   "wąż miedziany z Lb 21, zniszczony przez Ezechiasza (2 Krl 18,4)"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "πνεῦμα",
+   "ruach",
+   "greckie πνεῦμα dziedziczy pełną rozpiętość ruach: wiatr–tchnienie–Duch; na tej rozpiętości stoi w. 8"
+  ]
+ ],
+ "occurrences": [
+  [
+   "σημεῖον",
+   2,
+   "σημεῖα"
+  ],
+  [
+   "ἄνωθεν",
+   3,
+   "ἄνωθεν"
+  ],
+  [
+   "γεννάω",
+   3,
+   "γεννηθῇ"
+  ],
+  [
+   "βασιλεία",
+   3,
+   "βασιλείαν"
+  ],
+  [
+   "γεννάω",
+   4,
+   "γεννηθῆναι / γεννηθῆναι"
+  ],
+  [
+   "γεννάω",
+   5,
+   "γεννηθῇ"
+  ],
+  [
+   "βασιλεία",
+   5,
+   "βασιλείαν"
+  ],
+  [
+   "πνεῦμα",
+   5,
+   "πνεύματος"
+  ],
+  [
+   "σάρξ",
+   6,
+   "σαρκός / σάρξ"
+  ],
+  [
+   "πνεῦμα",
+   6,
+   "πνεύματος / πνεῦμά"
+  ],
+  [
+   "ἄνωθεν",
+   7,
+   "ἄνωθεν"
+  ],
+  [
+   "πνεῦμα",
+   8,
+   "πνεῦμα"
+  ],
+  [
+   "φωνή",
+   8,
+   "φωνήν"
+  ],
+  [
+   "ὑψόω",
+   14,
+   "ὕψωσεν / ὑψωθῆναι"
+  ],
+  [
+   "ζωή",
+   15,
+   "ζωήν"
+  ],
+  [
+   "ἀγαπάω",
+   16,
+   "ἠγάπησεν"
+  ],
+  [
+   "μονογενής",
+   16,
+   "μονογενῆ"
+  ],
+  [
+   "ζωή",
+   16,
+   "ζωήν"
+  ],
+  [
+   "μονογενής",
+   18,
+   "μονογενοῦς"
+  ],
+  [
+   "κρίσις",
+   19,
+   "κρίσις"
+  ],
+  [
+   "ἀγαπάω",
+   19,
+   "ἠγάπησαν"
+  ],
+  [
+   "φῶς",
+   19,
+   "φῶς / σκότος"
+  ],
+  [
+   "φῶς",
+   20,
+   "φῶς"
+  ],
+  [
+   "φῶς",
+   21,
+   "φῶς"
+  ],
+  [
+   "ἀλήθεια",
+   21,
+   "ἀλήθειαν"
+  ]
+ ],
+ "works": [],
+ "themes": [
+  [
+   "wywyższenie (ὑψωθῆναι) — krzyż jako chwała",
+   "Trzy Janowe zapowiedzi wywyższenia Syna Człowieczego (3,14; 8,28; 12,32–34): krzyż i uwielbienie w jednym czasowniku, za Iz 52,13 (LXX: ὑψωθήσεται καὶ δοξασθήσεται)."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 3,
+    "vs": 1,
+    "ce": 3,
+    "ve": 21,
+    "title": "Rozmowa z Nikodemem",
+    "motto": "Sic enim Deus dilexit mundum (Tak bowiem Bóg umiłował świat)",
+    "status": "ukonczona",
+    "position": 9
+   },
+   "intro": "Zapowiedziane w 2,25 wnętrze człowieka zostaje otwarte: przychodzi nocą dostojnik Izraela, wierzący ze znaków — i słyszy, że trzeba mu się narodzić na nowo, z góry. Rozmowa, która zaczyna się od uprzejmości uczonych, wspina się przez wodę i Ducha, wiatr i węża miedzianego aż do zdania, które nazwano Ewangelią w Ewangelii: tak Bóg umiłował świat.",
+   "struktura": "Scena jest dialogiem wygasającym w monolog — i ta forma jest jej treścią. Nikodem zabiera głos trzykrotnie, za każdym razem krócej: uroczysty wstęp uczonego (w. 2), pytanie z niedowierzaniem (w. 4), wreszcie trzy słowa: „jakże może się to stać?\" (w. 9) — potem milknie i znika ze sceny bez pożegnania; odpowiedzi Jezusa odwrotnie: rosną, aż od w. 13–16 mowa płynie już ponad głową rozmówcy, a granica między słowem Jezusa a głosem ewangelisty celowo się zaciera (rękopisy nie znają cudzysłowów — i spór, gdzie kończy się wypowiedź Jezusa, a zaczyna komentarz narratora, jest nierozstrzygalny z woli autora: Kościół mówi dalej słowami swego Pana). Rytm wyznaczają trzy ἀμὴν ἀμήν (w. 3.5.11) — trzy stopnie jednej lekcji: narodzić się z góry, narodzić się z wody i Ducha, przyjąć świadectwo Tego, który zstąpił. Zauważmy też przejście gramatyczne z liczby pojedynczej w mnogą: „nie dziw się… trzeba WAM\" (w. 7), „mówię ci: co wiemy… a WY nie przyjmujecie\" (w. 11) — przez Nikodema Jezus mówi do całej warstwy, którą tamten reprezentuje, a przez nią do czytelnika. Kompozycję spina klamra światła i nocy: człowiek przychodzi νυκτός (nocą, w. 2), a perykopa kończy się traktatem o wychodzeniu z ciemności do światła (w. 19–21) — droga Nikodema przez księgę (7,50; 19,39) będzie powolnym spełnianiem tej klamry.",
+   "blocks": [
+    {
+     "cs": 3,
+     "vs": 1,
+     "ce": 3,
+     "ve": 2,
+     "label": "w. 1–2",
+     "greek": "Ἦν δὲ ἄνθρωπος ἐκ τῶν Φαρισαίων, Νικόδημος ὄνομα αὐτῷ, ἄρχων τῶν Ἰουδαίων· οὗτος ἦλθεν πρὸς αὐτὸν νυκτὸς καὶ εἶπεν αὐτῷ· ῥαββί, οἴδαμεν ὅτι ἀπὸ θεοῦ ἐλήλυθας διδάσκαλος· οὐδεὶς γὰρ δύναται ταῦτα τὰ σημεῖα ποιεῖν ἃ σὺ ποιεῖς, ἐὰν μὴ ᾖ ὁ θεὸς μετ᾿ αὐτοῦ.",
+     "transl": "Był zaś człowiek z faryzeuszów, imieniem Nikodem, dostojnik żydowski. Ten przyszedł do Niego nocą i powiedział Mu: Rabbi, wiemy, że od Boga przyszedłeś jako nauczyciel; nikt bowiem nie może czynić tych znaków, które Ty czynisz, jeśli Bóg nie jest z nim.",
+     "units": [
+      [
+       "ἄνθρωπος ἐκ τῶν Φαρισαίων ... ἄρχων",
+       "człowiek z faryzeuszów ... dostojnik",
+       "Pierwsze słowo prezentacji — ἄνθρωπος (człowiek) — podejmuje wprost ostatnie słowo poprzedniej perykopy: Jezus „wiedział, co było w człowieku\" (2,25); oto ów człowiek wchodzi na scenę jako okaz gatunku. A okaz jest najlepszy z możliwych: faryzeusz (elita pobożności), ἄρχων (dostojnik — członek Sanhedrynu), wkrótce nazwany „nauczycielem Izraela\" (w. 10); imię Νικόδημος — greckie („zwycięzca ludu\"), noszone w zamożnych rodach Jerozolimy (tradycja rabiniczna zna Nakdimona ben Goriona, bogacza z czasów wojny). Ewangelista konstruuje więc przypadek graniczny: jeśli komukolwiek nowe narodzenie mogłoby być niepotrzebne, to jemu — człowiekowi, któremu religijnie nie brakuje niczego. Właśnie jemu zostanie powiedziane „trzeba wam narodzić się na nowo\": Ewangelia zaczyna wykład łaski od szczytu ludzkich możliwości, żeby nikt niżej nie miał złudzeń, iż jego dotyczy mniej. Nikodem powróci w księdze dwukrotnie (7,50–52: nieśmiała obrona prawna; 19,39: sto funtów wonności przy pogrzebie) — jego droga z nocy ku światłu jest jedną z najdyskretniej poprowadzonych biografii Nowego Testamentu."
+      ],
+      [
+       "νυκτός",
+       "nocą",
+       "Okolicznik czasu, który jest u Jana zawsze czymś więcej. Wykład praktyczny — ostrożność dostojnika, spokój nocnej rozmowy uczonych (rabini cenili nocne studium Tory) — jest prawdziwy i niewystarczający: w symbolice tej księgi noc to sfera niewiary i godziny ciemności (9,4; 11,10); Judasz, wziąwszy kęs, wyjdzie — „a była noc\" (13,30). Nikodem przychodzi z nocy do Tego, który jest światłością — i ewangelista zapamięta mu ten okolicznik na zawsze: jeszcze w 19,39 przedstawi go jako „tego, który przyszedł do Niego wpierw nocą\". Ale zapamięta z czułością, nie z przyganą: przyjść z nocy — to jedyny kierunek, z którego w ogóle się przychodzi; w. 21 opisze ten ruch programowo („kto czyni prawdę, przychodzi do światłości\"), a Nikodem będzie jego żywą ilustracją rozpisaną na całą księgę. Οἴδαμεν (wiemy — liczba mnoga) zdradza zaś, że nocny gość nie przyszedł sam od siebie: mówi jako delegat środowiska, jeden z „wielu, którzy uwierzyli, widząc znaki\" (2,23) — i cała rozmowa będzie egzaminem tej wiary ze znaków."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 3,
+     "ce": 3,
+     "ve": 8,
+     "label": "w. 3–8",
+     "greek": "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἄνωθεν, οὐ δύναται ἰδεῖν τὴν βασιλείαν τοῦ θεοῦ. Λέγει πρὸς αὐτὸν [ὁ] Νικόδημος· πῶς δύναται ἄνθρωπος γεννηθῆναι γέρων ὤν; μὴ δύναται εἰς τὴν κοιλίαν τῆς μητρὸς αὐτοῦ δεύτερον εἰσελθεῖν καὶ γεννηθῆναι; ἀπεκρίθη Ἰησοῦς· ἀμὴν ἀμὴν λέγω σοι, ἐὰν μή τις γεννηθῇ ἐξ ὕδατος καὶ πνεύματος, οὐ δύναται εἰσελθεῖν εἰς τὴν βασιλείαν τοῦ θεοῦ. τὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστιν, καὶ τὸ γεγεννημένον ἐκ τοῦ πνεύματος πνεῦμά ἐστιν. μὴ θαυμάσῃς ὅτι εἶπόν σοι· δεῖ ὑμᾶς γεννηθῆναι ἄνωθεν. τὸ πνεῦμα ὅπου θέλει πνεῖ καὶ τὴν φωνὴν αὐτοῦ ἀκούεις, ἀλλ᾿ οὐκ οἶδας πόθεν ἔρχεται καὶ ποῦ ὑπάγει· οὕτως ἐστὶν πᾶς ὁ γεγεννημένος ἐκ τοῦ πνεύματος.",
+     "transl": "Odpowiedział Jezus i rzekł mu: Amen, amen, mówię ci: jeśli się ktoś nie narodzi z góry [na nowo], nie może ujrzeć królestwa Bożego. Mówi do Niego Nikodem: Jakże może człowiek się narodzić, będąc starcem? Czy może po raz drugi wejść do łona swej matki i się narodzić? Odpowiedział Jezus: Amen, amen, mówię ci: jeśli się ktoś nie narodzi z wody i Ducha, nie może wejść do królestwa Bożego. To, co zrodzone z ciała, ciałem jest, a to, co zrodzone z Ducha, duchem jest. Nie dziw się, że ci powiedziałem: trzeba wam narodzić się z góry [na nowo]. Wiatr [Duch] wieje, kędy chce, i głos jego słyszysz, ale nie wiesz, skąd przychodzi i dokąd zmierza — tak jest z każdym, kto się narodził z Ducha.",
+     "units": [
+      [
+       "γεννηθῇ ἄνωθεν",
+       "narodzi się z góry / na nowo",
+       "Ἄνωθεν znaczy w grece i „z góry\" (miejscowo — tak wszędzie indziej u Jana: 3,31; 19,11.23), i „od nowa, po raz drugi\" (czasowo). Dwuznaczność jest zamierzona i nieprzetłumaczalna — a cała scena stoi na tym, że każdy z rozmówców słyszy inną połowę słowa: Jezus mówi „z góry\" (narodzenie z Boga — czytelnik zna je z Prologu: 1,13), Nikodem słyszy „na nowo\" i pyta o powrót do łona matki. To trzeci już przypadek Janowej techniki podwójnego dna (po „zburzcie przybytek\" i przed „wodą żywą\" z rozdziału 4): słowo Jezusa ma piętro, na które nie wchodzi się bez przewodnika. Ale nieporozumienie Nikodema nie jest głupotą — jest trafną intuicją niemożliwości: on dobrze rozumie, że żąda się od niego czegoś, czego człowiek sam sobie dać nie może; myli się tylko co do kierunku — cofnięcia biografii nie trzeba, trzeba otwarcia jej z góry. Οὐ δύναται ἰδεῖν (nie może ujrzeć): królestwa nie osiąga się — królestwo się widzi, nowymi oczami; narodzenie jest tu warunkiem percepcji, nie nagrodą za osiągnięcia."
+      ],
+      [
+       "ἐξ ὕδατος καὶ πνεύματος",
+       "z wody i Ducha",
+       "Drugie amen-amen precyzuje pierwsze: „z góry\" znaczy „z wody i Ducha\". Jeden przyimek ἐκ obejmuje oba rzeczowniki — to jedno narodzenie z wody-i-Ducha, nie dwa; hendiada, w której woda jest znakiem, a Duch mocą. Tło prorockie podsuwa Ezechiel: „pokropię was czystą wodą… i dam wam serce nowe i ducha nowego\" (Ez 36,25–27) — dokładnie ta sekwencja; „nauczyciel Izraela\" powinien był ją rozpoznać (stąd wyrzut w. 10). Kościół od początku czytał te słowa chrzcielnie — i słusznie: dla wspólnoty Janowej, która słyszała je po Passze, „woda i Duch\" nie mogły znaczyć nic innego niż kąpiel odrodzenia; ale werset zachowuje też ostrze pierwotnej rozmowy: chrzest Janowy z wody już trwał nad Jordanem — nowość, na którą czeka Izrael, to woda przeniknięta Duchem (1,33: „Ten chrzci Duchem Świętym\"). Antyteza w. 6 (ciało rodzi ciało, Duch rodzi ducha) nie jest pogardą dla ciała — σάρξ to u Jana kruchość, nie grzeszność (Słowo stało się σάρξ!); jest zasadą niewspółmierności: natura reprodukuje naturę i choćby weszła do łona po raz setny, urodzi się setny raz taka sama; nowości nie rodzi powtórzenie, tylko dar z innego porządku."
+      ],
+      [
+       "τὸ πνεῦμα ὅπου θέλει πνεῖ",
+       "wiatr wieje, kędy chce",
+       "Najpiękniejsza gra słów czwartej Ewangelii: πνεῦμα znaczy i „wiatr\", i „Duch\" (jak hebrajskie ruach), πνεῖ — „wieje\", „tchnie\", a φωνή — „głos\" i „szum\". Zdanie daje się czytać podwójnie od początku do końca: wiatr wieje, kędy chce, słyszysz jego szum, nie znasz jego dróg — Duch tchnie, kędy chce, słyszysz Jego głos, nie ogarniasz Jego przyjścia ani celu. Jezus wskazuje Nikodemowi zjawisko z porządku „ziemskiego\" (w. 12) jako przypowieść o porządku niebieskim: są rzeczywistości poznawalne wyłącznie po skutkach — wiatru nikt nie widział, ale nikt rozsądny nie przeczy, że wieje. Οὕτως ἐστὶν πᾶς ὁ γεγεννημένος (tak jest z każdym narodzonym): zdanie mówi ostatecznie nie o Duchu, lecz o człowieku z Ducha narodzonym — to on staje się dla świata jak wiatr: słyszalny, realny, nie do wywiedzenia z przyczyn tego świata; jego biografia ma odtąd źródło, którego żadna socjologia nie zlokalizuje. Wolność Ducha (ὅπου θέλει — kędy chce) jest przy tym cichą odpowiedzią na nocną ostrożność Nikodema: łaska nie podlega procedurom środowiska ani porom przyjęć — wieje także nocą, także w Sanhedrynie."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 9,
+     "ce": 3,
+     "ve": 13,
+     "label": "w. 9–13",
+     "greek": "ἀπεκρίθη Νικόδημος καὶ εἶπεν αὐτῷ· πῶς δύναται ταῦτα γενέσθαι; ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτῷ· σὺ εἶ ὁ διδάσκαλος τοῦ Ἰσραὴλ καὶ ταῦτα οὐ γινώσκεις; ἀμὴν ἀμὴν λέγω σοι ὅτι ὃ οἴδαμεν λαλοῦμεν καὶ ὃ ἑωράκαμεν μαρτυροῦμεν, καὶ τὴν μαρτυρίαν ἡμῶν οὐ λαμβάνετε. εἰ τὰ ἐπίγεια εἶπον ὑμῖν καὶ οὐ πιστεύετε, πῶς ἐὰν εἴπω ὑμῖν τὰ ἐπουράνια πιστεύσετε; καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ἀνθρώπου.",
+     "transl": "Odpowiedział Nikodem i rzekł Mu: Jakże może się to stać? Odpowiedział Jezus i rzekł mu: Ty jesteś nauczycielem Izraela, a tego nie poznajesz? Amen, amen, mówię ci: co wiemy, mówimy, i co widzieliśmy, świadczymy — a świadectwa naszego nie przyjmujecie. Jeśli powiedziałem wam o ziemskich [sprawach], a nie wierzycie, jakże uwierzycie, jeśli wam powiem o niebieskich? I nikt nie wstąpił do nieba, tylko Ten, który z nieba zstąpił — Syn Człowieczy.",
+     "units": [
+      [
+       "σὺ εἶ ὁ διδάσκαλος τοῦ Ἰσραὴλ",
+       "ty jesteś nauczycielem Izraela",
+       "Rodzajnik czyni z tytułu delikatną ironię: ὁ διδάσκαλος — ten-oto, znany, może „ów\" nauczyciel Izraela; człowiek z katedry — a ταῦτα (tych rzeczy) nie poznaje. Wyrzut nie jest drwiną z niewiedzy w ogóle, lecz z niewiedzy zawodowej: wszystko, co padło — woda, duch, serce nowe, tchnienie ożywiające — leży w księgach, które Nikodem wykłada (Ez 36–37: kości ożywione ruach; Jl 3: wylanie Ducha; Ps 51: serce czyste stwórz, ducha nowego). Jezus nie objawił dotąd niczego, czego „nauczyciel Izraela\" nie mógł wyczytać — dlatego nazywa to jeszcze τὰ ἐπίγεια (sprawami ziemskimi, w. 12): obrazy wzięte z ziemi (narodziny, wiatr) i obietnice złożone ziemi. Scena jest cichym oskarżeniem teologii, która przestała czytać własne źródła z wiarą, że mówią o rzeczach możliwych: wiedza religijna bez oczekiwania spełnienia potrafi stać się szczelną zbroją przeciw spełnieniu, gdy nadchodzi. Liczba mnoga („nie przyjmujecie\") rozszerza wyrzut z osoby na formację — a czytelnik每 epoki dopisze do niej własną."
+      ],
+      [
+       "ὁ ἐκ τοῦ οὐρανοῦ καταβάς",
+       "Ten, który z nieba zstąpił",
+       "Odpowiedź na pytanie o kompetencję: skąd wiadomo o τὰ ἐπουράνια (sprawach niebieskich)? Judaizm epoki znał całą bibliotekę wniebowstąpień — Henoch, Mojżesz, Izajasz, Baruch mieli wstępować do nieba po tajemnice; w. 13 zamyka tę bibliotekę jednym przeczeniem: οὐδεὶς ἀναβέβηκεν (nikt nie wstąpił — perfectum: i nie pozostaje tam nikt), z jednym wyjątkiem odwróconym: jest Ktoś, kto najpierw zstąpił. Kierunek jest osią Janowej chrystologii: poznanie nieba nie jest zdobyczą wspinaczki (mistycznej, uczonej, ascetycznej), lecz darem zstąpienia — objawienie schodzi, nie jest wnoszone. Tytuł „Syn Człowieczy\" wraca dokładnie tam, gdzie w 1,51 obiecano „aniołów wstępujących i zstępujących\": drabina Jakubowa stoi już nie we śnie, lecz w rozmowie. Perfectum ἀναβέβηκεν kryje też perspektywę popaschalną (ewangelista pisze po Wniebowstąpieniu — i pozwala, by czas dokonany prześwitywał przez opowieść): zstąpienie i wstąpienie to jedna parabola drogi Syna (por. 16,28), w której między dwoma ruchami stoi to, co zaraz zostanie nazwane: wywyższenie."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 14,
+     "ce": 3,
+     "ve": 15,
+     "label": "w. 14–15",
+     "greek": "Καὶ καθὼς Μωϋσῆς ὕψωσεν τὸν ὄφιν ἐν τῇ ἐρήμῳ, οὕτως ὑψωθῆναι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου, ἵνα πᾶς ὁ πιστεύων ἐν αὐτῷ ἔχῃ ζωὴν αἰώνιον.",
+     "transl": "I jak Mojżesz wywyższył węża na pustyni, tak trzeba, aby wywyższony został Syn Człowieczy, aby każdy, kto wierzy, miał w Nim życie wieczne.",
+     "units": [
+      [
+       "καθὼς Μωϋσῆς ὕψωσεν τὸν ὄφιν",
+       "jak Mojżesz wywyższył węża",
+       "Typologia z Lb 21,4–9: lud kąsany przez węże jadowite otrzymuje ratunek paradoksalny — miedzianego węża na palu; „każdy ukąszony, jeśli nań spojrzy, zostanie przy życiu\". Obraz kary staje się znakiem ocalenia: ratunek ma postać rany. Tradycja Izraela obchodziła się z tym tekstem ostrożnie — Księga Mądrości nazwie węża „znakiem zbawienia\" (σύμβολον σωτηρίας, Mdr 16,6) i zaraz doda, że ocalał nie przez to, na co patrzył, lecz przez Ciebie, Zbawcę wszystkich; Miszna (RH 3,8) powtórzy: czy to wąż uśmierca albo ożywia? — gdy Izrael patrzył w górę i poddawał serce Ojcu w niebie, był uzdrawiany; a gdy przedmiot stał się bożkiem (Nechusztan), król Ezechiasz go zniszczył (2 Krl 18,4). Jezus bierze ten teologicznie „zabezpieczony\" obraz i czyni z niego zapowiedź własnego losu: na palu zawiśnie podobieństwo tego, co zabija — „w podobieństwie grzesznego ciała\" (por. Rz 8,3; 2 Kor 5,21: uczynił Go grzechem za nas) — aby spojrzenie wiary ocalało ukąszonych. Egzegeza patrystyczna dopowie mechanizm homeopatii Bożej: śmierć zostaje uśmiercona przez to, co uczyniła (zob. katena)."
+      ],
+      [
+       "ὑψωθῆναι δεῖ",
+       "trzeba, aby został wywyższony",
+       "Ὑψόω znaczy „podnieść\" — i „wynieść do chwały\"; Jan każe temu czasownikowi nieść oba sensy naraz przez całą księgę (3,14; 8,28; 12,32–34: trzy zapowiedzi wywyższenia, Janowy odpowiednik trzech synoptycznych zapowiedzi Męki). Wzorzec dała Septuaginta w Iz 52,13: Sługa „zostanie wywyższony i wyniesiony, i uwielbiony\" (ὑψωθήσεται… καὶ δοξασθήσεται) — u Jana podniesienie na krzyż i wyniesienie w chwale to jeden ruch, nie dwa akty przedzielone interwałem: krzyż JEST tronem, godzina hańby — godziną chwały. Δεῖ (trzeba) to „musi\" Boskiego zamysłu (jak w zapowiedziach synoptycznych: Mk 8,31) — konieczność nie losu, lecz wierności miłości do końca. Ἵνα πᾶς ὁ πιστεύων (aby każdy wierzący): odpowiednikiem spojrzenia na węża jest wiara — patrzenie serca; a ἐν αὐτῷ najlepiej łączyć z ἔχῃ: „aby każdy, kto wierzy, w Nim miał życie wieczne\" — życie nie jako zapłata za wiarę, lecz jako przestrzeń: mieć życie w Nim, jak ukąszeni mieli ocalenie w znaku, na który patrzyli. To pierwsze „życie wieczne\" (ζωὴ αἰώνιος) tej Ewangelii — jej ulubione imię zbawienia."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 16,
+     "ce": 3,
+     "ve": 18,
+     "label": "w. 16–18",
+     "greek": "οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον, ὥστε τὸν υἱὸν τὸν μονογενῆ ἔδωκεν, ἵνα πᾶς ὁ πιστεύων εἰς αὐτὸν μὴ ἀπόληται ἀλλ᾿ ἔχῃ ζωὴν αἰώνιον. οὐ γὰρ ἀπέστειλεν ὁ θεὸς τὸν υἱὸν εἰς τὸν κόσμον ἵνα κρίνῃ τὸν κόσμον, ἀλλ᾿ ἵνα σωθῇ ὁ κόσμος δι᾿ αὐτοῦ. ὁ πιστεύων εἰς αὐτὸν οὐ κρίνεται· ὁ δὲ μὴ πιστεύων ἤδη κέκριται, ὅτι μὴ πεπίστευκεν εἰς τὸ ὄνομα τοῦ μονογενοῦς υἱοῦ τοῦ θεοῦ.",
+     "transl": "Tak bowiem Bóg umiłował świat, że Syna Jednorodzonego dał, aby każdy, kto w Niego wierzy, nie zginął, ale miał życie wieczne. Nie posłał bowiem Bóg Syna na świat, aby świat osądził, lecz aby świat został przez Niego zbawiony. Kto wierzy w Niego, nie podlega sądowi; a kto nie wierzy, już został osądzony, bo nie uwierzył w imię Jednorodzonego Syna Bożego.",
+     "units": [
+      [
+       "οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον",
+       "tak bowiem Bóg umiłował świat",
+       "Zdanie nazywane „Ewangelią w Ewangelii\" — Luter mówił o nim: Evangelium in nuce, Ewangelia w orzechu. Οὕτως znaczy i „tak bardzo\" (miara), i „w ten sposób\" (wskazanie wstecz, na w. 14–15): Bóg umiłował świat TAK — jak pokazuje wywyższony; miarą miłości jest krzyż, nie superlatyw. Zaskoczeniem pierwszych słuchaczy był dopełniacz bliższy: umiłował τὸν κόσμον — świat; ten sam κόσμος, który „Go nie poznał\" (1,10) i który u Jana bywa niemal terminem wrogości — jest pierwszym adresatem miłości Boga: Bóg nie miłuje świata za jego stan, lecz wbrew niemu i ku jego ocaleniu. Ἔδωκεν (dał) — czasownik ofiarny, słyszalny na tle Rdz 22 (ojciec nie odmawiający syna jednorodzonego) i wydobyty przez Pawła: „własnego Syna nie oszczędził, ale Go za nas wszystkich wydał\" (Rz 8,32); aoryst wskazuje na jedno konkretne danie — Wcielenie spełnione w krzyżu. Μονογενής (Jednorodzony) wraca z Prologu (1,14.18): to, co tam było metafizyką, tu okazuje się ceną. A podmiotem całego zdania jest Bóg-Ojciec: przeciw każdej karykaturze, w której łagodny Syn uśmierza gniewnego Ojca, w. 16 stawia porządek źródłowy — miłość Ojca jest przyczyną, nie skutkiem ofiary Syna."
+      ],
+      [
+       "οὐ ... ἵνα κρίνῃ ... ἤδη κέκριται",
+       "nie aby osądził ... już został osądzony",
+       "Dialektyka sądu w trzech zdaniach. Teza: celem posłania nie jest sąd, lecz zbawienie świata (w. 17) — Syn nie przychodzi jako prokurator. Antyteza pozorna: niewierzący „już został osądzony\" (w. 18 — perfectum κέκριται: stan dokonany i trwający). Rozwiązanie: sąd nie jest osobnym aktem Boga po fakcie, lecz samoujawnieniem człowieka wobec daru — kto odwraca się od jedynego ratunku, ten sam ogłasza swój wyrok, jak ukąszony, który nie chce spojrzeć na znak. Stąd Janowa eschatologia zrealizowana: rozstrzygnięcie nie czeka na koniec czasów — dokonuje się teraz, w spotkaniu ze Słowem (por. 5,24: przeszedł ze śmierci do życia); co nie znosi sądu ostatecznego, lecz odsłania jego naturę: dzień ostatni ogłosi to, co wybory już zapisały. Uderzająca jest asymetria czasowników: zbawienie jest celem i darem (ἵνα σωθῇ), potępienie — nigdy celem, zawsze zwrotnym skutkiem odmowy; teologia, która tę asymetrię gubi, przestaje mówić Ewangelię."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 19,
+     "ce": 3,
+     "ve": 21,
+     "label": "w. 19–21",
+     "greek": "αὕτη δέ ἐστιν ἡ κρίσις ὅτι τὸ φῶς ἐλήλυθεν εἰς τὸν κόσμον καὶ ἠγάπησαν οἱ ἄνθρωποι μᾶλλον τὸ σκότος ἢ τὸ φῶς· ἦν γὰρ αὐτῶν πονηρὰ τὰ ἔργα. πᾶς γὰρ ὁ φαῦλα πράσσων μισεῖ τὸ φῶς καὶ οὐκ ἔρχεται πρὸς τὸ φῶς, ἵνα μὴ ἐλεγχθῇ τὰ ἔργα αὐτοῦ· ὁ δὲ ποιῶν τὴν ἀλήθειαν ἔρχεται πρὸς τὸ φῶς, ἵνα φανερωθῇ αὐτοῦ τὰ ἔργα ὅτι ἐν θεῷ ἐστιν εἰργασμένα.",
+     "transl": "A sąd polega na tym, że światłość przyszła na świat, lecz ludzie bardziej umiłowali ciemność niż światłość — bo złe były ich uczynki. Każdy bowiem, kto źle czyni, nienawidzi światłości i nie przychodzi do światłości, aby jego uczynki nie zostały zganione. Kto zaś czyni prawdę, przychodzi do światłości, aby się okazały jego uczynki — że w Bogu są dokonane.",
+     "units": [
+      [
+       "αὕτη δέ ἐστιν ἡ κρίσις",
+       "a sąd polega na tym",
+       "Κρίσις znaczy źródłowo „rozdzielenie, przesilenie\" (stąd „kryzys\") — i Jan przywraca słowu tę fizykę: sąd to nie trybunał zwołany przeciw światu, lecz rozdzielenie, które samo dokonuje się w obecności światła — jak w Rdz 1,4, gdzie pierwszym aktem po „niech się stanie światłość\" jest oddzielenie światła od ciemności. Prolog wraca całym słownikiem: światłość przyszła na świat (1,9), ciemność, miłość i nienawiść, uczynki. Ale diagnoza w. 19 dodaje do Prologu psychologię: ludzie nie tyle nie poznali światłości — ludzie ją odrzucili z miłości do czegoś innego (ἠγάπησαν μᾶλλον τὸ σκότος: umiłowali bardziej ciemność — ten sam czasownik, którym w. 16 opisał miłość Boga!); niewiara nie jest u Jana defektem intelektu, lecz konfliktem miłości: człowiek wierzy w to, co kocha. Racja odmowy jest wstydliwie praktyczna: „bo złe były ich uczynki\" — światło nie grozi niczym prócz widoczności; ucieczka przed nim jest ucieczką przed własnym odbiciem."
+      ],
+      [
+       "ὁ ποιῶν τὴν ἀλήθειαν",
+       "kto czyni prawdę",
+       "Hebraizm (asa emet — czynić prawdę/wierność: por. Ne 9,33; częsty w zwojach z Qumran) — dla ucha greckiego zgrzyt: prawdy się nie „czyni\", prawdę się zna; dla ucha biblijnego oczywistość: ἀλήθεια to emet — niezawodność, wierność, a tej się dowodzi czynem. Jan stawia więc na końcu rozmowy o wierze zdanie o praktyce: do światła nie dochodzi się przez wgląd, lecz przez czynienie prawdy — ortopraksja jest bramą ortodoksji, nie odwrotnie (por. 7,17: „kto chce pełnić Jego wolę, pozna, czy nauka jest z Boga\"). Finał w. 21 jest zaś teologicznie precyzyjny do ostatniego słowa: kto przychodzi do światła, nie przynosi własnych osiągnięć do oceny — przychodzi, „aby się okazało, że jego uczynki w Bogu są dokonane\" (ἐν θεῷ εἰργασμένα): światło nie ujawnia zasług, ujawnia Sprawcę; nawet dobro, które człowiek wnosi, okazuje się w świetle darem uprzedzającym. Tym zdaniem perykopa dyskretnie wraca do swego bohatera: Nikodem, który przyszedł nocą, usłyszał mapę własnej drogi — i księga pokaże, że nią poszedł: od nocnej rozmowy, przez głos w Sanhedrynie (7,50), po jawne stanięcie przy Ukrzyżowanym w pełnym świetle dnia Przygotowania (19,39)."
+      ]
+     ]
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Nocna rozmowa zakłada świat uczonych Jerozolimy, żydowskie obrazy odrodzenia, pamięć węża z pustyni i sytuację wspólnoty Janowej — cztery tła, bez których dialog traci głębię ostrości.",
+     "children": [
+      [
+       "Nikodem i uczeni Jerozolimy",
+       "Faryzeusze byli ruchem świeckiej gorliwości wokół Tory — ok. sześciu tysięcy ludzi (Józef Flawiusz), wpływowych nie urzędem, lecz autorytetem wykładu; ἄρχων (dostojnik) wskazuje nadto na członkostwo w Sanhedrynie — Nikodem łączy więc obie elity: uczoność i władzę. Tradycja rabiniczna zna ród Nakdimona ben Goriona — jednego z trzech najbogatszych ludzi Jerozolimy przed wojną — i choć utożsamienie pozostaje niepewne, pokazuje środowisko: wielkie rody, nocne dysputy o Torze (cenione jako czas studium bez zgiełku), ostrożna dyplomacja wobec nowych nauczycieli. Zwrot „wiemy, że od Boga przyszedłeś jako nauczyciel\" jest w tym świecie aktem odwagi i uznania zarazem — Nikodem przyznaje Jezusowi legitymację, o którą delegacja z 1,19nn dopiero śledczo pytała; ale przyznaje ją w kategoriach, które zaraz okażą się za ciasne: „nauczyciel od Boga\" to najwyższa półka jego systemu — a rozmowa wysadzi system, żądając nie korekty poglądów, lecz nowych narodzin ich właściciela."
+      ],
+      [
+       "Obrazy odrodzenia w judaizmie",
+       "Judaizm znał język nowego początku: prozelita po kąpieli rytualnej i obrzezaniu był „jak nowo narodzone dziecko\" (zasada rabiniczna, halachicznie brzemienna — zrywała nawet więzy pokrewieństwa); pokuta (teszuwa) bywała opisywana jako stworzenie człowieka na nowo; Jom Kippur i mykwa dawały doświadczenie cyklicznego oczyszczenia. Nowość żądania Jezusa polega na adresacie i źródle: nowo narodzić się musi nie poganin wchodzący do Izraela, lecz Izraelita w pełni praw — „nauczyciel Izraela\"; i nie mocą własnej decyzji (teszuwa) czy rytu, lecz „z góry\" — z Boga (1,13). To przesunięcie tłumaczy szok Nikodema: jego system znał odrodzenie jako metaforę zmiany statusu — Jezus mówi o ontologii: o nowym akcie stwórczym w człowieku, tak radykalnym jak pierwsze narodziny, i równie mało zależnym od woli rodzącego się. Prorocy trzymali tę obietnicę w depozycie (Ez 36–37: serce nowe, duch nowy, ożywcze ruach nad dolinami kości; Ps 51,12: „serce czyste stwórz we mnie… ducha nowego\"); rozmowa nocna jest chwilą, w której depozyt zostaje postawiony na stole jako wymagalny."
+      ],
+      [
+       "Wąż miedziany: dzieje obrazu",
+       "Lb 21,4–9 opowiada scenę teologicznie ryzykowną — podobiznę węża na palu w religii bez podobizn — i dlatego jej recepcja jest tak pouczająca. Sam Izrael czuwał nad obrazem dwutorowo: gdy wąż stał się przedmiotem kultu (kadzono mu jako Nechusztanowi), król Ezechiasz potłukł go bez wahania (2 Krl 18,4); a refleksja mądrościowa i rabiniczna przenosiła ciężar z przedmiotu na ruch serca — Mdr 16,6–7: kto się zwrócił ku znakowi, „ocalony był nie przez to, na co patrzył, lecz przez Ciebie, Zbawcę wszystkich\"; Miszna (Rosz ha-Szana 3,8): nie wąż ożywia — Izrael był uzdrawiany, gdy patrząc w górę, poddawał serce Ojcu w niebie. Jezus wybiera więc obraz już przefiltrowany przez najlepszą teologię Izraela: znak wywyższony, który nie działa magią przedmiotu, lecz posłuszeństwem spojrzenia. Chrześcijańska lektura dziedziczy oba zabezpieczenia: krzyż nie jest amuletem — jest miejscem, ku któremu wiara podnosi oczy (19,37: „będą patrzeć na Tego, którego przebili\"); a uzdrawia Ten, nie to."
+      ],
+      [
+       "Rozmowa nocna a wspólnota Janowa",
+       "Dialog nosi ślady podwójnego adresu: pod postacią Nikodema wspólnota Janowa rozmawia ze współczesną sobie synagogą i z ludźmi „wierzącymi w ukryciu\". Stąd liczby mnogie po obu stronach („wiemy\" — „mówimy, świadczymy… nie przyjmujecie\"): to nie tylko dwaj mężczyźni nocą, to dwie społeczności po rozejściu dróg; w. 11 brzmi jak protokół doświadczenia misyjnego końca I wieku. Ewangelia zna kategorię dostojników, którzy „uwierzyli, lecz z powodu faryzeuszów nie przyznawali się, aby ich nie wyłączono z synagogi\" (12,42) — Nikodem jest ich reprezentantem i zarazem cichą zachętą: jego droga pokazuje, że z nocy da się wyjść. Dla katechezy Janowej scena była zapewne tekstem chrzcielnym: „woda i Duch\" czytane przy kąpieli odrodzenia, pytanie „jakże może się to stać?\" — jako pytanie każdego katechumena, a wiatr wiejący, kędy chce — jako pieczęć wolności łaski, która przyprowadziła go do wspólnoty drogami nie do przewidzenia."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Odrodzenie, sakrament, krzyż i sąd — cztery ciężary nocnej rozmowy w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem (cap. III, lect. 1–3).",
+     "children": [
+      [
+       "1. Narodzenie z góry — łaska jako nowe stworzenie",
+       "Tomasz czyta „narodzenie z góry\" z całą dosłownością metafizyczną: łaska uświęcająca nie jest poprawą obyczajów ani nową informacją, lecz nową jakością wszczepioną w istotę duszy (qualitas infusa in essentia animae) — zasadą nowego życia, tak realną, jak dusza jest zasadą życia naturalnego; dlatego jedyną adekwatną metaforą jest właśnie rodzenie, nie nauczanie. Stąd bezradność Nikodema jest teologicznie ścisła: ma rację, że człowiek nie może narodzić się sam — narodzin się nie dokonuje, narodziny się otrzymuje; błąd leży tylko w kierunku szukania (wstecz, do łona, zamiast w górę, do Boga). Tomasz podkreśli też słowo „widzieć\": bez nowego narodzenia nie można ujrzeć królestwa, bo poznanie idzie za bytem (operari sequitur esse) — natura widzi po swojemu; potrzeba nowych oczu, a nowe oczy ma tylko nowy człowiek. Cała epistemologia łaski w jednym wersecie: łaska nie dodaje danych — przemienia patrzącego."
+      ],
+      [
+       "2. Z wody i Ducha — konieczność i drogi sakramentu",
+       "„Jeśli się ktoś nie narodzi z wody i Ducha, nie może wejść\" — Tomasz (S. Th. III, q. 68) czyta te słowa jako ustanowienie konieczności chrztu (necessitas medii: środka, nie tylko przykazania) i zarazem z całą tradycją strzeże ich przed mechanicznym zacieśnieniem: Bóg związał zbawienie z sakramentem, ale sam nie jest związany sakramentami (Deus non alligatur sacramentis). Stąd nauka o chrzcie pragnienia (in voto — gdy śmierć uprzedza kąpiel, pragnienie i miłość dopełniają obrzędu) i chrzcie krwi męczenników: woda jest zwyczajną drogą, Duch pozostaje Panem dróg — dokładnie jak w. 8: wieje, kędy chce. Ta równowaga jest wykładem samej składni wersetu: jedno narodzenie „z wody i Ducha\" — sakrament bez Ducha byłby pustym obmyciem (jak chrzest Janowy), Duch bez żadnego znaku byłby dla istot cielesnych drogą nieproporcjonalną do natury; Bóg, który stworzył człowieka cielesnym, odradza go cieleśnie — przez materię przenikniętą mocą."
+      ],
+      [
+       "3. Wywyższenie — krzyż jako przyczyna zbawienia",
+       "Typologia węża daje Tomaszowi okazję do najczystszego wykładu skuteczności krzyża: podobizna węża nie miała jadu — Chrystus nie miał grzechu, a przyjął jego podobieństwo (similitudo carnis peccati, Rz 8,3); spojrzenie na znak uzdrawiało ukąszonych — wiara w Ukrzyżowanego uzdrawia z ukąszenia starodawnego węża (Rdz 3). Krzyż działa jako przyczyna zasługująca (meritoria — miłość Głowy zasługuje dla członków), zadośćczyniąca i przykładowa; a „trzeba\" (δεῖ) nie jest koniecznością wymuszoną na Bogu, lecz stosownością (convenientia) wybraną przez mądrość: Bóg mógł zbawić inaczej — wybrał drogę, która najpełniej objawia miłość i najskuteczniej leczy pychę, korzeń ukąszenia. Tomasz dopowiada i porządek poznania: jak wąż był wywyższony, „aby patrzeli\", tak krzyż jest ustawiony na widoku dziejów — zbawienie pozostaje związane z aktem najprostszym z możliwych, dostępnym umierającym i nieuczonym: podnieść oczy."
+      ],
+      [
+       "4. Miłość, sąd i wolność",
+       "W. 16–21 porządkują u Tomasza naukę o woli Bożej i sądzie. Pierwsze: miłość Boga nie jest odpowiedzią na dobro świata, lecz jego przyczyną (amor Dei infundens et creans bonitatem — miłość Boża wlewa i stwarza dobroć): Bóg nie umiłował świata, bo był dobry, lecz by dobrym się stał; w. 16 jest tej zasady najczystszym biblijnym wyrazem. Drugie: wola zbawcza jest powszechna (por. 1 Tm 2,4) — posłanie Syna ma za cel zbawienie świata, nie selekcję; potępienie nie jest dziełem symetrycznym do zbawienia, lecz — jak uczy w. 18–19 — samowykluczeniem: Bóg nikogo nie odrzuca, kto nie odrzucił wpierw światła. Trzecie: sąd jako ujawnienie (κρίσις — rozdzielenie) współbrzmi z tomistyczną nauką, że kara zasadnicza jest wewnętrzna wobec winy: ciemność nie zostaje wymierzona uciekającemu przed światłem — ciemność jest tym, co wybrał. Wolność pozostaje więc realna i straszna; ale asymetria Ewangelii trwa: światło przyszło pierwsze, i przyszło dla wszystkich."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "body": "Ewangelista buduje scenę jak dramaturg tez: z „wielu, którzy uwierzyli, widząc znaki\" (2,23) wyprowadza jednego, dając mu imię, urząd i noc — i na nim testuje, czy wiara ze znaków wytrzyma spotkanie ze słowem. Technika nieporozumienia (ἄνωθεν, łono matki, wiatr) jest tu doprowadzona do mistrzostwa: każdy błąd Nikodema podnosi rozmowę o piętro, a czytelnik — pouczony Prologiem — patrzy z góry na drabinę, po której bohater dopiero się wspina. Osobliwością sceny jest zamierzone rozmycie końca dialogu: od w. 16 (a może już 13) nie wiadomo, czy mówi Jezus, czy ewangelista — starożytność nie znała cudzysłowów, ale Jan czyni z tej niedogodności metodę: głos Pana i głos Kościoła przechodzą w siebie płynnie, bo taka jest teza całej księgi o świadectwie (w. 11: „co wiemy, mówimy\" — liczba mnoga wspólnoty w ustach Jezusa). Wreszcie portret długodystansowy: autor prowadzi Nikodema przez trzy sceny rozmieszczone symetrycznie (noc — spór — pogrzeb), ani razu nie nazywając go uczniem; ostatnie, co o nim wiemy, to sto funtów mirry i aloesu — pogrzeb królewski wyprawiony w biały dzień człowiekowi przegranemu. Dyskrecja tego portretu jest celowa: ewangelista zostawia czytelnikowi rozstrzygnięcie, kiedy dokładnie „ten, który przyszedł nocą\", narodził się z góry — bo takich narodzin, jak uczy w. 8, nie widzi nikt: słychać tylko wiatr.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "body": "Duch Święty jest właściwym tematem tej perykopy — i mówi w niej o sobie rzecz jedyną w swoim rodzaju: porównuje się do wiatru. Suwerenność łaski („wieje, kędy chce\") zostaje ogłoszona nie jako groźba nieobliczalności, lecz jako pociecha: żadna noc, żaden urząd, żaden wiek („będąc starcem\") nie leży poza zasięgiem tchnienia; nawrócenie nie ma metryki ani procedury. Zarazem Duch wiąże się dobrowolnie ze znakiem wody — i ta dwustronność (wolny jak wiatr, wierny jak sakrament) jest całą pneumatologią Kościoła w zalążku. Przez w. 16 Duch dyktuje zdanie, które miało stać się najkrótszym wyznaniem wiary chrześcijaństwa — i umieszcza je nie w traktacie, lecz w rozmowie z człowiekiem religijnie urządzonym: największa obietnica pada tam, gdzie słuchacz najmniej wie, że jej potrzebuje. Czytelnikowi każdej epoki scena zostawia trzy pytania rachunku sumienia: czy moja wiara nie jest wiarą ze znaków — poprawną, nocną, niepowierzoną; czy nie szukam odrodzenia wstecz (w powrotach do minionego), zamiast z góry; i czy przychodzę do światła z tym, co w moim życiu najciemniejsze — wiedząc, że światło nie zostało posłane, aby sądzić, lecz aby ocalać. A obietnica dana „każdemu wierzącemu\" (πᾶς ὁ πιστεύων — dwukrotnie) jest podpisem Ducha pod uniwersalizmem Prologu: nikt nie jest wyjęty spod „tak bowiem Bóg umiłował\".",
+     "children": []
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "Lb 21,4–9; Mdr 16,6–7; 2 Krl 18,4 → w. 14–15",
+       "Pełne dossier węża miedzianego: ustanowienie znaku (Lb 21 — „każdy ukąszony, jeśli nań spojrzy, zostanie przy życiu\"), jego teologiczne zabezpieczenie (Mdr 16,6–7: „znak zbawienia… ocalony nie przez to, na co patrzył, lecz przez Ciebie, Zbawcę wszystkich\") i jego kres, gdy stał się bożkiem (2 Krl 18,4: Ezechiasz tłucze Nechusztana). Jezus przywołuje obraz w jego dojrzałej, przefiltrowanej postaci — znak działający przez wiarę, nie przez magię — i przenosi go na krzyż: podobieństwo tego, co zabija, wywyższone jako lekarstwo. Typologia jest kompletna aż po szczegóły: pustynia (miejsce ukąszeń i ratunku), pal, spojrzenie, życie."
+      ],
+      [
+       "Ez 36,25–27; 37,1–14; Ps 51,12–14 → w. 5–8",
+       "Zaplecze „nauczyciela Izraela\": woda czysta i nowy duch (Ez 36), ruach ożywiające dolinę suchych kości (Ez 37 — wiatr/tchnienie/Duch w jednej wizji: dokładnie rozpiętość πνεῦμα z w. 8), serce czyste i duch nowy z psalmu pokutnego (Ps 51). Wyrzut w. 10 zakłada, że wszystkie te teksty leżały na pulpicie Nikodema: nowe narodzenie nie jest nowinką — jest wymagalnym depozytem proroków; nowe jest tylko jedno: że godzina spełnienia wybiła i stoi przed nim."
+      ],
+      [
+       "Iz 52,13 → w. 14",
+       "„Oto się powiedzie mojemu Słudze: zostanie wywyższony i wyniesiony, i bardzo uwielbiony\" (LXX: ὑψωθήσεται καὶ δοξασθήσεται) — matryca Janowego podwójnego sensu ὑψόω. Czwarta pieśń Sługi spina poniżenie i chwałę w jednym ruchu; Jan przejmuje tę składnię losu i odmienia ją przez trzy zapowiedzi wywyższenia (3,14; 8,28; 12,32–34). Krzyż jako tron — to nie późniejsza teologia krzyża nałożona na tekst, lecz Izajaszowa gramatyka wpisana w słownik księgi od pierwszej zapowiedzi."
+      ],
+      [
+       "Rdz 22; Rz 8,32 → w. 16",
+       "„Weź twego syna jedynego, którego miłujesz\" — pierwsze biblijne zdanie o miłości ojca do syna otwiera opowieść o niedokonanej ofierze; w. 16 jest jej dokonanym antytypem: Bóg „dał\" (ἔδωκεν) Syna Jednorodzonego. Paweł czyta identycznie: „własnego Syna nie oszczędził (οὐκ ἐφείσατο — czasownik z Rdz 22,12.16 LXX!), ale Go za nas wszystkich wydał\". Tam, gdzie ojcu Izaaka pozwolono zatrzymać rękę, Ojciec Jednorodzonego jej nie zatrzymał — i to jest Janowa miara słowa „umiłował\"."
+      ],
+      [
+       "J 8,28; 12,32–34; 19,37 → w. 14",
+       "Seria wywyższeń wewnątrz księgi: „gdy wywyższycie Syna Człowieczego, wtedy poznacie, że JA JESTEM\" (8,28), „a Ja, gdy zostanę wywyższony nad ziemię, wszystkich pociągnę do siebie\" (12,32 — z komentarzem narratora: „to mówił, oznaczając, jaką śmiercią miał umrzeć\") i spełnienie w spojrzeniu spod krzyża: „będą patrzeć na Tego, którego przebili\" (19,37, za Za 12,10). Zapowiedź z nocnej rozmowy okazuje się programem: wywyższenie — poznanie — przyciągnięcie — spojrzenie; typologia węża domyka się w chwili, gdy Ewangelia każe patrzeć na Przebitego."
+      ],
+      [
+       "1 J 4,9–10 → w. 16–17",
+       "Autokomentarz środowiska Janowego: „w tym objawiła się miłość Boga ku nam, że zesłał Syna swego Jednorodzonego na świat, abyśmy życie mieli dzięki Niemu… nie my umiłowaliśmy Boga, ale On sam nas umiłował\". List powtarza słownik w. 16–17 niemal termin po terminie (miłość, Jednorodzony, posłanie, świat, życie) i dodaje wykładnię kierunku: pierwszeństwo miłości Boga przed każdą ludzką odpowiedzią. To najlepszy dowód, że w. 16 nie jest ozdobnikiem, lecz rdzeniem wyznania wspólnoty — zdaniem, które umiała odmieniać przez wszystkie przypadki życia."
+      ],
+      [
+       "J 7,50–52; 19,39; 13,30 → w. 1–2",
+       "Trajektoria Nikodema i jej ciemne lustro. Dalsze sceny: głos proceduralny w Sanhedrynie („czy Prawo nasze sądzi człowieka, zanim go wysłucha?\" — 7,50n, skwitowany szyderstwem) i pogrzeb z królewską miarą wonności (19,39 — „ten, który wpierw przyszedł nocą\": ostatnia wzmianka wciąż pamięta noc, ale czyn dzieje się w świetle). Lustro odwrotne: Judasz, który od światła wieczernika wychodzi w noc (13,30 — „a była noc\"). Dwa ruchy przez tę samą granicę zmierzchu: Ewangelia mierzy ludzi nie miejscem startu, lecz kierunkiem."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Historia: chrzest, spory o łaskę, nikodemizm",
+       "Perykopa jest praźródłem teologii chrztu: „z wody i Ducha\" cytują katechezy chrzcielne od Justyna (Apol. I 61 — najstarszy opis chrztu przytacza właśnie w. 3–5) po mistagogów IV wieku; baptysteria zdobiono scenami wody i gołębicy, a ryt do dziś pyta o wiarę, zanim poleje wodą — bo narodzenie jest z wody i Ducha, nie z samej wody. W sporach o łaskę w. 5–8 służył obu prawdom naraz: konieczności sakramentu (przeciw spirytualizmom) i wolności Ducha (przeciw mechanicyzmowi) — Augustyn ukuł na tej perykopie zasadę, że Bóg nie związał swojej mocy sakramentami. Wiek XVI dopisał osobny rozdział recepcji: „nikodemizmem\" nazwano (Kalwin, polemicznie) postawę wierzących w ukryciu, praktykujących na zewnątrz starą religię — spór o to, czy wolno wierzyć nocą, toczył się dosłownie na imieniu naszego bohatera; a duszpasterstwo każdej epoki zna jego łagodniejszą wersję: wiarę szukających dyskretnie, którym scena nocnej rozmowy pozwala zaczynać od pytań. Wreszcie w. 16 — „złoty werset\" — stał się najbardziej rozpowszechnionym zdaniem Biblii: od katechizmów po transparenty na stadionach; historia jego recepcji jest historią chrześcijańskiej pewności, że da się streścić wszystko w dwudziestu pięciu słowach."
+      ],
+      [
+       "Liturgia",
+       "Lekcjonarz rzymski czyta perykopę w rytmie jej własnych ciężarów: J 3,14–21 w IV Niedzielę Wielkiego Postu roku B (Laetare — niedziela radości: „tak Bóg umiłował świat\" w połowie postu), J 3,13–17 w święto Podwyższenia Krzyża Świętego (14 IX — wąż i wywyższenie jako Ewangelia dnia), J 3,16–18 w uroczystość Trójcy Świętej roku A oraz w. 1–8 w tygodniach wielkanocnych, gdy Kościół czyta neofitom o ich własnych narodzinach. Wigilia Paschalna jest niepisaną liturgią całej sceny: woda święcona z zanurzoną świecą (światło w wodzie!), wezwanie Ducha, kąpiel odrodzenia — mistagogia w. 5 rozpisana na obrzędy. W pobożności krzyż z wężem Mojżeszowym wszedł do ikonografii (typologia na krucyfiksach, w Biblii pauperum zestawiana z Ukrzyżowaniem), a w. 8 stał się ulubionym wersetem teologii duchowości o rozeznawaniu: Ducha poznaje się po głosie i owocach, nie po trasie. Werset 16 zaś liturgia umieściła tam, gdzie jego miejsce: w aklamacjach i przy Komunii — jako zdanie, które wystarczy, gdy zabraknie wszystkich innych."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Katena do nocnej rozmowy — sześć głosów: noc i wstyd uczonego (Chryzostom), łono Kościoła i kąpiel odrodzenia (Cyryl, Augustyn), śmierć uśmiercona przez śmierć (Augustyn o wężu), miara miłości i dar Syna (Chryzostom), ucieczka przed światłem (Cyryl).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: nocna rozmowa ogłasza, że do królestwa nie prowadzi żadna droga oprócz narodzin — że religijna doskonałość, uczoność i dobra wola pozostają po tej stronie progu, który przekracza się tylko darem z góry, z wody i Ducha wiejącego, kędy chce; że dar ten ma cenę nazwaną po imieniu — Syn Człowieczy wywyższony jak wąż na pustyni, dany przez Ojca z miłości do świata, który wciąż woli ciemność; i że sąd nad światem nie będzie niczym innym, jak ujawnieniem kierunku, w którym każdy szedł, gdy światło stało otworem. Nikodem, który przyszedł nocą i odszedł bez deklaracji, jest patronem wszystkich, których łaska prowadzi powoli: między jego pierwszym pytaniem a stoma funtami mirry mieści się każda biografia wiary, także zaczęta późno, także zaczęta ostrożnie. A czytelnik, zamykając scenę, zabiera z niej zdanie, które Kościół uznał za streszczenie wszystkiego — i które wystarczy umieć odmienić przez pierwszą osobę: tak bowiem Bóg umiłował świat, że i mnie dał Syna.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — św. Jan Chryzostom (Hom. in Io. 24–28), św. Augustyn (Tract. in Io. 11–12), św. Cyryl Aleksandryjski (In Io., ks. II) i św. Tomasz (Super Ioannem, cap. III, lect. 1–3).*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Lb",
+     21,
+     4,
+     21,
+     9,
+     "Lb 21,4–9",
+     "typologia",
+     "wąż miedziany wywyższony na pustyni — każdy, kto spojrzy, zostanie przy życiu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mdr",
+     16,
+     6,
+     16,
+     7,
+     "Mdr 16,6–7",
+     "tlo",
+     "znak zbawienia: ocalony nie przez to, na co patrzył, lecz przez Zbawcę wszystkich — sapiencjalne zabezpieczenie typologii"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "2 Krl",
+     18,
+     4,
+     18,
+     4,
+     "2 Krl 18,4",
+     "tlo",
+     "Ezechiasz tłucze Nechusztana — znak, który stał się bożkiem; granica typologii węża"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ez",
+     36,
+     25,
+     36,
+     27,
+     "Ez 36,25–27",
+     "tlo",
+     "woda czysta, serce nowe, duch nowy — prorockie zaplecze narodzin z wody i Ducha"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ez",
+     37,
+     1,
+     37,
+     14,
+     "Ez 37,1–14",
+     "tlo",
+     "ruach ożywiające suche kości — wiatr/tchnienie/Duch w jednej wizji: rozpiętość πνεῦμα z w. 8"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     51,
+     12,
+     51,
+     14,
+     "Ps 51,12–14",
+     "tlo",
+     "serce czyste stwórz we mnie, ducha nowego — modlitewnik nowego narodzenia"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     52,
+     13,
+     52,
+     13,
+     "Iz 52,13",
+     "aluzja",
+     "Sługa wywyższony i uwielbiony (LXX: ὑψωθήσεται καὶ δοξασθήσεται) — matryca podwójnego sensu ὑψόω"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Rdz",
+     22,
+     1,
+     22,
+     18,
+     "Rdz 22",
+     "typologia",
+     "ojciec nie odmawiający syna jedynego — antytyp dokonany w ἔδωκεν z w. 16 (por. Rz 8,32)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Rz",
+     8,
+     32,
+     8,
+     32,
+     "Rz 8,32",
+     "paralela",
+     "własnego Syna nie oszczędził, ale Go za nas wszystkich wydał — Pawłowe echo w. 16 słownikiem Rdz 22"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     8,
+     28,
+     8,
+     28,
+     "J 8,28",
+     "rozwiniecie",
+     "gdy wywyższycie Syna Człowieczego, poznacie, że JA JESTEM — drugie wywyższenie"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     12,
+     32,
+     12,
+     34,
+     "J 12,32–34",
+     "rozwiniecie",
+     "wywyższony nad ziemię, wszystkich pociągnę — trzecia zapowiedź z komentarzem narratora"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     19,
+     39,
+     19,
+     39,
+     "J 19,39",
+     "rozwiniecie",
+     "Nikodem ze stoma funtami mirry przy pogrzebie — spełnienie drogi zaczętej nocą"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 J",
+     4,
+     9,
+     4,
+     10,
+     "1 J 4,9–10",
+     "paralela",
+     "w tym objawiła się miłość: On pierwszy nas umiłował — autokomentarz środowiska Janowego do w. 16"
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      1
+     ],
+     "J",
+     13,
+     30,
+     13,
+     30,
+     "J 13,30",
+     "kontrast",
+     "Judasz wyszedł — a była noc: ciemne lustro drogi Nikodema"
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. III, lect. 1–3; S. Th. III, q. 68",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład nocnej rozmowy: łaska jako odrodzenie, konieczność chrztu i jego drogi zastępcze, skuteczność krzyża.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Analiza dwuznaczności ἄνωθεν i πνεῦμα, granic wypowiedzi Jezusa (w. 13/16/21) i chrzcielnej lektury w. 5.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "C. K. Barrett",
+     "The Gospel According to St John, ad loc.",
+     [
+      "section",
+      "I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
+     ],
+     "Filologia w. 13–15: perfectum ἀναβέβηκεν, składnia ἐν αὐτῷ z ἔχῃ i tło Iz 52,13 dla ὑψόω.",
+     "The Gospel According to St John"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana I, ad loc.",
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Polskie omówienie typologii węża miedzianego i Janowej eschatologii zrealizowanej (w. 18–21).",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 1–2",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 24",
+     "Chryzostom waży noc Nikodema bez taryfy ulgowej i bez pogardy: przyszedł nocą, bo bał się ludzi — wiara miał już, męstwa jeszcze nie; taka wiara jest niedonoszona, ale żywa, i Pan jej nie gasi. Kaznodzieja podziwia cierpliwość Nauczyciela: nie wypomina godziny, nie żąda deklaracji — bierze ucznia takim, jaki przyszedł, i prowadzi go wyżej, niż tamten chciał zajść. Ale zauważa też granicę komplementu Nikodema: „wiemy, żeś od Boga przyszedł jako nauczyciel\" — mówi o Chrystusie mniej, niż prawda wymaga, bo mierzy Go najwyższą miarą, jaką zna: miarą człowieka. Odpowiedź o nowych narodzinach jest dlatego pozornie od rzeczy, a w istocie w samo sedno: nie o lepszą opinię o Jezusie chodzi, lecz o nowe oczy — stara natura nawet trafnym sądem nie przekroczy swojej miary."
+    ],
+    [
+     "w. 3–8",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. II",
+     "Cyryl wykłada narodzenie z wody i Ducha jako dzieło godne Boga-Stwórcy: jak na początku Duch unosił się nad wodami i wyprowadzał z nich życie, tak w chrzcie unosi się nad wodą kąpieli i wyprowadza z niej nowe stworzenie — woda staje się łonem, a Kościół matką. Aleksandryjczyk podkreśla realizm uczestnictwa: Duch nie działa na nas z zewnątrz, jak rzemieślnik na tworzywie, lecz udziela nam samego siebie — narodzony z Ducha nosi w sobie zarodek Bożej natury (por. 2 P 1,4), dlatego antyteza w. 6 nie poniża ciała, lecz mierzy przepaść darów: ciało daje to, co ma — śmiertelne podobieństwo rodziców; Duch daje to, co ma — podobieństwo Boga. A wolność wiatru z w. 8 jest dla Cyryla znakiem bóstwa Ducha: stworzenie służy, gdzie je poślą — Pan wieje, kędy chce."
+    ],
+    [
+     "w. 3–8",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 11,5–6",
+     "Augustyn rozbraja nieporozumienie Nikodema jego własną logiką: pytasz, czy człowiek może wrócić do łona matki? — a przecież jest łono, które przyjmuje starców i wydaje na świat niemowlęta: łono Kościoła, chrzcielnica. Narodziny z Adama wydały nas na śmierć, narodziny z Chrystusa wydają na życie; tamtych nikt sobie nie wybrał — te są z wiary. Kaznodzieja gra też swoim ulubionym paradoksem pokory: Nikodem przyszedł do Jezusa nocą jak do nauczyciela ukrytego — a stał przed Światłem, które oświeca każdego człowieka; kto szuka Boga po kryjomu, temu Bóg nie wypomina kryjówki, tylko cierpliwie rozwidnia. Ale ostrzeżenie zostaje: kto by chciał zostać w nocy na zawsze — bo nocą wiara nic nie kosztuje — ten nie narodził się jeszcze; narodziny zawsze wypychają na światło."
+    ],
+    [
+     "w. 14–15",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 12,11",
+     "Klasyczny wykład typologii węża: ukąszenie węża przyniosło śmierć — spojrzenie na węża przynosi życie; czym jest więc wąż wywyższony, jeśli nie śmiercią Pana na krzyżu? Jak tam patrzono na śmierć (podobiznę zabójcy), by nie umrzeć, tak tu patrzy się z wiarą na Śmierć ukrzyżowaną, by śmierć nie panowała. Augustyn kondensuje to w formułę, którą powtarzały wieki: mors a morte — śmierć [umiera] od śmierci; morsus serpentis — morte Domini sanatur: ukąszenie węża leczy się śmiercią Pana. I przenosi obraz w konkret życia: kogo ukąsił grzech — a któż nie ukąszony? — niech nie ucieka w zarośla wstydu, gdzie jad pracuje; niech spojrzy na Wywyższonego, bo po to został wywyższony, by był widoczny z każdego miejsca upadku. Wiara jest spojrzeniem; spojrzenie jest lekarstwem; a odwrócenie oczu — jedyną śmiertelną chorobą."
+    ],
+    [
+     "w. 16–18",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 27",
+     "Chryzostom każe zważyć każde słowo w. 16 z osobna, jak złotnik kruszec: UMIŁOWAŁ — nie osądził, choć miał za co; ŚWIAT — nie przyjaciół, nie godnych: wrogów w stanie buntu; TAK — miarą jest rzecz niemierzalna: dar; SYNA — nie sługę, nie anioła; JEDNORODZONEGO — nie jednego z wielu: całe ojcowskie serce; DAŁ — nie wypożyczył. A po stronie odbioru jedno tylko słowo: WIERZĄCY — bo dar tej wielkości można już tylko przyjąć albo odrzucić; dokładać doń warunków znaczyłoby nie rozumieć, co się stało. Sąd zaś — dopowiada kaznodzieja przy w. 17–18 — nie jest zemstą wzgardzonego dobroczyńcy: kto odrzuca lekarstwo, tego nie zabija lekarz, lecz choroba; słońce nie po to wschodzi, by oślepiać, a jednak oślepia tych, którzy wpatrują się w ciemność. Bóg posłał Syna jako dzień — noc wybiera się już samemu."
+    ],
+    [
+     "w. 19–21",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. II",
+     "Dlaczego światło bywa znienawidzone? Cyryl odpowiada analizą, która wyprzedza całe traktaty o samooszustwie: zło potrzebuje ciemności podwójnie — zewnętrznej, by ujść oczom ludzi, i wewnętrznej, by ujść oczom własnym; światło odbiera obie kryjówki naraz, dlatego złe uczynki rodzą nienawiść do tego, co je ujawnia, i grzesznik zaczyna zwalczać nie swój grzech, lecz swoje lustro. Ale Aleksandryjczyk nie zostawia diagnozy bez terapii: „czynić prawdę\" to u niego zacząć od jednego uczciwego kroku ku światłu — od przyznania, nie od doskonałości; kto przychodzi do światła z tym, co ma, temu światło nie wypomina, lecz dokonuje w nim reszty — bo uczynki takiego człowieka „w Bogu są dokonane\": Bóg kończy to, ku czemu człowiek się obrócił. Tak domyka się nocna scena: Nikodem, który przyszedł w ciemności, usłyszał na końcu obietnicę dla wszystkich przychodzących — i księga pokaże, że z niej skorzystał."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "IV Niedziela Wielkiego Postu roku B (Laetare)",
+     "J 3,14–21",
+     "„Tak Bóg umiłował świat\" w niedzielę radości pośrodku postu — wywyższenie węża jako Ewangelia pocieszenia przed Paschą."
+    ],
+    [
+     "rzymski",
+     "Podwyższenie Krzyża Świętego (14 IX)",
+     "J 3,13–17",
+     "Typologia węża miedzianego jako Ewangelia święta Krzyża: podniesienie na krzyż i wyniesienie w chwale w jednym czasowniku."
+    ],
+    [
+     "rzymski",
+     "Uroczystość Trójcy Świętej, rok A",
+     "J 3,16–18",
+     "Posłanie Syna przez Ojca dla zbawienia świata — trynitarna lektura serca perykopy."
+    ],
+    [
+     "rzymski",
+     "II tydzień wielkanocny (dni powszednie)",
+     "J 3,1–21 (w ciągu)",
+     "Nocna rozmowa czytana neofitom w bieli: katecheza o narodzinach z wody i Ducha tuż po ich własnych narodzinach."
+    ]
+   ],
+   "textual": [
+    [
+     13,
+     "ὁ υἱὸς τοῦ ἀνθρώπου",
+     "wariant lekcji",
+     "NA28 kończy werset na ὁ υἱὸς τοῦ ἀνθρώπου — tak P66, P75, ℵ, B, L, W. Tradycja bizantyjska (A, Θ, Ψ i większość) dodaje: ὁ ὢν ἐν τῷ οὐρανῷ (który jest w niebie).",
+     "Dodatek — poświadczony wcześnie i szeroko — czyni z wersetu paradoks chrystologiczny (Syn Człowieczy mówiący na ziemi „jest w niebie\"): stara teologia dwóch stanów w jednym zdaniu. NA28 słusznie idzie za świadkami aleksandryjskimi; ale wariant pozostaje cennym świadkiem wczesnej wiary w nieprzerwaną jedność Syna z niebem — kopiści dopowiedzieli to, co Prolog mówi o Jednorodzonym „będącym w łonie Ojca\"."
+    ],
+    [
+     15,
+     "ἐν αὐτῷ",
+     "wariant lekcji",
+     "NA28: πᾶς ὁ πιστεύων ἐν αὐτῷ ἔχῃ ζωὴν αἰώνιον (P75, B) — ἐν αὐτῷ najlepiej łączyć z ἔχῃ („miał w Nim życie\"). Warianty: εἰς αὐτόν (P66, ℵ i in. — „wierzący w Niego\", asymilacja do zwykłej składni Janowej), ἐπ᾿ αὐτῷ (A).",
+     "Lekcja ἐν αὐτῷ jest trudniejsza (πιστεύω ἐν nie występuje u Jana nigdzie indziej) i dlatego pierwotna: kopiści wygładzali ku πιστεύω εἰς. Teologicznie różnica jest piękna: nie tylko „wierzyć w Niego\", lecz „mieć w Nim życie\" — życie wieczne jako przestrzeń zamieszkania, nie premia; współbrzmi z „trwajcie we Mnie\" (15,4)."
+    ]
+   ],
+   "theme_links": [
+    [
+     "narodzenie z Boga",
+     [
+      "block",
+      "w. 3–8"
+     ]
+    ],
+    [
+     "światłość i ciemność",
+     [
+      "block",
+      "w. 19–21"
+     ]
+    ],
+    [
+     "wywyższenie (ὑψωθῆναι) — krzyż jako chwała",
+     [
+      "block",
+      "w. 14–15"
+     ]
+    ],
+    [
+     "znaki (σημεῖα) i wiara",
+     [
+      "block",
+      "w. 1–2"
+     ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 9–13"
+     ]
+    ],
+    [
+     "ἦν / ἐγένετο — trwanie a stawanie się",
+     [
+      "block",
+      "w. 3–8"
+     ]
+    ]
+   ],
+   "revision_note": "Dodano perykopę Rozmowa z Nikodemem (J 3,1–21) w pełnym opracowaniu: analiza filologiczna (ἄνωθεν, woda i Duch, πνεῦμα-ruach, wywyższenie, J 3,16, κρίσις), struktura dialogu wygasającego w monolog, sekcje II–VIII z podsekcjami, katena sześciu głosów, aparat (w. 13 i 15), odniesienia, cytowania, liturgia; status: ukończona"
+  }
+ ]
+}
