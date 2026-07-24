@@ -53,6 +53,12 @@
    "Ewangelia według św. Marka",
    "NT",
    48
+  ],
+  [
+   "Ez",
+   "Księga Ezechiela",
+   "ST",
+   31
   ]
  ],
  "verses": {
@@ -722,6 +728,13 @@
    "Kazania",
    "IV/V",
    "patrystyka"
+  ],
+  [
+   "św. Grzegorz Wielki",
+   "Homiliae in Evangelia",
+   "Homilie na Ewangelie",
+   "VI/VII",
+   "patrystyka"
   ]
  ],
  "themes": [
@@ -755,7 +768,7 @@
     "ve": 18,
     "title": "Dopełnienie Prologu",
     "motto": "Gratia et veritas per Iesum Christum (Łaska i prawda przez Jezusa Chrystusa)",
-    "status": "w_opracowaniu",
+    "status": "ukonczona",
     "position": 2
    },
    "intro": "Wersety 15–18 domykają hymn: powraca świadectwo Chrzciciela (klamra z w. 6–8), a Prolog kończy się tam, gdzie się zaczął — przy Bogu, którego nikt nie widział, i przy Jednorodzonym, który Go opowiedział.",
@@ -778,6 +791,11 @@
        "πρῶτός μου ἦν",
        "wcześniej ode mnie był",
        "Paradoks czasowy w jednym zdaniu: ὁ ὀπίσω μου ἐρχόμενος (przychodzący za mną — czyli późniejszy: młodszy kuzyn, uczeń idący za mistrzem) ἔμπροσθέν μου γέγονεν (stał się przede mną — wyprzedził mnie godnością), ὅτι πρῶτός μου ἦν (bo pierwszy ode mnie był). Racją pierwszeństwa nie jest kariera, lecz preegzystencja: wraca imperfectum ἦν (był) z w. 1. Chrzciciel — pierwszy egzegeta Prologu — wyprowadza hierarchię z metafizyki: kto był na początku, temu należy się pierwsze miejsce w historii."
+      ],
+      [
+       "οὗτος ἦν ὃν εἶπον",
+       "ten był, o którym powiedziałem",
+       "Formuła identyfikacji procesowej: świadek wskazuje obecnego i utożsamia go z zapowiedzianym. Zwróćmy uwagę na czas: nie „ten jest\" (οὗτός ἐστιν — tak powie w. 30, w narracji), lecz „ten był\" (ἦν) — Chrzciciel mówiący wewnątrz Prologu przejmuje jego gramatykę: o Tym, który przychodzi, nawet zdanie rozpoznania trzeba budować na imperfectum wieczności. Jan świadczył, zanim zobaczył (εἶπον — powiedziałem, wcześniej); rozpoznanie jest wtórne wobec posłania. To struktura każdego proroctwa: słowo wyprzedza spełnienie, a spełnienie uwierzytelnia słowo — i dlatego świadectwo Chrzciciela ma w czwartej Ewangelii rangę dowodu, nie opinii."
       ]
      ]
     },
@@ -799,6 +817,11 @@
        "χάριν ἀντὶ χάριτος",
        "łaskę za łaską",
        "Przyimek ἀντί znaczy „w zamian za, w miejsce\" — stąd dwie lektury: łaska *po* łasce (fala za falą, nieustanny przypływ) albo łaska *w miejsce* łaski (Nowe Przymierze w miejsce daru Starego — tak czytał już Chryzostom, a w. 17 tę lekturę wspiera). Obie prawdziwe i pewnie obie zamierzone: ekonomia zbawienia nie zna próżni — jedna łaska ustępuje tylko większej."
+      ],
+      [
+       "ἡμεῖς πάντες ἐλάβομεν",
+       "myśmy wszyscy otrzymali",
+       "Aoryst ἐλάβομεν (otrzymaliśmy) podejmuje czasownik z centrum Prologu: ὅσοι ἔλαβον αὐτόν (którzy Go przyjęli, w. 12). To, co tam było warunkiem („którzy przyjęli\"), tu jest już dokonaną biografią wspólnoty: przyjęliśmy — i otrzymaliśmy. Πάντες (wszyscy) ma ostrze antyelitarne: nie krąg wtajemniczonych, nie duchowa arystokracja (jak w rodzącej się gnozie, gdzie πλήρωμα stanie się słowem-szyboletem wybranych), lecz wszyscy wierzący, od apostoła po ostatniego czytelnika. Pierwsza osoba liczby mnogiej jest tu aktem liturgicznym — hymn przestaje opowiadać, a zaczyna wyznawać; kto czyta te słowa z wiarą, zostaje wciągnięty w podmiot zdania."
       ]
      ]
     },
@@ -815,6 +838,11 @@
        "ἐδόθη / ἐγένετο",
        "zostało dane / stała się",
        "Precyzja czasowników: Prawo ἐδόθη (zostało dane) — przekazane przez pośrednika, jak paczka z rąk do rąk; łaska i prawda ἐγένετο (stała się) — wydarzyła się osobiście, przyszła sama w Tym, który jest πλήρης χάριτος καὶ ἀληθείας (pełen łaski i prawdy, w. 14). Jedyne miejsce Prologu, gdzie pada imię Ἰησοῦς Χριστός — hymn, który zaczął się od bezimiennego Λόγος (Słowa), kończy się imieniem własnym: metafizyka znalazła twarz. Zestawienie nie jest antytezą (Prawo też od Boga — „zostało dane\"), lecz gradacją: sługa i Syn, zapowiedź i spełnienie."
+      ],
+      [
+       "ἡ χάρις καὶ ἡ ἀλήθεια",
+       "łaska i prawda",
+       "W w. 14 para χάρις καὶ ἀλήθεια (łaska i prawda) stała bez rodzajników — jako jakość chwały; tu wraca z rodzajnikami: ἡ χάρις καὶ ἡ ἀλήθεια — ta oto, znana już łaska i prawda, o której była mowa. Grecka gramatyka robi dyskretny ukłon w stronę czytelnika: to nie nowe pojęcia, to imię Boże z Wj 34,6 (chesed we'emet — miłość wierna i niezawodność), które właśnie przestało być formułą, a stało się historią. Orzeczenie w liczbie pojedynczej (ἐγένετο — stała się) przy podwójnym podmiocie traktuje parę jako jedną rzeczywistość: hendiadę — łaskę, która jest wierna, wierność, która jest łaskawa. U Jana ἀλήθεια (prawda) zachowa ten hebrajski ciężar do końca księgi: prawda nie jest zgodnością sądu z rzeczą, lecz niezawodnością Boga, po której można stąpać."
       ]
      ]
     },
@@ -849,43 +877,127 @@
     {
      "type": "kontekst",
      "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
-     "body": "Wersety 15–18 wykazują tę samą dwuwarstwowość co cały Prolog. **Pełnia i łaska.** Χάριν ἀντὶ χάριτος (łaskę za łaską) czytane na tle hebrajskim odsyła do chesed (łaski wiernej przymierzu) z Wj 34,6 — formuły przywołanej już w w. 14; w. 17 wymienia tę teofanię z imienia, zestawiając Mojżesza z Jezusem. **Nikt nie widział Boga.** To aksjomat Synaju: „nie może człowiek ujrzeć mojego oblicza i pozostać przy życiu\" (Wj 33,20); judaizm Drugiej Świątyni obchodził go wizjami pośredniczącymi (anioł Pana, kawod — chwała, Memra — Słowo). Jan nie łagodzi aksjomatu — zaostrza go (οὐδεὶς πώποτε — nikt nigdy), by tym mocniej zabrzmiało wyłączne roszczenie: jedyny wykładowca Ojca jest w Jego łonie. **Polemika.** W. 17 nie jest antynomizmem (odrzuceniem Prawa): dla wspólnoty wyrzuconej z synagogi jest odpowiedzią na zarzut zdrady Tory — nie porzuciliśmy daru Mojżesza, przyjęliśmy Tego, ku któremu dar prowadził.",
-     "children": []
+     "body": "Wersety 15–18 wykazują tę samą dwuwarstwowość co cały Prolog: każde pojęcie ma dno greckie i semickie, a spór, w którym te zdania zabrzmiały po raz pierwszy, słychać w nich do dziś.",
+     "children": [
+      [
+       "Chesed we'emet — pamięć Synaju",
+       "Χάριν ἀντὶ χάριτος (łaskę za łaską) i ἡ χάρις καὶ ἡ ἀλήθεια (łaska i prawda) czytane na tle hebrajskim odsyłają do teofanii synajskiej: gdy Mojżesz po grzechu złotego cielca prosi o widzenie chwały, Bóg przechodzi przed nim, wołając swoje imię — „Bóg miłosierny i łaskawy, nieskory do gniewu, bogaty w łaskę i wierność\" (raw chesed we'emet, Wj 34,6). Werset 17 wymienia tę teofanię z imienia: Prawo zostało dane przez Mojżesza — i to samo objawienie synajskie zapowiedziało łaskę i prawdę, które teraz „stały się\" przez Jezusa Chrystusa. Judaizm rabiniczny znał parę chesed we'emet jako streszczenie przymiotów Bożych (trzynaście middot — miar miłosierdzia, odmawianych do dziś w liturgii Jom Kippur); Jan mówi wspólnocie znającej tę modlitwę: middot mają teraz twarz. Zestawienie w. 17 nie jest więc antytezą dwóch bogów ani dwóch religii, lecz dwóch etapów jednej wierności — dar Synaju i dar Wcielenia wychodzą z tych samych ust."
+      ],
+      [
+       "Aksjomat niewidzialności i wizje pośredniczące",
+       "„Boga nikt nigdy nie widział\" — to aksjomat Synaju: „nie może człowiek ujrzeć mojego oblicza i pozostać przy życiu\" (Wj 33,20). Zarazem Biblia pełna jest teofanii: Izajasz „widzi\" Pana na tronie (Iz 6,1), Ezechiel ogląda „podobieństwo jakby chwały\" (Ez 1,28), starsi Izraela „widzieli Boga\" na górze (Wj 24,10-11). Judaizm Drugiej Świątyni rozwiązywał to napięcie całą architekturą pośrednictw: widziany bywa anioł Pana, kawod (chwała), Memra (Słowo) — nigdy sama istota. Filon ujmie to po grecku: Bóg sam jest niepoznawalny, poznawalny jest Jego Logos. Jan zna to wszystko — i zaostrza aksjomat do granic (οὐδεὶς πώποτε — nikt nigdy, bez wyjątku dla Mojżesza i Izajasza), by tym mocniej zabrzmiało roszczenie drugiej połowy wersetu: jest Ktoś, kto nie „widział\", lecz jest — w łonie Ojca; wizje prorockie były zapowiedziami, egzegeza Syna jest z wnętrza. To, co u Filona było metaforą kosmologiczną, u Jana jest Osobą, która „opowiedziała\" Niewidzialnego w ludzkim życiu."
+      ],
+      [
+       "Κόλπος — obraz uczty i zażyłości",
+       "Κόλπος (łono, pierś, zanadrze) to obraz z semickiego stołu: biesiadnicy spoczywali na lewym boku, a miejsce „u łona\" gospodarza — z głową przy jego piersi — należało do najbliższego: syna, powiernika, umiłowanego ucznia. Tym samym słowem judaizm nazywał miejsce spoczynku sprawiedliwych: „łono Abrahama\" (por. Łk 16,22-23). Języki biblijne mówią też o „noszeniu na łonie\" jak matka niemowlę (Lb 11,12; Iz 40,11 — pasterz nosi jagnięta na piersi): κόλπος łączy bliskość stołu, czułość rodzica i powiernictwo przyjaciela. Ὁ ὢν εἰς τὸν κόλπον — dosłownie „będący ku łonu\": przyimek εἰς z biernikiem (ruch „ku\") zamiast spoczynkowego ἐν (w) niesie odcień dynamiczny, ten sam co πρὸς τὸν θεόν w w. 1 — Syn nie tyle „leży\" w łonie Ojca, ile wiecznie ku Niemu ciąży. Gramatyka znowu wyprzedza teologię: pochodzenie bez oddzielenia, bliskość, która jest relacją, nie miejscem."
+      ],
+      [
+       "Polemika i tożsamość wspólnoty",
+       "Trzy ostrza polemiczne krzyżują się w czterech wersetach. Pierwsze — znane z w. 6–8: wobec kręgów przeceniających Chrzciciela ewangelista każe samemu Janowi wołać o swoim drugim miejscu (w. 15). Drugie — wobec synagogi po rozejściu dróg (birkat ha-minim, koniec I w.): na zarzut, że wspólnota Janowa zdradziła Torę, w. 17 odpowiada precyzyjnie — nie porzuciliśmy daru Mojżesza, przyjęliśmy Tego, ku któremu dar prowadził; Prawo i łaska stoją w jednym zdaniu, po tej samej stronie, obie od Boga. Trzecie — wobec rodzącej się gnozy: πλήρωμα (pełnia), które u walentynian stanie się nazwą zamkniętego świata eonów dostępnego wybranym, u Jana jest źródłem otwartym dla „nas wszystkich\"; a poznanie Boga nie przychodzi przez wtajemniczenie w hierarchie bytów pośrednich, lecz przez jednego Jednorodzonego, który stał się ciałem. Wspólnota, która te zdania śpiewała, wiedziała, kim jest: ludem czerpiącym z pełni, dziedzicem Synaju i domownikiem Syna."
+      ]
+     ]
     },
     {
      "type": "teologia",
      "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
-     "body": "**1. Pełnia jako źródło.** Tomasz rozróżnia pełnię *intensywną* (łaska Chrystusa co do istoty) i pełnię *sprawczą* (łaska głowy — *gratia capitis* — z której czerpią członki): w. 16 mówi o tej drugiej. Czerpanie z pełni nie umniejsza źródła, jak wiedza nauczyciela nie ubywa przez nauczanie — uczestnictwo (*participatio*) nie jest podziałem.\n\n**2. Prawo i łaska.** Po tomistycznie w. 17 to nie opozycja, lecz porządek: Prawo poucza, czego unikać, ale nie daje sił (*lex vetus ostendit peccatum, non tollit* — Prawo stare pokazuje grzech, lecz go nie gładzi); łaska jest nowym Prawem wpisanym w serce — *lex nova est ipsa gratia Spiritus Sancti* (nowym Prawem jest sama łaska Ducha Świętego). Stąd ciągłość bez zrównania.\n\n**3. Poznanie Boga.** „Boga nikt nigdy nie widział\" — Tomasz doda: w tym życiu; wizja istoty Bożej (*visio essentiae*) przekracza siły natury, a jednak jest celem człowieka. W. 18 wskazuje jedyną drogę: Syn opowiada Ojca — objawienie nie zastępuje wizji, lecz ją zapowiada i do niej prowadzi; wiara jest zaczątkiem widzenia (*fides est inchoatio visionis*).",
-     "children": []
+     "body": "Św. Tomasz komentuje w. 15–18 w Super Ioannem (cap. I, lect. 9–11); poniższe obserwacje idą jego tropem — od pełni łaski przez relację Prawa i łaski po granice widzenia Boga.",
+     "children": [
+      [
+       "1. Pełnia jako źródło (gratia capitis)",
+       "Tomasz rozróżnia pełnię intensywną (łaska Chrystusa co do istoty: najwyższy stopień, w jakim natura stworzona może być podniesiona) i pełnię sprawczą, „łaskę głowy\" (gratia capitis) — tę, z której czerpią członki Ciała: w. 16 mówi o tej drugiej. Czerpanie z pełni nie umniejsza źródła, jak wiedza nauczyciela nie ubywa przez nauczanie: uczestnictwo (participatio) nie jest podziałem substancji, lecz udzielaniem formy. Stąd „łaska za łaską\" ma u Tomasza wykład dynamiczny: każda łaska otrzymana jest dyspozycją do następnej — łaska uczynkowa prowadzi do wzrostu łaski uświęcającej, ta do łaski wytrwania, ta do chwały, która jest łaską doskonałą (gratia consummata). Życie chrześcijańskie nie jest jednorazową wypłatą, lecz przepływem: im więcej naczynie przyjmuje, tym bardziej się rozszerza."
+      ],
+      [
+       "2. Prawo i łaska: pedagogia i uzdrowienie",
+       "W. 17 po tomistycznie to nie opozycja, lecz porządek pedagogiczny. Prawo stare pokazuje grzech, lecz go nie gładzi (lex vetus ostendit peccatum, non tollit): poucza, czego unikać, ale nie daje sił — jak lekarz, który postawił diagnozę, a nie ma jeszcze lekarstwa. Nowym Prawem zaś jest sama łaska Ducha Świętego (lex nova est ipsa gratia Spiritus Sancti, S. Th. I-II, q. 106): nie nowy kodeks, lecz nowa moc — prawo już nie zapisane na tablicach naprzeciw człowieka, ale wlane w serce jako skłonność miłości. Dlatego czasowniki w. 17 są tak precyzyjne: Prawo „zostało dane\" (jak rzecz z rąk do rąk), łaska „stała się\" (jak wydarzenie osobowe). Ciągłość bez zrównania: ten sam Bóg, ta sama droga, ale najpierw prowadził za rękę pisemną wskazówką, teraz prowadzi od środka — własnym Duchem."
+      ],
+      [
+       "3. Visio Dei: czego «nikt nigdy nie widział»",
+       "„Boga nikt nigdy nie widział\" — Tomasz dopowiada: w tym życiu i siłami natury. Wizja istoty Bożej (visio essentiae) przekracza wszelką moc stworzonego intelektu; możliwa będzie tylko przez światło chwały (lumen gloriae), którym Bóg sam podniesie umysł błogosławionych. A jednak właśnie ona jest celem człowieka: naturalne pragnienie widzenia Przyczyny nie może być daremne. W. 18 wskazuje jedyną drogę między niemożliwością a przeznaczeniem: Syn — jedyny comprehensor, który widzi istotę Ojca z natury — „opowiada\" ją pielgrzymom (viatores) w języku, który mogą unieść. Objawienie nie zastępuje wizji, lecz ją zapowiada i do niej prowadzi; wiara jest zaczątkiem widzenia (fides est inchoatio visionis). Stąd teologiczna reguła pokory: wszelka nasza mowa o Bogu jest prawdziwa o tyle, o ile trzyma się wykładu Jednorodzonego."
+      ],
+      [
+       "4. Processio i missio: zrodzenie a wykład",
+       "Dlaczego właśnie Słowo może „wyegzegezować\" Ojca? Tomasz odpowiada z teologii trynitarnej: misje widzialne Osób Boskich (missiones) są przedłużeniem ich odwiecznych pochodzeń (processiones). Syn jest wiecznym Słowem — samowypowiedzią Ojca do wewnątrz; Wcielenie jest tą samą wypowiedzią skierowaną na zewnątrz, w historię. Nie ma więc dwóch „treści\": tego, kim Syn jest u Ojca, i tego, co mówi ludziom — ἐξηγήσατο (opowiedział) jest jawnością ὢν εἰς τὸν κόλπον (bycia w łonie). Dlatego objawienie chrześcijańskie jest niereformowalne i nieprześcignione: nie dlatego, że zakazano dalszych pytań, lecz dlatego, że Bóg nie ma nic „więcej\" do powiedzenia ponad Słowo, którym wypowiada samego siebie. Każdy postęp teologii jest wchodzeniem w głąb tego jednego Wykładu, nie jego uzupełnianiem."
+      ]
+     ]
     },
     {
      "type": "autor_ludzki",
      "title": "IV. Autor ludzki: kim jest i co chce przekazać",
-     "body": "Ewangelista wykonuje tu ruch redaktorski o dużej samoświadomości: wplata głos Chrzciciela (w. 15) w sam środek hymnu i przechodzi z „on\" na „my\" (w. 16) — świadectwo jednostki staje się wyznaniem wspólnoty, a wspólnota wciąga czytelnika. Zamknięcie na ἐξηγήσατο (opowiedział) jest programowe: cała księga, która teraz nastąpi, będzie tym opowiadaniem — od Kany po pusty grób. Prolog okazuje się spisem treści napisanym językiem hymnu.",
+     "body": "Ewangelista wykonuje tu ruch redaktorski o dużej samoświadomości: wplata głos Chrzciciela (w. 15) w sam środek hymnu i przechodzi z „on\" na „my\" (w. 16) — świadectwo jednostki staje się wyznaniem wspólnoty, a wspólnota wciąga czytelnika. Składnia w. 18 jest zbudowana jak procesja: najpierw uroczysta teza o niewidzialności, potem długi podmiot z trzema określeniami (Jednorodzony — Bóg — będący w łonie Ojca), a na końcu, emfatycznie, zaimek ἐκεῖνος (On, ten właśnie) i jedno słowo orzeczenia: opowiedział. Czytelnik ma usłyszeć, że wszystko, co między w. 1 a 18 zostało powiedziane, zbiega się w tym jednym czasowniku. Zamknięcie na ἐξηγήσατο (opowiedział) jest programowe: cała księga, która teraz nastąpi, będzie tym opowiadaniem — od Kany po pusty grób; Prolog okazuje się spisem treści napisanym językiem hymnu. Jest w tym także osobista sygnatura: autor, który wedle tradycji sam spoczywał na piersi Jezusa (J 13,23), kończy Prolog obrazem Syna w łonie Ojca — jakby mówił: wiem, skąd płynie ten wykład, bo słuchałem go z bliska; moja księga jest echem tamtej bliskości.",
      "children": []
     },
     {
      "type": "autor_bozy",
      "title": "V. Autor Boży: co Duch Święty chce przekazać",
-     "body": "Duch Święty domyka objawienie trynitarne Prologu: w. 18 odsłania, że wieczne πρὸς τὸν θεόν (ku Bogu) z w. 1 jest relacją synowską — łonem Ojca. Zarazem ustanawia zasadę wszelkiej teologii: o Bogu prawdziwie mówi tylko to, co opowiedział Jednorodzony; każda inna mowa o Bogu jest domysłem albo echem. Sens dla czytelnika: nie musisz zdobywać Niewidzialnego — masz Jego egzegezę; przyjmij wykład, a Wykładający wprowadzi cię tam, skąd mówi.",
+     "body": "Duch Święty domyka objawienie trynitarne Prologu: w. 18 odsłania, że wieczne πρὸς τὸν θεόν (ku Bogu) z w. 1 jest relacją synowską — łonem Ojca. Zarazem ustanawia zasadę wszelkiej teologii: o Bogu prawdziwie mówi tylko to, co opowiedział Jednorodzony; każda inna mowa o Bogu jest domysłem albo echem. Jest i lekcja o samym sposobie mówienia Ducha: w. 16 przechodzi na „my\" — Duch nie objawia prawd do prywatnego posiadania, lecz tworzy wspólnotę wyznającą; kto naprawdę otrzymał „z pełni\", mówi odtąd w liczbie mnogiej Kościoła. „Łaska za łaską\" jest zaś rytmem, w którym Duch prowadzi każde życie wewnętrzne: nie pozwala zatrzymać się przy darze wczorajszym, bo dar wczorajszy był po to, by otworzyć ręce na dzisiejszy — ekonomia zbawienia nie zna próżni ani emerytury. Sens dla czytelnika: nie musisz zdobywać Niewidzialnego — masz Jego egzegezę; przyjmij wykład, a Wykładający wprowadzi cię tam, skąd mówi.",
      "children": []
     },
     {
      "type": "odniesienia",
      "title": "VI. Sieć odniesień biblijnych",
-     "body": "**Wj 33,18–23; 34,6 → w. 17–18.** Mojżesz prosił o widzenie chwały i usłyszał imię „bogaty w łaskę i wierność\" — nie widząc oblicza. Prolog dopowiada obie połowy: łaska i prawda *stały się*, a Niewidzialnego *opowiedział* Ten, który Go widzi odwiecznie.\n\n**Kol 1,19; 2,9 → w. 16.** Pawłowe „w Nim mieszka cała pełnia\" — niezależne poświadczenie tej samej wiary w πλήρωμα (pełnię) Chrystusa.\n\n**Wj 3,14 (LXX) → w. 18.** Ὁ ὤν (Będący) — participium z imienia Bożego powraca w opisie Syna „będącego w łonie Ojca\".\n\n**J 13,23 → w. 18.** Κόλπος (łono): jedyne dwa użycia w Ewangelii wiążą Syna z Ojcem i ucznia z Jezusem — łańcuch przekazu objawienia.\n\n**Mt 11,27 → w. 18.** „Nikt nie zna Ojca, tylko Syn i ten, komu Syn zechce objawić\" — synoptyczna paralela Janowego roszczenia wyłączności.",
-     "children": []
+     "body": "",
+     "children": [
+      [
+       "Wj 33,18–23; 34,6 → w. 17–18",
+       "Najgęstszy węzeł, przejęty z w. 14 i doprowadzony do końca. Mojżesz prosił o widzenie chwały i usłyszał imię „bogaty w łaskę i wierność\" — nie widząc oblicza. Dopełnienie Prologu rozpisuje obie połowy tej sceny: łaska i prawda „stały się\" (w. 17 — imię Boże weszło w historię), a Niewidzialnego „opowiedział\" Ten, który Go widzi odwiecznie (w. 18 — prośba Mojżesza spełniona ponad miarę prośby). Synaj nie zostaje odwołany, lecz prześcignięty: tam imię przechodziło obok ukrytego w rozpadlinie skały; tu Imię zamieszkało w ciele i dało się oglądać."
+      ],
+      [
+       "Wj 3,14 (LXX) → w. 18",
+       "Ὁ ὤν (Będący) — Septuaginta oddaje tak imię objawione w krzaku gorejącym: ἐγώ εἰμι ὁ ὤν (Jestem, Który Jestem). Participium wraca w opisie Syna „będącego w łonie Ojca\": gramatyczny sygnał, że Ten, który opowiada Boga, sam nosi Jego imię. Czwarta Ewangelia rozwinie to w serię wypowiedzi ἐγώ εἰμι (Ja Jestem — 8,24.28.58; 18,5-6), które są dokładnie tym: imieniem z Wj 3 na ustach Jezusa."
+      ],
+      [
+       "Kol 1,19; 2,9 → w. 16",
+       "„W Nim spodobało się zamieszkać całej pełni\" i „w Nim mieszka cała pełnia bóstwa cieleśnie\" — Pawłowe poświadczenie tej samej wiary w πλήρωμα Chrystusa, niezależne literacko od Jana. Zbieżność terminu w dwóch tradycjach wskazuje, że słowo należało do wspólnego języka wczesnochrześcijańskiego wyznania, zanim przejęła je gnoza — i że odpowiedź Kościoła na gnozę była starsza niż sama gnoza."
+      ],
+      [
+       "J 13,23 → w. 18",
+       "Κόλπος (łono): jedyne dwa użycia w Ewangelii wiążą Syna z Ojcem i ucznia z Jezusem — uczeń, którego Jezus miłował, spoczywał „na łonie Jezusa\" dokładnie tak, jak Syn jest „w łonie Ojca\". Łańcuch przekazu objawienia jest zamierzony: z łona Ojca — przez pierś Syna — do księgi świadka — do czytelnika. Egzegeza ma rodowód: nie jest teorią o Bogu, lecz podawaną z piersi na pierś zażyłością."
+      ],
+      [
+       "Mt 11,27 → w. 18",
+       "„Nikt nie zna Syna, tylko Ojciec, i nikt nie zna Ojca, tylko Syn i ten, komu Syn zechce objawić\" — logion z tradycji synoptycznej (nazywany „janowym meteorytem\", bo brzmi jak zdanie czwartej Ewangelii w środku Mateusza). Dowodzi, że wyłączność poznania między Ojcem a Synem nie jest późną konstrukcją Janową, lecz należy do najstarszej warstwy przekazu o samoświadomości Jezusa."
+      ],
+      [
+       "Rz 5,20–21 → w. 16–17",
+       "„Gdzie wzmógł się grzech, tam jeszcze obficiej rozlała się łaska\" (ὑπερεπερίσσευσεν — przeobfitowała): Pawłowa teologia nadmiaru jest bliźniaczą siostrą Janowego „łaska za łaską\". Obaj świadkowie, niezależnie, opisują ekonomię Bożą tym samym gestem: nie wyrównanie strat, lecz przewyższenie; nie powrót do stanu sprzed upadku, lecz więcej, niż było na początku."
+      ],
+      [
+       "J 6,46; 1 J 4,12.20 → w. 18",
+       "Autokomentarze środowiska Janowego. Ewangelia powtórzy aksjomat ustami Jezusa: „nie żeby ktokolwiek widział Ojca — tylko Ten, który jest od Boga, On widział Ojca\" (6,46). List zaś wykona zwrot zdumiewający: „Boga nikt nigdy nie oglądał — jeżeli miłujemy się wzajemnie, Bóg w nas mieszka\" (1 J 4,12). Ta sama pierwsza połowa zdania, inna druga: w Ewangelii Niewidzialnego opowiada Jednorodzony, w Liście — wspólnota miłujących. To nie konkurencja, lecz konsekwencja: skoro Syn wyegzegezował Ojca miłością aż do końca, dalszym ciągiem egzegezy jest miłość braterska; Kościół miłujący jest żywym przypisem do w. 18."
+      ]
+     ]
     },
     {
      "type": "recepcja",
      "title": "VII. Znaczenie w historii i liturgii Kościoła",
-     "body": "W sporach IV wieku w. 18 był tekstem rozstrzygającym po obu stronach — dlatego historia jego lekcji (μονογενὴς θεός / ὁ μονογενὴς υἱός) jest sama kartą historii dogmatu; formuła nicejska „Bóg z Boga\" brzmi jak jego parafraza. Liturgicznie w. 15–18 żyją w pełnej formie Ewangelii Bożego Narodzenia: Msza w dzień dopuszcza J 1,1–18, a II Niedziela po Narodzeniu Pańskim czyta cały Prolog z w. 18 jako puentą. Χάριν ἀντὶ χάριτος (łaska za łaską) weszło do języka duchowości jako opis życia sakramentalnego — nieustannej wymiany darów.",
-     "children": []
+     "body": "",
+     "children": [
+      [
+       "Historia dogmatu",
+       "W sporach IV wieku w. 18 był tekstem rozstrzygającym po obu stronach — i dlatego historia jego lekcji (μονογενὴς θεός / ὁ μονογενὴς υἱός) jest sama kartą historii dogmatu: arianie chętnie czytali „Syn\", by odsunąć bóstwo; obrońcy Nicei — z Hilarym, Bazylim i Grzegorzem z Nyssy — trzymali się „Jednorodzonego Boga\", widząc w nim samą tezę sporu zapisaną ręką ewangelisty. Formuła nicejska „Bóg z Boga, światłość ze światłości\" brzmi jak parafraza w. 18 czytanego razem z w. 1. Późniejsza teologia uczyniła z w. 17 klasyczne miejsce nauki o relacji Przymierzy (łaska nie niszczy Prawa, lecz je wypełnia), a z w. 18 — fundament teologii objawienia: konstytucja Dei Verbum (nr 2 i 4) opisuje Chrystusa jako „zarazem pośrednika i pełnię całego objawienia\", co jest soborowym przekładem słowa ἐξηγήσατο."
+      ],
+      [
+       "Liturgia",
+       "Liturgicznie w. 15–18 żyją w pełnej formie Ewangelii Bożego Narodzenia: Msza w dzień dopuszcza J 1,1–18, a II Niedziela po Narodzeniu Pańskim czyta cały Prolog z w. 18 jako puentą. Wschód dorzuca szczegół wymowny: paschalna Ewangelia liturgii bizantyjskiej (J 1,1–17) kończy się dokładnie na wersecie o łasce i prawdzie — zmartwychwstały Chrystus jest ogłaszany jako spełnienie Synaju. Χάριν ἀντὶ χάριτος (łaska za łaską) weszło do języka duchowości jako opis życia sakramentalnego — nieustannej wymiany darów, w której każda Komunia jest łaską przyjmowaną „w miejsce\" poprzedniej i „ku\" następnej; a w. 18 stał się cichym mottem teologii mistycznej: cel modlitwy kontemplacyjnej opisywano jako dopuszczenie do tego, co Syn widzi w łonie Ojca."
+      ]
+     ]
     },
     {
      "type": "patrystyka",
      "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
-     "body": "Katena do dopełnienia Prologu — trzy głosy o pełni, łasce i łonie Ojca.",
+     "body": "Katena do dopełnienia Prologu — sześć głosów: o wołaniu, które nie zamilkło, o pełni i wymianie łask, o łonie Ojca i granicach widzenia. Chryzostom prowadzi wykład grecki (Hom. 13–15), Augustyn i Hilary łaciński, Cyryl domyka aleksandryjską precyzją.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: dopełnienie Prologu ogłasza, że Bóg, którego nikt nigdy nie widział, nie pozostał nieopowiedziany — Jednorodzony Bóg, wiecznie zwrócony ku łonu Ojca, stał się Jego egzegezą; że z Jego pełni płynie nieprzerwana wymiana darów, w której każda łaska jest progiem następnej; i że dar Synaju nie został odwołany, lecz prześcigniony — Prawo dane przez sługę wypełniło się w łasce i prawdzie, które przyszły osobiście. Hymn, który zaczął się od bezimiennego Słowa, kończy się imieniem Jezusa Chrystusa: metafizyka znalazła twarz, a czytelnik — nauczyciela. Odtąd wszystko, co w tej księdze nastąpi, będzie jednym długim ἐξηγήσατο: opowiadaniem Ojca życiem Syna.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — św. Jan Chryzostom (Hom. in Io. 13–15), św. Augustyn (Tract. in Io. 3), św. Cyryl Aleksandryjski (In Io., ks. I) i św. Tomasz (Super Ioannem, cap. I, lect. 9–11).*",
      "children": []
     }
    ],
@@ -982,6 +1094,45 @@
      "J 21,25",
      "por",
      "niewyczerpalność: świat nie pomieściłby ksiąg"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Rz",
+     5,
+     20,
+     5,
+     21,
+     "Rz 5,20–21",
+     "paralela",
+     "gdzie wzmógł się grzech, przeobficiej rozlała się łaska — Pawłowa teologia nadmiaru obok χάριν ἀντὶ χάριτος"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     6,
+     46,
+     6,
+     46,
+     "J 6,46",
+     "rozwiniecie",
+     "nikt nie widział Ojca — tylko Ten, który jest od Boga: aksjomat w. 18 ustami Jezusa"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 J",
+     4,
+     12,
+     4,
+     12,
+     "1 J 4,12",
+     "rozwiniecie",
+     "Boga nikt nigdy nie oglądał — jeśli się miłujemy, Bóg w nas mieszka: egzegeza Ojca kontynuowana w miłości braterskiej"
     ]
    ],
    "patristic": [
@@ -1005,6 +1156,27 @@
      "Commentarii in Ioannem",
      "In Io., ks. I",
      "Κόλπος (łono) czyta Cyryl ontologicznie: być w łonie Ojca to być z Jego istoty — obraz mówi o współistotności, nie o miejscu. Dlatego tylko Ten może „opowiedzieć\" Boga: egzegeta Ojca musi być tym, co wykłada; stworzenie opowiadałoby ze słyszenia, Syn opowiada z widzenia — a raczej z bycia. Objawienie chrześcijańskie nie jest raportem o Bogu, lecz samoudzieleniem się Boga w Tym, który z Jego łona nigdy nie wyszedł, choć do nas przyszedł."
+    ],
+    [
+     "w. 15",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 13",
+     "Perfectum κέκραγεν (zawołał — i wołanie trwa) Chryzostom bierze dosłownie: Jan woła do dziś, bo świadectwo złożone raz w prawdzie nie przemija z głosem świadka. Herold idzie przed orszakiem i woła — lecz ten herold woła o Kimś, kto idzie za nim, a jest przed nim: kaznodzieja każe słuchaczom smakować ten paradoks, aż zmieni im miarę wielkości. W świecie pierwszeństwo daje metryka, urząd albo siła; w Ewangelii — wieczność. Kto pojął, że „pierwszy\" znaczy tu „był, zanim się stałem\", ten już nie będzie się ścigał o miejsca: wie, że jedyne pierwszeństwo warte zabiegów to być blisko Tego, który był pierwej niż wszystko."
+    ],
+    [
+     "w. 18",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 15",
+     "A widzenia proroków? Chryzostom odpowiada rozróżnieniem, które stanie się klasyczne: prorocy widzieli nie samą istotę, lecz zniżenie się Boga do ich miary (συγκατάβασις — synkatabasis); dlatego każdy widział inaczej — Izajasz na tronie, Ezechiel na rydwanie, Daniel jako Starowiecznego — bo nie samą naturę oglądali, która jest jedna i niezłożona, lecz przystosowane obrazy. Syn zaś nie ogląda „obrazu\": zna Ojca tak, jak Ojciec zna Jego — wiedzą natury, nie łaski. Stąd pewność Ewangelii: nie jest jeszcze jednym widzeniem, po którym przyjdą następne — jest wykładem Tego, który nie potrzebuje widzień, bo jest w łonie."
+    ],
+    [
+     "w. 18",
+     "św. Hilary z Poitiers",
+     "De Trinitate",
+     "De Trin. VI",
+     "Hilary — łaciński obrońca Nicei — wraca do w. 18 wielokrotnie i czyta go jako całą teologię w jednym wersecie: unigenitus Deus (Jednorodzony Bóg) to dla niego lekcja rozstrzygająca, bo łączy w dwóch słowach to, co herezja zawsze rozrywa — zrodzenie (a więc odrębność od Ojca) i bóstwo (a więc jedność natury). „W łonie Ojca\" znaczy: narodzony doskonale, nie oddzielony wcale; narodziny, które nie wyprowadzają na zewnątrz. A ἐξηγήσατο jest dla Hilarego osobiste: sam przecież wyznał, że Prolog nauczył go o Bogu więcej, niż śmiała obiecać filozofia — Syn opowiada Ojca nie tak, jak książka opowiada temat, lecz tak, jak światło opowiada źródło: będąc z niego."
     ]
    ],
    "liturgy": [
@@ -1022,6 +1194,13 @@
      "wariant lekcji",
      "μονογενὴς θεός: P66, P75, ℵ, B (aleksandryjskie, najstarsze); ὁ μονογενὴς υἱός: A, tradycja bizantyjska, Wulgata i przekłady zależne.",
      "NA28 przyjmuje μονογενὴς θεός jako lekcję najlepiej poświadczoną i trudniejszą; domyka ona inkluzję z w. 1c (θεὸς ἦν ὁ λόγος)."
+    ],
+    [
+     16,
+     "ὅτι ἐκ τοῦ πληρώματος",
+     "wariant lekcji",
+     "ὅτι (bo) na początku w. 16: P66, P75, ℵ, B, C*, 33 (świadkowie aleksandryjscy). Tradycja bizantyjska i część przekładów: καί (i) — „i z Jego pełni…\" (tak Wulgata: et de plenitudine).",
+     "NA28 przyjmuje ὅτι — lekcję starszą i trudniejszą, która czyni z w. 15–18 łańcuch uzasadnień (świadectwo → bo z pełni → bo Prawo/łaska → bo Jednorodzony opowiedział). Lekcja καί wygładza składnię, gubiąc architekturę argumentu."
     ]
    ],
    "theme_links": [
@@ -1038,8 +1217,62 @@
       "block",
       "w. 18"
      ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 15"
+     ]
+    ],
+    [
+     "tytuły chrystologiczne J 1",
+     [
+      "block",
+      "w. 18"
+     ]
+    ],
+    [
+     "chiazm Prologu",
+     [
+      "pericope"
+     ]
     ]
-   ]
+   ],
+   "struktura": "Wersety 15–18 są zwornikiem Prologu: drugie prozatorskie wtrącenie o Chrzcicielu (w. 15, para do w. 6–8) wpięte w ostatnią strofę hymnu (w. 16–18). Kompozycja jest łańcuchowa — trzy kolejne zdania podwieszono na spójnikach uzasadniających: ὅτι (bo) w w. 16 tłumaczy w. 15 (pierwszeństwo Przychodzącego poznaje się po tym, że z Jego pełni czerpiemy wszyscy), ὅτι w w. 17 tłumaczy w. 16 (czym jest „łaska za łaską\" — zmianą ekonomii daru), a w. 18 dopowiada rację ostatnią: dar jest wykładem samego Boga przez Tego, który Go widzi odwiecznie. Zarazem domyka się wielka inkluzja całego Prologu: otwierało go θεὸς ἦν ὁ λόγος (Bogiem było Słowo, w. 1c), zamyka μονογενὴς θεός (Jednorodzony Bóg, w. 18) — czternaście wersetów objętych bóstwem Słowa jak nawiasem. Wewnątrz tej klamry dokonuje się zmiana osoby gramatycznej, która jest małą historią zbawienia: hymn mówił o „nim\" (w. 1–13), od w. 14 mówi „my\" (ἐθεασάμεθα — oglądaliśmy; ἡμεῖς πάντες ἐλάβομεν — myśmy wszyscy otrzymali), a w w. 15 pojedynczy świadek woła w czasie teraźniejszym. Trójgłos hymnu, świadka i wspólnoty to partytura całej czwartej Ewangelii: objawienie — świadectwo — wyznanie.",
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. I, lect. 9–11",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład w. 15–18: pełnia łaski Chrystusa, relacja Prawa i łaski, sposoby widzenia Boga i wyłączność „wykładu\" Syna.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Zestawienie argumentów za lekturą χάριν ἀντὶ χάριτος jako „łaska w miejsce łaski\" oraz za synajskim tłem pary χάρις–ἀλήθεια (chesed we'emet).",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "R. Schnackenburg",
+     "Das Johannesevangelium I, ekskursy do Prologu",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Analiza warstw hymnu i wstawek prozatorskich; historia religii pojęcia πλήρωμα przed gnozą.",
+     "Das Johannesevangelium"
+    ]
+   ],
+   "revision_note": "Dopełnienie Prologu (J 1,15–18) doprowadzone do pełnej egzegezy: struktura, nowe jednostki analizy, rozbudowa sekcji II–VII, katena rozszerzona do sześciu głosów, aparat (w. 16), cytowania i zakończenie; status: ukończona"
   },
   {
    "pericope": {
@@ -1049,7 +1282,7 @@
     "ve": 28,
     "title": "Świadectwo Jana Chrzciciela",
     "motto": "Vox clamantis in deserto (Głos wołającego na pustyni)",
-    "status": "w_opracowaniu",
+    "status": "ukonczona",
     "position": 3
    },
    "intro": "Kończy się hymn, zaczyna narracja — i to od razu językiem procesu: oficjalna delegacja, przesłuchanie, protokół pytań i odpowiedzi. Wielki proces o tożsamość Jezusa otwiera przesłuchanie świadka.",
@@ -1072,6 +1305,11 @@
        "Ἠλίας / ὁ προφήτης",
        "Eliasz / Prorok",
        "Katalog oczekiwań mesjańskich epoki w trzech pytaniach. Eliasz — wzięty do nieba, miał wrócić przed dniem Pańskim (Ml 3,23); Jan zaprzecza, choć synoptycy widzą w nim Eliasza „w duchu i mocy\" — nie jest Eliaszem redivivus (powróconym osobiście), jest Eliaszem typologicznie. Ὁ προφήτης (Prorok — z rodzajnikiem): obiecany w Pwt 18,15 prorok „jak Mojżesz\" (ha-nawi), którego wyglądano osobno obok Mesjasza (por. reguły z Qumran wymieniające proroka i dwóch pomazańców). Jan odsuwa od siebie wszystkie trzy szaty — by wszystkie trzy mogły spocząć na Tym, który nadchodzi."
+      ],
+      [
+       "οἱ Ἰουδαῖοι",
+       "Żydzi (w Janowym sensie)",
+       "Termin, który w czwartej Ewangelii pada blisko siedemdziesiąt razy i wymaga precyzji większej niż gdziekolwiek indziej. Οἱ Ἰουδαῖοι nie oznacza u Jana ludu jako całości — ewangelista, sam Żyd, piszący o Jezusie-Żydzie i uczniach-Żydach, każe Jezusowi powiedzieć Samarytance, że „zbawienie jest od Żydów\" (J 4,22). W kontekstach polemicznych słowo to jest skrótem na jerozolimski establishment religijny — tych, którzy dysponują władzą pytania i wykluczania (jak tu: wysyłają delegację z urzędu). Na ten techniczny sens nałożyła się gorycz sytuacji wspólnoty Janowej po rozejściu z synagogą — i dlatego termin wymaga dziś czujności: czytany bez kontekstu bywał paliwem antyjudaizmu, którego tekst nie zamierzał. Reguła lektury: gdzie Jan pisze „Żydzi\", tam egzegeta winien słyszeć „ci z władzy religijnej, którzy odmówili świadectwu wiary\" — kategoria teologiczna, nie etniczna; w scenie przesłuchania zresztą delegaci pytają rzeczowo i uczciwie."
       ]
      ]
     },
@@ -1088,6 +1326,11 @@
        "φωνή",
        "głos",
        "Zapytany wprost, Jan definiuje się jednym rzeczownikiem bez rodzajnika: φωνή (głos) — cytatem z Iz 40,3. Zestawienie z Prologiem jest zamierzone i olśniewające: Jezus jest λόγος (Słowem), Jan — φωνή (głosem). Głos poprzedza słowo w uszach, choć słowo poprzedza głos w sercu; głos przebrzmiewa, gdy słowo zostało przekazane. Cała teologia przepowiadania mieści się w tej parze: każdy głoszący jest głosem cudzego Słowa. U Iz 40,3 głos woła: „przygotujcie drogę Pana\" — Jan stosuje do Jezusa tekst mówiący o JHWH; najcichsza, a najdalej idąca chrystologia tej sceny."
+      ],
+      [
+       "εὐθύνατε τὴν ὁδὸν κυρίου",
+       "prostujcie drogę Pana",
+       "Cytat z Iz 40,3 w brzmieniu własnym Jana: Septuaginta ma dwa człony („przygotujcie drogę Pana, prostymi czyńcie ścieżki Boga naszego\"), czwarta Ewangelia ściąga je w jeden rozkaz — εὐθύνατε (prostujcie). Obraz pochodzi z ceremoniału królewskiego: przed wizytą władcy prostowano i wyrównywano drogi; u Izajasza tak przygotowuje się na pustyni trakt dla JHWH wracającego z wygnańcami z Babilonu. Kluczowe jest słowo κύριος (Pan): w tekście prorockim stoi tetragram — imię Boże; Chrzciciel, czyniąc z tego wersetu swoją wizytówkę, mówi więc coś zawrotnego: Ten, któremu prostuję drogę, jest Panem w sensie, w jakim Izajasz mówił o Bogu Izraela. To najcichsza, a najdalej idąca chrystologia całej sceny — wypowiedziana nie tezą, lecz doborem cytatu; adresaci pytania usłyszeli pokorną wymówkę, czytelnik Prologu słyszy wyznanie bóstwa."
       ]
      ]
     },
@@ -1109,6 +1352,11 @@
        "λύσω αὐτοῦ τὸν ἱμάντα",
        "rozwiązać rzemień Jego sandała",
        "Rozwiązywanie sandałów to w ówczesnym obyczaju czynność tak niska, że — wedle późniejszej sentencji rabinackiej — uczeń winien mistrzowi wszystko, co niewolnik panu, *oprócz* rozwiązania sandała. Jan schodzi więc poniżej progu niewolnika: nie jestem godzien tego, czego nie wolno wymagać od nikogo. Możliwe drugie dno: zdjęcie sandała należy do prawa lewiratu (Pwt 25,9; Rt 4,7) — gestu ustąpienia prawa bliższemu krewnemu-wykupicielowi (goel); Oblubieniec jest jeden, przyjaciel oblubieńca nie sięga po jego prawo (por. J 3,29)."
+      ],
+      [
+       "ἐγὼ βαπτίζω ἐν ὕδατι",
+       "ja chrzczę w wodzie",
+       "Emfatyczne ἐγώ (ja) otwiera odpowiedź, która jest arcydziełem uniku teologicznego: zapytany o mandat, Jan nie broni się ani nie powołuje na objawienie — mówi tylko, czym jego chrzest jest (wodą), i natychmiast przenosi ciężar na Obecnego. Zdanie jest celowo urwane: każdy znający tradycję (por. Mk 1,8) czeka na drugi człon — „On będzie chrzcił Duchem Świętym\" — ale Jan czwartej Ewangelii zawiesza go i dopowie dopiero w w. 33. Ta retardacja jest zabiegiem mistrza: przesłuchujący odchodzą z połową odpowiedzi, czytelnik zostaje z napięciem, które rozładuje się nazajutrz. Woda pozostaje tym, czym była — znakiem przygotowującym, wielkością wyłącznie służebną: całą swoją treść otrzyma dopiero od Tego, który „stoi pośród was\"."
       ]
      ]
     },
@@ -1133,43 +1381,127 @@
     {
      "type": "kontekst",
      "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
-     "body": "**Delegacja.** Kapłani i lewici z Jerozolimy, dosłani ἐκ τῶν Φαρισαίων (spośród faryzeuszów) — sondaż władzy religijnej wobec ruchu chrzcielnego nad Jordanem; masowe obmycia budziły czujność (por. Józef Flawiusz o Janie: chrzest i tłumy jako powód niepokoju Heroda). **Chrzest Janowy.** Judaizm znał obmycia rytualne (mykwy, codzienne ablucje esseńczyków z Qumran); nowością Jana była jednorazowość i wezwanie całego Izraela do pokuty — gest prorocki, nie rutyna czystości. Pytanie „czemu chrzcisz?\" jest więc pytaniem o mandat eschatologiczny: obmycie całego ludu zapowiadali prorocy na czasy ostateczne (Ez 36,25; Za 13,1). **Trzy postaci oczekiwania.** Mesjasz-król, Eliasz-poprzednik, Prorok-jak-Mojżesz: świadectwo, że mesjanizm epoki był wielopostaciowy; Jan po kolei gasi każdą projekcję, by oczekiwanie nie zatrzymało się na nim.",
-     "children": []
+     "body": "Scena przesłuchania jest gęsta od realiów: instytucji świątynnych, praktyk chrzcielnych i map mesjańskiego oczekiwania — każdy szczegół protokołu ma tło, które pierwszym słuchaczom nie wymagało przypisów.",
+     "children": [
+      [
+       "Delegacja z Jerozolimy",
+       "Kapłani i lewici — personel świątyni: pierwsi do spraw kultu i orzekania o czystości, drudzy m.in. do służby porządkowej; delegacja jest więc fachowa (ruch chrzcielny to kwestia obmyć — ich kompetencja) i urzędowa. Dosłani „spośród faryzeuszów\" (w. 24) dokładają drugi wektor: stronnictwo gorliwych świeckich, dla których nowy ryt pokutny był sprawą doktrynalną. Tradycja rabiniczna zna obowiązek badania roszczeń prorockich — pytania delegacji są dokładnie takim badaniem, prowadzonym rzetelnie i po kolei. Józef Flawiusz (Ant. XVIII 116–119) potwierdza z zewnątrz i samego Jana, i nerwowość władzy wobec niego: Herod Antypas — pisze historyk — uląkł się wpływu człowieka, za którym szły tłumy gotowe na wszystko. Czwarta Ewangelia i Flawiusz, nieświadomi siebie nawzajem, rysują ten sam obraz: nad Jordanem działo się coś, czego żadna władza nie mogła zignorować."
+      ],
+      [
+       "Chrzest Janowy na tle obmyć epoki",
+       "Judaizm epoki był religią wody: mykwy (baseny rytualne, których setki odsłoniła archeologia od Jerozolimy po Galileę), codzienne ablucje esseńczyków, obmycia przed wejściem na dziedziniec świątyni. Na tym tle chrzest Janowy różnił się trzema rysami: był jednorazowy (nie cykliczna higiena rytualna, lecz przełom), był udzielany przez drugiego (nie samozanurzenie — stąd przydomek „Chrzciciel\": czynność wymagała jego rąk) i był adresowany do całego Izraela jako wezwanie pokutne na czas ostateczny. Prorocy zapowiadali właśnie takie obmycie eschatologiczne: „pokropię was czystą wodą i będziecie czyści… i dam wam serce nowe\" (Ez 36,25–26), „w owym dniu wytryśnie źródło na obmycie grzechu\" (Za 13,1). Pytanie „czemu więc chrzcisz?\" jest zatem pytaniem najzupełniej poważnym: kto chrzci cały lud, ten ogłasza, że czasy ostateczne się zaczęły — i musi mieć do tego tytuł."
+      ],
+      [
+       "Trzy figury oczekiwania",
+       "Katalog pytań delegacji to mapa mesjanizmu epoki. Mesjasz (ha-masziach — pomazaniec): oczekiwany król z rodu Dawida. Eliasz: prorok wzięty żywcem do nieba (2 Krl 2,11), miał wrócić „przed nadejściem dnia Pańskiego, dnia wielkiego i strasznego\" (Ml 3,23), by pojednać ojców z synami; spekulacja o jego powrocie była żywa i konkretna (puste krzesło Eliasza przy obrzezaniu, kielich Eliasza w rytuale paschalnym — do dziś). Prorok (z rodzajnikiem: ha-nawi): obiecany w Pwt 18,15.18 „prorok jak Mojżesz\", wyglądany osobno obok Mesjasza — reguła zrzeszenia z Qumran (1QS IX,11) wymienia „proroka oraz pomazańców Aarona i Izraela\" jako trzy odrębne postaci finału dziejów. Jan odsuwa od siebie wszystkie trzy szaty; czytelnik synoptyków wie, że w sensie typologicznym Eliaszem był (Mt 11,14 — „w duchu i mocy Eliasza\", jak precyzuje Łk 1,17), ale Jan odpowiada na pytanie, które mu zadano: nie jest Eliaszem zstępującym osobiście z nieba. Wszystkie trzy figury spoczną na Tym, który nadchodzi — Mesjaszu, większym niż Eliasz, Proroku jak Mojżesz i większym niż Mojżesz."
+      ],
+      [
+       "Betania za Jordanem",
+       "Topografia jak z akt: miejsce czynności na końcu protokołu. Betania „za Jordanem\" (Perea, wschodni brzeg) — inna niż Betania Łazarza pod Jerozolimą; kłopot z jej lokalizacją miał już Orygenes (zob. aparat i katena). Miejsce jest teologicznie nieprzypadkowe podwójnie. Po pierwsze: za Jordanem — czyli tam, skąd Izrael pod wodzą Jozuego wchodził do Ziemi Obiecanej (Joz 3); nowy Jozue (Jezus — to samo hebrajskie imię Jehoszua) zaczyna od brzegu pierwszego wejścia, a lud przechodzący przez wodę ku obietnicy to obraz, który chrzest niesie w sobie do dziś. Po drugie: tradycja wiązała ten odcinek Jordanu z wniebowzięciem Eliasza (2 Krl 2,4–11 — Jerycho naprzeciwko) — pytanie „czy ty jesteś Eliaszem?\" zadano więc człowiekowi stojącemu dokładnie tam, gdzie Eliasza widziano po raz ostatni. Geografia sama jest częścią świadectwa."
+      ]
+     ]
     },
     {
      "type": "teologia",
      "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
-     "body": "**1. Pokora jako prawda.** Tomasz definiuje pokorę nie jako zaniżanie siebie, lecz jako prawdę o sobie wobec Boga; Jan jest jej wzorcem doskonałym — mówi o sobie dokładnie tyle, ile jest: głos, nie Słowo; przyjaciel, nie Oblubieniec. Pokora okazuje się warunkiem poznania: kto zawyża siebie, zasłania sobie Tego, który stoi pośród nas.\n\n**2. Posłannictwo i sakrament.** Chrzest Janowy — mówi Tomasz — przygotowywał, nie sprawiał: był sakramentalium zapowiedzi, nie sakramentem łaski; dyspozycją, nie przyczyną. Rozróżnienie wody i Ducha (w. 26.33) stanie się osią teologii sakramentu: znak bez mocy własnej czeka na Tego, który mocą napełnia znaki.\n\n**3. Świadectwo a poznanie wiary.** Wiara rodzi się ze słyszenia świadka, nie z widzenia dowodu; scena przesłuchania pokazuje strukturę aktu wiary: pytanie o tożsamość, świadectwo, decyzja. Rozum bada świadka (i słusznie — delegacja pyta rzetelnie), lecz ostatni krok jest zawierzeniem osobie.",
-     "children": []
+     "body": "Trzy węzły sceny — pokora, chrzest, świadectwo — są ulubionym materiałem scholastyki; Tomasz poświęca chrztowi Janowemu osobne zagadnienie Summy (III, q. 38).",
+     "children": [
+      [
+       "1. Pokora jako prawda",
+       "Tomasz definiuje pokorę nie jako zaniżanie siebie, lecz jako prawdę o sobie wobec Boga: cnotę, która „powściąga duszę, by nie mierzyła ponad siebie\", nie każąc jej zarazem kłamać w dół. Jan jest jej wzorcem doskonałym — mówi o sobie dokładnie tyle, ile jest: głos, nie Słowo; przyjaciel, nie Oblubieniec; chrzczący wodą, nie Duchem. Zauważmy, że jego przeczenia niczego nie umniejszają: „nie jestem Mesjaszem\" nie jest fałszywą skromnością, lecz zdaniem prawdziwym — i właśnie dlatego zbawiennym. Pokora okazuje się warunkiem poznania: kto zawyża siebie, zasłania sobie Tego, który stoi pośród nas; kto stanął we własnej mierze, temu miara Większego nie miesza się z własną. Scholastyczna maksyma humilitas est veritas (pokora jest prawdą) ma w tej scenie swój biblijny dowód przeprowadzony na żywym człowieku."
+      ],
+      [
+       "2. Chrzest Janowy a sakrament",
+       "Chrzest Janowy — mówi Tomasz (S. Th. III, q. 38) — przygotowywał, nie sprawiał: był sakramentalium zapowiedzi, nie sakramentem łaski; dyspozycją, nie przyczyną. Nie gładził grzechów mocą obrzędu — przyzwyczajał Izrael do gestu, w którym wkrótce zamieszka moc; był, jak mówi Tomasz za Ojcami, „katechumenatem Izraela\". Rozróżnienie wody i Ducha (w. 26.33) stanie się osią teologii sakramentu: znak bez mocy własnej czeka na Tego, który mocą napełnia znaki — a gdy Chrystus w chrzcie Kościoła sam jest Chrzczącym (por. Augustyn w katenie do w. 32–33 następnej perykopy), ta sama woda zaczyna czynić, co oznacza (efficit quod figurat). Teologia zna więc trzy stopnie: obmycia Prawa (oznaczały czystość), chrzest Jana (oznaczał i przygotowywał pokutę), chrzest Chrystusa (oznacza i sprawia odrodzenie) — scena nad Jordanem stoi dokładnie na środkowym stopniu i o nim zeznaje."
+      ],
+      [
+       "3. Świadectwo a poznanie wiary",
+       "Wiara rodzi się ze słyszenia świadka, nie z widzenia dowodu; scena przesłuchania pokazuje strukturę aktu wiary jak w laboratorium: pytanie o tożsamość, świadectwo, decyzja. Rozum ma w tym akcie pracę rzetelną — delegacja pyta metodycznie i słusznie: Tomasz nazwałby to badaniem wiarygodności świadka (motiva credibilitatis), które poprzedza zawierzenie i czyni je rozumnym (rationabile obsequium, por. Rz 12,1). Ale ostatni krok nie jest wnioskiem z przesłanek — jest zawierzeniem osobie; dlatego ta sama scena mogła skończyć się wiarą uczniów (nazajutrz dwaj pójdą za Jezusem) i protokołem bez konsekwencji (delegacja wraca z odpowiedzią do zleceniodawców). Różnica nie leżała w materiale dowodowym — leżała w gotowości serca; niewiara, jak powie Chryzostom, zaczyna się nie od pytań, lecz od niesłuchania odpowiedzi."
+      ],
+      [
+       "4. «Nie jestem» — metafizyka posłania",
+       "Jest w przeczeniach Jana głębia, którą scholastyka umie nazwać: byt posłany jest najbardziej sobą wtedy, gdy jest przezroczysty dla Posyłającego. Stworzenie nie ma istnienia z siebie — jest relacją otrzymywania; grzech polega na udawaniu, że jest inaczej (esse sicut deus — być jak Bóg, na własny rachunek). Jan, mówiąc trzykrotnie „nie jestem\", odwraca dokładnie ten gest Adama: nie przywłaszcza sobie niczego, czym nie jest — i właśnie dlatego jest w pełni tym, czym jest: głosem, w którym słychać Słowo. Tomasz powie, że łaska nie niszczy natury, lecz ją doskonali; scena dopowiada: doskonali ją przez uwolnienie od pozoru. Największy „między narodzonymi z niewiast\" (Mt 11,11) jest największy właśnie mocą swoich przeczeń — miara wielkości w Królestwie jest odwrotnością samopowiększenia."
+      ]
+     ]
     },
     {
      "type": "autor_ludzki",
      "title": "IV. Autor ludzki: kim jest i co chce przekazać",
-     "body": "Ewangelista otwiera narrację formułą „takie jest świadectwo Jana\" — jakby wciągał do akt pierwszy protokół procesu, który będzie się toczył przez całą księgę. Konstrukcja sceny jest prawnicza: pytania oficjalne, odpowiedzi pod przysięgą, ustalenie miejsca (w. 28 jak adnotacja o miejscu czynności). Zarazem trwa polemika środowiskowa znana z w. 6–8: wobec grup ceniących Chrzciciela ponad miarę (Efez, por. Dz 19,1–7) ewangelista oddaje głos samemu Janowi — niech najwyższy autorytet tych grup własnymi ustami wskaże Większego.",
+     "body": "Ewangelista otwiera narrację formułą „takie jest świadectwo Jana\" — jakby wciągał do akt pierwszy protokół procesu, który będzie się toczył przez całą księgę. Konstrukcja sceny jest prawnicza: pytania oficjalne, odpowiedzi pod przysięgą (ὡμολόγησεν — wyznał), ustalenie miejsca czynności (w. 28). Zarazem trwa polemika środowiskowa znana z w. 6–8: wobec grup ceniących Chrzciciela ponad miarę (Efez, por. Dz 19,1–7) ewangelista oddaje głos samemu Janowi — niech najwyższy autorytet tych grup własnymi ustami wskaże Większego. Jest wreszcie rys pamięci osobistej: tradycja widzi w autorze (lub w świadku stojącym za księgą) jednego z uczniów Chrzciciela, którzy nazajutrz odejdą za Jezusem — sceny znad Jordanu są opowiedziane z pozycji kogoś, kto stał w tym tłumie i zapamiętał nie tylko słowa, ale i układ dni. Stąd podwójna perspektywa opowiadania: protokolarna ścisłość świadka i czułość ucznia dla mistrza, którego wielkość polegała na wskazywaniu poza siebie.",
      "children": []
     },
     {
      "type": "autor_bozy",
      "title": "V. Autor Boży: co Duch Święty chce przekazać",
-     "body": "Duch Święty uczy tu gramatyki powołania: każdy posłany jest głosem, nie Słowem; światłem zapalonym, nie Światłością. Kto głosi, staje w miejscu Chrzciciela — i podlega jego regule: „nie jestem\". Zarazem w. 26 niesie obietnicę stałą jak obecność: pośród was stoi Ten, którego nie znacie — zdanie prawdziwe w każdym pokoleniu Kościoła, w każdej liturgii, w każdym ubogim (por. Mt 25). Duch nie pozwala czytelnikowi zostać widzem przesłuchania: pytanie „ty kim jesteś?\" wraca do każdego, kto czyta.",
+     "body": "Duch Święty uczy tu gramatyki powołania: każdy posłany jest głosem, nie Słowem; światłem zapalonym, nie Światłością. Kto głosi, staje w miejscu Chrzciciela — i podlega jego regule: „nie jestem\". Trzy przeczenia Jana są dla Kościoła każdego czasu rachunkiem sumienia z pokus urzędu: pokusy mesjańskiej (być zbawcą ludzi), pokusy Eliaszowej (być rozstrzygającym autorytetem epoki) i pokusy prorockiej (być głosem ostatecznym) — wszystkie trzy leczy jedno zdanie: pośród was stoi Ten, którego nie znacie. To zdanie (w. 26) Duch pozostawił Kościołowi jako słowo stale prawdziwe: w każdej liturgii, w każdym zgromadzeniu, w każdym ubogim (por. Mt 25,35–40) stoi pośród nas Nieznajomy — i całe przepowiadanie jest tylko prostowaniem drogi do rozpoznania Go. Duch nie pozwala też czytelnikowi zostać widzem przesłuchania: pytanie „ty kim jesteś?\" wraca do każdego, kto czyta — a odpowiedź Chrzciciela podpowiada jedyną formę, w której autodefinicja człowieka nie kłamie: określić się przez relację do Tego, który jest.",
      "children": []
     },
     {
      "type": "odniesienia",
      "title": "VI. Sieć odniesień biblijnych",
-     "body": "**Iz 40,3 → w. 23.** Głos wołającego na pustyni — u Izajasza otwiera Księgę Pocieszenia i powrót z wygnania; wszyscy czterej ewangeliści czytają go o Janie, ale tylko czwarta Ewangelia wkłada go w usta samego Jana jako samookreślenie.\n\n**Ml 3,1.23 → w. 21.** Posłaniec przygotowujący drogę i Eliasz posłany przed dniem Pańskim — tło pytania o Eliasza.\n\n**Pwt 18,15.18 → w. 21.25.** Prorok jak Mojżesz (ha-nawi — ów Prorok): trzecia figura oczekiwania; powróci w J 6,14 i 7,40.\n\n**Mk 1,2–8 (par.) → w. 19–28.** Synoptyczna wersja świadectwa: te same elementy (Izajasz, sandały, woda–Duch), inna optyka — Jan czwartej Ewangelii nie chrzci Jezusa na scenie, lecz o Nim zeznaje.\n\n**Pwt 25,9; Rt 4,7 → w. 27.** Zzuwanie sandała w prawie wykupiciela (goel) — możliwe tło gestu ustąpienia prawa Oblubieńcowi (por. J 3,29).\n\n**J 3,25–30 → całość.** Dalszy ciąg świadectwa: „On ma wzrastać, ja się umniejszać\" — puenta duchowa tej sceny.",
-     "children": []
+     "body": "",
+     "children": [
+      [
+       "Iz 40,3 → w. 23",
+       "Głos wołającego na pustyni — u Izajasza otwiera Księgę Pocieszenia (Iz 40–55): koniec wygnania, Bóg wraca do Syjonu na czele wyzwolonych, a na pustyni należy wyprostować Mu drogę. Wszyscy czterej ewangeliści czytają ten werset o Janie, ale tylko czwarta Ewangelia wkłada go w usta samego Jana jako samookreślenie. Szczegół o wielkiej wadze historycznej: wspólnota z Qumran uzasadniała tym samym wersetem swoje odejście na pustynię — „przygotować drogę Pana\" znaczyło dla niej studiować Prawo nad Morzem Martwym (1QS VIII,13–14). Dwa ruchy pokutne czytały jeden werset: esseńczycy jako program separacji, Jan jako program spotkania — wyszedł na pustynię nie po to, by się odgrodzić od Izraela, lecz by cały Izrael zawrócić ku Nadchodzącemu."
+      ],
+      [
+       "Ml 3,1.23–24 → w. 21",
+       "Posłaniec przygotowujący drogę i Eliasz posłany „przed nadejściem dnia Pańskiego\" — dwa proroctwa Malachiasza, które ukształtowały pytanie delegacji. Synoptycy zastosują oba do Jana wprost (Mk 1,2; Mt 11,10.14); czwarta Ewangelia zostawia je w tle jako pytanie, na które Jan odpowiada przeczeniem — bo pyta się go o Eliasza we własnej osobie. Napięcie między „nie jestem\" Jana a „on jest Eliaszem\" Jezusa (Mt 11,14) to podręcznikowy przykład różnicy między tożsamością a typologią: Jan nie jest Eliaszem, Jan jest tym, czym Eliasz był — poprzednikiem."
+      ],
+      [
+       "Pwt 18,15.18 → w. 21.25",
+       "„Proroka jak ja wzbudzi ci Pan, Bóg twój, spośród twoich braci — jego słuchać będziecie\": obietnica dana Mojżeszowi, w epoce Drugiej Świątyni czytana jako zapowiedź odrębnej postaci czasów ostatecznych (ha-nawi — ów Prorok). Figura powróci w tej Ewangelii dwukrotnie na ustach tłumów: po rozmnożeniu chleba („ten jest prawdziwie Prorokiem, który miał przyjść na świat\", J 6,14) i w Święto Namiotów (J 7,40) — za każdym razem o Jezusie. Jan Chrzciciel odsunął tytuł od siebie; Ewangelia pokaże, komu przysługuje: Prorokiem jak Mojżesz — i większym — jest Ten, o którym „Mojżesz pisał\" (J 1,45; 5,46)."
+      ],
+      [
+       "Ez 36,25–27; Za 13,1 → w. 25–26",
+       "Obmycie eschatologiczne: „pokropię was czystą wodą… i dam wam serce nowe i ducha nowego\" oraz „wytryśnie źródło dla domu Dawida na obmycie grzechu i zmazy\". Te proroctwa są milczącą przesłanką pytania „czemu więc chrzcisz?\": obmycie całego ludu należało do rekwizytów końca czasów, więc chrzciciel bez tytułu mesjańskiego był anomalią wymagającą wyjaśnienia. Odpowiedź Jana przyjmuje tę logikę w całości — jego woda jest dokładnie tym, czym u Ezechiela: zapowiedzią Ducha, który przyjdzie z kimś innym."
+      ],
+      [
+       "Pwt 25,9; Rt 4,7 → w. 27",
+       "Zzucie sandała należy do prawa lewiratu i wykupu: gest publicznego ustąpienia prawa bliższemu krewnemu-wykupicielowi (goel). Jeśli słowa o rzemieniu sandała czytać na tym tle (obok oczywistego sensu służebnego), Jan mówi: nie jestem krewnym-wykupicielem tej Oblubienicy — Izraela; nie mnie należy się jej ręka. Obraz dopowie J 3,29: „kto ma oblubienicę, jest oblubieńcem, a przyjaciel oblubieńca… raduje się z jego głosu\". Grzegorz Wielki uczyni z tej lektury klasykę zachodniej homiletyki (zob. katena)."
+      ],
+      [
+       "Mk 1,2–8 (par.) → w. 19–28",
+       "Synoptyczna wersja świadectwa: te same elementy (cytat z Izajasza, niegodność wobec sandałów, przeciwstawienie wody i Ducha), inna optyka. U synoptyków narrator opisuje Jana i chrzest Jezusa; w czwartej Ewangelii Jan sam zeznaje, a chrztu Jezusa nie opowiedziano wcale — pozostał założony jako znany. To nie sprzeczność, lecz zmiana gatunku: kronika ustąpiła procesowi, wydarzenie — świadectwu o wydarzeniu; czwarta Ewangelia zakłada synoptyczną pamięć Kościoła i pisze jej teologiczny komentarz."
+      ],
+      [
+       "J 3,25–30; 5,33–36 → całość",
+       "Dwa dalsze ciągi wewnątrz tej samej księgi. Najpierw ostatnie słowo samego Jana: „kto ma oblubienicę, jest oblubieńcem… On ma wzrastać, ja się umniejszać\" (3,29–30) — duchowa puenta wszystkiego, co przesłuchanie pokazało w formie prawnej. Potem świadectwo Jezusa o świadku: „on był lampą, co płonie i świeci, a wyście chcieli chwilę radować się jego światłem\" (5,35) — z melancholijną diagnozą: świadectwo przyjęte jako widowisko, nie jako wezwanie. Ewangelista domyka w ten sposób łuk: głos, który wskazywał Światłość, sam był światłem zapalonym — i podzielił los Światłości: nie został ogarnięty."
+      ]
+     ]
     },
     {
      "type": "recepcja",
      "title": "VII. Znaczenie w historii i liturgii Kościoła",
-     "body": "Kościół czyta tę perykopę w Adwencie: III Niedziela Adwentu roku B (Gaudete — Radujcie się) łączy J 1,6–8 z 1,19–28, czyniąc z Chrzciciela ikonę adwentowego oczekiwania; „prostujcie drogę Pana\" stało się hasłem całego okresu. W ikonografii Jan wskazujący palcem (Izenheim!) z podpisem *illum oportet crescere* (por. J 3,30: trzeba, by On wzrastał) jest wizualną egzegezą w. 19–28. Patrystyka uczyniła z pary φωνή–λόγος (głos–Słowo) klasyczny temat kazań na Narodzenie Jana Chrzciciela (24 VI) — święto, które liturgia ustawiła naprzeciw Narodzenia Pańskiego (24 VI / 25 XII: od przesilenia dni maleją — „ja się umniejszać\" — i rosną — „On ma wzrastać\").",
-     "children": []
+     "body": "",
+     "children": [
+      [
+       "Adwent i święta Chrzciciela",
+       "Kościół czyta tę perykopę w Adwencie: III Niedziela Adwentu roku B (Gaudete — Radujcie się) łączy J 1,6–8 z 1,19–28, czyniąc z Chrzciciela ikonę adwentowego oczekiwania; „prostujcie drogę Pana\" stało się hasłem całego okresu, a wołanie z pustyni — antyfoną rorat. Narodzenie Jana Chrzciciela (24 VI) liturgia ustawiła naprzeciw Narodzenia Pańskiego z dokładnością astronomiczną: od przesilenia letniego dni maleją, od zimowego rosną — kalendarz sam odmawia J 3,30: „trzeba, by On wzrastał, a ja się umniejszał\". Ojcowie (Augustyn w kazaniach na 24 VI) wyciągali z tej symetrii całe homilie: dwa narodzenia, dwa światła, głos i Słowo."
+      ],
+      [
+       "Ikonografia i wyobraźnia Kościoła",
+       "W ikonografii Jan wskazujący palcem — u Grünewalda na ołtarzu z Isenheim palec ten jest nienaturalnie wydłużony, bo taka jest cała funkcja postaci — z podpisem illum oportet crescere (por. J 3,30) jest wizualną egzegezą naszej sceny. Wschód zna Jana jako Prodromosa (Poprzednika) i stawia go w deesis po lewicy Chrystusa, naprzeciw Matki Bożej: dwie dłonie wskazujące na Pana z dwóch stron — modlitwa Kościoła ma kształt tej sceny znad Jordanu. Para pojęć vox et verbum (głos i Słowo), ukuta przez Augustyna właśnie do tej perykopy, weszła do klasyki kazań na Narodzenie Chrzciciela i do teologii przepowiadania: homiletyka zachodnia uczyła się na niej pokory medium wobec treści. A „pośród was stoi Ten, którego nie znacie\" stało się w duchowości zdaniem-kluczem adoracji i uważności: Bóg obecny incognito w codzienności — od reguł monastycznych (gość przyjmowany jak Chrystus) po Brata Wawrzyńca i teologię obecności XX wieku."
+      ]
+     ]
     },
     {
      "type": "patrystyka",
      "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
-     "body": "Katena do świadectwa: głos i Słowo, pokora wyznania, geografia Orygenesa.",
+     "body": "Katena do świadectwa — sześć głosów: pokora wyznania (Chryzostom), głos i Słowo (Augustyn), pytanie o Eliasza i geografia (Orygenes), Nieznajomy pośród nas (Augustyn), rzemień sandała Oblubieńca (Grzegorz Wielki).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: pierwsza scena narracji ustawia proces, którym będzie cała księga — a na pierwszego świadka powołuje człowieka, którego wielkość polega na trzykrotnym „nie jestem\". Świadectwo Jana uczy, że prawda o sobie jest warunkiem prawdy o Bogu; że wszystkie szaty oczekiwania — Mesjasz, Eliasz, Prorok — muszą pozostać na wieszaku, aż przyjdzie Ten, na którego były szyte; i że Nieznajomy stoi pośród nas wcześniej, niż zaczniemy o Niego pytać. Głos przebrzmiał znad Jordanu, ale — jak zauważył Chryzostom przy perfectum κέκραγεν — wołanie trwa: każde pokolenie Kościoła słyszy je na nowo w Adwencie i w każdym rachunku sumienia z pytania „ty kim jesteś?\". Prostowanie drogi Panu okazuje się ostatecznie jednym: przestać zastawiać ją sobą.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — Orygenes (Comm. in Io. VI), św. Augustyn (Tract. in Io. 4 i Sermo 293), św. Jan Chryzostom (Hom. in Io. 16–17), św. Grzegorz Wielki (Hom. in Ev. I,7) i św. Tomasz (Super Ioannem, cap. I, lect. 12–13).*",
      "children": []
     }
    ],
@@ -1279,6 +1611,45 @@
      "Mt 25,31–46",
      "por",
      "Nieznajomy pośród nas — obecność nierozpoznana"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ez",
+     36,
+     25,
+     36,
+     27,
+     "Ez 36,25–27",
+     "tlo",
+     "pokropię was czystą wodą, dam wam serce nowe — obmycie eschatologiczne jako przesłanka pytania o chrzest"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Za",
+     13,
+     1,
+     13,
+     1,
+     "Za 13,1",
+     "tlo",
+     "źródło na obmycie grzechu i zmazy — prorocka zapowiedź obmycia czasów ostatecznych"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     5,
+     33,
+     5,
+     36,
+     "J 5,33–36",
+     "rozwiniecie",
+     "Jezus o Janie: lampa, co płonie i świeci — świadectwo o świadku"
     ]
    ],
    "patristic": [
@@ -1302,6 +1673,27 @@
      "Komentarz do Ewangelii Jana",
      "Comm. in Io. VI,40",
      "Najstarszy przypadek biblijnej krytyki geograficznej: Orygenes, znający Palestynę z autopsji, nie umiał znaleźć Betanii za Jordanem — znał tylko Betanię Łazarza pod Jerozolimą — i zaproponował lekcję Βηθαβαρά (Betabara, „dom przeprawy\"), którą znalazł w części rękopisów i w tradycji miejscowej. Poprawka weszła do wielu kodeksów i starych przekładów. Dziś krytyka wraca do Betanii (lekcja najlepiej poświadczona), a przypadek pozostaje pouczający: już w III wieku egzegeta ważył rękopisy, geografię i tradycję — i bywał od nas odważniejszy w emendacjach."
+    ],
+    [
+     "w. 19–21",
+     "Orygenes",
+     "Komentarz do Ewangelii Jana",
+     "Comm. in Io. VI,10–14",
+     "Czy Jan „był Eliaszem\"? Orygenes referuje spór, który toczono już w III wieku: Jezus mówi „on jest Eliaszem\" (Mt 11,14), Jan mówi „nie jestem\" — i rozstrzyga go rozróżnieniem, które przetrwało: Jan nie jest Eliaszem co do duszy ani osoby (Orygenes odrzuca wędrówkę dusz jako obcą Kościołowi), jest zaś przyodziany „duchem i mocą Eliasza\" (Łk 1,17) — tym samym charyzmatem poprzednika. Odpowiedzi obu są prawdziwe, bo odpowiadają na różne pytania: delegaci pytali o osobę, Jezus mówił o urzędzie. Przy okazji Orygenes zostawia regułę hermeneutyczną na wieki: gdy dwa miejsca Pisma zdają się przeczyć sobie, należy szukać różnicy pytań, na które odpowiadają."
+    ],
+    [
+     "w. 24–27",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 4,9",
+     "„Pośród was stoi Ten, którego wy nie znacie\" — Augustyn czyta to zdanie jako opis stałej kondycji świata: Chrystus stał pośród nich jako człowiek pośród ludzi i pozostał nieznany, bo pokora nie rzuca się w oczy; lumen humilitatis — światło pokorne — widzą tylko pokorni. Stąd nauka o rozpoznawaniu: nie brak obecności jest problemem świata, lecz brak oczu; Bóg nie musi przychodzić — musi zostać zauważony. I ostrzeżenie dla Kościoła: można być fachowcem od rzeczy Bożych — jak delegacja: kapłani, lewici, znawcy obmyć — i stać o krok od Obecnego, badając cudzy mandat zamiast własnej ślepoty."
+    ],
+    [
+     "w. 24–27",
+     "św. Grzegorz Wielki",
+     "Homiliae in Evangelia",
+     "Hom. in Ev. I,7",
+     "Klasyczna homilia zachodnia do tej perykopy. Rzemień sandała czyta Grzegorz podwójnie. Najpierw przez prawo Mojżeszowe: kto nie chciał wziąć wdowy po krewnym, temu zzuwano sandał — sandał jest więc znakiem prawa oblubieńca; „nie jestem godzien rozwiązać rzemienia\" znaczy: nie jestem Oblubieńcem tej Oblubienicy i nie sięgnę po nie swoje wesele. Potem przez tajemnicę Wcielenia: obuwie ze skóry martwego zwierzęcia to śmiertelne ciało przyjęte przez Słowo; rozwiązać jego rzemień — to rozwikłać tajemnicę Wcielenia, czego żaden badacz nie potrafi: i najwięksi schylają się przed węzłem, którego rozum nie rozplecie. Pokora Jana jest więc podwójnie dokładna: wobec Oblubieńca i wobec Tajemnicy."
     ]
    ],
    "liturgy": [
@@ -1325,6 +1717,13 @@
      "wariant lekcji",
      "Βηθανίᾳ: P66, P75, ℵ*, B — lekcja najlepiej poświadczona; Βηθαβαρᾷ: koniektura Orygenesa przyjęta przez część tradycji (C2, bizantyjskie, syryjskie).",
      "NA28 utrzymuje Betanię; Betabara jest cennym świadectwem starożytnej krytyki geograficznej, nie pierwotnym tekstem."
+    ],
+    [
+     19,
+     "[πρὸς αὐτὸν]",
+     "wariant lekcji",
+     "Zaimek „do niego\" po ἀπέστειλαν: część świadków (P66c, ℵc, A, B) ma πρὸς αὐτόν w tym miejscu, inni po Λευίτας, jeszcze inni pomijają (P75, ℵ*). NA28 drukuje w nawiasie kwadratowym na pierwszej pozycji.",
+     "Wahanie miejsca zaimka to klasyczny ślad wczesnej płynności drobnych elementów tekstu przy stabilności treści; żadna z lekcji nie zmienia sensu. Nawias NA28 uczciwie sygnalizuje nierozstrzygalność — dobry przykład dydaktyczny granic krytyki tekstu."
     ]
    ],
    "theme_links": [
@@ -1340,8 +1739,56 @@
       "block",
       "w. 22–23"
      ]
+    ],
+    [
+     "vox et verbum — głos a Słowo",
+     [
+      "block",
+      "w. 22–23"
+     ]
+    ],
+    [
+     "tytuły chrystologiczne J 1",
+     [
+      "block",
+      "w. 19–21"
+     ]
     ]
-   ]
+   ],
+   "struktura": "Scena jest dyptykiem przesłuchań, spiętym ramą świadectwa. Panel pierwszy (w. 19–23): kapłani i lewici pytają o tożsamość — i otrzymują serię przeczeń o malejącej długości, jakby protokolant skracał zapis w miarę zniecierpliwienia: ἐγὼ οὐκ εἰμὶ ὁ χριστός (ja nie jestem Mesjaszem) → οὐκ εἰμί (nie jestem) → οὔ (nie). Dopiero przyparty do muru („co mówisz o samym sobie?\") Jan odpowiada pozytywnie — ale nie swoim zdaniem, lecz wersetem Izajasza: jego autodefinicja jest cytatem. Panel drugi (w. 24–27): faryzeusze pytają już nie „kim jesteś\", lecz „jakim prawem działasz\" — a odpowiedź zamiast obrony mandatu wskazuje Nieznajomego pośród pytających. Zamyka scenę pieczęć topograficzna (w. 28): miejsce, jak w protokole, na końcu czynności. Kompozycja ma głęboki sens teologiczny: od trzech „nie\" przez cudzy werset do wskazania Obecnego — świadek jest tym mniejszy, im bliżej Światłości stoi; a cała scena otwiera „tydzień inauguracji\" (J 1,19–2,11), którego kolejne dni ewangelista będzie odliczał formułą „nazajutrz\" aż po „trzeci dzień\" Kany.",
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. I, lect. 12–13",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład przesłuchania: porządek pytań delegacji, pokora Jana i natura jego chrztu (por. S. Th. III, q. 38).",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc. i dodatki",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Panorama oczekiwań mesjańskich (Mesjasz, Eliasz, Prorok) i dyskusja lokalizacji Betanii za Jordanem.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana I, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Polskie omówienie Janowego sensu terminu οἱ Ἰουδαῖοι i tła obmyć rytualnych epoki.",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ]
+   ],
+   "revision_note": "Świadectwo Jana Chrzciciela (J 1,19–28) doprowadzone do pełnej egzegezy: struktura dyptyku przesłuchań, nowe jednostki (οἱ Ἰουδαῖοι, Iz 40,3, woda), rozbudowa sekcji II–VII, katena rozszerzona do sześciu głosów (Orygenes, Augustyn, Grzegorz Wielki), aparat w. 19, cytowania; status: ukończona"
   },
   {
    "pericope": {
@@ -1351,7 +1798,7 @@
     "ve": 34,
     "title": "Baranek Boży",
     "motto": "Ecce Agnus Dei (Oto Baranek Boży)",
-    "status": "w_opracowaniu",
+    "status": "ukonczona",
     "position": 4
    },
    "intro": "Τῇ ἐπαύριον (nazajutrz) — zaczyna się odliczanie dni, które doprowadzi do „dnia trzeciego\" w Kanie: nowy tydzień stworzenia. Dziś, w dniu drugim, świadek wskazuje palcem i nadaje Jezusowi tytuł, który liturgia będzie powtarzać do końca świata.",
@@ -1390,6 +1837,11 @@
        "κἀγὼ οὐκ ᾔδειν αὐτόν",
        "i ja Go nie znałem",
        "Dwukrotne (w. 31.33) wyznanie niewiedzy świadka — zaskakujące u krewnego (Łk 1). Sens jest teologiczny, nie biograficzny: Jan nie znał Jezusa *jako Tego, którym jest* — mesjańska tożsamość nie jest wiedzą rodzinną ani ludzką przenikliwością, lecz objawieniem z góry, związanym ze znakiem (w. 33). Świadek wiarygodny to taki, który zeznaje nie swoje domysły, lecz to, co mu pokazano; cała wartość chrztu Janowego okazuje się służebna: „po to przyszedłem chrzcząc, aby został objawiony Izraelowi\"."
+      ],
+      [
+       "ἵνα φανερωθῇ τῷ Ἰσραήλ",
+       "aby został objawiony Izraelowi",
+       "Cel całej misji Chrzciciela w jednym zdaniu celowym: chrzest wodą nie był celem, lecz sceną — zwoływał Izrael nad Jordan po to, by na tym zgromadzeniu mógł zostać ukazany Ukryty. Czasownik φανερόω (objawiać, czynić jawnym) jest u Jana terminem technicznym objawienia: powróci przy pierwszym znaku (ἐφανέρωσεν τὴν δόξαν — objawił chwałę, 2,11) i po zmartwychwstaniu (21,1.14). Τῷ Ἰσραήλ (Izraelowi) — nie „Żydom\" w Janowym sensie polemicznym, lecz Izraelowi: uroczyste imię ludu przymierza; Chrzciciel jest ostatnim prorokiem Starego Przymierza, który przedstawia Mesjasza jego własnemu ludowi. W tej perspektywie chrzest Janowy okazuje się instytucją czysto służebną — istniał po to, by pewnego dnia można było powiedzieć „oto On\"; gdy to zostało powiedziane, zaczyna się jego zmierzch (por. J 3,30)."
       ]
      ]
     },
@@ -1411,6 +1863,11 @@
        "ὁ βαπτίζων ἐν πνεύματι ἁγίῳ",
        "chrzczący w Duchu Świętym",
        "Definitywna różnica posłannictw: Jan zanurza w wodzie (znak), Ten — w Duchu Świętym (rzeczywistość). Participium praesentis ὁ βαπτίζων (Chrzczący — stale): to tytuł, nie epizod; Jezus pozostaje Chrzczącym w każdym chrzcie Kościoła. Woda i Duch spotkają się w rozmowie z Nikodemem (J 3,5) i w wodzie z boku (J 19,34) — Jan buduje łuk sakramentalny od pierwszej sceny."
+      ],
+      [
+       "τεθέαμαι",
+       "oglądałem (perfectum)",
+       "Perfectum od θεάομαι (przyglądać się, kontemplować) — tego samego czasownika, którym Prolog opisał doświadczenie wspólnoty: ἐθεασάμεθα τὴν δόξαν αὐτοῦ (oglądaliśmy chwałę Jego, 1,14). Chrzciciel jest pierwszym z „oglądających\": jego widzenie Ducha nad Jordanem otwiera serię kontemplacji, która przejdzie przez uczniów (θεασάμενος, w. 38) aż po czytelnika. Perfectum ma tu walor prawny: oglądałem — i to widzenie trwa we mnie jako podstawa zeznania; świadek nie relacjonuje wrażenia, lecz stan nabyty. Warto zauważyć, że w czwartej Ewangelii sam moment chrztu Jezusa nie jest opowiedziany — pozostał poza kadrem jak przemiana wody w Kanie: ewangelista konsekwentnie pokazuje nie wydarzenia, lecz ich poświadczoną treść; nie „jak było\", lecz „co to znaczy\"."
       ]
      ]
     },
@@ -1435,43 +1892,127 @@
     {
      "type": "kontekst",
      "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
-     "body": "**Baranek w wyobraźni Izraela.** Pascha była pamięcią założycielską (baranek, którego krew osłania), tamid — codziennym pulsem świątyni (dwa baranki dziennie), Iz 53 — najgłębszą zagadką proroków (Sługa cierpiący za wielu; targum czytał ten tekst mesjańsko, choć cierpienie przenosił z Mesjasza na lud). Aramejskie tło (talja: baranek/sługa/dziecko) pozwala usłyszeć w jednym zdaniu Chrzciciela całą tę polifonię. **Duch nad wodą.** Obraz ptaka nad wodami łączył Rdz 1,2 z nadzieją nowego stworzenia; w Qumran oczekiwano oczyszczenia „duchem świętości jak wodą oczyszczenia\". **Chrzest Mesjasza Duchem** — z Ez 36,25–27 i Jl 3,1: wylanie Ducha na wszelkie ciało jako znak czasów ostatecznych. Scena nad Jordanem ogłasza: te czasy stoją w wodzie pośród was.",
-     "children": []
+     "body": "Tytuł Baranka i znak Ducha czerpią z najgłębszych warstw wyobraźni Izraela — ofiarniczej, prorockiej i stworzeniowej; bez tego tła scena jest niema.",
+     "children": [
+      [
+       "Baranek w wyobraźni Izraela",
+       "Pascha była pamięcią założycielską: baranek, którego krew na odrzwiach osłania przed śmiercią (Wj 12,7.13), zabijany co roku w Jerozolimie w dziesiątkach tysięcy — Józef Flawiusz podaje liczby, które nawet po odliczeniu przesady historyka mówią o rzezi wypełniającej całe popołudnie 14 Nisan. Tamid — ofiara ustawiczna — to dwa baranki dziennie, rano i pod wieczór (Wj 29,38–42): codzienny puls świątyni, którego nie przerywano nawet w oblężeniu. Iz 53 — najgłębsza zagadka proroków: Sługa „jak baranek na rzeź prowadzony\" (53,7), który „poniósł grzechy wielu\" (53,12); targum czytał tekst mesjańsko, choć cierpienie przenosił ze Sługi na lud — dowód, że łączenie Mesjasza z cierpieniem było możliwe, ale trudne. Wreszcie Rdz 22: pytanie Izaaka „gdzie jest baranek?\" i odpowiedź Abrahama „Bóg sam sobie upatrzy baranka\" (22,7–8) — w judaizmie epoki akeda (związanie Izaaka) była już rozważana jako ofiara o mocy zasługującej. Genetivus τοῦ θεοῦ (Boży) spina to wszystko: baranek, którego nie przyprowadził człowiek — którego Bóg sam sobie upatrzył."
+      ],
+      [
+       "Talja — dwuznaczność aramejska",
+       "Aramejskie טַלְיָא (talja) znaczy zarazem „baranek\", „sługa\" i „chłopiec/dziecko\" — jedno słowo Chrzciciela mówiącego po aramejsku mogło więc nieść naraz baranka paschalnego i Sługę Pańskiego z Iz 52–53 (którego Septuaginta nazywa παῖς — sługa/dziecko). Greckie ἀμνός musiało wybrać jedno znaczenie; egzegeza od dawna podejrzewa, że wybór zubożył oryginał — i że najstarsze świadectwo o Jezusie nad Jordanem brzmiało „oto Sługa-Baranek Boży\", z całą teologią Iz 53 w jednym rzeczowniku. Nowy Testament zachował ślady obu linii: ἀμνός wraca w cytacie Iz 53,7 u Filipa (Dz 8,32) i w katechezie chrzcielnej (1 P 1,19), a παῖς (Sługa) w modlitwach najstarszej gminy (Dz 3,13.26; 4,27.30). Czwarta Ewangelia, pisana po grecku dla Kościoła, w którym baranek paschalny był już figurą Eucharystii, mogła zresztą chcieć właśnie tej wieloznaczności nierozstrzygniętej."
+      ],
+      [
+       "Duch nad wodą i gołębica",
+       "Obraz ptaka nad wodami łączył w wyobraźni żydowskiej Rdz 1,2 (ruach Elohim — tchnienie Boże „unosiło się\" nad wodami; Talmud porówna to unoszenie do gołębicy nad gniazdem: b. Chagiga 15a) z gołębicą Noego, szukającą po potopie miejsca, gdzie mogłaby spocząć stopa (Rdz 8,8–12). W Qumran oczekiwano oczyszczenia „duchem świętości jak wodą oczyszczenia\" (1QS IV,21) — woda i Duch stały już obok siebie w eschatologii epoki. Prorocy dali obietnicom kształt: „wyleję Ducha mego na wszelkie ciało\" (Jl 3,1), „złożę Ducha mego na nim\" — o Słudze (Iz 42,1). Scena nad Jordanem ogłasza spełnienie wszystkich tych linii naraz: nad wodami nowego stworzenia unosi się Duch — i tym razem nie przelatuje, lecz osiada; gołębica znalazła miejsce spocznienia, a czasy ostateczne przestały być przyszłością."
+      ],
+      [
+       "Chrzest w Duchu — nowość absolutna",
+       "Formuła „chrzcić w Duchu Świętym\" nie ma ścisłego precedensu w judaizmie: obmycia oczyszczały wodą, Ducha obiecywano na czasy ostateczne — ale nikt nie mówił o „zanurzaniu w Duchu\" jako czynności jednej osoby. Wyrażenie zakłada, że Duch jest żywiołem, którym Mesjasz dysponuje jak chrzciciel wodą — roszczenie niesłychane, bo Duch jest Boży. Czwarta Ewangelia rozwinie to konsekwentnie: Jezus da Ducha „bez miary\" (3,34), z Jego wnętrza popłyną rzeki wody żywej (7,38–39), tchnie Ducha na uczniów wieczorem Paschy (20,22). Participium praesentis ὁ βαπτίζων (Chrzczący — stale) czyni z tytułu urząd wieczny: każdy chrzest Kościoła jest wykonaniem tej zapowiedzi — woda pozostała Janowa, Chrzciciel zmienił się raz na zawsze."
+      ]
+     ]
     },
     {
      "type": "teologia",
      "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
-     "body": "**1. Ofiara i zadośćuczynienie.** „Dźwiga grzech świata\" — Tomasz wyjaśni: Chrystus zadośćuczynił nie przez równoważność bólu, lecz przez przewyższającą miłość (*satisfactio ex caritate* — zadośćuczynienie z miłości); baranek nie jest piorunochronem gniewu, lecz osobą, której miłość waży więcej niż grzech świata. Liczba pojedyncza ἁμαρτία potwierdza: usuwana jest sama zasada odłączenia, nie tylko jej epizody.\n\n**2. Duch spoczywający.** Trwanie Ducha na Jezusie to po tomistycznie pełnia łaski w Głowie (*gratia capitis*), z której — jak z namaszczonej głowy Aarona na całą szatę (Ps 133,2) — łaska spływa na członki. Dlatego „chrzczący w Duchu\" jest tytułem stałym: sakramenty są kanałami tej jednej pełni.\n\n**3. Poznanie przez znak.** „Nie znałem Go... ale Ten, który mnie posłał, powiedział mi: na kogo zobaczysz...\" — struktura poznania wiary: obietnica, znak, rozpoznanie, świadectwo. Znak nie zastępuje słowa, słowo nie obywa się bez znaku; Tomasz nazwie to drogą stosowną dla człowieka, który poznaje duchowe przez zmysłowe.",
-     "children": []
+     "body": "Trzy pojęcia sceny — ofiara, namaszczenie Duchem, poznanie przez znak — należą do rdzenia teologii scholastycznej; Tomasz komentuje je w Super Ioannem (cap. I, lect. 14) i w traktacie o łasce Chrystusa (S. Th. III, q. 7–8).",
+     "children": [
+      [
+       "1. Ofiara i zadośćuczynienie",
+       "„Dźwiga grzech świata\" — Tomasz wyjaśni: Chrystus zadośćuczynił nie przez równoważność bólu, lecz przez przewyższającą miłość (satisfactio ex caritate — zadośćuczynienie z miłości); baranek nie jest piorunochronem gniewu, lecz osobą, której miłość waży więcej niż grzech świata. Ważna jest tu tomistyczna korekta wyobraźni: Bóg nie potrzebował krwi — grzech potrzebował miłości większej od siebie, a ta okazała się gotowa krwawić. Liczba pojedyncza ἁμαρτία potwierdza: usuwana jest sama zasada odłączenia, nie tylko jej epizody; dlatego dzieło Baranka jest jedno i wystarczające (por. Hbr 10,11–14 — wobec codziennego tamid: jedna ofiara na zawsze), a czas teraźniejszy ὁ αἴρων mówi o jego nieustannej aplikacji: ofiara raz złożona działa stale, jak źródło raz otwarte płynie ciągle."
+      ],
+      [
+       "2. Duch spoczywający — gratia capitis",
+       "Trwanie Ducha na Jezusie to po tomistycznie pełnia łaski w Głowie (gratia capitis), z której — jak z namaszczonej głowy Aarona olej spływa na całą szatę (Ps 133,2) — łaska rozlewa się na członki. Tomasz precyzuje: łaska Chrystusa jako człowieka jest stworzona i pełna od poczęcia; scena nad Jordanem nie dodaje Mu niczego — objawia świadkowi to, co jest, i ustanawia widzialny początek misji. Stąd rozróżnienie, które porządkuje całą pneumatologię: Duch zstępuje na Jezusa nie dla Niego, lecz dla nas (jak powie Cyryl w katenie) — namaszczenie Głowy jest namaszczeniem Ciała in radice (w korzeniu). Dlatego „Chrzczący w Duchu\" jest tytułem stałym: sakramenty są kanałami tej jednej pełni, nie osobnymi źródłami."
+      ],
+      [
+       "3. Poznanie przez znak",
+       "„Nie znałem Go… ale Ten, który mnie posłał, powiedział mi: na kogo zobaczysz…\" — struktura poznania wiary rozpisana na elementy: obietnica (słowo uprzedzające), znak (widzialne spełnienie), rozpoznanie (połączenie obu), świadectwo (przekaz dalej). Znak bez słowa byłby niemy — gołębica nad Jordanem nic by nie znaczyła bez zdania Posyłającego; słowo bez znaku byłoby zawieszone — obietnica czekałaby bez adresu. Tomasz nazwie to drogą stosowną dla człowieka, który poznaje duchowe przez zmysłowe (connaturalis homini): sakramenty, znaki biblijne i sama ekonomia Wcielenia idą tą drogą. Jest w tym również epistemologia świadectwa: Jan zeznaje nie swoje domysły, lecz to, co mu pokazano według wcześniejszego słowa — dokładnie to czyni świadka wiarygodnym, w sądzie i w Kościele."
+      ],
+      [
+       "4. Od Baranka do Syna — porządek tytułów",
+       "Sekwencja sceny — najpierw Baranek, na końcu Syn Boży — ma wagę metodologiczną: poznanie Chrystusa zaczyna się od Jego dzieła dla nas (pro nobis), a dochodzi do Jego bytu w sobie (in se). Scholastyka ujmie to parą: via inventionis (droga odkrywania — od skutków do przyczyny) poprzedza via iudicii (drogę wykładu — od przyczyny do skutków); Ewangelia stosuje pierwszą, teologia dogmatyczna drugą — i błądzi, kto miesza porządki, żądając od początkujących metafizyki przed spotkaniem z miłosierdziem. Zarazem porządek nie jest relatywizmem: Baranek, który nie byłby Synem, nie udźwignąłby grzechu świata — soteriologia bez ontologii nie ma pokrycia, jak zauważył Atanazy w sporze ariańskim. Scena trzyma oba końce: zaczyna od ofiary, kończy na synostwie, a spina je Duch, który „pozostał\"."
+      ]
+     ]
     },
     {
      "type": "autor_ludzki",
      "title": "IV. Autor ludzki: kim jest i co chce przekazać",
-     "body": "Ewangelista nie opisuje chrztu Jezusa — zakłada, że czytelnik zna scenę (synoptycy), i podaje samo jądro: zeznanie świadka o tym, co chrzest objawił. To świadomy wybór gatunku: nie kronika, lecz proces — liczy się nie zdarzenie, lecz jego poświadczona treść. Odliczanie dni (nazajutrz... nazajutrz... dnia trzeciego, 1,29.35.43; 2,1) buduje tydzień inauguracji zamknięty godami w Kanie: autor komponuje pierwszy tydzień nowego stworzenia, w którym dzień Baranka jest dniem wskazania Ofiary — od początku wesele i krzyż są w jednym rytmie.",
+     "body": "Ewangelista nie opisuje chrztu Jezusa — zakłada, że czytelnik zna scenę (synoptycy), i podaje samo jądro: zeznanie świadka o tym, co chrzest objawił. To świadomy wybór gatunku: nie kronika, lecz proces — liczy się nie zdarzenie, lecz jego poświadczona treść. Odliczanie dni (nazajutrz… nazajutrz… trzeciego dnia: 1,29.35.43; 2,1) buduje tydzień inauguracji zamknięty godami w Kanie: autor komponuje pierwszy tydzień nowego stworzenia, w którym dzień Baranka jest dniem wskazania Ofiary — od początku wesele i krzyż są w jednym rytmie. Umieszczenie tytułu ofiarniczego na progu księgi jest decyzją architekta: czytelnik otrzymuje klucz do wszystkich „godzin\" i „wywyższeń\", zanim padnie pierwsze z tych słów; gdy w rozdziale 19 Jezus umrze w porze zabijania baranków paschalnych, z nieprzełamaną kością (19,14.36), nikt uważny nie będzie zaskoczony — klamra zamknie się z trzaskiem. Jest wreszcie dyskretna korekta środowiskowa: najwyższy autorytet kręgów Chrzcicielowych dwakroć wyznaje własną niewiedzę („nie znałem Go\") — pamięć mistrza zostaje uczczona, a jego wielkość pokazana tam, gdzie jest naprawdę: w posłuszeństwie objawieniu, nie w przenikliwości.",
      "children": []
     },
     {
      "type": "autor_bozy",
      "title": "V. Autor Boży: co Duch Święty chce przekazać",
-     "body": "Duch Święty jest w tej perykopie i treścią, i Autorem: objawia siebie jako Tego, który *pozostaje* — i tego samego uczy czytelnika o sobie. Sens dla Kościoła każdego czasu: rozpoznawaj Mesjasza po trwaniu Ducha, nie po błysku; i wiedz, że każdy chrzest, którego udziela Kościół, jest chrztem, w którym Chrzczącym pozostaje Ten sam. A tytuł „Baranek\" Duch umieścił na progu Ewangelii po to, by żadna dalsza chwała — znaki, tłumy, Tabor Janowy w mowach — nie przesłoniła kierunku: ta historia idzie ku ofierze.",
+     "body": "Duch Święty jest w tej perykopie i treścią, i Autorem: objawia siebie jako Tego, który pozostaje — i tego samego uczy czytelnika o sobie. Kryterium dane Chrzcicielowi („na kogo zobaczysz Ducha zstępującego i pozostającego\") Duch zostawił Kościołowi jako stałą zasadę rozeznawania: Mesjasza — i wszystko, co mesjańskie — poznaje się po trwaniu, nie po błysku; charyzmat chwilowy może być od Boga, ale znamieniem Pomazańca jest μένειν (pozostawanie). Tytuł „Baranek\" Duch umieścił na progu Ewangelii po to, by żadna dalsza chwała — znaki, tłumy, entuzjazm — nie przesłoniła kierunku: ta historia idzie ku ofierze; i po to, by Kościół, powtarzający te słowa przed każdą Komunią, nigdy nie oddzielił Eucharystii od krzyża. A podwójne „nie znałem\" świadka jest pociechą wpisaną w sam fundament wiary: nie wymaga się od nikogo, by znał — wymaga się, by przyjął znak i słowo; największy z proroków zaczynał od tej samej niewiedzy, od której zaczyna każdy ochrzczony.",
      "children": []
     },
     {
      "type": "odniesienia",
      "title": "VI. Sieć odniesień biblijnych",
-     "body": "**Wj 12 → w. 29.** Baranek paschalny; Jan dopnie klamrę w J 19,14.36 (godzina zabijania baranków; kości nie złamane).\n\n**Iz 53,4–12 → w. 29.** Sługa dźwigający grzechy wielu; hebr. nasa (nieść/odpuszczać) odpowiada dwuznaczności αἴρω.\n\n**Rdz 22,7–8 → w. 29.** „Bóg sam sobie upatrzy baranka\" — odpowiedź Abrahama spełniona; łączy się z μονογενής (Jednorodzonym) z 1,14.18.\n\n**Rdz 1,2; 8,8–12 → w. 32.** Duch nad wodami i gołębica Noego: nowe stworzenie i koniec potopu gniewu.\n\n**Iz 42,1 → w. 34.** „Mój Wybrany, złożyłem na nim Ducha\" — tło lekcji ὁ ἐκλεκτός (Wybrany).\n\n**Ez 36,25–27 → w. 33.** Woda czysta i nowy Duch — obietnica, którą chrzest w Duchu wypełnia.\n\n**Ap 5,6–14 → w. 29.** Baranek zabity, a stojący — dopełnienie tytułu w corpus Joanneum (pismach Janowych).\n\n**1 P 1,18–19 → w. 29.** Baranek bez skazy — niezależne echo tej samej katechezy chrzcielnej.",
-     "children": []
+     "body": "",
+     "children": [
+      [
+       "Wj 12 → w. 29",
+       "Baranek paschalny: krew na odrzwiach osłania przed niszczycielem, a spożycie baranka konstytuuje wspólnotę wyjścia. Czwarta Ewangelia dopnie klamrę z jubilerską precyzją: Jezus skazany „w dniu Przygotowania Paschy, około godziny szóstej\" (19,14) — gdy w świątyni zaczynano zabijać baranki; hizop podający ocet (19,29 — hizopem kropiono krwią paschalną, Wj 12,22); kości nie złamane (19,33.36 = Wj 12,46). Pascha jest więc nie jedną z aluzji, lecz ramą całej księgi: od wskazania Baranka w rozdziale 1 do Jego zabicia w porze paschalnej w rozdziale 19."
+      ],
+      [
+       "Iz 53,4–12 → w. 29",
+       "Sługa Pański: „jak baranek na rzeź prowadzony\", „on poniósł grzechy wielu\". Hebrajskie nasa (nieść) znaczy zarazem „dźwigać\" i „odpuszczać\" — dokładnie ta dwuznaczność, którą grecki αἴρω zachował w w. 29: Baranek usuwa grzech przez to, że go niesie. Iz 53 jest jedynym tekstem ST, który łączy ofiarę, zastępstwo i jednostkę cierpiącą za wielu — bez niego tytuł Chrzciciela byłby niezrozumiały; z nim jest streszczeniem czwartej pieśni Sługi w dwóch słowach."
+      ],
+      [
+       "Rdz 22,7–8.14 → w. 29",
+       "Akeda — związanie Izaaka: „Bóg sam sobie upatrzy baranka na całopalenie, synu mój\". Odpowiedź Abrahama, w kontekście Rdz zasłona bólu, w lekturze chrześcijańskiej okazuje się proroctwem doskonałym: Bóg upatrzył baranka — i jest nim Jego własny Syn jednorodzony (μονογενής z 1,14.18 nawiązuje do Izaaka z Rdz 22 przez Hbr 11,17). Góra Moria, drewno niesione przez syna, ojciec nie oszczędzający — typologia, którą Nowy Testament czyta wprost (Rz 8,32: „własnego Syna nie oszczędził\"). W w. 29 obie linie — akedy i Paschy — zbiegają się w genetiwie τοῦ θεοῦ: Baranek nie od ludzi, lecz Boży."
+      ],
+      [
+       "Rdz 1,2; 8,8–12 → w. 32",
+       "Duch nad wodami pierwszego stworzenia i gołębica Noego po potopie: nowy początek i koniec gniewu. Nad Jordanem oba obrazy spełniają się naraz — nad wodami unosi się Duch nowego stworzenia, a gołębica, która u Noego nie znalazła miejsca spocznienia, tym razem „pozostała\": ziemia po potopie grzechu ma wreszcie punkt suchy — człowieczeństwo Jezusa. Ojcowie dołączą trzeci obraz: jak gołębica wróciła do arki z gałązką oliwną, tak Duch przynosi światu znak pokoju — namaszczenie (oliwa!) spoczęło na Pomazańcu."
+      ],
+      [
+       "Iz 42,1; 61,1 → w. 32–34",
+       "„Oto mój Sługa… mój Wybrany, w którym upodobała sobie dusza moja: złożyłem na nim Ducha mego\" oraz „Duch Pana nade mną, bo Pan mnie namaścił\". Scena Janowa jest narracyjnym spełnieniem obu tekstów: Duch złożony i pozostający — namaszczenie widzialne dla świadka. Stąd też starożytna lekcja ὁ ἐκλεκτός (Wybrany) w w. 34 (zob. aparat): część tradycji czytała finał zeznania jako dosłowne echo Iz 42,1 — świadectwo, że pierwsi czytelnicy słyszeli w tej scenie Izajasza równie głośno jak my."
+      ],
+      [
+       "Ez 36,25–27 → w. 33",
+       "Woda czysta i nowy Duch — obietnica, którą „chrzest w Duchu\" wypełnia: „pokropię was czystą wodą… i dam wam serce nowe i ducha nowego\". Ezechielowa sekwencja (woda → serce → Duch) stanie się w rozmowie z Nikodemem formułą narodzin „z wody i Ducha\" (J 3,5) i pozostanie na zawsze gramatyką chrztu chrześcijańskiego: znak wodny i rzeczywistość Ducha, rozdzielone nad Jordanem między dwóch chrzcicieli, złączą się w jednym sakramencie."
+      ],
+      [
+       "Ap 5,6–14; 1 P 1,18–19 → w. 29",
+       "Dopełnienia w kanonie. Apokalipsa — księga środowiska Janowego — rozwinie tytuł w liturgię nieba: Baranek „jakby zabity\", a stojący (5,6 — zabity, lecz żywy), jedyny godny otworzyć księgę dziejów; ἀρνίον (baranek) padnie w niej dwadzieścia osiem razy. Pierwszy list Piotra poświadczy tę samą katechezę chrzcielną niezależnie: wykupieni „drogocenną krwią Chrystusa jako baranka niepokalanego i bez zmazy\". Dwie tradycje, jeden obraz: to, co Chrzciciel powiedział nad Jordanem w jednym zdaniu, stało się wspólnym wyznaniem całego Kościoła apostolskiego."
+      ]
+     ]
     },
     {
      "type": "recepcja",
      "title": "VII. Znaczenie w historii i liturgii Kościoła",
-     "body": "Żaden werset Janowy nie wszedł do liturgii głębiej niż 1,29: *Ecce Agnus Dei, ecce qui tollit peccata mundi* (Oto Baranek Boży, oto Ten, który gładzi grzechy świata) — kapłan powtarza słowa Chrzciciela przed każdą Komunią, czyniąc z całego Kościoła wspólnotę wskazywanych i wskazujących; śpiew *Agnus Dei* (Baranku Boży) wprowadził do Mszy rzymskiej papież Sergiusz I (koniec VII w.), a Gloria woła do Baranka od starożytności. Ikonografia zna Baranka z chorągwią (zwycięstwo przez ofiarę) i Chrzciciela z palcem wyciągniętym — u Grünewalda palec ten jest nienaturalnie długi, bo taka jest cała funkcja Jana. Czytania: II Niedziela zwykła roku A (J 1,29–34); Wschód wspomina scenę w ramach święta Teofanii (Objawienia — Chrztu Pańskiego, 6 I).",
-     "children": []
+     "body": "",
+     "children": [
+      [
+       "Liturgia: Agnus Dei",
+       "Żaden werset Janowy nie wszedł do liturgii głębiej niż 1,29: Ecce Agnus Dei, ecce qui tollit peccata mundi (Oto Baranek Boży, oto Ten, który gładzi grzechy świata) — kapłan powtarza słowa Chrzciciela przed każdą Komunią, czyniąc z całego Kościoła wspólnotę wskazywanych i wskazujących; wierni odpowiadają słowami setnika, a łaciński tekst mszalny zmienia Janową liczbę pojedynczą (peccatum — grzech) na mnogą (peccata — grzechy), co teologowie odnotowują jako drobne spłycenie oryginału. Śpiew Agnus Dei przy łamaniu Chleba wprowadził do Mszy rzymskiej papież Sergiusz I (koniec VII w.), Syryjczyk znający Wschód; Gloria woła do Baranka od starożytności, a litania baranka zamyka też Te Deum pobożności ludowej. Czytania: II Niedziela zwykła roku A (J 1,29–34); Wschód wspomina scenę w ramach Teofanii (6 I) — święta chrztu Pańskiego, które liturgicznie jest „objawieniem\" tego, co nasza perykopa zeznaje."
+      ],
+      [
+       "Ikonografia i duchowość",
+       "Ikonografia zna Baranka z chorągwią zwycięstwa (zwycięstwo przez ofiarę — od mozaik Rawenny po Ołtarz Gandawski braci van Eyck, gdzie Baranek na ołtarzu jest osią całej kompozycji) i Chrzciciela z wyciągniętym palcem — u Grünewalda nienaturalnie długim, z barankiem u stóp trzymającym krzyż. Po sporach obrazoburczych synod trullański (692 r., kanon 82) nakazał przedstawiać Chrystusa w postaci ludzkiej zamiast baranka — Zachód zachował oba języki. W duchowości „oto Baranek Boży\" stało się formułą adoracji eucharystycznej i szkołą spojrzenia: nie analizować, lecz wskazywać; nie tłumaczyć Boga, lecz Go pokazywać. A podwójne „nie znałem Go\" weszło do teologii duchowości jako opis nocy wiary: świadek może być posłany do świadczenia o Tym, którego zna tylko przez znak i słowo — posłuszeństwo poprzedza zażyłość."
+      ]
+     ]
     },
     {
      "type": "patrystyka",
      "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
-     "body": "Katena do Baranka: teraźniejszość dźwigania, gołębica jedności, Duch, który pozostał.",
+     "body": "Katena do Baranka — sześć głosów: teraźniejszość dźwigania (Chryzostom), typologia baranka rozpisana na głosy (Orygenes), gołębica jedności (Augustyn), Duch, który pozostał dla nas (Cyryl), i pokora tytułu ofiarniczego.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: dzień drugi tygodnia inauguracji ustawia oś, wokół której obróci się cała księga — Mesjasz zostaje przedstawiony Izraelowi nie jako triumfator, lecz jako Baranek Boży, który dźwiga grzech świata; znakiem Jego tożsamości jest Duch, który nie przelatuje, lecz pozostaje; a drogą do tego poznania nie była niczyja przenikliwość — świadek dwakroć wyznał „nie znałem Go\" — lecz znak i słowo przyjęte w posłuszeństwie. Od ofiary do synostwa, przez trwanie Ducha: to porządek, w którym Kościół do dziś poznaje swojego Pana i którym mierzy wszystko, co podaje się za mesjańskie. A ponieważ słowa tej sceny wróciły w liturgii przed każdą Komunią, perykopa nie jest wspomnieniem znad Jordanu: jest tym, co słyszymy za każdym razem, gdy Baranek zostaje nam wskazany — i za każdym razem od nowa jest prawdą, że stoi pośród nas Ten, którego nie znamy dość.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — Orygenes (Comm. in Io. VI), św. Jan Chryzostom (Hom. in Io. 17–18), św. Augustyn (Tract. in Io. 4–6), św. Cyryl Aleksandryjski (In Io., ks. II) i św. Tomasz (Super Ioannem, cap. I, lect. 14).*",
      "children": []
     }
    ],
@@ -1609,6 +2150,45 @@
      "J 19,36",
      "rozwiniecie",
      "kości Mu nie złamano — Pascha spełniona"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ez",
+     36,
+     25,
+     36,
+     27,
+     "Ez 36,25–27",
+     "tlo",
+     "woda czysta, serce nowe, Duch nowy — Ezechielowa gramatyka chrztu z wody i Ducha"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     61,
+     1,
+     61,
+     1,
+     "Iz 61,1",
+     "tlo",
+     "Duch Pana nade mną, bo mnie namaścił — namaszczenie Pomazańca widzialne nad Jordanem"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     19,
+     33,
+     19,
+     36,
+     "J 19,33–36",
+     "rozwiniecie",
+     "kości nie złamane — klamra paschalna tytułu Baranka domknięta w Męce"
     ]
    ],
    "patristic": [
@@ -1632,6 +2212,27 @@
      "Commentarii in Ioannem",
      "In Io., ks. II",
      "Dlaczego Duch zstępuje na Tego, który od wieczności Go posiada? Cyryl: nie dla Niego — dla nas. Adam otrzymał tchnienie i przez grzech utracił stałość daru; w Chrystusie, nowym Adamie, Duch *pozostał* — powrócił do natury ludzkiej jak do siedziby, z której już nie odleci, aby z Niego, jako z korzenia rodu, rozlać się na całe człowieczeństwo. Namaszczenie Głowy jest namaszczeniem ciała: co spoczęło na Nim nad Jordanem, spływa na nas w chrzcie."
+    ],
+    [
+     "w. 29",
+     "Orygenes",
+     "Komentarz do Ewangelii Jana",
+     "Comm. in Io. VI,51–53",
+     "Orygenes pierwszy rozpisuje tytuł Baranka na rejestry, które egzegeza po nim tylko porządkowała: baranek paschalny, którego krew osłania; baranek Iz 53 prowadzony na rzeź w milczeniu; i — ulubione odkrycie Orygenesa — baranek ofiary ustawicznej (tamid): jak tamten składany był rano i wieczorem każdego dnia, tak ofiara Chrystusa jest „ustawiczna\" — nie powtarzana, lecz nieprzerwanie obecna przed Ojcem i nieprzerwanie czynna w duszach. Stąd czas teraźniejszy ὁ αἴρων: Baranek dźwiga grzech świata dziś — i będzie dźwigał, aż ostatni grzech zostanie zdjęty; egzegeta aleksandryjski widzi w tym nadzieję o kosmicznym rozmachu: dzieło Baranka nie spocznie, póki „grzech świata\" nie zniknie ze świata."
+    ],
+    [
+     "w. 29",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 4,10",
+     "Augustyn zatrzymuje się nad pokorą tytułu: Jan mógł powiedzieć „oto Sędzia\", „oto Król\" — powiedział „oto Baranek\". Bóg przychodzi w postaci, która nie budzi lęku, bo lęk nie rodzi miłości; baranek jest zwierzęciem, które można wziąć na ręce. Ale w tej łagodności kryje się moc większa niż w grzmocie: qui tollit — który dźwiga i usuwa; nikt inny nie udźwignął tego ciężaru, bo każdy inny sam był jego częścią. Stąd Augustynowa reguła pociechy: nie usunie grzechu świata ten, kto nie jest bez grzechu — i dlatego nie rozpaczaj nad sobą: nie tobie kazano udźwignąć siebie; twoje jest przynieść ciężar tam, gdzie stoi Dźwigający."
+    ],
+    [
+     "w. 34",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 17",
+     "Podwójne perfectum zeznania — „zobaczyłem i zaświadczyłem\" — Chryzostom czyta jak akt notarialny: świadectwo złożone, zapieczętowane i nieodwołalne; Jan nie mówi „wydaje mi się\", lecz stawia całe życie jako podpis. Kaznodzieja wyciąga z tego naukę o odpowiedzialności słowa: świadek, który widział, jest dłużnikiem tych, którzy nie widzieli — miarą wiarygodności nie jest siła przekonania, lecz gotowość zapłacenia za zeznanie (Jan zapłaci głową). A ostatnie zdanie perykopy — „Ten jest Synem Bożym\" — jest u Chryzostoma szczytem drogi świadka: zaczął od „nie jestem\", skończył na „Ten jest\"; im mniej zostało z niego, tym więcej miejsca na prawdę."
     ]
    ],
    "liturgy": [
@@ -1696,8 +2297,46 @@
      [
       "pericope"
      ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 34"
+     ]
+    ],
+    [
+     "ἦν / ἐγένετο — trwanie a stawanie się",
+     [
+      "block",
+      "w. 30–31"
+     ]
     ]
-   ]
+   ],
+   "struktura": "Scena jest zbudowana jako monolog świadka — Jezus nie wypowiada w niej ani słowa, nie wykonuje żadnego gestu: przychodzi (ἐρχόμενον, w. 29) i jest wskazywany. Cały ciężar spoczywa na zeznaniu, które ma budowę koncentryczną: (A) tytuł otwierający — Baranek Boży dźwigający grzech świata (w. 29); (B) przypomnienie wcześniejszego świadectwa o preegzystencji (w. 30, dosłowna klamra z w. 15); (C) centrum — podwójne wyznanie niewiedzy „i ja Go nie znałem\" (w. 31.33), rozdzielone relacją o znaku Ducha (w. 32); (B′) słowo Posyłającego jako źródło rozpoznania (w. 33); (A′) tytuł zamykający — Syn Boży (w. 34). Ruch całości prowadzi od ofiary (Baranek) do synostwa (Syn Boży) przez trwanie Ducha — trzy elementy, które chrzest chrześcijański połączy w jedno na zawsze. Dwukrotne „nie znałem\" w samym środku to teologiczny kręgosłup sceny: świadectwo nie wyrasta z ludzkiej przenikliwości, lecz z objawienia; między „nie znałem\" a „zaświadczyłem\" stoi tylko znak i słowo — dokładnie ta sama droga, którą przejdzie każdy wierzący.",
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. I, lect. 14; S. Th. III, q. 7–8.38",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład tytułu Baranka i teologia pełni łaski Chrystusa (gratia capitis); natura chrztu Janowego.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Dyskusja trzech głównych wykładni tytułu Baranka (paschalna, Iz 53/talja, apokaliptyczna) i wariantu ὁ ἐκλεκτός w w. 34.",
+     "The Gospel According to John (Anchor Bible)"
+    ]
+   ],
+   "revision_note": "Baranek Boży (J 1,29–34) doprowadzony do pełnej egzegezy: struktura koncentryczna zeznania, nowe jednostki (φανερωθῇ, τεθέαμαι), rozbudowa sekcji II–VII (talja, chrzest w Duchu, Agnus Dei), katena rozszerzona do sześciu głosów, cytowania; status: ukończona"
   },
   {
    "pericope": {
@@ -1707,7 +2346,7 @@
     "ve": 42,
     "title": "Pierwsi uczniowie",
     "motto": "Magister, ubi habitas? (Nauczycielu, gdzie mieszkasz?)",
-    "status": "w_opracowaniu",
+    "status": "ukonczona",
     "position": 5
    },
    "intro": "Dzień trzeci tygodnia inauguracji: świadectwo wydaje owoc. Dwóch uczniów odchodzi od Jana ku Jezusowi — i zaczyna się łańcuch, który nie urwał się do dziś: usłyszeć, pójść, zamieszkać, znaleźć brata.",
@@ -1725,6 +2364,11 @@
        "ἠκολούθησαν τῷ Ἰησοῦ",
        "poszli za Jezusem",
        "Największa godzina Chrzciciela: mówi „oto Baranek Boży\" — i traci dwóch najlepszych uczniów. Ἀκολουθέω (iść za) to techniczne słowo uczniostwa: chodzić za rabbim, wstępować w jego ślady, dosłownie i duchowo. Jan nie zatrzymuje nikogo przy sobie — świadectwo, które gromadzi wokół świadka, jest zdradą świadectwa. Zwięzłość sceny jest jej teologią: usłyszeli — poszli; między słowem świadka a krokiem ucznia nie ma nic, żadnej agitacji, żadnego cudu."
+      ],
+      [
+       "πάλιν εἱστήκει ... καὶ ἐμβλέψας",
+       "znowu stał ... i wpatrzywszy się",
+       "Dwa czasowniki rysują portret świadka w przededniu zmierzchu. Εἱστήκει (stał — plusquamperfectum o sile trwania): Jan trwa na posterunku, choć wczoraj powiedział już wszystko; wierność świadectwu mierzy się nie nowością, lecz powtarzalnością. Ἐμβλέψας (wpatrzywszy się — od ἐμβλέπω: spojrzeć w głąb, z uwagą) — to samo intensywne spojrzenie, którym za chwilę Jezus obejmie Szymona (w. 42): ewangelista dyskretnie zrównuje jakość patrzenia mistrza i Mistrza. Owocem wpatrzenia jest zdanie najkrótsze z możliwych: ἴδε ὁ ἀμνὸς τοῦ θεοῦ (oto Baranek Boży) — bez wczorajszego wykładu o dźwiganiu grzechu, bez tytułów; dojrzałe świadectwo kondensuje się do wskazania. I dopiero ta wersja skrócona okazuje się skuteczna: po kazaniu z w. 29 nie poszedł nikt, po dwóch słowach z w. 36 — dwóch; słowo świadka działa nie objętością, lecz ciężarem właściwym."
       ]
      ]
     },
@@ -1746,6 +2390,11 @@
        "ἔρχεσθε καὶ ὄψεσθε",
        "przyjdźcie, a zobaczycie",
        "Metoda Jezusowa w trzech słowach: nie wykład, lecz zaproszenie do doświadczenia; poznanie przychodzi po przyjściu (tę samą formułę powtórzy Filip Natanaelowi, w. 46). Ἔμειναν παρ᾿ αὐτῷ (pozostali u Niego) — znów μένω (trwać): zamieszkanie u Jezusa jest pierwszą lekcją, zanim padnie jakakolwiek nauka. Ὥρα ἦν ὡς δεκάτη (była około godziny dziesiątej — ok. 16:00): szczegół bez funkcji fabularnej, za to z funkcją świadka — tak pamięta się godzinę, która przełamała życie. Jeśli narratorem jest drugi z uczniów (bezimienny — umiłowany?), to jest to godzina jego własnego początku."
+      ],
+      [
+       "στραφεὶς δὲ ὁ Ἰησοῦς",
+       "Jezus zaś odwróciwszy się",
+       "Pierwszy ruch Jezusa w czwartej Ewangelii: nie czeka, aż idący za Nim odważą się zagadnąć — odwraca się pierwszy. Στραφείς (odwróciwszy się) jest czułym szczegółem teologii łaski: między ludzkim pójściem a Boskim pytaniem nie ma etapu zasłużonego dostępu; kto rusza za Jezusem, tego Jezus już widzi. Ten sam czasownik wróci w scenie wielkanocnej — Maria Magdalena „odwróciła się\" (ἐστράφη, J 20,14.16) i rozpoznała Zmartwychwstałego po imieniu: księga jest spięta dwoma odwróceniami, u progu i u celu. Θεασάμενος (zobaczywszy — znów kontemplacyjne θεάομαι z 1,14.32): Jezus nie zerka przez ramię, lecz ogarnia idących spojrzeniem, które czyta; z tego spojrzenia rodzi się pytanie sięgające dna woli."
       ]
      ]
     },
@@ -1767,6 +2416,11 @@
        "σὺ κληθήσῃ Κηφᾶς",
        "ty będziesz nazwany Kefas",
        "Jezus ἐμβλέψας (wpatrzywszy się — spojrzeniem, które czyta wnętrze, tym samym co w w. 36 u Chrzciciela) dokonuje aktu władzy biblijnej: zmiany imienia. Nadanie imienia to w Biblii wytyczenie przeznaczenia — Abram stał się Abrahamem, Jakub Izraelem; Szymon będzie Kefasem (aram. kefa — skała; gr. Πέτρος). Czas przyszły κληθήσῃ (będziesz nazwany) czyni z imienia proroctwo: nie opis obecnego charakteru (Szymon okaże się chwiejny), lecz zapowiedź tego, czym uczyni go łaska. Jan zakłada u czytelnika znajomość dalszego ciągu (Mt 16,18) — i pokazuje jego początek: skała zaczęła się od spojrzenia."
+      ],
+      [
+       "ἤγαγεν αὐτὸν πρὸς τὸν Ἰησοῦν",
+       "przyprowadził go do Jezusa",
+       "Najkrótsza definicja apostolstwa w całym Piśmie: trzy słowa, żaden z nich nie znaczy „przekonał\". Andrzej nie wygłasza bratu chrystologii — wypowiada jedno zdanie wyznania (εὑρήκαμεν — znaleźliśmy) i wykonuje jeden ruch: prowadzi do. Czasownik ἄγω (prowadzić) zakłada, że cel ma własną moc — przewodnik nie musi być siłą argumentu, wystarczy, że zna drogę; dalsze (spojrzenie, imię, powołanie) uczyni już sam Jezus. Ewangelista ustawia w ten sposób hierarchię ewangelizacji na zawsze: świadek doprowadza, Pan przemienia — kto próbuje sam przemieniać, myli role; kto nie doprowadza, myli powołanie. Warto zauważyć, że największy owoc pracy Andrzeja jest większy od niego: przyprowadził przyszłego Piotra — miarą świadka nie jest własna wielkość, lecz wielkość tych, których przyprowadził."
       ]
      ]
     }
@@ -1775,43 +2429,123 @@
     {
      "type": "kontekst",
      "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
-     "body": "**Rabbi i uczniowie.** Ῥαββί (hebr. rabbi — „mój wielki\", mistrzu) — tytuł nauczycielski, który Jan konsekwentnie tłumaczy greckim czytelnikom (διδάσκαλε — nauczycielu): ślad środowiska dwujęzycznego. W zwyczajnej relacji rabinackiej to uczeń wybierał mistrza i prosił o przyjęcie; tutaj porządek jest odwrócony w połowie — uczniowie przychodzą od Jana, ale to Jezus pierwszy się odwraca, pyta i zaprasza (a Filipa po prostu powoła: „pójdź za Mną\"). **Godziny.** Liczenie od świtu: godzina dziesiąta ≈ 16:00 — pora zbyt późna na powrót, naturalnie tłumaczy nocleg; pamięć konkretu wskazuje na wspomnienie uczestnika. **Imiona.** Andrzej i Filip noszą imiona greckie (Betsaida — pogranicze kultur); Kefas jest aramejski: pierwsza wspólnota od początku mówi dwoma językami, a ewangelista jest jej tłumaczem.",
-     "children": []
+     "body": "Scena oddycha realiami szkoły rabinackiej, dwujęzycznej Galilei i wschodniego liczenia godzin — a każdy z tych konkretów niesie ładunek teologiczny.",
+     "children": [
+      [
+       "Rabbi i uczniowie",
+       "Ῥαββί (hebr. rabbi — „mój wielki\", mistrzu) — tytuł nauczycielski, który Jan konsekwentnie tłumaczy greckim czytelnikom (διδάσκαλε — nauczycielu): ślad środowiska dwujęzycznego i troski o czytelnika spoza Izraela. W zwyczajnej relacji rabinackiej to uczeń wybierał mistrza i prosił o przyjęcie do szkoły; sekwencja Janowa jest subtelniejsza: uczniowie przychodzą od Jana (posłani świadectwem), ale to Jezus pierwszy się odwraca i pyta, a nazajutrz Filipa po prostu powoła („pójdź za Mną\") — inicjatywa krąży między świadkiem, szukającym i Panem, żaden schemat nie wyczerpuje działania łaski. „Chodzić za\" (ἀκολουθεῖν) mistrzem znaczyło dosłownie iść za nim drogą — uczyć się nie z wykładów, lecz z życia dzielonego: nocleg u Jezusa (w. 39) jest więc pierwszą lekcją w najściślejszym sensie szkoły rabinackiej — tyle że tu mieszkanie okaże się samą treścią nauki."
+      ],
+      [
+       "Godzina dziesiąta",
+       "Liczenie od świtu: godzina dziesiąta ≈ 16:00 — pora, po której nie wracało się już w drogę; naturalnie tłumaczy nocleg. Ale pamięć tej godziny po sześćdziesięciu latach to coś więcej niż chronologia: tak pamięta się momenty, które przełamały życie — każdy nawrócony zna „swoją godzinę dziesiątą\". Egzegeza starożytna (od Augustyna) dodawała wykład symboliczny: dziesiątka jako liczba Prawa (dziesięć słów) — uczniowie przyszli do Tego, który Prawo wypełnia; lektura dowolna, lecz świadcząca, jak wcześnie czytelnicy wyczuli, że w tej Ewangelii nawet cyfry nie są przypadkowe. Najprostsza i najmocniejsza pozostaje jednak lektura świadka: jeśli bezimienny towarzysz Andrzeja to przyszły autor (lub świadek stojący za księgą), w. 39 jest metryką jego narodzin — zapamiętał godzinę, bo od niej liczy się wszystko, co potem napisał."
+      ],
+      [
+       "Imiona i języki Betsaidy",
+       "Andrzej (Ἀνδρέας) i Filip noszą imiona czysto greckie — jedyni tacy w Dwunastu; Szymon (Szim'on) i jego nowe imię Kefas są semickie. Betsaida (dom rybaka), miasto ich pochodzenia (w. 44), leżała na pograniczu tetrarchii — świat żydowski i hellenistyczny stykały się tam na co dzień. Pierwsza wspólnota mówi więc od początku dwoma językami, a ewangelista jest jej tłumaczem: w naszej perykopie aż trzykrotnie tłumaczy terminy (rabbi → nauczyciel; Mesjasz → Chrystus; Kefas → Piotr) — nikt w NT nie tłumaczy tak systematycznie. To nie pedanteria: to program uniwersalizmu Prologu (światłość oświeca każdego człowieka) wykonany w praktyce pisarskiej. I zapowiedź ról: to właśnie do Filipa i Andrzeja — ludzi z greckimi imionami — przyjdą w godzinie palm „Grecy\", chcący ujrzeć Jezusa (J 12,20–22); pierwsi powołani zostaną pierwszymi pomostami."
+      ],
+      [
+       "Mesjasz — skamielina pierwszej godziny",
+       "Μεσσίας — surowa, nieprzetłumaczona aramejska forma (meszicha — pomazaniec) pojawia się w całym NT tylko dwa razy, oba u Jana (1,41; 4,25). To językowa skamielina pierwszej godziny: tak mówiło się nad Jordanem, zanim Kościół przeszedł na greckie χριστός. Ewangelista, pisząc po latach dla świata greckiego, zachował brzmienie tamtego poranka i dodał tłumaczenie — jak ktoś, kto w rodzinnej opowieści zostawia zdanie w gwarze dziadków, bo w przekładzie wyparowałoby wzruszenie. Wyznanie Andrzeja jest przy tym teologicznie „wczesne\": znaleźć Mesjasza znaczyło wtedy — króla namaszczonego, spełnienie nadziei Izraela; do „Pana mego i Boga mego\" (20,28) droga daleka. Jan pokazuje wiarę w ruchu: zaczyna się od tytułów, jakie człowiek ma pod ręką, a Pan cierpliwie prowadzi ją wyżej."
+      ]
+     ]
     },
     {
      "type": "teologia",
      "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
-     "body": "**1. Pragnienie i łaska.** „Czego szukacie?\" — łaska nie wchodzi w człowieka obok jego pragnień, lecz przez nie: Tomasz uczy, że łaska zakłada naturę i ją doskonali (*gratia non tollit naturam, sed perficit* — łaska nie znosi natury, lecz ją doskonali); pierwsze słowo Zbawiciela bada więc naturę — jej głód — zanim poda pokarm.\n\n**2. Poznanie przez zamieszkanie.** „Przyjdźcie, a zobaczycie\": poznanie rzeczy Bożych jest poznaniem przez współnaturalność (*per connaturalitatem*) — smakuje się je, przebywając; stąd pierwszą katechezą jest wspólny wieczór, nie traktat. Wiedza o Bogu z samego słyszenia ma się do wiedzy z zamieszkania jak mapa do kraju.\n\n**3. Imię i przeznaczenie.** Zmiana imienia to po tomistycznie znak wybrania do urzędu: łaska uzdalnia do tego, co przekracza naturę — Szymon z natury trzcina, z łaski skała. Predestynacja urzędu nie gwałci wolności: „będziesz nazwany\" zostawia całą drogę (i upadki) między obietnicą a spełnieniem.",
-     "children": []
+     "body": "Pytanie o pragnienie, poznanie przez zamieszkanie i teologia imienia — trzy tomistyczne węzły sceny; Tomasz komentuje ją w Super Ioannem (cap. I, lect. 15).",
+     "children": [
+      [
+       "1. Pragnienie i łaska",
+       "„Czego szukacie?\" — łaska nie wchodzi w człowieka obok jego pragnień, lecz przez nie: Tomasz uczy, że łaska zakłada naturę i ją doskonali (gratia non tollit naturam, sed perficit); pierwsze słowo Zbawiciela bada więc naturę — jej głód — zanim poda pokarm. Pytanie jest terapeutyczne w ścisłym sensie: zmusza szukających, by nazwali własne pragnienie, bo pragnienie nienazwane błądzi, a nazwane staje się drogą. Tomistyczna analiza pożądania dopowie: wszystkie pragnienia cząstkowe (wiedzy, bezpieczeństwa, przyjaźni) są rozproszonymi promieniami jednego pragnienia szczęścia, które w istocie jest pragnieniem Boga, choć nie wie o tym; odpowiedź uczniów — „gdzie mieszkasz?\" — jest więc trafniejsza, niż mogli wiedzieć: szczęściem, którego szukali, okaże się zamieszkanie."
+      ],
+      [
+       "2. Poznanie przez zamieszkanie",
+       "„Przyjdźcie, a zobaczycie\": poznanie rzeczy Bożych jest poznaniem przez współnaturalność (per connaturalitatem) — smakuje się je, przebywając; stąd pierwszą katechezą jest wspólny wieczór, nie traktat. Tomasz rozróżnia poznanie przez naukę (per doctrinam) i przez skłonność miłości (per inclinationem): o czystości lepiej sądzi czysty niż etyk — o Jezusie lepiej zaświadczy ten, kto u Niego zamieszkał, niż ten, kto o Nim przeczytał. Kolejność sceny jest przeciwintuicyjna i nieprzypadkowa: najpierw pozostali u Niego (w. 39), potem wyznali Mesjasza (w. 41) — doświadczenie poprzedza formułę, komunia poprzedza chrystologię. Ewangelista zamilczał treść tamtego wieczoru nie przez zapomnienie: tego poznania nie da się przekazać w protokole — każdy musi przyjść i zobaczyć; wiedza o Bogu z samego słyszenia ma się do wiedzy z zamieszkania jak mapa do kraju."
+      ],
+      [
+       "3. Imię i przeznaczenie",
+       "Zmiana imienia to po tomistycznie znak wybrania do urzędu: łaska uzdalnia do tego, co przekracza naturę — Szymon z natury trzcina (porywczy, chwiejny, jak pokaże cała Ewangelia), z łaski skała. Czas przyszły κληθήσῃ (będziesz nazwany) zostawia całą drogę — i upadki — między obietnicą a spełnieniem: imię nie jest dyplomem za osiągnięcia, lecz kredytem łaski (jak powie Chryzostom w katenie). Tomasz dopowiada zasadę: quos Deus eligit, hos facit idoneos — kogo Bóg wybiera, tego czyni zdatnym; wybranie nie zakłada kwalifikacji, lecz je stwarza. Predestynacja urzędu nie gwałci przy tym wolności: Piotr będzie mógł zaprzeć się trzykrotnie — a imię poczeka na niego przy węglowym ognisku (J 21,15–17), bo obietnice Boże są cierpliwsze niż ludzkie upadki."
+      ],
+      [
+       "4. Przyczyny wtórne apostolstwa",
+       "Scena jest podręcznikowym wykładem tomistycznej nauki o przyczynach wtórnych: Bóg mógłby powoływać każdego bezpośrednio — woli działać przez łańcuch stworzeń, „aby stworzenia miały godność przyczyn\". Jan wskazuje, Andrzej prowadzi, Jezus przemienia: żadne ogniwo nie jest zbędne i żadne nie wystarcza samo. Stąd dwie pociechy i jedno ostrzeżenie. Pociecha pierwsza: nikt nie nawraca nikogo — od przemiany jest Pan; wolno odetchnąć. Pociecha druga: nikt nie jest za mały na ogniwo — wystarczy jedno zdanie i jeden spacer do Jezusa. Ostrzeżenie: łańcuch rwie się w ogniwie, które chce być klamrą — świadek zatrzymujący uczniów przy sobie (czego Jan nie zrobił) przerywa obieg łaski. Cała teologia pośrednictwa — Kościoła, sakramentów, świętych — jest rozwinięciem tej sceny nadjordańskiej."
+      ]
+     ]
     },
     {
      "type": "autor_ludzki",
      "title": "IV. Autor ludzki: kim jest i co chce przekazać",
-     "body": "Scena nosi znamiona wspomnienia osobistego: bezimienny drugi uczeń, zapamiętana godzina, brak jakiejkolwiek treści wieczornej rozmowy (świadek nie zmyśla tego, czego nie wolno mu powtórzyć albo czego nie potrzeba). Jeśli — jak chce tradycja — tym drugim jest sam autor, to w. 39 jest jego podpisem złożonym w rogu obrazu. Zamysł literacki: powołanie pokazane jako łańcuch osobistych spotkań i „znalezień\", bez tłumów i cudów — wzór ewangelizacji, w którym każde ogniwo mówi tylko jedno zdanie i prowadzi do Osoby.",
+     "body": "Scena nosi znamiona wspomnienia osobistego: bezimienny drugi uczeń, zapamiętana godzina, brak jakiejkolwiek treści wieczornej rozmowy (świadek nie zmyśla tego, czego nie wolno mu powtórzyć albo czego nie potrzeba). Jeśli — jak chce tradycja — tym drugim jest sam autor, to w. 39 jest jego podpisem złożonym w rogu obrazu: anonimowość konsekwentna aż po „ucznia, którego Jezus miłował\" i celowa — czytelnik ma móc wstawić siebie w puste miejsce drugiego ucznia. Zamysł literacki całości: powołanie pokazane jako łańcuch osobistych spotkań i „znalezień\", bez tłumów i cudów — wzór ewangelizacji, w którym każde ogniwo mówi jedno zdanie i prowadzi do Osoby. Autor komponuje przy tym z rozmysłem większą ramę: pierwsze pytanie Jezusa w księdze („czego szukacie?\", 1,38) i pierwsze pytanie Zmartwychwstałego („kogo szukasz?\", 20,15) tworzą inkluzję, wewnątrz której zamyka się cała droga ucznia — od „czego\" do „kogo\", od ciekawości do miłości. Kto zauważy tę klamrę, ten zrozumie, po co ewangelista pamiętał godzinę dziesiątą: księga jest pisana przez człowieka, który na pytanie „czego szukasz?\" odpowiadał całym życiem — i chce, by czytelnik usłyszał to pytanie jako swoje.",
      "children": []
     },
     {
      "type": "autor_bozy",
      "title": "V. Autor Boży: co Duch Święty chce przekazać",
-     "body": "Duch Święty kreśli w tej scenie stały porządek nawrócenia: świadectwo → pójście → pytanie o pragnienie → zamieszkanie → wyznanie → misja. Żaden etap nie jest ozdobny i żaden nie bywa pomijany bezkarnie: wiara bez zamieszkania jest pogłoską, zamieszkanie bez misji — przytulnością. Pytanie „czego szukacie?\" Duch kieruje do czytelnika każdej epoki jako pierwsze słowo Chrystusa także do niego; a przez zapamiętaną godzinę dziesiątą przypomina, że zbawienie dzieje się w konkrecie: ma datę, adres i porę dnia.",
+     "body": "Duch Święty kreśli w tej scenie stały porządek nawrócenia: świadectwo → pójście → pytanie o pragnienie → zamieszkanie → wyznanie → misja. Żaden etap nie jest ozdobny i żaden nie bywa pomijany bezkarnie: wiara bez zamieszkania jest pogłoską, zamieszkanie bez misji — przytulnością. Pytanie „czego szukacie?\" Duch kieruje do czytelnika każdej epoki jako pierwsze słowo Chrystusa także do niego; a przez zapamiętaną godzinę dziesiątą przypomina, że zbawienie dzieje się w konkrecie: ma datę, adres i porę dnia — nie jest ideą, która obowiązuje zawsze i nigdzie, lecz spotkaniem, które zdarzyło się raz i odtąd promieniuje. Jest wreszcie w scenie pedagogika rodzinności, którą Duch zdaje się szczególnie cenić: pierwszy ochrzczony odruch znalazcy prowadzi do własnego brata — łaska szanuje naturalne więzi i po nich wspina się jak po kracie; kto szuka pola misyjnego, niech zacznie od swojego stołu. A bezimienność drugiego ucznia jest zaproszeniem otwartym: to miejsce w scenie Duch zostawił puste — dla każdego, kto czyta.",
      "children": []
     },
     {
      "type": "odniesienia",
      "title": "VI. Sieć odniesień biblijnych",
-     "body": "**Pnp 3,1–4 → w. 38–39.** Szukanie Umiłowanego („szukałam tego, którego miłuje dusza moja... znalazłam\") — oblubieńcza matryca pary ζητέω–εὑρίσκω (szukać–znaleźć); mistyka od Orygenesa czyta powołanie uczniów tym kluczem.\n\n**J 20,15–16 → w. 38.** „Kogo szukasz?... Rabbuni!\" — inkluzja z Magdaleną: pierwsze i wielkanocne pytanie Jezusa spina księgę.\n\n**Mt 16,17–18 → w. 42.** „Ty jesteś Piotr-Skała\" — synoptyczne dopełnienie obietnicy imienia; Jan pokazuje zasiew, Mateusz żniwo.\n\n**Rdz 17,5; 32,29 → w. 42.** Abram→Abraham, Jakub→Izrael: biblijna gramatyka zmiany imienia jako zmiany przeznaczenia.\n\n**Mk 1,16–20 → całość.** Powołanie nad jeziorem — inna tradycja tej samej rzeczywistości: tam zerwanie z sieciami, tu dojrzewanie od świadectwa; harmonizacja klasyczna widzi w J 1 pierwsze spotkanie, u synoptyków — definitywne wezwanie.",
-     "children": []
+     "body": "",
+     "children": [
+      [
+       "Pnp 3,1–4 → w. 38–39",
+       "Szukanie Umiłowanego: „szukałam tego, którego miłuje dusza moja… znalazłam umiłowanego mej duszy, pochwyciłam go i nie puszczę\". Para ζητέω–εὑρίσκω (szukać–znaleźć), na której zbudowana jest cała scena, ma w Pieśni swoją oblubieńczą matrycę — i mistyka od Orygenesa czyta powołanie uczniów tym kluczem: pierwsze „czego szukacie?\" jest początkiem historii miłosnej, nie rekrutacji. Zauważmy, że i finał Pieśni („wprowadziłam go do domu mej matki\") rezonuje z Janowym zamieszkaniem: szukanie kończy się nie informacją, lecz wspólnym domem."
+      ],
+      [
+       "Ps 34,9 → w. 39",
+       "„Skosztujcie i zobaczcie, jak dobry jest Pan\" — psalmiczna formuła poznania przez doświadczenie, którą starożytność chrześcijańska śpiewała przy Komunii. „Przyjdźcie, a zobaczycie\" Jezusa jest jej narracyjnym bliźniakiem: obie odwracają porządek szkolny — najpierw smak, potem wiedza; obie zakładają, że dobroci Boga nie da się dowieść z zewnątrz, można ją tylko podać do skosztowania. Liturgia eucharystyczna, śpiewając Ps 34 przy podejściu wiernych do stołu, powtarza dokładnie gest tej sceny: zaproszenie do zamieszkania zamiast wykładu."
+      ],
+      [
+       "J 20,14–16 → w. 38",
+       "„Kogo szukasz?… Rabbuni!\" — wielkanocna inkluzja: pierwsze pytanie Jezusa w księdze i pierwsze pytanie Zmartwychwstałego mają tę samą składnię i przeciwny zaimek — „czego\" stało się „kogo\". Między nimi rozpina się cała pedagogia Ewangelii: przemienić szukanie rzeczy (nawet religijnych) w szukanie Osoby. I drugi szczegół wspólny: Magdalena, jak pierwsi uczniowie, odpowiada słowem „Rabbi/Rabbuni\" — wiara wraca w godzinie przełomu do swojego pierwszego słownika, jak człowiek w wielkim wzruszeniu wraca do mowy dzieciństwa."
+      ],
+      [
+       "Mt 16,17–18 → w. 42",
+       "„Ty jesteś Piotr-Skała i na tej skale zbuduję mój Kościół\" — synoptyczne dopełnienie obietnicy imienia: Jan pokazuje zasiew (imię nadane przy pierwszym spotkaniu, awansem), Mateusz żniwo (imię wyjaśnione po wyznaniu pod Cezareą). Zestawienie obu scen uczy rytmu Bożej pedagogiki: najpierw dar, potem rozumienie daru — Piotr nosił swoje imię latami, zanim usłyszał, co ono znaczy; tak każdy ochrzczony nosi imię „chrześcijanin\" na kredyt, którego sens odsłania się po drodze."
+      ],
+      [
+       "Rdz 17,5; 32,29 → w. 42",
+       "Abram→Abraham („ojcem mnóstwa narodów cię ustanowiłem\"), Jakub→Izrael (po walce nad Jabbokiem): biblijna gramatyka zmiany imienia. Imię nadaje ten, kto ma władzę nad nazywanym i zna jego przeznaczenie; nowe imię nie opisuje przeszłości, lecz stwarza przyszłość — jest słowem performatywnym, jak „niech się stanie\" z Rdz 1. Jezus, nadając Szymonowi imię przy pierwszym wejrzeniu, staje w miejscu, w którym w tych scenach stał Bóg — czytelnik Prologu wie, dlaczego ma do tego prawo."
+      ],
+      [
+       "Mk 1,16–20 → całość",
+       "Powołanie nad jeziorem — inna tradycja tej samej rzeczywistości: tam zerwanie z sieciami w jednej chwili, tu dojrzewanie od świadectwa przez nocleg do wyznania. Harmonizacja klasyczna (od Augustyna) widzi w J 1 pierwsze spotkanie w Judei, u synoptyków — definitywne wezwanie w Galilei: psychologicznie wiarygodne (radykalizm „natychmiast zostawili sieci\" zakłada wcześniejszą znajomość) i teologicznie pouczające: powołanie nie jest punktem, lecz procesem — ma swój wieczór pierwszej rozmowy i swój poranek ostatecznej decyzji."
+      ]
+     ]
     },
     {
      "type": "recepcja",
      "title": "VII. Znaczenie w historii i liturgii Kościoła",
-     "body": "Kościół czyta tę perykopę na II Niedzielę zwykłą roku B oraz — w części o Andrzeju — w święto Apostoła (30 XI); Wschód czci Andrzeja jako Πρωτόκλητος (Protokletos — Pierwszy Powołany), a scena z J 1 jest fundamentem tego tytułu i duchowego prymatu Konstantynopola („stolica Pierwszego Powołanego\"). „Przyjdź i zobacz\" stało się nazwą metody duszpasterskiej i rekolekcyjnej; ποῦ μένεις (gdzie mieszkasz?) — pytaniem mistyki o zamieszkanie w Chrystusie, rozwiniętym w J 15 (trwajcie we Mnie) i w tradycji monastycznej. Godzina dziesiąta bywała w komentarzach obrazem późnej pory świata: nigdy nie jest za późno pójść za Barankiem.",
-     "children": []
+     "body": "",
+     "children": [
+      [
+       "Liturgia i Andrzej Protokletos",
+       "Kościół czyta tę perykopę w II Niedzielę zwykłą roku B oraz — w części o Andrzeju — w święto Apostoła (30 XI); Wschód czci Andrzeja jako Πρωτόκλητος (Protokletos — Pierwszy Powołany), a scena z J 1 jest fundamentem tego tytułu i duchowego prymatu Konstantynopola („stolica Pierwszego Powołanego\") — w dialogu katolicko-prawosławnym para braci Piotr–Andrzej stała się ikoną dwóch płuc Kościoła: patriarchat Zachodu i Wschodu wywodzą się od synów jednego ojca, przyprowadzonych do jednego Pana. Godzina dziesiąta bywała w komentarzach obrazem późnej pory świata i życia: nigdy nie jest za późno pójść za Barankiem — nowicjaty i domy rekolekcyjne chętnie nadawały kaplicom wezwanie „godziny dziesiątej\"."
+      ],
+      [
+       "«Przyjdź i zobacz» — metoda",
+       "„Przyjdźcie, a zobaczycie\" stało się nazwą metody duszpasterskiej i rekolekcyjnej (od duszpasterstw powołaniowych po katechumenat dorosłych): chrześcijaństwa nie prezentuje się — do chrześcijaństwa się zaprasza; argumentem jest dom, w którym się mieszka. Ποῦ μένεις (gdzie mieszkasz?) zostało pytaniem mistyki o zamieszkanie w Chrystusie, rozwiniętym w J 15 (trwajcie we Mnie) i w tradycji monastycznej — od „mieszkania ze sobą\" św. Benedykta po „twierdzę wewnętrzną\" Teresy z Ávili; kierownictwo duchowe do dziś rozpoczyna się często od tych dwóch pytań sceny: czego naprawdę szukasz i gdzie mieszkasz — to znaczy: przy czym trwa twoje serce. A łańcuch „znalazł i przyprowadził\" jest wzorcem każdego świadectwa rodzinnego i przyjacielskiego: większość chrześcijan wszystkich epok przyszła do wiary dokładnie tą drogą — przez swojego Andrzeja."
+      ]
+     ]
     },
     {
      "type": "patrystyka",
      "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
-     "body": "Katena do powołania: pytanie o pragnienie, wieczór u Jezusa, brat prowadzący brata, imię-skała.",
+     "body": "Katena do powołania — sześć głosów: pytanie o pragnienie i wieczór u Jezusa (Augustyn), wytrwałość świadka i brat prowadzący brata (Chryzostom), zamieszkanie jako poznanie (Cyryl), imię-skała (Chryzostom, Augustyn).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: dzień trzeci tygodnia inauguracji pokazuje, jak świadectwo staje się Kościołem — dwa słowa dojrzałego świadka wystarczyły, by dwóch ludzi poszło; jedno pytanie Jezusa odsłoniło im ich własne pragnienie; jeden wieczór zamieszkania przemienił ciekawych w wierzących; a pierwszy poranek wiary zaczął się od znalezienia brata. Sekwencja usłyszeć — pójść — zamieszkać — znaleźć drugiego nie jest epizodem z historii: jest formułą chemiczną, według której wiara reprodukuje się od dwudziestu wieków, zawsze tak samo — osobiście, po imieniu, przez zaproszenie do domu. A ponieważ w samym środku sceny stoi bezimienny drugi uczeń i zapamiętana na całe życie godzina, perykopa zostawia czytelnikowi dwa puste miejsca do wypełnienia: swoje imię i swoją godzinę dziesiątą.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — św. Jan Chryzostom (Hom. in Io. 18–19), św. Augustyn (Tract. in Io. 7), św. Cyryl Aleksandryjski (In Io., ks. II) i św. Tomasz (Super Ioannem, cap. I, lect. 15).*",
      "children": []
     }
    ],
@@ -1908,6 +2642,45 @@
      "J 15,4",
      "rozwiniecie",
      "trwajcie we Mnie — dojrzała forma ποῦ μένεις"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     34,
+     9,
+     34,
+     9,
+     "Ps 34,9",
+     "tlo",
+     "skosztujcie i zobaczcie — poznanie przez doświadczenie; psalm komunijny jako echo zaproszenia Jezusa"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     15,
+     4,
+     15,
+     7,
+     "J 15,4–7",
+     "rozwiniecie",
+     "trwajcie we Mnie — μένειν z w. 38–39 rozwinięte w teologię zamieszkania wzajemnego"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     12,
+     20,
+     12,
+     22,
+     "J 12,20–22",
+     "rozwiniecie",
+     "Grecy przychodzą do Filipa i Andrzeja — pierwsi powołani jako pomosty do narodów"
     ]
    ],
    "patristic": [
@@ -1931,6 +2704,27 @@
      "Homilie na Ewangelię Jana",
      "Hom. in Io. 19",
      "Zmiana imienia jest u Chryzostoma dowodem Boskiej władzy i wiedzy: imiona nadaje ten, kto jest panem nazywanego i zna jego przyszłość — jak Bóg Abrahamowi. Jezus nazywa Szymona skałą, zanim ten cokolwiek zbudował i zanim trzykrotnie się zachwieje: imię nie jest dyplomem za osiągnięcia, lecz kredytem łaski. Chryzostom każe słuchaczom nosić własne imię chrzcielne tak samo: jako zadane, nie zdobyte."
+    ],
+    [
+     "w. 35–37",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 18",
+     "Chryzostom podziwia wytrwałość świadka: Jan mówił wczoraj i nikt nie poszedł — mówi dziś znowu, krócej, i idą dwaj. Kaznodzieja wyciąga z tego regułę siewu: słowo Boże nie wraca puste, ale rzadko owocuje w dniu zasiewu; kto zamilkł, bo „nie działa\", ten przerwał żniwa cudze. I drugą regułę, trudniejszą: świadek dojrzały cieszy się z odejścia słuchaczy — Jan patrzył za odchodzącymi uczniami jak ojciec za synami idącymi do lepszego domu; zazdrość o dusze, które prowadziliśmy, a które poszły dalej, jest u Chryzostoma znakiem, że służyliśmy sobie, nie Panu."
+    ],
+    [
+     "w. 38–39",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. II",
+     "„Przyjdźcie, a zobaczycie\" czyta Cyryl jako program epistemologii wiary: Chrystus nie odpowiada na pytanie o mieszkanie adresem, lecz zaproszeniem, bo mieszkania Bożego nie poznaje się z opisu — poznaje się je, wchodząc. Aleksandryjczyk dodaje rys chrystologiczny: prawdziwym „miejscem\", gdzie Jezus mieszka, jest łono Ojca (1,18); wieczór w gospodzie był sakramentem tamtego zamieszkania — uczniowie weszli pod dach, a zostali wprowadzeni w komunię. Dlatego Kościół nie może zapraszać inaczej niż Pan: nie do doktryny najpierw, lecz do domu — do liturgii, w której „zobaczycie\" znaczy więcej, niż katecheza zdąży powiedzieć."
+    ],
+    [
+     "w. 40–42",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 7,14",
+     "Augustyn waży kolejność: nie „skała\" dała imię Piotrowi, lecz Piotr wziął imię od Skały — non a Petro petra, sed Petrus a petra — jak chrześcijanin od Chrystusa, nie Chrystus od chrześcijanina. Skałą jest sam Chrystus (por. 1 Kor 10,4); Szymon staje się „skalny\" przez uczestnictwo — i całe jego przyszłe pasterzowanie będzie mocne nie sobą, lecz tym, z czego zostało wzięte. W tej gramatyce imion Augustyn widzi lekarstwo na dwie choroby Kościoła: kult człowieka (który zapomina, skąd skała ma twardość) i pogardę dla urzędu (która zapomina, że uczestnictwo jest realne). Imię Kefas jest darowane — ale darowane naprawdę."
     ]
    ],
    "liturgy": [
@@ -1947,7 +2741,22 @@
      "Tytuł Protokletos (Pierwszy Powołany) wyrasta wprost z tej perykopy."
     ]
    ],
-   "textual": [],
+   "textual": [
+    [
+     41,
+     "πρῶτον",
+     "wariant lekcji",
+     "πρῶτον (najpierw — przysłówkowo: Andrzej najpierw znajduje brata): P66, P75, ℵ*, B i in. Wariant πρῶτος (pierwszy — przymiotnikowo: Andrzej jako pierwszy znalazł) w ℵc, L, Ws. Część przekazu łacińskiego czyta mane (rano — zapewne z greckiego πρωΐ), co dawałoby scenie poranek dnia następnego.",
+     "NA28 słusznie przyjmuje πρῶτον. Lekcja πρῶτος kusiła egzegetów, bo sugeruje, że „drugim\", który znalazł swojego brata, był bezimienny towarzysz (Jan prowadzący Jakuba?) — ślad tradycji o parze braterskich powołań; lekcja mane porządkowałaby chronologię tygodnia inauguracji. Obie są wtórne, ale obie pokazują, jak wcześnie czytelnicy liczyli dni i osoby tej sceny."
+    ],
+    [
+     42,
+     "ὁ υἱὸς Ἰωάννου",
+     "wariant lekcji",
+     "ὁ υἱὸς Ἰωάννου (syn Jana): P66, P75, ℵ, B*, W. Tradycja bizantyjska: ὁ υἱὸς Ἰωνᾶ (syn Jony) — harmonizacja z Mt 16,17 (Σίμων Βαριωνᾶ — Szymonie, synu Jony).",
+     "NA28 przyjmuje „syn Jana\" jako lekcję najlepiej poświadczoną; bizantyjskie „syn Jony\" to typowa asymilacja do miejsca paralelnego. Szczegół ma urok teologiczny: w J 21,15–17 Zmartwychwstały trzykroć zawoła „Szymonie, synu Jana\" — powrót pełnej metryki z chwili nadania imienia: rozmowa o miłości zaczyna się od przypomnienia, kim Piotr był, zanim stał się Skałą."
+    ]
+   ],
    "theme_links": [
     [
      "Baranek Boży",
@@ -1968,8 +2777,46 @@
      [
       "pericope"
      ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 35–37"
+     ]
+    ],
+    [
+     "tytuły chrystologiczne J 1",
+     [
+      "block",
+      "w. 40–42"
+     ]
     ]
-   ]
+   ],
+   "struktura": "Scena jest zbudowana jak sztafeta czasowników: mówi (Jan) → usłyszeli → poszli → odwrócił się (Jezus) → pyta → przyszli → zobaczyli → pozostali → znajduje (Andrzej) → mówi → przyprowadził → wpatrzył się (Jezus) → nazwał. Każde ogniwo przekazuje pałeczkę następnemu, a żadne nie zatrzymuje biegu na sobie — to gramatyczna definicja apostolstwa. Kompozycyjnie trzy odsłony: (1) świadectwo i odejście uczniów od Jana (w. 35–37) — Chrzciciel powtarza wczorajszy tytuł w wersji skróconej, jakby dojrzałe świadectwo nie potrzebowało już uzasadnień; (2) dialog i zamieszkanie (w. 38–39) — pierwsze słowa Jezusa w całej księdze są pytaniem, a pierwsza katecheza wieczorem bez treści w protokole; (3) misja i nowe imię (w. 40–42) — pierwszy owoc zamieszkania: brat przyprowadzony, i pierwszy akt władzy: imię zmienione. Oś sceny biegnie przez czasownik μένειν (trwać, mieszkać): pada trzykrotnie (μένεις, μένει, ἔμειναν) — zanim padnie jakakolwiek nauka; czwarta Ewangelia zaczyna chrystologię od adresu zamieszkania, bo jej celem będzie zamieszkanie wzajemne (J 15,4: trwajcie we Mnie, a Ja w was).",
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. I, lect. 15",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład powołania pierwszych uczniów: pytanie o pragnienie, zamieszkanie i teologia imienia Kefas.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. Schnackenburg",
+     "Das Johannesevangelium I, ad loc.",
+     [
+      "section",
+      "IV. Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Analiza anonimowego drugiego ucznia i hipotezy utożsamienia go ze świadkiem stojącym za Ewangelią.",
+     "Das Johannesevangelium"
+    ]
+   ],
+   "revision_note": "Pierwsi uczniowie (J 1,35–42) doprowadzeni do pełnej egzegezy: struktura sztafety czasowników, nowe jednostki (εἱστήκει/ἐμβλέψας, στραφείς, ἤγαγεν), rozbudowa sekcji II–VII, katena rozszerzona do sześciu głosów, aparat (w. 41 i 42 — dotąd brak not), cytowania; status: ukończona"
   },
   {
    "pericope": {
@@ -1979,7 +2826,7 @@
     "ve": 51,
     "title": "Powołanie Filipa i Natanaela",
     "motto": "Rabbi, tu es Filius Dei (Rabbi, Ty jesteś Syn Boży)",
-    "status": "w_opracowaniu",
+    "status": "ukonczona",
     "position": 6
    },
    "intro": "Czwarty dzień tygodnia inauguracji i ostatnia scena rozdziału: łańcuch „znalezień\" sięga sceptyka, a rozdział tytułów chrystologicznych zamyka się obietnicą otwartego nieba. Od „czego szukacie\" doszliśmy do „większe od tych rzeczy zobaczysz\".",
@@ -1997,6 +2844,11 @@
        "ἀκολούθει μοι",
        "pójdź za Mną",
        "Jedyne w tym rozdziale powołanie wprost z ust Jezusa — bez pośrednika, bez świadectwa, dwa słowa rozkazu: ἀκολούθει μοι (pójdź za Mną; imperativus praesentis — „idź za Mną i nie przestawaj iść\"). Ewangelista pokazuje całą paletę dróg do wiary: przez świadka (Andrzej i towarzysz), przez brata (Szymon), przez bezpośrednie wezwanie (Filip), przez przyjaciela i własne zmaganie (Natanael) — żadna nie jest jedynie słuszna. Betsaida (dosł. „dom rybaka\") — miasteczko na pograniczu, z greckimi imionami mieszkańców: Ewangelia od pierwszych kroków stoi jedną nogą w świecie pogan, do którego ci ludzie kiedyś pójdą (por. J 12,20–22, gdzie Grecy szukają Jezusa właśnie przez Filipa i Andrzeja)."
+      ],
+      [
+       "ἠθέλησεν ἐξελθεῖν ... καὶ εὑρίσκει",
+       "postanowił wyjść ... i znajduje",
+       "Jedyne miejsce tygodnia inauguracji, gdzie podmiotem „znalezienia\" jest sam Jezus: dotąd znajdowali ludzie (Andrzej brata, zaraz Filip Natanaela) — tu εὑρίσκει (znajduje) ma za podmiot Pana. Ἠθέλησεν (postanowił, zechciał — aoryst od θέλω) odsłania wolę jako źródło sceny: wyjście do Galilei nie jest podróżą, lecz decyzją, a znalezienie Filipa nie jest przypadkiem po drodze, lecz celem drogi. Ewangelista koryguje w ten sposób zawczasu każdą czysto „oddolną\" teologię nawrócenia: łańcuch ludzkich znalezień (Andrzej → Szymon, Filip → Natanael) wisi na pierwszym ogniwie, które nie jest ludzkie — na chceniu Jezusa. Dokładnie to powie On sam w wieczerniku: „nie wyście Mnie wybrali, ale Ja was wybrałem\" (J 15,16); w. 43 jest narracyjnym dowodem tego zdania, zapisanym zanim zostało wypowiedziane."
       ]
      ]
     },
@@ -2065,6 +2917,11 @@
        "τοὺς ἀγγέλους ... ἀναβαίνοντας καὶ καταβαίνοντας ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου",
        "aniołów wstępujących i zstępujących na Syna Człowieczego",
        "Jawna typologia snu Jakuba (Rdz 28,12): drabina oparta o ziemię, sięgająca nieba, aniołowie wstępujący i zstępujący (ta sama kolejność — najpierw w górę, jakby ruch zaczynał się od ziemi). Jakub zbudził się i nazwał to miejsce Betel — dom Boga, brama nieba. Jezus podstawia siebie w miejsce drabiny: Syn Człowieczy JEST miejscem, w którym niebo i ziemia są połączone — nowym Betel, prawdziwym domem Boga; to samo, co ogłosiło ἐσκήνωσεν (rozbił namiot) w 1,14, powiedziane językiem wizji. Tytuł ὁ υἱὸς τοῦ ἀνθρώπου (Syn Człowieczy; aram. bar enasz — Dn 7,13: „jakby syn człowieczy\" przychodzący na obłokach, któremu dana jest władza wieczna) — jedyny tytuł, którego Jezus używa sam o sobie — koryguje entuzjazm Natanaela: tak, Król, ale królestwo przyjdzie drogą Dn 7 czytaną przez Iz 53. „Większe od tych rzeczy zobaczysz\": wiara z małego znaku otwiera oczy na znaki większe — zaczynając od Kany, „trzeciego dnia\"."
+      ],
+      [
+       "μείζω τούτων ὄψῃ",
+       "większe od tych rzeczy zobaczysz",
+       "Odpowiedź Jezusa na wyznanie Natanaela jest łagodną korektą i wielką obietnicą naraz. Korektą: wiara zrodzona z „widziałem cię pod figowcem\" — z prywatnego znaku trafiającego w serce — jest prawdziwa, ale mała; Jezus nie gani jej, lecz nie pozwala jej osiąść („wierzysz?\" — pytanie bez nagany, ale i bez aprobaty dla mety). Obietnicą: μείζω (większe) otwiera w Ewangelii całą serię stopniowań — większe dzieła (5,20; 14,12), większa miłość (15,13) — wiara Janowa jest komparatywna z natury: każde „widzę\" jest przedsionkiem następnego. Zmiana liczby z ὄψῃ (zobaczysz — ty) na ὄψεσθε (zobaczycie — wy, w. 51) jest przy tym zmianą adresata testamentu: obietnica dana sceptykowi spod figowca zostaje w locie rozszerzona na wszystkich uczniów i na czytelnika — nikt nie ogląda otwartego nieba prywatnie."
       ]
      ]
     }
@@ -2073,43 +2930,123 @@
     {
      "type": "kontekst",
      "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
-     "body": "**Natanael.** Imię znaczy „Bóg dał\" (netan-El); wymieniony tylko u Jana (tu i 21,2 — z Kany Galilejskiej); tradycja od średniowiecza utożsamia go z Bartłomiejem synoptyków (Bar-Tolmaj — syn Tolmaja: patronimik, nie imię własne; listy apostołów stawiają Bartłomieja obok Filipa). **Nazaret.** Osada tak podrzędna, że milczą o niej wszystkie źródła żydowskie epoki; wzgarda Natanaela to wzgarda Galilejczyka wobec sąsiedniej wioski — tym mocniej brzmi Janowy paradoks wybrania tego, co wzgardzone. **Figowiec.** Splot dwóch skojarzeń — studium Tory w cieniu drzewa i mesjański pokój „pod winoroślą i figowcem\" (Mi 4,4; Za 3,10) — czynił z figowca niemal techniczny obraz pobożnego oczekiwania Izraela. **Drabina Jakubowa.** Rdz 28 czytano w synagodze z targumicznymi rozwinięciami (aniołowie oglądający oblicze śpiącego Jakuba wyryte w niebie); wizja należała do żelaznego repertuaru nadziei — Jezus sięga po obraz, który każdy słuchacz nosił w wyobraźni.",
-     "children": []
+     "body": "Cztery realia niosą tę scenę: prowincjonalna geografia Galilei, figowiec uczonych, sen Jakuba czytany w synagodze i tytulatura mesjańska — każde z drugim dnem.",
+     "children": [
+      [
+       "Natanael i Nazaret",
+       "Natanael — imię znaczy „Bóg dał\" (netan-El); wymieniony tylko u Jana (tu i 21,2 — pochodził z Kany Galilejskiej); tradycja od średniowiecza utożsamia go z Bartłomiejem synoptyków (Bar-Tolmaj — syn Tolmaja: to patronimik, nie imię własne; listy apostołów stawiają Bartłomieja tuż obok Filipa — Mt 10,3). Nazaret: osada tak podrzędna, że milczą o niej Stary Testament, Talmud i Józef Flawiusz — cała ówczesna literatura; szyderstwo Natanaela to wzgarda mieszkańca jednej galilejskiej wioski wobec sąsiedniej (Kana i Nazaret dzieli kilkanaście kilometrów), podszyta być może wiedzą biblijną: Pisma wyprowadzały Mesjasza z Betlejem (Mi 5,1), nie z Galilei (por. J 7,41–42.52). Odpowiedź Ewangelii na to wzruszenie ramion jest podwójna: doraźna — „przyjdź i zobacz\"; i strukturalna — cała księga pokaże, że Bóg upodobał sobie wybierać to, czym świat gardzi; „czy z Nazaretu może być coś dobrego?\" stanie się mimowolnym proroctwem: z Nazaretu wyszło Dobro samo."
+      ],
+      [
+       "Figowiec uczonych i pokój mesjański",
+       "Cień figowca to w tradycji rabinicznej klasyczne miejsce studiowania Tory: uczniowie mędrców „siedzieli pod figowcem\" nad zwojem, a późniejsze midrasze porównują samą Torę do figi — owocu, który zbiera się nie raz, lecz wciąż na nowo, jak sensy Pisma. Zarazem „siedzieć pod swoją winoroślą i swoim figowcem\" to od czasów Salomona (1 Krl 5,5) obraz pokoju, a u proroków — pokoju mesjańskiego: „w owym dniu będziecie się wzajemnie zapraszać pod winorośl i pod figowiec\" (Za 3,10; por. Mi 4,4). Jezus widzi więc Natanaela w miejscu podwójnie znaczącym: nad Pismem i w tęsknocie za „owym dniem\" — i objawia mu, że właśnie nadszedł. Co dokładnie zaszło pod figowcem, tekst przemilcza; ta dyskrecja jest teologicznie płodna: każdy czytelnik ma własny figowiec — miejsce najintymniejszej modlitwy i tęsknoty, o którym nikt nie wie — i właśnie po nim poznaje, że został zobaczony wcześniej, niż zaczął szukać."
+      ],
+      [
+       "Drabina Jakubowa w wyobraźni epoki",
+       "Rdz 28 czytano w synagodze z targumicznymi rozwinięciami, które oblegały ten sen jak rój: aniołowie wstępujący, by porównać śpiącego Jakuba z jego obliczem wyrytym pod tronem chwały; drabina jako góra Synaj albo świątynia; miejsce snu utożsamione z górą Moria i przyszłym miejscem przybytku. Wizja należała do żelaznego repertuaru nadziei Izraela: Betel — „dom Boga i brama nieba\" (Rdz 28,17) — był dowodem, że niebo i ziemia mają punkt styku. Spór targumistów o grecko-hebrajską składnię („wstępowali i zstępowali po niej\" — czy „przy nim\", po Jakubie?) Jezus rozstrzyga po swojemu: ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου — na Synu Człowieczym; punktem styku nieba i ziemi nie jest ani miejsce, ani sen, lecz Osoba. Dla słuchaczy wychowanych na targumach to zdanie było rozpoznawalne natychmiast — i niesłychane."
+      ],
+      [
+       "Syn Boży, Król Izraela, Syn Człowieczy",
+       "Tytuły Natanaela należy słyszeć po hebrajsku, nie po nicejsku: „Syn Boży\" w ustach Izraelity znad Jordanu to tytuł królewski-mesjański (Ps 2,7: „Tyś moim synem, Ja ciebie dziś zrodziłem\" — o pomazańcu; por. 2 Sm 7,14), a „Król Izraela\" — jego liturgiczny bliźniak (So 3,15). Natanael wyznaje więc: Ty jesteś Mesjaszem obiecanym — jeszcze nie: współistotnym Ojcu; pełny sens jego słów odsłoni się czytelnikowi dopiero z Prologiem w uchu. Jezus odpowiada tytułem trzecim, własnym: Syn Człowieczy (aram. bar enasz) — z nocnej wizji Daniela (Dn 7,13–14): „jakby Syn Człowieczy\" przychodzący z obłokami, któremu dana jest władza wieczna nad wszystkimi ludami. Wybór jest strategiczny: tytuł dość zagadkowy, by nie podpalać politycznych nadziei (żadnych legionów), i dość wielki, by unieść wszystko (władza wieczna, sąd, uniwersalizm); u Jana zwiąże się na stałe z „wywyższeniem\" (3,14; 8,28; 12,34) — Danielowa chwała przyjdzie drogą Izajaszowego Sługi."
+      ]
+     ]
     },
     {
      "type": "teologia",
      "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
-     "body": "**1. Wiedza Chrystusa.** „Widziałem cię pod figowcem\" — Tomasz rozróżnia w Chrystusie wiedzę Boską, wiedzę błogosławionych i wiedzę nabytą; to widzenie na odległość, przenikające serce (por. J 2,25: sam wiedział, co jest w człowieku), przypisze poznaniu przekraczającemu naturę. Dla Natanaela znak jest mały; wystarcza, bo trafia w to, co najintymniejsze — Bóg przekonuje każdego tym, co tylko On o nim wie.\n\n**2. Wiara i jej wzrost.** „Wierzysz? Większe zobaczysz\" — wiara nie jest stanem, lecz drogą rosnącą: *fides quaerens intellectum* (wiara szukająca zrozumienia) i widzenia. Tomasz: łaska pomnaża się przez akty; kto uwierzył z małego, temu obiecane większe — zasada całej pedagogii znaków w czwartej Ewangelii.\n\n**3. Pośrednictwo Chrystusa.** Drabina to obraz, który Tomasz czyta wprost: Chrystus jako jedyny pośrednik (*unus mediator*, 1 Tm 2,5) — w dół zstępuje łaska, w górę wstępuje modlitwa i natura ludzka; aniołowie „na Synu Człowieczym\" oznaczają, że wszelka służba nieba przechodzi odtąd przez Wcielonego. Zjednoczenie hipostatyczne jest ontologiczną drabiną: w jednej Osobie ziemia dotyka nieba.",
-     "children": []
+     "body": "Wiedza Chrystusa, dynamika wiary i pośrednictwo — trzy tomistyczne osie sceny; Tomasz komentuje ją w Super Ioannem (cap. I, lect. 16).",
+     "children": [
+      [
+       "1. Wiedza Chrystusa",
+       "„Widziałem cię pod figowcem\" — Tomasz rozróżnia w Chrystusie wiedzę Boską (scientia divina — wiedza Słowa), wiedzę uszczęśliwiającą (scientia beata — widzenie Boga w duszy Chrystusa), wiedzę wlaną (scientia infusa) i nabytą (scientia acquisita — z doświadczenia). Widzenie na odległość, przenikające serce (por. J 2,25: „sam wiedział, co jest w człowieku\"), przypisze poznaniu przekraczającemu naturę — a scena pokazuje jego duszpasterski styl: Jezus nie objawia Natanaelowi tajemnic kosmosu, lecz jego własną chwilę najintymniejszą; Bóg przekonuje każdego tym, co tylko On o nim wie. Stąd reguła, którą zna każda historia nawrócenia: przełom przychodzi nie wtedy, gdy człowiek dowiaduje się czegoś nowego o Bogu, lecz gdy odkrywa, że Bóg od dawna wiedział wszystko o nim — i patrzył z miłością."
+      ],
+      [
+       "2. Wiara i jej wzrost",
+       "„Wierzysz? Większe zobaczysz\" — wiara nie jest stanem, lecz drogą rosnącą: fides quaerens intellectum (wiara szukająca zrozumienia) i widzenia. Tomasz: łaska pomnaża się przez akty — każdy akt wiary czyni podmiot pojemniejszym na następny; kto uwierzył z małego znaku, temu obiecane większe. To zasada całej pedagogii znaków czwartej Ewangelii: od figowca do Kany, od Kany do wskrzeszenia Łazarza, od Łazarza do pustego grobu — i za każdym progiem to samo pytanie „wierzysz?\", zadane odrobinę wyżej. Tomistyczna analiza dodaje przestrogę symetryczną: wiara, która nie chce „większego\" — która okopuje się we wczorajszym doświadczeniu — nie stoi w miejscu, lecz się cofa, bo przedmiot wiary jest nieskończony i tylko ruch ku niemu jest wiernością."
+      ],
+      [
+       "3. Pośrednictwo Chrystusa — drabina",
+       "Drabinę czyta Tomasz wprost: Chrystus jako jedyny pośrednik (unus mediator, 1 Tm 2,5) — w dół zstępuje łaska, w górę wstępuje modlitwa i natura ludzka; aniołowie „na Synu Człowieczym\" oznaczają, że wszelka służba nieba przechodzi odtąd przez Wcielonego. Zjednoczenie hipostatyczne jest ontologiczną drabiną: w jednej Osobie ziemia dotyka nieba — nie ma szczebla, który omijałby człowieczeństwo Chrystusa; dlatego chrześcijaństwo nie zna duchowości „ponad\" Wcielenie, a każda mistyka, która chce do Boga z pominięciem człowieczeństwa Jezusa, wspina się po drabinie przystawionej do innego muru (Teresa z Ávili powie to samo z doświadczenia). Perfectum ἀνεῳγότα (niebo otwarte — i pozostające otwarte) daje tej nauce pieczęć: dostęp nie jest chwilą łaski, lecz stanem nowego stworzenia."
+      ],
+      [
+       "4. Prawda i uprzedzenie",
+       "Scena jest też traktatem o poznaniu moralnym. Natanael ma uprzedzenie (Nazaret!) — i zostaje pochwalony; bo uprzedzenie wypowiedziane głośno, wobec przyjaciela, z gotowością pójścia i sprawdzenia, nie jest wadą poznawczą, lecz surowcem rzetelności. Tomasz rozróżnia wątpienie z pychy (które stawia siebie za miarę prawdy) i wątpienie z miłości prawdy (które boi się uwierzyć za tanio): pierwsze zamyka, drugie jest cnotą studiosità — rzetelnej dociekliwości. Δόλος (podstęp), którego w Natanaelu nie ma, to dokładnie krzywizna między myślą a mową; „prawdziwy Izraelita\" to człowiek, w którym pytanie i serce leżą w jednej linii. Dlatego właśnie jemu — sceptykowi bez fałszu — zostaje obiecana wizja: prawda nie boi się badania, boi się tylko obojętności (jak powie Chryzostom w katenie), a niebo otwiera się najszerzej nad tymi, którzy pytali uczciwie."
+      ]
+     ]
     },
     {
      "type": "autor_ludzki",
      "title": "IV. Autor ludzki: kim jest i co chce przekazać",
-     "body": "Ewangelista komponuje finał rozdziału jak jubiler: w czterech scenach tygodnia inauguracji rozmieścił wszystkie tytuły mesjańskie, by w ostatniej dołożyć zwieńczenie — tytuł, który Jezus wybiera sam. Portret Natanaela jest małym arcydziełem charakterologii: sceptyk uczciwy, którego opór nie jest cynizmem, lecz wiernością Pismu („czy z Nazaretu...?\" to pytanie człowieka, który zna proroctwa o Betlejem) — autor pokazuje, że droga do wiary wiedzie także przez rzetelną wątpliwość. A obietnicą w. 51, sformułowaną w liczbie mnogiej i czasie przyszłym, ewangelista przerzuca most nad całą księgą: czytelniku, to, co teraz nastąpi — znaki, godzina, wywyższenie — jest tym otwartym niebem.",
+     "body": "Ewangelista komponuje finał rozdziału jak jubiler: w czterech scenach tygodnia inauguracji rozmieścił wszystkie tytuły mesjańskie, by w ostatniej dołożyć zwieńczenie — tytuł, który Jezus wybiera sam. Portret Natanaela jest małym arcydziełem charakterologii: sceptyk uczciwy, którego opór nie jest cynizmem, lecz wiernością Pismu — autor pokazuje, że droga do wiary wiedzie także przez rzetelną wątpliwość, i czyni to z humorem (szorstka odzywka o Nazarecie sąsiaduje z najwyższą pochwałą z ust Jezusa). Widać też rękę architekta całości: „przyjdź i zobacz\" Filipa powtarza dosłownie wczorajszą metodę Mistrza — szkoła Jezusowa reprodukuje się w pierwszym pokoleniu uczniów już po jednym dniu; a obietnica w. 51, sformułowana w liczbie mnogiej i czasie przyszłym, przerzuca most nad całą księgą: czytelniku, to, co teraz nastąpi — znaki, godzina, wywyższenie — jest tym otwartym niebem. Wreszcie rys autobiograficzny wspólnoty: Natanael pochodzi z Kany (21,2), dokąd akcja przenosi się „trzeciego dnia\" — ostatni powołany prowadzi do domu, w którym chwała objawi się po raz pierwszy; ewangelista lubi, gdy geografia sama opowiada teologię.",
      "children": []
     },
     {
      "type": "autor_bozy",
      "title": "V. Autor Boży: co Duch Święty chce przekazać",
-     "body": "Duch Święty domyka rozdział lekcją o widzeniu: Jezus „zobaczył\" Natanaela, zanim ten zobaczył Jezusa — każde nasze szukanie jest wtórne wobec bycia znalezionym; łaska uprzedzająca (gratia praeveniens) ma tu swoją ikonę. Zarazem Duch koryguje każdą wiarę, która chciałaby się zatrzymać na własnym wyznaniu: nawet pełna litania tytułów nie jest metą — „większe zobaczysz\". I zostawia obietnicę eklezjalną: odkąd Słowo rozbiło namiot, dom Boga i brama nieba nie są miejscem na mapie, lecz Osobą — a przez Nią wspólnotą, w której ta Osoba trwa.",
+     "body": "Duch Święty domyka rozdział lekcją o widzeniu: Jezus „zobaczył\" Natanaela, zanim ten zobaczył Jezusa — każde nasze szukanie jest wtórne wobec bycia znalezionym; łaska uprzedzająca (gratia praeveniens) ma tu swoją ikonę, a w. 43 („postanowił… i znajduje\") jej narracyjny fundament: pierwszym ogniwem każdego łańcucha powołań jest chcenie Pana. Zarazem Duch koryguje każdą wiarę, która chciałaby się zatrzymać na własnym wyznaniu: nawet pełna litania tytułów nie jest metą — „większe zobaczysz\"; wiara, której wystarcza wczorajsze doświadczenie, jeszcze nie zna Tego, w kogo wierzy. I zostawia obietnicę eklezjalną: odkąd Słowo rozbiło namiot, dom Boga i brama nieba nie są miejscem na mapie, lecz Osobą — a przez Nią wspólnotą, w której ta Osoba trwa; gdzie gromadzi się Kościół, tam stoi drabina Jakubowa, po której nieustannie wstępuje modlitwa i zstępuje łaska. Czytelnik zaś dostaje od Ducha pytanie pod własny figowiec: skoro zostałeś zobaczony wcześniej, niż zacząłeś szukać — co jeszcze trzyma cię przy „czy może być coś dobrego\"?",
      "children": []
     },
     {
      "type": "odniesienia",
      "title": "VI. Sieć odniesień biblijnych",
-     "body": "**Rdz 28,10–19 → w. 51.** Sen Jakuba: drabina, aniołowie, Betel — dom Boga i brama nieba; Syn Człowieczy jako nowe Betel.\n\n**Rdz 27,35 → w. 47.** Jakub zdobywa błogosławieństwo podstępem (LXX: μετὰ δόλου) — Natanael jest Izraelitą bez δόλος: anty-Jakub.\n\n**Ps 32,2 → w. 47.** Błogosławiony, w którego duchu nie ma podstępu (remija) — psalmiczne tło pochwały.\n\n**Mi 4,4; Za 3,10 → w. 48.** Pokój mesjański „pod winoroślą i figowcem\" — figowiec jako miejsce tęsknoty za owym dniem.\n\n**Pwt 18,15 → w. 45.** „Pisał Mojżesz\" — obietnica Proroka; z Prorokami razem: cała hermeneutyka chrystologiczna Starego Testamentu.\n\n**So 3,15 → w. 49.** „Król Izraela, Pan, jest pośród ciebie\" — prorocki adres tytułu Natanaela.\n\n**Dn 7,13–14 → w. 51.** Syn Człowieczy na obłokach, władza wieczna — tło jedynego autotytułu Jezusa.\n\n**J 12,13; 19,19 → w. 49.** Król Izraela w Męce: hosanna tłumu i titulus (napis) Piłata — ironiczne dopełnienie wyznania.",
-     "children": []
+     "body": "",
+     "children": [
+      [
+       "Rdz 28,10–19 → w. 51",
+       "Sen Jakuba: drabina oparta o ziemię, sięgająca nieba, aniołowie wstępujący i zstępujący (ta sama kolejność — najpierw w górę, jakby ruch zaczynał się od ziemi), a nad nią Pan. Jakub zbudził się i nazwał miejsce Betel — dom Boga, brama nieba. Jezus podstawia siebie w miejsce drabiny i miejsca naraz: Syn Człowieczy jest punktem, w którym niebo i ziemia są połączone — nowym Betel, prawdziwym domem Boga; to samo, co ogłosiło ἐσκήνωσεν (rozbił namiot, 1,14), powiedziane językiem wizji. Konsekwencja dla teologii kultu jest rewolucyjna i Jan wyciągnie ją w rozdziałach 2 i 4: świątynią jest ciało Jezusa (2,21), a godzina czcicieli „w Duchu i prawdzie\" (4,23) nadchodzi, bo brama nieba przestała mieć adres."
+      ],
+      [
+       "Rdz 27,35; Ps 32,2 → w. 47",
+       "Jakub zdobył błogosławieństwo podstępem — „przyszedł twój brat podstępnie\" (LXX: μετὰ δόλου, Rdz 27,35) — i nosił imię „chwytający za piętę\", zanim nad Jabbokiem stał się Izraelem. Natanael jest „prawdziwie Izraelitą, w którym nie ma podstępu\": Izraelem po przemianie, bez rodowej skazy — anty-Jakubem, a raczej Jakubem spełnionym; Ps 32,2 („błogosławiony człowiek… w którego duchu nie ma podstępu\" — remija) podkłada pod pochwałę język modlitewnika Izraela. Pochwała jest zarazem kluczem do w. 51: skoro prawdziwy Izraelita stoi przed Jezusem, należy mu się wizja praojca Izraela — i otrzyma ją na jawie, poprawioną: bez snu i bez ucieczki."
+      ],
+      [
+       "Pwt 18,15; Mi 4,4; Za 3,10 → w. 45.48",
+       "„Pisał Mojżesz w Prawie\" — obietnica Proroka jak Mojżesz (Pwt 18,15) reprezentuje tu całą hermeneutykę chrystologiczną Starego Testamentu: Pisma są o Kimś (por. J 5,39.46: „Mojżesz o Mnie pisał\"). Figowiec zaś (Mi 4,4; Za 3,10) wnosi w scenę prorocki obraz pokoju „owego dnia\": Jezus zastaje Natanaela dokładnie w pozycji człowieka czekającego na erę mesjańską — i ogłasza mu, że czekanie się skończyło. Współbrzmienie obu linii (Prorok + pokój pod figowcem) czyni z krótkiej sceny sumę oczekiwań: Prawo, Prorocy i tęsknota codzienna spotykają się pod jednym drzewem."
+      ],
+      [
+       "So 3,14–15 → w. 49",
+       "„Wyśpiewuj, Córo Syjońska… Król Izraela, Pan, jest pośród ciebie\" — Sofoniaszowy adres tytułu Natanaela. W proroctwie „Król Izraela\" stoi w paraleli z samym JHWH obecnym pośrodku ludu: wyznanie Natanaela mówi więc — w rejestrze, którego sam mówca jeszcze nie mierzy — dokładnie to, co Chrzciciel w w. 26 („pośród was stoi\") i Prolog w 1,14 (zamieszkał wśród nas). Ewangelista lubi te piętrowe ironie: postacie mówią prawdziwiej, niż wiedzą, a czytelnik z Prologiem w uchu słyszy pełny akord tam, gdzie bohater zagrał jedną nutę."
+      ],
+      [
+       "Dn 7,13–14 → w. 51",
+       "Nocna wizja Daniela: „jakby Syn Człowieczy\" (bar enasz) przychodzący z obłokami przed Przedwiecznego, któremu dana jest władza wieczna, chwała i królestwo nad wszystkimi ludami. Jedyny tytuł, którego Jezus używa sam o sobie — we wszystkich czterech Ewangeliach — pochodzi stąd; u Jana zostanie związany z „wywyższeniem\" (3,14; 8,28; 12,32–34): tron Danielowej wizji okaże się krzyżem, obłoki — godziną uwielbienia. W. 51 jest pierwszym ogniwem tej serii: otwarte niebo i aniołowie nad Synem Człowieczym to Dn 7 przełożone z sądu na komunię — władza wieczna sprawowana jako łączność nieba z ziemią."
+      ],
+      [
+       "J 12,13; 19,19 → w. 49",
+       "„Król Izraela\" powróci dwukrotnie w godzinie Męki: w hosannach tłumu z palmami (12,13) i na tabliczce Piłata w trzech językach (19,19–20). To, co Natanael wyznał pod figowcem z entuzjazmem, Rzym przybije nad krzyżem z szyderstwem — i właśnie wtedy będzie to najprawdziwsze: królowanie objawi się w wywyższeniu. Ewangelista buduje z tytułu klamrę ironii odkupionej: żadne słowo wiary nie jest u niego zmarnowane, ale każde musi przejść przez krzyż, by znaczyło to, co naprawdę znaczy."
+      ]
+     ]
     },
     {
      "type": "recepcja",
      "title": "VII. Znaczenie w historii i liturgii Kościoła",
-     "body": "Liturgia rzymska czyta w. 47–51 w święto Świętych Archaniołów Michała, Gabriela i Rafała (29 IX) — aniołowie wstępujący i zstępujący na Syna Człowieczego jako Ewangelia dnia aniołów; sam Natanael czczony jest — za utożsamieniem z Bartłomiejem — 24 VIII. „Przyjdź i zobacz\" oraz „widziałem cię pod figowcem\" weszły do języka kierownictwa duchowego jako formuły łaski uprzedzającej i osobistego wybrania; w tradycji monastycznej figowiec Natanaela bywał obrazem lectio divina (Bożego czytania) — miejsca, w którym Pan zastaje człowieka nad Pismem. Drabina Jakubowa odczytana chrystologicznie przez w. 51 zapłodniła i ikonografię (drabina do nieba), i duchowość (Reguła św. Benedykta, rozdz. 7: drabina pokory), i hymnografię maryjną Wschodu (Maryja „drabiną, po której zstąpił Bóg\" — bo przez Nią przyszedł Ten, który sam jest drabiną).",
-     "children": []
+     "body": "",
+     "children": [
+      [
+       "Liturgia i kalendarz",
+       "Liturgia rzymska czyta w. 47–51 w święto Świętych Archaniołów Michała, Gabriela i Rafała (29 IX) — aniołowie wstępujący i zstępujący na Syna Człowieczego jako Ewangelia dnia aniołów: Kościół rozumie służbę anielską przez chrystologię w. 51, nie obok niej. Sam Natanael czczony jest — za utożsamieniem z Bartłomiejem — 24 VIII; czytania jego święta otwiera właśnie ta perykopa, a kolekta prosi o wiarę „szczerą\", podejmując ἐν ᾧ δόλος οὐκ ἔστιν. W lekcjonarzu niedzielnym scena nie ma własnej niedzieli (sąsiaduje z II Niedzielą zwykłą B), ale „przyjdź i zobacz\" oraz pochwała Natanaela weszły do formularzy o powołaniach — Kościół modli się o powołania słowami sceny, w której powołanie przeszło przez sceptycyzm."
+      ],
+      [
+       "Duchowość i ikonografia",
+       "„Widziałem cię pod figowcem\" weszło do języka kierownictwa duchowego jako formuła łaski uprzedzającej i osobistego wybrania; w tradycji monastycznej figowiec Natanaela bywał obrazem lectio divina — miejsca, w którym Pan zastaje człowieka nad Pismem, zanim człowiek zauważy, że jest zastawany. Drabina Jakubowa odczytana chrystologicznie przez w. 51 zapłodniła ikonografię (drabiny do nieba na ikonach i w iluminacjach, ze scenami wstępowania mnichów), duchowość (Reguła św. Benedykta, rozdz. 7: dwanaście szczebli pokory jako drabina, po której schodząc — wstępujemy) i hymnografię maryjną Wschodu: Maryja „drabiną, po której zstąpił Bóg\" — bo przez Nią przyszedł Ten, który sam jest Drabiną; akatyst pozdrawia Ją jako „most prowadzący z ziemi do nieba\". A para Filip–Natanael stała się patronalnym wzorem przyjaźni ewangelizującej: przyjaciel, który nie dyskutuje z uprzedzeniem, lecz zaprasza na spotkanie, jest najskuteczniejszym apologetą — reguła potwierdzana w każdej epoce misji."
+      ]
+     ]
     },
     {
      "type": "patrystyka",
      "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
-     "body": "Katena do finału rozdziału: figowiec i liście grzechu, sceptyk pochwalony, drabina zjednoczenia.",
+     "body": "Katena do finału rozdziału — sześć głosów: sceptyk pochwalony i miara objawienia (Chryzostom), figowiec i liście grzechu (Augustyn), powołanie Filipa (Chryzostom), aniołowie i kaznodzieje (Augustyn), drabina zjednoczenia natur (Cyryl).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: ostatnia scena rozdziału pokazuje, że do wiary prowadzi także rzetelna wątpliwość — sceptyk bez fałszu zostaje pochwalony, zanim uwierzył, i widzi więcej niż entuzjaści; że każde ludzkie „znaleźliśmy\" wisi na uprzednim „postanowił i znajduje\" Jezusa; i że celem całej drogi tytułów — od Mesjasza po Króla Izraela — jest tytuł, który wybrał On sam: Syn Człowieczy, drabina między otwartym już na zawsze niebem a ziemią. Rozdział pierwszy zamyka się więc obietnicą, którą reszta księgi będzie spłacać znak po znaku: „większe od tych rzeczy zobaczysz\". Czytelnik, który przeszedł tydzień inauguracji od „czego szukacie?\" do „zobaczycie niebo otwarte\", wie już, jak czyta się tę Ewangelię: każde spotkanie jest progiem, żadne wyznanie nie jest metą — a pod figowcem każdego z nas ktoś już stał i patrzył.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — św. Jan Chryzostom (Hom. in Io. 20–21), św. Augustyn (Tract. in Io. 7), św. Cyryl Aleksandryjski (In Io., ks. II) i św. Tomasz (Super Ioannem, cap. I, lect. 16).*",
      "children": []
     }
    ],
@@ -2247,6 +3184,45 @@
      "J 4,29",
      "paralela",
      "Samarytanka: chodźcie, zobaczcie — ta sama metoda"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     5,
+     39,
+     5,
+     46,
+     "J 5,39.46",
+     "rozwiniecie",
+     "badacie Pisma… Mojżesz o Mnie pisał — autokomentarz do wyznania Filipa (w. 45)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     12,
+     20,
+     12,
+     22,
+     "J 12,20–22",
+     "rozwiniecie",
+     "Grecy chcą ujrzeć Jezusa i przychodzą do Filipa — powołany staje się pomostem narodów"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Rdz",
+     3,
+     7,
+     3,
+     7,
+     "Rdz 3,7",
+     "typologia",
+     "liście figowe pierwszych rodziców — Augustynowa lektura figowca jako cienia Adamowego (zob. katena)"
     ]
    ],
    "patristic": [
@@ -2270,6 +3246,27 @@
      "Commentarii in Ioannem",
      "In Io., ks. II",
      "Drabinę Jakubową czyta Cyryl jako proroctwo zjednoczenia natur: aniołowie wstępują i zstępują „na Syna Człowieczego\", bo w Nim otwarła się wymiana między niebem a ziemią — służą Temu, który będąc Bogiem, stał się człowiekiem, i w tej służbie łączą oba końce drabiny. Odtąd nie ma innej drogi ani w górę, ani w dół: modlitwa wstępuje przez Niego, łaska zstępuje przez Niego. Niebo „otwarte\" (perfectum ἀνεῳγότα — otwarte i pozostające otwarte) to skutek Wcielenia, którego nic już nie cofnie."
+    ],
+    [
+     "w. 43–44",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 20",
+     "Dlaczego Filipa Jezus woła sam, bez pośrednika? Chryzostom odpowiada z realizmem duszpasterskim: Bóg zna drogi każdego — jednych prowadzi przez świadka (Andrzej), drugich przez rodzinę (Szymon), a są i tacy, których nie przyprowadzi nikt i po których trzeba wyjść osobiście, aż do Galilei. Żadna droga nie jest gorsza: liczy się nie brama, lecz wejście. Kaznodzieja zwraca też uwagę na posłuszeństwo bez sceny: Filip nie mówi nic — po prostu idzie, a jego wiara ujawnia się dopiero w tym, że natychmiast zaczyna szukać Natanaela; są ludzie, których „tak\" nie brzmi, lecz działa — i Ewangelia ich nie pomija."
+    ],
+    [
+     "w. 49–51",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 21",
+     "Wyznanie Natanaela jest wielkie — czemu więc Jezus zamiast pochwały obiecuje „większe\"? Chryzostom: bo miara objawienia rośnie z pojemnością przyjmującego; kto wiernie przyjął krople, temu otworzy się morze. Bóg nie wylewa wszystkiego naraz — nie ze skąpstwa, lecz z szacunku dla naczynia: objawienie za wielkie rozsadza, za małe — usypia; pedagogika Jezusa dawkuje chwałę tak, jak dobry nauczyciel dawkuje trudność. Stąd zachęta kaznodziei do niecierpliwości świętej: skoro obiecano „większe\", nie wolno obozować przy wczorajszym widzeniu — wiara, która przestała oczekiwać, zamienia obietnicę na pamiątkę."
+    ],
+    [
+     "w. 49–51",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 7,23",
+     "Aniołowie wstępujący i zstępujący na Syna Człowieczego to dla Augustyna także kaznodzieje Ewangelii: wstępują, gdy kontemplują to, co przekracza wszelkie stworzenie — Słowo u Boga; zstępują, gdy niosą maluczkim mleko prostej mowy — Słowo, które stało się ciałem. Wzorem jest Paweł: porwany do trzeciego nieba (wstąpił), a wśród Koryntian znający tylko Chrystusa ukrzyżowanego (zstąpił). Oba ruchy dzieją się „na Synu Człowieczym\": kto wstępuje z pominięciem Chrystusa, ten się unosi donikąd; kto zstępuje bez Niego, ten niesie tylko siebie. Całe kaznodziejstwo Kościoła jest ruchem po tej jednej drabinie — i biada wymowie, która zapomni, na Kim stoi."
     ]
    ],
    "liturgy": [
@@ -2286,7 +3283,15 @@
      "Tradycja od średniowiecza łączy Natanaela z Bartłomiejem list apostolskich."
     ]
    ],
-   "textual": [],
+   "textual": [
+    [
+     51,
+     "λέγω ὑμῖν, ὄψεσθε",
+     "wariant lekcji",
+     "Tekst krótki (NA28): ἀμὴν ἀμὴν λέγω ὑμῖν, ὄψεσθε… — tak P66, P75, ℵ, B, L, W. Tradycja bizantyjska dodaje ἀπ᾿ ἄρτι (odtąd, od teraz): „odtąd ujrzycie niebo otwarte\" — za Mt 26,64 (ἀπ᾿ ἄρτι ὄψεσθε τὸν υἱὸν τοῦ ἀνθρώπου…).",
+     "NA28 słusznie idzie za tekstem krótkim: dodatek to harmonizacja z uroczystą zapowiedzią Syna Człowieczego przed Sanhedrynem. Wariant jest jednak teologicznie wymowny: kopiści odruchowo połączyli obie sceny — obietnicę spod figowca i wyznanie przed sądem — czyli przeczytali w. 51 dokładnie tak, jak chce ewangelista: jako zapowiedź chwały, która objawi się w godzinie procesu i krzyża."
+    ]
+   ],
    "theme_links": [
     [
      "tytuły chrystologiczne J 1",
@@ -2307,8 +3312,46 @@
       "block",
       "w. 49–51"
      ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 45–46"
+     ]
+    ],
+    [
+     "Szechina — zamieszkanie Boga",
+     [
+      "block",
+      "w. 49–51"
+     ]
     ]
-   ]
+   ],
+   "struktura": "Scena powtarza schemat dnia poprzedniego jak drugą zwrotkę pieśni — świadectwo („znaleźliśmy\"), opór, zaproszenie („przyjdź i zobacz\"), spotkanie, wyznanie — ale każdy element jest przetransponowany o ton wyżej: zamiast prostego entuzjazmu Andrzeja jest pełna formuła biblijna Filipa (Mojżesz i Prorocy); zamiast braku oporu — szyderstwo sceptyka; zamiast noclegu — natychmiastowe przejrzenie serca; zamiast „Mesjasza\" — podwójny tytuł „Syn Boży, Król Izraela\"; i zamiast prywatnego wieczoru — obietnica publicznej wizji w liczbie mnogiej („zobaczycie\"). Kompozycja całego rozdziału osiąga tu swój zamierzony kres: katalog tytułów chrystologicznych (Słowo, Bóg, Światłość, Jednorodzony, Baranek, Rabbi, Mesjasz, Syn Boży, Król Izraela) zamyka się jedynym tytułem, który Jezus wybiera sam — Syn Człowieczy; a ostatnie słowo rozdziału (w. 51) jest zawiasem księgi: obietnica otwartego nieba i aniołów nad Synem Człowieczym zapowiada wszystko, co od Kany po krzyż będzie „większym od tych rzeczy\". Ruch sceny: od metryki („syn Józefa z Nazaretu\") do metafizyki (nowe Betel) — dokładnie ta droga, którą ewangelista chce przeprowadzić czytelnika.",
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. I, lect. 16",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład powołania Natanaela: rodzaje wiedzy Chrystusa, wzrost wiary i chrystologiczna lektura drabiny Jakubowej.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "C. K. Barrett",
+     "The Gospel According to St John, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Filologiczna analiza w. 51 (ὄψεσθε, ἀνεῳγότα) i targumiczne tło drabiny Jakubowej.",
+     "The Gospel According to St John"
+    ]
+   ],
+   "revision_note": "Powołanie Filipa i Natanaela (J 1,43–51) doprowadzone do pełnej egzegezy: struktura drugiej zwrotki powołań, nowe jednostki (ἠθέλησεν/εὑρίσκει, μείζω τούτων), rozbudowa sekcji II–VII (tytulatura, targumy do Rdz 28), katena rozszerzona do sześciu głosów, aparat w. 51 (dotąd brak not), cytowania; status: ukończona"
   }
  ]
 }

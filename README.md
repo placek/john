@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–2,11** w siedmiu perykopach — Prolog (zmigrowany z dokumentu roboczego, status: ukończona) oraz pięć perykop kontynuacji J 1,15–51 (status: w opracowaniu).
+Zawartość: **J 1,1–2,11** w siedmiu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz sześć perykop J 1,15–2,11; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -124,12 +124,12 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | Siglum | Tytuł | Status |
 |---|---|---|
 | J 1,1–14 | Prolog | ukończona |
-| J 1,15–18 | Dopełnienie Prologu | w opracowaniu |
-| J 1,19–28 | Świadectwo Jana Chrzciciela | w opracowaniu |
-| J 1,29–34 | Baranek Boży | w opracowaniu |
-| J 1,35–42 | Pierwsi uczniowie | w opracowaniu |
-| J 1,43–51 | Powołanie Filipa i Natanaela | w opracowaniu |
-| J 2,1–11 | Wesele w Kanie Galilejskiej | w opracowaniu |
+| J 1,15–18 | Dopełnienie Prologu | ukończona |
+| J 1,19–28 | Świadectwo Jana Chrzciciela | ukończona |
+| J 1,29–34 | Baranek Boży | ukończona |
+| J 1,35–42 | Pierwsi uczniowie | ukończona |
+| J 1,43–51 | Powołanie Filipa i Natanaela | ukończona |
+| J 2,1–11 | Wesele w Kanie Galilejskiej | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
