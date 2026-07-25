@@ -1,0 +1,962 @@
+{
+ "books": [
+  [
+   "2 Kor",
+   "2 List do Koryntian",
+   "NT",
+   54
+  ]
+ ],
+ "verses": {
+  "chapter": 5,
+  "items": [
+   [
+    19,
+    "Ἀπεκρίνατο οὖν ὁ Ἰησοῦς καὶ ἔλεγεν αὐτοῖς· ἀμὴν ἀμὴν λέγω ὑμῖν, οὐ δύναται ὁ υἱὸς ποιεῖν ἀφ᾿ ἑαυτοῦ οὐδὲν ἐὰν μή τι βλέπῃ τὸν πατέρα ποιοῦντα· ἃ γὰρ ἂν ἐκεῖνος ποιῇ, ταῦτα καὶ ὁ υἱὸς ὁμοίως ποιεῖ.",
+    "Odpowiedział więc Jezus i mówił im: Amen, amen, mówię wam: nie może Syn czynić sam od siebie niczego, jeśli nie widzi Ojca czyniącego; co bowiem On czyni, to i Syn czyni podobnie."
+   ],
+   [
+    20,
+    "ὁ γὰρ πατὴρ φιλεῖ τὸν υἱὸν καὶ πάντα δείκνυσιν αὐτῷ ἃ αὐτὸς ποιεῖ, καὶ μείζονα τούτων δείξει αὐτῷ ἔργα, ἵνα ὑμεῖς θαυμάζητε.",
+    "Ojciec bowiem miłuje Syna i wszystko Mu pokazuje, co sam czyni; i większe od tych dzieła Mu pokaże, abyście się dziwili."
+   ],
+   [
+    21,
+    "ὥσπερ γὰρ ὁ πατὴρ ἐγείρει τοὺς νεκροὺς καὶ ζῳοποιεῖ, οὕτως καὶ ὁ υἱὸς οὓς θέλει ζῳοποιεῖ.",
+    "Jak bowiem Ojciec wskrzesza umarłych i ożywia, tak i Syn ożywia tych, których chce."
+   ],
+   [
+    22,
+    "οὐδὲ γὰρ ὁ πατὴρ κρίνει οὐδένα, ἀλλὰ τὴν κρίσιν πᾶσαν δέδωκεν τῷ υἱῷ,",
+    "Ojciec bowiem nie sądzi nikogo, lecz cały sąd przekazał Synowi,"
+   ],
+   [
+    23,
+    "ἵνα πάντες τιμῶσι τὸν υἱὸν καθὼς τιμῶσι τὸν πατέρα. ὁ μὴ τιμῶν τὸν υἱὸν οὐ τιμᾷ τὸν πατέρα τὸν πέμψαντα αὐτόν.",
+    "aby wszyscy czcili Syna, jak czczą Ojca. Kto nie czci Syna, nie czci Ojca, który Go posłał."
+   ],
+   [
+    24,
+    "Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ὁ τὸν λόγον μου ἀκούων καὶ πιστεύων τῷ πέμψαντί με ἔχει ζωὴν αἰώνιον καὶ εἰς κρίσιν οὐκ ἔρχεται, ἀλλὰ μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν.",
+    "Amen, amen, mówię wam: kto słucha mojego słowa i wierzy Temu, który Mnie posłał, ma życie wieczne i nie idzie na sąd, lecz przeszedł ze śmierci do życia."
+   ],
+   [
+    25,
+    "ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ἔρχεται ὥρα καὶ νῦν ἐστιν ὅτε οἱ νεκροὶ ἀκούσουσιν τῆς φωνῆς τοῦ υἱοῦ τοῦ θεοῦ καὶ οἱ ἀκούσαντες ζήσουσιν.",
+    "Amen, amen, mówię wam: nadchodzi godzina — i teraz jest — gdy umarli usłyszą głos Syna Bożego, a ci, którzy usłyszą, żyć będą."
+   ],
+   [
+    26,
+    "ὥσπερ γὰρ ὁ πατὴρ ἔχει ζωὴν ἐν ἑαυτῷ, οὕτως καὶ τῷ υἱῷ ἔδωκεν ζωὴν ἔχειν ἐν ἑαυτῷ.",
+    "Jak bowiem Ojciec ma życie w sobie samym, tak i Synowi dał mieć życie w sobie samym."
+   ],
+   [
+    27,
+    "καὶ ἐξουσίαν ἔδωκεν αὐτῷ κρίσιν ποιεῖν, ὅτι υἱὸς ἀνθρώπου ἐστίν.",
+    "I dał Mu władzę czynić sąd, bo jest Synem Człowieczym."
+   ],
+   [
+    28,
+    "μὴ θαυμάζετε τοῦτο, ὅτι ἔρχεται ὥρα ἐν ᾗ πάντες οἱ ἐν τοῖς μνημείοις ἀκούσουσιν τῆς φωνῆς αὐτοῦ",
+    "Nie dziwcie się temu: nadchodzi bowiem godzina, w której wszyscy w grobach usłyszą Jego głos"
+   ],
+   [
+    29,
+    "καὶ ἐκπορεύσονται οἱ τὰ ἀγαθὰ ποιήσαντες εἰς ἀνάστασιν ζωῆς, οἱ δὲ τὰ φαῦλα πράξαντες εἰς ἀνάστασιν κρίσεως.",
+    "i wyjdą: ci, którzy dobro czynili — na zmartwychwstanie życia; ci, którzy zło popełniali — na zmartwychwstanie sądu."
+   ],
+   [
+    30,
+    "Οὐ δύναμαι ἐγὼ ποιεῖν ἀπ᾿ ἐμαυτοῦ οὐδέν· καθὼς ἀκούω κρίνω, καὶ ἡ κρίσις ἡ ἐμὴ δικαία ἐστίν, ὅτι οὐ ζητῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με.",
+    "Nie mogę Ja czynić sam od siebie niczego. Jak słyszę, sądzę — a sąd mój jest sprawiedliwy, bo nie szukam własnej woli, lecz woli Tego, który Mnie posłał."
+   ],
+   [
+    31,
+    "Ἐὰν ἐγὼ μαρτυρῶ περὶ ἐμαυτοῦ, ἡ μαρτυρία μου οὐκ ἔστιν ἀληθής·",
+    "Jeżeli Ja świadczę sam o sobie, świadectwo moje nie jest prawomocne."
+   ],
+   [
+    32,
+    "ἄλλος ἐστὶν ὁ μαρτυρῶν περὶ ἐμοῦ, καὶ οἶδα ὅτι ἀληθής ἐστιν ἡ μαρτυρία ἣν μαρτυρεῖ περὶ ἐμοῦ.",
+    "Inny jest Ten, który świadczy o Mnie — i wiem, że prawdziwe jest świadectwo, które o Mnie składa."
+   ],
+   [
+    33,
+    "ὑμεῖς ἀπεστάλκατε πρὸς Ἰωάννην, καὶ μεμαρτύρηκεν τῇ ἀληθείᾳ·",
+    "Wy posłaliście do Jana — i zaświadczył prawdzie."
+   ],
+   [
+    34,
+    "ἐγὼ δὲ οὐ παρὰ ἀνθρώπου τὴν μαρτυρίαν λαμβάνω, ἀλλὰ ταῦτα λέγω ἵνα ὑμεῖς σωθῆτε.",
+    "Ja zaś nie od człowieka biorę świadectwo, lecz mówię to, abyście wy zostali zbawieni."
+   ],
+   [
+    35,
+    "ἐκεῖνος ἦν ὁ λύχνος ὁ καιόμενος καὶ φαίνων, ὑμεῖς δὲ ἠθελήσατε ἀγαλλιαθῆναι πρὸς ὥραν ἐν τῷ φωτὶ αὐτοῦ.",
+    "On był lampą, co płonie i świeci — a wy chcieliście do czasu radować się jego światłem."
+   ],
+   [
+    36,
+    "Ἐγὼ δὲ ἔχω τὴν μαρτυρίαν μείζω τοῦ Ἰωάννου· τὰ γὰρ ἔργα ἃ δέδωκέν μοι ὁ πατὴρ ἵνα τελειώσω αὐτά, αὐτὰ τὰ ἔργα ἃ ποιῶ μαρτυρεῖ περὶ ἐμοῦ ὅτι ὁ πατήρ με ἀπέσταλκεν.",
+    "Ja zaś mam świadectwo większe od Janowego: dzieła bowiem, które dał Mi Ojciec, abym je wypełnił — te właśnie dzieła, które czynię, świadczą o Mnie, że Ojciec Mnie posłał."
+   ],
+   [
+    37,
+    "καὶ ὁ πέμψας με πατὴρ ἐκεῖνος μεμαρτύρηκεν περὶ ἐμοῦ. οὔτε φωνὴν αὐτοῦ πώποτε ἀκηκόατε οὔτε εἶδος αὐτοῦ ἑωράκατε,",
+    "I Ojciec, który Mnie posłał, On zaświadczył o Mnie. Ani głosu Jego nigdy nie słyszeliście, ani postaci Jego nie widzieliście,"
+   ],
+   [
+    38,
+    "καὶ τὸν λόγον αὐτοῦ οὐκ ἔχετε ἐν ὑμῖν μένοντα, ὅτι ὃν ἀπέστειλεν ἐκεῖνος, τούτῳ ὑμεῖς οὐ πιστεύετε.",
+    "a słowa Jego nie macie trwającego w was, bo Temu, którego On posłał, wy nie wierzycie."
+   ],
+   [
+    39,
+    "ἐραυνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν· καὶ ἐκεῖναί εἰσιν αἱ μαρτυροῦσαι περὶ ἐμοῦ·",
+    "Badacie Pisma, bo sądzicie, że w nich macie życie wieczne — a one właśnie świadczą o Mnie;"
+   ],
+   [
+    40,
+    "καὶ οὐ θέλετε ἐλθεῖν πρός με ἵνα ζωὴν ἔχητε.",
+    "a nie chcecie przyjść do Mnie, aby mieć życie."
+   ],
+   [
+    41,
+    "Δόξαν παρὰ ἀνθρώπων οὐ λαμβάνω,",
+    "Chwały od ludzi nie przyjmuję,"
+   ],
+   [
+    42,
+    "ἀλλὰ ἔγνωκα ὑμᾶς ὅτι τὴν ἀγάπην τοῦ θεοῦ οὐκ ἔχετε ἐν ἑαυτοῖς.",
+    "ale poznałem was, że miłości Boga nie macie w sobie."
+   ],
+   [
+    43,
+    "ἐγὼ ἐλήλυθα ἐν τῷ ὀνόματι τοῦ πατρός μου, καὶ οὐ λαμβάνετέ με· ἐὰν ἄλλος ἔλθῃ ἐν τῷ ὀνόματι τῷ ἰδίῳ, ἐκεῖνον λήμψεσθε.",
+    "Ja przyszedłem w imieniu Ojca mego, a nie przyjmujecie Mnie; jeśli inny przyjdzie we własnym imieniu, tego przyjmiecie."
+   ],
+   [
+    44,
+    "πῶς δύνασθε ὑμεῖς πιστεῦσαι δόξαν παρὰ ἀλλήλων λαμβάνοντες, καὶ τὴν δόξαν τὴν παρὰ τοῦ μόνου θεοῦ οὐ ζητεῖτε;",
+    "Jakże możecie uwierzyć wy, którzy przyjmujecie chwałę jedni od drugich, a chwały od samego jedynego Boga nie szukacie?"
+   ],
+   [
+    45,
+    "Μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς τὸν πατέρα· ἔστιν ὁ κατηγορῶν ὑμῶν Μωϋσῆς, εἰς ὃν ὑμεῖς ἠλπίκατε.",
+    "Nie sądźcie, że Ja was oskarżę przed Ojcem. Jest wasz oskarżyciel: Mojżesz, w którym wy złożyliście nadzieję."
+   ],
+   [
+    46,
+    "εἰ γὰρ ἐπιστεύετε Μωϋσεῖ, ἐπιστεύετε ἂν ἐμοί· περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν.",
+    "Gdybyście bowiem wierzyli Mojżeszowi, wierzylibyście i Mnie — o Mnie bowiem on napisał."
+   ],
+   [
+    47,
+    "εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε, πῶς τοῖς ἐμοῖς ῥήμασιν πιστεύσετε;",
+    "Jeśli zaś jego pismom nie wierzycie, jakże moim słowom uwierzycie?"
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "ζῳοποιέω",
+   "dzoopoieo",
+   "czasownik",
+   "ożywiać, czynić żywym — dzieło wyłącznie Boże (5,21)"
+  ],
+  [
+   "κρίνω",
+   "krino",
+   "czasownik",
+   "sądzić, rozstrzygać"
+  ],
+  [
+   "τιμάω",
+   "timao",
+   "czasownik",
+   "czcić, oddawać cześć — cześć Syna jak Ojca (5,23)"
+  ],
+  [
+   "λύχνος",
+   "lychnos",
+   "rzeczownik",
+   "lampa — zapalona i gasnąca, w odróżnieniu od Światłości (5,35)"
+  ],
+  [
+   "γραφή",
+   "grafe",
+   "rzeczownik",
+   "Pismo — świadek wskazujący poza siebie (5,39)"
+  ],
+  [
+   "κατηγορέω",
+   "kategoreo",
+   "czasownik",
+   "oskarżać (termin procesowy; stąd kategoria)"
+  ],
+  [
+   "ἀνάστασις",
+   "anastasis",
+   "rzeczownik",
+   "zmartwychwstanie, powstanie — życia albo sądu (5,29)"
+  ]
+ ],
+ "semitic": [
+  [
+   "דָּרַשׁ",
+   "darasz",
+   "hbr",
+   "badać, dociekać (Pisma) — rdzeń słowa midrasz; tło ἐραυνᾶτε z 5,39"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "γραφή",
+   "darasz",
+   "ἐραυνᾶτε τὰς γραφάς oddaje praktykę darasz — uczonego badania Pism; spór dotyczy celu badania"
+  ]
+ ],
+ "occurrences": [
+  [
+   "ἀμήν",
+   19,
+   "ἀμὴν ἀμήν"
+  ],
+  [
+   "ζῳοποιέω",
+   21,
+   "ζῳοποιεῖ"
+  ],
+  [
+   "ἐγείρω",
+   21,
+   "ἐγείρει"
+  ],
+  [
+   "κρίσις",
+   22,
+   "κρίσιν"
+  ],
+  [
+   "τιμάω",
+   23,
+   "τιμῶσι / τιμᾷ"
+  ],
+  [
+   "ζωή",
+   24,
+   "ζωήν"
+  ],
+  [
+   "κρίσις",
+   24,
+   "κρίσιν"
+  ],
+  [
+   "ὥρα",
+   25,
+   "ὥρα"
+  ],
+  [
+   "φωνή",
+   25,
+   "φωνῆς"
+  ],
+  [
+   "ζωή",
+   26,
+   "ζωήν"
+  ],
+  [
+   "ἐξουσία",
+   27,
+   "ἐξουσίαν"
+  ],
+  [
+   "κρίσις",
+   27,
+   "κρίσιν"
+  ],
+  [
+   "ὥρα",
+   28,
+   "ὥρα"
+  ],
+  [
+   "φωνή",
+   28,
+   "φωνῆς"
+  ],
+  [
+   "ἀνάστασις",
+   29,
+   "ἀνάστασιν"
+  ],
+  [
+   "κρίσις",
+   30,
+   "κρίσις"
+  ],
+  [
+   "μαρτυρία",
+   31,
+   "μαρτυρία"
+  ],
+  [
+   "λύχνος",
+   35,
+   "λύχνος"
+  ],
+  [
+   "φῶς",
+   35,
+   "φωτί"
+  ],
+  [
+   "μαρτυρία",
+   36,
+   "μαρτυρίαν"
+  ],
+  [
+   "μένω",
+   38,
+   "μένοντα"
+  ],
+  [
+   "γραφή",
+   39,
+   "γραφάς"
+  ],
+  [
+   "ζωή",
+   39,
+   "ζωήν"
+  ],
+  [
+   "δόξα",
+   41,
+   "δόξαν"
+  ],
+  [
+   "ἀγαπάω",
+   42,
+   "ἀγάπην"
+  ],
+  [
+   "δόξα",
+   44,
+   "δόξαν"
+  ],
+  [
+   "κατηγορέω",
+   45,
+   "κατηγορήσω / κατηγορῶν"
+  ]
+ ],
+ "works": [],
+ "themes": [
+  [
+   "eschatologia Janowa — godzina, która nadchodzi i teraz jest",
+   "Przejście ze śmierci do życia już dokonane (5,24: μεταβέβηκεν) obok zmartwychwstania grobów, które nadejdzie (5,28–29): dwie godziny czwartej Ewangelii, trzymane razem bez sprzeczności."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 5,
+    "vs": 19,
+    "ce": 5,
+    "ve": 47,
+    "title": "Mowa o Synu i świadectwach",
+    "motto": "Non potest Filius a se facere quidquam (Nie może Syn nic czynić sam od siebie)",
+    "status": "ukonczona",
+    "position": 14
+   },
+   "intro": "Na zarzut, że czyni siebie równym Bogu, Jezus nie odpowiada zaprzeczeniem, lecz najgłębszym wykładem synostwa w całej Ewangelii: Syn nie może nic czynić sam od siebie — i właśnie dlatego czyni wszystko, co Ojciec: ożywia, sądzi, ma życie w sobie samym. Pierwsza wielka mowa obrończa księgi przechodzi następnie od tezy do przewodu dowodowego — cztery świadectwa: Jan, dzieła, Ojciec, Pisma — i kończy się odwróceniem ról: oskarżeni zostają oskarżyciele, a ich obrońca Mojżesz okazuje się świadkiem oskarżenia.",
+   "struktura": "Mowa jest zbudowana jak klasyczna obrona sądowa w trzech częściach. Teza (w. 19–30): odpowiedź na zarzut z 5,18 przez paradoks — „nie może Syn czynić sam od siebie niczego\" (w. 19) i „nie mogę Ja czynić sam od siebie niczego\" (w. 30) tworzą inkluzję, wewnątrz której padają najwyższe roszczenia: Syn ożywia jak Ojciec (w. 21), otrzymał cały sąd (w. 22), ma być czczony jak Ojciec (w. 23), ma życie w sobie samym (w. 26); trzy ἀμὴν ἀμήν (w. 19.24.25) rytmizują wykład jak w rozmowie z Nikodemem. W samym środku — dwie eschatologie położone obok siebie bez szwu: godzina, która „nadchodzi i teraz jest\" (w. 25 — umarli duchowo słyszą głos Syna dziś), i godzina, która nadchodzi (w. 28–29 — bez „i teraz jest\": groby, zmartwychwstanie powszechne). Przewód dowodowy (w. 31–40): uznając zasadę prawa (samoświadectwo nie wystarcza), Jezus powołuje czterech świadków — Jana (lampa, świadek ludzki, już „był\"), dzieła (świadectwo większe), Ojca (świadectwo wewnętrzne, niedostępne dla tych, w których słowo nie mieszka) i Pisma (badane bez dojścia do Tego, o kim świadczą). Kontratak (w. 41–47): diagnoza niewiary — chwała wzajemna zamiast chwały od Jedynego — i coup de théâtre finału: nie Ja was oskarżę; waszym oskarżycielem jest Mojżesz, „w którym złożyliście nadzieję\", bo „o Mnie pisał\". Mowa, która zaczęła się jako obrona Jezusa, kończy się jako proces słuchaczy — dokładnie Janowa mechanika sądu z 3,17–21: światło nie sądzi, światło odsłania.",
+   "blocks": [
+    {
+     "cs": 5,
+     "vs": 19,
+     "ce": 5,
+     "ve": 23,
+     "label": "w. 19–23",
+     "greek": "Ἀπεκρίνατο οὖν ὁ Ἰησοῦς καὶ ἔλεγεν αὐτοῖς· ἀμὴν ἀμὴν λέγω ὑμῖν, οὐ δύναται ὁ υἱὸς ποιεῖν ἀφ᾿ ἑαυτοῦ οὐδὲν ἐὰν μή τι βλέπῃ τὸν πατέρα ποιοῦντα· ἃ γὰρ ἂν ἐκεῖνος ποιῇ, ταῦτα καὶ ὁ υἱὸς ὁμοίως ποιεῖ. ὁ γὰρ πατὴρ φιλεῖ τὸν υἱὸν καὶ πάντα δείκνυσιν αὐτῷ ἃ αὐτὸς ποιεῖ, καὶ μείζονα τούτων δείξει αὐτῷ ἔργα, ἵνα ὑμεῖς θαυμάζητε. ὥσπερ γὰρ ὁ πατὴρ ἐγείρει τοὺς νεκροὺς καὶ ζῳοποιεῖ, οὕτως καὶ ὁ υἱὸς οὓς θέλει ζῳοποιεῖ. οὐδὲ γὰρ ὁ πατὴρ κρίνει οὐδένα, ἀλλὰ τὴν κρίσιν πᾶσαν δέδωκεν τῷ υἱῷ, ἵνα πάντες τιμῶσι τὸν υἱὸν καθὼς τιμῶσι τὸν πατέρα. ὁ μὴ τιμῶν τὸν υἱὸν οὐ τιμᾷ τὸν πατέρα τὸν πέμψαντα αὐτόν.",
+     "transl": "Odpowiedział więc Jezus i mówił im: Amen, amen, mówię wam: nie może Syn czynić sam od siebie niczego, jeśli nie widzi Ojca czyniącego; co bowiem On czyni, to i Syn czyni podobnie. Ojciec bowiem miłuje Syna i wszystko Mu pokazuje, co sam czyni; i większe od tych dzieła Mu pokaże, abyście się dziwili. Jak bowiem Ojciec wskrzesza umarłych i ożywia, tak i Syn ożywia tych, których chce. Ojciec bowiem nie sądzi nikogo, lecz cały sąd przekazał Synowi, aby wszyscy czcili Syna, jak czczą Ojca. Kto nie czci Syna, nie czci Ojca, który Go posłał.",
+     "units": [
+      [
+       "οὐ δύναται ὁ υἱὸς ποιεῖν ἀφ᾿ ἑαυτοῦ οὐδέν",
+       "nie może Syn czynić sam od siebie niczego",
+       "Obrona zaczyna się od zdania, które brzmi jak kapitulacja, a jest szczytem roszczenia. Zarzut brzmiał: czyni siebie równym Bogu — czyli: ustawia się jako drugi, konkurencyjny ośrodek boskiego działania. Odpowiedź: Syn nie jest i nie może być ośrodkiem konkurencyjnym — nie dlatego, że jest za słaby, lecz dlatego, że nie jest oddzielny: „nie może\" (οὐ δύναται) wyraża tu niemożliwość z natury, jak „Bóg nie może kłamać\" — doskonałość, nie brak. Za obrazem stoi przypowieść z warsztatu, którą egzegeza słyszy pod wersetami 19–20: syn terminujący u ojca-rzemieślnika patrzy i czyni to samo, a ojciec z miłości pokazuje mu wszystko, co umie. Tyle że w zastosowaniu przypowieść eksploduje: „wszystko Mu pokazuje\" i „co On czyni, to i Syn czyni PODOBNIE (ὁμοίως — tak samo)\" — żaden ludzki uczeń nie czyni wszystkiego identycznie z mistrzem; a dziełami, o których mowa, są wskrzeszanie i sąd. Jedność działania bez odrębności inicjatywy: to odpowiedź, która zarzut z 5,18 nie osłabia, lecz uściśla — równość Syna nie jest równością drugiego boga, lecz równością Zrodzonego, którego całe działanie jest przyjęte od Ojca i tożsame z Ojcowym."
+      ],
+      [
+       "ὥσπερ ... ζῳοποιεῖ, οὕτως καὶ ὁ υἱὸς οὓς θέλει ζῳοποιεῖ",
+       "jak Ojciec ożywia, tak i Syn ożywia, których chce",
+       "Dowód równości przez dzieła zastrzeżone: judaizm wyliczał czynności, których Bóg nie deleguje nikomu — wśród nich klucz ożywiania umarłych (i sąd ostateczny); modlitwa Osiemnastu Błogosławieństw sławi Boga jako mechajje ha-metim, „ożywiającego umarłych\". Jezus przypisuje Synowi dokładnie te dwie kompetencje — i to z akcentem suwerenności: οὓς θέλει (których chce; ta sama wolność, którą wiatr-Duch miał w 3,8). Co więcej: „Ojciec nie sądzi nikogo, lecz cały sąd przekazał Synowi\" — zdanie, które w ustach monoteisty żydowskiego jest albo bluźnierstwem, albo objawieniem: sąd JHWH z proroków ma być sprawowany przez Syna. Cel przekazania jest liturgiczny i mierzalny: ἵνα πάντες τιμῶσι τὸν υἱὸν καθὼς τιμῶσι τὸν πατέρα — aby czcili Syna, JAK czczą Ojca: nie czcią niższą, pochodną, grzecznościową — tą samą (καθώς). Kult Jezusa, który poganom zarzucano chrześcijanom jako nowinkę, ma tu swoją kartę fundacyjną; a zdanie odwrotne („kto nie czci Syna, nie czci Ojca\") odbiera raz na zawsze możliwość monoteizmu omijającego Chrystusa: od tej mowy droga do Ojca ma bramę."
+      ]
+     ]
+    },
+    {
+     "cs": 5,
+     "vs": 24,
+     "ce": 5,
+     "ve": 30,
+     "label": "w. 24–30",
+     "greek": "Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ὁ τὸν λόγον μου ἀκούων καὶ πιστεύων τῷ πέμψαντί με ἔχει ζωὴν αἰώνιον καὶ εἰς κρίσιν οὐκ ἔρχεται, ἀλλὰ μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν. ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ἔρχεται ὥρα καὶ νῦν ἐστιν ὅτε οἱ νεκροὶ ἀκούσουσιν τῆς φωνῆς τοῦ υἱοῦ τοῦ θεοῦ καὶ οἱ ἀκούσαντες ζήσουσιν. ὥσπερ γὰρ ὁ πατὴρ ἔχει ζωὴν ἐν ἑαυτῷ, οὕτως καὶ τῷ υἱῷ ἔδωκεν ζωὴν ἔχειν ἐν ἑαυτῷ. καὶ ἐξουσίαν ἔδωκεν αὐτῷ κρίσιν ποιεῖν, ὅτι υἱὸς ἀνθρώπου ἐστίν. μὴ θαυμάζετε τοῦτο, ὅτι ἔρχεται ὥρα ἐν ᾗ πάντες οἱ ἐν τοῖς μνημείοις ἀκούσουσιν τῆς φωνῆς αὐτοῦ καὶ ἐκπορεύσονται οἱ τὰ ἀγαθὰ ποιήσαντες εἰς ἀνάστασιν ζωῆς, οἱ δὲ τὰ φαῦλα πράξαντες εἰς ἀνάστασιν κρίσεως. Οὐ δύναμαι ἐγὼ ποιεῖν ἀπ᾿ ἐμαυτοῦ οὐδέν· καθὼς ἀκούω κρίνω, καὶ ἡ κρίσις ἡ ἐμὴ δικαία ἐστίν, ὅτι οὐ ζητῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με.",
+     "transl": "Amen, amen, mówię wam: kto słucha mojego słowa i wierzy Temu, który Mnie posłał, ma życie wieczne i nie idzie na sąd, lecz przeszedł ze śmierci do życia. Amen, amen, mówię wam: nadchodzi godzina — i teraz jest — gdy umarli usłyszą głos Syna Bożego, a ci, którzy usłyszą, żyć będą. Jak bowiem Ojciec ma życie w sobie samym, tak i Synowi dał mieć życie w sobie samym. I dał Mu władzę czynić sąd, bo jest Synem Człowieczym. Nie dziwcie się temu: nadchodzi bowiem godzina, w której wszyscy w grobach usłyszą Jego głos i wyjdą: ci, którzy dobro czynili — na zmartwychwstanie życia; ci, którzy zło popełniali — na zmartwychwstanie sądu. Nie mogę Ja czynić sam od siebie niczego. Jak słyszę, sądzę — a sąd mój jest sprawiedliwy, bo nie szukam własnej woli, lecz woli Tego, który Mnie posłał.",
+     "units": [
+      [
+       "μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν",
+       "przeszedł ze śmierci do życia",
+       "Perfectum μεταβέβηκεν — przeszedł i pozostaje po drugiej stronie: najśmielsze zdanie eschatologii Janowej. Nie „przejdzie po śmierci\", nie „ma nadzieję przejść\" — przeszedł: słuchanie słowa i wiara Posyłającemu są już dokonaną Paschą (μεταβαίνω to czasownik przejścia; por. 13,1 o „przejściu\" Jezusa z tego świata do Ojca — wierzący ma za sobą własną, mniejszą Paschę tego samego kształtu). „Na sąd nie idzie\" — bo sąd, jak wyłożyło 3,18–19, jest samookreśleniem wobec światła: kto przylgnął do Sędziego, nie stanie przed nim jako obcy. Werset 25 dopowiada mechanikę tego przejścia obrazem wskrzeszenia: „umarli usłyszą głos Syna Bożego\" — w godzinie, która „nadchodzi I TERAZ JEST\": pierwszymi wskrzeszonymi są martwi duchowo, słuchający Ewangelii dzisiaj; każde nawrócenie jest w tej optyce małym wyjściem z grobu na głos (a wskrzeszenie Łazarza — 11,43 — będzie tego widzialną przypowieścią). List Janowy poda tę naukę wspólnocie jako kryterium samopoznania: „my wiemy, że przeszliśmy (μεταβεβήκαμεν) ze śmierci do życia, bo miłujemy braci\" (1 J 3,14) — pewność Paschy poznaje się po miłości."
+      ],
+      [
+       "ζωὴν ἔχειν ἐν ἑαυτῷ",
+       "mieć życie w sobie samym",
+       "Zdanie, na którym teologia trynitarna zbudowała traktat: „jak Ojciec ma życie w sobie samym, tak i Synowi dał mieć życie w sobie samym\". Mieć życie „w sobie\" — nie zapożyczone, nie podtrzymywane z zewnątrz — to definicja boskości: wszystko inne żyje życiem otrzymywanym; Bóg jest życiem. Otóż Syn ma życie dokładnie tym Boskim sposobem (ἐν ἑαυτῷ) — a zarazem „dał Mu\" Ojciec: dar i równość w jednym zdaniu, czyli sama gramatyka odwiecznego zrodzenia — Ojciec, rodząc, udziela Synowi całej swej natury, także sposobu posiadania życia; dar nie czyni Syna późniejszym ani mniejszym, bo jest darem wiecznym, jak światło słońca nie jest młodsze od słońca (Ojcowie doprecyzują: zrodzenie to przyczyna pochodzenia, nie kolejność w czasie). Werset 27 dodaje drugą oś: władza sądu dana, „bo jest Synem Człowieczym\" (υἱὸς ἀνθρώπου — jedyny raz w NT bez rodzajników, jak żywcem z Dn 7,13): sądzić ludzi będzie Człowiek — Ten, który zna kondycję sądzonych od wewnątrz; sąd ostateczny nie będzie trybunałem obcego, lecz spotkaniem z Bratem, którego się przyjęło albo nie. Inkluzja w. 30 („nie mogę Ja…\" — przejście z „Syn\" na „Ja\") podpisuje całą tezę pierwszą osobą: to nie chrystologia o kimś trzecim — to samoświadomość Mówiącego."
+      ],
+      [
+       "ἀνάστασιν ζωῆς ... ἀνάστασιν κρίσεως",
+       "zmartwychwstanie życia ... zmartwychwstanie sądu",
+       "Po eschatologii „teraz\" (w. 24–25) mowa stawia obok — bez zakłopotania — eschatologię „potem\": nadchodzi godzina (tym razem bez „i teraz jest\"), w której WSZYSCY w grobach usłyszą głos; wyjdą i ci, i tamci — jedni na zmartwychwstanie życia, drudzy sądu. Słownik jest z Dn 12,2 („wielu z tych, którzy śpią w prochu ziemi, obudzi się: jedni do życia wiecznego, drudzy ku hańbie\"), rozszerzony do „wszyscy\": powszechność zmartwychwstania, także niesprawiedliwych — nauka, którą Kościół wyzna w Credo („i oczekuję wskrzeszenia umarłych\"). Zaskakuje kryterium: „ci, którzy dobro CZYNILI… zło POPEŁNIALI\" — sąd według uczynków, w Ewangelii wiary! Sprzeczności nie ma: dla Jana wiara i czyn to awers i rewers jednego przylgnięcia (3,21: „kto czyni prawdę, przychodzi do światła\"; 1 J konsekwentnie) — uczynki są tym, co z wiary zostało w rękach; sąd ostateczny nie zmieni werdyktów z w. 24, tylko je ujawni w ciele. Dwie godziny tej mowy trzeba trzymać razem, jak trzyma je tekst: kto ma tylko „teraz\", rozpuszcza nadzieję ciała w psychologii; kto ma tylko „potem\", odracza Ewangelię na po śmierci; Jan ma obie — Pascha dokonuje się dziś, objawi się w grobach."
+      ]
+     ]
+    },
+    {
+     "cs": 5,
+     "vs": 31,
+     "ce": 5,
+     "ve": 40,
+     "label": "w. 31–40",
+     "greek": "Ἐὰν ἐγὼ μαρτυρῶ περὶ ἐμαυτοῦ, ἡ μαρτυρία μου οὐκ ἔστιν ἀληθής· ἄλλος ἐστὶν ὁ μαρτυρῶν περὶ ἐμοῦ, καὶ οἶδα ὅτι ἀληθής ἐστιν ἡ μαρτυρία ἣν μαρτυρεῖ περὶ ἐμοῦ. ὑμεῖς ἀπεστάλκατε πρὸς Ἰωάννην, καὶ μεμαρτύρηκεν τῇ ἀληθείᾳ· ἐγὼ δὲ οὐ παρὰ ἀνθρώπου τὴν μαρτυρίαν λαμβάνω, ἀλλὰ ταῦτα λέγω ἵνα ὑμεῖς σωθῆτε. ἐκεῖνος ἦν ὁ λύχνος ὁ καιόμενος καὶ φαίνων, ὑμεῖς δὲ ἠθελήσατε ἀγαλλιαθῆναι πρὸς ὥραν ἐν τῷ φωτὶ αὐτοῦ. Ἐγὼ δὲ ἔχω τὴν μαρτυρίαν μείζω τοῦ Ἰωάννου· τὰ γὰρ ἔργα ἃ δέδωκέν μοι ὁ πατὴρ ἵνα τελειώσω αὐτά, αὐτὰ τὰ ἔργα ἃ ποιῶ μαρτυρεῖ περὶ ἐμοῦ ὅτι ὁ πατήρ με ἀπέσταλκεν. καὶ ὁ πέμψας με πατὴρ ἐκεῖνος μεμαρτύρηκεν περὶ ἐμοῦ. οὔτε φωνὴν αὐτοῦ πώποτε ἀκηκόατε οὔτε εἶδος αὐτοῦ ἑωράκατε, καὶ τὸν λόγον αὐτοῦ οὐκ ἔχετε ἐν ὑμῖν μένοντα, ὅτι ὃν ἀπέστειλεν ἐκεῖνος, τούτῳ ὑμεῖς οὐ πιστεύετε. ἐραυνᾶτε τὰς γραφάς, ὅτι ὑμεῖς δοκεῖτε ἐν αὐταῖς ζωὴν αἰώνιον ἔχειν· καὶ ἐκεῖναί εἰσιν αἱ μαρτυροῦσαι περὶ ἐμοῦ· καὶ οὐ θέλετε ἐλθεῖν πρός με ἵνα ζωὴν ἔχητε.",
+     "transl": "Jeżeli Ja świadczę sam o sobie, świadectwo moje nie jest prawomocne. Inny jest Ten, który świadczy o Mnie — i wiem, że prawdziwe jest świadectwo, które o Mnie składa. Wy posłaliście do Jana — i zaświadczył prawdzie. Ja zaś nie od człowieka biorę świadectwo, lecz mówię to, abyście wy zostali zbawieni. On był lampą, co płonie i świeci — a wy chcieliście do czasu radować się jego światłem. Ja zaś mam świadectwo większe od Janowego: dzieła bowiem, które dał Mi Ojciec, abym je wypełnił — te właśnie dzieła, które czynię, świadczą o Mnie, że Ojciec Mnie posłał. I Ojciec, który Mnie posłał, On zaświadczył o Mnie. Ani głosu Jego nigdy nie słyszeliście, ani postaci Jego nie widzieliście, a słowa Jego nie macie trwającego w was, bo Temu, którego On posłał, wy nie wierzycie. Badacie Pisma, bo sądzicie, że w nich macie życie wieczne — a one właśnie świadczą o Mnie; a nie chcecie przyjść do Mnie, aby mieć życie.",
+     "units": [
+      [
+       "ἄλλος ἐστὶν ὁ μαρτυρῶν περὶ ἐμοῦ",
+       "Inny jest Ten, który świadczy o Mnie",
+       "Jezus przyjmuje reguły gry przeciwnika: prawo dowodowe Izraela nie zna samoświadectwa (Pwt 19,15: „na słowie dwóch lub trzech świadków oprze się sprawa\"; Miszna doda wprost: nikt nie jest wiarygodny, zeznając o sobie) — więc w. 31 uprzedza zarzut: gdybym świadczył sam, świadectwo byłoby nieprawomocne (ἀληθής tu w sensie procesowym: ważne, dopuszczalne — nie „prawdziwe\" ontologicznie; w 8,14 Jezus powie pozornie odwrotnie, właśnie w sensie ontologicznym). „Inny\" (ἄλλος) to od razu Ojciec — świadek główny, wymieniony w w. 37 — a wokół Niego mowa ustawia pełną ławę: Jan (świadectwo ludzkie, przyjęte nie dla Jezusa, lecz „abyście wy zostali zbawieni\"), dzieła (w. 36: świadectwo większe — bo uzdrowiony przy Betesdzie chodzi po Jerozolimie jako żywy dokument), Pisma (w. 39). Struktura jest jawnie procesowa i głęboko Janowa: cała Ewangelia była zapowiedziana jako μαρτυρία (1,7) — tu widać jej rozprawę główną. A duszpasterski smak w. 34 pozostaje: Jezus nie potrzebuje ludzkich referencji — przyjmuje je i przywołuje wyłącznie ze względu na zbawienie słuchaczy; cała apologetyka Kościoła ma tu swój statut: nie bronimy Boga, bo Mu brak obrony — mówimy, „abyście zostali zbawieni\"."
+      ],
+      [
+       "ὁ λύχνος ὁ καιόμενος καὶ φαίνων",
+       "lampa, co płonie i świeci",
+       "Epitafium Chrzciciela w trzech słowach — i lekcja hierarchii świateł. Λύχνος to lampka oliwna: zapalona (καιόμενος — płonący, czyli spalający się: świecenie kosztuje knot), jasna, ale nie samoświetlna i nie wieczna; Ewangelia od Prologu zna różnicę między lampą a Światłem (1,8: „nie był on światłością\") i ustami Jezusa oddaje Janowi maksimum tego, co stworzone: płonął i świecił. Czas przeszły ἦν (był) mówi dyskretnie, że lampa już zgasła — Machront dokonał swego — a wyrzut „chcieliście DO CZASU radować się jego światłem\" (πρὸς ὥραν — na godzinę) obnaża religijność sezonową: tłumy biegły nad Jordan jak na widowisko, radość była (ἀγαλλιαθῆναι — rozradować się: mocne słowo), nawrócenia nie; gdy lampa zaczęła oświetlać sumienia (i Heroda), entuzjazm wygasł szybciej niż knot. To ostrzeżenie dla każdej epoki charyzmatycznych „lamp\": po słudze Bożym można się ślizgać estetycznie — a można dać się poprowadzić do Światła, o którym świadczył; różnica wychodzi na jaw, gdy światło zaczyna kosztować."
+      ],
+      [
+       "ἐραυνᾶτε τὰς γραφάς",
+       "badacie Pisma",
+       "Forma ἐραυνᾶτε jest gramatycznie dwuznaczna — indykatyw („badacie\") albo imperatyw („badajcie\") — i obie lektury mają za sobą wielkich zwolenników; kontekst przechyla ku pierwszej: Jezus opisuje praktykę słuchaczy (uczonego darasz — badania Pism, z którego wyrośnie midrasz), by wskazać jej paradoks. Motyw ich studium przytacza ich własnym językiem: „sądzicie, że w NICH macie życie wieczne\" — niemal cytat z etosu rabinicznego (traktat Pirke Awot: kto przyswoił słowa Tory, przyswoił sobie życie świata przyszłego). I tu następuje najczulsze pęknięcie mowy: „a ONE właśnie świadczą o Mnie — a nie chcecie przyjść DO MNIE, aby mieć życie\". Pisma są świadkiem, nie źródłem: życie nie mieszka w zwoju, mieszka w Tym, na którego zwój wskazuje; można całe życie badać drogowskazy i nigdy nie wyruszyć. Zdanie w. 40 zawiesza winę nie na intelekcie, lecz na woli (οὐ θέλετε — nie chcecie): niewiara uczonych nie jest błędem w sztuce egzegezy, jest odmową spotkania. Dla Kościoła, który sam żyje z ksiąg, przestroga pozostaje na zawsze aktualna: teologia, lektura, nawet nabożna — jeśli nie kończy się przyjściem do Osoby, jest badaniem cudzych listów miłosnych."
+      ]
+     ]
+    },
+    {
+     "cs": 5,
+     "vs": 41,
+     "ce": 5,
+     "ve": 47,
+     "label": "w. 41–47",
+     "greek": "Δόξαν παρὰ ἀνθρώπων οὐ λαμβάνω, ἀλλὰ ἔγνωκα ὑμᾶς ὅτι τὴν ἀγάπην τοῦ θεοῦ οὐκ ἔχετε ἐν ἑαυτοῖς. ἐγὼ ἐλήλυθα ἐν τῷ ὀνόματι τοῦ πατρός μου, καὶ οὐ λαμβάνετέ με· ἐὰν ἄλλος ἔλθῃ ἐν τῷ ὀνόματι τῷ ἰδίῳ, ἐκεῖνον λήμψεσθε. πῶς δύνασθε ὑμεῖς πιστεῦσαι δόξαν παρὰ ἀλλήλων λαμβάνοντες, καὶ τὴν δόξαν τὴν παρὰ τοῦ μόνου θεοῦ οὐ ζητεῖτε; Μὴ δοκεῖτε ὅτι ἐγὼ κατηγορήσω ὑμῶν πρὸς τὸν πατέρα· ἔστιν ὁ κατηγορῶν ὑμῶν Μωϋσῆς, εἰς ὃν ὑμεῖς ἠλπίκατε. εἰ γὰρ ἐπιστεύετε Μωϋσεῖ, ἐπιστεύετε ἂν ἐμοί· περὶ γὰρ ἐμοῦ ἐκεῖνος ἔγραψεν. εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε, πῶς τοῖς ἐμοῖς ῥήμασιν πιστεύσετε;",
+     "transl": "Chwały od ludzi nie przyjmuję, ale poznałem was, że miłości Boga nie macie w sobie. Ja przyszedłem w imieniu Ojca mego, a nie przyjmujecie Mnie; jeśli inny przyjdzie we własnym imieniu, tego przyjmiecie. Jakże możecie uwierzyć wy, którzy przyjmujecie chwałę jedni od drugich, a chwały od samego jedynego Boga nie szukacie? Nie sądźcie, że Ja was oskarżę przed Ojcem. Jest wasz oskarżyciel: Mojżesz, w którym wy złożyliście nadzieję. Gdybyście bowiem wierzyli Mojżeszowi, wierzylibyście i Mnie — o Mnie bowiem on napisał. Jeśli zaś jego pismom nie wierzycie, jakże moim słowom uwierzycie?",
+     "units": [
+      [
+       "δόξαν παρὰ ἀλλήλων λαμβάνοντες",
+       "przyjmujący chwałę jedni od drugich",
+       "Diagnoza niewiary — nie intelektualna, lecz socjologiczna: „jakże MOŻECIE uwierzyć wy, którzy przyjmujecie chwałę jedni od drugich?\". Wiara wymaga zwrócenia się ku chwale od Jedynego (δόξα tu w podwójnym sensie: uznanie — i kawod, ciężar Bożej aprobaty); tymczasem środowisko uczonych żyje w zamkniętym obiegu wzajemnych uznań — tytułów, pierwszych miejsc, cytowań — w którym opinia kolegium waży więcej niż prawda. W takim ekosystemie uwierzyć w Mesjasza spoza układu znaczy wypaść z obiegu chwały (Ewangelia pokaże ten mechanizm nago w 12,42–43: wielu dostojników uwierzyło, lecz nie wyznawało, „umiłowali bowiem chwałę ludzką bardziej niż chwałę Bożą\"). Werset 43 dodaje gorzkie proroctwo: przychodzącego w imieniu Ojca się odrzuca, przychodzącego we własnym imieniu — przyjmie się chętnie; historia mesjaszów samozwańczych (od Teudasa po Bar Kochbę i dalej) wystawiła temu zdaniu aż nadto pieczęci. Mechanizm jest ponadczasowy i mierzy także w Kościół: każda wspólnota, w której aplauz wewnętrzny zastąpił szukanie chwały od Boga, traci zdolność rozpoznania prawdy przychodzącej z zewnątrz układu — pycha zbiorowa jest wadą epistemiczną, nie tylko moralną."
+      ],
+      [
+       "ἔστιν ὁ κατηγορῶν ὑμῶν Μωϋσῆς",
+       "jest wasz oskarżyciel: Mojżesz",
+       "Finał mowy odwraca salę sądową do góry nogami. Oskarżeni o bluźnierstwo nie usłyszą kontroskarżenia od Jezusa („nie sądźcie, że JA was oskarżę\") — rola κατήγορος (oskarżyciela) jest już obsadzona: Mojżesz, „w którym złożyliście nadzieję\". Cios jest wymierzony w sam fundament: Mojżesz był dla Izraela obrońcą par excellence — wstawiennikiem spod Synaju, który zasłaniał lud własnym życiem (Wj 32,32); a jego Tora — gwarancją. Jezus nie odbiera im Mojżesza — odbiera im złudzenie, że mają go po swojej stronie: „gdybyście wierzyli Mojżeszowi, wierzylibyście i Mnie — o Mnie bowiem on napisał\" (πεrὶ ἐμοῦ ἔγραψεν: obietnica Proroka z Pwt 18,15.18 — z sankcją w Pwt 18,19: „kto nie posłucha słów moich, które on wypowie w moim imieniu, Ja będę tego dochodził\" — Mojżesz-oskarżyciel to nie metafora, to paragraf jego własnej księgi; a szerzej: cała Tora czytana chrystologicznie, od węża na palu po Paschę). Ostatnie zdanie mowy spina γράμματα i ῥήματα (pisma i słowa) w argument a fortiori o przejmującej logice: kto nie uwierzył literze, którą czci, nie uwierzy głosowi, który słyszy — niewiara nie jest deficytem dowodów, jest stanem serca, który każdy dowód strawi. Mowa kończy się więc bez wyroku i bez odpowiedzi słuchaczy: proces zostaje odroczony — i będzie wracał w rozdziałach 7–10, aż strony zamienią się miejscami ostatecznie na dziedzińcu Piłata."
+      ]
+     ]
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Przypowieść o synu w warsztacie, żydowska nauka o kluczach zastrzeżonych Bogu, prawo dowodowe procesu i etos badania Pism — cztery konteksty, bez których mowa traci swoje zaczepienie w realnym sporze.",
+     "children": [
+      [
+       "Syn w warsztacie ojca — przypowieść za tezą",
+       "Za wersetami 19–20 egzegeza od dawna słyszy przypowieść z życia: syn terminujący u ojca-rzemieślnika (cieśli!) niczego nie robi „od siebie\" — patrzy, jak ojciec prowadzi dłuto, i czyni tak samo; ojciec zaś, miłując syna, nie chowa przed nim niczego ze swej sztuki i pokazuje mu dzieła coraz większe. Obraz mógł być wzięty z własnej biografii Mówiącego (τέκτων z Nazaretu i syn τέκτονος — Mk 6,3; Mt 13,55); w mowie zostaje przełożony na relację odwieczną: warsztat okazuje się stwarzaniem i sądem, a „większe dzieła\" — wskrzeszaniem umarłych. Ten ludzki podkład tłumaczy ton całości: teza, która w języku metafizyki brzmi zawrotnie (jedność działania Ojca i Syna), w języku przypowieści jest przezroczysta — nikt nie zarzuca synowi w warsztacie, że „czyni siebie równym ojcu\", gdy robi to, co ojciec i tak, jak ojciec; zarzut z 5,18 zostaje więc rozbrojony obrazem najpokorniejszym z możliwych. Zarazem obraz strzeże przed modalizmem: w warsztacie są dwaj — patrzący i pokazujący; jedność dzieł nie znosi dwoistości osób."
+      ],
+      [
+       "Klucze zastrzeżone: ożywianie i sąd",
+       "Teologia żydowska znała katalog prerogatyw, których Bóg nie oddaje nikomu. Talmud wylicza klucze pozostające wyłącznie w ręku Świętego: klucz deszczu, klucz łona i klucz ożywienia umarłych (b. Taanit 2a — z zastrzeżeniem, że nie bywają powierzane wysłannikowi); codzienna Amida błogosławi Boga jako „ożywiającego umarłych\" (mechajje ha-metim) w drugim błogosławieństwie, a sąd ostateczny należy do „Sędziego całej ziemi\" (Rdz 18,25). Mowa Janowa jest skomponowana dokładnie na tym katalogu: Syn ożywia, kogo chce (w. 21), i otrzymał cały sąd (w. 22) — czyli obie kompetencje z listy „niepowierzalnych\"; kto znał Amidę (a znał każdy słuchacz), słyszał roszczenie bez niedomówień. Stąd też waga w. 23: cześć (τιμή) Syna „jak Ojca\" nie jest grzecznościowym szacunkiem dla proroka — jest kultem; wspólnota Janowa, oskarżana o naruszenie monoteizmu, znajdowała w tych wersetach odpowiedź: kult Syna nie dzieli chwały Jedynego, bo Syn nie jest drugim ośrodkiem — jest Zrodzonym, w którym czci się Ojca posyłającego."
+      ],
+      [
+       "Prawo dowodowe: świadkowie i samoświadectwo",
+       "Przewód w. 31–40 zakłada procedurę: Pwt 19,15 („nie przyjmie się jednego świadka… na słowie dwóch lub trzech świadków oprze się sprawa\"; por. Pwt 17,6 przy sprawach gardłowych) oraz zasadę, którą Miszna wypowie wprost (Ketubot 2,9: „nikt nie jest wiarygodny, zeznając o samym sobie\"). Jezus respektuje regułę — po to, by ją przelicytować: powołuje świadków więcej niż dwóch (Jan, dzieła, Ojciec, Pisma), a w 8,17–18 wróci do rachunku wprost („w waszym Prawie napisano, że świadectwo dwóch ludzi jest prawdziwe: Ja świadczę o sobie i świadczy o Mnie Ojciec\"). Napięcie z 8,14 („choć Ja świadczę sam o sobie, świadectwo moje JEST prawdziwe\") jest pozorne i pouczające: 5,31 mówi językiem procedury (samoświadectwo niedopuszczalne formalnie), 8,14 językiem ontologii (Ten, który wie, skąd przyszedł, mówi prawdę niezależnie od procedur) — mowa z rozdziału 5 zniża się do reguł słuchaczy, by nie mieli wymówki. Dla czytelnika wspólnoty Janowej, ciąganej przed sądy synagogalne (16,2), ten rozdział był także podręcznikiem: jak świadczyć według reguł, które przeciwnik uznaje."
+      ],
+      [
+       "Badanie Pism i życie wieczne",
+       "Ἐραυνᾶτε τὰς γραφάς opisuje praktykę o wielkiej godności: darasz — uczone, drobiazgowe dociekanie tekstu (stąd midrasz), które w epoce po zburzeniu świątyni stanie się samym sercem judaizmu. Etos tego studium najlepiej oddaje traktat Pirke Awot: „kto przyswoił sobie słowa Tory, przyswoił sobie życie świata przyszłego\" (2,7) — dokładnie przekonanie, które w. 39 cytuje („sądzicie, że w nich macie życie wieczne\"). Spór Janowy nie dotyczy więc wartości studium (Jezus sam argumentuje z Pism i z Mojżesza!), lecz jego celu: czy tekst jest świadkiem, który prowadzi do Osoby, czy sejfem, w którym życie leży zdeponowane. Wspólnota Janowa, złożona z ludzi rozmiłowanych w Pismach, przeżyła tę różnicę na sobie — jej Ewangelia jest utkana z egzegezy (od Rdz 1 w Prologu po Pwt 18 w tej mowie), a zarazem cała wskazuje poza tekst: „abyście wierzyli… i abyście wierząc, mieli życie w imię Jego\" (20,31). Formuła w. 39–40 pozostaje probierzem każdej biblistyki: badanie, które nie kończy się przyjściem, mija się z intencją badanego tekstu."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Pochodzenie i równość, życie w sobie, sąd Syna Człowieczego i pycha jako przeszkoda wiary — cztery węzły mowy w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem (cap. V, lect. 4–7).",
+     "children": [
+      [
+       "1. «Nie może od siebie» — niemożność jako doskonałość",
+       "Tomasz czyta w. 19 jako klucz do gramatyki trynitarnej: „nie może Syn czynić sam od siebie\" nie orzeka braku mocy, lecz sposób jej posiadania — Syn ma wszystko OD Ojca (a Patre), bo jest zrodzony, więc i działanie ma od Ojca; czynić „od siebie\" mógłby tylko ktoś, kto od siebie ma naturę — a to nieprawda ani o Synu (który ma ją od Ojca przez zrodzenie), ani tym bardziej o stworzeniu. Niemożność jest tu jak niemożność Boga do kłamstwa: rewersem doskonałości. Scholastyka ukuje rozróżnienie: zasada „od kogo\" (principium originis) różnicuje Osoby, natura „przez którą\" działają — jest jedna; stąd dzieła Trójcy na zewnątrz są niepodzielne (opera Trinitatis ad extra indivisa), a mowa Janowa jest tego biblijnym dowodem: te same dzieła (ożywianie, sąd), jeden porządek pochodzenia (Ojciec pokazuje — Syn czyni). Przeciw arianom: „podobnie\" (ὁμοίως) i „wszystko\" wykluczają działanie niższego rzędu; przeciw modalistom: „pokazuje — widzi\" wyklucza jedną Osobę o dwóch imionach. Cała Nicea mieści się między w. 19 a 26."
+      ],
+      [
+       "2. Vita in seipso — zrodzenie jako udzielenie istoty",
+       "W. 26 jest u Tomasza jednym z filarów traktatu o Trójcy: mieć życie „w sobie samym\" to mieć naturę Bożą (Bóg nie „ma\" życia jak własności — jest życiem); skoro Ojciec DAŁ Synowi mieć życie w ten właśnie sposób, to dar ów jest udzieleniem samej istoty — czyli zrodzeniem wiecznym. Dar nie wprowadza czasu ani zależności poniżającej: Ojciec jest zasadą bez zasady (principium sine principio), Syn — Bogiem z Boga; „dał\" mówi o porządku pochodzenia, „w sobie samym\" o równości natury. Tomasz chętnie zestawia to z 1,4 („w Nim było życie\") i 14,6 („Ja jestem życiem\"): życie, które Syn ma w sobie, jest tym samym, którym ożywia — dlatego w. 21 (ożywia, kogo chce) i w. 25 (umarli usłyszą głos) nie są delegacją cudzej mocy, lecz działaniem własnej natury. Dla duchowości płynie stąd wniosek, który Tomasz formułuje przy Eucharystii: przyjmować Chrystusa to przyjmować Życie samo — nie strumień z cysterny, lecz Źródło we własnej osobie."
+      ],
+      [
+       "3. Sąd dany Synowi Człowieczemu",
+       "W. 27 uzasadnia władzę sądzenia człowieczeństwem: „bo jest Synem Człowieczym\". Tomasz porządkuje: władza sądu przysługuje Chrystusowi jako Bogu z natury (sąd jest dziełem Bożym), jako człowiekowi zaś — z daru i ze stosowności (convenientia), którą wylicza za Ojcami: aby Sędzia był widzialny dla sądzonych (sąd wymaga jawności — Boga nikt nigdy nie widział, Syna Człowieczego ujrzą wszyscy, por. Ap 1,7); aby sądził ten, który przeszedł próbę kondycji ludzkiej (Hbr 4,15 — sędzia, który współczuł); aby ten, który był niesprawiedliwie osądzony, otrzymał sąd nad sądzącymi (wywyższenie odpowiadające poniżeniu, Flp 2,9–10). Brak rodzajników (υἱὸς ἀνθρώπου) przywołuje wprost Dn 7,13, gdzie „jakby syn człowieczy\" otrzymuje od Przedwiecznego władzę i sąd — mowa Janowa jest najściślejszym w Ewangeliach wykonaniem tej wizji. Pociecha, którą Tomasz każe stąd czerpać: nasz Sędzia jest naszym Bratem i Rzecznikiem — sąd ostateczny będzie spotkaniem z Tym samym, który dziś mówi „kto słucha… nie idzie na sąd\"; bać się go powinien tylko ten, kto uparcie nie chce znać Sędziego."
+      ],
+      [
+       "4. Chwała wzajemna — pycha jako wada epistemiczna",
+       "W. 44 dostarcza Tomaszowi materiału do tezy, którą etyka intelektualna odkrywa do dziś: wady moralne ślepią poznanie. Wiara wymaga poddania intelektu świadectwu Pierwszej Prawdy — a pycha, żyjąca z porównań i aplauzu (gloria ab invicem — chwała od siebie nawzajem), czyni takie poddanie psychologicznie niewykonalnym: kto ma za trybunał opinię środowiska, ten prawdę przychodzącą spoza środowiska musi przegłosować. Tomasz nazywa rzecz po imieniu w traktacie o pysze: inanis gloria (próżna chwała) jest wadą kapitalną, rodzącą m.in. upór w błędzie (pertinacia) i niezdolność ustąpienia prawdzie; w. 44 jest jej ewangelicznym aktem oskarżenia. Lekarstwo mowa wskazuje w tym samym zdaniu: „chwała od samego jedynego Boga\" — życie ustawione na aprobatę Jedynego uwalnia od dyktatury wzajemnych luster; pokora nie jest ozdobą wiary, jest jej warunkiem transcendentalnym. Stąd praktyczny rachunek sumienia teologa i każdego wierzącego: czyją chwałę przyjmuję na co dzień — i czy przetrwałbym utratę chwały środowiska, gdyby prawda tego zażądała?"
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "body": "Ewangelista komponuje pierwszy wielki monolog swojej księgi — i od razu ustala jego reguły: mowa Janowa nie jest kazaniem synoptycznym z przypowieściami, lecz medytacją sądową, w której zdania wracają falami (nie może od siebie — w. 19 i 30; świadectwo — siedmiokrotnie; godzina — dwukrotnie w dwóch sensach), a rozmówcy milkną całkowicie: od w. 19 do 47 nikt nie przerywa, bo to już nie dialog, lecz wykład procesowy protokołowany dla czytelnika. Retoryka jest kunsztowna: teza z inkluzją, przewód z enumeracją świadków, kontratak z prozopopeją Mojżesza-oskarżyciela i pytaniem retorycznym w klauzuli — struktura, którą ówczesny słuchacz rozpoznałby jako mowę obrończą wedle sztuki, a słuchacz synagogi jako rib, prorocki spór sądowy Boga z ludem (Iz 1; Mi 6). Autor pisze przy tym podwójnym adresem: mowa broni Jezusa przed Sanhedrynem sceny — i broni chrystologii wspólnoty Janowej przed synagogą końca wieku (kult Syna „jak Ojca\", w. 23, to dokładnie punkt, o który toczył się spór po birkat ha-minim); wersety o badaniu Pism bez przyjścia i o Mojżeszu-oskarżycielu są zapisem tej właśnie polemiki, prowadzonej — co trzeba podkreślić — wewnątrz rodziny: obie strony kochały te same zwoje. Wreszcie rys kompozycyjny większej całości: mowa zapowiada wszystko, co następne rozdziały rozwiną narracyjnie — ożywianie (Łazarz), sąd (rozdziały 8–9), świadectwa (proces), „większe dzieła\" (od Betesdy do pustego grobu); rozdział 5 jest partyturą, której resztę księgi ewangelista rozpisze na sceny.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "body": "Duch Święty przekazuje przez tę mowę trzy nauki o randze fundamentu. Pierwsza — trynitarna: relacja Ojca i Syna nie jest ani konkurencją dwóch bogów, ani maską jednego — jest miłością pokazującą wszystko (w. 20) i synostwem przyjmującym wszystko (w. 19.26); kto chce wiedzieć, co znaczy „Bóg jest miłością\", niech patrzy tu: na odwieczne „pokazuje\" i odwieczne „czyni podobnie\". Druga — eschatologiczna: Duch każe Kościołowi trzymać obie godziny naraz; dlatego w każdej liturgii słowa spełnia się w. 25 — umarli słuchają głosu Syna Bożego i ożywają — a w każdym Credo Kościół wygląda godziny grobów; kto by rozdzielił te godziny, rozdarłby nadzieję na pół. Trzecia — hermeneutyczna, dla wszystkich ludzi Księgi: Pisma są świadkiem, nie celem; badanie bez przyjścia jest możliwe — i jest najsubtelniejszą postacią niewiary, bo wygląda jak pobożność. Duch zostawia też dwa zwierciadła rachunku sumienia: lampę (czy od świateł, które Bóg zapala na mojej drodze, przechodzę do Światła — czy tylko „raduję się do czasu\"?) i chwałę wzajemną (czyj aplauz rządzi moimi przekonaniami?). A w finale — przestrogę najpoważniejszą z możliwych: można mieć nadzieję złożoną w Mojżeszu, w Piśmie, w tradycji, w ortodoksji — i usłyszeć, że właśnie ten depozyt świadczy przeciw nam, jeśli nie doprowadził nas do Tego, o którym pisał. Nic, co od Boga, nie jest dane zamiast Chrystusa; wszystko — ku Niemu.",
+     "children": []
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "Dn 7,13–14; 12,2 → w. 27–29",
+       "Dwa filary Daniela pod eschatologią mowy. Wizja nocna: „jakby Syn Człowieczy\" otrzymuje od Przedwiecznego panowanie i władzę — w. 27 cytuje ją bezrodzajnikowym υἱὸς ἀνθρώπου i słowem ἐξουσία (władza): sąd dany Synowi jest intronizacją z Dn 7 w czasie teraźniejszym. Oraz najjaśniejszy w ST tekst o zmartwychwstaniu: „wielu z tych, którzy śpią w prochu ziemi, obudzi się: jedni do życia wiecznego, drudzy ku hańbie i wiecznej odrazie\" (12,2) — w. 28–29 podejmują jego dwudzielność (życia/sądu), rozszerzając „wielu\" do „wszyscy w grobach\": powszechność zmartwychwstania wypowiedziana głosem Tego, który będzie jego sprawcą."
+      ],
+      [
+       "Pwt 18,15–19; 19,15 → w. 31–32.45–47",
+       "Dwa teksty Mojżesza niosą całą architekturę procesu. Reguła świadków (19,15) wymusza przewód dowodowy w. 31–40 — Jezus nie uchyla Prawa, gra według niego. A obietnica Proroka (18,15–19) uzbraja finał: „o Mnie bowiem on napisał\" wskazuje przede wszystkim na nią — wraz z sankcją, którą sam Mojżesz dopisał: „jeśli ktoś nie posłucha słów moich, które on wypowie w moim imieniu, Ja będę tego dochodził\" (18,19). Mojżesz-oskarżyciel nie jest więc retoryczną hiperbolą: to wykonanie klauzuli jego własnej księgi; kto czyta Pwt 18 i odrzuca Proroka, ten podpada pod paragraf, który czci."
+      ],
+      [
+       "Wj 32,30–32 → w. 45",
+       "Mojżesz-wstawiennik: „przebacz im ten grzech, a jeśli nie — wymaż mnie z księgi, którą napisałeś\". Pamięć tej sceny czyniła z Mojżesza obrońcę Izraela par excellence — i właśnie na tym tle odwrócenie w. 45 uderza z całą siłą: ten, który pod Synajem zasłaniał lud własnym istnieniem, w procesie o Syna staje po stronie oskarżenia. Nie zmienił stron — to lud zmienił przedmiot nadziei: „złożyliście nadzieję\" w Mojżeszu (ἠλπίκατε — perfectum: złożyli i trzymają) zamiast w Tym, ku któremu Mojżesz prowadził; nadzieja zatrzymana na pośredniku obraca się przeciw pokładającym."
+      ],
+      [
+       "J 8,13–18; 12,42–43.48 → w. 31.44",
+       "Wewnętrzne kontynuacje procesu. Spór o samoświadectwo wróci wprost (8,13: „Ty sam o sobie świadczysz\") i otrzyma rozwiązanie dwupoziomowe (8,14: prawda ontologiczna; 8,17–18: rachunek proceduralny — Ja i Ojciec to dwaj świadkowie). Diagnoza chwały wzajemnej zmaterializuje się w dostojnikach, którzy „uwierzyli, lecz nie wyznawali… umiłowali bowiem chwałę ludzką bardziej niż chwałę Bożą\" (12,42–43 — z tym samym słownikiem co 5,44). A zapowiedź sądu przez słowo (12,48: „słowo, które powiedziałem, ono go osądzi w dniu ostatecznym\") zepnie obie godziny mowy: sąd ostateczny będzie ujawnieniem werdyktu, który słuchanie lub niesłuchanie słowa wydaje już teraz."
+      ],
+      [
+       "1 J 3,14; 5,9–12 → w. 24.36–39",
+       "Autokomentarze Listu. „My wiemy, że przeszliśmy (μεταβεβήκαμεν) ze śmierci do życia, bo miłujemy braci\" — w. 24 przełożony na kryterium wspólnotowe: pewność Paschy poznaje się po miłości, nie po nastroju. Oraz teologia świadectwa: „jeśli przyjmujemy świadectwo ludzi, świadectwo Boga jest większe… kto wierzy w Syna Bożego, ma świadectwo w sobie; kto ma Syna, ma życie\" (5,9–12) — cała struktura przewodu z J 5 (świadectwo ludzkie Jana, większe świadectwo Ojca, życie w Synu) powtórzona jako katechizm wspólnoty; najlepszy dowód, że mowa sądowa z rozdziału 5 była dla środowiska Janowego nie epizodem, lecz konstytucją."
+      ],
+      [
+       "2 Kor 3,14–16 → w. 39–40.46–47",
+       "Pawłowa paralela o czytaniu bez przyjścia: „aż do dnia dzisiejszego przy czytaniu Starego Przymierza pozostaje ta sama zasłona… gdy ktoś zwraca się do Pana, zasłona opada\". Dwie niezależne tradycje opisują ten sam dramat hermeneutyczny: tekst święty, badany z czcią, może zasłaniać Tego, o którym mówi — a kluczem nie jest lepsza metoda, lecz zwrócenie się (ἐπιστρέψῃ) do Osoby. Zestawienie uczy pokory obie strony sporów o egzegezę: ani erudycja (J 5), ani gorliwość (2 Kor 3) nie zdejmują zasłony — zdejmuje ją przyjście do Pana; a zdjęta, nie unieważnia liter, lecz je rozświetla: „o Mnie on napisał\"."
+      ],
+      [
+       "Ap 1,7; Mt 25,31–46 → w. 27–29",
+       "Dopełnienia sądu Syna Człowieczego w kanonie. Apokalipsa: „oto nadchodzi z obłokami i ujrzy Go wszelkie oko, także ci, którzy Go przebili\" — widzialność Sędziego, dokładnie racja z w. 27 (sąd dany, „bo jest Synem Człowieczym\"). Mateuszowa scena sądu: Syn Człowieczy na tronie chwały oddziela owce od kozłów według uczynków miłosierdzia — synoptyczny bliźniak w. 29 (sąd według czynienia dobra), z tą samą pointą chrystologiczną: kryterium sądu okazuje się relacja do Sędziego ukrytego („Mnieście uczynili\"). Oba teksty chronią mowę Janową przed spirytualizacją: godzina grobów jest realna, sąd jest realny — i sądzić będzie Ten sam, który dziś mówi i uzdrawia."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Historia dogmatu: od Nicei po spory o pewność zbawienia",
+       "Mowa z J 5 należy do najczęściej cytowanych tekstów w historii teologii trynitarnej. W IV wieku obie strony miały w niej swoje wersety: arianie akcentowali „nie może od siebie\" i „dał\" jako dowód niższości — Atanazy, Hilary (De Trinitate VII obraca się wokół 5,19.26) i Kapadocczycy odpowiadali lekturą całościową: „nie od siebie\" opisuje pochodzenie, nie naturę; „dał mieć życie w sobie samym\" jest właśnie definicją zrodzenia współistotnego — nie daje się stworzeniu posiadania życia „w sobie\". Sobory przejęły tę egzegezę: nicejskie „Bóg z Boga, Światłość ze Światłości\" jest streszczeniem w. 26, a cześć Syna „jak Ojca\" (w. 23) — fundamentem kultu chrystologicznego przeciw wszelkim teologiom „niższej czci\". Osobną karierę zrobił w. 24 w sporach reformacyjnych o pewność zbawienia: „przeszedł ze śmierci do życia\" czytano po jednej stronie jako kartę pewności wiary, po drugiej — z 1 J 3,14 — jako pewność poznawaną po owocach; a w. 28–29 (sąd według uczynków) pozostał w tych sporach zbawiennym kontrapunktem, nie pozwalającym żadnej stronie na uproszczenie. Wersety 39–40 stały się zaś mottem hermeneutyki chrystocentrycznej — od Ojców po Dei Verbum i słynne Hieronimowe „nieznajomość Pisma jest nieznajomością Chrystusa\", cytowane w tej sprawie do dziś."
+      ],
+      [
+       "Liturgia i duchowość",
+       "Lekcjonarz rzymski czyta mowę w dwóch ratach wielkopostnych: środa IV tygodnia (J 5,17–30 — z Betesdą jako wstępem) i czwartek IV tygodnia (J 5,31–47) — post prowadzi Kościół przez proces Jezusa etapami, ku Wielkiemu Tygodniowi, gdzie proces stanie się ciałem. Werset 24 wszedł do liturgii zmarłych (jedna z perykop mszy pogrzebowych: pociecha „nie idzie na sąd, lecz przeszedł\") i do teologii wiatyku; w. 25 i 28–29 brzmią w Credo i w prefacjach o zmarłych, a Kościoły wschodnie czytają rozdział 5 w okresie paschalnym — zmartwychwstanie Chrystusa jako początek godziny, w której umarli słyszą głos. W duchowości mowa zostawiła trzy trwałe ślady: „głos Syna Bożego\" jako teologię liturgii słowa (czytanie Ewangelii we wspólnocie jest godziną w. 25 — stąd świece i postawa stojąca przy Ewangelii); rachunek z „chwały wzajemnej\" (w. 44 — tekst założycielski dla examen pychy środowiskowej, od reguł monastycznych po współczesne rekolekcje dla duchownych); i lekcję lampy (w. 35) w kierownictwie duchowym — o wdzięczności wobec przewodników bez zatrzymywania się na nich. A finał o Mojżeszu-oskarżycielu jest stałym memento każdej ortodoksji: depozyt, który nie prowadzi do Chrystusa, świadczy przeciw depozytariuszom."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Katena do mowy — sześć głosów: «nie może» jako doskonałość zrodzenia (Augustyn, Hilary), dwa zmartwychwstania (Augustyn), życie w sobie (Cyryl), lampa i świadectwa (Chryzostom), chwała wzajemna i Mojżesz-oskarżyciel (Chryzostom).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: pierwsza wielka mowa czwartej Ewangelii odpowiada na zarzut równości z Bogiem objawieniem, które przewyższa zarzut — Syn nie czyni nic od siebie, bo wszystko, łącznie z życiem w sobie samym, ma od Ojca przez odwieczne zrodzenie; dlatego ożywia jak Ojciec, sądzi jako Syn Człowieczy i ma odbierać cześć, jaką odbiera Ojciec; a godzina Jego głosu już trwa — kto słucha i wierzy, przeszedł ze śmierci do życia, zanim groby usłyszą to samo wołanie. Przewód dowodowy zostawia Kościołowi kanon czterech świadectw (świadek, dzieła, Ojciec, Pisma) i dwa zwierciadła niewiary: obieg wzajemnej chwały i badanie Pism bez przyjścia do Osoby. A finał — Mojżesz jako oskarżyciel tych, którzy w nim złożyli nadzieję — pozostaje najpoważniejszym ostrzeżeniem tej Ewangelii dla ludzi religijnych wszystkich czasów: żaden depozyt, choćby najświętszy, nie zbawia zamiast Chrystusa; wszystko, co od Boga, świadczy o Nim — i będzie świadczyć przeciw nam, jeśli zatrzymaliśmy się w pół drogi, którą miało nas poprowadzić.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — św. Jan Chryzostom (Hom. in Io. 38–41), św. Augustyn (Tract. in Io. 19–23), św. Hilary (De Trinitate VII), św. Cyryl Aleksandryjski (In Io., ks. II) i św. Tomasz (Super Ioannem, cap. V, lect. 4–7).*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Dn",
+     7,
+     13,
+     7,
+     14,
+     "Dn 7,13–14",
+     "typologia",
+     "Syn Człowieczy otrzymuje władzę i sąd — intronizacja z wizji nocnej w czasie teraźniejszym (w. 27)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Dn",
+     12,
+     2,
+     12,
+     2,
+     "Dn 12,2",
+     "tlo",
+     "obudzą się jedni do życia, drudzy ku hańbie — dwudzielność zmartwychwstania z w. 29"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pwt",
+     19,
+     15,
+     19,
+     15,
+     "Pwt 19,15",
+     "tlo",
+     "na słowie dwóch lub trzech świadków — prawo dowodowe za przewodem w. 31–40"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pwt",
+     18,
+     15,
+     18,
+     19,
+     "Pwt 18,15–19",
+     "typologia",
+     "Prorok jak Mojżesz z sankcją w. 19 — paragraf, którym Mojżesz oskarża (w. 45–47)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     32,
+     30,
+     32,
+     32,
+     "Wj 32,30–32",
+     "kontrast",
+     "Mojżesz-wstawiennik pod Synajem — odwrócony w Mojżesza-oskarżyciela"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     8,
+     13,
+     8,
+     18,
+     "J 8,13–18",
+     "rozwiniecie",
+     "powrót sporu o samoświadectwo: Ja i Ojciec — dwaj świadkowie"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     11,
+     43,
+     11,
+     44,
+     "J 11,43–44",
+     "rozwiniecie",
+     "głos wywołujący z grobu — narracyjna przypowieść o w. 25.28"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     12,
+     42,
+     12,
+     48,
+     "J 12,42–48",
+     "rozwiniecie",
+     "umiłowali chwałę ludzką; słowo osądzi w dniu ostatecznym — obie osie mowy zmaterializowane"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 J",
+     3,
+     14,
+     3,
+     14,
+     "1 J 3,14",
+     "paralela",
+     "przeszliśmy ze śmierci do życia, bo miłujemy braci — w. 24 jako kryterium wspólnoty"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 J",
+     5,
+     9,
+     5,
+     12,
+     "1 J 5,9–12",
+     "paralela",
+     "świadectwo Boga większe; kto ma Syna, ma życie — katechizmowa wersja przewodu świadectw"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "2 Kor",
+     3,
+     14,
+     3,
+     16,
+     "2 Kor 3,14–16",
+     "paralela",
+     "zasłona przy czytaniu, opadająca przy zwróceniu do Pana — Pawłowy bliźniak w. 39–40"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     25,
+     31,
+     25,
+     46,
+     "Mt 25,31–46",
+     "paralela",
+     "Syn Człowieczy sądzi według uczynków miłosierdzia — synoptyczny bliźniak w. 27–29"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ap",
+     1,
+     7,
+     1,
+     7,
+     "Ap 1,7",
+     "rozwiniecie",
+     "ujrzy Go wszelkie oko — widzialność Sędziego jako racja sądu Syna Człowieczego"
+    ],
+    [
+     [
+      "unit",
+      "w. 24–30",
+      0
+     ],
+     "J",
+     13,
+     1,
+     13,
+     1,
+     "J 13,1",
+     "paralela",
+     "μεταβῇ — przejście Jezusa z tego świata do Ojca: Pascha, której kształt nosi przejście wierzącego"
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. V, lect. 4–7",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład mowy: pochodzenie a równość, vita in seipso, sąd Syna Człowieczego, przeszkody wiary.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "św. Hilary z Poitiers",
+     "De Trin. VII",
+     [
+      "section",
+      "VII. Znaczenie w historii i liturgii Kościoła"
+     ],
+     "Antyariański wykład 5,19.26: «nie od siebie» jako gramatyka zrodzenia, nie znak niższości.",
+     "De Trinitate"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Analiza dwóch eschatologii rozdziału 5, przypowieści o synu-uczniu i struktury procesowej mowy.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana I, ad loc.",
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Polskie omówienie przewodu świadectw i motywu Mojżesza-oskarżyciela na tle Pwt 18.",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 19–23",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 20,4–8",
+     "Augustyn uczy czytać „nie może Syn czynić sam od siebie\" bez potknięcia: u ludzi „nie mogę\" zdradza słabość — u Syna zdradza naturę; nie może czynić od siebie, bo nie jest od siebie (non potest a se facere, quia non est a se). Wszystko, co Syn ma — być, żyć, działać — ma z Ojca przez zrodzenie; gdyby mógł działać „od siebie\", nie byłby Synem, lecz drugim, nienarodzonym bogiem: właśnie tym, co zarzucali mu przeciwnicy. Tak zarzut z 5,18 obraca się w wyznanie wiary: równość Syna jest równością Zrodzonego, nie rywala. A „pokazuje Mu wszystko\" nie odbywa się w czasie, jak u rzemieślnika z uczniem: pokazywanie Ojca jest rodzeniem Syna-Słowa, w którym Ojciec wypowiada wszystko, co czyni — widzieć Ojca czyniącego i być Synem to jedno. Kto to pojął, mówi Augustyn, temu werset najpokorniejszy mowy odsłania jej szczyt."
+    ],
+    [
+     "w. 19–23",
+     "św. Hilary z Poitiers",
+     "De Trinitate",
+     "De Trin. VII,17–21",
+     "Hilary, pisząc przeciw arianom z wygnania, uczynił z tych wersetów oś siódmej księgi swego traktatu: heretycy czytają „nie może\" jako niższość — a nie widzą, że zdanie ustanawia właśnie jedność natury: Syn czyni nie „podobne rzeczy\", lecz „te same… podobnie\" (ταῦτα ὁμοίως) — identyczność dzieł przy odrębności Osób; naśladowca czyni podobne, Zrodzony czyni te same. „Nie może od siebie\" wyklucza nie moc, lecz oddzielność: nieumiejętność działania osobno jest w Bogu imieniem jedności. Hilary dorzuca argument z czci (w. 23), który zna z liturgii: skoro Syn ma być czczony, JAK czczony jest Ojciec, to albo Ewangelia uczy bałwochwalstwa — albo Syn jest Bogiem prawdziwym; trzeciej możliwości nie ma i sam tekst zamyka drogę ucieczki. Biskup Poitiers zostawia też regułę pokory egzegety: o zrodzeniu wiecznym mówimy słowami czasu, bo innych nie mamy — niech więc słowa „dał\", „pokazuje\" czyta się z wiarą większą niż wyobraźnia."
+    ],
+    [
+     "w. 24–30",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 19,9–18",
+     "Klasyczny wykład o dwóch zmartwychwstaniach, który Augustyn z tej mowy wyprowadził i przekazał całemu Zachodowi: jest zmartwychwstanie dusz — dzieje się TERAZ (w. 25: godzina „nadchodzi i teraz jest\"), gdy martwy przez niewiarę słyszy głos Syna Bożego i ożywa przez wiarę; i jest zmartwychwstanie ciał — nadejdzie (w. 28: godzina bez „teraz jest\"), gdy groby oddadzą wszystkich na głos tego samego Syna. Pierwsze jest z łaski i tylko dla tych, którzy słuchają; drugie z natury i dla wszystkich — dlatego pierwsze rozstrzyga o jakości drugiego: kto nie wstał teraz duszą, wstanie potem ciałem na sąd. Augustyn każe wspólnocie sprawdzać się prosto: słyszysz — i żyjesz? więc pierwsza godzina już cię obudziła; nie odkładaj Paschy duszy na godzinę grobów, bo tamta niczego już nie zmieni, tylko ujawni. Rzadko która karta patrystyki tak wprost ukształtowała kaznodziejstwo o nawróceniu jako wskrzeszeniu."
+    ],
+    [
+     "w. 24–30",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. II",
+     "Cyryl zatrzymuje się nad „dał Synowi mieć życie w sobie samym\" i rozbraja ariański użytek z „dał\": dawanie między ludźmi zakłada wcześniejszy brak — dawanie w Bogu jest wiecznym rodzeniem, w którym Ojciec udziela Synowi całej istoty; „dał mieć w sobie\" znaczy: zrodził jako Życie z Życia. Stworzeniom Bóg daje życie jako uczestnictwo — dolewane, podtrzymywane, utracalne; Synowi „dał\" sposób Boski: mieć w sobie, być źródłem. Dowód Cyryl znajduje w samej mowie: Ten, który ma życie w sobie, ożywia, kogo chce (w. 21), a Jego głos wskrzesza umarłych (w. 25.28) — nikt nie rozdaje z cysterny cudzej; rozdawać życie głosem może tylko Życie osobowe. Stąd pociecha sakramentalna, którą Aleksandryjczyk lubi dopowiadać: w Eucharystii przyjmujemy ciało Tego, który ma życie w sobie — dlatego jest ono lekarstwem nieśmiertelności: nie symbol życia, lecz Życie dotykalne."
+    ],
+    [
+     "w. 31–40",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 40",
+     "Chryzostom podziwia zniżenie się mowy do reguł słuchaczy: Ten, któremu świadczy Ojciec, staje przed ludźmi jak strona procesowa i liczy świadków według ich Prawa — „nie dlatego, że potrzebował świadectw, lecz aby oni nie mieli zasłony wymówki\". Nad lampą (w. 35) kaznodzieja zatrzymuje się z melancholią: lampę zapala się na czas i po coś — by przy jej świetle znaleźć to, czego się szuka; oni tymczasem chcieli się światłem Jana bawić (ἀγαλλιαθῆναι), nie szukać przy nim Mesjasza — jak dzieci, które cieszą się latarnią, a nie idą drogą, którą oświetla. Stąd zasada Chryzostomowa o wszystkich „lampach\" Kościoła — kaznodziejach, cudach, świętych: są po to, by przy ich świetle dojść do Słońca; kto się na nich zatrzymuje, ten z narzędzia zbawienia robi rozrywkę. A o badaniu Pism (w. 39) mówi zdanie, które mogłoby otwierać każdą biblistykę: kopiący szukają nie ziemi, którą kopią, lecz skarbu, który w niej leży — biada, jeśli pokochają łopatę."
+    ],
+    [
+     "w. 41–47",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 41",
+     "Finał mowy Chryzostom czyta jako anatomię pychy religijnej. „Jakże możecie uwierzyć, chwałę od siebie nawzajem biorąc?\" — niewiara uczonych nie płynie z braku dowodów, lecz z lęku przed utratą miejsc: wiara wymaga wyjścia z teatru wzajemnych oklasków, a oni żyją z oklasków; dlatego przyjmą każdego, kto przyjdzie „we własnym imieniu\" — bo samozwaniec schlebia układowi, w który wchodzi, prawdziwy Posłany go sądzi. Mojżesza-oskarżyciela kaznodzieja objaśnia bez ogródek: nie Mojżesz się zmienił, lecz oni uczynili z niego zasłonę zamiast przewodnika — chlubili się nim, zamiast mu wierzyć; a chluba bez posłuszeństwa jest gotowym aktem oskarżenia, bo dowodzi, że znali drogę i nie poszli. I ostatnie ostrzeżenie, które Chryzostom kieruje już do ochrzczonych: my także mamy swoich „Mojżeszów\" — Ewangelię, sakramenty, świętych; jeśli nie prowadzą nas do Chrystusa żywego, będą świadczyć, żeśmy wiedzieli. Lepiej nie mieć depozytu niż mieć go przeciw sobie."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "Środa IV tygodnia Wielkiego Postu",
+     "J 5,17–30",
+     "Teza mowy w wielkopostnej drodze procesu Jezusa — od Betesdy ku Wielkiemu Tygodniowi."
+    ],
+    [
+     "rzymski",
+     "Czwartek IV tygodnia Wielkiego Postu",
+     "J 5,31–47",
+     "Przewód świadectw i Mojżesz-oskarżyciel — rachunek sumienia z religijności bez przyjścia do Chrystusa."
+    ],
+    [
+     "rzymski",
+     "Msze za zmarłych (perykopy do wyboru)",
+     "J 5,24–29",
+     "Przeszedł ze śmierci do życia; godzina grobów — nadzieja obu eschatologii przy trumnie."
+    ]
+   ],
+   "textual": [
+    [
+     39,
+     "ἐραυνᾶτε",
+     "interpunkcja/parsing",
+     "Forma ἐραυνᾶτε (NA28; starsza pisownia ἐρευνᾶτε w części świadków) jest morfologicznie dwuznaczna: indykatyw („badacie\") lub imperatyw („badajcie\"). Rękopisy nie rozstrzygają — rozstrzyga interpretacja kontekstu.",
+     "Lektura indykatywna (dziś przeważająca): Jezus opisuje praktykę słuchaczy i jej paradoks — badacie, a nie przychodzicie; zdanie ὑμεῖς δοκεῖτε (wy sądzicie) wspiera ton diagnozy. Lektura imperatywna (częsta u Ojców i w dawnych przekładach: „badajcie Pisma!\") czyniła z wersetu zachętę do lektury Biblii — teologicznie prawdziwą, choć egzegetycznie wtórną. Przypadek uczy, że nawet bez wariantu tekstu decyzja gramatyczna bywa decyzją teologiczną."
+    ],
+    [
+     44,
+     "παρὰ τοῦ μόνου θεοῦ",
+     "wariant lekcji",
+     "Słowo θεοῦ po τοῦ μόνου: obecne w ℵ, A i większości świadków; pominięte w P66, P75, B, W i części przekazu („chwały od Jedynego nie szukacie\"). NA28 zachowuje θεοῦ w tekście.",
+     "Krótsza lekcja („od Jedynego\") ma znakomitych świadków i mogła być pierwotna — „Jedyny\" jako tytuł Boga brzmi po żydowsku (por. Szema) i kopiści mogli go doprecyzować dopiskiem. Sens w obu lekcjach ten sam: przeciwieństwem chwały wzajemnej jest chwała od Boga; wariant wart odnotowania jako przykład wczesnych, papirusowych rozbieżności bez skutków doktrynalnych."
+    ],
+    [
+     25,
+     "καὶ νῦν ἐστιν",
+     "obserwacja redakcyjna",
+     "Formuła „nadchodzi godzina i teraz jest\" w w. 25 — wobec samego „nadchodzi godzina\" w w. 28. Przekaz rękopiśmienny stabilny; różnica należy do tekstu, nie do wariantów.",
+     "Odnotowana tu dla egzegety asymetria jest kluczem do dwóch eschatologii mowy: godzina słuchania słowa już trwa (stąd „i teraz jest\"), godzina grobów — jeszcze nie. Harmonizowanie obu wersetów (przez dopisanie lub opuszczenie formuły) nie ma oparcia w tradycji tekstu: asymetria jest zamierzona i winna być zachowana w przekładzie i wykładzie."
+    ]
+   ],
+   "theme_links": [
+    [
+     "eschatologia Janowa — godzina, która nadchodzi i teraz jest",
+     [
+      "block",
+      "w. 24–30"
+     ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "szabat i dzieła Boże",
+     [
+      "block",
+      "w. 19–23"
+     ]
+    ],
+    [
+     "godzina Jezusa (ἡ ὥρα)",
+     [
+      "block",
+      "w. 24–30"
+     ]
+    ],
+    [
+     "vox et verbum — głos a Słowo",
+     [
+      "block",
+      "w. 31–40"
+     ]
+    ],
+    [
+     "tytuły chrystologiczne J 1",
+     [
+      "block",
+      "w. 19–23"
+     ]
+    ]
+   ],
+   "revision_note": "Dodano perykopę Mowa o Synu i świadectwach (J 5,19–47) w pełnym opracowaniu: analiza filologiczna (przypowieść o synu w warsztacie, klucze zastrzeżone, μεταβέβηκεν, vita in seipso, dwie godziny, cztery świadectwa, ἐραυνᾶτε, Mojżesz-oskarżyciel), struktura mowy sądowej, sekcje II–VIII z podsekcjami, katena sześciu głosów (z Hilarym De Trin. VII), aparat (w. 39.44.25), odniesienia (Dn 7 i 12; Pwt 18–19; 2 Kor 3; Mt 25), cytowania, liturgia; status: ukończona"
+  }
+ ]
+}
