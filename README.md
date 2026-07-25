@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–5,18** w trzynastu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz dwanaście perykop J 1,15–5,18; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–5,47** w czternastu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz trzynaście perykop J 1,15–5,47; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -20,6 +20,7 @@ data/                     ← źródła (pod kontrolą wersji)
   samarytanka.json       J 4,1-42 (Samarytanka)
   dworzanin.json         J 4,43-54 (Syn dworzanina)
   betesda.json           J 5,1-18 (Uzdrowienie nad Betesdą)
+  mowa.json              J 5,19-47 (Mowa o Synu i świadectwach)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -35,7 +36,7 @@ Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera, w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
-dworzanin → betesda`.
+dworzanin → betesda → mowa`.
 
 ## Warstwy schematu
 
@@ -143,6 +144,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 4,1–42 | Samarytanka | ukończona |
 | J 4,43–54 | Syn dworzanina | ukończona |
 | J 5,1–18 | Uzdrowienie nad Betesdą | ukończona |
+| J 5,19–47 | Mowa o Synu i świadectwach | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
