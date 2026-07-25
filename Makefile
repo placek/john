@@ -19,7 +19,8 @@ PYTHON ?= python3
 DB      = data/egzegeza_jana.sqlite
 SOURCES = tools/egzegeza_jana_build.py data/schema.sql \
           data/prolog.json data/continuation.json data/kana.json \
-          data/swiatynia.json data/nikodem.json data/oblubieniec.json
+          data/swiatynia.json data/nikodem.json data/oblubieniec.json \
+          data/samarytanka.json
 BUILD   = tools/egzegeza_jana_build.py
 APP     = browser/app.py
 EXPORT  = tools/export_pericope.py
