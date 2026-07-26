@@ -1,0 +1,998 @@
+{
+ "books": [
+  [
+   "Hi",
+   "Księga Hioba",
+   "ST",
+   18
+  ]
+ ],
+ "verses": {
+  "chapter": 6,
+  "items": [
+   [
+    1,
+    "Μετὰ ταῦτα ἀπῆλθεν ὁ Ἰησοῦς πέραν τῆς θαλάσσης τῆς Γαλιλαίας τῆς Τιβεριάδος.",
+    "Potem Jezus odszedł na drugą stronę Morza Galilejskiego, czyli Tyberiadzkiego."
+   ],
+   [
+    2,
+    "ἠκολούθει δὲ αὐτῷ ὄχλος πολύς, ὅτι ἐθεώρουν τὰ σημεῖα ἃ ἐποίει ἐπὶ τῶν ἀσθενούντων.",
+    "A szedł za Nim wielki tłum, bo widzieli znaki, które czynił na chorych."
+   ],
+   [
+    3,
+    "ἀνῆλθεν δὲ εἰς τὸ ὄρος Ἰησοῦς καὶ ἐκεῖ ἐκάθητο μετὰ τῶν μαθητῶν αὐτοῦ.",
+    "Jezus wszedł na górę i tam usiadł ze swoimi uczniami."
+   ],
+   [
+    4,
+    "ἦν δὲ ἐγγὺς τὸ πάσχα, ἡ ἑορτὴ τῶν Ἰουδαίων.",
+    "A blisko była Pascha, święto żydowskie."
+   ],
+   [
+    5,
+    "Ἐπάρας οὖν τοὺς ὀφθαλμοὺς ὁ Ἰησοῦς καὶ θεασάμενος ὅτι πολὺς ὄχλος ἔρχεται πρὸς αὐτὸν λέγει πρὸς Φίλιππον· πόθεν ἀγοράσωμεν ἄρτους ἵνα φάγωσιν οὗτοι;",
+    "Jezus więc, podniósłszy oczy i zobaczywszy, że wielki tłum idzie do Niego, mówi do Filipa: Skąd kupimy chlebów, aby oni się najedli?"
+   ],
+   [
+    6,
+    "τοῦτο δὲ ἔλεγεν πειράζων αὐτόν· αὐτὸς γὰρ ᾔδει τί ἔμελλεν ποιεῖν.",
+    "A mówił to, wystawiając go na próbę; sam bowiem wiedział, co miał czynić."
+   ],
+   [
+    7,
+    "ἀπεκρίθη αὐτῷ [ὁ] Φίλιππος· διακοσίων δηναρίων ἄρτοι οὐκ ἀρκοῦσιν αὐτοῖς ἵνα ἕκαστος βραχύ [τι] λάβῃ.",
+    "Odpowiedział Mu Filip: Za dwieście denarów chleba nie wystarczy dla nich, aby każdy choć trochę otrzymał."
+   ],
+   [
+    8,
+    "λέγει αὐτῷ εἷς ἐκ τῶν μαθητῶν αὐτοῦ, Ἀνδρέας ὁ ἀδελφὸς Σίμωνος Πέτρου·",
+    "Mówi Mu jeden z Jego uczniów, Andrzej, brat Szymona Piotra:"
+   ],
+   [
+    9,
+    "ἔστιν παιδάριον ὧδε ὃς ἔχει πέντε ἄρτους κριθίνους καὶ δύο ὀψάρια· ἀλλὰ ταῦτα τί ἐστιν εἰς τοσούτους;",
+    "Jest tu chłopiec, który ma pięć chlebów jęczmiennych i dwie rybki; ale cóż to jest na tak wielu?"
+   ],
+   [
+    10,
+    "εἶπεν ὁ Ἰησοῦς· ποιήσατε τοὺς ἀνθρώπους ἀναπεσεῖν. ἦν δὲ χόρτος πολὺς ἐν τῷ τόπῳ. ἀνέπεσαν οὖν οἱ ἄνδρες τὸν ἀριθμὸν ὡς πεντακισχίλιοι.",
+    "Powiedział Jezus: Sprawcie, aby ludzie się rozłożyli. A było wiele trawy na tym miejscu. Rozłożyli się więc mężczyźni w liczbie około pięciu tysięcy."
+   ],
+   [
+    11,
+    "ἔλαβεν οὖν τοὺς ἄρτους ὁ Ἰησοῦς καὶ εὐχαριστήσας διέδωκεν τοῖς ἀνακειμένοις ὁμοίως καὶ ἐκ τῶν ὀψαρίων ὅσον ἤθελον.",
+    "Wziął więc Jezus chleby i uczyniwszy dziękczynienie, rozdał spoczywającym; podobnie i z rybek, ile chcieli."
+   ],
+   [
+    12,
+    "ὡς δὲ ἐνεπλήσθησαν, λέγει τοῖς μαθηταῖς αὐτοῦ· συναγάγετε τὰ περισσεύσαντα κλάσματα, ἵνα μή τι ἀπόληται.",
+    "A gdy się nasycili, mówi swoim uczniom: Zbierzcie pozostałe ułomki, aby nic nie zginęło."
+   ],
+   [
+    13,
+    "συνήγαγον οὖν καὶ ἐγέμισαν δώδεκα κοφίνους κλασμάτων ἐκ τῶν πέντε ἄρτων τῶν κριθίνων ἃ ἐπερίσσευσαν τοῖς βεβρωκόσιν.",
+    "Zebrali więc i napełnili dwanaście koszów ułomkami z pięciu chlebów jęczmiennych, które pozostały po jedzących."
+   ],
+   [
+    14,
+    "Οἱ οὖν ἄνθρωποι ἰδόντες ὃ ἐποίησεν σημεῖον ἔλεγον ὅτι οὗτός ἐστιν ἀληθῶς ὁ προφήτης ὁ ἐρχόμενος εἰς τὸν κόσμον.",
+    "Ludzie zatem, ujrzawszy znak, który uczynił, mówili: Ten jest prawdziwie Prorokiem, który przychodzi na świat."
+   ],
+   [
+    15,
+    "Ἰησοῦς οὖν γνοὺς ὅτι μέλλουσιν ἔρχεσθαι καὶ ἁρπάζειν αὐτὸν ἵνα ποιήσωσιν βασιλέα, ἀνεχώρησεν πάλιν εἰς τὸ ὄρος αὐτὸς μόνος.",
+    "Jezus więc, poznawszy, że mają przyjść i porwać Go, aby uczynić królem, usunął się znowu na górę sam jeden."
+   ],
+   [
+    16,
+    "Ὡς δὲ ὀψία ἐγένετο κατέβησαν οἱ μαθηταὶ αὐτοῦ ἐπὶ τὴν θάλασσαν",
+    "A gdy nastał wieczór, zeszli Jego uczniowie nad morze"
+   ],
+   [
+    17,
+    "καὶ ἐμβάντες εἰς πλοῖον ἤρχοντο πέραν τῆς θαλάσσης εἰς Καφαρναούμ. καὶ σκοτία ἤδη ἐγεγόνει καὶ οὔπω ἐληλύθει πρὸς αὐτοὺς ὁ Ἰησοῦς,",
+    "i wsiadłszy do łodzi, płynęli na drugą stronę morza, do Kafarnaum. I ciemność już nastała, a Jezus jeszcze do nich nie przyszedł,"
+   ],
+   [
+    18,
+    "ἥ τε θάλασσα ἀνέμου μεγάλου πνέοντος διεγείρετο.",
+    "a morze burzyło się, bo dął wielki wiatr."
+   ],
+   [
+    19,
+    "ἐληλακότες οὖν ὡς σταδίους εἴκοσι πέντε ἢ τριάκοντα θεωροῦσιν τὸν Ἰησοῦν περιπατοῦντα ἐπὶ τῆς θαλάσσης καὶ ἐγγὺς τοῦ πλοίου γινόμενον, καὶ ἐφοβήθησαν.",
+    "Gdy więc przepłynęli około dwudziestu pięciu lub trzydziestu stadiów, widzą Jezusa kroczącego po morzu i zbliżającego się do łodzi — i przestraszyli się."
+   ],
+   [
+    20,
+    "ὁ δὲ λέγει αὐτοῖς· ἐγώ εἰμι· μὴ φοβεῖσθε.",
+    "On zaś mówi im: JA JESTEM, nie bójcie się."
+   ],
+   [
+    21,
+    "ἤθελον οὖν λαβεῖν αὐτὸν εἰς τὸ πλοῖον, καὶ εὐθέως ἐγένετο τὸ πλοῖον ἐπὶ τῆς γῆς εἰς ἣν ὑπῆγον.",
+    "Chcieli więc wziąć Go do łodzi — i zaraz łódź znalazła się przy ziemi, do której zmierzali."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "ἄρτος",
+   "artos",
+   "rzeczownik",
+   "chleb — słowo-klucz rozdziału 6 (od pięciu chlebów po chleb życia)"
+  ],
+  [
+   "κλάσμα",
+   "klasma",
+   "rzeczownik",
+   "ułomek, odłamany kawałek chleba — w Didache termin eucharystyczny"
+  ],
+  [
+   "εὐχαριστέω",
+   "eucharisteo",
+   "czasownik",
+   "dziękować, czynić dziękczynienie — źródłosłów Eucharystii"
+  ],
+  [
+   "ὄχλος",
+   "ochlos",
+   "rzeczownik",
+   "tłum — bohater zbiorowy rozdziału 6: nakarmiony, entuzjastyczny, odchodzący"
+  ],
+  [
+   "θάλασσα",
+   "thalassa",
+   "rzeczownik",
+   "morze — jezioro Galilejskie; biblijnie żywioł chaosu, po którym kroczy Bóg"
+  ],
+  [
+   "βασιλεύς",
+   "basileus",
+   "rzeczownik",
+   "król — tytuł, przed którym Jezus ucieka w 6,15, a który przyjmie przed Piłatem"
+  ],
+  [
+   "παιδάριον",
+   "paidarion",
+   "rzeczownik",
+   "chłopczyk, pacholę — deminutyw; echo sługi Elizeusza (2 Krl 4,38.42 LXX)"
+  ],
+  [
+   "ἐγώ εἰμι",
+   "ego eimi",
+   "fraza",
+   "JA JESTEM — formuła objawieniowa (Wj 3,14; Iz 43,10 LXX); w J seria z orzecznikami i bez"
+  ]
+ ],
+ "semitic": [
+  [
+   "מָן",
+   "man",
+   "hbr",
+   "manna — chleb z nieba czasu Wyjścia (Wj 16); oczekiwanie żydowskie: drugi odkupiciel sprowadzi mannę jak pierwszy"
+  ],
+  [
+   "אֶהְיֶה אֲשֶׁר אֶהְיֶה",
+   "ehje aszer ehje",
+   "hbr",
+   "JESTEM, KTÓRY JESTEM (Wj 3,14) — imię objawione Mojżeszowi; w LXX ego eimi ho on, zaplecze Janowego ἐγώ εἰμι"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "ἐγώ εἰμι",
+   "ehje aszer ehje",
+   "Janowe ἐγώ εἰμι bez orzecznika (6,20; 8,24.28.58; 18,5-6) słyszalnie nawiązuje do imienia z płonącego krzewu i do formuły Iz 43,10 LXX; na morzu pada po raz pierwszy"
+  ],
+  [
+   "ἄρτος",
+   "man",
+   "chleb rozmnożony pod Paschę przywołuje mannę; tłum sam postawi tę paralelę w 6,31, a Jezus przeprowadzi ją od figury do rzeczywistości: chlebem z nieba jest On sam"
+  ]
+ ],
+ "occurrences": [
+  [
+   "θάλασσα",
+   1,
+   "θαλάσσης"
+  ],
+  [
+   "ὄχλος",
+   2,
+   "ὄχλος"
+  ],
+  [
+   "σημεῖον",
+   2,
+   "σημεῖα"
+  ],
+  [
+   "πάσχα",
+   4,
+   "πάσχα"
+  ],
+  [
+   "ὄχλος",
+   5,
+   "ὄχλος"
+  ],
+  [
+   "ἄρτος",
+   5,
+   "ἄρτους"
+  ],
+  [
+   "ἄρτος",
+   7,
+   "ἄρτοι"
+  ],
+  [
+   "παιδάριον",
+   9,
+   "παιδάριον"
+  ],
+  [
+   "ἄρτος",
+   9,
+   "ἄρτους"
+  ],
+  [
+   "ἄρτος",
+   11,
+   "ἄρτους"
+  ],
+  [
+   "εὐχαριστέω",
+   11,
+   "εὐχαριστήσας"
+  ],
+  [
+   "κλάσμα",
+   12,
+   "κλάσματα"
+  ],
+  [
+   "κλάσμα",
+   13,
+   "κλασμάτων"
+  ],
+  [
+   "ἄρτος",
+   13,
+   "ἄρτων"
+  ],
+  [
+   "σημεῖον",
+   14,
+   "σημεῖον"
+  ],
+  [
+   "βασιλεύς",
+   15,
+   "βασιλέα"
+  ],
+  [
+   "θάλασσα",
+   16,
+   "θάλασσαν"
+  ],
+  [
+   "σκοτία",
+   17,
+   "σκοτία"
+  ],
+  [
+   "θάλασσα",
+   17,
+   "θαλάσσης"
+  ],
+  [
+   "θάλασσα",
+   18,
+   "θάλασσα"
+  ],
+  [
+   "θάλασσα",
+   19,
+   "θαλάσσης"
+  ],
+  [
+   "ἐγώ εἰμι",
+   20,
+   "ἐγώ εἰμι"
+  ]
+ ],
+ "works": [],
+ "themes": [
+  [
+   "chleb życia (ἄρτος τῆς ζωῆς)",
+   "Linia chleba w czwartej Ewangelii: pięć chlebów jęczmiennych (6,1-15) → manna (6,31) → Ja jestem chlebem życia (6,35.48) → chleb, który Ja dam, to ciało moje (6,51); znak, figura i rzeczywistość eucharystyczna."
+  ],
+  [
+   "ἐγώ εἰμι — JA JESTEM",
+   "Formuła objawieniowa Jezusa: bez orzecznika (6,20; 8,24.28.58; 13,19; 18,5-6) — echo Wj 3,14 i Iz 43,10; z orzecznikami (chleb, światłość, brama, pasterz, zmartwychwstanie, droga, krzew winny) — imię Boga wypowiedziane w darach."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 6,
+    "vs": 1,
+    "ce": 6,
+    "ve": 21,
+    "title": "Rozmnożenie chleba i przejście przez morze",
+    "motto": "Ego sum, nolite timere (JA JESTEM, nie bójcie się)",
+    "status": "ukonczona",
+    "position": 15
+   },
+   "intro": "Rozdział szósty otwiera dyptyk dwóch znaków, które Izrael zna z pamięci Wyjścia: chleb na pustkowiu i przejście przez morze. Pod bliską Paschę Jezus karmi pięć tysięcy ludzi pięcioma jęczmiennymi chlebami z rąk anonimowego chłopca — a gdy nasycony tłum chce go porwać i obwołać królem, ucieka na górę sam. Nocą, pośród burzy i ciemności, przychodzi do uczniów po wodach morza i wypowiada po raz pierwszy słowo, które jest imieniem: JA JESTEM, nie bójcie się. Obie sceny są przedsionkiem wielkiej mowy eucharystycznej — zanim Jezus powie, czym jest chleb życia, pokazuje, Kim jest Ten, który go daje.",
+   "struktura": "Perykopa jest dyptykiem o budowie zamierzenie exodusowej: chleb na pustkowiu (w. 1-15) i przejście przez wzburzone morze (w. 16-21) — dwa filary pamięci Wyjścia (manna i Morze Czerwone), tyle że w kolejności odwróconej: tam najpierw morze, potem manna; tu najpierw chleb, potem morze — bo nie chronologia Wyjścia jest osnową, lecz droga wiary: od daru, który tłum umie przyjąć (i źle odczytać), do objawienia Osoby, które przyjąć jest trudniej. Skrzydło pierwsze ma budowę koncentryczną: ekspozycja z zegarem paschalnym (w. 1-4), próba uczniów — arytmetyka Filipa i bezradna dobra wola Andrzeja (w. 5-9), znak w centrum — dziękczynienie, rozdanie, nasycenie, dwanaście koszów (w. 10-13), i błędna recepcja: Prorok — król — porwanie (w. 14-15), ucięta ucieczką Jezusa w samotność góry. Skrzydło drugie jest nokturnem: ciemność, nieobecność Jezusa, wielki wiatr (w. 16-18) — potem teofania krocząca po morzu ze słowem ἐγώ εἰμι (w. 19-20) — i rozwiązanie w jednym wersecie: chcieli Go wziąć do łodzi, a łódź już była u celu (w. 21). Zwornikiem dyptyku jest kontrast dwóch przyjęć: tłum chce Jezusa porwać (ἁρπάζειν) — uczniowie chcą Go przyjąć (λαβεῖν); pierwszym ucieka, do drugich przychodzi. Całość jest narracyjnym prologiem mowy 6,22-59: znak chleba dostarczy jej tematu, przejście przez morze — autorytetu Mówiącego.",
+   "blocks": [
+    {
+     "cs": 6,
+     "vs": 1,
+     "ce": 6,
+     "ve": 4,
+     "label": "w. 1–4",
+     "greek": "Μετὰ ταῦτα ἀπῆλθεν ὁ Ἰησοῦς πέραν τῆς θαλάσσης τῆς Γαλιλαίας τῆς Τιβεριάδος. ἠκολούθει δὲ αὐτῷ ὄχλος πολύς, ὅτι ἐθεώρουν τὰ σημεῖα ἃ ἐποίει ἐπὶ τῶν ἀσθενούντων. ἀνῆλθεν δὲ εἰς τὸ ὄρος Ἰησοῦς καὶ ἐκεῖ ἐκάθητο μετὰ τῶν μαθητῶν αὐτοῦ. ἦν δὲ ἐγγὺς τὸ πάσχα, ἡ ἑορτὴ τῶν Ἰουδαίων.",
+     "transl": "Potem Jezus odszedł na drugą stronę Morza Galilejskiego, czyli Tyberiadzkiego. A szedł za Nim wielki tłum, bo widzieli znaki, które czynił na chorych. Jezus wszedł na górę i tam usiadł ze swoimi uczniami. A blisko była Pascha, święto żydowskie.",
+     "units": [
+      [
+       "πέραν τῆς θαλάσσης τῆς Γαλιλαίας τῆς Τιβεριάδος",
+       "na drugą stronę Morza Galilejskiego, czyli Tyberiadzkiego",
+       "Podwójna nazwa jeziora jest małą lekcją historii redakcji: Morze Galilejskie to nazwa tradycji palestyńskiej, Tyberiadzkie — od miasta Tiberias, założonego przez Heroda Antypasa około 19 r. po Chr. na cześć cesarza; ta druga nazwa przyjęła się na dobre dopiero pod koniec I wieku, więc ewangelista dopowiada ją dla swoich późniejszych, pozapalestyńskich czytelników (w 21,1 użyje już tylko jej). Tekst pamięta zarazem realia wcześniejsze i tłumaczy je na język współczesnych — dokładnie tak pracuje pamięć naocznego świadka podana w redakcji końca stulecia. Πέραν (na drugą stronę) bez podania punktu wyjścia zdradza szew narracyjny — rozdział 5 działał w Jerozolimie; Jan nie pisze kroniki podróży, lecz teologię w scenach, i geografia służy u niego dramaturgii: pustkowie po drugiej stronie będzie sceną nowej manny. Tłum idzie za Jezusem, bo ἐθεώρουν τὰ σημεῖα — oglądali znaki na chorych: motyw wiary od znaków, którą Ewangelia raz po raz waży (2,23-25; 4,48) i którą rozdział 6 podda najcięższej próbie — od entuzjazmu w. 14 do odejścia w 6,66."
+      ],
+      [
+       "ἀνῆλθεν δὲ εἰς τὸ ὄρος ... ἐκάθητο",
+       "wszedł na górę ... usiadł",
+       "Góra bez nazwy i pozycja siedząca to dwa znaki mojżeszowo-rabiniczne naraz: na górę wstępował Mojżesz po chleb słowa, a siedzenie jest postawą nauczyciela (por. Mt 5,1); Jezus zasiada pośród uczniów jak nowy Mojżesz na nowym Synaju — zanim da chleb, tworzy szkołę. Jan buduje scenę oszczędnie, ale każdy element powróci: góra w w. 15 (ucieczka przed koroną — ta sama góra, dwa wejścia: jako nauczyciel i jako zbieg przed królestwem z rąk tłumu), uczniowie w roli pośredników w w. 5-13, tłum jako partner mowy w 6,22nn. Warto zauważyć rytm czasowników: Jezus odszedł, wszedł, usiadł — tłum idzie za, przychodzi; inicjatywa i spokój są po jednej stronie, ruch masy po drugiej. Ta choreografia jest teologią: znak nie zostanie wymuszony przez napór potrzebujących, lecz dany z wolnego zamysłu Tego, który — jak zaraz powie narrator — sam wiedział, co miał czynić."
+      ],
+      [
+       "ἦν δὲ ἐγγὺς τὸ πάσχα",
+       "a blisko była Pascha",
+       "Wzmianka kalendarzowa jest kluczem hermeneutycznym całego rozdziału. To druga z trzech Janowych Pasch (2,13; 6,4; 11,55) — zegar księgi odmierzający drogę do godziny; ta środkowa jest jedyną, na którą Jezus nie idzie do Jerozolimy: zamiast tego Pascha przychodzi do Galilei — na pustkowiu zostaje rozdany chleb, a przez morze przechodzi lud nowego Wyjścia. Pod datą paschalną każdy element sceny nabiera podwójnego dna: chleb czyta się przez mannę (tłum uczyni to wprost w 6,31), morze przez Morze Czerwone, szemranie w 6,41.61 przez szemrania pustyni, a zapowiedź dania ciała (6,51) przez baranka. Ewangelista, który chrzest wpisał w rozmowę nocną (r. 3), a Eucharystię wyłoży właśnie tu — nie mając w swojej księdze opisu ustanowienia — daje sygnał, że rozdział 6 jest jego wieczernikiem: mowa eucharystyczna zabrzmi w cieniu Paschy, dokładnie jak Ostatnia Wieczerza. Liturgia czytająca J 6 przez pięć niedziel roku B idzie wiernie za tą wskazówką."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 5,
+     "ce": 6,
+     "ve": 9,
+     "label": "w. 5–9",
+     "greek": "Ἐπάρας οὖν τοὺς ὀφθαλμοὺς ὁ Ἰησοῦς καὶ θεασάμενος ὅτι πολὺς ὄχλος ἔρχεται πρὸς αὐτὸν λέγει πρὸς Φίλιππον· πόθεν ἀγοράσωμεν ἄρτους ἵνα φάγωσιν οὗτοι; τοῦτο δὲ ἔλεγεν πειράζων αὐτόν· αὐτὸς γὰρ ᾔδει τί ἔμελλεν ποιεῖν. ἀπεκρίθη αὐτῷ [ὁ] Φίλιππος· διακοσίων δηναρίων ἄρτοι οὐκ ἀρκοῦσιν αὐτοῖς ἵνα ἕκαστος βραχύ [τι] λάβῃ. λέγει αὐτῷ εἷς ἐκ τῶν μαθητῶν αὐτοῦ, Ἀνδρέας ὁ ἀδελφὸς Σίμωνος Πέτρου· ἔστιν παιδάριον ὧδε ὃς ἔχει πέντε ἄρτους κριθίνους καὶ δύο ὀψάρια· ἀλλὰ ταῦτα τί ἐστιν εἰς τοσούτους;",
+     "transl": "Jezus więc, podniósłszy oczy i zobaczywszy, że wielki tłum idzie do Niego, mówi do Filipa: Skąd kupimy chlebów, aby oni się najedli? A mówił to, wystawiając go na próbę; sam bowiem wiedział, co miał czynić. Odpowiedział Mu Filip: Za dwieście denarów chleba nie wystarczy dla nich, aby każdy choć trochę otrzymał. Mówi Mu jeden z Jego uczniów, Andrzej, brat Szymona Piotra: Jest tu chłopiec, który ma pięć chlebów jęczmiennych i dwie rybki; ale cóż to jest na tak wielu?",
+     "units": [
+      [
+       "πόθεν ἀγοράσωμεν ἄρτους; ... πειράζων αὐτόν",
+       "skąd kupimy chlebów? ... wystawiając go na próbę",
+       "Pytanie Jezusa jest cytatem sytuacyjnym z pustyni: πόθεν — skąd? — tak pytał Mojżesz, przygnieciony ludem: „Skąd wezmę mięsa, aby dać całemu temu ludowi?\" (Lb 11,13 LXX z tym samym przysłówkiem); tyle że tam pytał człowiek Boga w rozpaczy, tu Bóg-człowiek pyta ucznia w pedagogii. Narrator natychmiast uchyla ryzyko błędnej lektury: mówił to, wystawiając go na próbę (πειράζων — słowo z Rdz 22,1 LXX o próbie Abrahama), sam bowiem wiedział, co miał czynić. Próba nie jest u Boga zbieraniem informacji, lecz wydobywaniem człowieka na jaw: pytanie ma zmusić Filipa do zmierzenia przepaści między potrzebą a zasobem — bo dopiero zmierzona przepaść czyni świadkiem cudu, który ją przekroczy. Wybór Filipa jest lokalnie trafny (pochodził z pobliskiej Betsaidy, 1,44 — kogóż pytać o zaopatrzenie, jak nie miejscowego), ale odpowiedź zdradza granicę każdej kompetencji: Filip zna ceny, nie zna Dawcy. Ta scena jest matrycą modlitwy prośby, jak rozumie ją Ewangelia: Bóg pyta nie dlatego, że nie wie, lecz dlatego, że my — dopóki nie wypowiemy braku — nie wiemy, czego naprawdę potrzebujemy i od Kogo."
+      ],
+      [
+       "διακοσίων δηναρίων ἄρτοι οὐκ ἀρκοῦσιν",
+       "za dwieście denarów chleba nie wystarczy",
+       "Filip odpowiada rachunkiem — i rachunek jest bez zarzutu: denar był dniówką robotnika (Mt 20,2), dwieście denarów to zarobek ośmiu miesięcy; podzielone na pięć tysięcy mężczyzn (plus kobiety i dzieci) daje po parę groszy na głowę — ἵνα ἕκαστος βραχύ τι λάβῃ, aby każdy choć odrobinę otrzymał. Ewangelia nie kpi z arytmetyki: liczby Filipa są uczciwe i właśnie dlatego pouczające — poprawny rachunek w zamkniętym systemie dowodzi tylko tego, że system jest zamknięty. Odpowiedź zaczyna się zresztą od kwoty, której nikt nie ma (skąd u wędrownej wspólnoty dwieście denarów? — por. Mk 6,37, gdzie uczniowie pytają ironicznie, czy mają tyle wydać), więc jest w istocie ubraną w liczby kapitulacją: nie da się. Duchowa diagnoza tej sceny pozostaje aktualna na każdą epokę Kościoła: wobec głodu świata wspólnota Jezusa zawsze najpierw liczy — budżety, kadry, siły — i zawsze wychodzi jej „nie wystarczy\"; znak zacznie się nie wtedy, gdy rachunek się poprawi, lecz gdy to, co jest, zostanie przyniesione Jezusowi. Deficyt policzalny jest surowcem cudu — pod warunkiem, że przestanie być argumentem."
+      ],
+      [
+       "παιδάριον ... πέντε ἄρτους κριθίνους καὶ δύο ὀψάρια",
+       "chłopiec ... pięć chlebów jęczmiennych i dwie rybki",
+       "Andrzej — po raz drugi w tej Ewangelii w roli przyprowadzającego (1,41-42; por. 12,22) — wnosi na scenę najmniejszy możliwy zasób: dziecko i jego prowiant. Każde słowo jest tu ubóstwem: παιδάριον to deminutyw (chłopczyk, pacholę), chleby są jęczmienne — zboże biedaków, o połowę tańsze od pszenicy, chleb wczesnego żniwa (Pascha!), ὀψάρια to znów deminutyw: dwie rybki, zapewne suszone lub solone, dodatek do chleba, nie danie. A jednak dokładnie ten zestaw słów otwiera Biblię na oścież: w 2 Krl 4,42-44 człowiek z Baal-Szalisza przynosi Elizeuszowi dwadzieścia chlebów jęczmiennych z pierwocin, prorok każe słudze (LXX: παιδάριον!) rozdać je stu ludziom, sługa protestuje — „cóż to jest na stu?\" — pada obietnica: będą jeść i pozostawią, i pozostawili. Jan odtwarza scenę Elizeusza element po elemencie (jęczmień, pacholę, protest arytmetyczny, nadmiar resztek), by czytelnik zmierzył skok skali: dwadzieścia chlebów na stu u proroka — pięć na pięć tysięcy u Tego, który jest kimś więcej niż prorokiem (choć tłum w w. 14 zatrzyma się na słowie „prorok\"). Pytanie Andrzeja — ταῦτα τί ἐστιν εἰς τοσούτους; — jest zaś na zawsze pytaniem ofiarodawcy: cóż znaczy moja odrobina wobec potrzeby? Ewangelia odpowiada całą resztą sceny: w rękach Jezusa odrobina nie jest mała — jest zaczynem."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 10,
+     "ce": 6,
+     "ve": 13,
+     "label": "w. 10–13",
+     "greek": "εἶπεν ὁ Ἰησοῦς· ποιήσατε τοὺς ἀνθρώπους ἀναπεσεῖν. ἦν δὲ χόρτος πολὺς ἐν τῷ τόπῳ. ἀνέπεσαν οὖν οἱ ἄνδρες τὸν ἀριθμὸν ὡς πεντακισχίλιοι. ἔλαβεν οὖν τοὺς ἄρτους ὁ Ἰησοῦς καὶ εὐχαριστήσας διέδωκεν τοῖς ἀνακειμένοις ὁμοίως καὶ ἐκ τῶν ὀψαρίων ὅσον ἤθελον. ὡς δὲ ἐνεπλήσθησαν, λέγει τοῖς μαθηταῖς αὐτοῦ· συναγάγετε τὰ περισσεύσαντα κλάσματα, ἵνα μή τι ἀπόληται. συνήγαγον οὖν καὶ ἐγέμισαν δώδεκα κοφίνους κλασμάτων ἐκ τῶν πέντε ἄρτων τῶν κριθίνων ἃ ἐπερίσσευσαν τοῖς βεβρωκόσιν.",
+     "transl": "Powiedział Jezus: Sprawcie, aby ludzie się rozłożyli. A było wiele trawy na tym miejscu. Rozłożyli się więc mężczyźni w liczbie około pięciu tysięcy. Wziął więc Jezus chleby i uczyniwszy dziękczynienie, rozdał spoczywającym; podobnie i z rybek, ile chcieli. A gdy się nasycili, mówi swoim uczniom: Zbierzcie pozostałe ułomki, aby nic nie zginęło. Zebrali więc i napełnili dwanaście koszów ułomkami z pięciu chlebów jęczmiennych, które pozostały po jedzących.",
+     "units": [
+      [
+       "ἦν δὲ χόρτος πολὺς ἐν τῷ τόπῳ",
+       "a było wiele trawy na tym miejscu",
+       "Notatka na pozór botaniczna — a pracują w niej trzy warstwy. Realia: wiele trawy zdarza się nad jeziorem tylko wiosną, po deszczach zimowych — zgodnie z zegarem paschalnym w. 4 (Marek doda: trawa zielona, Mk 6,39); to jeden z tych szczegółów zbieżnych mimochodem, które zdradzają wspólną, starą pamięć. Gest: Jezus każe ludzi rozłożyć (ἀναπεσεῖν — spocząć jak przy uczcie, nie „ustawić w kolejce\"): głodny tłum zostaje najpierw posadzony w godności biesiadników — nakarmienie zaczyna się od przywrócenia człowiekowi pozycji gościa, zanim cokolwiek trafi do rąk. I podtekst: pozwala mi leżeć na zielonych pastwiskach — trawa, spoczynek, nasycenie to scenografia Psalmu 23; Pasterz, który w 10,9 obieca paszę, tu ją rozdaje własnymi rękami, a Ezechielowa obietnica, że Bóg sam będzie pasł swoje owce (Ez 34,14-15.23), dostaje wykonawcę z imieniem. Liczba około pięciu tysięcy mężczyzn (ἄνδρες — dorośli mężczyźni; Mt 14,21 dopowie: prócz kobiet i dzieci) czyni ze zgromadzenia małą armię — co tłumaczy i logistyczny wymiar znaku, i polityczną gorączkę, która wybuchnie w w. 14-15."
+      ],
+      [
+       "ἔλαβεν ... εὐχαριστήσας διέδωκεν",
+       "wziął ... uczyniwszy dziękczynienie, rozdał",
+       "Trzy czasowniki tego wersetu są liturgią w zalążku: wziął — dzięki czynił — rozdał; dokładnie ta sekwencja (z „łamał\", które Jan pominie, przechowując je w rzeczowniku κλάσματα) wróci w opisach Ostatniej Wieczerzy (Mk 14,22-23; 1 Kor 11,23-24, gdzie Paweł ma właśnie εὐχαριστήσας). Czwarta Ewangelia, jedyna bez opisu ustanowienia Eucharystii, wpisuje jej czasowniki tutaj — i przez mowę 6,22-59 wyłoży ich znaczenie; wybór słowa εὐχαριστήσας tam, gdzie Marek ma zwyczajne εὐλόγησεν (błogosławił), brzmi już jak terminologia wspólnoty (por. Didache 9: „co do eucharystii, tak dziękujcie…\"). Żydowski gest źródłowy to birkat ha-mazon — błogosławieństwo Boga nad chlebem: Błogosławiony jesteś, Panie, Boże nasz, Królu świata, który wyprowadzasz chleb z ziemi; Jezus nie „konsekruje\" tu chleba, lecz czyni to, co każdy ojciec rodziny — tyle że Jego dziękczynienie otwiera rękę Boga na miarę pięciu tysięcy. Osobliwość Janowa: διέδωκεν τοῖς ἀνακειμένοις — sam rozdał spoczywającym; u synoptyków rozdają uczniowie, u Jana między Dawcą a głodnym nie ma pośrednika. Teologicznie oba obrazy są prawdziwe (Kościół rozdaje — ale daje Chrystus); Jan wybiera swój konsekwentnie: w rozdziale, który skończy się słowami „chleb, który Ja dam, to ciało moje\", każda ręka podająca chleb musi być Jego ręką. I jeszcze miara daru: ὅσον ἤθελον — ile chcieli; nie racja żywnościowa, lecz obfitość — pierwszy znak w Kanie dał wino ponad miarę, ten daje chleb ponad głód: taka jest sygnatura Dawcy."
+      ],
+      [
+       "συναγάγετε τὰ περισσεύσαντα κλάσματα, ἵνα μή τι ἀπόληται",
+       "zbierzcie pozostałe ułomki, aby nic nie zginęło",
+       "Rozkaz zbierania jest osobliwością Janową (u synoptyków resztki zbierają bez polecenia) i ma ciężar teologiczny większy, niż zdradza gospodarska forma. Słownictwo jest kościelne już w I wieku: κλάσμα (ułomek) to w Didache 9,3-4 techniczna nazwa chleba eucharystycznego, z modlitwą, która czyta nasz obraz wprost: jak ten ułomek był rozproszony po górach, a zebrany stał się jednym, tak niech się zbierze Kościół Twój z krańców ziemi do Twego królestwa; συνάγειν (zbierać) to źródłosłów synagogi i Janowe słowo o misji Jezusa: aby rozproszone dzieci Boże zgromadzić w jedno (11,52; por. 17,21). Zbieranie ułomków jest więc figurą eklezjologii: nasycenie nie kończy się konsumpcją, lecz zgromadzeniem — okruchy nie są odpadem, są Kościołem in statu colligendi. Klauzula ἵνα μή τι ἀπόληται (aby nic nie zginęło) wróci w tym samym rozdziale o ludziach: abym nic nie stracił z tego wszystkiego, co mi dał Ojciec (6,39; por. 17,12; 18,9) — w gramatyce Ewangelii ułomki i uczniowie podlegają tej samej trosce: u Jezusa nie ginie nic i nikt. Dwanaście koszów — po jednym na apostoła, wedle starej i trafnej intuicji — mierzy nadmiar liczbą Izraela: dwanaście pokoleń nakarmionych i jeszcze pełnia w zapasie; κόφινος to zresztą kosz podróżny ubogich Żydów (szydzi z niego Juwenalis) — nadmiar Boży mieści się w bagażu biedaków. Elizeuszowe „będą jeść i pozostawią\" (2 Krl 4,43) spełnia się z nawiązką, a scena zostawia Kościołowi regułę podwójną: rozdawaj bez lęku, ile chcą — i zbieraj bez marnowania, bo okruch łaski jest łaską."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 14,
+     "ce": 6,
+     "ve": 15,
+     "label": "w. 14–15",
+     "greek": "Οἱ οὖν ἄνθρωποι ἰδόντες ὃ ἐποίησεν σημεῖον ἔλεγον ὅτι οὗτός ἐστιν ἀληθῶς ὁ προφήτης ὁ ἐρχόμενος εἰς τὸν κόσμον. Ἰησοῦς οὖν γνοὺς ὅτι μέλλουσιν ἔρχεσθαι καὶ ἁρπάζειν αὐτὸν ἵνα ποιήσωσιν βασιλέα, ἀνεχώρησεν πάλιν εἰς τὸ ὄρος αὐτὸς μόνος.",
+     "transl": "Ludzie zatem, ujrzawszy znak, który uczynił, mówili: Ten jest prawdziwie Prorokiem, który przychodzi na świat. Jezus więc, poznawszy, że mają przyjść i porwać Go, aby uczynić królem, usunął się znowu na górę sam jeden.",
+     "units": [
+      [
+       "οὗτός ἐστιν ἀληθῶς ὁ προφήτης",
+       "ten jest prawdziwie Prorokiem",
+       "Tłum sięga po najlepszą kategorię, jaką zna: Prorok — ten z obietnicy Mojżesza: proroka jak ja wzbudzi ci Pan, Bóg twój; jego słuchać będziecie (Pwt 18,15.18), postać żywa w oczekiwaniach epoki (pytano o nią Chrzciciela: 1,21; wróci w 7,40; Samarytanie czekali na Taheba — proroka-restauratora). Rozpoznanie jest po połowie trafne: chleb na pustkowiu istotnie wskazuje na nowego Mojżesza, a Ewangelia sama gra tą typologią przez cały rozdział. Błąd zaczyna się w logice dopełnienia: skoro prorok jak Mojżesz, to program jak za Mojżesza — chleb codziennie (będą się go domagać w 6,34: dawaj nam zawsze), wyzwolenie polityczne, król. Tłum czyta znak jak szyld: zobaczyli σημεῖον i natychmiast przełożyli go na zaopatrzenie i władzę — a znak Janowy jest przezroczysty: ma prowadzić przez dar do Dawcy, od chleba do „JA JESTEM chlebem\" (6,35). Mowa eucharystyczna zdiagnozuje to bez znieczulenia: szukacie mnie nie dlatego, że widzieliście znaki, ale że jedliście chleb i nasyciliście się (6,26) — widzieć znak i „widzieć znak\" to dwie różne rzeczy; pierwsza kończy się porwaniem Jezusa do własnych projektów, druga — pójściem za Nim do Jego."
+      ],
+      [
+       "ἁρπάζειν αὐτὸν ἵνα ποιήσωσιν βασιλέα, ἀνεχώρησεν",
+       "porwać Go, aby uczynić królem — usunął się",
+       "Czasownik jest brutalny: ἁρπάζειν znaczy porwać, wydrzeć siłą — tak wilk porywa owce (10,12), tak nikt nie wyrwie ich z ręki mojej (10,28-29). Entuzjazm religijny, który chce Boga do czegoś użyć, jest w gramatyce Ewangelii odmianą przemocy: tłum nie zamierza pójść za Jezusem — zamierza Go ponieść, jak sztandar; korona bywa formą klatki. Kontekst epoki czyni scenę śmiertelnie realną: Galilea była wylęgarnią mesjanizmów zbrojnych (Judasz Galilejczyk i jego ruch — Dz 5,37; prorocy znaków jak Teudas czy Egipcjanin, obiecujący cuda Wyjścia — Józef Flawiusz o nich wszystkich), a pięć tysięcy mężczyzn na pustkowiu pod Paschę, święto wolności, to gotowy zaciąg powstańczy; Rzym takie zgromadzenia ścinał w zarodku. Jezus odpowiada bez jednego słowa: ἀνεχώρησεν — usunął się, sam jeden, na górę (Marek dopowiada: na modlitwę, Mk 6,46; Jan zostawia samotność jako wymowę). Nie dlatego, że nie jest królem — jest nim, i powie to, ale związanemu więźniowi przed Piłatem: królestwo moje nie jest z tego świata; gdyby było, słudzy moi biliby się (18,36) — i z krzyża, gdzie Jego tytuł zawiśnie w trzech językach. Królestwo przyjmowane z rąk tłumu za chleb byłoby dokładnie tym, co odrzucił na pustyni kuszenia (Mt 4; Łk 4): mesjanizmem ekonomii i władzy. Odmowa z w. 15 jest więc wyznaniem: godzina i droga królowania należą do Ojca — prowadzi przez wywyższenie na krzyżu, nie przez obwołanie na fali sytości; a Kościół każdej epoki, kuszony, by dać się „porwać na króla\" jakiejś sprawie, ma w tej ucieczce swój rachunek sumienia."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 16,
+     "ce": 6,
+     "ve": 21,
+     "label": "w. 16–21",
+     "greek": "Ὡς δὲ ὀψία ἐγένετο κατέβησαν οἱ μαθηταὶ αὐτοῦ ἐπὶ τὴν θάλασσαν καὶ ἐμβάντες εἰς πλοῖον ἤρχοντο πέραν τῆς θαλάσσης εἰς Καφαρναούμ. καὶ σκοτία ἤδη ἐγεγόνει καὶ οὔπω ἐληλύθει πρὸς αὐτοὺς ὁ Ἰησοῦς, ἥ τε θάλασσα ἀνέμου μεγάλου πνέοντος διεγείρετο. ἐληλακότες οὖν ὡς σταδίους εἴκοσι πέντε ἢ τριάκοντα θεωροῦσιν τὸν Ἰησοῦν περιπατοῦντα ἐπὶ τῆς θαλάσσης καὶ ἐγγὺς τοῦ πλοίου γινόμενον, καὶ ἐφοβήθησαν. ὁ δὲ λέγει αὐτοῖς· ἐγώ εἰμι· μὴ φοβεῖσθε. ἤθελον οὖν λαβεῖν αὐτὸν εἰς τὸ πλοῖον, καὶ εὐθέως ἐγένετο τὸ πλοῖον ἐπὶ τῆς γῆς εἰς ἣν ὑπῆγον.",
+     "transl": "A gdy nastał wieczór, zeszli Jego uczniowie nad morze i wsiadłszy do łodzi, płynęli na drugą stronę morza, do Kafarnaum. I ciemność już nastała, a Jezus jeszcze do nich nie przyszedł, a morze burzyło się, bo dął wielki wiatr. Gdy więc przepłynęli około dwudziestu pięciu lub trzydziestu stadiów, widzą Jezusa kroczącego po morzu i zbliżającego się do łodzi — i przestraszyli się. On zaś mówi im: JA JESTEM, nie bójcie się. Chcieli więc wziąć Go do łodzi — i zaraz łódź znalazła się przy ziemi, do której zmierzali.",
+     "units": [
+      [
+       "σκοτία ἤδη ἐγεγόνει καὶ οὔπω ἐληλύθει πρὸς αὐτοὺς ὁ Ἰησοῦς",
+       "ciemność już nastała, a Jezus jeszcze do nich nie przyszedł",
+       "Zdanie jest zbudowane z dwóch przysłówków, które niosą całą teologię nocy: ἤδη — już (ciemność), οὔπω — jeszcze nie (Jezus). Na poziomie kroniki to zwykły zmierzch na jeziorze; ale σκοτία jest u Jana słowem nacechowanym od pierwszych wierszy (światłość w ciemności świeci, 1,5; kto idzie za mną, nie będzie chodził w ciemności, 8,12; noc Nikodema i noc Judasza), a zdanie „Jezus jeszcze nie przyszedł do nich\" — wypowiedziane o wspólnocie uczniów w łodzi na wzburzonym morzu — czytało się w Kościele końca I wieku samo: oto kondycja Kościoła między Paschą a paruzją; mistrz odszedł na górę sam (wniebowstąpienie w figurze), łódź wspólnoty wypłynęła w noc świata, wiatr przeciwny, a Pan — jeszcze nie przyszedł. Janowe οὔπω jest jednak przysłówkiem nadziei: „jeszcze nie\" to nie „wcale\"; ta noc ma strukturę adwentu. Odległość podana z rybacką dokładnością (25-30 stadiów, czyli 4,5-5,5 km — środek jeziora szerokiego na ok. 61 stadiów, punkt bez odwrotu) mierzy dokładnie miejsce, w którym wspólnota poznaje swoją niewystarczalność: za daleko, by wrócić, za daleko, by dopłynąć — dokładnie tam przychodzi Ten, którego „jeszcze nie\" było."
+      ],
+      [
+       "θεωροῦσιν τὸν Ἰησοῦν περιπατοῦντα ἐπὶ τῆς θαλάσσης",
+       "widzą Jezusa kroczącego po morzu",
+       "Dla ucha biblijnego ten obraz ma adres jednoznaczny: kroczenie po morzu jest w Piśmie czynnością zastrzeżoną dla Boga. Hiob sławi Tego, który sam rozpościera niebiosa i kroczy po grzbiecie morza (Hi 9,8; LXX: περιπατῶν ὡς ἐπ' ἐδάφους ἐπὶ θαλάσσης — kroczący po morzu jak po ziemi, niemal słownik naszego wersetu); Psalm 77 wspomina Wyjście słowami: przez morze wiodła Twoja droga, a śladów Twych nikt nie rozpoznał (Ps 77,20); u Izajasza Bóg daje drogę przez morze (Iz 43,16) — i właśnie w tym rozdziale Izajasza brzmi refren „Ja jestem\" z „nie bójcie się\" (Iz 43,1-5.10). Morze jest w Biblii resztką chaosu — żywiołem, który Bóg ujarzmił w stworzeniu (Rdz 1; Ps 104,7-9) i rozciął w Wyjściu; chodzić po nim znaczy: mieć chaos pod stopami. Jan opowiada scenę oszczędniej niż synoptycy — bez Piotra na falach, bez uciszenia burzy, nawet bez stwierdzenia, że wiatr ustał: cały ciężar spoczywa nie na pokonaniu żywiołu, lecz na Osobie, która się zbliża (ἐγγὺς τοῦ πλοίου γινόμενον — stającego się blisko łodzi: piękna gramatyka nadchodzącej obecności). Strach uczniów (ἐφοβήθησαν) jest w tej dramaturgii nie słabością, lecz progiem teofanii: w Biblii boi się każdy, komu Bóg staje się blisko — i każdemu Bóg mówi to samo, co za chwilę usłyszy łódź."
+      ],
+      [
+       "ἐγώ εἰμι· μὴ φοβεῖσθε",
+       "JA JESTEM, nie bójcie się",
+       "Na powierzchni — najzwyklejsze zdanie świata: „to ja, nie bójcie się\", jak mówi każdy, kogo wzięto za zjawę. Ale Jan buduje swoją księgę tak, że powierzchnia jest zawsze furtką: ἐγώ εἰμι bez orzecznika padnie jeszcze w 8,24 (jeśli nie uwierzycie, że JA JESTEM, pomrzecie w grzechach), 8,28.58 (zanim Abraham stał się, JA JESTEM — i chwycono kamienie), 13,19 i 18,5-6, gdzie na te dwa słowa kohorta cofnie się i padnie na ziemię: żadne „to ja\" nie kładzie ludzi na ziemię. Formuła jest podwójnie zakorzeniona: w imieniu z płonącego krzewu (Wj 3,14: JESTEM, KTÓRY JESTEM; LXX: ἐγώ εἰμι ὁ ὤν) i w refrenie Deutero-Izajasza, gdzie אֲנִי הוּא (ani hu — Ja [nim] jestem) oddane jest w LXX właśnie przez ἐγώ εἰμι (Iz 43,10.25; 51,12) — i gdzie sąsiaduje, jak tu, z „nie bójcie się\" (Iz 43,1.5: nie bój się, bo cię wykupiłem… bo Ja jestem z tobą). Scena na morzu jest pierwszym absolutnym ἐγώ εἰμι tej Ewangelii — wypowiedzianym nie z katedry, lecz z chaosu, do przerażonych; imię Boga debiutuje u Jana jako słowo pociechy. W tym zestrojeniu jest cała teologia Janowa w pigułce: Ten, który JEST, jest Tym, który przychodzi; metafizyka i bliskość to jedno. A porządek zdania — najpierw JESTEM, potem nie bójcie się — jest porządkiem wszelkiej biblijnej odwagi: męstwo nie płynie z ustania burzy (Jan nawet nie mówi, że ustała), lecz z Obecności w niej."
+      ],
+      [
+       "εὐθέως ἐγένετο τὸ πλοῖον ἐπὶ τῆς γῆς",
+       "zaraz łódź znalazła się przy ziemi",
+       "Finał jest cichym cudem w cieniu głośnego: chcieli Go wziąć do łodzi (ἤθελον λαβεῖν — chcenie-przyjęcie, dokładna odwrotność ἁρπάζειν tłumu: tamci chcieli porwać Jezusa do swoich planów, ci chcą przyjąć Go do swojej łodzi; por. 1,12: wszystkim, którzy Go przyjęli…) — i zaraz łódź była u brzegu, do którego zmierzali. Narrator nie rozstrzyga mechaniki (weszli? nie zdążyli?): rozstrzyga teologię — z chwilą, gdy wspólnota chce przyjąć Pana, podróż jest skończona; obecność nie skraca drogi o połowę, obecność jest portem. Psalm 107 opisuje dokładnie tę sekwencję o żeglarzach w burzy: wołali do Pana w niedoli… uciszył burzę… i przywiódł ich do upragnionej przystani (Ps 107,28-30) — Jan opowiada ten psalm jako wydarzenie, z Jezusem w roli Pana psalmu. Εὐθέως (zaraz) — rzadkie u Jana, częste u Marka — podkreśla bezszelestność rozwiązania: żadnej wzmianki o reszcie rejsu, żadnego komentarza uczniów; scena urywa się jak sen na moment przed przebudzeniem, bo jej point'a nie jest narracyjna, lecz mistagogiczna: nazajutrz nad tym samym jeziorem zacznie się mowa, w której Ten, który przeszedł przez morze, powie, po co przyszedł — by być chlebem. Ewangelista zamyka dyptyk klamrą przestrzeni: zaczęło się „na drugą stronę morza\" (w. 1), kończy się dotarciem „na drugą stronę\" (w. 21) — między tymi brzegami Izrael na nowo przeżył swoją Paschę: nakarmiony jak manną, przeprowadzony jak przez Morze; został mu jeszcze — i nam z nim — trud trzeci, najtrudniejszy: uwierzyć Temu, który to uczynił (6,29)."
+      ]
+     ]
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Jezioro i jego łodzie, chleb jęczmienny i ekonomia głodu, pamięć manny pod Paschę oraz gorączka mesjanizmu politycznego — cztery konteksty, bez których dyptyk chleba i morza czyta się o połowę płycej.",
+     "children": [
+      [
+       "Jezioro Galilejskie: geografia, łodzie, żegluga",
+       "Morze Galilejskie to jezioro długości ok. 21 km i szerokości 12 km (stąd Janowa miara: 25-30 stadiów to okolice środka), położone ponad 200 m poniżej poziomu morza, w niecce otoczonej wzgórzami — układ terenu sprawia, że zimne powietrze spadające wąwozami wznieca na nim gwałtowne szkwały o zmierzchu, dobrze znane i rybakom, i badaczom klimatu; burza z w. 18 jest realiami, nie ornamentem. Nazwa Tyberiadzkie pochodzi od Tiberias, stolicy wzniesionej przez Heroda Antypasa ok. 19 r. po Chr.; miasto zbudowane częściowo na cmentarzysku pobożni Żydzi omijali — Ewangelie nie wspominają, by Jezus je odwiedził, choć łodzie z Tyberiady pojawią się w 6,23. Archeologia podarowała tej scenie nawet statystę: wydobyta z mułu w 1986 r. tzw. łódź z Ginosar (I w. przed/po Chr., 8,2 m długości, drewno z odzysku — świadectwo ubóstwa właścicieli) pokazuje, jaką jednostką płynęło Dwunastu: kilkunastu ludzi, niski wolny burt, żadnych szans w szkwale. Kafarnaum na północnym brzegu — baza galilejska Jezusa (2,12; Mt 4,13) — będzie sceną mowy eucharystycznej: w tamtejszej synagodze (6,59), której bazaltowe fundamenty leżą pod późniejszą synagogą z białego wapienia, do dziś oglądane przez pielgrzymów."
+      ],
+      [
+       "Chleb jęczmienny, denar, dieta ubogich",
+       "Menu sceny jest socjologią Galilei. Jęczmień dojrzewa na przełomie marca i kwietnia — pod Paschę (święto pierwocin jęczmienia!) chleb jęczmienny to chleb chwili i chleb biedy zarazem: kosztował około połowy ceny pszennego (por. Ap 6,6: trzy kwarty jęczmienia za denara wobec jednej pszenicy), w Misznie jest wyznacznikiem minimum ubogiego, a ofiara z jęczmienia była ofiarą posądzonej o cudzołóstwo — zboże podejrzanych i ostatnich. Ὀψάριον (deminutyw od ὄψον — dodatek do chleba) to rybka konserwowana: suszona, wędzona lub solona; przemysł rybny jeziora był potęgą regionu — Magdala nosiła grecką nazwę Tarichea, „Solarnia\", a jej ryby wędrowały aż do Rzymu. Denar — dniówka najemnika (Mt 20,2) — czyni z dwustu denarów Filipa sumę realną i zarazem absurdalną: ośmiomiesięczny zarobek, którego wędrowna wspólnota nie miała (wspólna kasa — 12,6; 13,29 — bywała zasilana przez uczennice, Łk 8,3). Posiłek podstawowego Galilejczyka to chleb maczany w oliwie lub occie, oliwki, figi, rzadko ryba, mięso od święta: pięć chlebów i dwie rybki chłopca to po prostu prowiant dziecka na dzień — i dokładnie z takiej racji Jezus czyni ucztę pięciu tysięcy; znak zaczyna się na poziomie spiżarni ubogich, nie spichlerzy."
+      ],
+      [
+       "Pascha, manna i oczekiwanie drugiego odkupiciela",
+       "Data paschalna w. 4 uruchamia w scenie cały żydowski system skojarzeń. Pascha to pamiątka Wyjścia — a Wyjście to dwie wielkie interwencje: morze rozcięte i manna dana; oba filary wracają w naszym dyptyku. Manna żyła w judaizmie Drugiej Świątyni życiem bujnym: Psalmy nazywają ją zbożem niebios i chlebem aniołów (Ps 78,24-25; cytat z tego psalmu padnie w 6,31), Księga Mądrości — pokarmem gotowym, o wszelkiej rozkoszy (Mdr 16,20), a tradycja rabiniczna i apokaliptyczna przechowały oczekiwanie, które dla rozdziału 6 jest kluczowe: jak pierwszy odkupiciel (Mojżesz) sprowadził mannę, tak drugi odkupiciel (Mesjasz) ją sprowadzi (Midrasz Kohelet Rabba do 1,9; por. 2 Barucha 29,8: zasobnik manny spadnie znowu w czasach Mesjasza; ukryte naczynie manny miało się objawić w dniach ostatecznych). Tłum, który po rozmnożeniu chleba pod Paschę woła „Prorok!\" i chce króla, a nazajutrz zażąda: co czynisz za znak? ojcowie nasi jedli mannę (6,30-31) — rozumuje więc ściśle wedle podręcznika epoki: nakarmienie na pustkowiu to legitymacja mesjańska, którą należy zdyskontować. Cała mowa 6,22-59 będzie korektą tego oczekiwania od wewnątrz: nie Mojżesz dał wam chleb z nieba, lecz Ojciec daje — i chlebem Bożym nie jest „co\", lecz „Kto\" (6,32-35); oczekiwanie drugiej manny spełni się — na sposób, którego żaden midrasz nie przewidział."
+      ],
+      [
+       "Mesjanizm polityczny: prorocy znaków i królowie z tłumu",
+       "Scena porwania na króla ma gęste tło źródłowe. Galilea i Judea I wieku wrzały od ruchów, które Józef Flawiusz opisuje z niechęcią i strachem: po śmierci Heroda korony sięgali przywódcy ludowi (Juda syn Ezechiasza, Szymon, Atronges — „każdy, kogo poparła zgraja, robił się królem\"); Judasz Galilejczyk wzniecił opór przeciw spisowi (Dz 5,37 zna go z imienia; jego duchowi spadkobiercy — zeloci — doprowadzą do wojny 66-70); osobną kategorią byli „prorocy znaków\": Teudas obiecywał rozcięcie Jordanu, Egipcjanin — upadek murów Jerozolimy (Dz 21,38 myli z nim Pawła), inni wiedli tłumy na pustynię, obiecując „znaki wolności\" — wszyscy świadomie inscenizowali scenariusz Wyjścia, wszyscy skończyli pod rzymskim mieczem. Pięć tysięcy mężczyzn (ἄνδρες!) zgromadzonych na pustkowiu pod święto wolności, elektryzowanych znakiem mojżeszowym — to w oczach każdego namiestnika gotowe powstanie; Janowe μέλλουσιν ἔρχεσθαι καὶ ἁρπάζειν (mają przyjść i porwać) brzmi jak raport wywiadu. Odmowa Jezusa jest więc także wyborem losu: mesjasz, który nie chce być królem chleba i miecza, traci tłum (6,66 — odejście wielu — jest polityczną konsekwencją 6,15) i zostaje z pytaniem do Dwunastu: czy i wy chcecie odejść? (6,67). Przed Piłatem obie linie się zetkną: oskarżony o to, czego odmówił, umrze z tytułem, który przyjął — ale wypisanym nad krzyżem, nie na sztandarze powstania."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Cud rozmnożenia wobec porządku stworzenia, dziękczynienie jako forma daru, królestwo nieprzyjęte z rąk tłumu i metafizyka imienia JA JESTEM — cztery węzły dyptyku w optyce tomistycznej; Tomasz komentuje scenę w Super Ioannem, cap. VI, lect. 1-3.",
+     "children": [
+      [
+       "1. Multiplicatio panum — cud w gramatyce stworzenia",
+       "Tomasz, za Augustynem, uczy patrzeć na rozmnożenie chleba bez magicznych skrótów: Bóg czyni co roku w polach to samo, co tu w rękach Syna — z niewielu ziaren mnóstwo chleba; cud nie jest zawieszeniem porządku natury, lecz jego suwerennym przyspieszeniem i obnażeniem: przyczyna pierwsza działa tym razem bez zwykłego orszaku przyczyn drugich (gleby, deszczu, młyna), by przywyknięcie nie zasłaniało Dawcy (miracula — mówi Augustyn — nie są przeciw naturze, lecz przeciw temu, co znamy z natury). Stąd podwójna korekta naszych odruchów. Przeciw deizmowi wdzięczności: nie tylko nadzwyczajne jest od Boga — każdy chleb jest rozmnożony, tylko wolniej; birkat ha-mazon i chrześcijańskie błogosławieństwo stołu to codzienna liturgia tej prawdy. I przeciw racjonalizacji cudu (moralizatorska legenda o tłumie, który „nauczył się dzielić\", jest egzegetycznie bezpodstawna — tekst zna jedno źródło chleba: ręce Jezusa po dziękczynieniu): Ewangelia opowiada o realnym nadmiarze z realnego ubóstwa, bo taka jest sygnatura działania Bożego — ex minimo plurimum. Tomistyczna nauka o współpracy dopełnia obraz: Bóg mnoży nie z niczego, lecz z pięciu chlebów przyniesionych — łaska zakłada naturę i jej dar; chłopiec z prowiantem jest w strukturze cudu przyczyną materialną w najdosłowniejszym i najgodniejszym sensie: causa, bez której Wszechmoc postanowiła się obejść nie chcieć."
+      ],
+      [
+       "2. Eucharystia w gestach: znak sakramentu przed sakramentem",
+       "Sekwencja wziął — dzięki czynił — rozdał jest dla Tomasza figurą Eucharystii nie przez pobożne skojarzenie, lecz przez strukturę: sakrament jest znakiem skutecznym, a nasza scena pokazuje jego anatomię na chlebie zwykłym, zanim mowa 6,51nn odsłoni chleb, którym jest Ciało. Trzy obserwacje scholastyczne. Materia: Bóg karmi przez rzeczy — nie stwarza sytości wprost w żołądkach, lecz daje chleb; taka jest logika sakramentalna w ogóle (i wcielenia: łaska idzie przez ciało), przeciw każdemu spirytualizmowi, dla którego materia jest zbędna. Forma: εὐχαριστήσας — dziękczynienie nie jest wstępem do cudu, jest jego formą; Syn niczego nie ma inaczej niż od Ojca, więc Jego branie jest zawsze dziękowaniem, a dziękowanie — otwarciem ręki Ojca: Eucharystia nazywa się dziękczynieniem, bo taka jest wewnętrzna gramatyka daru między Ojcem a Synem, w którą Msza nas włącza. Szafarstwo: u Jana rozdaje sam Jezus — i Tomasz powie o Eucharystii to samo: właściwym działającym każdego sakramentu jest Chrystus, kapłan działa in persona Christi; a Janowe „ile chcieli\" oraz „zbierzcie, aby nic nie zginęło\" dają dwie rubryki ducha: hojność bez reglamentacji łaski i cześć dla najmniejszej okruszyny — praktyka zbierania fragmentów po Komunii ma w 6,12 swoją kartę założycielską."
+      ],
+      [
+       "3. Rex fugitivus — królestwo, którego nie bierze się z rąk tłumu",
+       "Ucieczka przed koroną jest u Tomasza lekcją o naturze władzy Chrystusa i o pokusie każdej władzy. Chrystus jest królem z prawa natury Boskiej i z prawa odkupienia — nie potrzebuje elekcji; przyjąć królestwo z rąk tłumu znaczyłoby ufundować je na dobrach, które tłum umie wyliczyć (chleb, bezpieczeństwo, odwet na Rzymie) — a królestwo zbudowane na dobrach niższych upada, gdy tych dóbr zabraknie: dokładnie to stanie się w 6,66. Regnum Christi non est de hoc mundo (18,36) nie znaczy: nie dotyczy tego świata — znaczy: nie pochodzi z jego mechanizmów (aklamacji, przemocy, wymiany świadczeń); pochodzi z prawdy (18,37) i dlatego jedyną koronacją, jaką Jezus przyjmie, będzie ta ciernista. Scholastyka doda rozróżnienie, które chroni scenę przed odczytaniem apolitycznym: Chrystus nie gardzi dobrem wspólnym doczesnym (nakarmił!), lecz nie pozwala uczynić z siebie jego funkcjonariusza — porządek jest odwrotny: szukajcie najpierw królestwa, a to wszystko będzie dodane. Dla Kościoła i dla każdej duszy płynie stąd miara rachunku sumienia: ilekroć wspólnota wiary daje się „porwać na króla\" — użyć jako zaplecze czyjejś sprawy w zamian za chleb wpływów — tylekroć powtarza scenę, z której jej Pan uciekł na górę sam jeden; a milczenie tej ucieczki (Jezus nie wygłasza tłumowi wykładu) uczy, że przed niektórymi pokusami się nie dyskutuje — z nich się wychodzi."
+      ],
+      [
+       "4. Ego sum — imię, które jest metafizyką i pociechą",
+       "Dla Tomasza imię z Wj 3,14 — Qui est, Ten, Który Jest — jest najwłaściwszym imieniem Boga (S. Th. I, q. 13, a. 11): nie oznacza żadnej formy ani granicy, lecz samo istnienie — ipsum esse subsistens; wszystko inne ma istnienie, Bóg nim jest. Janowe ἐγώ εἰμι bez orzecznika, wypowiedziane po wodach chaosu, jest tym imieniem w akcji: Ten, który przychodzi do łodzi, nie jest jednym z bytów pośród fal — jest Tym, od którego fale mają byt; dlatego chodzi po nich jak po ziemi (Hi 9,8), bo relacja Stwórcy do żywiołu nie jest zapasami, lecz źródłowością. Scena splata w jedno dwie rzeczy, które nowożytność rozdzieliła: metafizykę i pociechę. „JESTEM\" bez „nie bójcie się\" byłoby teologią naturalną — prawdziwą i zimną; „nie bójcie się\" bez „JESTEM\" byłoby psychoterapią — ciepłą i bezsilną (czym uzasadnić nieustraszoność w realnej burzy?); Ewangelia daje zdanie pełne: fundamentem męstwa jest istnienie Boga obecnego — quia tu mecum es (Ps 23,4). Tomistyczna analiza bojaźni dopowiada resztę: timor żywiołu jest naturalny i niezawiniony; łaska nie tyle go gasi, ile przewyższa — bojaźń świata ustępuje nie przez perswazję, lecz przez większą Obecność. I ostatnia subtelność: uczniowie chcieli Go wziąć do łodzi — wolność pozostaje bramą także wobec teofanii; Bóg, który JEST, czeka na ludzkie velle, a gdy je znajdzie, cel podróży okazuje się już osiągnięty: kto ma w łodzi Tego, Który Jest, ten — metafizycznie rzecz biorąc — już dopłynął."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "body": "Rozmnożenie chleba to jedyny cud opowiedziany przez wszystkie cztery Ewangelie (Mk 6,32-44 z paralelami; Marek i Mateusz znają nadto drugie nakarmienie czterech tysięcy) — a Jan opowiada go we własnym stylu i we własnym celu. Zbieżność sekwencji z Markiem (nakarmienie → przejście przez morze → przeprawa do Kafarnaum/Genezaret → mowa o chlebie u Jana, spory u Marka) przy równoczesnej niezależności słownictwa wskazuje, że czwarty ewangelista czerpie ze starej, wspólnej pamięci tradycji, nie z lektury synoptyków; jego szczegóły własne — jęczmień, chłopiec, imiona Filipa i Andrzeja, dwieście denarów, 25-30 stadiów — mają fakturę wspomnienia, nie ornamentu. Warsztat widać w trzech zabiegach. Selekcja: Jan tnie wszystko, co odwraca uwagę od chrystologii (litość nad tłumem, dialogi organizacyjne, Piotr na falach, uciszenie wiatru) — zostaje czysty dyptyk: Dawca chleba, Kroczący po morzu. Reżyseria recepcji: każdemu znakowi towarzyszy błędny odbiór (Prorok-król po chlebie; przestrach na morzu), bo temat Jana to nie cuda, lecz wiara — i jej pomyłki; rozdział zbudowany jest jak lejek: od pięciu tysięcy najedzonych, przez szemrzących słuchaczy, po Dwunastu z pytaniem „czy i wy chcecie odejść?\" — ewangelista prowadzi czytelnika od entuzjazmu do decyzji. Przygotowanie mowy: narracja w. 1-21 jest skomponowana jako tekst źródłowy dla homilii 6,22-59 (wszystkie jej motywy — chleb, manna-Pascha, góra, morze, „szukacie mnie\" — są tu zawczasu położone); Jan pisze jak liturg: najpierw czytanie, potem wykład. Wreszcie rys wspólnotowy: dla Kościoła odciętego już od synagogi, czytającego tę kartę pod koniec I wieku, łódź w ciemności, do której „Jezus jeszcze nie przyszedł\", była autoportretem — a ἐγώ εἰμι z morza tym, czym pozostaje do dziś: całą odpowiedzią Ewangelii na noc Kościoła.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "body": "Duch Święty złożył w tym dyptyku katechezę o trzech darach i jednej pokusie. Dar pierwszy: chleb. Bóg karmi — realnie, obficie, przez to, co przyniesione; pięć chlebów chłopca w rękach Jezusa to obraz każdej ludzkiej odrobiny oddanej Bogu: nie „mimo że\" mała, lecz właśnie jako mała staje się tworzywem nadmiaru — i Kościół ma to czynić po Nim: sadzać głodnych w godności biesiadników, rozdawać bez reglamentacji, zbierać okruchy, bo u Boga nie ginie nic i nikt. Dar drugi: obecność. Między brzegami życia przychodzi noc, w której wiatr jest przeciwny, a Pan „jeszcze nie przyszedł\" — Pismo nie obiecuje ominięcia tej nocy; obiecuje Przychodzącego po falach i słowo, które jest imieniem: JA JESTEM, nie bójcie się. Wiara dojrzała różni się od dziecięcej nie tym, że się nie boi, lecz tym, skąd czerpie odwagę: nie z ustania burzy, lecz z Obecności w burzy. Dar trzeci: wolność. Jezus nie wsiada do łodzi nieproszony i nie zostaje z tłumem, który chce Go mieć — czeka na „chcieli Go przyjąć\"; łaska nie zna poboru, zna przyjęcie. A pokusa — jedna, za to nieśmiertelna: porwać Jezusa na króla; uczynić z Boga środek — do sytości, do władzy, do wygranej naszej sprawy. Odpowiedzią Pana nie jest wykład, lecz ucieczka na górę: Bóg nie da się mieć — da się przyjąć; kto chce Nim rządzić, zostaje sam z chlebem, który się kończy; kto Go przyjmuje do łodzi, jest już u brzegu. Nazajutrz nad jeziorem padnie zdanie, które to wszystko zbierze: Ja jestem chlebem życia — dwa dary w jednym imieniu; niniejsza perykopa jest jego narracyjnym przedsionkiem i kluczem.",
+     "children": []
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "2 Krl 4,42-44 → w. 5-13",
+       "Najbliższy wzorzec literacki znaku: człowiek z Baal-Szalisza przynosi mężowi Bożemu dwadzieścia chlebów jęczmiennych z pierwocin; Elizeusz każe dać ludowi; sługa (LXX: παιδάριον) protestuje: cóż to jest na stu ludzi?; prorok powtarza rozkaz z obietnicą: będą jeść i pozostawią — i pozostawili, według słowa Pana. Jan odtwarza schemat co do elementu (jęczmień — pierwociny — pacholę — protest liczbowy — rozkaz — nasycenie — resztki), by uwidocznić skok: u Elizeusza 20 chlebów na 100 osób i „pozostawili\"; u Jezusa 5 na 5000 i dwanaście koszów. Większy niż Elizeusz jest tutaj — a tłum, poprawnie odczytawszy klucz prorocki (w. 14: „ten jest Prorokiem\"), zatrzyma się o piętro za nisko: bo Jezus nie jest kolejnym ogniwem łańcucha mężów Bożych, lecz Tym, ku któremu łańcuch prowadził."
+      ],
+      [
+       "Wj 16; Lb 11; Ps 78,24-25 → w. 5.11.31",
+       "Zaplecze mannowe. Wj 16: chleb z nieba dawany co dnia, którego nie wolno gromadzić (a co zebrano ponad miarę — psuło się: przeciwieństwo Janowych koszów, bo dar mesjański nie zna korupcji nadmiaru); Lb 11,13: Mojżeszowe πόθεν — „skąd wezmę mięsa dla całego tego ludu?\" — którego echem jest pytanie Jezusa do Filipa, z odwróconym znakiem: Mojżesz pytał z rozpaczy, Jezus z zamysłu (sam wiedział, co miał czynić); Ps 78,24-25: zboże niebios i chleb mocarzy — psalm, który tłum zacytuje w 6,31, otwierając Jezusowi drzwi do wielkiej reinterpretacji: nie Mojżesz dał — Ojciec daje; nie „co\", lecz „Kto\". Perykopa narracyjna kładzie wszystkie te nici na stole; mowa eucharystyczna je zwiąże."
+      ],
+      [
+       "Pwt 18,15-18 → w. 14",
+       "Proroka jak ja wzbudzi ci Pan spośród twoich braci — obietnica Mojżesza, w judaizmie epoki żywa jako oczekiwanie Proroka czasów ostatecznych (1,21; 7,40; u Samarytan: Taheb; w Qumran: 4Q175 cytuje właśnie ten tekst w łańcuchu mesjańskim). Tłum aplikuje ją poprawnie formalnie (nakarmienie na pustkowiu = znak mojżeszowy) i błędnie materialnie (prorok jak Mojżesz = polityczny wyzwoliciel z programem aprowizacyjnym). Nowy Testament rozstrzygnie tożsamość Proroka w Dz 3,22-23 i 7,37 wprost o Jezusie; czwarta Ewangelia czyni to dyskretniej — pokazując Jezusa, który czyni znaki Mojżesza (chleb, morze), mówi jak Bóg Mojżesza (JA JESTEM) i osądza entuzjazm mojżeszowski tłumu ucieczką."
+      ],
+      [
+       "Hi 9,8; Ps 77,20 → w. 19",
+       "Dwa teksty o Bogu i morzu, które czynią z w. 19 teofanię. Hiob: Bóg sam rozpościera niebiosa i kroczy po grzbiecie morza — LXX oddaje: περιπατῶν ὡς ἐπ' ἐδάφους ἐπὶ θαλάσσης, kroczący po morzu jak po suchej ziemi; słownik Jana (περιπατοῦντα ἐπὶ τῆς θαλάσσης) jest kalką tej frazy — uczniowie widzą czynność, którą Pismo zastrzega dla Stwórcy. Ps 77,20 dodaje rys Wyjścia: przez morze wiodła Twoja droga… a śladów Twych nikt nie rozpoznał — Bóg przechodzący przez wody jako niewidzialny przewodnik Izraela staje się w Janowej nocy widzialny i bliski łodzi. Typologia dopina dyptyk: jak w. 1-15 były nową manną, tak w. 16-21 są nowym przejściem — Pascha w. 4 patronuje obu skrzydłom."
+      ],
+      [
+       "Ps 107,23-30 → w. 16-21",
+       "Psalm o żeglarzach jak scenariusz sceny: ci, którzy na statkach ruszyli na morze… widzieli dzieła Pana; rzekł — i zerwał się wicher burzliwy… wołali do Pana w swej niedoli… uciszył burzę w łagodny powiew… i przywiódł ich do upragnionej przystani (LXX: ἐπὶ λιμένα θελήματος αὐτῶν — do portu ich pragnienia; por. Janowe: łódź znalazła się przy ziemi, do której zmierzali). Jan opowiada psalm jako wydarzenie z Jezusem w roli Pana psalmu — najmocniejszy typ Janowej chrystologii pośredniej: nie tytuł, lecz rola zarezerwowana dla JHWH, obsadzona przez Jezusa. Że Jan pomija nawet uciszenie burzy, spieszy się bowiem do puenty o przystani — to jego zwykła ekonomia: mniej żywiołu, więcej Osoby."
+      ],
+      [
+       "Mk 6,30-52 (par. Mt 14; Łk 9) → w. 1-21",
+       "Jedyny cud wszystkich czterech Ewangelii — i jedyna dłuższa sekwencja narracyjna wspólna Janowi i Markowi (nakarmienie + kroczenie po morzu + przeprawa; Łukasz urywa po nakarmieniu). Zbieżności aż do liczb (pięć chlebów, dwie ryby, dwieście denarów, pięć tysięcy, dwanaście koszów) przy pełnej niezależności stylu dowodzą wspólnej tradycji starszej niż obie księgi. Różnice są teologicznie wymowne: u Marka rozdają uczniowie — u Jana sam Jezus; u Marka uczniowie nie rozumieli sprawy chlebów, bo serce ich było zatwardziałe (6,52) — Jan przenosi niezrozumienie na tłum, a uczniom zostawia strach i przyjęcie; u Marka Jezus „chciał ich minąć\" (6,48) — u Jana zbliża się do łodzi; Markowe ἐγώ εἰμι brzmi w kontekście bardziej jak „to ja\" — Janowe, obudowane całą serią 8,24-58, jest już jawnie imieniem. Dwie kamery, jedno wydarzenie: porównanie synoptyczne niczego tu nie rozmywa — pokazuje, jak wcześnie i jak zgodnie pamięć Kościoła związała chleb, morze i tożsamość Jezusa."
+      ],
+      [
+       "J 6,22-71 → całość",
+       "Perykopa jest przedsionkiem największej mowy tej Ewangelii. Wszystko, co tu opowiedziane, tam wróci przetworzone: chleb jęczmienny → chleb życia (6,35.48); manna Paschy → chleb prawdziwy z nieba (6,32); nasycenie → pokarm na życie wieczne (6,27); szukanie Jezusa przez tłum → „szukacie mnie, bo jedliście\" (6,26); dwanaście koszów, by nic nie zginęło → „abym nic nie stracił z tego, co mi dał Ojciec\" (6,39); a skandal królowania nie po myśli tłumu → skandal ciała danego na pokarm (6,51-58), po którym odejdzie wielu (6,66) i padnie pytanie o wierność Dwunastu z odpowiedzią Piotra: Panie, do kogo pójdziemy? Ty masz słowa życia wiecznego (6,68). Kto czyta w. 1-21 bez 22-71, ma znak bez klucza; kto czyta mowę bez znaku, ma tezy bez ciała — ewangelista skomponował rozdział jako całość liturgiczną: czytanie i homilię."
+      ],
+      [
+       "J 18,36-37 → w. 15",
+       "Odmowa korony z rąk tłumu znajduje swój komentarz autorski w procesie: królestwo moje nie jest z tego świata; gdyby było z tego świata, słudzy moi biliby się, abym nie został wydany… Tak, jestem królem: Ja się na to narodziłem, aby dać świadectwo prawdzie. Dwie sceny są lustrzane: w Galilei tłum chce koronować — Jezus ucieka; w Jerozolimie nikt nie chce Jego królestwa — Jezus je wyznaje; królem nie jest z aklamacji i nie przestaje nim być z odrzucenia, bo tytuł płynie z prawdy, nie z plebiscytu. Piłat, mimowolny teolog jak Kajfasz, wypisze tytuł na krzyżu w trzech językach (19,19-22) i nie pozwoli go zmienić: koronacja odmówiona w 6,15 dokona się na drzewie — dokładnie tak, jak Ewangelia rozumie wywyższenie."
+      ],
+      [
+       "Iz 43,1-13 → w. 20",
+       "Rozdział Izajasza jest matecznikiem formuły z morza: nie bój się, bo cię wykupiłem… gdy pójdziesz przez wody, Ja będę z tobą (43,1-2); wy jesteście moimi świadkami… abyście poznali i uwierzyli mi, że JA JESTEM (ani hu; LXX: ἐγώ εἰμι — 43,10); Ja, Pan, tylko Ja… (43,11.25). U Deutero-Izajasza formuła ani hu / ego eimi jest podpisem jedyności JHWH wobec bożków; Jan wkłada ją w usta Jezusa w scenerii, którą Izajasz sam podsuwa (wody, strach, wykupienie) — i to jest chrystologiczne sedno sceny: nie „ktoś od Boga\" uspokaja uczniów, lecz Głos znad wód Izajasza mówi we własnym imieniu. Seria ἐγώ εἰμι pociągnie tę nić aż po 8,58 i 18,5-6, gdzie imię powali na ziemię aresztujących: to samo słowo, które w burzy podnosi, w Ogrodzie obala — zależnie od tego, czy słucha go wiara, czy przemoc."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Liturgia",
+       "Perykopa otwiera najdłuższą Janową przygodę lekcjonarza rzymskiego: od 17. niedzieli zwykłej roku B (J 6,1-15) liturgia porzuca Marka na pięć niedziel i czyta cały rozdział szósty (6,24-35; 41-51; 51-58; 60-69) — jedyny taki wtręt w roku synoptycznym, dowód, że Kościół uznaje J 6 za swój podstawowy katechizm eucharystyczny; nasza scena pełni w tym cyklu rolę, którą pełniła w Ewangelii: czytania-matki przed homilią. W okresie wielkanocnym oba skrzydła dyptyku wracają w ferie II tygodnia (piątek: J 6,1-15; sobota: J 6,16-21) — tuż przed lekturą mowy eucharystycznej w tygodniu III. Rozmnożenie chleba jest też klasyczną perykopą uroczystości Najświętszego Ciała i Krwi Chrystusa (rok C czyta wersję Łukaszową; procesja Bożego Ciała z jej stacjami niesie ten sam obraz: Chleb rozdawany w drodze, pośród tłumu). Na Wschodzie kroczenie po morzu (w wersji Mateuszowej) ma własną niedzielę (IX po Pięćdziesiątnicy), a modlitwy nad chlebami (artoklasia) i liturgia przygotowania darów żyją słownictwem naszej sceny. Do liturgicznej recepcji należy wreszcie Didache 9 — najstarsza pozabiblijna modlitwa eucharystyczna, zbudowana wprost na obrazie z 6,12-13: rozproszone po górach klasma, zebrane w jedno — jak Kościół; werset o zbieraniu ułomków modli się w niej do dziś."
+      ],
+      [
+       "Ikonografia i duchowość",
+       "Chleby i ryby to najstarszy chrześcijański skrót Eucharystii: fresk z katakumb Kaliksta (III w.) kładzie kosze chlebów przy rybie — symbolu Chrystusa (ΙΧΘΥΣ); mozaika z Tabghi (V w., kościół Rozmnożenia nad samym jeziorem) z koszem chleba między dwiema rybami stała się bodaj najczęściej reprodukowanym obrazem Ziemi Świętej — do dziś nakrywa kamień czczony jako stół znaku; sztuka bizantyjska i romańska wiąże w jednym programie rozmnożenie, Kanę i Ostatnią Wieczerzę jako trzy uczty jednego Pana. Kroczenie po morzu weszło do ikonografii nawy — okrętu Kościoła (navis ecclesiae): od sarkofagów po barokowe plafony łódź miotana falami z Chrystusem przychodzącym po wodach obrazuje Kościół w historii; Piotrowa barka zawdzięcza tej rodzinie scen swoją karierę. W duchowości scena chleba dała regułę współpracy z łaską, powtarzaną od Ojców po współczesne kaznodziejstwo: przynieś, co masz — pięć chlebów wystarczy, jeśli oddane; chłopiec z prowiantem stał się patronem wszystkich, których dar wydaje się śmiesznie mały (od Tarcycjusza po anonimowych ofiarodawców), a „zbierzcie ułomki\" — dewizą chrześcijańskiej kultury niemarnowania, przywoływaną dziś także w nauczaniu społecznym (Franciszek o kulturze odrzucenia). Nokturn morski zaś jest jednym z najczęściej komentowanych obrazów życia wewnętrznego: noc, wiatr przeciwny, Pan przychodzący po wodach naszych lęków i Jego ἐγώ εἰμι — od Augustyna po Newmana (Lead, kindly Light) słowa te czyta się jako osobiste; wspólnoty przeżywające „noc Kościoła\" wracają do w. 17 jak do lustra: ciemność już nastała, a Jezus jeszcze nie przyszedł — i właśnie wtedy jest najbliżej."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Katena do dyptyku chleba i morza — sześć głosów: próba Filipa i pedagogia pytań (Chryzostom), pięć chlebów jęczmiennych jako Pisma otwarte (Augustyn), dziękczynienie i miara daru (Cyryl), ucieczka przed koroną (Augustyn), burza jako szkoła uczniów (Chryzostom), JA JESTEM na wodach (Cyryl).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: pod bliską Paschę Jezus rozgrywa na nowo dwa filary Wyjścia — karmi tłum na pustkowiu chlebem z dziecięcego prowiantu, obficie i z resztą dwunastu koszów, a nocą przechodzi przez wzburzone morze do łodzi swoich uczniów ze słowem, które jest imieniem Boga: JA JESTEM, nie bójcie się; i w obu scenach stawia tę samą granicę między dwoma sposobami chcenia Boga — tłum chce Go porwać, by służył ich głodowi i ich polityce, więc im znika; uczniowie chcą Go przyjąć do łodzi, więc są już u brzegu. Czytelnik zabiera z tego dyptyku trzy rzeczy na drogę: odwagę przynoszenia odrobiny (pięć chlebów w Jego rękach to nie mało), miarę zdrowej wiary (nie to, czy burza ustała, lecz Kto jest w niej obecny) i pytanie, które mowa eucharystyczna zaraz postawi ostro: czy szukam Jezusa dlatego, że nasyca — czy dlatego, że JEST; bo od odpowiedzi zależy, czy skończę wśród tych, którzy odeszli, czy z Piotrem: Panie, do kogo pójdziemy? Ty masz słowa życia wiecznego.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28 (nawiasy kwadratowe NA28 zachowane: [ὁ] Φίλιππος, βραχύ [τι] w w. 7); przekłady polskie wersetów są robocze (własne, dosłowne), terminy hebrajskie w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — św. Jan Chryzostom (Hom. in Io. 42-43), św. Augustyn (Tract. in Io. 24-25), św. Cyryl Aleksandryjski (In Io., ks. III) i św. Tomasz (Super Ioannem, cap. VI, lect. 1-3). Komentarz Orygenesa do tej części Ewangelii nie zachował się.*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "2 Krl",
+     4,
+     42,
+     4,
+     44,
+     "2 Krl 4,42-44",
+     "typologia",
+     "Elizeusz karmi stu ludzi dwudziestoma chlebami jęczmiennymi: pacholę, protest, nasycenie i resztki — matryca znaku"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     16,
+     1,
+     16,
+     36,
+     "Wj 16",
+     "typologia",
+     "manna — chleb z nieba czasu Wyjścia; paschalna rama w. 4 każe czytać nakarmienie jako nową mannę"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Lb",
+     11,
+     13,
+     11,
+     13,
+     "Lb 11,13",
+     "typologia",
+     "skąd wezmę mięsa dla całego tego ludu? — Mojżeszowe pothen, echo w pytaniu Jezusa do Filipa"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     78,
+     24,
+     78,
+     25,
+     "Ps 78,24-25",
+     "tlo",
+     "zboże niebios, chleb mocarzy — psalm o mannie, który tłum zacytuje w 6,31"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pwt",
+     18,
+     15,
+     18,
+     18,
+     "Pwt 18,15-18",
+     "tlo",
+     "proroka jak ja wzbudzi ci Pan — obietnica, którą tłum aplikuje do Jezusa w w. 14"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Hi",
+     9,
+     8,
+     9,
+     8,
+     "Hi 9,8",
+     "typologia",
+     "Bóg kroczy po grzbiecie morza (LXX: jak po ziemi) — czynność zastrzeżona dla Stwórcy, słownik w. 19"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     77,
+     20,
+     77,
+     20,
+     "Ps 77,20",
+     "typologia",
+     "przez morze wiodła Twoja droga, a śladów Twych nikt nie rozpoznał — Bóg Wyjścia przechodzący przez wody"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     107,
+     23,
+     107,
+     30,
+     "Ps 107,23-30",
+     "typologia",
+     "żeglarze w burzy: wołanie, uciszenie, przystań upragniona — scenariusz w. 16-21 z Jezusem w roli Pana psalmu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     43,
+     1,
+     43,
+     13,
+     "Iz 43,1-13",
+     "tlo",
+     "nie bój się… gdy pójdziesz przez wody, Ja będę z tobą… abyście uwierzyli, że JA JESTEM — matecznik formuły z w. 20"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mk",
+     6,
+     30,
+     6,
+     52,
+     "Mk 6,30-52",
+     "paralela",
+     "jedyny cud czterech Ewangelii i wspólna sekwencja chleb–morze; różnice redakcyjne teologicznie wymowne"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     14,
+     13,
+     14,
+     33,
+     "Mt 14,13-33",
+     "paralela",
+     "wersja Mateuszowa z Piotrem na falach i wyznaniem: prawdziwie jesteś Synem Bożym"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     6,
+     22,
+     6,
+     71,
+     "J 6,22-71",
+     "rozwiniecie",
+     "mowa eucharystyczna — homilia do znaku: chleb życia, szemranie, ciało za życie świata, odejście wielu, wyznanie Piotra"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     18,
+     36,
+     18,
+     37,
+     "J 18,36-37",
+     "rozwiniecie",
+     "królestwo moje nie jest z tego świata — autorski komentarz do odmowy korony z w. 15"
+    ],
+    [
+     [
+      "unit",
+      "w. 10–13",
+      1
+     ],
+     "1 Kor",
+     11,
+     23,
+     11,
+     24,
+     "1 Kor 11,23-24",
+     "paralela",
+     "wziął chleb i dzięki uczyniwszy, połamał — sekwencja eucharystyczna Pawła z tym samym eucharistesas"
+    ],
+    [
+     [
+      "unit",
+      "w. 16–21",
+      2
+     ],
+     "Wj",
+     3,
+     14,
+     3,
+     14,
+     "Wj 3,14",
+     "tlo",
+     "JESTEM, KTÓRY JESTEM — imię z płonącego krzewu; LXX: ego eimi ho on"
+    ],
+    [
+     [
+      "unit",
+      "w. 10–13",
+      0
+     ],
+     "Ez",
+     34,
+     14,
+     34,
+     15,
+     "Ez 34,14-15",
+     "typologia",
+     "Ja sam będę pasł moje owce na dobrym pastwisku — Pasterz rozdający paszę własnymi rękami"
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. VI, lect. 1-3",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład znaku chleba i przejścia przez morze: cud a porządek stworzenia, figura Eucharystii, królestwo Chrystusa, imię Qui est.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Relacja J 6 do tradycji synoptycznej i przedmarkowej, tło mannowe i eucharystyczne słownictwo sceny.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "C. K. Barrett",
+     "The Gospel According to St John, ad loc.",
+     [
+      "section",
+      "I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
+     ],
+     "Filologia w. 1 (podwójna nazwa jeziora), deminutywy paidarion i opsaria, ego eimi w w. 20 między identyfikacją a teofanią.",
+     "The Gospel According to St John"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana I, ad loc.",
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Polskie omówienie typologii Elizeusza i manny, mesjanizmu prorockiego oraz struktury rozdziału 6.",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 5–9",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 42",
+     "Chryzostom zatrzymuje się przy słowie „wystawiając go na próbę\" i broni go przed zgorszeniem: Bóg nie kusi ku złemu ani nie zbiera informacji — próbuje tak, jak złotnik próbuje złoto: by ujawnić, nie by się dowiedzieć. Jezus pyta Filipa, bo Filip potrzebował własnej odpowiedzi: musiał usłyszeć siebie liczącego denary, by potem zmierzyć odległość między swoim rachunkiem a Bożym działaniem — cuda zapominają się szybko, ale własna bezradność, raz wypowiedziana, staje się miarą pamięci o Tym, który jej zaradził. Kaznodzieja podziwia też porządek Mistrza: nie czyni znaku od razu, lecz pozwala wybrzmieć pytaniom, liczbom, protestom — bo głód pomnaża wdzięczność, a stwierdzony niedostatek uwiarygadnia nadmiar; tak i w naszym życiu — dodaje — Bóg zwleka nie z ubóstwa, lecz z pedagogii: chce, byśmy poznali, co jest w naszych rękach, zanim zobaczymy, co jest w Jego."
+    ],
+    [
+     "w. 10–13",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 24",
+     "Augustyn zaczyna od zasady, którą powtarzał całe życie: cud rozmnożenia nie jest większy od cudu żniwa — Ten, który z pięciu chlebów nakarmił pięć tysięcy, czyni co roku z garści ziaren łany zbóż; ale tamto spowszedniało, więc Bóg czyni rzeczy niezwykłe, by obudzić śpiących do podziwu nad zwykłymi (mirabilia cotidiana). Potem otwiera znak jak księgę: pięć chlebów to pięć ksiąg Mojżesza — jęczmiennych, bo w jęczmieniu trudno dobrać się do rdzenia przez twardą plewę: taka jest litera Starego Przymierza, w której ukryty jest pożywny rdzeń Chrystusa; chłopiec, który je niósł, a sam nie nakarmił, to lud Prawa — niosący Pisma, których mocy nie zna; łamanie chlebów to otwieranie Pism, a dwanaście koszów ułomków — to, czego tłum nie pojął, a co apostołowie zebrali dla Kościoła: głębsze rozumienie, przechowane w Dwunastu. Alegoria śmiała, lecz cel trzeźwy: znaki Chrystusa są słowami — kto pyta tylko, czy się najadł, ten zjadł znak i nie przeczytał."
+    ],
+    [
+     "w. 10–13",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. III",
+     "Cyryl czyta gesty w. 11 okiem liturga i teologa daru. Jezus wziął chleby — przyjął z rąk ludzkich to, co ludzkie, bo łaska nie gardzi tworzywem; uczynił dziękczynienie — nie dlatego, że potrzebował wyprosić moc (sam jest Mocą Ojca), lecz by nas nauczyć, że każdy dar zaczyna się od eucharystii: dziękczynienie jest formą, w której stworzenie prawdziwie posiada — kto bierze bez dziękowania, ten kradnie własność Ojca; kto dziękuje, temu odrobina rośnie w rękach. Rozdał sam — zauważa Cyryl — jak sam da siebie w tajemnicy błogosławieństwa (Eucharystii): między Chrystusem a karmionym nie staje nikt, kapłani są rękami, nie źródłem. A miara „ile chcieli\" objawia obyczaj Boży: Bóg daje nie według naszej zasługi ani swojej oszczędności, lecz według swojej hojności i naszej pojemności — głód jest u Niego miarą daru; dlatego przystępujący do stołu Pańskiego z małym pragnieniem odchodzi z małym udziałem, nie iżby dar był mały, lecz że naczynie było ciasne."
+    ],
+    [
+     "w. 14–15",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 25,1-5",
+     "Augustyn mierzy przepaść między tym, co tłum chciał dać, a tym, kim jest Ten, któremu chciano to dać: chcieli Go porwać i uczynić królem — Jego, który jest królem zawsze, bo królestwo ma nie od ludzi, lecz od Ojca; chcieć zrobić królem Syna Bożego to jak chcieć zapalić słońce pochodnią. Ucieczka Jezusa nie jest więc wzgardą dla ludzkich nadziei, lecz korektą ich kalendarza i ich treści: przyszedł teraz nie po to, by królować na sposób ziemski, lecz by być sądzonym, wyszydzonym i ukrzyżowanym — a królować przyjdzie w chwale, której nikt Mu nie nada aklamacją; kto chce Chrystusa-króla bez Chrystusa-ukrzyżowanego, ten chce korony bez krzyża i otrzyma ani jednej, ani drugiego. W ucieczce na górę samego widzi też Augustyn figurę: wysokość Jego samotności to wysokość Jego godności — tłum został na dole ze swoim projektem, jak zawsze zostaje na dole każda polityka, która chce Boga użyć zamiast Go uwielbić; a Pan zszedł z góry dopiero nocą — po wodach, do tych, którzy Go nie koronowali, lecz przyjęli."
+    ],
+    [
+     "w. 16–21",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 43",
+     "Chryzostom pyta, czemu Pan pozwolił uczniom wypłynąć bez siebie w noc i burzę — i odpowiada bez znieczulenia: bo ich kochał. Obecność cudotwórcy rozleniwia; nieobecność uczy tęsknić, wiosłować i czuwać. Burza jest u niego szkołą w trzech lekcjach: najpierw trud (dwadzieścia pięć, trzydzieści stadiów pod wiatr — Bóg pozwala się zmęczyć, by wybawienie nie zastało nas obojętnymi), potem strach (przestraszyli się Tego, na którego czekali — tak i my nie poznajemy Pana, gdy przychodzi inaczej, niż go sobie zamówiliśmy), wreszcie słowo, które wystarcza: JA JESTEM, nie bójcie się — nie „burza zaraz ustanie\", nie „nic wam nie grozi\", lecz obecność zamiast prognozy. Chryzostom dodaje obserwację duszpasterską, godną jego trzeźwości: Pan nie przyszedł na początku burzy, lecz pod jej koniec, gdy wyczerpali swoje — bo pomoc, która uprzedza wysiłek, psuje; ta, która przychodzi po nim, koronuje. Kto dziś wiosłuje w ciemności i liczy stadia, niech wie: opóźnienie nie jest nieobecnością — jest jej pedagogiką."
+    ],
+    [
+     "w. 16–21",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. III",
+     "Dla Cyryla kroczenie po morzu jest wykładem chrystologii bez jednego terminu technicznego: morze nie nosi nikogo — a nosi Tego, którego słucha jak Stwórcy; Ten sam, który przed chwilą jadł z tłumem chleb jęczmienny, idzie po falach jak po posadzce — oto dwie natury w jednym obrazie: prawdziwy człowiek zmęczonych uczniów i prawdziwy Bóg ujarzmionego żywiołu. Słowo ἐγώ εἰμι czyta Cyryl przez Izajasza i Wyjście: to nie przedstawienie się nocnego wędrowca, lecz imię, które na Horebie zapaliło krzew — wypowiedziane teraz nad wodami, jak niegdyś Duch unosił się nad wodami początku; dlatego skutkiem nie jest tylko ulga, lecz port: gdzie wchodzi Ten, Który Jest, tam podróż stworzenia dobiega celu, bo On jest i drogą, i brzegiem. A że uczniowie „chcieli Go wziąć do łodzi\" — w tym chceniu widzi Cyryl całą różnicę między Kościołem a tłumem: tłum chciał Go porwać dla siebie, uczniowie chcieli Go przyjąć do siebie; porwanie kończy się pustą górą, przyjęcie — ziemią, do której zmierzali."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "17. Niedziela zwykła, rok B",
+     "J 6,1-15",
+     "Otwarcie pięciu Janowych niedziel roku B (J 6): znak chleba jako czytanie-matka przed cyklem mowy eucharystycznej."
+    ],
+    [
+     "rzymski",
+     "Piątek i sobota II tygodnia Okresu Wielkanocnego",
+     "J 6,1-15; 6,16-21",
+     "Oba skrzydła dyptyku w ferialnej lekturze wielkanocnej, tuż przed mową o chlebie życia w tygodniu III."
+    ],
+    [
+     "bizantyjski",
+     "IX Niedziela po Pięćdziesiątnicy (Mt 14,22-34) i tradycja artoklasii",
+     "J 6 (par.)",
+     "Kroczenie po morzu w cyklu niedzielnym; błogosławieństwo pięciu chlebów (artoklasia) żyje obrazem znaku."
+    ],
+    [
+     "rzymski",
+     "Uroczystość Najświętszego Ciała i Krwi Chrystusa (tradycja perykopy rozmnożenia)",
+     "Łk 9,11-17 (rok C)",
+     "Rozmnożenie chleba w sercu święta Eucharystii — Chleb rozdawany w drodze, pośród tłumu; Didache 9 modli się słowami o zebranych ułomkach."
+    ]
+   ],
+   "textual": [
+    [
+     14,
+     "ὃ ἐποίησεν σημεῖον / ἃ ἐποίησεν σημεῖα",
+     "wariant lekcji",
+     "NA28: ὃ ἐποίησεν σημεῖον (znak, który uczynił — liczba pojedyncza; ℵ A L W Θ i większość); wariant: ἃ ἐποίησεν σημεῖα (znaki, które uczynił — P75 B 091 a).",
+     "Liczba pojedyncza wiąże reakcję tłumu z jednym konkretnym znakiem chleba i jest spójna z 6,26.30; liczba mnoga (mimo znakomitych świadków P75 B) wygląda na asymilację do w. 2 (oglądali znaki). Rzadki przypadek, w którym NA28 odstępuje od pary P75-B — pouczający dla adeptów krytyki tekstu: nawet najlepsi świadkowie ulegają harmonizacji; kontekst wewnętrzny przeważa."
+    ],
+    [
+     7,
+     "[ὁ] Φίλιππος / βραχύ [τι]",
+     "wariant lekcji",
+     "Dwa nawiasy NA28 w jednym wersecie: rodzajnik przed imieniem Filipa (obecny m.in. w P66 ℵ W, pominięty w P75 B) oraz zaimek τι po βραχύ (choć trochę / choć cokolwiek; wahanie świadków analogiczne).",
+     "Drobiazgi bez wpływu na sens, cenne jako okno na warsztat NA28: nawias kwadratowy dokumentuje nierozstrzygalność, zamiast ją ukrywać. Rodzajnik przy imionach własnych w narracji Janowej jest chwiejny w całej tradycji rękopiśmiennej; τι po βραχύ to naturalne wzmocnienie, które równie łatwo dopisać, jak opuścić. Egzegeza może oba miejsca pominąć milczeniem — aparat uczy tu raczej pokory niż teologii."
+    ],
+    [
+     11,
+     "διέδωκεν τοῖς ἀνακειμένοις",
+     "wariant lekcji",
+     "Po διέδωκεν znaczna część tradycji (ℵ* D Θ, rodzina bizantyjska; stąd Textus Receptus) dodaje: τοῖς μαθηταῖς, οἱ δὲ μαθηταὶ τοῖς ἀνακειμένοις — rozdał uczniom, a uczniowie spoczywającym. Tekst krótki (Jezus rozdaje bezpośrednio): P28vid P66 P75 ℵc A B L W.",
+     "Klasyczna harmonizacja z synoptykami (Mt 14,19: dał uczniom, a uczniowie tłumom), przy znakomitym poparciu tekstu krótkiego. Warta odnotowania, bo dotyka teologii: Janowy obraz Jezusa rozdającego osobiście — spójny z 6,51 (chleb, który JA dam) — kopiści „poprawili\" na obraz kościelnego pośrednictwa. Oba obrazy są prawdziwe teologicznie, ale tekst Jana ma swój własny akcent i warto mu go zostawić; przykład, jak wariant tekstualny bywa pierwszym komentarzem teologicznym."
+    ]
+   ],
+   "theme_links": [
+    [
+     "chleb życia (ἄρτος τῆς ζωῆς)",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "ἐγώ εἰμι — JA JESTEM",
+     [
+      "block",
+      "w. 16–21"
+     ]
+    ],
+    [
+     "znaki (σημεῖα) i wiara",
+     [
+      "block",
+      "w. 14–15"
+     ]
+    ],
+    [
+     "światłość i ciemność",
+     [
+      "block",
+      "w. 16–21"
+     ]
+    ],
+    [
+     "godzina Jezusa (ἡ ὥρα)",
+     [
+      "block",
+      "w. 14–15"
+     ]
+    ],
+    [
+     "wywyższenie (ὑψωθῆναι) — krzyż jako chwała",
+     [
+      "block",
+      "w. 14–15"
+     ]
+    ]
+   ],
+   "revision_note": "Dodano perykopę Rozmnożenie chleba i przejście przez morze (J 6,1-21) w pełnym opracowaniu: dyptyk exodusowy (nowa manna i nowe przejście przez morze), analiza filologiczna (podwójna nazwa jeziora, pothen z Lb 11,13, typologia Elizeusza z 2 Krl 4,42-44, sekwencja eucharystyczna w. 11, klasmata i Didache 9, Prorok i porwanie na króla, skotia i oupo, Hi 9,8 LXX, pierwsze absolutne ego eimi, Ps 107), sekcje II-VIII z podsekcjami, katena sześciu głosów, aparat (w. 14 semeion/semeia, nawiasy w. 7, harmonizacja w. 11), odniesienia, cytowania, liturgia (17. Niedziela B), nowe tematy chleb życia i ego eimi; status: ukończona"
+  }
+ ]
+}
