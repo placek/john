@@ -1,0 +1,988 @@
+{
+ "books": [],
+ "verses": {
+  "chapter": 7,
+  "items": [
+   [
+    14,
+    "Ἤδη δὲ τῆς ἑορτῆς μεσούσης ἀνέβη Ἰησοῦς εἰς τὸ ἱερὸν καὶ ἐδίδασκεν.",
+    "A gdy już święto było w połowie, Jezus wstąpił do świątyni i nauczał."
+   ],
+   [
+    15,
+    "ἐθαύμαζον οὖν οἱ Ἰουδαῖοι λέγοντες· πῶς οὗτος γράμματα οἶδεν μὴ μεμαθηκώς;",
+    "Dziwili się więc Żydzi, mówiąc: Jakże ten zna Pisma, skoro się nie uczył?"
+   ],
+   [
+    16,
+    "ἀπεκρίθη οὖν αὐτοῖς [ὁ] Ἰησοῦς καὶ εἶπεν· ἡ ἐμὴ διδαχὴ οὐκ ἔστιν ἐμὴ ἀλλὰ τοῦ πέμψαντός με·",
+    "Odpowiedział im więc Jezus i rzekł: Moja nauka nie jest moja, lecz Tego, który mnie posłał."
+   ],
+   [
+    17,
+    "ἐάν τις θέλῃ τὸ θέλημα αὐτοῦ ποιεῖν, γνώσεται περὶ τῆς διδαχῆς πότερον ἐκ τοῦ θεοῦ ἐστιν ἢ ἐγὼ ἀπ᾽ ἐμαυτοῦ λαλῶ.",
+    "Jeśli ktoś chce pełnić Jego wolę, pozna, czy ta nauka jest z Boga, czy ja mówię od siebie samego."
+   ],
+   [
+    18,
+    "ὁ ἀφ᾽ ἑαυτοῦ λαλῶν τὴν δόξαν τὴν ἰδίαν ζητεῖ· ὁ δὲ ζητῶν τὴν δόξαν τοῦ πέμψαντος αὐτὸν οὗτος ἀληθής ἐστιν καὶ ἀδικία ἐν αὐτῷ οὐκ ἔστιν.",
+    "Kto mówi od siebie samego, szuka własnej chwały; kto zaś szuka chwały Tego, który go posłał, ten jest prawdziwy i nie ma w nim nieprawości."
+   ],
+   [
+    19,
+    "Οὐ Μωϋσῆς δέδωκεν ὑμῖν τὸν νόμον; καὶ οὐδεὶς ἐξ ὑμῶν ποιεῖ τὸν νόμον. τί με ζητεῖτε ἀποκτεῖναι;",
+    "Czyż Mojżesz nie dał wam Prawa? A nikt z was nie pełni Prawa. Dlaczego usiłujecie mnie zabić?"
+   ],
+   [
+    20,
+    "ἀπεκρίθη ὁ ὄχλος· δαιμόνιον ἔχεις· τίς σε ζητεῖ ἀποκτεῖναι;",
+    "Odpowiedział tłum: Masz demona! Kto usiłuje cię zabić?"
+   ],
+   [
+    21,
+    "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς· ἓν ἔργον ἐποίησα καὶ πάντες θαυμάζετε.",
+    "Odpowiedział Jezus i rzekł im: Jednego dzieła dokonałem, a wszyscy się dziwicie."
+   ],
+   [
+    22,
+    "διὰ τοῦτο Μωϋσῆς δέδωκεν ὑμῖν τὴν περιτομήν — οὐχ ὅτι ἐκ τοῦ Μωϋσέως ἐστὶν ἀλλ᾽ ἐκ τῶν πατέρων — καὶ ἐν σαββάτῳ περιτέμνετε ἄνθρωπον.",
+    "Dlatego Mojżesz dał wam obrzezanie — nie że pochodzi ono od Mojżesza, lecz od ojców — i w szabat obrzezujecie człowieka."
+   ],
+   [
+    23,
+    "εἰ περιτομὴν λαμβάνει ἄνθρωπος ἐν σαββάτῳ ἵνα μὴ λυθῇ ὁ νόμος Μωϋσέως, ἐμοὶ χολᾶτε ὅτι ὅλον ἄνθρωπον ὑγιῆ ἐποίησα ἐν σαββάτῳ;",
+    "Jeśli człowiek przyjmuje obrzezanie w szabat, aby nie zostało naruszone Prawo Mojżesza, to czemu na mnie się gniewacie, że całego człowieka uczyniłem zdrowym w szabat?"
+   ],
+   [
+    24,
+    "μὴ κρίνετε κατ᾽ ὄψιν, ἀλλὰ τὴν δικαίαν κρίσιν κρίνετε.",
+    "Nie sądźcie według pozoru, lecz sądźcie sądem sprawiedliwym."
+   ],
+   [
+    25,
+    "Ἔλεγον οὖν τινες ἐκ τῶν Ἱεροσολυμιτῶν· οὐχ οὗτός ἐστιν ὃν ζητοῦσιν ἀποκτεῖναι;",
+    "Mówili więc niektórzy z mieszkańców Jerozolimy: Czyż to nie jest ten, którego usiłują zabić?"
+   ],
+   [
+    26,
+    "καὶ ἴδε παρρησίᾳ λαλεῖ καὶ οὐδὲν αὐτῷ λέγουσιν. μήποτε ἀληθῶς ἔγνωσαν οἱ ἄρχοντες ὅτι οὗτός ἐστιν ὁ χριστός;",
+    "A oto jawnie przemawia i nic mu nie mówią. Czyżby przełożeni naprawdę poznali, że ten jest Mesjaszem?"
+   ],
+   [
+    27,
+    "ἀλλὰ τοῦτον οἴδαμεν πόθεν ἐστίν· ὁ δὲ χριστὸς ὅταν ἔρχηται οὐδεὶς γινώσκει πόθεν ἐστίν.",
+    "Ale o tym wiemy, skąd jest; a gdy Mesjasz przyjdzie, nikt nie będzie wiedział, skąd jest."
+   ],
+   [
+    28,
+    "ἔκραξεν οὖν ἐν τῷ ἱερῷ διδάσκων ὁ Ἰησοῦς καὶ λέγων· κἀμὲ οἴδατε καὶ οἴδατε πόθεν εἰμί· καὶ ἀπ᾽ ἐμαυτοῦ οὐκ ἐλήλυθα, ἀλλ᾽ ἔστιν ἀληθινὸς ὁ πέμψας με, ὃν ὑμεῖς οὐκ οἴδατε·",
+    "Zawołał więc Jezus, nauczając w świątyni: I mnie znacie, i wiecie, skąd jestem. A przecież nie przyszedłem od siebie samego, lecz prawdziwy jest Ten, który mnie posłał, którego wy nie znacie."
+   ],
+   [
+    29,
+    "ἐγὼ οἶδα αὐτόν, ὅτι παρ᾽ αὐτοῦ εἰμι κἀκεῖνός με ἀπέστειλεν.",
+    "Ja Go znam, bo od Niego jestem i On mnie posłał."
+   ],
+   [
+    30,
+    "Ἐζήτουν οὖν αὐτὸν πιάσαι, καὶ οὐδεὶς ἐπέβαλεν ἐπ᾽ αὐτὸν τὴν χεῖρα, ὅτι οὔπω ἐληλύθει ἡ ὥρα αὐτοῦ.",
+    "Usiłowali więc Go pojmać, ale nikt nie podniósł na Niego ręki, bo jeszcze nie nadeszła Jego godzina."
+   ],
+   [
+    31,
+    "Ἐκ τοῦ ὄχλου δὲ πολλοὶ ἐπίστευσαν εἰς αὐτὸν καὶ ἔλεγον· ὁ χριστὸς ὅταν ἔλθῃ μὴ πλείονα σημεῖα ποιήσει ὧν οὗτος ἐποίησεν;",
+    "A z tłumu wielu uwierzyło w Niego i mówili: Czy Mesjasz, gdy przyjdzie, uczyni więcej znaków, niż ten uczynił?"
+   ],
+   [
+    32,
+    "ἤκουσαν οἱ Φαρισαῖοι τοῦ ὄχλου γογγύζοντος περὶ αὐτοῦ ταῦτα, καὶ ἀπέστειλαν οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι ὑπηρέτας ἵνα πιάσωσιν αὐτόν.",
+    "Usłyszeli faryzeusze, że tłum tak o Nim szemrze, i posłali arcykapłani i faryzeusze strażników, aby Go pojmali."
+   ],
+   [
+    33,
+    "εἶπεν οὖν ὁ Ἰησοῦς· ἔτι χρόνον μικρὸν μεθ᾽ ὑμῶν εἰμι καὶ ὑπάγω πρὸς τὸν πέμψαντά με.",
+    "Rzekł więc Jezus: Jeszcze krótki czas jestem z wami, a potem odchodzę do Tego, który mnie posłał."
+   ],
+   [
+    34,
+    "ζητήσετέ με καὶ οὐχ εὑρήσετέ [με], καὶ ὅπου εἰμὶ ἐγὼ ὑμεῖς οὐ δύνασθε ἐλθεῖν.",
+    "Będziecie mnie szukać i nie znajdziecie [mnie], a tam, gdzie ja jestem, wy przyjść nie możecie."
+   ],
+   [
+    35,
+    "εἶπον οὖν οἱ Ἰουδαῖοι πρὸς ἑαυτούς· ποῦ οὗτος μέλλει πορεύεσθαι ὅτι ἡμεῖς οὐχ εὑρήσομεν αὐτόν; μὴ εἰς τὴν διασπορὰν τῶν Ἑλλήνων μέλλει πορεύεσθαι καὶ διδάσκειν τοὺς Ἕλληνας;",
+    "Mówili więc Żydzi między sobą: Dokąd ten zamierza pójść, że my go nie znajdziemy? Czy zamierza iść do diaspory Greków i nauczać Greków?"
+   ],
+   [
+    36,
+    "τίς ἐστιν ὁ λόγος οὗτος ὃν εἶπεν· ζητήσετέ με καὶ οὐχ εὑρήσετέ [με], καὶ ὅπου εἰμὶ ἐγὼ ὑμεῖς οὐ δύνασθε ἐλθεῖν;",
+    "Cóż to za słowo, które powiedział: Będziecie mnie szukać i nie znajdziecie [mnie], a tam, gdzie ja jestem, wy przyjść nie możecie?"
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "διδαχή",
+   "didache",
+   "rzeczownik",
+   "nauka, nauczanie — nauka nie moja, lecz Tego, który mnie posłał (7,16)"
+  ],
+  [
+   "περιτομή",
+   "peritome",
+   "rzeczownik",
+   "obrzezanie — argument qal wachomer z 7,22-23: jeden członek wobec całego człowieka"
+  ],
+  [
+   "διασπορά",
+   "diaspora",
+   "rzeczownik",
+   "rozproszenie — Żydzi rozsiani wśród Greków; mimowolne proroctwo misji (7,35)"
+  ],
+  [
+   "πιάζω",
+   "piadzo",
+   "czasownik",
+   "pojmać, schwytać — czasownik nieudanych aresztowań aktu Namiotów (7,30.32.44; 8,20; 10,39)"
+  ],
+  [
+   "θαυμάζω",
+   "thaumadzo",
+   "czasownik",
+   "dziwić się — zdumienie wobec nauki bez szkoły (7,15) i jednego dzieła (7,21)"
+  ],
+  [
+   "κράζω",
+   "kradzo",
+   "czasownik",
+   "wołać, krzyczeć — uroczysty okrzyk objawienia (7,28.37; 12,44)"
+  ]
+ ],
+ "semitic": [
+  [
+   "קַל וָחֹמֶר",
+   "qal wachomer",
+   "hbr",
+   "lekkie i ciężkie — pierwsza reguła hermeneutyczna Hillela: wnioskowanie a minori ad maius; struktura argumentu z 7,22-23"
+  ],
+  [
+   "מִילָה",
+   "mila",
+   "hbr",
+   "obrzezanie — znak przymierza z Abrahamem (Rdz 17), dokonywany ósmego dnia nawet w szabat (Miszna, Szabat 18,3-19,4)"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "περιτομή",
+   "mila",
+   "obrzezanie ósmego dnia uchyla szabat wedle zgodnej halachy — Jezus przyjmuje tę zasadę i buduje na niej wniosek o uzdrowieniu całego człowieka"
+  ]
+ ],
+ "occurrences": [
+  [
+   "θαυμάζω",
+   15,
+   "ἐθαύμαζον"
+  ],
+  [
+   "διδαχή",
+   16,
+   "διδαχή"
+  ],
+  [
+   "διδαχή",
+   17,
+   "διδαχῆς"
+  ],
+  [
+   "δόξα",
+   18,
+   "δόξαν"
+  ],
+  [
+   "ἀλήθεια",
+   18,
+   "ἀληθής"
+  ],
+  [
+   "νόμος",
+   19,
+   "νόμον"
+  ],
+  [
+   "ζητέω",
+   19,
+   "ζητεῖτε"
+  ],
+  [
+   "θαυμάζω",
+   21,
+   "θαυμάζετε"
+  ],
+  [
+   "περιτομή",
+   22,
+   "περιτομήν"
+  ],
+  [
+   "σάββατον",
+   22,
+   "σαββάτῳ"
+  ],
+  [
+   "περιτομή",
+   23,
+   "περιτομήν"
+  ],
+  [
+   "ὑγιής",
+   23,
+   "ὑγιῆ"
+  ],
+  [
+   "σάββατον",
+   23,
+   "σαββάτῳ"
+  ],
+  [
+   "κρίσις",
+   24,
+   "κρίσιν"
+  ],
+  [
+   "παρρησία",
+   26,
+   "παρρησίᾳ"
+  ],
+  [
+   "κράζω",
+   28,
+   "ἔκραξεν"
+  ],
+  [
+   "ἀλήθεια",
+   28,
+   "ἀληθινός"
+  ],
+  [
+   "ἀποστέλλω",
+   29,
+   "ἀπέστειλεν"
+  ],
+  [
+   "πιάζω",
+   30,
+   "πιάσαι"
+  ],
+  [
+   "ὥρα",
+   30,
+   "ὥρα"
+  ],
+  [
+   "πιστεύω",
+   31,
+   "ἐπίστευσαν"
+  ],
+  [
+   "σημεῖον",
+   31,
+   "σημεῖα"
+  ],
+  [
+   "γογγύζω",
+   32,
+   "γογγύζοντος"
+  ],
+  [
+   "πιάζω",
+   32,
+   "πιάσωσιν"
+  ],
+  [
+   "ζητέω",
+   34,
+   "ζητήσετε"
+  ],
+  [
+   "διασπορά",
+   35,
+   "διασποράν"
+  ]
+ ],
+ "works": [],
+ "themes": [
+  [
+   "κρίσις — sąd, który się dokonuje",
+   "Janowy sąd jako samoosądzenie wobec światła (3,19-21): nie sądźcie po pozorze (7,24), na sąd przyszedłem (9,39), teraz odbywa się sąd nad tym światem (12,31); krisis nie jako trybunał na końcu, lecz jako rozdzielenie dokonujące się przy każdym spotkaniu ze Słowem."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 7,
+    "vs": 14,
+    "ce": 7,
+    "ve": 36,
+    "title": "Nauczanie w połowie święta",
+    "motto": "Doctrina mea non est mea (Moja nauka nie jest moja)",
+    "status": "ukonczona",
+    "position": 18
+   },
+   "intro": "W połowie Święta Namiotów Ten, który wszedł w ukryciu, staje w świątyni i naucza całkiem jawnie. Perykopa jest pierwszą wielką dysputą świąteczną: o pochodzenie nauki (moja nauka nie jest moja), o kryterium jej poznania (kto chce pełnić wolę Boga — pozna), o szabat rozstrzygnięty argumentem z obrzezania, o pochodzenie samego Nauczyciela (wiemy, skąd jest — a Mesjasz ma przyjść niepoznany) i o czas, który się kończy (jeszcze krótko jestem z wami). Wokół Jezusa wiruje całe miasto: zdumieni Żydzi, tłum wołający „masz demona\", jerozolimczycy świadomi spisku, wierzący z tłumu, wreszcie faryzeusze wysyłający straże — a między nimi On, nietykalny, bo jeszcze nie nadeszła Jego godzina; i rzucający zdanie, które słuchacze mimowolnie zamienią w proroctwo o nauczaniu Greków.",
+   "struktura": "Perykopa jest dysputą w dwóch odsłonach, spiętych ramą nieudanych zamachów (w. 19-20.25: zamiar zabójstwa; w. 30.32: próby pojmania — wszystkie bezsilne wobec godziny, w. 30b). Odsłona pierwsza (w. 14-24) toczy się o naukę i o Prawo: zdumienie uczonością bez szkoły (w. 15) Jezus rozbraja tezą o pochodzeniu nauki od Posyłającego (w. 16), kryterium jej weryfikacji (w. 17: pełnienie woli jako organ poznania) i testem chwały (w. 18: czyją chwałę głosi mówca); potem przechodzi do zaległej sprawy Betesdy (w. 19-24, jedyny czyn — sprzed półtora roku!): argument qal wachomer z obrzezania w szabat (w. 22-23) i wezwanie do sądu sprawiedliwego zamiast sądu z pozoru (w. 24). Odsłona druga (w. 25-36) toczy się o osobę i o czas: jerozolimczycy ważą mesjańskość Jezusa na szali doktryny o Mesjaszu ukrytym (w. 27: wiemy, skąd jest — a Mesjasza nikt nie będzie znał), na co Jezus odpowiada krzykiem pełnym ironii (w. 28-29: i mnie znacie, i wiecie skąd jestem — a nie znacie Tego, od którego jestem); wiara wielu z tłumu (w. 31) uruchamia pierwszą akcję instytucjonalną (w. 32: straże), a Jezus zamyka scenę enigmatem czasu (w. 33-34: jeszcze krótko... będziecie szukać i nie znajdziecie), który słuchacze obracają w mimowolne proroctwo misji do Greków (w. 35). Oś kompozycji: trzy pytania sceny — skąd nauka? skąd Nauczyciel? dokąd odchodzi? — są jednym pytaniem o Posyłającego; a klamra „szukania\" (w. 19: szukacie mnie zabić; w. 34: będziecie mnie szukać i nie znajdziecie) odmierza tragiczny łuk od szukania wrogiego do szukania spóźnionego.",
+   "blocks": [
+    {
+     "cs": 7,
+     "vs": 14,
+     "ce": 7,
+     "ve": 18,
+     "label": "w. 14–18",
+     "greek": "Ἤδη δὲ τῆς ἑορτῆς μεσούσης ἀνέβη Ἰησοῦς εἰς τὸ ἱερὸν καὶ ἐδίδασκεν. ἐθαύμαζον οὖν οἱ Ἰουδαῖοι λέγοντες· πῶς οὗτος γράμματα οἶδεν μὴ μεμαθηκώς; ἀπεκρίθη οὖν αὐτοῖς [ὁ] Ἰησοῦς καὶ εἶπεν· ἡ ἐμὴ διδαχὴ οὐκ ἔστιν ἐμὴ ἀλλὰ τοῦ πέμψαντός με· ἐάν τις θέλῃ τὸ θέλημα αὐτοῦ ποιεῖν, γνώσεται περὶ τῆς διδαχῆς πότερον ἐκ τοῦ θεοῦ ἐστιν ἢ ἐγὼ ἀπ᾽ ἐμαυτοῦ λαλῶ. ὁ ἀφ᾽ ἑαυτοῦ λαλῶν τὴν δόξαν τὴν ἰδίαν ζητεῖ· ὁ δὲ ζητῶν τὴν δόξαν τοῦ πέμψαντος αὐτὸν οὗτος ἀληθής ἐστιν καὶ ἀδικία ἐν αὐτῷ οὐκ ἔστιν.",
+     "transl": "A gdy już święto było w połowie, Jezus wstąpił do świątyni i nauczał. Dziwili się więc Żydzi, mówiąc: Jakże ten zna Pisma, skoro się nie uczył? Odpowiedział im więc Jezus i rzekł: Moja nauka nie jest moja, lecz Tego, który mnie posłał. Jeśli ktoś chce pełnić Jego wolę, pozna, czy ta nauka jest z Boga, czy ja mówię od siebie samego. Kto mówi od siebie samego, szuka własnej chwały; kto zaś szuka chwały Tego, który go posłał, ten jest prawdziwy i nie ma w nim nieprawości.",
+     "units": [
+      [
+       "τῆς ἑορτῆς μεσούσης ... ἐδίδασκεν",
+       "gdy święto było w połowie ... nauczał",
+       "Połowa święta — czwarty dzień z ośmiu — to moment przemyślany podwójnie. Dramaturgicznie: Jezus wszedł w ukryciu (7,10), przeczekał szczyt oczekiwań i pojawia się, gdy nikt już nie wypatruje — objawienie ma swój kairos także w skali tygodnia; wchodzi przy tym nie na dziedziniec zewnętrzny, lecz do ἱερόν jako nauczyciel: zasiada w krużgankach, gdzie rabini miewali swoje szkoły, i czyni to, czego bracia żądali — tyle że trybem katedry, nie estrady. Zdumienie w. 15 jest socjologicznie precyzyjne: γράμματα οἶδεν — zna Pisma (dosł. litery: umie się poruszać po zwojach, argumentować po rabinacku), μὴ μεμαθηκώς — nie terminując u żadnego mistrza. Edukacja rabiniczna była łańcuchem: uczeń (talmid) latami służył uczonemu, by potem nauczać „w imieniu\" swojego nauczyciela — powoływanie się na szkołę było legitymacją nauki; człowiek bez szkoły a z nauką był anomalią budzącą podejrzenie (por. Dz 4,13 o Piotrze i Janie: ludzie nieuczeni i prości). Pytanie tłumu jest więc pytaniem o ordynację: kto ci dał prawo nauczać? — i dokładnie na nie odpowie w. 16: mam Mistrza, tylko wyższego, niż sądzicie."
+      ],
+      [
+       "ἡ ἐμὴ διδαχὴ οὐκ ἔστιν ἐμή",
+       "moja nauka nie jest moja",
+       "Odpowiedź jest paradoksem tak ścisłym, że aż gramatycznym: nauka MOJA — nie jest MOJA. Jezus nie mówi: „nie mam szkoły\" ani „jestem samoukiem\" — wskazuje swojego Nauczyciela: Tego, który mnie posłał; Jego ordynacją jest posłanie, Jego szkołą — łono Ojca (1,18), Jego cytowaniem „w imieniu mistrza\" — całe życie (5,19: Syn nie może czynić nic od siebie). Formuła jest chrystologią w pigułce, którą Ojcowie czytali trynitarnie: nauka nie jest „Jego własna\", bo Syn niczego nie ma z siebie — wszystko, łącznie z bóstwem, ma od Ojca przez odwieczne zrodzenie; „nie moja\" nie umniejsza więc, lecz uwzniośla: to nauka mająca źródło w samym Źródle. Zarazem zdanie jest regułą wszelkiego autentycznego nauczania w Kościele: kaznodzieja, teolog i katecheta mówią prawdziwie tylko jako posłani — „biada mi, gdybym głosił siebie\"; nauka, która jest „moja\" w sensie własności i autopromocji, już przez to samo przestaje być Chrystusowa. Test przyjdzie w w. 18: pytaj, czyją chwałę głosi mówiący — a poznasz, czyj jest."
+      ],
+      [
+       "ἐάν τις θέλῃ τὸ θέλημα αὐτοῦ ποιεῖν, γνώσεται",
+       "jeśli ktoś chce pełnić Jego wolę — pozna",
+       "Werset 17 jest jednym z najważniejszych zdań epistemologii biblijnej: kryterium poznania nauki Bożej nie jest najpierw analiza, lecz posłuszeństwo — kto CHCE PEŁNIĆ wolę Boga, POZNA, czy nauka jest z Boga. Porządek jest odwrotny niż w poznaniu przedmiotów: rzeczy poznaje się z dystansu, osoby — przez zaufanie, a Boga — przez posłuszeństwo woli; wola oczyszczona jest organem poznania prawd, które nie są neutralne dla życia. To nie jest antyintelektualizm — to realizm: nauka Jezusa nie jest twierdzeniem z geometrii, które widać niezależnie od charakteru patrzącego; jest wezwaniem, które rozumie się od środka, wchodząc — jak muzykę rozumie grający, a drogę idący. Augustyn odleje to w swoją najsłynniejszą formułę hermeneutyczną: crede ut intelligas — uwierz, abyś zrozumiał (a Anzelm doda: fides quaerens intellectum); Pascal powie o prawdach Bożych, że trzeba je kochać, aby je znać. Zdanie ma też ostrze diagnostyczne, tnące w obie strony: niejedna „trudność intelektualna\" wobec wiary jest w istocie trudnością moralną (nauka przeszkadza życiu, więc rozum szuka kontrargumentów) — i odwrotnie: kto zaczyna pełnić wolę Boga w rzeczach małych, temu wielkie twierdzenia wiary zaczynają świtać bez nowych argumentów. Współczesna teologia nazwie to poznaniem przez konnaturalność; Ewangelia mówi prościej: chcieć pełnić — to klucz do wiedzieć."
+      ]
+     ]
+    },
+    {
+     "cs": 7,
+     "vs": 19,
+     "ce": 7,
+     "ve": 24,
+     "label": "w. 19–24",
+     "greek": "Οὐ Μωϋσῆς δέδωκεν ὑμῖν τὸν νόμον; καὶ οὐδεὶς ἐξ ὑμῶν ποιεῖ τὸν νόμον. τί με ζητεῖτε ἀποκτεῖναι; ἀπεκρίθη ὁ ὄχλος· δαιμόνιον ἔχεις· τίς σε ζητεῖ ἀποκτεῖναι; ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς· ἓν ἔργον ἐποίησα καὶ πάντες θαυμάζετε. διὰ τοῦτο Μωϋσῆς δέδωκεν ὑμῖν τὴν περιτομήν — οὐχ ὅτι ἐκ τοῦ Μωϋσέως ἐστὶν ἀλλ᾽ ἐκ τῶν πατέρων — καὶ ἐν σαββάτῳ περιτέμνετε ἄνθρωπον. εἰ περιτομὴν λαμβάνει ἄνθρωπος ἐν σαββάτῳ ἵνα μὴ λυθῇ ὁ νόμος Μωϋσέως, ἐμοὶ χολᾶτε ὅτι ὅλον ἄνθρωπον ὑγιῆ ἐποίησα ἐν σαββάτῳ; μὴ κρίνετε κατ᾽ ὄψιν, ἀλλὰ τὴν δικαίαν κρίσιν κρίνετε.",
+     "transl": "Czyż Mojżesz nie dał wam Prawa? A nikt z was nie pełni Prawa. Dlaczego usiłujecie mnie zabić? Odpowiedział tłum: Masz demona! Kto usiłuje cię zabić? Odpowiedział Jezus i rzekł im: Jednego dzieła dokonałem, a wszyscy się dziwicie. Dlatego Mojżesz dał wam obrzezanie — nie że pochodzi ono od Mojżesza, lecz od ojców — i w szabat obrzezujecie człowieka. Jeśli człowiek przyjmuje obrzezanie w szabat, aby nie zostało naruszone Prawo Mojżesza, to czemu na mnie się gniewacie, że całego człowieka uczyniłem zdrowym w szabat? Nie sądźcie według pozoru, lecz sądźcie sądem sprawiedliwym.",
+     "units": [
+      [
+       "τί με ζητεῖτε ἀποκτεῖναι; ... δαιμόνιον ἔχεις",
+       "dlaczego usiłujecie mnie zabić? ... masz demona!",
+       "Jezus wywleka na światło to, co miasto wie, a czego tłum świąteczny nie wie: zamiar zabójstwa, otwarty od sprawy Betesdy (5,18) i potwierdzony w 7,1.25. Odpowiedź tłumu — δαιμόνιον ἔχεις, masz demona (tu w sensie: bredzisz w obłędzie, kto by cię chciał zabijać?) — jest pierwszą z serii tej obelgi (8,48.52; 10,20) i ma swoją ironię dramaturgiczną: pielgrzymi z prowincji naprawdę nie wiedzą o planach elit (jerozolimczycy w w. 25 wiedzą doskonale); oskarżenie o paranoję pada więc z ust nieświadomych na Tego, który widzi trzeźwo. Zdanie ramowe „nikt z was nie pełni Prawa\" jest zaś logicznym zawiasem sceny: powołujecie się na Mojżesza przeciw mnie (sprawa szabatu) — a łamiecie Mojżesza w przykazaniu „nie zabijaj\", zabijać mnie usiłując; ten, kto sądzi w imię Prawa z morderstwem w sercu, sam stoi poza Prawem (por. w. 51, gdzie Nikodem upomni się o proceduralną sprawiedliwość tego samego Prawa). Diagnoza sięga głębiej niż polemika: Prawo bez pełnienia jest legitymacją, nie życiem — i najgorliwsi strażnicy litery bywają jej pierwszymi ofiarami."
+      ],
+      [
+       "εἰ περιτομὴν λαμβάνει ἄνθρωπος ἐν σαββάτῳ ... ὅλον ἄνθρωπον ὑγιῆ",
+       "jeśli obrzezanie w szabat ... całego człowieka zdrowym",
+       "Argument w. 22-23 jest wzorcowym qal wachomer (a minori ad maius, „od lekkiego do ciężkiego\") — pierwszą regułą hermeneutyczną Hillela, prowadzonym na wspólnej przesłance: gdy ósmy dzień od narodzin (Rdz 17,12; Kpł 12,3) wypada w szabat, obrzezanie się dokonuje — mila uchyla szabat (halacha bezsporna: Miszna, Szabat 18,3-19,2; Nedarim 3,11). Wniosek: jeśli wolno w szabat naznaczyć przymierzem JEDEN członek ciała (i to z naruszeniem tkanki!), o ileż bardziej wolno uczynić CAŁEGO człowieka zdrowym (ὅλον ἄνθρωπον ὑγιῆ — fraza-klucz: uzdrowienie z Betesdy jako całościowe, nie punktowe). Jezus argumentuje więc nie przeciw Prawu, lecz wewnątrz jego własnej logiki — i po rabinacku: zachowały się bliźniacze rozumowania tannaitów (r. Eliezer ben Azaria i in., Tosefta Szabat 15,16; Mek. do Wj 31,13: jeśli mila, dotycząca jednego z 248 członków, uchyla szabat, tym bardziej ratowanie całego życia) — tyle że tam wniosek służył pikuach nefesz (ratowaniu życia zagrożonego), a Jezus rozszerza go na pełne uzdrowienie człowieka: szabat jest PO TO, by człowiek był cały. Nawias o ojcach (obrzezanie nie od Mojżesza, lecz od patriarchów) dodaje precyzji: przymierze starsze niż Synaj ma pierwszeństwo przed przepisem Synaju — argument, który Paweł poprowadzi dalej w sprawie wiary Abrahama (Ga 3,17). Scena jest wzorem sporu religijnego prowadzonego uczciwie: z wnętrza wspólnych źródeł, o sens prawa, nie o jego zniesienie."
+      ],
+      [
+       "μὴ κρίνετε κατ᾽ ὄψιν",
+       "nie sądźcie według pozoru",
+       "Zwieńczenie dysputy jest maksymą o sądzeniu: κατ᾽ ὄψιν — po wyglądzie, po powierzchni zjawiska (uzdrowienie w szabat WYGLĄDA na złamanie przepisu); δικαία κρίσις — sąd sprawiedliwy, ważący istotę (uzdrowienie JEST spełnieniem celu szabatu). Fraza ma rodowód dostojny: tak sądzi Mesjasz Izajaszowy — „nie będzie sądził po tym, co widzą oczy... ale rozsądzi biednych sprawiedliwie\" (Iz 11,3-4); tak Bóg poucza Samuela przy wyborze Dawida: „człowiek patrzy na to, co widoczne dla oczu, Pan patrzy na serce\" (1 Sm 16,7); i tak nakazuje Tora sędziom: „sprawiedliwie sądź bliźniego\" (Kpł 19,15), „sprawiedliwości, sprawiedliwości szukaj\" (Pwt 16,20 — tekst czytany w cyklu synagogalnym u progu jesieni!). Imperatyw jest przy tym w liczbie mnogiej i w czasie teraźniejszym: przestańcie sądzić z pozoru — nawyk, nie pojedynczy błąd. W ustach Jezusa zdanie pracuje na trzech piętrach: broni sprawy Betesdy (osądzonej po pozorze przepisu), przygotowuje spór o Jego pochodzenie (w. 27: sądzą po pozorze metryki — „wiemy, skąd jest\"), i ustanawia regułę wszelkiego sądu w Kościele i sumieniu: pozór jest pierwszym świadkiem, którego należy przesłuchać — i ostatnim, któremu wolno uwierzyć."
+      ]
+     ]
+    },
+    {
+     "cs": 7,
+     "vs": 25,
+     "ce": 7,
+     "ve": 31,
+     "label": "w. 25–31",
+     "greek": "Ἔλεγον οὖν τινες ἐκ τῶν Ἱεροσολυμιτῶν· οὐχ οὗτός ἐστιν ὃν ζητοῦσιν ἀποκτεῖναι; καὶ ἴδε παρρησίᾳ λαλεῖ καὶ οὐδὲν αὐτῷ λέγουσιν. μήποτε ἀληθῶς ἔγνωσαν οἱ ἄρχοντες ὅτι οὗτός ἐστιν ὁ χριστός; ἀλλὰ τοῦτον οἴδαμεν πόθεν ἐστίν· ὁ δὲ χριστὸς ὅταν ἔρχηται οὐδεὶς γινώσκει πόθεν ἐστίν. ἔκραξεν οὖν ἐν τῷ ἱερῷ διδάσκων ὁ Ἰησοῦς καὶ λέγων· κἀμὲ οἴδατε καὶ οἴδατε πόθεν εἰμί· καὶ ἀπ᾽ ἐμαυτοῦ οὐκ ἐλήλυθα, ἀλλ᾽ ἔστιν ἀληθινὸς ὁ πέμψας με, ὃν ὑμεῖς οὐκ οἴδατε· ἐγὼ οἶδα αὐτόν, ὅτι παρ᾽ αὐτοῦ εἰμι κἀκεῖνός με ἀπέστειλεν. Ἐζήτουν οὖν αὐτὸν πιάσαι, καὶ οὐδεὶς ἐπέβαλεν ἐπ᾽ αὐτὸν τὴν χεῖρα, ὅτι οὔπω ἐληλύθει ἡ ὥρα αὐτοῦ. Ἐκ τοῦ ὄχλου δὲ πολλοὶ ἐπίστευσαν εἰς αὐτὸν καὶ ἔλεγον· ὁ χριστὸς ὅταν ἔλθῃ μὴ πλείονα σημεῖα ποιήσει ὧν οὗτος ἐποίησεν;",
+     "transl": "Mówili więc niektórzy z mieszkańców Jerozolimy: Czyż to nie jest ten, którego usiłują zabić? A oto jawnie przemawia i nic mu nie mówią. Czyżby przełożeni naprawdę poznali, że ten jest Mesjaszem? Ale o tym wiemy, skąd jest; a gdy Mesjasz przyjdzie, nikt nie będzie wiedział, skąd jest. Zawołał więc Jezus, nauczając w świątyni: I mnie znacie, i wiecie, skąd jestem. A przecież nie przyszedłem od siebie samego, lecz prawdziwy jest Ten, który mnie posłał, którego wy nie znacie. Ja Go znam, bo od Niego jestem i On mnie posłał. Usiłowali więc Go pojmać, ale nikt nie podniósł na Niego ręki, bo jeszcze nie nadeszła Jego godzina. A z tłumu wielu uwierzyło w Niego i mówili: Czy Mesjasz, gdy przyjdzie, uczyni więcej znaków, niż ten uczynił?",
+     "units": [
+      [
+       "ὁ δὲ χριστὸς ὅταν ἔρχηται οὐδεὶς γινώσκει πόθεν ἐστίν",
+       "a gdy Mesjasz przyjdzie, nikt nie będzie wiedział, skąd jest",
+       "Jerozolimczycy — lepiej poinformowani od pielgrzymów (wiedzą o zamiarze zabójstwa) i przez to bardziej cyniczni — rozstrzygają kwestię mesjańską jednym kryterium: doktryną Mesjasza ukrytego. W judaizmie epoki krążyło przekonanie (poświadczone u Justyna, Dial. 8,4; 110,1: „Mesjasz, nawet jeśli się narodził, pozostaje nieznany — i sam siebie nie zna — dopóki nie przyjdzie Eliasz i go nie namaści\"; por. apokaliptyczny motyw Mesjasza objawionego z ukrycia w 4 Ezd 7,28; 13,32), że pochodzenie Pomazańca będzie tajemnicą do dnia objawienia; skoro zaś o Jezusie „wiemy, skąd jest\" (Nazaret, rodzina, warsztat — por. 6,42), kandydatura upada. Ironia Janowa jest tu dwupiętrowa. Piętro pierwsze: kryterium jest wybiórcze — inni z tego samego tłumu odrzucą Go za chwilę na podstawie kryterium DOKŁADNIE przeciwnego (7,41-42: Mesjasz ma pochodzić z Betlejem, a jego pochodzenie ZNAMY być powinno); gdy serce już wybrało „nie\", każde kryterium będzie pasować. Piętro drugie: sami mówią prawdę, której nie rozumieją — pochodzenie Mesjasza ISTOTNIE jest nieznane, tyle że nie w sensie adresu: „skąd\" Jezusa to łono Ojca, i tego właśnie nie zna nikt z ważących Jego metrykę. Scena jest studium przedwczesnej pewności religijnej: najskuteczniejszą zasłoną przed tajemnicą nie jest niewiedza, lecz wiedza połowiczna, pewna siebie — „wiemy, skąd jest\"."
+      ],
+      [
+       "ἔκραξεν ... κἀμὲ οἴδατε καὶ οἴδατε πόθεν εἰμί",
+       "zawołał ... i mnie znacie, i wiecie, skąd jestem",
+       "Ἔκραξεν — zawołał donośnie: u Jana ten czasownik sygnalizuje uroczyste obwieszczenia (7,28.37; 12,44; por. 1,15 o Chrzcicielu): to nie odpowiedź w dyspucie, lecz proklamacja na cały dziedziniec. Jej pierwsze zdanie balansuje na ostrzu ironii — „i mnie znacie, i wiecie, skąd jestem\": można je czytać jako gorzkie przyznanie (tak, znacie moją metrykę galilejską) natychmiast przebite odwróceniem (a nie znacie Tego, od którego naprawdę jestem — więc nie wiecie nic); część egzegetów słyszy tu wręcz pytanie retoryczne z niedowierzaniem: „więc mnie znacie? i wiecie, skąd jestem?\". Sedno jest w rozróżnieniu dwóch „skąd\": genealogia i geografia (dostępne spisom ludności) — oraz pochodzenie w sensie posłania i wyjścia od Ojca (παρ᾽ αὐτοῦ εἰμι: OD Niego jestem — pochodzenie odwieczne; κἀκεῖνός με ἀπέστειλεν: posłanie w czasie). Zdanie „prawdziwy jest Ten, który mnie posłał, którego wy NIE ZNACIE\" jest zaś najcięższym oskarżeniem, jakie można wypowiedzieć na dziedzińcu świątyni: strażnicy monoteizmu nie znają Boga, którego strzegą — nie w sensie teoretycznym (znają Jego imię i Prawo), lecz w Janowym sensie poznania-komunii; poznać Ojca można tylko przez Tego, który jest od Niego (1,18; 14,7). Tu spór o metrykę Jezusa odsłania swoją prawdziwą stawkę: nie o to idzie, skąd jest Jezus — o to, czy znamy Boga."
+      ],
+      [
+       "οὐδεὶς ἐπέβαλεν ἐπ᾽ αὐτὸν τὴν χεῖρα, ὅτι οὔπω ἐληλύθει ἡ ὥρα αὐτοῦ",
+       "nikt nie podniósł na Niego ręki, bo jeszcze nie nadeszła Jego godzina",
+       "Pierwsza próba pojmania (πιάσαι) i pierwsze z serii zdań o dziwnej nietykalności: nikt nie podniósł ręki, BO jeszcze nie nadeszła godzina (powtórzone w 8,20; por. 7,44; 10,39). Narrator nie opisuje mechanizmu — żadnego cudu, oślepienia straży, ucieczki; po prostu przyczynowość wyższego rzędu: ὅτι, „bo\" — jakby między zamiarem a ręką stała niewidzialna rubryka Bożego kalendarza. To jest narracyjny dowód tezy z 7,6: czas Jezusa jest w ręku Ojca — spiskowcy mogą planować, straże krążyć, a godzina pozostaje nieosiągalna dla ludzkiej inicjatywy, dopóki Syn sam jej nie ogłosi (12,23) i sam się nie wyda (18,4-8; por. 10,18: nikt mi życia nie zabiera — ja je kładę od siebie). Wiara „wielu z tłumu\" (w. 31) ma zaś kształt charakterystycznie niedokończony: rodzi się z arytmetyki znaków („czy Mesjasz uczyni WIĘCEJ znaków?\") — jest realna (ἐπίστευσαν, Jan nie dezawuuje), ale oparta na rachunku, nie na poznaniu Posyłającego; ta sama Ewangelia pokaże, jak wiara ze znaków bywa krucha (2,23-25; 6,26.66). Zestawienie w jednej scenie bezsilnej wrogości i połowicznej wiary jest lekcją o obu: ani nienawiść nie może przyspieszyć godziny, ani entuzjazm nie zastąpi poznania — wszystko rozstrzygnie się w godzinie, którą wyznacza Ojciec."
+      ]
+     ]
+    },
+    {
+     "cs": 7,
+     "vs": 32,
+     "ce": 7,
+     "ve": 36,
+     "label": "w. 32–36",
+     "greek": "ἤκουσαν οἱ Φαρισαῖοι τοῦ ὄχλου γογγύζοντος περὶ αὐτοῦ ταῦτα, καὶ ἀπέστειλαν οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι ὑπηρέτας ἵνα πιάσωσιν αὐτόν. εἶπεν οὖν ὁ Ἰησοῦς· ἔτι χρόνον μικρὸν μεθ᾽ ὑμῶν εἰμι καὶ ὑπάγω πρὸς τὸν πέμψαντά με. ζητήσετέ με καὶ οὐχ εὑρήσετέ [με], καὶ ὅπου εἰμὶ ἐγὼ ὑμεῖς οὐ δύνασθε ἐλθεῖν. εἶπον οὖν οἱ Ἰουδαῖοι πρὸς ἑαυτούς· ποῦ οὗτος μέλλει πορεύεσθαι ὅτι ἡμεῖς οὐχ εὑρήσομεν αὐτόν; μὴ εἰς τὴν διασπορὰν τῶν Ἑλλήνων μέλλει πορεύεσθαι καὶ διδάσκειν τοὺς Ἕλληνας; τίς ἐστιν ὁ λόγος οὗτος ὃν εἶπεν· ζητήσετέ με καὶ οὐχ εὑρήσετέ [με], καὶ ὅπου εἰμὶ ἐγὼ ὑμεῖς οὐ δύνασθε ἐλθεῖν;",
+     "transl": "Usłyszeli faryzeusze, że tłum tak o Nim szemrze, i posłali arcykapłani i faryzeusze strażników, aby Go pojmali. Rzekł więc Jezus: Jeszcze krótki czas jestem z wami, a potem odchodzę do Tego, który mnie posłał. Będziecie mnie szukać i nie znajdziecie [mnie], a tam, gdzie ja jestem, wy przyjść nie możecie. Mówili więc Żydzi między sobą: Dokąd ten zamierza pójść, że my go nie znajdziemy? Czy zamierza iść do diaspory Greków i nauczać Greków? Cóż to za słowo, które powiedział: Będziecie mnie szukać i nie znajdziecie [mnie], a tam, gdzie ja jestem, wy przyjść nie możecie?",
+     "units": [
+      [
+       "ἀπέστειλαν ... ὑπηρέτας ἵνα πιάσωσιν αὐτόν",
+       "posłali strażników, aby Go pojmali",
+       "Wersetem 32 spór wchodzi w fazę instytucjonalną: dotąd „szukali Go zabić\" bliżej nieokreśleni wrogowie — teraz po raz pierwszy w tej Ewangelii arcykapłani i faryzeusze występują razem jako organ decyzyjny i wysyłają ὑπηρέτας, funkcjonariuszy straży świątynnej, z nakazem zatrzymania. Koalicja jest znamienna: saducejska arystokracja kapłańska (władza nad świątynią i policją) i faryzejscy nauczyciele (autorytet w ludzie) — środowiska skądinąd skłócone — jednoczą się przeciw Jezusowi; ta sama para poprowadzi sprawę aż po Sanhedryn z 11,47-53 i aresztowanie z 18,3 (gdzie znów ὑπηρέται). Impulsem jest nie bluźnierstwo, lecz socjologia: usłyszeli, że TŁUM szemrze przychylnie (w. 31-32) — niebezpieczny jest nie tyle Jezus, ile Jego popularność; władza religijna zaczyna działać, gdy zagrożony jest rząd dusz. Finał sceny (w. 45-52, poza naszą perykopą) obróci akcję w kompromitację: straże wrócą z pustymi rękami i wyznaniem „nigdy człowiek nie mówił tak, jak ten mówi\" — pierwsi „aresztowani\" zostaną sami wysłannicy. Ale strukturalnie w. 32 jest punktem bez powrotu: od tej chwili machina, która doprowadzi do Ogrodu Oliwnego, jest uruchomiona — i właśnie na jej tle Jezus wypowie słowo o krótkim czasie."
+      ],
+      [
+       "ἔτι χρόνον μικρὸν μεθ᾽ ὑμῶν εἰμι ... ζητήσετέ με καὶ οὐχ εὑρήσετέ",
+       "jeszcze krótki czas jestem z wami ... będziecie mnie szukać i nie znajdziecie",
+       "Odpowiedzią na straże nie jest ucieczka, lecz enigmat czasu — pierwszy z Janowych logiów o „krótkim czasie\" (7,33; 12,35: jeszcze krótko światłość jest wśród was; 13,33; 14,19; 16,16nn). Trzy zdania, trzy ciosy. „Jeszcze krótki czas jestem z wami\" — obecność Jezusa ma termin: dostępność Boga w historii nie jest bezterminowa jak urząd, lecz mierzona jak nawiedzenie (por. Łk 19,44: czas twojego nawiedzenia); kto odracza odpowiedź, gra przeciw zegarowi, którego nie widzi. „Odchodzę do Tego, który mnie posłał\" — śmierć, którą tamci planują, jest w gramatyce Jezusa powrotem (ὑπάγω — słowo Jego drogi do Ojca): zabójcy będą wykonawcami Jego odejścia, nie panami Jego losu. „Będziecie mnie szukać i nie znajdziecie\" — najcięższe z trzech: nadchodzi szukanie po czasie; słowa te odwracają wielką obietnicę proroków („szukajcie Pana, póki się daje znaleźć\" — Iz 55,6; „znajdziecie mnie, gdy mnie szukać będziecie całym sercem\" — Jr 29,13-14) w ich cień: Mądrość odrzucona zapowiadała to samo — „będą mnie szukać, a nie znajdą\" (Prz 1,28). Nie jest to mściwość, lecz metafizyka spóźnienia: gdzie On będzie (u Ojca), tam wejść może tylko ten, kto szedł za Nim, póki był blisko; szukanie, które odkładało decyzję do wyczerpania terminu, znajdzie już tylko miejsce po Obecności. Dla Jerozolimy zdanie wypełni się historycznie w pokoleniu (wojna, głód mesjańskich nadziei, 70 r.); dla każdego słuchacza pozostaje najpoważniejszym memento Ewangelii: łaska ma godziny otwarcia."
+      ],
+      [
+       "μὴ εἰς τὴν διασπορὰν τῶν Ἑλλήνων ... καὶ διδάσκειν τοὺς Ἕλληνας;",
+       "czy do diaspory Greków ... i nauczać Greków?",
+       "Słuchacze, bezradni wobec enigmatu, sięgają po hipotezę w ich intencji absurdalno-szyderczą: może wyemigruje? pójdzie do diaspory (Żydów rozsianych „wśród Greków\") i będzie nauczał — strach pomyśleć — samych Greków? Czytelnik Jana rozpoznaje natychmiast figurę, którą ta Ewangelia kocha: mimowolne proroctwo — słowa wypowiedziane jako niedorzeczność lub cynizm, które Duch obraca w ścisłą zapowiedź (najsłynniejsze: Kajfasz w 11,49-52; por. napis Piłata w 19,19-22). Bo dokładnie to się stanie: przez swoich posłańców i swojego Ducha Jezus PÓJDZIE do diaspory i BĘDZIE nauczał Greków — Ewangelia, która za dwa akty pokaże Greków proszących „chcemy ujrzeć Jezusa\" (12,20-21, tuż przed godziną!), sama jest po grecku pisanym nauczaniem Greków; szyderstwo z w. 35 jest programem Dziejów Apostolskich wypowiedzianym przez wrogów. Jest w tym Janowa teologia słowa głębsza niż ironia: prawda Boża używa nawet niezrozumienia jako nośnika — pytania stawiane, by ośmieszyć, niosą odpowiedzi, których pytający udźwignąć nie umieją (por. 4,12; 8,22.53: „czyż jesteś większy...?\" — tak, jest). Powtórzenie enigmatu w w. 36 (dosłowne, jak echo) zostawia scenę zawieszoną na pytaniu „cóż to za słowo?\" — i to pytanie jest ostatnim darem perykopy: kto je zada serio, zamiast szyderczo, ten już zaczął szukać we właściwym czasie."
+      ]
+     ]
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Edukacja rabiniczna i nauczanie bez szkoły, halacha obrzezania w szabat, doktryna Mesjasza ukrytego oraz diaspora grecka — cztery konteksty pierwszej dysputy świątecznej.",
+     "children": [
+      [
+       "Szkoła i ordynacja: nauczanie w imieniu mistrza",
+       "Zdumienie z w. 15 („zna Pisma, skoro się nie uczył\") zakłada system edukacji religijnej Palestyny I wieku: podstawą była pamięciowa nauka Tory w bet sefer (od ok. 5-6 roku życia), zdolniejsi szli do bet midrasz, a droga uczonego prowadziła przez wieloletnie terminowanie u mistrza (szimmusz talmide chachamim — „usługiwanie uczonym\" uchodziło za ważniejsze od samej lektury): uczeń przejmował nie tylko treść, lecz łańcuch tradycji, i nauczał potem „w imieniu\" swoich nauczycieli (formuła be-szem omro — przytaczanie w czyimś imieniu „przynosi wybawienie światu\", Pirke Awot 6,6). Nauczyciel bez rodowodu szkolnego był anomalią: brakowało mu ordynacji łańcucha. Odpowiedź Jezusa przyjmuje tę logikę, by ją przebić: On również nie mówi od siebie — cytuje swojego Mistrza; tyle że łańcuch tradycji ma u Niego jedno ogniwo i sięga nieba: „nauka Tego, który mnie posłał\". Czwarta Ewangelia konsekwentnie buduje ten obraz: Syn mówi, co usłyszał u Ojca (8,26.28.38), czyni, co widzi u Ojca (5,19-20) — jest doskonałym talmidem Ojca, a Jego be-szem omro brzmi: „w imię Ojca mego\" (5,43). Ta sama scena stanie się w Dziejach matrycą apostolską: o Piotrze i Janie powiedzą „ludzie nieuczeni i prości\" — i poznają ich po tym, że „byli z Jezusem\" (Dz 4,13): szkoła Kościoła to bycie z Nim."
+      ],
+      [
+       "Obrzezanie a szabat: halacha wspólnej przesłanki",
+       "Argument z w. 22-23 stoi na przesłance, której nikt na dziedzińcu nie kwestionował: obrzezanie ósmego dnia (Rdz 17,12; Kpł 12,3) dokonuje się także wtedy, gdy ósmy dzień wypada w szabat. Halacha ta jest w źródłach tannaickich bezsporna: „wszystko, co niezbędne do mili, wykonuje się w szabat\" (Miszna, Szabat 18,3-19,2); r. Jose stwierdza wprost: „wielka jest mila, skoro uchyla surowy szabat\" (Nedarim 3,11). Co więcej — zachowały się rabiniczne qal wachomer bliźniaczo podobne do Jezusowego: skoro mila, dotycząca jednego z 248 członków ciała, uchyla szabat, o ileż bardziej ratowanie całego życia (pikuach nefesz) je uchyla (Tosefta Szabat 15,16; Mekilta do Wj 31,13, w imieniu r. Eleazara ben Azarii). Jezus argumentuje więc metodą szkół i na ich materiale — z jednym rozszerzeniem, które jest całą różnicą: rabini dopuszczali uchylenie szabatu dla życia ZAGROŻONEGO; Jezus uzasadnia nim uczynienie człowieka CAŁYM (ὅλον ἄνθρωπον ὑγιῆ) — zdrowie pełne, nie tylko ratunek w niebezpieczeństwie, jest celem, któremu szabat służy. To nie kazuistyka, lecz teologia stworzenia: szabat — pamiątka dzieła ukończonego — spełnia się tam, gdzie człowiek zostaje do-tworzony do całości; argument z 5,17 (Ojciec działa aż dotąd) i z 7,23 to dwa piętra tej samej odpowiedzi. Polemika chrześcijańsko-żydowska przez wieki wracała do tej sceny; uczciwie czytana, jest ona świadectwem sporu WEWNĄTRZ wspólnych źródeł — Jezus nie znosi tu Tory, lecz sądzi jej sądem sprawiedliwym (w. 24), dochodząc jej celu."
+      ],
+      [
+       "Mesjasz ukryty: doktryna i jej odwrócenie",
+       "Kryterium jerozolimczyków z w. 27 — „gdy Mesjasz przyjdzie, nikt nie będzie wiedział, skąd jest\" — odsyła do realnego nurtu oczekiwań. Najwyraźniej formułuje go Żyd Tryfon u Justyna Męczennika (Dial. 8,4): „Mesjasz, nawet jeśli się już narodził i gdzieś jest, jest nieznany — i sam siebie nie zna, i nie ma żadnej mocy, dopóki nie przyjdzie Eliasz, nie namaści go i nie objawi wszystkim\"; pokrewne jest apokaliptyczne objawienie Mesjasza przechowywanego w ukryciu (4 Ezd 7,28; 13,26.32.52: „nikt z mieszkańców ziemi nie może widzieć Syna mego... aż do dnia jego\"; 2 Bar 29,3). Obok krążyło oczekiwanie konkurencyjne — Mesjasz z Betlejem, z rodu Dawida (Mi 5,1; poświadczone w 7,41-42 i Mt 2,4-6): opinia publiczna dysponowała więc DWOMA sprzecznymi kryteriami pochodzenia i — jak pokazuje rozdział 7 — używała obu przeciw Jezusowi naraz (w. 27: znamy jego pochodzenie, więc nie Mesjasz; w. 41-42: nie znamy betlejemskiego pochodzenia, więc nie Mesjasz). Jan obraca tę dwoistość w narzędzie ironii teologicznej: obie strony mają rację, której nie rozumieją — pochodzenie Jezusa JEST ukryte (od Ojca; „ja wiem, skąd przyszedłem — wy nie wiecie\", 8,14) i JEST dawidowo-betlejemskie (czego narrator nawet nie prostuje w 7,42, ufając wiedzy czytelnika); a niewiedza „skąd jest\" wróci w procesie jako pytanie Piłata: „skąd ty jesteś?\" (19,9). Lekcja hermeneutyczna: kryteria mesjańskie budowane, by rozstrzygać bez nawrócenia serca, obsługują każdą z góry powziętą odpowiedź."
+      ],
+      [
+       "Diaspora Greków: zasięg, pogarda, proroctwo",
+       "Hipoteza z w. 35 („czy pójdzie do diaspory Greków?\") zakłada realia imponujące: żydowska diaspora epoki liczyła kilka milionów dusz — więcej niż Palestyna — od Babilonii po Rzym, z wielkimi centrami w Aleksandrii (dzielnice żydowskie, Septuaginta, Filon), Antiochii, miastach Azji i Grecji; „diaspora Greków\" oznacza Żydów żyjących w żywiole greckojęzycznym, a „nauczać Greków\" — krok dalej: pogan. W ustach jerozolimskich elit zdanie ma smak pogardy podwójnej: emigracja jako ucieczka nieudacznika oraz nauczanie pogan jako religijna deklasacja (por. późniejsze spory Dziejów o samą dopuszczalność takiej misji). Historia obróci szyderstwo w spis treści: ewangelia pójdzie dokładnie trasą synagog diaspory (Paweł w każdej mowie Dziejów zaczyna od diaspory i przechodzi do Greków), grecki stanie się językiem Nowego Testamentu, a Janowa księga — pisana po grecku, wśród diaspory Azji — jest sama dowodem spełnienia. Ewangelista podkreśli to jeszcze dwiema scenami: Grecy u bram godziny (12,20-23: „chcemy ujrzeć Jezusa\" — i właśnie wtedy: „nadeszła godzina\") oraz trójjęzyczny tytuł krzyża (19,20). W. 35 należy więc do Janowej serii mimowolnych proroctw (Kajfasz — 11,50; Piłat — 19,19-22; tu: anonimowy tłum): prawda Boża bywa tak wielka, że wypowiadają ją nawet ci, którzy chcą ją ośmieszyć."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Nauka nie-swoja jako teologia pochodzenia Syna, posłuszeństwo jako organ poznania (w. 17), qal wachomer i hierarchia celów prawa oraz sąd z pozoru przeciw sądowi sprawiedliwemu — cztery węzły dysputy w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem, cap. VII, lect. 2-4.",
+     "children": [
+      [
+       "1. Doctrina non mea — pochodzenie jako tożsamość",
+       "Formuła „moja nauka nie jest moja\" jest dla Tomasza miniaturą całej teologii trynitarnej: Syn jest Słowem — a słowo całą swoją treść ma od wypowiadającego; nauka Syna nie jest „Jego\" jak własność wypracowana, lecz „Jego\" jak natura otrzymana — doctrina quam Pater dat Filio generando, nauka dana w samym zrodzeniu. Dlatego zdanie nie umniejsza Chrystusa, lecz definiuje: być Synem znaczy — wszystko mieć od Ojca i nic z siebie; „od siebie\" (ἀπ᾽ ἐμαυτοῦ) mówić mógłby tylko ktoś, kto nie jest posłany — i właśnie to jest u Jana definicją fałszywego nauczyciela i antychrysta (5,43: jeśli inny przyjdzie we własnym imieniu, jego przyjmiecie). Z tej chrystologii płynie eklezjologia słowa: Kościół naucza prawdziwie tylko w trybie Syna — nie tworząc nauki, lecz przekazując otrzymaną (depositum custodi); Tomasz doda regułę dla teologa: autorytet w świętej nauce jest zawsze zapożyczony — locus ab auctoritate, który jest najsłabszy w naukach ludzkich, w teologii jest najmocniejszy, bo opiera się na objawieniu; a kryterium w. 18 (czyją chwałę szuka mówca) pozostaje najprostszym testem każdego kaznodziei, traktatu i ruchu w Kościele: gdzie rośnie chwała głosiciela, tam maleje pewność, że głosi Posyłającego."
+      ],
+      [
+       "2. Voluntas ut organum cognitionis — epistemologia w. 17",
+       "„Jeśli ktoś chce pełnić Jego wolę, pozna\" — Tomasz rozpoznaje w tym zdaniu strukturę poznania prawd praktycznych i nadprzyrodzonych: w rzeczach, które są celem życia, poznanie idzie za usposobieniem poznającego — qualis unusquisque est, talis finis videtur ei (jaki kto jest, taki cel mu się jawi; za Arystotelesem, Etyka III). Prawdy wiary nie są neutralne: wzywają, więc wola przewrotna ma interes w niewidzeniu — a wola oddana Bogu otrzymuje współnaturalność (connaturalitas) z rzeczami Bożymi, dzięki której sądzi o nich trafnie „po skłonności\", jak czysty smakuje czystość bez traktatu o niej (S. Th. II-II, q. 45, a. 2: poznanie przez współnaturalność właściwe darowi mądrości). Stąd podwójna reguła. Apologetyczna: spory o wiarę rzadko wygrywa się samą argumentacją, bo opór często nie jest intelektualny — trzeba leczyć wolę (modlitwą, świadectwem, miłością), by uwolnić rozum; Pascalowe „umniejszajcie namiętności\" bywa lepszą apologetyką niż dowód. I ascetyczna: kto chce WIEDZIEĆ więcej o Bogu, niech PEŁNI więcej z tego, co już wie — posłuszeństwo małym światłom sprowadza większe (por. 8,31-32: jeśli wytrwacie w nauce mojej, poznacie prawdę); teologia uprawiana bez życia według niej wyradza się w wiedzę o cudzych listach miłosnych. Augustyn zamknie to w formułę, którą Tomasz przejmie: non intratur in veritatem nisi per caritatem — do prawdy nie wchodzi się inaczej niż przez miłość."
+      ],
+      [
+       "3. A minori ad maius — hierarchia celów prawa",
+       "Argument obrzezaniowy w. 22-23 jest dla Tomasza wzorem rozumowania o prawie według hierarchii celów. Przesłanka wspólna: dwa przepisy Boże (szabat i mila ósmego dnia) mogą się zbiec konfliktowo — i tradycja słusznie rozstrzyga na rzecz obrzezania, bo znak przymierza na ciele człowieka jest celem bliższym sensu prawa niż spoczynek; przepis niższy ustępuje wyższemu nie przez uchylenie, lecz przez uporządkowanie (ordo praeceptorum). Wniosek Jezusa dopowiada zasadę rządzącą całą hierarchią: celem prawa Bożego jest CAŁY człowiek zdrowy — salus hominis; jeśli więc częściowe dobro (znak na jednym członku) uchyla szabat, tym bardziej dobro całościowe (ὅλος ἄνθρωπος ὑγιής). Tomasz uogólni: przykazania kultu i dyscypliny są dla przykazań miłości, nie odwrotnie — praecepta caeremonialia ordinantur ad moralia; a najwyższą regułą wykładni prawa jest intentio legislatoris: Bóg dał szabat dla człowieka (Mk 2,27), więc wykładnia szabatowa przeciw człowiekowi jest wykładnią przeciw Prawodawcy. Stąd zdrowa kazuistyka różni się od faryzejskiej nie subtelnością, lecz kierunkiem: tamta mnoży ogrodzenia wokół litery, ta pyta o cel — i gotowa jest o cel spierać się wewnątrz źródeł, jak Jezus: nie unieważniając przepisu, lecz sądząc go sądem sprawiedliwym. Dla etyki chrześcijańskiej scena pozostaje szkołą rozstrzygania konfliktów norm: nie „wszystko albo nic\", lecz porządek dóbr — z człowiekiem całym jako miarą bliską i chwałą Boga jako miarą ostateczną."
+      ],
+      [
+       "4. Iudicium iustum — przeciw sądowi z pozoru",
+       "„Nie sądźcie według pozoru\" (w. 24) czyta Tomasz jako regułę cnoty sądzenia, która wieńczy dysputę i sądzi sędziów. Sąd po pozorze (κατ᾽ ὄψιν) ma trzy źródła: pośpiech (rozum zatrzymuje się na pierwszym zjawisku), interes (sądzi się tak, jak wygodnie — tu: przeciw Jezusowi, bo naruszył autorytet) i nawyk kategorii (przepis rozpoznany automatycznie przesłania cel przepisu). Sąd sprawiedliwy wymaga trojga: prawdy przedmiotu (dojść istoty czynu — uzdrowienie, nie „praca\"), prawości intencji (sądzić dla prawdy, nie dla wygranej) i kompetencji miary (mierzyć miarą prawa Bożego, nie opinii). Tomasz dorzuca rozróżnienie chroniące przed nadużyciem tego wersetu w obie strony: zakaz sądzenia z pozoru nie jest zakazem sądzenia w ogóle (sam Jezus w tym zdaniu NAKAZUJE sądzić — tyle że sprawiedliwie); chrześcijanin nie jest zwolniony z osądu czynów i nauk (rozeznawanie duchów!), jest zwolniony z osądzania serc i z sądu po powierzchni. Reguła praktyczna scholastyki: in dubiis melior est conditio possidentis — w rzeczach wątpliwych domniemywa się dobrą wiarę; a sąd nad czynem cudzym winien przejść trzy sita: czy znam fakty (nie pozór), czy mam prawo sądzić (urząd lub konieczność), czy sądzę tak, jak chciałbym być sądzony (miara z Mt 7,2). Perykopa dodaje do tych sit czwarte, najgłębsze: czy mój sąd o sprawach Bożych nie jest przypadkiem obroną przed nimi — bo największym pozorem, według którego sądzono w tej scenie, była metryka z Nazaretu zasłaniająca pochodzenie od Ojca."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "body": "Perykopa jest popisem Janowej dramaturgii polifonicznej: na jednej scenie ewangelista prowadzi siedem głosów — Jezusa, „Żydów\" zdumionych, tłum pielgrzymi (nieświadomy spisku), jerozolimczyków (świadomych aż do cynizmu), wierzących z tłumu, faryzeuszy z arcykapłanami i (niemych jeszcze) strażników — i każdemu daje osobną wiedzę, osobny błąd i osobną funkcję w ironii całości. Technika wiedzy stopniowanej jest tu wirtuozerska: tłum nie wie o zamiarze zabójstwa (w. 20), jerozolimczycy wiedzą (w. 25), czytelnik wie więcej niż wszyscy — i dzięki temu każda kwestia gra podwójnie (obelga „masz demona\" jest u pielgrzymów szczerym zdziwieniem, a w uchu czytelnika — pierwszym kamieniem). Ironia pracuje seriami: kryterium „nie wiadomo skąd\" obok kryterium „wiadomo skąd\" (w. 27 vs 41-42) — para sprzecznych pewności ośmieszająca pewność jako taką; „znacie mnie i wiecie, skąd jestem\" — zdanie-lustro, prawdziwe i fałszywe naraz; wreszcie diaspora Greków — szyderstwo, które jest spisem treści przyszłości (Jan pisze te słowa PO ich spełnieniu, wśród Greków diaspory, i mrugnięcie do czytelnika jest tu niemal jawne). Struktura zdradza zamysł katechetyczny: trzy pytania sceny (skąd nauka? skąd Nauczyciel? dokąd odchodzi?) to szkielet wykładu chrystologicznego o posłaniu — nauka od Posyłającego, pochodzenie od Ojca, powrót do Ojca; ewangelista uczy swój Kościół odpowiadać na zarzuty synagogi końca wieku (skąd wasz Chrystus? czemu nie było go w szkołach? czemu Izrael go nie znalazł?) — dokładnie tymi argumentami. A rama nieudanych aresztowań z refrenem godziny (w. 30) niesie jego ulubioną tezę: historia męki nie była wypadkiem przy pracy — od pierwszej próby pojmania do Ogrodu wszystko biegło według zegara, którego wskazówki trzymał Ojciec.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "body": "Cztery słowa Ducha z tej dysputy. O poznaniu: „jeśli ktoś chce pełnić Jego wolę, pozna\" — Bóg nie jest twierdzeniem do udowodnienia, lecz wolą do spełnienia, i dlatego wątpiącemu rzadko potrzeba nowych argumentów, częściej jednego aktu posłuszeństwa temu, co już wie; kto czeka z pełnieniem na pewność, czeka w kolejności odwrotnej. O nauczaniu: „moja nauka nie jest moja\" — każde autentyczne słowo w Kościele jest cudze: przekazane, nie wymyślone; i jest test nieomylny — czyja chwała rośnie przy mówcy; gdzie błyszczy głosiciel, tam cień pada na Posyłającego. O sądzeniu: „nie sądźcie według pozoru\" — pozór jest pierwszym kłamcą, któremu wierzymy chętnie, bo sądzi szybko i po naszej myśli; sąd sprawiedliwy kosztuje: trzeba dojść istoty, oczyścić intencję i przyłożyć Bożą miarę — a największe pomyłki sądu w historii zbawienia (od Nazaretu po dziś) były pomyłkami metryki: „wiemy, skąd jest\". O czasie wreszcie: „jeszcze krótki czas jestem z wami... będziecie mnie szukać i nie znajdziecie\" — obecność Boża w moim życiu ma godziny nawiedzenia; łaska odkładana nie czeka bezterminowo jak depozyt, lecz przechodzi jak Ten, który „przechodził\" obok ślepych i celników; dlatego jedno jest pilne w Ewangelii: odpowiedzieć, póki mówi. A dla zniechęconych własną małością — ironia Boża z w. 35 na pociechę: nawet szyderstwo wrogów Bóg umie obrócić w proroctwo misji; tym bardziej umie obrócić w drogę łaski nasze pytania zadane serio.",
+     "children": []
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "Rdz 17,9-14; Kpł 12,3 → w. 22-23",
+       "Fundament argumentu: obrzezanie ósmego dnia jako znak przymierza z Abrahamem — starszego niż Synaj (stąd Jezusowy nawias: nie od Mojżesza, lecz od ojców). Termin ósmego dnia jest bezwzględny, więc halacha każe go dotrzymać także w szabat: dwa Boże nakazy rozstrzygają się według starszeństwa i celu. Jezus przyjmuje tę logikę wspólnych źródeł i dobudowuje piętro: jeśli znak przymierza na jednym członku uchyla szabat, tym bardziej uczynienie całego człowieka zdrowym — bo cel przymierza to człowiek cały dla Boga."
+      ],
+      [
+       "Iz 11,3-4; 1 Sm 16,7; Kpł 19,15; Pwt 16,18-20 → w. 24",
+       "Rodowód sądu sprawiedliwego: Mesjasz Izajaszowy „nie po tym, co widzą oczy, sądzić będzie\"; Pan poucza Samuela, że patrzy na serce, nie na wzrost Eliaba; Tora nakazuje sędziom sprawiedliwość bez względu na osobę (Kpł 19,15) i woła: „sprawiedliwości, sprawiedliwości szukaj\" (Pwt 16,20). Jezus, wzywając do dikaia krisis, mówi więc czystym językiem Prawa i Proroków — i zarazem osądza sędziów: ci, którzy mierzą Go pozorem (przepisu, metryki, szkoły), łamią własny kodeks sędziowski. Ironia domknie się w 8,15-16: wy sądzicie według ciała — mój sąd jest prawdziwy, bo nie jestem sam."
+      ],
+      [
+       "Pwt 18,15-19; Mi 5,1 → w. 27.31",
+       "Dwa mesjańskie kryteria tłumu: Prorok jak Mojżesz (nauczyciel z mocą znaków — stąd rachunek w. 31: czy Mesjasz uczyni więcej znaków?) i pochodzenie betlejemsko-dawidowe (Mi 5,1 — wróci w 7,42). Rozdział 7 pokazuje oczekiwania mesjańskie jako rozstrojony chór: Mesjasz ukryty (w. 27) przeciw Mesjaszowi z Betlejem (w. 42), znaki jako dowód (w. 31) przeciw znakom jako zwodzeniu (w. 12); Jezus nie spełnia żadnej z tych matryc na jej warunkach — spełnia je wszystkie na warunkach Ojca, czym rozbija każdą i wypełnia wszystkie."
+      ],
+      [
+       "Iz 55,6; Jr 29,13-14; Prz 1,24-28; Am 8,11-12 → w. 33-34",
+       "Tło groźby „będziecie szukać i nie znajdziecie\": obietnica proroków miała zawsze klauzulę czasu — szukajcie Pana, PÓKI się daje znaleźć (Iz 55,6); jej cieniem jest mowa odrzuconej Mądrości: „wtedy wołać mnie będą, a nie odpowiem; szukać mnie będą, a nie znajdą — za to, że nienawidzili wiedzy\" (Prz 1,28-29), i Amosowy głód słowa: „będą błądzić od morza do morza szukając słowa Pana, a nie znajdą\" (Am 8,12). Jezus staje w tej linii jako Mądrość i Słowo osobowe: Jego „krótki czas\" jest ostatnią godziną otwarcia; po niej zostaje szukanie po czasie — nie dlatego, że Bóg się mści, lecz dlatego, że przyjść tam, gdzie On jest, może tylko ten, kto szedł za Nim, gdy był tu."
+      ],
+      [
+       "J 7,45-52; 8,20-22 → całość",
+       "Ciąg dalszy w samym rozdziale: straże z w. 32 wrócą z pustymi rękami i najpiękniejszym mimowolnym wyznaniem tej Ewangelii („nigdy człowiek nie mówił tak, jak ten mówi\", 7,46), Nikodem upomni się o dikaia krisis proceduralnie (7,51: czy prawo nasze sądzi człowieka, zanim go wysłucha?), a szyderstwo elit zamknie koło pozoru (7,52: zbadaj — prorok nie powstaje z Galilei; znów metryka!). Enigmat odejścia powtórzy się w 8,21-22 z dopowiedzeniem grozy („umrzecie w grzechu waszym\") i nową błędną hipotezą („czyż sam się zabije?\") — Jan buduje przez powtórzenie z wariacją: każde niezrozumienie odsłania inną warstwę słowa."
+      ],
+      [
+       "J 12,20-23; 19,20; Dz 11,20; 13,46-48 → w. 35",
+       "Spełnienia mimowolnego proroctwa o Grekach: prozelici greccy proszą Filipa „chcemy ujrzeć Jezusa\" — i właśnie ta prośba wywołuje: „nadeszła godzina, aby został uwielbiony Syn Człowieczy\" (12,20-23: misja do Greków przechodzi przez krzyż); tytuł krzyża w trzech językach — hebrajskim, łacińskim i greckim (19,20) — jest pierwszą „nauką dla Greków\" wypisaną nad Nauczycielem; a Dzieje opowiedzą resztę: Antiochia (11,20 — pierwsze głoszenie Grekom), programowe „zwracamy się do pogan\" Pawła (13,46-48). Czwarta Ewangelia, napisana po grecku dla wspólnot diaspory, jest ostatnim ogniwem: pytanie z w. 35 trzyma w ręku każdy jej grecki czytelnik."
+      ],
+      [
+       "Mt 13,54-57; Dz 4,13 → w. 15",
+       "Paralele zdumienia: w Nazarecie „skąd u niego ta mądrość i cuda? czyż nie jest to syn cieśli?\" (Mt 13,54-55) — ta sama para: niewytłumaczalna nauka i zbyt dobrze znana metryka; w Jerozolimie po Pięćdziesiątnicy o Piotrze i Janie: „widząc odwagę (παρρησία!) Piotra i Jana i poznawszy, że są ludźmi nieuczonymi i prostymi, dziwili się — i rozpoznawali ich, że byli z Jezusem\" (Dz 4,13). Trzy sceny, jedna teologia: w szkole Boga ordynacją jest posłanie i przebywanie z Posyłającym; Kościół nie zniósł wykształcenia (Paweł!), lecz zna jego miejsce — łańcuch tradycji żyje, gdy pierwszym ogniwem jest bycie z Jezusem."
+      ],
+      [
+       "Łk 19,41-44 → w. 33-34",
+       "Płacz nad Jerozolimą nazywa po imieniu to, co Janowy enigmat zapowiada: „nie poznałaś czasu twojego nawiedzenia (kairos tes episkopes)\". Oba teksty budują tę samą teologię czasu łaski: nawiedzenie Boże jest realne, rozpoznawalne i terminowe; jego przeoczenie nie jest karane z zewnątrz — samo JEST karą (szukać będziecie, gdy Szukany odejdzie). Łukaszowe łzy dopowiadają ton, w jakim należy czytać Janowe „nie znajdziecie\": to nie satysfakcja proroka, lecz żal Oblubieńca; Bóg nie zamyka drzwi z trzaskiem — odchodzi z płaczem, że nie chciano, by został (por. Mt 23,37: ile razy chciałem... a nie chcieliście)."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Liturgia",
+       "Bizantyjski Wschód uczynił z tej perykopy święto: Mesopentekoste — Połowa Pięćdziesiątnicy (środa czwartego tygodnia po Passze) — czyta J 7,14-30, przenosząc „połowę święta\" z Sukkot na połowę drogi między Paschą a Zesłaniem: Chrystus nauczający w środku świątecznego czasu staje się ikoną Mądrości nauczającej w środku czasu Kościoła; troparion święta woła słowami następnej perykopy („w połowie święta napój moją spragnioną duszę wodami pobożności\"), a ikonografia Mesopentekoste — dwunastoletni lub dorosły Chrystus nauczający w świątyni pośród uczonych — wisi w tradycji ruskiej i greckiej po dziś. Zachód czyta scenę w wielkopostnych feriach IV tygodnia (piątek: J 7,1-2.10.25-30), w bloku narastającego sporu przed Męką; werset 30 („nikt nie podniósł ręki, bo jeszcze nie nadeszła godzina\") pełni w tej lekturze rolę pedagogiczną: Kościół idzie ku Triduum z pewnością, że Męka była godziną wybraną, nie przegraną. Osobną karierę liturgiczną zrobił werset 17 jako zdanie o rozeznaniu: przywoływany w modlitwach o światło przed nauczaniem i studium (tradycja szkolna), oraz werset 24, cytowany w regułach i pouczeniach o sądach przełożonych (nie po pozorze!) — od reguł monastycznych po kanonistykę."
+      ],
+      [
+       "Recepcja teologiczna i duchowość",
+       "Werset 17 stał się jednym z najczęściej komentowanych zdań Ewangelii w teologii poznania: Ojcowie (Augustyn: intellectus merces est fidei — zrozumienie jest zapłatą wiary; crede ut intelligas) i scholastyka (poznanie przez współnaturalność) zbudowali na nim epistemologię wiary; w czasach nowożytnych Pascal („prawdy Boże poznaje się sercem\"), Newman (real assent; „serce przemawia do serca\") i cała apologetyka egzystencjalna czytały go przeciw racjonalizmowi żądającemu dowodu przed posłuszeństwem; współczesna teologia duchowości widzi w nim kartę rozeznawania: wątpliwości intelektualne bada się razem z życiem — bo nieraz to nie argument osłabł, lecz wola się cofnęła. „Doctrina mea non est mea\" żyje w teologii Tradycji i urzędu: od formuł soborowych o strzeżeniu depozytu po Vaticanum II (Dei Verbum 10: Urząd Nauczycielski „nie jest ponad słowem Bożym, lecz mu służy\") — Kościół nauczający jest uczniem zanim jest nauczycielem. Argument z w. 22-23 pozostaje kluczowym tekstem w dialogu chrześcijańsko-żydowskim o szabacie i o metodzie: pokazuje Jezusa argumentującego po rabinacku wewnątrz halachy — nie burzyciela, lecz interpretatora celu Prawa. A maksyma „nie sądźcie według pozoru\" przeszła do duchowości powszechnej jako reguła przeciw pochopnym osądom (od apoftegmatów pustyni po współczesne rachunki sumienia z osądzania) — z zastrzeżeniem, które przypominają kaznodzieje: to nie zakaz rozeznawania, lecz nakaz jego rzetelności; Kościół, który przestałby sądzić sprawiedliwie, nie stałby się miłosierny — stałby się obojętny."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Katena do dysputy w połowie święta — sześć głosów: nauka nie moja i pokora Syna (Chryzostom), pełnienie woli jako droga poznania (Augustyn), obrzezanie a uzdrowienie całego człowieka (Chryzostom), dwa skąd Chrystusa (Augustyn), godzina i bezsilność wrogów (Cyryl), szukanie po czasie i diaspora (Cyryl).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: w połowie święta Ten, który wszedł w ukryciu, staje w świątyni jako Nauczyciel bez ludzkiej szkoły i toczy pierwszą wielką dysputę jerozolimską — o naukę, która jest Jego, bo nie jest Jego (pochodzi od Posyłającego, a poznaje ją ten, kto chce pełnić wolę Boga); o szabat, rozstrzygnięty z wnętrza Prawa argumentem od obrzezania ku całemu człowiekowi zdrowemu; o własne pochodzenie, którego metrykę wszyscy znają, a źródła — Ojca — nie zna nikt z ważących; i o czas, który się dopełnia: jeszcze krótko, potem szukanie bez znajdowania — słowo tak ciężkie, że słuchacze uciekają od niego w szyderstwo o nauczaniu Greków, nie wiedząc, że dyktują program przyszłości Kościoła. Czytelnik zabiera z tej dysputy cztery miary: miarę nauki (czyją chwałę głosi mówca), miarę poznania (czy chcę pełnić — zanim żądam wiedzieć), miarę sądu (istota, nie pozór) i miarę czasu (nawiedzenie ma godziny) — a nad wszystkimi jedno pytanie sceny, wciąż otwarte: znam metrykę Jezusa z katechizmu; czy znam Tego, od którego On jest?",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28 (nawiasy NA28 zachowane: [ὁ] Ἰησοῦς w. 16, [με] w. 34.36); przekłady polskie wersetów są robocze (własne, dosłowne), terminy hebrajskie w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); do halachy obrzezania w szabat — Miszna (Szabat 18-19; Nedarim 3,11) i Tosefta (Szabat 15,16); do doktryny Mesjasza ukrytego — Justyn, Dialog z Żydem Tryfonem 8; z klasyki — św. Jan Chryzostom (Hom. in Io. 49-51), św. Augustyn (Tract. in Io. 29-31), św. Cyryl Aleksandryjski (In Io., ks. IV-V) i św. Tomasz (Super Ioannem, cap. VII, lect. 2-4).*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Rdz",
+     17,
+     9,
+     17,
+     14,
+     "Rdz 17,9-14",
+     "tlo",
+     "obrzezanie ósmego dnia jako znak przymierza z Abrahamem — od ojców, nie od Mojżesza"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Kpł",
+     12,
+     3,
+     12,
+     3,
+     "Kpł 12,3",
+     "tlo",
+     "ósmego dnia obrzezane będzie jego ciało — termin bezwzględny, uchylający szabat"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     11,
+     3,
+     11,
+     4,
+     "Iz 11,3-4",
+     "typologia",
+     "nie będzie sądził po tym, co widzą oczy — mesjański wzorzec sądu sprawiedliwego z w. 24"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 Sm",
+     16,
+     7,
+     16,
+     7,
+     "1 Sm 16,7",
+     "tlo",
+     "człowiek patrzy na to, co widoczne, Pan patrzy na serce — przeciw sądowi kat opsin"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Kpł",
+     19,
+     15,
+     19,
+     15,
+     "Kpł 19,15",
+     "tlo",
+     "sprawiedliwie sądź bliźniego — kodeks sędziowski Tory przywołany przeciw sędziom"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pwt",
+     16,
+     18,
+     16,
+     20,
+     "Pwt 16,18-20",
+     "tlo",
+     "sprawiedliwości, sprawiedliwości szukaj — nakaz dla sędziów; dikaia krisis z w. 24"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pwt",
+     18,
+     15,
+     18,
+     19,
+     "Pwt 18,15-19",
+     "tlo",
+     "Prorok jak Mojżesz — kryterium znaków stojące za rachunkiem tłumu w w. 31"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mi",
+     5,
+     1,
+     5,
+     1,
+     "Mi 5,1",
+     "tlo",
+     "a ty, Betlejem — konkurencyjne kryterium pochodzenia Mesjasza (wróci w 7,42)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     55,
+     6,
+     55,
+     6,
+     "Iz 55,6",
+     "tlo",
+     "szukajcie Pana, póki się daje znaleźć — klauzula czasu odwrócona w w. 34"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Prz",
+     1,
+     24,
+     1,
+     28,
+     "Prz 1,24-28",
+     "typologia",
+     "mowa odrzuconej Mądrości: będą mnie szukać, a nie znajdą — matryca groźby w. 34"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Am",
+     8,
+     11,
+     8,
+     12,
+     "Am 8,11-12",
+     "typologia",
+     "głód słowa Pańskiego: będą błądzić szukając słowa, a nie znajdą"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     7,
+     45,
+     7,
+     52,
+     "J 7,45-52",
+     "rozwiniecie",
+     "powrót strażników: nigdy człowiek nie mówił tak, jak ten mówi; Nikodem o sądzie przed wysłuchaniem"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     8,
+     21,
+     8,
+     22,
+     "J 8,21-22",
+     "rozwiniecie",
+     "powtórzenie enigmatu z dopowiedzeniem: umrzecie w grzechu waszym"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     12,
+     20,
+     12,
+     23,
+     "J 12,20-23",
+     "rozwiniecie",
+     "Grecy chcą ujrzeć Jezusa — spełnienie mimowolnego proroctwa z w. 35 u progu godziny"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Łk",
+     19,
+     41,
+     19,
+     44,
+     "Łk 19,41-44",
+     "paralela",
+     "nie poznałaś czasu twojego nawiedzenia — Łukaszowy płacz nazywa treść Janowego enigmatu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Dz",
+     4,
+     13,
+     4,
+     13,
+     "Dz 4,13",
+     "rozwiniecie",
+     "ludzie nieuczeni i prości — a poznawali ich, że byli z Jezusem: szkoła posłania po Pięćdziesiątnicy"
+    ],
+    [
+     [
+      "unit",
+      "w. 14–18",
+      2
+     ],
+     "Mdr",
+     1,
+     4,
+     1,
+     5,
+     "Mdr 1,4-5",
+     "tlo",
+     "do duszy przewrotnej nie wejdzie Mądrość — wola jako warunek poznania"
+    ],
+    [
+     [
+      "unit",
+      "w. 32–36",
+      2
+     ],
+     "1 Kor",
+     1,
+     22,
+     1,
+     24,
+     "1 Kor 1,22-24",
+     "rozwiniecie",
+     "Grecy szukają mądrości — a głosimy Chrystusa: nauczanie Greków wykonane przez kerygmat"
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. VII, lect. 2-4",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład dysputy: nauka Syna od Ojca, poznanie przez pełnienie woli, hierarchia przykazań, sąd sprawiedliwy.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Doktryna Mesjasza ukrytego, paralele rabiniczne argumentu obrzezaniowego, dramaturgia opinii rozdziału 7.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "C. K. Barrett",
+     "The Gospel According to St John, ad loc.",
+     [
+      "section",
+      "I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
+     ],
+     "Filologia gramata oiden, ekraxen, podwójne pothen i konstrukcja w. 28 między ironią a pytaniem.",
+     "The Gospel According to St John"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana I, ad loc.",
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Polskie omówienie qal wachomer, oczekiwań mesjańskich i motywu szukania po czasie.",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 14–18",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 49",
+     "Chryzostom podziwia strategię Nauczyciela: nie odpowiada na pytanie o szkołę wykazem lektur, lecz przenosi spór tam, gdzie jest rozstrzygalny — do woli słuchaczy. „Moja nauka nie jest moja\": kaznodzieja słyszy w tym zdaniu pokorę, która jest zarazem najwyższym roszczeniem — Chrystus nie chce być oryginalny; oryginalność jest ambicją tych, którzy mówią od siebie, a mówić od siebie to po prostu kłamać w sprawach Bożych. Prawdziwy posłaniec poznaje się po tym, że znika za Posyłającym: szuka nie swojej chwały — i dlatego w jego słowie nie ma adikii, fałszu interesu. Stąd rada Chryzostoma dla słuchaczy kazań wszystkich wieków: nie pytajcie najpierw, czy mówca uczony, wymowny i skąd ma dyplomy — pytajcie, czyją chwałę uprawia; ambona, na której błyszczy kaznodzieja, zaciemnia Chrystusa. A dla samych nauczających — jego przestroga z tej homilii: kto głosząc siebie zdobywa poklask, ten już odebrał swoją zapłatę; kto głosząc Posyłającego zbiera wzgardę, ten jest w dobrym towarzystwie — w tej samej świątyni tak przyjęto Mistrza."
+    ],
+    [
+     "w. 14–18",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 29,6",
+     "Augustyn zatrzymuje się nad w. 17 i wydobywa z niego swoją wielką zasadę: si non potes intelligere, crede ut intelligas — jeśli nie możesz zrozumieć, uwierz, abyś zrozumiał; praecedit fides, sequitur intellectus — wiara idzie przodem, zrozumienie podąża. Kto chce najpierw przeniknąć naukę, a potem dopiero pełnić wolę, ten odwraca porządek lekarza i lekarstwa: oko chore na pychę nie zobaczy światła, dopóki nie przyjmie maści posłuszeństwa. Nie jest to rezygnacja z rozumu — jest to jego terapia: rozum nie został odrzucony, lecz skierowany; wiara nie zamyka oczu, ale je przemywa. Augustyn ilustruje rzecz doświadczeniem każdego ucznia: nikt nie rozumie sztuki przed jej ćwiczeniem — rozumienie przychodzi ćwiczącym; tak i wola Boża jest sztuką, której teoria otwiera się praktykującym. I dodaje obietnicę, którą sam przeżył (długo rozumiał, zanim zechciał — i nie rozumiał, właśnie dlatego że nie chciał): intellectus merces est fidei — zrozumienie jest zapłatą wiary; kto uwierzy i zacznie pełnić, temu Bóg nie poskąpi światła, o które tamten spierał się na próżno, stojąc w miejscu."
+    ],
+    [
+     "w. 19–24",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 50",
+     "Argument obrzezaniowy wykłada Chryzostom z widoczną satysfakcją retora: Chrystus bije przeciwników ich własną bronią i na ich własnym placu. Nie mówi: szabat nie obowiązuje — mówi: wy sami go „łamiecie\", ilekroć każe tak wyższe przykazanie, i czynicie słusznie; czemu więc to, co u was jest pobożnością (obrzezać w szabat), u mnie nazywacie grzechem (uzdrowić w szabat)? — chyba że sądzicie nie sprawę, lecz osobę. Kaznodzieja podkreśla miary: obrzezanie zadaje ranę jednemu członkowi — uzdrowienie darowało zdrowie całemu człowiekowi; tamto jest znakiem dobra, to samym dobrem; jeśli znak uchyla spoczynek, jakże nie miałaby go uchylać rzecz oznaczana? A w zakończeniu — „nie sądźcie według pozoru\" — słyszy Chryzostom diagnozę wszelkiej stronniczości: pozór, według którego sądzili, nie był nawet pozorem czynu (czyn był oczywiście dobry), lecz pozorem osoby — sądzili nie to, co się stało, ale tego, kto uczynił; gdyby to samo w szabat uczynił któryś z nich, chwaliliby Boga. Sąd sprawiedliwy zaczyna się więc od odjęcia osoby: zważ czyn, jakby sprawca był ci nieznany — a poznasz, czy sądzisz, czy się mścisz."
+    ],
+    [
+     "w. 25–31",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 31,2-5",
+     "Nad zdaniem „i mnie znacie, i wiecie, skąd jestem\" Augustyn buduje wykład dwóch pochodzeń: znali Go — i nie znali; wiedzieli, skąd jest — i nie wiedzieli. Znali człowieka z Nazaretu: matkę, krewnych, miasteczko — secundum carnem wszystko było jawne; nie znali Słowa, które było na początku u Boga — secundum divinitatem wszystko było zakryte. Chrystus nie przeczy ich wiedzy — przekracza ją: „nie przyszedłem od siebie samego\" znaczy: moje prawdziwe SKĄD nie mieści się w waszych metrykach; jest Nim Ten, który mnie posłał — prawdziwy, choć wam nieznany. Straszne słowo na dziedzińcu świątyni: nie znacie Boga, którego czcicie — ale Augustyn każe je czytać nie jako obelgę, lecz jako diagnozę z nadzieją: nie znacie Go, bo poznanie Ojca idzie tylko przez Syna; przyjmijcie Posłanego, a poznacie Posyłającego. I odwraca ostrze ku swoim słuchaczom, katolikom Hippony: nie chełpmy się przeciw tamtym — my także umiemy „wiedzieć, skąd jest Chrystus\" (z katechizmu, z metryki chrztu) i nie znać Tego, od którego On jest; wiedza o Chrystusie bez komunii z Ojcem przez Niego jest tą samą jerozolimską połowicznością, tylko ochrzczoną."
+    ],
+    [
+     "w. 25–31",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. IV",
+     "Cyryl komentuje bezsilność pierwszego zamachu (w. 30) z dogmatyczną precyzją: nie dlatego nie podnieśli ręki, że zabrakło im złości ani sposobności, lecz że moc Bożego postanowienia trzymała ich ręce związane niewidzialnie — Chrystus cierpi nie wtedy, gdy wściekłość dojrzeje, lecz gdy dojrzeje ekonomia; czas męki nie jest owocem sprzysiężenia, lecz rubryką zbawczego planu, a prześladowcy, choć wolni w złości, są bezwolni w kalendarzu. To „jeszcze nie\" godziny jest dla Cyryla dowodem, że i w godzinie właściwej Pan nie zostanie wzięty, lecz się wyda: kto był nietykalny w Sukkot, nie stał się bezbronny w Paschę — sam rozwiązał to, co Ojciec dotąd trzymał (por. 10,18). Stąd pociecha dla Kościoła w prześladowaniach, którą aleksandryjczyk formułuje jak zasadę: życie sług Słowa jest w tym samym sejfie, co życie Słowa — nikt nie umiera przed swoją godziną i nikt nie żyje po niej; wściekłość świata ma długie ręce, ale krótszy zasięg niż wola Ojca. A wiarę tłumu liczącego znaki (w. 31) Cyryl waży bez pogardy i bez złudzeń: dobre są schody znaków, jeśli się po nich idzie w górę — biada, gdy stają się kasą, przy której czeka się na kolejne wypłaty cudów."
+    ],
+    [
+     "w. 32–36",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. V",
+     "Enigmat „będziecie mnie szukać i nie znajdziecie\" czyta Cyryl jako proroctwo o dwóch szukaniach. Pierwsze — historyczne: przyjdzie na Jerozolimę czas, gdy w uciskach szukać będzie Mesjasza, którego odrzuciła — i nie znajdzie, bo szukać będzie nie Tego: wypatrywać będzie wyzwoliciela politycznego, a Ten, który był jej nawiedzeniem, odszedł do Ojca; szukanie po czasie jest zawsze szukaniem obok — kto przegapił Boga obecnego, ten i tęsknotę ma już wykrzywioną. Drugie — duchowe i ponadczasowe: gdzie On jest (na wysokości, u Ojca), tam nie może przyjść nikt, kto idzie drogą wrogości i niewiary; nie mury bronią nieba, lecz nieprzystawalność serca — do Tego, który jest w górze, wstępuje się przez wiarę i miłość, nie przez spóźniony żal, że „gdzieś się podział\". A w szyderstwie o Grekach słyszy Cyryl — jak cała tradycja — mimowolną wyrocznię: tak, pójdzie do rozproszonych i pogan, tyle że nie uciekając przed wami, lecz posyłając za siebie zwiastunów; i dodaje uwagę misjonarza z Aleksandrii, miasta diaspory: Bóg drwinę wrogów uczynił mapą apostołów — niech więc Kościół nie boi się słów wypowiadanych przeciw niemu; bywa, że wróg bezwiednie czyta na głos Boże plany."
+    ]
+   ],
+   "liturgy": [
+    [
+     "bizantyjski",
+     "Mesopentekoste — Połowa Pięćdziesiątnicy",
+     "J 7,14-30",
+     "Święto Połowy: Chrystus nauczający w środku świątecznego czasu jako Mądrość pośród Kościoła; troparion prosi o wody pobożności dla spragnionej duszy."
+    ],
+    [
+     "rzymski",
+     "Piątek IV tygodnia Wielkiego Postu",
+     "J 7,1-2.10.25-30",
+     "Wielkopostny blok sporów jerozolimskich: godzina, która jeszcze nie nadeszła, jako pedagogia drogi ku Triduum."
+    ],
+    [
+     "rzymski",
+     "Tradycja szkolna i reguły o sądzeniu",
+     "J 7,17.24 (motywy)",
+     "Werset 17 w modlitwach o światło przed studium i nauczaniem; werset 24 w regułach przełożonych i kanonistyce: sądzić istotę, nie pozór."
+    ]
+   ],
+   "textual": [
+    [
+     26,
+     "ὅτι οὗτός ἐστιν ὁ χριστός",
+     "wariant lekcji",
+     "NA28: „że ten jest Mesjaszem\" (P66 P75 ℵ B D L W i in.); tradycja bizantyjska dodaje drugie ἀληθῶς: „że ten jest PRAWDZIWIE Mesjaszem\" (stąd Textus Receptus i starsze przekłady).",
+     "Dodatek powiela ἀληθῶς z pierwszej części zdania (czyżby NAPRAWDĘ poznali...), wzmacniając retorykę pytania; świadkowie egipscy i zachodni zgodnie go nie znają. Drobiazg pouczający o mechanice glos: kopista dopowiada słowo z sąsiedztwa, tekst rośnie symetrycznie — a krytyka tekstu uczy się czytać krótsze jako starsze (lectio brevior), gdy dłuższe da się wyjaśnić echem kontekstu."
+    ],
+    [
+     16,
+     "[ὁ] Ἰησοῦς",
+     "wariant lekcji",
+     "Rodzajnik przed imieniem w formule narracyjnej w. 16: obecny w części świadków, pominięty w innych (m.in. P66 P75 B wahają się w rozdziale między formułami z rodzajnikiem i bez). NA28 drukuje w nawiasie kwadratowym.",
+     "Czysto stylistyczne wahanie tradycji, bez cienia wpływu na sens — cenne jednak jako okno na warsztat NA28: edytorzy nie ukrywają nierozstrzygalności drobiazgów, lecz ją dokumentują; nawias kwadratowy jest znakiem uczciwości aparatu. Dla lektora i tłumacza: obie formy oddają po prostu „Jezus odpowiedział\"."
+    ],
+    [
+     34,
+     "οὐχ εὑρήσετέ [με]",
+     "wariant lekcji",
+     "Zaimek με po „nie znajdziecie\" (w. 34 i ponownie w. 36): obecny m.in. w P66 ℵ D; pominięty w P75 B. NA28 w obu miejscach drukuje [με] w nawiasie.",
+     "Wahanie typowe dla dopełnień domyślnych: sens pełny i bez zaimka („będziecie szukać i nie znajdziecie\" — z domyślnym: mnie), więc kopiści równie łatwo go dopisywali, jak gubili. Teologicznie ciekawa jest sama możliwość lektury absolutnej: „będziecie szukać — i nie znajdziecie\" (niczego! — szukanie po czasie kończy się pustką jako taką); NA28, nawiasując, pozwala usłyszeć oba odcienie: nie znajdziecie mnie — i: nie znajdziecie w ogóle."
+    ]
+   ],
+   "theme_links": [
+    [
+     "κρίσις — sąd, który się dokonuje",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "godzina Jezusa (ἡ ὥρα)",
+     [
+      "block",
+      "w. 25–31"
+     ]
+    ],
+    [
+     "szabat i dzieła Boże",
+     [
+      "block",
+      "w. 19–24"
+     ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 14–18"
+     ]
+    ],
+    [
+     "znaki (σημεῖα) i wiara",
+     [
+      "block",
+      "w. 25–31"
+     ]
+    ],
+    [
+     "κόσμος — świat umiłowany i wrogi",
+     [
+      "block",
+      "w. 32–36"
+     ]
+    ]
+   ],
+   "revision_note": "Dodano perykopę Nauczanie w połowie święta (J 7,14-36) w pełnym opracowaniu: pierwsza dysputa świąteczna (nauka nie moja i epistemologia posłuszeństwa w. 17, qal wachomer z obrzezania, sąd sprawiedliwy przeciw kat opsin, doktryna Mesjasza ukrytego wg Justyna Dial. 8, krzyk objawienia z dwoma skąd, pierwsza próba pojmania i godzina, enigmat krótkiego czasu z Prz 1,28 i Iz 55,6, mimowolne proroctwo o diasporze Greków), sekcje II-VIII (edukacja rabiniczna, halacha mili w szabat z Tosefta Szabat 15,16, Mesjasz ukryty, diaspora; tomizm: doctrina non mea, connaturalitas, hierarchia celów prawa, iudicium iustum), katena sześciu głosów (Chryzostom 49-50, Augustyn 29 i 31 z crede ut intelligas, Cyryl IV-V), aparat (w. 26 alethos, w. 16 rodzajnik, w. 34.36 [me]), odniesienia, liturgia (Mesopentekoste); nowe leksemy (didache, peritome, diaspora, piadzo, thaumadzo, kradzo), terminy qal wachomer i mila, temat krisis — sąd, który się dokonuje; status: ukończona"
+  }
+ ]
+}
