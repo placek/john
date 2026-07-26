@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–7,13** w siedemnastu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz szesnaście perykop J 1,15–7,13; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–7,36** w osiemnastu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz siedemnaście perykop J 1,15–7,36; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -24,6 +24,7 @@ data/                     ← źródła (pod kontrolą wersji)
   chleb.json             J 6,1-21 (Rozmnożenie chleba i przejście przez morze)
   eucharystia.json       J 6,22-71 (Mowa eucharystyczna o chlebie życia)
   bracia.json            J 7,1-13 (Niewiara braci i wejście na Święto Namiotów)
+  swieto.json            J 7,14-36 (Nauczanie w połowie święta)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -39,7 +40,7 @@ Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera, w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
-dworzanin → betesda → mowa → chleb → eucharystia → bracia`.
+dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto`.
 
 ## Warstwy schematu
 
@@ -151,6 +152,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 6,1–21 | Rozmnożenie chleba i przejście przez morze | ukończona |
 | J 6,22–71 | Mowa eucharystyczna o chlebie życia | ukończona |
 | J 7,1–13 | Niewiara braci i wejście na Święto Namiotów | ukończona |
+| J 7,14–36 | Nauczanie w połowie święta | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
