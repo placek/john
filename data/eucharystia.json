@@ -1,0 +1,1356 @@
+{
+ "books": [
+  [
+   "Kpł",
+   "Księga Kapłańska",
+   "ST",
+   3
+  ],
+  [
+   "1 Sm",
+   "Pierwsza Księga Samuela",
+   "ST",
+   9
+  ],
+  [
+   "Koh",
+   "Księga Koheleta",
+   "ST",
+   21
+  ],
+  [
+   "Lm",
+   "Lamentacje",
+   "ST",
+   26
+  ],
+  [
+   "Ga",
+   "List do Galatów",
+   "NT",
+   55
+  ]
+ ],
+ "verses": {
+  "chapter": 6,
+  "items": [
+   [
+    22,
+    "Τῇ ἐπαύριον ὁ ὄχλος ὁ ἑστηκὼς πέραν τῆς θαλάσσης εἶδον ὅτι πλοιάριον ἄλλο οὐκ ἦν ἐκεῖ εἰ μὴ ἓν καὶ ὅτι οὐ συνεισῆλθεν τοῖς μαθηταῖς αὐτοῦ ὁ Ἰησοῦς εἰς τὸ πλοῖον ἀλλὰ μόνοι οἱ μαθηταὶ αὐτοῦ ἀπῆλθον·",
+    "Nazajutrz tłum stojący po drugiej stronie morza zobaczył, że nie było tam innej łódki, tylko jedna, i że Jezus nie wsiadł do łodzi ze swoimi uczniami, lecz uczniowie Jego odpłynęli sami."
+   ],
+   [
+    23,
+    "ἄλλα ἦλθεν πλοι[άρι]α ἐκ Τιβεριάδος ἐγγὺς τοῦ τόπου ὅπου ἔφαγον τὸν ἄρτον εὐχαριστήσαντος τοῦ κυρίου.",
+    "Inne łódki przypłynęły z Tyberiady w pobliże miejsca, gdzie jedli chleb, gdy Pan uczynił dziękczynienie."
+   ],
+   [
+    24,
+    "ὅτε οὖν εἶδεν ὁ ὄχλος ὅτι Ἰησοῦς οὐκ ἔστιν ἐκεῖ οὐδὲ οἱ μαθηταὶ αὐτοῦ, ἐνέβησαν αὐτοὶ εἰς τὰ πλοιάρια καὶ ἦλθον εἰς Καφαρναοὺμ ζητοῦντες τὸν Ἰησοῦν.",
+    "Gdy więc tłum zobaczył, że nie ma tam Jezusa ani Jego uczniów, wsiedli sami do łódek i przybyli do Kafarnaum, szukając Jezusa."
+   ],
+   [
+    25,
+    "καὶ εὑρόντες αὐτὸν πέραν τῆς θαλάσσης εἶπον αὐτῷ· ῥαββί, πότε ὧδε γέγονας;",
+    "A znalazłszy Go po drugiej stronie morza, powiedzieli Mu: Rabbi, kiedy tu przybyłeś?"
+   ],
+   [
+    26,
+    "Ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς καὶ εἶπεν· ἀμὴν ἀμὴν λέγω ὑμῖν, ζητεῖτέ με οὐχ ὅτι εἴδετε σημεῖα, ἀλλ᾽ ὅτι ἐφάγετε ἐκ τῶν ἄρτων καὶ ἐχορτάσθητε.",
+    "Odpowiedział im Jezus i rzekł: Zaprawdę, zaprawdę powiadam wam: szukacie mnie nie dlatego, że widzieliście znaki, ale dlatego, że jedliście z chlebów i nasyciliście się."
+   ],
+   [
+    27,
+    "ἐργάζεσθε μὴ τὴν βρῶσιν τὴν ἀπολλυμένην ἀλλὰ τὴν βρῶσιν τὴν μένουσαν εἰς ζωὴν αἰώνιον, ἣν ὁ υἱὸς τοῦ ἀνθρώπου ὑμῖν δώσει· τοῦτον γὰρ ὁ πατὴρ ἐσφράγισεν ὁ θεός.",
+    "Zabiegajcie nie o pokarm, który ginie, ale o pokarm trwający ku życiu wiecznemu, który da wam Syn Człowieczy; Jego bowiem opieczętował Ojciec — Bóg."
+   ],
+   [
+    28,
+    "εἶπον οὖν πρὸς αὐτόν· τί ποιῶμεν ἵνα ἐργαζώμεθα τὰ ἔργα τοῦ θεοῦ;",
+    "Powiedzieli więc do Niego: Co mamy czynić, abyśmy wykonywali dzieła Boże?"
+   ],
+   [
+    29,
+    "ἀπεκρίθη [ὁ] Ἰησοῦς καὶ εἶπεν αὐτοῖς· τοῦτό ἐστιν τὸ ἔργον τοῦ θεοῦ, ἵνα πιστεύητε εἰς ὃν ἀπέστειλεν ἐκεῖνος.",
+    "Odpowiedział Jezus i rzekł im: To jest dzieło Boże: abyście wierzyli w Tego, którego On posłał."
+   ],
+   [
+    30,
+    "Εἶπον οὖν αὐτῷ· τί οὖν ποιεῖς σὺ σημεῖον, ἵνα ἴδωμεν καὶ πιστεύσωμέν σοι; τί ἐργάζῃ;",
+    "Powiedzieli więc Mu: Jaki więc Ty czynisz znak, abyśmy zobaczyli i uwierzyli Tobie? Czego dokonujesz?"
+   ],
+   [
+    31,
+    "οἱ πατέρες ἡμῶν τὸ μάννα ἔφαγον ἐν τῇ ἐρήμῳ, καθώς ἐστιν γεγραμμένον· ἄρτον ἐκ τοῦ οὐρανοῦ ἔδωκεν αὐτοῖς φαγεῖν.",
+    "Ojcowie nasi jedli mannę na pustyni, jak jest napisane: Chleb z nieba dał im do jedzenia."
+   ],
+   [
+    32,
+    "εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· ἀμὴν ἀμὴν λέγω ὑμῖν, οὐ Μωϋσῆς δέδωκεν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ, ἀλλ᾽ ὁ πατήρ μου δίδωσιν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ τὸν ἀληθινόν·",
+    "Rzekł im więc Jezus: Zaprawdę, zaprawdę powiadam wam: nie Mojżesz dał wam chleb z nieba, ale Ojciec mój daje wam prawdziwy chleb z nieba."
+   ],
+   [
+    33,
+    "ὁ γὰρ ἄρτος τοῦ θεοῦ ἐστιν ὁ καταβαίνων ἐκ τοῦ οὐρανοῦ καὶ ζωὴν διδοὺς τῷ κόσμῳ.",
+    "Albowiem chlebem Bożym jest Ten, który zstępuje z nieba i daje życie światu."
+   ],
+   [
+    34,
+    "εἶπον οὖν πρὸς αὐτόν· κύριε, πάντοτε δὸς ἡμῖν τὸν ἄρτον τοῦτον.",
+    "Powiedzieli więc do Niego: Panie, dawaj nam zawsze tego chleba."
+   ],
+   [
+    35,
+    "εἶπεν αὐτοῖς ὁ Ἰησοῦς· ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς· ὁ ἐρχόμενος πρὸς ἐμὲ οὐ μὴ πεινάσῃ, καὶ ὁ πιστεύων εἰς ἐμὲ οὐ μὴ διψήσει πώποτε.",
+    "Rzekł im Jezus: JA JESTEM chlebem życia. Kto przychodzi do mnie, nie będzie łaknął, a kto wierzy we mnie, nigdy pragnąć nie będzie."
+   ],
+   [
+    36,
+    "Ἀλλ᾽ εἶπον ὑμῖν ὅτι καὶ ἑωράκατέ [με] καὶ οὐ πιστεύετε.",
+    "Ale powiedziałem wam: ujrzeliście mnie, a nie wierzycie."
+   ],
+   [
+    37,
+    "πᾶν ὃ δίδωσίν μοι ὁ πατὴρ πρὸς ἐμὲ ἥξει, καὶ τὸν ἐρχόμενον πρὸς ἐμὲ οὐ μὴ ἐκβάλω ἔξω,",
+    "Wszystko, co daje mi Ojciec, do mnie przyjdzie, a tego, który do mnie przychodzi, nie wyrzucę precz,"
+   ],
+   [
+    38,
+    "ὅτι καταβέβηκα ἀπὸ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με.",
+    "bo zstąpiłem z nieba nie po to, aby czynić swoją wolę, ale wolę Tego, który mnie posłał."
+   ],
+   [
+    39,
+    "τοῦτο δέ ἐστιν τὸ θέλημα τοῦ πέμψαντός με, ἵνα πᾶν ὃ δέδωκέν μοι μὴ ἀπολέσω ἐξ αὐτοῦ, ἀλλὰ ἀναστήσω αὐτὸ [ἐν] τῇ ἐσχάτῃ ἡμέρᾳ.",
+    "A to jest wola Tego, który mnie posłał: abym nic nie stracił z tego wszystkiego, co mi dał, lecz wskrzesił to w dniu ostatecznym."
+   ],
+   [
+    40,
+    "τοῦτο γάρ ἐστιν τὸ θέλημα τοῦ πατρός μου, ἵνα πᾶς ὁ θεωρῶν τὸν υἱὸν καὶ πιστεύων εἰς αὐτὸν ἔχῃ ζωὴν αἰώνιον, καὶ ἀναστήσω αὐτὸν ἐγὼ [ἐν] τῇ ἐσχάτῃ ἡμέρᾳ.",
+    "To bowiem jest wola Ojca mego: aby każdy, kto widzi Syna i wierzy w Niego, miał życie wieczne; a Ja go wskrzeszę w dniu ostatecznym."
+   ],
+   [
+    41,
+    "Ἐγόγγυζον οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι εἶπεν· ἐγώ εἰμι ὁ ἄρτος ὁ καταβὰς ἐκ τοῦ οὐρανοῦ,",
+    "Szemrali więc Żydzi przeciw Niemu, że powiedział: JA JESTEM chlebem, który zstąpił z nieba,"
+   ],
+   [
+    42,
+    "καὶ ἔλεγον· οὐχ οὗτός ἐστιν Ἰησοῦς ὁ υἱὸς Ἰωσήφ, οὗ ἡμεῖς οἴδαμεν τὸν πατέρα καὶ τὴν μητέρα; πῶς νῦν λέγει ὅτι ἐκ τοῦ οὐρανοῦ καταβέβηκα;",
+    "i mówili: Czyż to nie jest Jezus, syn Józefa, którego ojca i matkę my znamy? Jakże teraz mówi: Z nieba zstąpiłem?"
+   ],
+   [
+    43,
+    "ἀπεκρίθη Ἰησοῦς καὶ εἶπεν αὐτοῖς· μὴ γογγύζετε μετ᾽ ἀλλήλων.",
+    "Odpowiedział Jezus i rzekł im: Nie szemrajcie między sobą."
+   ],
+   [
+    44,
+    "οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ὁ πατὴρ ὁ πέμψας με ἑλκύσῃ αὐτόν, κἀγὼ ἀναστήσω αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ.",
+    "Nikt nie może przyjść do mnie, jeśli go nie pociągnie Ojciec, który mnie posłał; a Ja go wskrzeszę w dniu ostatecznym."
+   ],
+   [
+    45,
+    "ἔστιν γεγραμμένον ἐν τοῖς προφήταις· καὶ ἔσονται πάντες διδακτοὶ θεοῦ· πᾶς ὁ ἀκούσας παρὰ τοῦ πατρὸς καὶ μαθὼν ἔρχεται πρὸς ἐμέ.",
+    "Napisane jest u Proroków: I będą wszyscy pouczeni przez Boga. Każdy, kto usłyszał od Ojca i przyjął naukę, przychodzi do mnie."
+   ],
+   [
+    46,
+    "οὐχ ὅτι τὸν πατέρα ἑώρακέν τις εἰ μὴ ὁ ὢν παρὰ τοῦ θεοῦ, οὗτος ἑώρακεν τὸν πατέρα.",
+    "Nie znaczy to, że ktokolwiek widział Ojca — tylko Ten, który jest od Boga, Ten widział Ojca."
+   ],
+   [
+    47,
+    "ἀμὴν ἀμὴν λέγω ὑμῖν, ὁ πιστεύων ἔχει ζωὴν αἰώνιον.",
+    "Zaprawdę, zaprawdę powiadam wam: kto wierzy, ma życie wieczne."
+   ],
+   [
+    48,
+    "Ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς.",
+    "JA JESTEM chlebem życia."
+   ],
+   [
+    49,
+    "οἱ πατέρες ὑμῶν ἔφαγον ἐν τῇ ἐρήμῳ τὸ μάννα καὶ ἀπέθανον·",
+    "Ojcowie wasi jedli na pustyni mannę — i pomarli."
+   ],
+   [
+    50,
+    "οὗτός ἐστιν ὁ ἄρτος ὁ ἐκ τοῦ οὐρανοῦ καταβαίνων, ἵνα τις ἐξ αὐτοῦ φάγῃ καὶ μὴ ἀποθάνῃ.",
+    "To jest chleb, który z nieba zstępuje: aby ten, kto z niego je, nie umarł."
+   ],
+   [
+    51,
+    "ἐγώ εἰμι ὁ ἄρτος ὁ ζῶν ὁ ἐκ τοῦ οὐρανοῦ καταβάς· ἐάν τις φάγῃ ἐκ τούτου τοῦ ἄρτου ζήσει εἰς τὸν αἰῶνα, καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω ἡ σάρξ μού ἐστιν ὑπὲρ τῆς τοῦ κόσμου ζωῆς.",
+    "JA JESTEM chlebem żywym, który zstąpił z nieba. Jeśli ktoś spożywa z tego chleba, żyć będzie na wieki; a chlebem, który Ja dam, jest moje ciało — za życie świata."
+   ],
+   [
+    52,
+    "Ἐμάχοντο οὖν πρὸς ἀλλήλους οἱ Ἰουδαῖοι λέγοντες· πῶς δύναται οὗτος ἡμῖν δοῦναι τὴν σάρκα [αὐτοῦ] φαγεῖν;",
+    "Spierali się więc Żydzi między sobą, mówiąc: Jak On może nam dać swoje ciało do jedzenia?"
+   ],
+   [
+    53,
+    "εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· ἀμὴν ἀμὴν λέγω ὑμῖν, ἐὰν μὴ φάγητε τὴν σάρκα τοῦ υἱοῦ τοῦ ἀνθρώπου καὶ πίητε αὐτοῦ τὸ αἷμα, οὐκ ἔχετε ζωὴν ἐν ἑαυτοῖς.",
+    "Rzekł im więc Jezus: Zaprawdę, zaprawdę powiadam wam: jeśli nie będziecie jedli ciała Syna Człowieczego i nie będziecie pili Jego krwi, nie macie życia w sobie."
+   ],
+   [
+    54,
+    "ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἔχει ζωὴν αἰώνιον, κἀγὼ ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ.",
+    "Kto spożywa moje ciało i pije moją krew, ma życie wieczne, a Ja go wskrzeszę w dniu ostatecznym."
+   ],
+   [
+    55,
+    "ἡ γὰρ σάρξ μου ἀληθής ἐστιν βρῶσις, καὶ τὸ αἷμά μου ἀληθής ἐστιν πόσις.",
+    "Ciało moje bowiem jest prawdziwym pokarmem, a krew moja jest prawdziwym napojem."
+   ],
+   [
+    56,
+    "ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἐν ἐμοὶ μένει κἀγὼ ἐν αὐτῷ.",
+    "Kto spożywa moje ciało i pije moją krew, trwa we mnie, a ja w nim."
+   ],
+   [
+    57,
+    "καθὼς ἀπέστειλέν με ὁ ζῶν πατὴρ κἀγὼ ζῶ διὰ τὸν πατέρα, καὶ ὁ τρώγων με κἀκεῖνος ζήσει δι᾽ ἐμέ.",
+    "Jak mnie posłał żyjący Ojciec i ja żyję przez Ojca, tak i ten, kto mnie spożywa, żyć będzie przeze mnie."
+   ],
+   [
+    58,
+    "οὗτός ἐστιν ὁ ἄρτος ὁ ἐξ οὐρανοῦ καταβάς, οὐ καθὼς ἔφαγον οἱ πατέρες καὶ ἀπέθανον· ὁ τρώγων τοῦτον τὸν ἄρτον ζήσει εἰς τὸν αἰῶνα.",
+    "To jest chleb, który z nieba zstąpił — nie taki, jaki jedli ojcowie i pomarli. Kto spożywa ten chleb, żyć będzie na wieki."
+   ],
+   [
+    59,
+    "Ταῦτα εἶπεν ἐν συναγωγῇ διδάσκων ἐν Καφαρναούμ.",
+    "To powiedział, nauczając w synagodze w Kafarnaum."
+   ],
+   [
+    60,
+    "Πολλοὶ οὖν ἀκούσαντες ἐκ τῶν μαθητῶν αὐτοῦ εἶπαν· σκληρός ἐστιν ὁ λόγος οὗτος· τίς δύναται αὐτοῦ ἀκούειν;",
+    "Wielu więc z Jego uczniów, usłyszawszy, powiedziało: Twarda jest ta mowa. Kto może jej słuchać?"
+   ],
+   [
+    61,
+    "εἰδὼς δὲ ὁ Ἰησοῦς ἐν ἑαυτῷ ὅτι γογγύζουσιν περὶ τούτου οἱ μαθηταὶ αὐτοῦ εἶπεν αὐτοῖς· τοῦτο ὑμᾶς σκανδαλίζει;",
+    "A Jezus, wiedząc w sobie, że Jego uczniowie na to szemrzą, rzekł im: To was gorszy?"
+   ],
+   [
+    62,
+    "ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον;",
+    "A gdy ujrzycie Syna Człowieczego wstępującego tam, gdzie był pierwej?"
+   ],
+   [
+    63,
+    "τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν· τὰ ῥήματα ἃ ἐγὼ λελάληκα ὑμῖν πνεῦμά ἐστιν καὶ ζωή ἐστιν.",
+    "Duch jest tym, który ożywia; ciało nic nie pomaga. Słowa, które ja wam powiedziałem, są duchem i są życiem."
+   ],
+   [
+    64,
+    "ἀλλ᾽ εἰσὶν ἐξ ὑμῶν τινες οἳ οὐ πιστεύουσιν. ᾔδει γὰρ ἐξ ἀρχῆς ὁ Ἰησοῦς τίνες εἰσὶν οἱ μὴ πιστεύοντες καὶ τίς ἐστιν ὁ παραδώσων αὐτόν.",
+    "Ale są wśród was tacy, którzy nie wierzą. Jezus bowiem wiedział od początku, którzy nie wierzą i kto jest tym, który Go wyda."
+   ],
+   [
+    65,
+    "καὶ ἔλεγεν· διὰ τοῦτο εἴρηκα ὑμῖν ὅτι οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ᾖ δεδομένον αὐτῷ ἐκ τοῦ πατρός.",
+    "I mówił: Dlatego powiedziałem wam, że nikt nie może przyjść do mnie, jeśli mu to nie zostało dane od Ojca."
+   ],
+   [
+    66,
+    "Ἐκ τούτου πολλοὶ [ἐκ] τῶν μαθητῶν αὐτοῦ ἀπῆλθον εἰς τὰ ὀπίσω καὶ οὐκέτι μετ᾽ αὐτοῦ περιεπάτουν.",
+    "Odtąd wielu z Jego uczniów odeszło wstecz i już z Nim nie chodzili."
+   ],
+   [
+    67,
+    "εἶπεν οὖν ὁ Ἰησοῦς τοῖς δώδεκα· μὴ καὶ ὑμεῖς θέλετε ὑπάγειν;",
+    "Rzekł więc Jezus do Dwunastu: Czy i wy chcecie odejść?"
+   ],
+   [
+    68,
+    "ἀπεκρίθη αὐτῷ Σίμων Πέτρος· κύριε, πρὸς τίνα ἀπελευσόμεθα; ῥήματα ζωῆς αἰωνίου ἔχεις,",
+    "Odpowiedział Mu Szymon Piotr: Panie, do kogo pójdziemy? Ty masz słowa życia wiecznego,"
+   ],
+   [
+    69,
+    "καὶ ἡμεῖς πεπιστεύκαμεν καὶ ἐγνώκαμεν ὅτι σὺ εἶ ὁ ἅγιος τοῦ θεοῦ.",
+    "a my uwierzyliśmy i poznaliśmy, że Ty jesteś Świętym Boga."
+   ],
+   [
+    70,
+    "ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· οὐκ ἐγὼ ὑμᾶς τοὺς δώδεκα ἐξελεξάμην; καὶ ἐξ ὑμῶν εἷς διάβολός ἐστιν.",
+    "Odpowiedział im Jezus: Czyż nie Ja was wybrałem, Dwunastu? A jeden z was jest diabłem."
+   ],
+   [
+    71,
+    "ἔλεγεν δὲ τὸν Ἰούδαν Σίμωνος Ἰσκαριώτου· οὗτος γὰρ ἔμελλεν παραδιδόναι αὐτόν, εἷς ἐκ τῶν δώδεκα.",
+    "A mówił o Judaszu, synu Szymona Iskarioty; ten bowiem miał Go wydać — jeden z Dwunastu."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "τρώγω",
+   "trogo",
+   "czasownik",
+   "gryźć, żuć, chrupać — fizjologicznie konkretny czasownik spożywania; 4x w J 6,54-58 i w 13,18"
+  ],
+  [
+   "αἷμα",
+   "haima",
+   "rzeczownik",
+   "krew — siedziba duszy wedle Kpł 17,11; w J 6 napój prawdziwy, w 19,34 wypływa z boku"
+  ],
+  [
+   "βρῶσις",
+   "brosis",
+   "rzeczownik",
+   "pokarm, jedzenie — pokarm ginący vs trwający (6,27); ciało jako prawdziwy pokarm (6,55)"
+  ],
+  [
+   "γογγύζω",
+   "gongydzo",
+   "czasownik",
+   "szemrać — czasownik LXX o pokoleniu pustyni przeciw Mojżeszowi (Wj 16,2; Lb 14,2)"
+  ],
+  [
+   "σκληρός",
+   "skleros",
+   "przymiotnik",
+   "twardy, szorstki, nie do przełknięcia — o mowie eucharystycznej (6,60)"
+  ],
+  [
+   "ἕλκω",
+   "helko",
+   "czasownik",
+   "ciągnąć, pociągać — o Ojcu pociągającym do Syna (6,44) i o Synu pociągającym wszystkich (12,32)"
+  ]
+ ],
+ "semitic": [
+  [
+   "אֲנִי הוּא",
+   "ani hu",
+   "hbr",
+   "Ja [nim] jestem — formuła samoobjawienia Boga u Deutero-Izajasza (Iz 41,4; 43,10.13); w LXX oddana jako ego eimi — najbliższe zaplecze Janowego JA JESTEM"
+  ],
+  [
+   "נֶפֶשׁ",
+   "nefesz",
+   "hbr",
+   "dusza, życie — wedle Kpł 17,11 dusza ciała jest we krwi; teologiczny fundament tabu spożywania krwi"
+  ],
+  [
+   "כָּרֵת",
+   "karet",
+   "hbr",
+   "odcięcie — najsurowsza kara religijna Tory: wykluczenie z ludu przymierza, m.in. za spożycie krwi (Kpł 7,27)"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "αἷμα",
+   "nefesz",
+   "zakaz picia krwi opiera się na tożsamości krwi i duszy (nefesz); Jezus w 6,53-56 nie znosi tego fundamentu, lecz go odwraca: Jego krew ma być pita właśnie dlatego, że jest Boża i służy ekspiacji"
+  ],
+  [
+   "ἐγώ εἰμι",
+   "ani hu",
+   "absolutne ἐγώ εἰμι mowy kafarnejskiej (6,35.41.48.51 z orzecznikiem chleba; wcześniej 6,20 bez orzecznika) kontynuuje Izajaszowe ani hu — imię Jedynego wobec bożków"
+  ]
+ ],
+ "occurrences": [
+  [
+   "εὐχαριστέω",
+   23,
+   "εὐχαριστήσαντος"
+  ],
+  [
+   "ὄχλος",
+   24,
+   "ὄχλος"
+  ],
+  [
+   "σημεῖον",
+   26,
+   "σημεῖα"
+  ],
+  [
+   "βρῶσις",
+   27,
+   "βρῶσιν"
+  ],
+  [
+   "μένω",
+   27,
+   "μένουσαν"
+  ],
+  [
+   "ζωή",
+   27,
+   "ζωὴν αἰώνιον"
+  ],
+  [
+   "πιστεύω",
+   29,
+   "πιστεύητε"
+  ],
+  [
+   "ἄρτος",
+   31,
+   "ἄρτον"
+  ],
+  [
+   "ἄρτος",
+   32,
+   "ἄρτον"
+  ],
+  [
+   "ἀλήθεια",
+   32,
+   "ἀληθινόν"
+  ],
+  [
+   "ἄρτος",
+   33,
+   "ἄρτος"
+  ],
+  [
+   "ἐγώ εἰμι",
+   35,
+   "ἐγώ εἰμι"
+  ],
+  [
+   "ἄρτος",
+   35,
+   "ἄρτος τῆς ζωῆς"
+  ],
+  [
+   "γογγύζω",
+   41,
+   "ἐγόγγυζον"
+  ],
+  [
+   "ἕλκω",
+   44,
+   "ἑλκύσῃ"
+  ],
+  [
+   "ἐγώ εἰμι",
+   48,
+   "ἐγώ εἰμι"
+  ],
+  [
+   "ἐγώ εἰμι",
+   51,
+   "ἐγώ εἰμι"
+  ],
+  [
+   "σάρξ",
+   51,
+   "σάρξ"
+  ],
+  [
+   "σάρξ",
+   52,
+   "σάρκα"
+  ],
+  [
+   "σάρξ",
+   53,
+   "σάρκα"
+  ],
+  [
+   "αἷμα",
+   53,
+   "αἷμα"
+  ],
+  [
+   "τρώγω",
+   54,
+   "τρώγων"
+  ],
+  [
+   "αἷμα",
+   54,
+   "αἷμα"
+  ],
+  [
+   "σάρξ",
+   55,
+   "σάρξ"
+  ],
+  [
+   "αἷμα",
+   55,
+   "αἷμα"
+  ],
+  [
+   "βρῶσις",
+   55,
+   "βρῶσις"
+  ],
+  [
+   "τρώγω",
+   56,
+   "τρώγων"
+  ],
+  [
+   "μένω",
+   56,
+   "μένει"
+  ],
+  [
+   "τρώγω",
+   57,
+   "τρώγων"
+  ],
+  [
+   "τρώγω",
+   58,
+   "τρώγων"
+  ],
+  [
+   "σκληρός",
+   60,
+   "σκληρός"
+  ],
+  [
+   "γογγύζω",
+   61,
+   "γογγύζουσιν"
+  ],
+  [
+   "πνεῦμα",
+   63,
+   "πνεῦμα"
+  ],
+  [
+   "σάρξ",
+   63,
+   "σάρξ"
+  ],
+  [
+   "ζωή",
+   63,
+   "ζωή"
+  ],
+  [
+   "πιστεύω",
+   64,
+   "πιστεύουσιν"
+  ],
+  [
+   "πιστεύω",
+   69,
+   "πεπιστεύκαμεν"
+  ]
+ ],
+ "works": [
+  [
+   "P. Borgen",
+   "Bread from Heaven: An Exegetical Study of the Concept of Manna",
+   null,
+   "XX",
+   "wspolczesna"
+  ],
+  [
+   "Autor projektu",
+   "Eucharystia według świętego Jana — realna obecność, typologie eucharystyczne i kompozycyjne wzorce w czwartej Ewangelii",
+   null,
+   "XXI",
+   "wspolczesna"
+  ]
+ ],
+ "themes": [
+  [
+   "Eucharystia — realna obecność",
+   "Janowa teologia eucharystyczna: mowa kafarnejska (J 6,22-71) z eskalacją τρώγειν i ofiarniczym ὑπέρ, sekwencja gestów 6,11, krew i woda z boku (19,34), posiłek nad jeziorem (21,9-13); Ewangelia bez opisu ustanowienia — a najgłębiej eucharystyczna."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 6,
+    "vs": 22,
+    "ce": 6,
+    "ve": 71,
+    "title": "Mowa eucharystyczna o chlebie życia",
+    "motto": "Ego sum panis vitae (JA JESTEM chlebem życia)",
+    "status": "ukonczona",
+    "position": 16
+   },
+   "intro": "Największa mowa czwartej Ewangelii — homilia w synagodze kafarnejskiej, w której znak chleba zostaje wyłożony aż do dna. Dialog z tłumem jest skomponowany jako eskalacja krok po kroku: od pokarmu, który ginie, przez mannę i prawdziwy chleb z nieba, przez pierwsze JA JESTEM z orzecznikiem — chlebem życia — aż po zdanie graniczne: chlebem, który Ja dam, jest moje ciało za życie świata, i po wezwanie do spożywania Ciała i picia Krwi, którego Jezus wobec zgorszenia nie łagodzi, lecz zaostrza. Mowa kończy się przesiewem: wielu uczniów odchodzi, Piotr wyznaje — Panie, do kogo pójdziemy? — a pośród Dwunastu zostaje wskazany ten, który nie uwierzył. Ewangelia, która nie opisze ustanowienia Eucharystii w Wieczerniku, tutaj wypowiada całą jej teologię.",
+   "struktura": "Mowa jest zbudowana jak homilia synagogalna nad podwójnym tekstem — Wj 16 (manna) i Ps 78,24, zacytowanym przez tłum w w. 31: „chleb z nieba dał im do jedzenia\" — którego kolejne człony Jezus wykłada i prostuje: nie Mojżesz — lecz Ojciec; nie dał — lecz daje; nie mannę — lecz chleb prawdziwy, którym jest On sam; nie ojcom — lecz światu. Dramaturgicznie całość biegnie jako eskalacja w siedmiu krokach, z których żaden nie cofa poprzedniego: (1) w. 22-25 — tłum przeprawia się i pyta o logistykę (kiedy tu przybyłeś?), na co Jezus nie odpowie ani razu; (2) w. 26-27 — demaskacja motywacji (szukacie mnie, bo jedliście) i pierwsze przesunięcie: pokarm ginący — pokarm trwający (μένουσαν!) ku życiu wiecznemu; (3) w. 28-29 — redukcja dzieł do jednego: wiara w Posłanego; (4) w. 30-33 — żądanie znaku z cytatem o mannie i odpowiedź prostująca podmiot, czas i przedmiot daru; (5) w. 34-40 — prośba „dawaj nam zawsze\" (bliźniacza wobec Samarytanki, 4,15) i pierwsza deklaracja: JA JESTEM chlebem życia, z ramą eschatologiczną (czterokrotne „wskrzeszę w dniu ostatecznym\": w. 39.40.44.54); (6) w. 41-51 — szemranie (ἐγόγγυζον — czasownik pokolenia pustyni) i kulminacja: chleb, który Ja dam, to moje ciało ZA (ὑπέρ) życie świata; (7) w. 52-58 — spór (ἐμάχοντο) i ostateczne zaostrzenie: nie tylko jeść, lecz gryźć (τρώγειν, 4x) Ciało i pić Krew, z formułą wzajemnego trwania (ἐν ἐμοὶ μένει κἀγὼ ἐν αὐτῷ). Epilog (w. 59-71) jest sceną przesiewu (krisis): twarda mowa — pytanie o Wniebowstąpienie (w. 62) — słowo o Duchu, który ożywia (w. 63) — odejście wielu (w. 66) — pytanie do Dwunastu i wyznanie Piotra (w. 68-69) — i cień Judasza (w. 70-71): trzy odpowiedzi na tę samą mowę, trzy losy. Zwornikiem kompozycji jest pęknięcie Janowego schematu korekt: wszędzie indziej po dosłownym niezrozumieniu przychodzi sprostowanie — tu, jedyny raz, zamiast korekty przychodzi zaostrzenie; a miejsce akcji, podane z opóźnieniem w w. 59 (synagoga w Kafarnaum), pieczętuje mowę jako liturgię słowa, która domaga się liturgii chleba.",
+   "blocks": [
+    {
+     "cs": 6,
+     "vs": 22,
+     "ce": 6,
+     "ve": 25,
+     "label": "w. 22–25",
+     "greek": "Τῇ ἐπαύριον ὁ ὄχλος ὁ ἑστηκὼς πέραν τῆς θαλάσσης εἶδον ὅτι πλοιάριον ἄλλο οὐκ ἦν ἐκεῖ εἰ μὴ ἓν καὶ ὅτι οὐ συνεισῆλθεν τοῖς μαθηταῖς αὐτοῦ ὁ Ἰησοῦς εἰς τὸ πλοῖον ἀλλὰ μόνοι οἱ μαθηταὶ αὐτοῦ ἀπῆλθον· ἄλλα ἦλθεν πλοι[άρι]α ἐκ Τιβεριάδος ἐγγὺς τοῦ τόπου ὅπου ἔφαγον τὸν ἄρτον εὐχαριστήσαντος τοῦ κυρίου. ὅτε οὖν εἶδεν ὁ ὄχλος ὅτι Ἰησοῦς οὐκ ἔστιν ἐκεῖ οὐδὲ οἱ μαθηταὶ αὐτοῦ, ἐνέβησαν αὐτοὶ εἰς τὰ πλοιάρια καὶ ἦλθον εἰς Καφαρναοὺμ ζητοῦντες τὸν Ἰησοῦν. καὶ εὑρόντες αὐτὸν πέραν τῆς θαλάσσης εἶπον αὐτῷ· ῥαββί, πότε ὧδε γέγονας;",
+     "transl": "Nazajutrz tłum stojący po drugiej stronie morza zobaczył, że nie było tam innej łódki, tylko jedna, i że Jezus nie wsiadł do łodzi ze swoimi uczniami, lecz uczniowie Jego odpłynęli sami. Inne łódki przypłynęły z Tyberiady w pobliże miejsca, gdzie jedli chleb, gdy Pan uczynił dziękczynienie. Gdy więc tłum zobaczył, że nie ma tam Jezusa ani Jego uczniów, wsiedli sami do łódek i przybyli do Kafarnaum, szukając Jezusa. A znalazłszy Go po drugiej stronie morza, powiedzieli Mu: Rabbi, kiedy tu przybyłeś?",
+     "units": [
+      [
+       "ὅπου ἔφαγον τὸν ἄρτον εὐχαριστήσαντος τοῦ κυρίου",
+       "gdzie jedli chleb, gdy Pan uczynił dziękczynienie",
+       "Narrator, streszczając wczorajszy znak jednym zdaniem względnym, wybiera z niego dwa słowa — chleb i dziękczynienie — i dodaje tytuł, którego dotąd w narracji ewangelista skąpił: ὁ κύριος, Pan. Miejsce cudu zostaje zapamiętane nie jako „miejsce nakarmienia pięciu tysięcy\", lecz jako miejsce, gdzie jedzono chleb po dziękczynieniu Pana — czyli w słowniku wspólnoty Janowej: miejsce pierwszej eucharystii. To zdanie jest małym oknem na to, jak Kościół końca I wieku opowiadał sobie tę scenę (część tradycji rękopiśmiennej opuszcza te słowa — zob. aparat — co tylko potwierdza, że brzmiały one liturgicznie już dla starożytnych kopistów). Zarazem blok w. 22-25 pełni funkcję dramaturgiczną: skrupulatny, niemal protokolarny rachunek łodzi (jedna łódka, uczniowie odpłynęli sami, Jezus nie wsiadł) buduje zagadkę, której tłum nie umie rozwiązać — Jezus przeszedł na drugą stronę sposobem, o którym wiedzą tylko ci z łodzi. Mowa kafarnejska będzie więc wygłoszona do dwóch audytoriów naraz: do tłumu, który zna tylko chleb, i do uczniów, którzy nocą usłyszeli JA JESTEM; ta asymetria wiedzy — tłum nie wie, jak Jezus się przeprawił, czytelnik wie — jest Janową ironią założycielską całej sceny i wyjaśni, czemu na końcu jedni odejdą, a drudzy zostaną."
+      ],
+      [
+       "ῥαββί, πότε ὧδε γέγονας;",
+       "Rabbi, kiedy tu przybyłeś?",
+       "Pierwsze słowa tłumu w wielkiej mowie są pytaniem o rozkład jazdy. Πότε — kiedy? — po znaku rozmnożenia i (niewidzianej przez nich) teofanii na morzu tłum pyta o szczegół logistyczny; tak samo zaczynali Nikodem (jak może się narodzić stary człowiek? 3,4) i Samarytanka (nie masz czerpaka, 4,11): Janowe dialogi objawienia rutynowo startują z poziomu materialnego konkretu. Jezus na to pytanie nie odpowie ani jednym słowem — i to milczenie jest programowe: przez całą mowę będzie przenosił rozmowę z płaszczyzny „jak i kiedy\" na płaszczyznę „kto i po co\"; kto śledzi Jego odpowiedzi, zobaczy, że żadna nie odpowiada na pytanie postawione, a każda na pytanie, które powinno było zostać postawione. Jest w tym również delikatna korekta tytułu: tłum mówi ῥαββί — nauczycielu — i traktuje Go jak dostawcę rozwiązań; mowa doprowadzi ich do miejsca, w którym trzeba będzie powiedzieć albo „twarda jest ta mowa\" i odejść, albo z Piotrem: κύριε — Panie, do kogo pójdziemy? Od rabbiego można odejść do innego rabbiego; od Pana, który ma słowa życia wiecznego, nie ma dokąd."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 26,
+     "ce": 6,
+     "ve": 29,
+     "label": "w. 26–29",
+     "greek": "Ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς καὶ εἶπεν· ἀμὴν ἀμὴν λέγω ὑμῖν, ζητεῖτέ με οὐχ ὅτι εἴδετε σημεῖα, ἀλλ᾽ ὅτι ἐφάγετε ἐκ τῶν ἄρτων καὶ ἐχορτάσθητε. ἐργάζεσθε μὴ τὴν βρῶσιν τὴν ἀπολλυμένην ἀλλὰ τὴν βρῶσιν τὴν μένουσαν εἰς ζωὴν αἰώνιον, ἣν ὁ υἱὸς τοῦ ἀνθρώπου ὑμῖν δώσει· τοῦτον γὰρ ὁ πατὴρ ἐσφράγισεν ὁ θεός. εἶπον οὖν πρὸς αὐτόν· τί ποιῶμεν ἵνα ἐργαζώμεθα τὰ ἔργα τοῦ θεοῦ; ἀπεκρίθη [ὁ] Ἰησοῦς καὶ εἶπεν αὐτοῖς· τοῦτό ἐστιν τὸ ἔργον τοῦ θεοῦ, ἵνα πιστεύητε εἰς ὃν ἀπέστειλεν ἐκεῖνος.",
+     "transl": "Odpowiedział im Jezus i rzekł: Zaprawdę, zaprawdę powiadam wam: szukacie mnie nie dlatego, że widzieliście znaki, ale dlatego, że jedliście z chlebów i nasyciliście się. Zabiegajcie nie o pokarm, który ginie, ale o pokarm trwający ku życiu wiecznemu, który da wam Syn Człowieczy; Jego bowiem opieczętował Ojciec — Bóg. Powiedzieli więc do Niego: Co mamy czynić, abyśmy wykonywali dzieła Boże? Odpowiedział Jezus i rzekł im: To jest dzieło Boże: abyście wierzyli w Tego, którego On posłał.",
+     "units": [
+      [
+       "ζητεῖτέ με ... ὅτι ἐφάγετε ἐκ τῶν ἄρτων καὶ ἐχορτάσθητε",
+       "szukacie mnie ... bo jedliście z chlebów i nasyciliście się",
+       "Pierwsze zdanie mowy jest diagnozą bez znieczulenia — i bez pogardy. Jezus nie gani tłumu za głód ani za szukanie (sam ich nakarmił do syta: ἐχορτάσθητε to czasownik pełnego nasycenia); gani za to, że w znaku zobaczyli tylko posiłek. Widzieć znak (σημεῖον) znaczy u Jana: przejść po nim jak po moście — od chleba do Dawcy; tłum na moście rozbił obóz. Ta demaskacja motywacji jest wstępnym warunkiem całej mowy: zanim Jezus cokolwiek objawi, musi najpierw powiedzieć słuchaczom, po co naprawdę przyszli — bo objawienie przyjęte z niewłaściwego motywu zostanie znów przełknięte jak obiad. Zdanie pozostaje najkrótszą definicją religijności konsumpcyjnej, jaka istnieje w Piśmie: szukać Jezusa nie dla Niego, lecz dla świadczeń — i pozostaje pytaniem rachunku sumienia dla każdej epoki Kościoła: czy szukam Dawcy, czy działu z rozdawnictwa; mowa jest tak skomponowana, że tego pytania nie da się na jej końcu uniknąć."
+      ],
+      [
+       "τὴν βρῶσιν τὴν μένουσαν εἰς ζωὴν αἰώνιον",
+       "pokarm trwający ku życiu wiecznemu",
+       "Pierwsze przesunięcie mowy dokonuje się na jednym imiesłowie: pokarm ginący (ἀπολλυμένην) — pokarm trwający (μένουσαν). Czasownik μένω, trwać, jest u Jana kategorią niemal ontologiczną (ok. 40 wystąpień w Ewangelii i 24 w 1 J — wobec 3 u Mateusza, 2 u Marka, 7 u Łukasza): opisuje trwanie Ducha na Synu (1,32-33), Ojca w Synu (14,10), ucznia w Chrystusie jak latorośli w krzewie (15,4-7) — i tu, po raz pierwszy, pokarm. To nie ozdobnik: mowa zmierza do w. 56, gdzie spożywanie Ciała i Krwi zostanie opisane dokładnie tą formułą wzajemnego trwania (ἐν ἐμοὶ μένει κἀγὼ ἐν αὐτῷ), którą 14,10 opisuje życie Ojca i Syna — pokarm trwający wprowadza w trwanie Boże. Tło jest mannowe i precyzyjne: manna z definicji nie trwała — zebrana ponad miarę „pokryła się robactwem i zepsuła\" (Wj 16,20); pokarm Syna Człowieczego jest jej dokładnym przeciwieństwem. A pieczęć (ἐσφράγισεν — opieczętował Ojciec) jest metaforą uwierzytelnienia: jak pieczęć na dokumencie gwarantuje autentyczność, tak Ojciec — w chrzcie Janowym i w znakach — poświadczył Syna jako jedynego uprawnionego dawcę tego pokarmu; obraz ma posmak eucharystyczny również dla ucha wspólnoty: to, co na stole Pańskim, jest opieczętowane przez samego Boga."
+      ],
+      [
+       "τοῦτό ἐστιν τὸ ἔργον τοῦ θεοῦ, ἵνα πιστεύητε",
+       "to jest dzieło Boże: abyście wierzyli",
+       "Tłum pyta w liczbie mnogiej — co mamy czynić, jakie dzieła (ἔργα)? — myśląc w kategoriach Tory: skoro jest pokarm od Boga, muszą być warunki do spełnienia. Jezus odpowiada liczbą pojedynczą: jedno jest dzieło Boże — wiara w Posłanego. Redukcja jest rewolucyjna podwójnie. Po pierwsze co do treści: nie obrzęd, nie przepis, nie ofiara — lecz wiara osobowa, przylgnięcie do Tego, którego Ojciec posłał; całe późniejsze „usprawiedliwienie przez wiarę\" Pawła ma tu swój Janowy odpowiednik. Po drugie co do gramatyki daru: „dzieło Boże\" znaczy w ustach tłumu „dzieło dla Boga\", w ustach Jezusa — „dzieło, które Bóg sprawia w was\"; wiara jest czynem człowieka, ale czynem uzdolnionym przez dar (co mowa powie wprost w w. 44.65: nikt nie może przyjść, jeśli go nie pociągnie Ojciec). Ta eskalacja jest fundamentem wszystkiego, co nastąpi: Eucharystia, ku której mowa zmierza, nie jest magią pokarmu, lecz sakramentem wiary — bez w. 29 wezwanie z w. 53 byłoby receptą kanibala; z w. 29 jest zaproszeniem do spożywania w wierze Tego, w którego się wierzy."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 30,
+     "ce": 6,
+     "ve": 40,
+     "label": "w. 30–40",
+     "greek": "Εἶπον οὖν αὐτῷ· τί οὖν ποιεῖς σὺ σημεῖον, ἵνα ἴδωμεν καὶ πιστεύσωμέν σοι; τί ἐργάζῃ; οἱ πατέρες ἡμῶν τὸ μάννα ἔφαγον ἐν τῇ ἐρήμῳ, καθώς ἐστιν γεγραμμένον· ἄρτον ἐκ τοῦ οὐρανοῦ ἔδωκεν αὐτοῖς φαγεῖν. εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· ἀμὴν ἀμὴν λέγω ὑμῖν, οὐ Μωϋσῆς δέδωκεν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ, ἀλλ᾽ ὁ πατήρ μου δίδωσιν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ τὸν ἀληθινόν· ὁ γὰρ ἄρτος τοῦ θεοῦ ἐστιν ὁ καταβαίνων ἐκ τοῦ οὐρανοῦ καὶ ζωὴν διδοὺς τῷ κόσμῳ. εἶπον οὖν πρὸς αὐτόν· κύριε, πάντοτε δὸς ἡμῖν τὸν ἄρτον τοῦτον. εἶπεν αὐτοῖς ὁ Ἰησοῦς· ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς· ὁ ἐρχόμενος πρὸς ἐμὲ οὐ μὴ πεινάσῃ, καὶ ὁ πιστεύων εἰς ἐμὲ οὐ μὴ διψήσει πώποτε. [...] τοῦτο δέ ἐστιν τὸ θέλημα τοῦ πέμψαντός με, ἵνα πᾶν ὃ δέδωκέν μοι μὴ ἀπολέσω ἐξ αὐτοῦ, ἀλλὰ ἀναστήσω αὐτὸ [ἐν] τῇ ἐσχάτῃ ἡμέρᾳ.",
+     "transl": "Powiedzieli więc Mu: Jaki więc Ty czynisz znak, abyśmy zobaczyli i uwierzyli Tobie? Czego dokonujesz? Ojcowie nasi jedli mannę na pustyni, jak jest napisane: Chleb z nieba dał im do jedzenia. Rzekł im więc Jezus: Zaprawdę, zaprawdę powiadam wam: nie Mojżesz dał wam chleb z nieba, ale Ojciec mój daje wam prawdziwy chleb z nieba. Albowiem chlebem Bożym jest Ten, który zstępuje z nieba i daje życie światu. Powiedzieli więc do Niego: Panie, dawaj nam zawsze tego chleba. Rzekł im Jezus: JA JESTEM chlebem życia. Kto przychodzi do mnie, nie będzie łaknął, a kto wierzy we mnie, nigdy pragnąć nie będzie. [...] A to jest wola Tego, który mnie posłał: abym nic nie stracił z tego wszystkiego, co mi dał, lecz wskrzesił to w dniu ostatecznym.",
+     "units": [
+      [
+       "οἱ πατέρες ἡμῶν τὸ μάννα ἔφαγον ... ἄρτον ἐκ τοῦ οὐρανοῦ ἔδωκεν",
+       "ojcowie nasi jedli mannę ... chleb z nieba dał im",
+       "Scena ocieka Janową ironią: ludzie najedzeni wczoraj cudownie rozmnożonym chlebem żądają dziś znaku — i podpowiadają, jakiego: manny. Cytat w w. 31 (zszyty z Wj 16,4.15 i Ps 78,24) nie jest przypadkowy: w oczekiwaniu żydowskim odnowienie manny było znakiem rozpoznawczym Mesjasza — jak pierwszy odkupiciel sprowadził chleb z nieba, tak sprowadzi go drugi (2 Bar 29,8; por. ukryte naczynie manny z 2 Mch 2). Tłum stawia więc Jezusowi warunek legitymacyjny: rozmnożenie pięciu bochenków to za mało — Mojżesz karmił codziennie, cały lud, przez czterdzieści lat; przebij mannę, a uwierzymy. Odpowiedź Jezusa jest wzorcową egzegezą rabiniczną o mesjańskiej puencie: prostuje kolejno każdy człon cytatu — podmiot (nie Mojżesz, lecz Ojciec mój: manna nigdy nie była dziełem Mojżesza), czas (nie dał, lecz daje — δίδωσιν, praesens: dar trwa teraz), przedmiot (nie tamten chleb, lecz chleb prawdziwy, ἀληθινός — w słowniku Jana: ostateczny wobec figur) i adresata (nie ojcom na pustyni, lecz światu). W. 33 dokonuje przy tym zawieszonego między rodzajami przejścia: ὁ καταβαίνων może znaczyć „ten [chleb], który zstępuje\" i „Ten, który zstępuje\" — gramatyka sama przygotowuje utożsamienie, które padnie w w. 35. Typ i rzeczywistość zostają rozdzielone na zawsze: manna była zapowiedzią; zapowiedź nakarmiła ciała i przeminęła — rzeczywistość stoi przed nimi."
+      ],
+      [
+       "ἐγώ εἰμι ὁ ἄρτος τῆς ζωῆς",
+       "JA JESTEM chlebem życia",
+       "Prośba tłumu — Panie, dawaj nam zawsze tego chleba (w. 34) — jest bliźniaczą siostrą prośby Samarytanki (Panie, daj mi tej wody, 4,15): obie proszą naiwnie i obie, nie wiedząc o tym, proszą o właściwą rzecz — o samego Jezusa. Odpowiedź jest pierwszym z siedmiu wielkich JA JESTEM z orzecznikiem (chleb życia; światłość świata; brama; dobry pasterz; zmartwychwstanie i życie; droga, prawda i życie; prawdziwy krzew winny) — i zarazem tym samym ἐγώ εἰμι, które nocą zabrzmiało nad wodami (6,20) bez żadnego orzecznika. Sekwencja jest teologią w składni: najpierw imię absolutne (JESTEM), potem imię rozdane w darach (JESTEM chlebem) — Bóg Janowy najpierw JEST, a potem jest-dla; każde „JA JESTEM x\" tej Ewangelii to imię z Horebu odmienione przez ludzki głód. Obietnica w. 35b (nie będzie łaknął... nigdy pragnąć nie będzie) sięga po język Mądrości zastawiającej stół (Prz 9,1-5; Syr 24,21) i Izajaszowego zaproszenia darmowego (Iz 55,1-3) — a para „przychodzić/wierzyć\" ustawia klucz interpretacyjny: przyjściem do chleba jest wiara; mowa nie wybiera między wiarą a sakramentem, lecz zbuduje z nich jedną drogę: od wiary (w. 35-47) do spożywania w wierze (w. 48-58). Werset 37 dodaje do tego najczulszą obietnicę tej Ewangelii: przychodzącego do mnie nie wyrzucę precz — dosłownie: nie wyrzucę na zewnątrz; kto zna lęk późnej synagogi przed ἀποσυνάγωγος (wyrzuceniem z gminy, 9,22), słyszy, co te słowa znaczyły dla pierwszych czytelników."
+      ],
+      [
+       "ἀναστήσω αὐτὸ [ἐν] τῇ ἐσχάτῃ ἡμέρᾳ",
+       "wskrzeszę to w dniu ostatecznym",
+       "Wersety 36-40 wprowadzają w mowę jej basso continuo: wolę Ojca i ramię eschatologiczne. „Wszystko, co daje mi Ojciec, do mnie przyjdzie\" — dar Ojca poprzedza ludzkie przyjście; „nic nie stracę z tego, co mi dał\" — ta sama troska, która kazała zbierać ułomki, aby nic nie zginęło (6,12; wróci w 17,12 i 18,9 o uczniach: ułomki i uczniowie podlegają jednej ochronie); „wskrzeszę w dniu ostatecznym\" — refren, który padnie w mowie czterokrotnie (w. 39.40.44.54), tworząc najgęstsze zagęszczenie eschatologii w całej Ewangelii. Ten refren jest ramą, w której trzeba czytać całą naukę o chlebie: Eucharystia Janowa nie jest pobożnym przeżyciem teraźniejszości, lecz lekarstwem nieśmiertelności — pokarm dany teraz niesie w sobie dzień ostateczny; Ignacy Antiocheński, uczeń Janowej tradycji, nazwie ją φάρμακον ἀθανασίας, „lekarstwem nieśmiertelności, antidotum na śmierć\" (Ef 20,2). Warto przy tym zobaczyć, jak w. 40 splata już teraz z jeszcze-nie: kto wierzy, MA (ἔχῃ, praesens) życie wieczne — i ZOSTANIE wskrzeszony w dniu ostatecznym; Janowa eschatologia zrealizowana i futurystyczna nie konkurują ze sobą, lecz trzymają się jak dwie ręce jednego daru — życie wieczne zaczyna się przy stole, spełnia w zmartwychwstaniu."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 41,
+     "ce": 6,
+     "ve": 51,
+     "label": "w. 41–51",
+     "greek": "Ἐγόγγυζον οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι εἶπεν· ἐγώ εἰμι ὁ ἄρτος ὁ καταβὰς ἐκ τοῦ οὐρανοῦ, καὶ ἔλεγον· οὐχ οὗτός ἐστιν Ἰησοῦς ὁ υἱὸς Ἰωσήφ, οὗ ἡμεῖς οἴδαμεν τὸν πατέρα καὶ τὴν μητέρα; [...] οὐδεὶς δύναται ἐλθεῖν πρός με ἐὰν μὴ ὁ πατὴρ ὁ πέμψας με ἑλκύσῃ αὐτόν, κἀγὼ ἀναστήσω αὐτὸν ἐν τῇ ἐσχάτῃ ἡμέρᾳ. [...] οἱ πατέρες ὑμῶν ἔφαγον ἐν τῇ ἐρήμῳ τὸ μάννα καὶ ἀπέθανον· [...] ἐγώ εἰμι ὁ ἄρτος ὁ ζῶν ὁ ἐκ τοῦ οὐρανοῦ καταβάς· ἐάν τις φάγῃ ἐκ τούτου τοῦ ἄρτου ζήσει εἰς τὸν αἰῶνα, καὶ ὁ ἄρτος δὲ ὃν ἐγὼ δώσω ἡ σάρξ μού ἐστιν ὑπὲρ τῆς τοῦ κόσμου ζωῆς.",
+     "transl": "Szemrali więc Żydzi przeciw Niemu, że powiedział: JA JESTEM chlebem, który zstąpił z nieba, i mówili: Czyż to nie jest Jezus, syn Józefa, którego ojca i matkę my znamy? [...] Nikt nie może przyjść do mnie, jeśli go nie pociągnie Ojciec, który mnie posłał; a Ja go wskrzeszę w dniu ostatecznym. [...] Ojcowie wasi jedli na pustyni mannę — i pomarli. [...] JA JESTEM chlebem żywym, który zstąpił z nieba. Jeśli ktoś spożywa z tego chleba, żyć będzie na wieki; a chlebem, który Ja dam, jest moje ciało — za życie świata.",
+     "units": [
+      [
+       "ἐγόγγυζον οὖν οἱ Ἰουδαῖοι",
+       "szemrali więc Żydzi",
+       "Czasownik jest cytatem z pustyni: ἐγόγγυζον — dokładnie tym słowem Septuaginta opisuje szemranie Izraela przeciw Mojżeszowi w rozdziale manny (Wj 16,2.7-9.12) i w buncie pokolenia (Lb 14,2.27). Kompozycja Janowa domyka się z chirurgiczną precyzją: tłum, który przed chwilą powoływał się na mannę ojców, wchodzi teraz w rolę tych samych ojców — pokolenia, które szemrało przeciw dawcy chleba i za karę nie weszło do ziemi; schemat pustyni odtwarza się co do joty (dar — szemranie — odejście), tyle że dawcą nie jest już sługa, lecz Ten, którego sługa zapowiadał. Powód szemrania jest chrystologiczny w najczystszej postaci: „znamy jego ojca i matkę — jakże mówi: z nieba zstąpiłem?\" (w. 42) — pozorna wiedza blokuje poznanie; ironia Janowa gra podwójnie, bo czytelnik od Prologu wie, kim jest prawdziwy Ojciec Mówiącego, a szemrzący „wiedzą\" właśnie to, czego nie wiedzą. To jest skandal Wcielenia w formie synagogalnej — ten sam, o który potknie się każde pokolenie: nie że Bóg jest, lecz że jest TYM człowiekiem stąd, synem znajomego cieśli; i ten sam, który powróci w Eucharystii: nie że Bóg karmi, lecz że karmi TYM chlebem z tego ołtarza. Bliskość jest większym progiem wiary niż wzniosłość."
+      ],
+      [
+       "ἐὰν μὴ ὁ πατὴρ ... ἑλκύσῃ αὐτόν",
+       "jeśli go nie pociągnie Ojciec",
+       "Odpowiedź na szemranie nie jest argumentem, lecz odsłonięciem warunku poznania: nikt nie może przyjść do mnie, jeśli go nie pociągnie (ἑλκύσῃ) Ojciec. Czasownik ἕλκω jest mocny — tak ciągnie się sieć pełną ryb (21,6.11) i tak Wywyższony pociągnie wszystkich do siebie (12,32: ἑλκύσω πάντας) — ale nie jest to przemoc: Jezus cytuje zaraz Izajasza (54,13: będą wszyscy pouczeni przez Boga — didaktoi theou) i tłumaczy pociąganie jako słuchanie i uczenie się od Ojca (w. 45); Augustyn odda to formułą, która została w teologii na zawsze: trahit sua quemque voluptas — Ojciec pociąga nie łańcuchem, lecz rozkoszą prawdy; pokaż duszy dobro, a pobiegnie sama. Teologicznie w. 44-45 są Janową nauką o łasce uprzedzającej: wiara w Posłanego (jedyne dzieło Boże, w. 29) sama jest darem — czego mowa dopowie w epilogu z bolesną symetrią (w. 65, tuż przed odejściem wielu). Ale uwaga na równowagę Janową: „nikt nie może przyjść, jeśli nie pociągnie\" stoi obok „przychodzącego do mnie nie wyrzucę precz\" (w. 37) — predestynacyjna groza jest tu obca; Ojciec pociąga wszystkich pouczonych, a próg, na którym łaska bywa gubiona, mowa pokaże nie w dekrecie Boga, lecz w wolności słuchaczy, którzy odejdą."
+      ],
+      [
+       "ἡ σάρξ μού ἐστιν ὑπὲρ τῆς τοῦ κόσμου ζωῆς",
+       "moje ciało — za życie świata",
+       "Werset 51 jest kulminacją mowy i jednym z węzłowych zdań całej Ewangelii: chleb = moje ciało, za życie świata. Trzy elementy dźwigają całą teologię. Czas przyszły δώσω (dam) — dar dopiero nastąpi: na krzyżu i w każdej Eucharystii; mowa mówi o czymś, co historycznie jeszcze przed słuchaczami. Słowo σάρξ — nie „ciało\" eufemistyczne (σῶμα), lecz to samo twarde σάρξ z Prologu: Słowo stało się CIAŁEM (1,14); Jan spina klamrą Wcielenie i Eucharystię — chleb eucharystyczny jest dokładnie tym, czym stało się Słowo; kto wyznaje Wcielenie, a odmawia Eucharystii realności, przecina tę klamrę w połowie (Ignacy Antiocheński użyje jej wprost przeciw doketom: Eucharystia jest sarks naszego Zbawiciela — Smyrn. 7,1). I przyimek ὑπέρ z dopełniaczem — techniczna składnia ofiarnicza Nowego Testamentu: życie kładzione ZA owce (10,11.15), umrzeć ZA naród (11,50-52), ciało moje ZA was wydane (Łk 22,19; 1 Kor 11,24), poświęcam siebie ZA nich (17,19). Jan, który nie poda słów ustanowienia w Wieczerniku, wypowiada je tutaj — z tym samym przyimkiem, którym synoptycy i Paweł zapiszą formułę konsekracji; w. 51 jest Janowym słowem ustanowienia, wypowiedzianym rok przed Wieczernikiem w synagodze w Kafarnaum. Jeśli „jeść ciało\" byłoby tylko metaforą wiary, ofiarnicze ὑπέρ zawisłoby w próżni — za kogo dawane jest ciało, którego nikt nie ma spożywać? Realizm ofiary i realizm pokarmu trzymają się nawzajem: to jest ta sama logika, którą Sobór Trydencki ujmie formułą „ten sam Chrystus, ta sama ofiara — sposób ofiarowania inny\"."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 52,
+     "ce": 6,
+     "ve": 59,
+     "label": "w. 52–59",
+     "greek": "Ἐμάχοντο οὖν πρὸς ἀλλήλους οἱ Ἰουδαῖοι λέγοντες· πῶς δύναται οὗτος ἡμῖν δοῦναι τὴν σάρκα [αὐτοῦ] φαγεῖν; εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· ἀμὴν ἀμὴν λέγω ὑμῖν, ἐὰν μὴ φάγητε τὴν σάρκα τοῦ υἱοῦ τοῦ ἀνθρώπου καὶ πίητε αὐτοῦ τὸ αἷμα, οὐκ ἔχετε ζωὴν ἐν ἑαυτοῖς. ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἔχει ζωὴν αἰώνιον, κἀγὼ ἀναστήσω αὐτὸν τῇ ἐσχάτῃ ἡμέρᾳ. ἡ γὰρ σάρξ μου ἀληθής ἐστιν βρῶσις, καὶ τὸ αἷμά μου ἀληθής ἐστιν πόσις. ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα ἐν ἐμοὶ μένει κἀγὼ ἐν αὐτῷ. καθὼς ἀπέστειλέν με ὁ ζῶν πατὴρ κἀγὼ ζῶ διὰ τὸν πατέρα, καὶ ὁ τρώγων με κἀκεῖνος ζήσει δι᾽ ἐμέ. οὗτός ἐστιν ὁ ἄρτος ὁ ἐξ οὐρανοῦ καταβάς, οὐ καθὼς ἔφαγον οἱ πατέρες καὶ ἀπέθανον· ὁ τρώγων τοῦτον τὸν ἄρτον ζήσει εἰς τὸν αἰῶνα. Ταῦτα εἶπεν ἐν συναγωγῇ διδάσκων ἐν Καφαρναούμ.",
+     "transl": "Spierali się więc Żydzi między sobą, mówiąc: Jak On może nam dać swoje ciało do jedzenia? Rzekł im więc Jezus: Zaprawdę, zaprawdę powiadam wam: jeśli nie będziecie jedli ciała Syna Człowieczego i nie będziecie pili Jego krwi, nie macie życia w sobie. Kto spożywa moje ciało i pije moją krew, ma życie wieczne, a Ja go wskrzeszę w dniu ostatecznym. Ciało moje bowiem jest prawdziwym pokarmem, a krew moja jest prawdziwym napojem. Kto spożywa moje ciało i pije moją krew, trwa we mnie, a ja w nim. Jak mnie posłał żyjący Ojciec i ja żyję przez Ojca, tak i ten, kto mnie spożywa, żyć będzie przeze mnie. To jest chleb, który z nieba zstąpił — nie taki, jaki jedli ojcowie i pomarli. Kto spożywa ten chleb, żyć będzie na wieki. To powiedział, nauczając w synagodze w Kafarnaum.",
+     "units": [
+      [
+       "πῶς δύναται οὗτος ἡμῖν δοῦναι τὴν σάρκα φαγεῖν;",
+       "jak On może nam dać swoje ciało do jedzenia?",
+       "Szemranie przechodzi w walkę: ἐμάχοντο to czasownik starcia, nie dyskusji — w synagodze wybucha spór bliski wojnie słownej. I nie ma się co dziwić: żydowski słuchacz słyszy w słowach Jezusa potrójne pogwałcenie świętości naraz. Po pierwsze, idiom: „jeść czyjeś ciało\" znaczy w Biblii hebrajskiej zawsze i tylko — niszczyć, prześladować, oczerniać (złoczyńcy zbliżają się, „by jeść moje ciało\", Ps 27,2; przywódcy „pożerają ciało mojego ludu\", Mi 3,3; por. Hi 19,22; Iz 49,26; Koh 4,5); pozytywnego użycia ten idiom nie ma ani razu. Po drugie, tabu krwi: pięć warstw zakazu Tory — od przymierza Noego (Rdz 9,4), przez „ustawę wieczną\" (Kpł 3,17) i sankcję karet, odcięcia od ludu (Kpł 7,26-27), po teologiczny fundament: „dusza ciała jest we krwi... krew zadośćczyni przez duszę\" (Kpł 17,10-14) i deuteronomiczne „nie będziesz spożywał duszy z mięsem\" (Pwt 12,23); zakaz tak poważny, że przetrwa nawet Sobór Jerozolimski (Dz 15,29). Po trzecie, widmo kanibalizmu — w Torze obecnego wyłącznie jako klątwa czasów oblężenia (Pwt 28,53-57; Kpł 26,29; zrealizowana w grozie Lm 2,20; 4,10). Pytanie πῶς — „jak może?\" — nie jest więc prośbą o wykład metody, lecz krzykiem zgorszenia: jak coś takiego mogło w ogóle zostać powiedziane? Właśnie ta reakcja jest najmocniejszym świadkiem sensu: słuchacze zrozumieli Jezusa dosłownie — i tekst nigdzie nie powie, że zrozumieli źle."
+      ],
+      [
+       "ὁ τρώγων μου τὴν σάρκα καὶ πίνων μου τὸ αἷμα",
+       "kto spożywa (gryzie) moje ciało i pije moją krew",
+       "Tu następuje najbardziej zdumiewający ruch mowy. Czwarta Ewangelia ma stały schemat literacki: Jezus mówi obrazem — słuchacz rozumie dosłownie i się gubi — Jezus koryguje (świątynia ciała, 2,19-21; narodzenie z góry, 3,3-8; woda żywa, 4,10-15; pokarm, którego nie znacie, 4,31-34; sen Łazarza, 11,11-14... kilkanaście scen, jeden wzorzec). Tutaj wzorzec pęka — jedyny raz: po dosłownym zrozumieniu i zgorszeniu korekta NIE przychodzi; przychodzi zaostrzenie. Jezus porzuca neutralne φαγεῖν i mówi τρώγων — gryźć, żuć, chrupać: czasownik fizjologiczny, w grece klasycznej używany o zwierzętach i o chrupaniu surowych owoców; powtarza go czterokrotnie (w. 54.56.57.58), dokładnie od momentu, w którym słuchacze zaczęli protestować. Dodaje przymiotnik rozstrzygający: ciało moje jest PRAWDZIWYM (ἀληθής) pokarmem, krew moja PRAWDZIWYM napojem (w. 55) — nie „prawdziwie mówię\", lecz „prawdziwie jest\". I zwieńcza formułą wzajemnego trwania: kto spożywa — ἐν ἐμοὶ μένει κἀγὼ ἐν αὐτῷ (w. 56); ta sama składnia, którą 14,10-11 opisze wzajemne trwanie Ojca i Syna, a 15,4-5 trwanie latorośli w krzewie: Jan używa jednego języka dla życia trynitarnego, Eucharystii i Kościoła — sygnał, że to jedna, ciągła rzeczywistość, w którą spożywający zostaje wszczepiony. Lektura czysto symboliczna musi przyjąć, że Jan w jednym jedynym przypadku złamał własny, kilkunastokrotnie powtórzony schemat korekty — i że Jezus pozwolił uczniom odejść z nieporozumieniem, które mógł rozproszyć jednym zdaniem, a tego zdania nie powiedział. Lektura realistyczna nie musi przyjmować niczego: dosłowność była nauką; sprostowania nie było, bo nie było czego prostować — pozostało tylko wskazać, JAK niemożliwe stanie się możliwe (w. 62-63)."
+      ],
+      [
+       "καθὼς ἀπέστειλέν με ὁ ζῶν πατὴρ ... ὁ τρώγων με ζήσει δι᾽ ἐμέ",
+       "jak posłał mnie żyjący Ojciec ... kto mnie spożywa, żyć będzie przeze mnie",
+       "Werset 57 jest teologicznym szczytem całej mowy — łańcuchem życia o trzech ogniwach: żyjący Ojciec → Syn żyjący przez Ojca → spożywający żyjący przez Syna. Kolejność jest ściśle trynitarno-sakramentalna: życie płynie z Ojca (źródło bez źródła), przez posłanego Syna (który żyje διὰ τὸν πατέρα — przez Ojca i ku Ojcu), do człowieka — a przewodem ostatniego ogniwa jest spożywanie: ὁ τρώγων με, kto MNIE gryzie (już nie „moje ciało\" — samego Mnie: zaimek osobowy odsłania, że pokarmem jest Osoba, nie porcja). To zdanie mówi o Eucharystii rzecz największą z możliwych: komunia włącza człowieka w to samo życie, którym Syn żyje z Ojca — uczestnictwo w Boskiej naturze (2 P 1,4) podane ustami. Augustyn odsłoni paradoks tego pokarmu w słowach, które słyszał w wizji: „Jestem pokarmem dorosłych; wzrastaj, a będziesz mnie spożywał — lecz nie ty mnie przemienisz w siebie jak pokarm twego ciała: ty zostaniesz przemieniony we mnie\" (Wyznania VII,10) — w każdym innym jedzeniu pokarm staje się jedzącym; w tym jednym jedzący staje się Pokarmem. Notka miejsca w w. 59 — „to powiedział, nauczając w synagodze w Kafarnaum\" — podana z opóźnieniem jak zwrotnica z 5,9b, pieczętuje gatunek: to była homilia synagogalna (uczeni wskazują w mowie klasyczną budowę midraszu na tekst o mannie), wygłoszona w domu modlitwy, którego bazaltowe fundamenty do dziś leżą pod białą synagogą Kafarnaum; Kościół, który czyta tę mowę przy ołtarzu, robi dokładnie to, co ona sama: po liturgii słowa — liturgia chleba."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 60,
+     "ce": 6,
+     "ve": 66,
+     "label": "w. 60–66",
+     "greek": "Πολλοὶ οὖν ἀκούσαντες ἐκ τῶν μαθητῶν αὐτοῦ εἶπαν· σκληρός ἐστιν ὁ λόγος οὗτος· τίς δύναται αὐτοῦ ἀκούειν; εἰδὼς δὲ ὁ Ἰησοῦς ἐν ἑαυτῷ ὅτι γογγύζουσιν περὶ τούτου οἱ μαθηταὶ αὐτοῦ εἶπεν αὐτοῖς· τοῦτο ὑμᾶς σκανδαλίζει; ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον; τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν· τὰ ῥήματα ἃ ἐγὼ λελάληκα ὑμῖν πνεῦμά ἐστιν καὶ ζωή ἐστιν. ἀλλ᾽ εἰσὶν ἐξ ὑμῶν τινες οἳ οὐ πιστεύουσιν. [...] Ἐκ τούτου πολλοὶ [ἐκ] τῶν μαθητῶν αὐτοῦ ἀπῆλθον εἰς τὰ ὀπίσω καὶ οὐκέτι μετ᾽ αὐτοῦ περιεπάτουν.",
+     "transl": "Wielu więc z Jego uczniów, usłyszawszy, powiedziało: Twarda jest ta mowa. Kto może jej słuchać? A Jezus, wiedząc w sobie, że Jego uczniowie na to szemrzą, rzekł im: To was gorszy? A gdy ujrzycie Syna Człowieczego wstępującego tam, gdzie był pierwej? Duch jest tym, który ożywia; ciało nic nie pomaga. Słowa, które ja wam powiedziałem, są duchem i są życiem. Ale są wśród was tacy, którzy nie wierzą. [...] Odtąd wielu z Jego uczniów odeszło wstecz i już z Nim nie chodzili.",
+     "units": [
+      [
+       "σκληρός ἐστιν ὁ λόγος οὗτος",
+       "twarda jest ta mowa",
+       "Teraz gorszą się już nie „Żydzi\" — uczniowie. Σκληρός nie znaczy „trudna do zrozumienia\" — znaczy: szorstka, sucha, nie do przełknięcia (w LXX: teren spieczony, Hi 30,3; w Mt 25,24: człowiek twardy); mowa Jezusa nie jest dla nich zawiła — jest moralnie niemożliwa do przyjęcia, bo słyszą w niej wezwanie do złamania tabu, na których stoi ich świat. Pytanie „kto może jej słuchać?\" jest lustrem pytania z w. 52 („jak On może dać?\") — δύναμαι po obu stronach: oni nie mogą słuchać tego, czego On — ich zdaniem — nie może dać; cała scena jest starciem dwóch niemożliwości, a rozstrzygnięcie przyjdzie nie z perswazji, lecz z pytania o to, Kim jest Mówiący. Właśnie dlatego odpowiedź Jezusa (w. 62) jest niedokończonym zdaniem warunkowym — jedynym takim w Ewangelii: „a gdy ujrzycie Syna Człowieczego wstępującego tam, gdzie był pierwej?\" — bez apodozy. Dopowiedzenie zostaje w rękach słuchacza: tym bardziej się zgorszycie? czy: wtedy zrozumiecie? Werset zbiera w jednym zdaniu cztery wektory Janowej chrystologii — wstępowanie (ἀναβαίνοντα), wcześniejsze zstąpienie (założone w „tam, gdzie był\"), preegzystencję (τὸ πρότερον) i tytuł Syna Człowieczego (Dn 7,13; J 1,51; 3,13) — i rozwiązuje ukrytą trudność w. 52: „jak może dać ciało do jedzenia?\" — nie przez rzeźnię, lecz przez wywyższenie; Ciało, które wstąpi tam, gdzie było Słowo, przestanie podlegać arytmetyce porcji — uwielbione, stanie się rozdawalne wszędzie i całe. Wniebowstąpienie nie zamyka dostępu do Ciała Pańskiego — otwiera go sakramentalnie."
+      ],
+      [
+       "τὸ πνεῦμά ἐστιν τὸ ζῳοποιοῦν, ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν",
+       "Duch jest tym, który ożywia; ciało nic nie pomaga",
+       "Werset 63 bywał czytany jako odwołanie całej mowy — jakby Jezus na końcu mrugał: to wszystko była metafora, „duch\", nie „ciało\". Ta lektura rozbija się o trzy skały. Pierwsza jest soteriologiczna: jeśli „ciało\" znaczy tu Ciało Chrystusa, to zdanie „ciało nic nie pomaga\" unieważnia krzyż — a przecież dwanaście wersetów wcześniej padło „moje ciało ZA życie świata\"; Jezus nie mógł ogłosić bezużyteczności tego, co właśnie obiecał dać na życie świata (por. Rz 7,4; Kol 1,22: pojednani w Jego ciele). Kluczem jest brak zaimka: Jezus nie mówi „moje ciało nic nie pomaga\" — mówi „ciało\", bez dzierżawczego, tak jak w 3,6 i 8,15: sarks jako cielesny, zamknięty na Boga sposób poznania; Augustyn ujął to jednym obrazem — myśleli o Ciele „tak, jak rąbie się mięso w jatkach\" (in macello), i to właśnie TAKIE myślenie nic nie pomaga (Tract. 27,5). Druga skała jest semicka: „słowa moje są duchem i życiem\" nie znaczy „są przenośnią\" — w Biblii słowo, które jest duchem i życiem, to słowo PERFORMATYWNE, stwarzające, jak „niech się stanie\" Księgi Rodzaju; Jezus nie mówi: użyłem figury — mówi: moje słowa mają moc sprawić to, co zapowiadają. Trzecia jest logiczna: gdyby „jeść ciało i pić krew\" szyfrowało po prostu „wierzyć\", to podwójny nakaz z w. 53 głosiłby: „kto wierzy we mnie i wierzy we mnie\" — tautologia; rozdzielenie na dwa akty (osobno ciało, osobno krew) ma sens wyłącznie tam, gdzie są one rzeczywiście rozdzielone: na ołtarzu, pod dwiema postaciami — i w ofierze, w której krew zostaje oddzielona od ciała, czyli w śmierci. Werset 63 nie odwołuje więc realizmu — wskazuje jego tryb: Ciało uwielbione będzie dostępne πνευματικῶς, mocą Ducha Ożywiciela, nie σαρκικῶς, sposobem jatki; dokładnie to samo powie Paweł: zmartwychwstały stał się „duchem ożywiającym\" (πνεῦμα ζῳοποιοῦν, 1 Kor 15,45 — ten sam imiesłów!), gdzie „duch\" nie znosi cielesności, lecz ją przenika."
+      ],
+      [
+       "ἀπῆλθον εἰς τὰ ὀπίσω καὶ οὐκέτι μετ᾽ αὐτοῦ περιεπάτουν",
+       "odeszli wstecz i już z Nim nie chodzili",
+       "Werset 66 jest jednym z najcięższych zdań Nowego Testamentu — i probierzem uczciwości każdej egzegezy. Odchodzą nie gapie, lecz μαθηταί, uczniowie; odchodzą εἰς τὰ ὀπίσω — wstecz, ku temu, co za plecami (idiom porzucenia drogi; por. Łk 9,62: kto ogląda się wstecz, nie nadaje się do królestwa); i „już z Nim nie chodzili\" — περιπατεῖν μετά, chodzić z kimś, to u Jana techniczne określenie uczniostwa: to zdanie protokołuje zerwanie powołania. Skala nie ma paraleli: żadna inna mowa Jezusa w żadnej Ewangelii nie kończy się masowym odejściem uczniów — a Jezus nie zawoła za odchodzącymi ani słowa; żadnego „wróćcie, źle zrozumieliście\". Gdyby źle zrozumieli — zawołałby: pasterz, który za jedną owcą zostawia dziewięćdziesiąt dziewięć, nie traci stada dla nieporozumienia, które może sprostować jednym zdaniem. Milczenie Jezusa przy odejściu wielu jest najmocniejszym argumentem, że zrozumieli dobrze — i odrzucili to, co zrozumieli. Scena ma jeszcze jedno dno, gorzko współczesne dla Janowej wspólnoty i dla każdej: pierwsza wielka schizma chrześcijaństwa nie wybuchła o władzę ani o etykę — wybuchła o Eucharystię; mowa o Ciele i Krwi była pierwszym wyznaniem wiary, które podzieliło uczniów Jezusa. Eucharystia jest krisis — sądem, który przechodzi przez środek wspólnoty; a w. 65 (nikt nie może przyjść, jeśli mu nie jest dane od Ojca), wypowiedziany tuż przed rozłamem, zabrania i tryumfalizmu pozostałym, i pogardy wobec odchodzących: wiara, która została, też nie jest zasługą — jest darem, o który trzeba drżeć."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 67,
+     "ce": 6,
+     "ve": 71,
+     "label": "w. 67–71",
+     "greek": "εἶπεν οὖν ὁ Ἰησοῦς τοῖς δώδεκα· μὴ καὶ ὑμεῖς θέλετε ὑπάγειν; ἀπεκρίθη αὐτῷ Σίμων Πέτρος· κύριε, πρὸς τίνα ἀπελευσόμεθα; ῥήματα ζωῆς αἰωνίου ἔχεις, καὶ ἡμεῖς πεπιστεύκαμεν καὶ ἐγνώκαμεν ὅτι σὺ εἶ ὁ ἅγιος τοῦ θεοῦ. ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· οὐκ ἐγὼ ὑμᾶς τοὺς δώδεκα ἐξελεξάμην; καὶ ἐξ ὑμῶν εἷς διάβολός ἐστιν. ἔλεγεν δὲ τὸν Ἰούδαν Σίμωνος Ἰσκαριώτου· οὗτος γὰρ ἔμελλεν παραδιδόναι αὐτόν, εἷς ἐκ τῶν δώδεκα.",
+     "transl": "Rzekł więc Jezus do Dwunastu: Czy i wy chcecie odejść? Odpowiedział Mu Szymon Piotr: Panie, do kogo pójdziemy? Ty masz słowa życia wiecznego, a my uwierzyliśmy i poznaliśmy, że Ty jesteś Świętym Boga. Odpowiedział im Jezus: Czyż nie Ja was wybrałem, Dwunastu? A jeden z was jest diabłem. A mówił o Judaszu, synu Szymona Iskarioty; ten bowiem miał Go wydać — jeden z Dwunastu.",
+     "units": [
+      [
+       "μὴ καὶ ὑμεῖς θέλετε ὑπάγειν;",
+       "czy i wy chcecie odejść?",
+       "Po odejściu wielu Jezus nie zabiega o pozostałych — pyta ich o wolność. Partykuła μή sygnalizuje oczekiwanie odpowiedzi przeczącej („chyba i wy nie chcecie odejść?\"), ale pytanie nie jest błagalne: jest probiercze, konsekwentne z pedagogią całej mowy — nie zatrzymywał odchodzących, nie cofnął ani słowa, więc i Dwunastu nie przytrzyma niczym poza prawdą; przymus zabiłby jedyną rzecz, o którą tu chodzi — wiarę wolną. Czasownik ὑπάγω ma przy tym u Jana drugie dno: to techniczne słowo o odejściu Jezusa DO OJCA (7,33; 13,3.33.36; 14,4-5.28; 16,5) — pytanie „czy i wy chcecie hypagein?\" pyta więc, dosłownie, o kierunek odejścia; Janowa ironia dopowiada: jedyne odchodzenie, które prowadzi do życia, to odchodzenie z Jezusem, do Ojca — kto odchodzi OD Niego, idzie dokładnie w przeciwną stronę (εἰς τὰ ὀπίσω, wstecz). Warto zestawić dwa chcenia rozdziału: tłum CHCIAŁ Go porwać na króla (w. 15), uczniowie w łodzi CHCIELI Go przyjąć (w. 21) — teraz pada pytanie o trzecie chcenie: czy chcecie odejść? Cała Janowa teologia wolności mieści się w tym, że Bóg o to pyta — i czeka na odpowiedź."
+      ],
+      [
+       "κύριε, πρὸς τίνα ἀπελευσόμεθα; ... σὺ εἶ ὁ ἅγιος τοῦ θεοῦ",
+       "Panie, do kogo pójdziemy? ... Ty jesteś Świętym Boga",
+       "Wyznanie Piotra jest Janową Cezareą Filipową — i czymś więcej: jest pierwszą w dziejach recepcją mowy eucharystycznej. Piotr nie mówi „zrozumieliśmy\" (nie zrozumieli); mówi trzy rzeczy większe. „Do kogo pójdziemy?\" — logika wyłączności: po JA JESTEM nad wodami, po znaku chleba i po tej mowie nie istnieje adres alternatywny; wszystkie inne drogi prowadzą wstecz. „Ty masz ῥήματα ζωῆς αἰωνίου\" — dokładna odpowiedź na w. 63 („słowa, które wam powiedziałem, są duchem i życiem\"): Piotr przyjmuje mowę nie dlatego, że przestała być twarda, lecz dlatego, że Mówiący ma słowa życia — wiara eucharystyczna nie jest wynikiem rozwiązania trudności, lecz zawierzenia Osobie ponad trudnością. I perfectum podwójne: πεπιστεύκαμεν καὶ ἐγνώκαμεν — uwierzyliśmy i poznaliśmy, czasy dokonane trwałe: nie akt chwilowego entuzjazmu, lecz stan nabyty; kolejność też jest Janowa — wiara wyprzedza poznanie (credo ut intelligam avant la lettre). Tytuł ὁ ἅγιος τοῦ θεοῦ — Święty Boga — jest rzadki i mocny (w ustach ludzkich tylko tu; por. Mk 1,24, gdzie wykrzykuje go... demon — wiedza duchów i wiara Piotra stykają się w tym samym tytule, rozdzielone miłością); u Jana brzmi kapłańsko: Święty, czyli poświęcony i święcący, Ten, który „poświęca siebie za nich\" (17,19). Wspólnota, która odmawia to wyznanie przed każdą Komunią w formule „Panie, nie jestem godzien\", stoi dokładnie tam, gdzie Piotr: nie rozumiejąc do końca — wierząc i poznając."
+      ],
+      [
+       "ἐξ ὑμῶν εἷς διάβολός ἐστιν",
+       "jeden z was jest diabłem",
+       "Mowa nie kończy się fanfarą wyznania — kończy się cieniem. Na „my uwierzyliśmy\" Jezus odpowiada korektą zaimka: nie wy mnie wybraliście — Ja was wybrałem; i zaraz: a jeden z was jest diabłem. Narrator w w. 64 związał już niewiarę i zdradę jednym zdaniem („wiedział, którzy nie wierzą i kto Go wyda\") — gramatyczne zrównanie, które czyni z Judasza pierwszy paradygmat niewiary eucharystycznej: dramat zdrajcy zaczyna się nie w Wieczerniku, lecz w Kafarnaum, jako niewiara wobec TEJ mowy. Jan poprowadzi go w trzech aktach: akt I — tu, w cieniu chleba życia (6,64.70-71); akt II — w Betanii, gdzie Judasz wycenia ciało Pańskie na trzysta denarów, podczas gdy Maria je namaszcza (12,1-8: dwie postawy wobec Ciała — adoracja i kalkulacja); akt III — w Wieczerniku, gdzie po kęsie chleba (ψωμίον) podanym gestem przyjaźni „wszedł w niego szatan\" i wyszedł — „a była noc\" (13,2.21-30, z celowym τρώγων w cytacie 13,18: kto GRYZIE mój chleb, podniósł na mnie piętę — Jan zmienia czasownik Psalmu 41,10 na czasownik mowy kafarnejskiej, spinając obie sceny). Formuła „jeden z Dwunastu\", która odtąd przylgnie do Judasza, jest celowo eucharystyczna à rebours: ten, dla którego zabrakło wiary, nie przestał być przy stole. Mowa zostawia więc Kościół z trzema możliwymi odpowiedziami na Eucharystię — odejść z wieloma; wyznać z Piotrem; pozostać bez wiary z Judaszem — i z Pawłowym komentarzem, który tę trzecią drogę nazwie po imieniu: kto je i pije niegodnie, sąd sobie je i pije (1 Kor 11,27-29). Chleb życia nie bywa neutralny: jest sądem albo lekarstwem — nigdy niczym pomiędzy."
+      ]
+     ]
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Homilia synagogalna i midrasz o mannie, pięć warstw tabu krwi, idiom „jeść ciało\" i widmo kanibalizmu, wreszcie słownictwo eucharystyczne wspólnoty Janowej — konteksty, bez których nie słychać ani skandalu tej mowy, ani jej precyzji.",
+     "children": [
+      [
+       "Synagoga w Kafarnaum i forma midraszu",
+       "Notka w. 59 lokuje mowę w synagodze w Kafarnaum — i to nie jest sztafaż. Badania nad formą (P. Borgen) pokazały, że w. 31-58 mają budowę klasycznej homilii synagogalnej: tekst wyjściowy podaje audytorium (cytat o mannie, w. 31 — zszycie Wj 16,4.15 z Ps 78,24), kaznodzieja wykłada go człon po członie (chleb — z nieba — dał — jeść), prostując lekcję słuchaczy (nie Mojżesz — Ojciec; nie dał — daje) i wieńcząc wykład tekstem pomocniczym z Proroków (Iz 54,13 w w. 45), by na końcu wrócić do tekstu wyjściowego (w. 58 zbiera wszystkie motywy). Jan nie stenografuje przypadkowej dysputy — komponuje wzorcową derashę, której kaznodzieją jest Wcielone Słowo; forma niesie treść: Jezus robi z manną dokładnie to, co homileta z tekstem — tyle że wykład kończy się utożsamieniem kaznodziei z tekstem (JA JESTEM chlebem). Archeologia dopowiada scenografię: pod białą synagogą z IV-V w. leżą bazaltowe fundamenty synagogi z I wieku — tej, którą wedle Łk 7,5 ufundował setnik; mowa o chlebie życia zabrzmiała w budynku, po którym zostały kamienie oglądane do dziś. Dla wspólnoty Janowej, wyrzucanej z synagog pod koniec I wieku (ἀποσυνάγωγος: 9,22; 12,42; 16,2), miejsce miało smak gorzkiej pamięci: największa katecheza eucharystyczna Kościoła została wygłoszona — i odrzucona — w domu Izraela."
+      ],
+      [
+       "Tabu krwi: pięć warstw zakazu i sobór jerozolimski",
+       "Aby usłyszeć w. 53 uszami słuchaczy, trzeba zmierzyć powagę zakazu, w który to zdanie uderza. Zakaz spożywania krwi ma w Torze pięć warstw, z eskalacją sankcji: przymierze Noego (Rdz 9,4) — warstwa najstarsza, przedmojżeszowa, obowiązująca całą ludzkość; „ustawa wieczna dla pokoleń\" (Kpł 3,17); sankcja karet — odcięcia od ludu — za spożycie krwi (Kpł 7,26-27): najcięższa kara religijna systemu, w tradycji rabinicznej rozumiana jako śmierć z ręki samego Boga; teologiczny fundament w Kpł 17,10-14: „dusza (nefesz) ciała jest we krwi, a Ja dałem ją wam na ołtarz, by dokonywała przebłagania\" — krew nie jest pokarmem, bo jest siedzibą duszy i narzędziem ekspiacji, własnością Boga zastrzeżoną dla ołtarza; wreszcie deuteronomiczne „nie będziesz spożywał duszy z mięsem — wylejesz ją na ziemię jak wodę\" (Pwt 12,16.23-25). Powagę zakazu ilustruje scena z 1 Sm 14,32-34: wygłodniałe wojsko Saula je mięso z krwią — i król, skądinąd skłonny do kompromisów, krzyczy „zgrzeszyliście!\" i osobiście organizuje kamień rzeźny; wojna nie zawiesza tabu krwi. Co więcej — tabu przetrwało Pięćdziesiątnicę: sobór jerozolimski nakłada na chrześcijan z pogan powstrzymanie się „od krwi\" (Dz 15,20.29). Na tym tle wezwanie „pijcie moją krew\" odsłania swoją jedyną możliwą logikę: nie jest zniesieniem zakazu, lecz jego odwróceniem u samego fundamentu — krwi nie wolno było pić, bo należy do Boga i służy przebłaganiu; Krew Syna ma być pita właśnie dlatego, że jest Boża i dokonuje przebłagania, oddana dobrowolnie za życie świata. Tylko Prawodawca może odwrócić kierunek własnego prawa — i dokładnie to roszczenie słyszą w Kafarnaum ci, którzy pytają: jak On może?"
+      ],
+      [
+       "Idiom „jeść czyjeś ciało\" i widmo kanibalizmu",
+       "Drugi rejestr zgorszenia jest idiomatyczny. W Biblii hebrajskiej „jeść czyjeś ciało\" znaczy zawsze — bez jednego wyjątku — niszczyć, prześladować, oczerniać: złoczyńcy nacierają na psalmistę, „by jeść moje ciało\" (Ps 27,2); przywódcy Izraela „pożerają ciało mojego ludu, zdzierają skórę, łamią kości\" (Mi 3,3); w wojnie domowej „każdy pożera ciało swego ramienia\" (Iz 9,19); Hiob skarży się prześladowcom: „czemu nie nasycicie się moim ciałem?\" (Hi 19,22); głupiec „pożera własne ciało\" (Koh 4,5); a sąd nad ciemięzcami brzmi: „nakarmię ich własnym ciałem, ich krwią upiją się jak moszczem\" (Iz 49,26). Pozytywnego „jeść ciało\" semicka idiomatyka po prostu nie zna. Realny kanibalizm zaś pojawia się w Torze wyłącznie jako klątwa — szczyt przekleństw przymierza: „będziesz jadł owoc swego łona\" w oblężeniu (Pwt 28,53-57; Kpł 26,29), zrealizowany w grozie zburzenia Jerozolimy (Lm 2,20; 4,10; por. 2 Krl 6,28-29 w Samarii). Konsekwencja dla egzegezy w. 53-56 jest żelazna: gdyby Jezus mówił metaforycznie WEWNĄTRZ konwencji swojego języka, mówiłby „jeśli mnie nie prześladujecie i nie niszczycie, nie macie życia\" — absurd; skoro zaś używa formuły, dla której Jego język nie miał żadnego pozytywnego sensu, i obiecuje za nią życie wieczne, to znaczy, że ustanawia sens NOWY, którego dotąd nie było — rzeczywistość sakramentalną, dla której dopiero Wieczernik i ołtarz dostarczą kategorii. Argument z milczenia idiomu działa tu jak argument z przeciwieństwa: właśnie dlatego, że „jeść ciało\" nie mogło być dobrą metaforą, nie jest metaforą wcale."
+      ],
+      [
+       "Słownictwo eucharystyczne wspólnoty Janowej",
+       "Mowa kafarnejska jest utkana ze słów, które w ostatnich dekadach I wieku były już terminami technicznymi liturgii. Εὐχαριστεῖν — użyte w 6,11 i przypomniane w 6,23 („gdzie jedli chleb, gdy Pan uczynił dziękczynienie\") — jest u Pawła czasownikiem formuły ustanowienia (1 Kor 11,24), a w Didache (ok. 100 r.) nazwą samego obrzędu: „co do eucharystii, tak dziękujcie\". Κλάσμα (ułomek, 6,12-13) to w Didache 9,3-4 techniczna nazwa chleba eucharystycznego. Σάρξ i αἷμα — para z 6,51-56 — wraca u Ignacego Antiocheńskiego (zm. ok. 110), ucznia tej samej azjatyckiej tradycji, jako para ściśle eucharystyczna: o doketach pisze, że „powstrzymują się od eucharystii, bo nie wyznają, że eucharystia jest ciałem (σάρξ!) naszego Zbawiciela Jezusa Chrystusa, które cierpiało za nasze grzechy\" (Smyrn. 7,1) — najstarszy komentarz do J 6 poza Nowym Testamentem, czytający mowę dokładnie realistycznie; ten sam Ignacy nazwie łamany chleb „lekarstwem nieśmiertelności, antidotum, byśmy nie umierali\" (Ef 20,2) — najczystsze echo refrenu „wskrzeszę w dniu ostatecznym\". Justyn Męczennik (ok. 150) dopowie regułę recepcji: „pokarm ten nazywa się u nas eucharystią... przyjmujemy go nie jak zwykły chleb i zwykły napój, lecz jak ciało i krew wcielonego Jezusa\" (1 Apol. 66). Znamienne jest wreszcie milczenie źródeł: w całym Kościele pierwszych wieków nie zachował się ani jeden autor, który czytałby J 6 czysto symbolicznie przeciw realizmowi — spory o SPOSÓB obecności przyjdą po tysiącleciu; sama obecność była powietrzem, którym ta literatura oddycha."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Pęknięty schemat korekt jako argument realizmu, ofiarnicze ὑπέρ jako jedność Eucharystii i krzyża, tryb pneumatyczny obecności (w. 62-63) oraz łaska pociągająca i wolność odejścia — cztery węzły mowy w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem, cap. VI, lect. 4-8.",
+     "children": [
+      [
+       "1. Pęknięcie schematu korekt — argument kompozycyjny za realizmem",
+       "Czwarta Ewangelia posługuje się stałym chwytem: metafora Jezusa — dosłowne niezrozumienie — korekta (świątynia/ciało 2,19-21; narodzenie z góry 3,3-8; woda żywa 4,10-15; pokarm 4,31-34; wolność 8,31-36; sen Łazarza 11,11-14; „ujrzeć Ojca\" 14,7-9 i inne: kilkanaście wystąpień, jeden wzorzec). Schemat jest tak systemowy, że jego brak staje się sygnałem. W J 6 wszystkie przesłanki wzorca są na miejscu — twarde słowo, podwójne dosłowne niezrozumienie (w. 52 tłum, w. 60 uczniowie) — a trzeci krok nie następuje: zamiast korekty przychodzi czterokrotne τρώγειν, „prawdziwy pokarm, prawdziwy napój\" i zgoda na odejście wielu. Lektura symboliczna musi więc przyjąć, że ewangelista w jednym jedynym przypadku porzucił własną, konsekwentnie prowadzoną technikę — i że Jezus pozwolił uczniom odejść z błędem, który mógł sprostować jednym zdaniem (jak sprostował „śpi\" na „umarł\", 11,14). Lektura realistyczna niczego nie musi: dosłowność była treścią nauki; skorygowany zostaje nie sens, lecz TRYB przyjęcia (w. 62-63: przez Wniebowstąpienie i Ducha, nie przez wyobraźnię jatki). Tomasz ujmie to w scholastycznym skrócie: figura zostaje skorygowana, prawda zostaje wyznana — a tu Chrystus nie koryguje, lecz przysięga (podwójne amen) i zaostrza; verba tam expressa — słowa tak dobitne — nie znoszą lektury osłabiającej. Jest to argument czysto kompozycyjny, niezależny od dogmatu: wystarczy policzyć sceny i zobaczyć, gdzie wzorzec pęka."
+      ],
+      [
+       "2. Una eademque hostia — ὑπέρ i jedność ofiary",
+       "Przyimek ὑπέρ z w. 51 („ciało moje ZA życie świata\") jest gramatycznym mostem między trzema rzeczywistościami, które teologia musi trzymać razem: mową kafarnejską, krzyżem i ołtarzem. Ta sama składnia niesie Janowe zdania o pasterzu oddającym życie za owce (10,11.15), proroctwo Kajfasza o śmierci za naród (11,50-52), arcykapłańskie „za nich poświęcam siebie\" (17,19) — i formuły ustanowienia: „ciało moje za was\" (1 Kor 11,24; Łk 22,19), „krew wylana za wielu\" (Mk 14,24). Wniosek Tomasza — i Trydentu, który odleje go w formułę una eademque hostia, ten sam kapłan, ta sama żertwa, różny jedynie sposób ofiarowania — jest zapisany w tej składni: Eucharystia nie jest drugą ofiarą obok krzyża ani jego psychologicznym wspomnieniem, lecz sakramentalnym uobecnieniem tej samej ofiary; Msza niczego nie dodaje do Kalwarii — udostępnia ją. Dwie herezje lustrzane rozbijają się o ten przyimek: kto czyni Eucharystię pamiątką bez ofiary, zostawia ὑπέρ bez sakramentalnego adresata (za kogo dawane jest ciało, którego nikt nie spożywa?); kto czyniłby ją ofiarą nową, mnożyłby to, co jedno. A rozdzielenie postaci — osobno Ciało, osobno Krew — które w porządku znaku przedstawia śmierć (krew oddzielona od ciała), jest ostatnim argumentem przeciw tautologii symbolizmu: podwójny nakaz z w. 53 ma sens tylko tam, gdzie podwójność jest realna — na ołtarzu i w ofierze."
+      ],
+      [
+       "3. Modus praesentiae — w. 62-63 i sposób obecności",
+       "Werset 62 rozwiązuje trudność w. 52 („jak może dać ciało?\") wskazaniem na Wniebowstąpienie: Ciało, które wstąpi tam, gdzie Słowo było pierwej, przestanie podlegać ziemskiej arytmetyce — uwielbione i przeniknięte Duchem, stanie się rozdawalne całe i wszędzie. Tomasz da temu intuicji formę techniczną w nauce o sposobie obecności (S. Th. III, q. 75-76): Chrystus jest w Eucharystii obecny nie lokalnie (per modum loci), jak ciało w miejscu — nie „mieści się\" w hostii ani nie dzieli na porcje — lecz na sposób substancji (per modum substantiae): cały w całej postaci i cały w każdej cząstce, jak substancja jest cała w każdej części rzeczy; dlatego łamanie chleba nie łamie Chrystusa, a tysiąc ołtarzy nie mnoży Go ani nie dzieli. Werset 63 nazywa moc sprawczą tego trybu: Duch jest tym, który ożywia — Ciało Pańskie jest obecne pneumatycznie, czyli mocą Ducha (epikleza!), a nie na sposób jatki (Augustynowe in macello); „duch\" nie rozrzedza tu realności, lecz ją potęguje — jak w 1 Kor 15,44-45 ciało duchowe (σῶμα πνευματικόν) nie jest ciałem mniej realnym, lecz bardziej: wyzwolonym z ograniczeń, nie z cielesności. Ta sama zasada chroni przed kafarnaizmem — błędem tych, którzy realizm rozumieją po rzeźnicku i którym słusznie robi się niedobrze: sakrament nie jest konsumpcją zwłok, lecz komunią z Żyjącym; species (postacie) pozostają w porządku znaku, obecność — w porządku substancji, a spożywający nie wchłania Chrystusa w siebie, lecz zostaje wchłonięty w Niego (Augustynowe „ty zostaniesz przemieniony we mnie\", Conf. VII,10). Metafizyka służy tu adoracji: rozumieć sposób — by nie bać się realności."
+      ],
+      [
+       "4. Trahitur a Patre — łaska, wolność i krisis",
+       "Mowa oprawia swój realizm w podwójną ramę łaski: nikt nie może przyjść, jeśli go nie pociągnie Ojciec (w. 44) — jeśli mu nie jest dane od Ojca (w. 65); a między tymi klamrami rozgrywa się dramat wolności: odejście wielu, pytanie do Dwunastu, wyznanie, cień zdrajcy. Tomasz, za Augustynem, uczy czytać „pociąganie\" bez przemocy: Bóg porusza wolę nie jak kamień — z zewnątrz, wbrew niej — lecz od wewnątrz, jako jej własne dobro; trahit sua quemque voluptas, pociąga człowieka jego rozkosz — pokaż sercu chleb życia, a pobiegnie, jeśli tylko głód nie został zagłuszony. Dlatego łaska uprzedzająca i wolność odmowy nie kłócą się w tej scenie, lecz wzajemnie odsłaniają: nikt nie przychodzi bez daru (przeciw pelagiańskiej samowystarczalności), ale dar bywa odrzucony (przeciw wyobrażeniu łaski-przymusu) — Jezus pyta „czy i wy chcecie odejść?\", bo przy stole Bożym nie ma poboru. Stąd ostatnia lekcja mowy: Eucharystia jest krisis, sądem rozdzielającym — nie dlatego, że Bóg chce dzielić, lecz dlatego, że największy dar wymusza najprawdziwszą odpowiedź; trzy odpowiedzi sceny (odejść z wieloma, wyznać z Piotrem, zostać bez wiary z Judaszem) są trzema trwałymi możliwościami każdego przystępującego, a Pawłowe „kto je i pije niegodnie, sąd sobie je i pije\" (1 Kor 11,27-29) tylko nazywa kategorią to, co Jan namalował osobami. Duszpasterska miara tej nauki: bojaźń bez ucieczki i ufność bez zuchwałości — do stołu Pańskiego podchodzi się jak Piotr: nie rozumiejąc wszystkiego, wierząc Temu, który ma słowa życia wiecznego."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "body": "Ewangelista skomponował J 6,22-71 jako centrum swojej księgi — i jako jej najśmielszy eksperyment formalny: mowę, która jest zarazem homilią synagogalną (midrasz o mannie z tekstem w w. 31, wykładem członów i tekstem prorockim w w. 45), dramatem w siedmiu eskalacjach i sceną sądu (krisis) z trzema wyjściami. Warsztat widać w każdym szwie. Eskalacja jest arytmetycznie czysta: pokarm ginący/trwający (w. 27) → jedno dzieło: wiara (w. 29) → nie Mojżesz, lecz Ojciec; nie dał, lecz daje (w. 32) → JA JESTEM chlebem życia (w. 35) → chleb = moje ciało ZA życie świata (w. 51) → gryźć Ciało i pić Krew (w. 53-58) — żaden krok nie powtarza poprzedniego i żaden nie cofa; a od momentu protestu słuchaczy ewangelista podmienia czasownik jedzenia na fizjologiczne τρώγειν, które wróci już tylko raz: w Wieczerniku, o Judaszu (13,18 — ze świadomą zmianą ἐσθίων Septuaginty na τρώγων), spinając mowę z dramatem zdrajcy. Sieć μένω — pokarm trwający (w. 27), wzajemne trwanie spożywającego i Chrystusa (w. 56) — jest obliczona na rezonans z 14,10-11 (Ojciec we mnie, ja w Ojcu) i 15,4-7 (trwajcie we mnie): jedna formuła gramatyczna dla Trójcy, Eucharystii i Kościoła, żeby czytelnik zobaczył jedną ciągłą rzeczywistość trwania. Klamra z Prologiem jest leksykalna: Słowo stało się σάρξ (1,14) — chleb jest σάρξ (6,51); anty-doketyzm Janowy ma trzy ogniwa (Wcielenie — Eucharystia — dotykalny Zmartwychwstały, 20,27) i mowa kafarnejska jest środkowym. Wreszcie dwa audytoria: mowa jest tak napisana, by tłum słyszał skandal, a czytelnik — który był z uczniami w łodzi przy ἐγώ εἰμι — słyszał objawienie; ta asymetria tłumaczy zakończenie, w którym rozdział 6 okazuje się miniaturą losu Ewangelii: dar, entuzjazm, niezrozumienie, odejście wielu, wierność nielicznych i zdrada jednego. Że Jan, jedyny bez opisu ustanowienia, umieścił całą teologię Eucharystii rok wcześniej, w synagodze — to nie luka, lecz decyzja: jego wspólnota zna formułę konsekracji od dawna (1 Kor 11 jest starsze od wszystkich Ewangelii); on dopisuje do niej to, czego formuła nie mówi — kim jest Ten, który mówi „to jest ciało moje\", i co się dzieje z tym, kto je: trwa w Nim, jak On w Ojcu.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "body": "Duch Święty pozostawił w tej mowie katechezę, której Kościół nie przestał potrzebować ani na jedno pokolenie. O motywacji: szukacie mnie, bo jedliście — pytanie, czy szukam Dawcy, czy działu, stoi na progu każdej modlitwy i każdej Mszy; a odpowiedź „zabiegajcie o pokarm trwający\" nie gasi ludzkiego głodu, lecz go powiększa: chleb powszedni jest dobry, ale człowiek jest głodniejszy niż jego spiżarnia. O wierze: jedno jest dzieło Boże — wierzyć w Posłanego; Eucharystia nie jest magią przedmiotu, lecz sakramentem wiary, i dlatego mowa uczy najpierw wierzyć (w. 26-47), potem spożywać (w. 48-58) — kto odwraca porządek, temu zostaje obrzęd bez Osoby. O realności: Ciało prawdziwym pokarmem, Krew prawdziwym napojem — Bóg nie karmi swojego ludu przenośniami; w sakramencie dostajemy nie myśl o Chrystusie, lecz Chrystusa, i dlatego komunia czyni z nami to, czego nie czyni żadna idea: wszczepia w trwanie samego Boga (w nim trwam — On we mnie), tak że życie płynie łańcuchem Ojciec→Syn→spożywający jak sok w krzewie. O wolności: Pan, który mówi „bez daru Ojca nikt nie przyjdzie\", pyta zaraz „czy i wy chcecie odejść?\" — łaska i wolność są dwiema rękami tego samego obdarowania, i nikt nie siedzi przy tym stole z poboru. O sądzie wreszcie: mowa kończy się trzema drogami — odejściem wielu, wyznaniem Piotra, milczącą niewiarą Judasza — bo chleb życia nie bywa neutralny; każde podejście do ołtarza jest małą krisis, w której powtarzam albo „twarda jest ta mowa\" (i cofam się do tego, co za plecami), albo „Panie, do kogo pójdziemy?\". Duch, który ożywia, podpowiada słowa właściwej odpowiedzi od dwóch tysięcy lat — są w w. 68 i Kościół kładzie je na wargi każdego, kto klęka: Ty masz słowa życia wiecznego.",
+     "children": []
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "Wj 16; Ps 78,24 → w. 31-33.49",
+       "Tekst homilii: manna. Cytat tłumu (w. 31) zszywa narrację Wyjścia z psalmem („zboże niebios dał im\"), a wykład Jezusa prostuje każdy człon: podmiot, czas, przedmiot, adresata. Dwa rysy manny niosą całą typologię: nie dawała życia na zawsze (ojcowie pomarli — w. 49; przeciw niej: żyć będzie na wieki) i nie znosiła gromadzenia (psuła się — Wj 16,20; przeciw niej: pokarm TRWAJĄCY, μένουσαν). Jest i trzeci rys, cichszy: manny nie wolno było zatrzymać, ale jeden jej dzban złożono przed Panem na pamiątkę pokoleń (Wj 16,33-34) — pamiątka pokarmu z nieba przechowywana w miejscu świętym; Kościół, przechowujący Chleb w tabernakulum, stoi w prostej linii tej figury."
+      ],
+      [
+       "Iz 54,13; 55,1-3 → w. 45.35",
+       "Tekst prorocki homilii: „i będą wszyscy pouczeni przez Boga (διδακτοὶ θεοῦ)\" — obietnica nowego przymierza, w którym nauka nie przychodzi już tylko przez pośredników, lecz jako wewnętrzne pociągnięcie (por. Jr 31,33-34: prawo wypisane na sercach, „wszyscy mnie poznają\"). Jezus czyni z niej wykład swojego ἑλκύειν: pociąganie Ojca to pouczenie serca, słuchanie i nauczenie się, nie przymus. A zaproszenie Iz 55,1-3 („wszyscy spragnieni, przyjdźcie do wody... słuchajcie mnie, a dusza wasza żyć będzie\") stoi za obietnicą w. 35: nie będzie łaknął, nie będzie pragnął — u Izajasza dar jest darmowy „bez pieniędzy\", u Jana Dawca jest darem."
+      ],
+      [
+       "Prz 9,1-5; Syr 24,19-21 → w. 35",
+       "Uczta Mądrości: „chodźcie, jedzcie mój chleb, pijcie wino, które zmieszałam\" (Prz 9,5) — Mądrość zastawiająca stół i wołająca prostaczków jest najbliższą sapiencjalną matrycą chleba życia; Syrach dodaje paradoks: „którzy mnie jedzą, będą jeszcze łaknąć\" (Syr 24,21) — głód Mądrości rośnie od karmienia. Jan przejmuje matrycę i odwraca paradoks: kto przychodzi do mnie, NIE będzie łaknął — bo Mądrość Janowa nie jest już księgą ani ucztą pojęć, lecz Osobą, która nie odsyła dalej. Logos-Mądrość z Prologu zastawia w rozdziale 6 swój stół: linia Logos → Mądrość → chleb życia → Eucharystia jest jednym ciągiem."
+      ],
+      [
+       "Kpł 17,10-14; Rdz 9,4; Pwt 12,23 → w. 53-56",
+       "Tabu krwi — pięć warstw zakazu (zob. sekcja II) — jest tłem, na którym w. 53 świadomie się odcina. Oś teologiczna: krew = nefesz (dusza) = własność Boga = narzędzie przebłagania na ołtarzu. Wezwanie do picia Krwi Syna Człowieczego zakłada więc chrystologię najwyższego rzędu: tylko Ten, do którego krew z prawa należy — Prawodawca i Właściciel życia — może ją podać; i tylko krew, która JEST przebłaganiem, może być pita jako życie. Nowe przymierze „we krwi mojej\" (Łk 22,20; por. Wj 24,8: krew przymierza wylana na lud) odwraca kierunek pokropienia: co było kropione z zewnątrz, teraz jest przyjmowane do wewnątrz."
+      ],
+      [
+       "Ps 27,2; Mi 3,3; Hi 19,22; Iz 49,26; Koh 4,5 → w. 52-53",
+       "Katalog idiomu „jeść ciało\" (zob. sekcja II): wszystkie poświadczenia znaczą wrogość — atak, wyzysk, oszczerstwo, samozagładę. Sieć tych miejsc jest negatywem, który wywołuje Janową fotografię: skoro język nie miał pozytywnej metafory jedzenia ciała, słowa Jezusa nie mogą być metaforą — są ustanowieniem nowej rzeczywistości. Warto zauważyć, że Ewangelia zna także idiomatyczne użycie wrogie: w 13,18 „kto gryzie (τρώγων) mój chleb, podniósł na mnie piętę\" (Ps 41,10) — Judasz realizuje stary idiom (jeść czyjś chleb i niszczyć go), dokładnie w chwili, gdy odrzuca nowy sens; oba znaczenia mijają się w Wieczerniku o jeden kęs."
+      ],
+      [
+       "Pwt 8,3 → w. 27.63",
+       "„Nie samym chlebem żyje człowiek, lecz wszystkim, co pochodzi z ust Pana\" — komentarz Mojżesza do manny, przywołany przez Jezusa na pustyni kuszenia (Mt 4,4). Mowa kafarnejska jest rozwinięciem tego wersetu aż do utożsamienia: Słowo z ust Boga samo stało się chlebem; „słowa, które wam powiedziałem, są duchem i życiem\" (w. 63) i „chleb, który ja dam\" (w. 51) to dwie strony jednego daru. Stąd bierze się nierozdzielność stołu słowa i stołu chleba, którą Kościół wyzna w liturgii: Ewangelia i Eucharystia są jednym pokarmem w dwóch podaniach."
+      ],
+      [
+       "1 Kor 10,16-17; 11,23-29 → w. 51-58",
+       "Pawłowa konfirmacja — najstarszy pisany komentarz do tej teologii (ok. 54 r., przed wszystkimi Ewangeliami): kielich błogosławieństwa jest wspólnotą (κοινωνία) Krwi Chrystusa, chleb — wspólnotą Ciała (10,16); formuła ustanowienia z tym samym ὑπέρ (11,24: „ciało za was\"); i sankcja realizmu: kto je i pije niegodnie, „winny będzie Ciała i Krwi Pańskiej... sąd sobie je i pije, nie rozróżniając Ciała\" (11,27-29) — nikt nie bywa „winny ciała\" symbolu ani nie umiera od metafory (11,30). Jan i Paweł, niezależnie od siebie, świadczą o jednej wierze pierwszego pokolenia: uczestnictwo realne, godność przyjęcia, sąd nad niewiarą przy stole — Judasz u Jana i „niegodnie jedzący\" u Pawła to ten sam przypadek w dwóch językach."
+      ],
+      [
+       "J 13,18-30; 15,1-17; 17,19-21 → epilog mowy",
+       "Trzy nici wewnętrzne. Judasz: niewiara eucharystyczna z 6,64.70-71 dojrzeje przez wycenę Ciała w Betanii (12,4-6: trzysta denarów) do kęsa w Wieczerniku (13,26-30) — z τρώγων w 13,18 jako klamrą leksykalną; „a była noc\" (13,30) jest ostatnim słowem tej drogi: anty-komunia kończy się w ciemności, dokładnie tam, skąd mowa wyprowadzała (6,17: ciemność już nastała). Krzew winny: „trwajcie we mnie, a ja w was\" (15,4) podejmuje formułę 6,56 — obraz łozy jest eklezjalnym rozwinięciem eucharystycznego trwania (sok krzewu = życie płynące przez zjednoczenie), a „beze mnie nic nie możecie\" powtarza „nie macie życia w sobie\". Modlitwa arcykapłańska: „za nich poświęcam siebie\" (17,19 — ofiarnicze ὑπέρ i ἁγιάζω) oraz „aby stanowili jedno, jak Ty we mnie, a ja w Tobie\" (17,21) — jedność, o którą Jezus prosi, ma mechanizm: wzajemne trwanie, którego sakramentalnym przewodem jest właśnie Eucharystia; J 6, J 15 i J 17 są trzema piętrami jednej budowli."
+      ],
+      [
+       "Mt 16,16; Mk 8,29; Łk 9,20 → w. 68-69",
+       "Wyznanie pod Cezareą Filipową — synoptyczny bliźniak sceny: to samo pytanie Jezusa postawione Dwunastu, ta sama odpowiedź Piotra w imieniu wszystkich, ten sam moment przesilenia w połowie drogi. Różnice są Janowe co do rdzenia: u synoptyków wyznanie pada po pytaniu o tożsamość („za kogo mnie uważacie?\"), u Jana — po mowie eucharystycznej i odejściu wielu: wiara Piotra jest tu wprost recepcją nauki o Ciele i Krwi; tytuł też inny — nie „Mesjasz\", lecz „Święty Boga\" (por. Mk 1,24) — mniej polityczny, bardziej kapłański. I jak pod Cezareą po wyznaniu przychodzi cień („zejdź mi z oczu, szatanie\" — do Piotra), tak tu: „jeden z was jest diabłem\"; oba szczyty wiary mają tuż obok przepaść — ewangeliści zgodnie nie pozwalają Kościołowi na tryumfalizm w dniu wyznania."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Liturgia",
+       "Rok B czyta mowę kafarnejską przez cztery kolejne niedziele (18.-21. zwykła: 6,24-35; 41-51; 51-58; 60-69) — jedyny w lekcjonarzu przypadek, gdy Kościół na miesiąc porzuca Ewangelię roku (Marka), by przejść rozdział wers po wersie: liturgia traktuje J 6 jako swój katechizm eucharystyczny i odtwarza jego dramaturgię aż po pytanie „czy i wy chcecie odejść?\" w finale cyklu. Uroczystość Najświętszego Ciała i Krwi Chrystusa czyta w roku A sam rdzeń (6,51-58); ferie III tygodnia wielkanocnego przechodzą mowę dzień po dniu, zaraz po znaku chleba z tygodnia II. Echa tekstu przenikają samą Mszę: „Panie, nie jestem godzien...\" odpowiada logice krisis, aklamacja „Ty masz słowa życia wiecznego\" (śpiew przed Ewangelią) jest wprost w. 68, a obrzędy Komunii — z troską o każdą cząstkę (puryfikacja jak „zbierzcie ułomki\") — praktykują realizm w rubrykach. Na Wschodzie mowa żyje w modlitwach przed Komunią („Wieczerzy Twojej mistycznej uczestnikiem mnie dziś przyjmij... nie dam Ci pocałunku jak Judasz, lecz jak łotr wyznaję\") — liturgia bizantyjska modli się dokładnie trzema postaciami Janowego epilogu. Z mowy wyrosła też cała tradycja adoracji: skoro Chleb JEST Ciałem, obecność nie kończy się z Komunią — wystawienie, procesja Bożego Ciała i cisza przed tabernakulum są konsekwencjami wziętego na serio w. 55; hymny Tomaszowe na Boże Ciało (Lauda Sion z frazą o całym Chrystusie w każdej cząstce; Adoro te devote z „visus, tactus, gustus in te fallitur — sed auditu solo tuto creditur\": zmysły zawodzą, słuch wystarcza — czyli wiara w słowa życia z w. 68) są poetyckim streszczeniem teologii tej perykopy."
+      ],
+      [
+       "Recepcja teologiczna i duchowość",
+       "Historia lektury J 6 jest historią teologii Eucharystii. Ojcowie czytają realistycznie jednym głosem — Ignacy przeciw doketom (eucharystia jest sarks Zbawiciela), Justyn (nie jak zwykły chleb), Ireneusz (ciała karmione Eucharystią nie są skazane na zagładę — przeciw gnozie), Cyryl Jerozolimski i Ambroży w katechezach mistagogicznych, Chryzostom z całą dosadnością, Augustyn z całą głębią (nikt nie spożywa tego Ciała, zanim go nie adoruje — Enarr. in Ps 98,9); spory o SPOSÓB obecności zaczną się dopiero w IX w. (Paschazjusz-Ratramnus), zaostrzą w XI (Berengariusz — pierwszy, który realizm zakwestionował systemowo i którego Kościół zobowiązał do wyznania realności), a słowo „przeistoczenie\" da im spoczynek na Soborze Laterańskim IV (1215) i w Trydencie. W duchowości mowa kafarnejska pracuje trzema zdaniami: „szukacie mnie, bo jedliście\" — stały rachunek sumienia z czystości intencji; „twarda jest ta mowa\" — nazwa każdego kryzysu wiary, w którym nie rozumienie zawodzi, lecz gotowość przyjęcia (kierownictwo duchowe od wieków uczy: gdy mowa twardnieje, nie odchodź — pytaj z Piotrem); „do kogo pójdziemy?\" — modlitwa wytrwania, którą powtarzali męczennicy eucharystyczni od Tarcycjusza po Abitinę („bez niedzieli nie możemy żyć\" — sine dominico non possumus). Nowsze wieki dopisały praktykę: komunia częsta (Pius X, wbrew jansenistycznej surowości — bo pokarm jest na życie, nie nagrodą za doskonałość), adoracja wieczysta, kongresy eucharystyczne; a Franciszkowe „Eucharystia nie jest nagrodą dla doskonałych, lecz lekarstwem i pokarmem dla słabych\" (EG 47) jest wiernym echem Ignacjowego lekarstwa nieśmiertelności — i samego w. 53: nie MACIE życia w sobie; ten chleb nie jest deserem zdrowych, lecz transfuzją dla umierających."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Katena do mowy eucharystycznej — sześć głosów: pokarm trwający i pieczęć Ojca (Chryzostom), pociąganie rozkoszą prawdy (Augustyn), realizm w. 53-56 przeciw jatce wyobraźni (Augustyn), jedność ciała mistycznego z Ciała sakramentalnego (Cyryl), twarda mowa i pedagogia nieustępliwości (Chryzostom), wyznanie Piotra i cień Judasza (Cyryl).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: w synagodze kafarnejskiej, nad tekstem o mannie, Jezus przeprowadza słuchaczy drogą, z której nie ma odwrotu w połowie — od chleba, który ginie, do pokarmu, który trwa; od dzieł do jednej wiary; od manny ojców do JA JESTEM chlebem życia; aż po zdanie, które jest Janowym słowem ustanowienia: chlebem, który Ja dam, jest moje ciało za życie świata — i wobec zgorszenia nie cofa niczego, lecz każe gryźć Ciało i pić Krew, obiecując za to wzajemne trwanie tej samej natury, co trwanie Ojca w Synu. Mowa kończy się przesiewem, który trwa do dziś: wielu odchodzi wstecz, Piotr wyznaje — Panie, do kogo pójdziemy? Ty masz słowa życia wiecznego — a jeden zostaje przy stole bez wiary; i to są trzy odpowiedzi, spośród których każdy przystępujący do ołtarza za każdym razem wybiera swoją. Czytelnik zabiera z Kafarnaum trzy pewności: że Bóg nie karmi przenośniami — daje siebie; że twardość tej mowy nie jest jej wadą, lecz ceną realności daru; i że na pytanie, które Jezus zadał Dwunastu, nie odpowiada się raz — odpowiada się nim całe życie, najlepiej słowami, które Kościół powtarza przed każdą Komunią od dwóch tysięcy lat.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28 (nawiasy NA28 zachowane: πλοι[άρι]α w. 23, [ὁ] Ἰησοῦς w. 29, [με] w. 36, [ἐν] w. 39-40, [αὐτοῦ] w. 52, [ἐκ] w. 66); przekłady polskie wersetów są robocze (własne, dosłowne), terminy hebrajskie w transkrypcji uproszczonej. Perykopa uwzględnia materiał opracowania warsztatowego „Eucharystia według świętego Jana — realna obecność, typologie eucharystyczne i kompozycyjne wzorce w czwartej Ewangelii\" (dokument roboczy w archiwum projektu): siedmiostopniową eskalację dialogu, analizę τρώγειν, katalog idiomu semickiego „jeść ciało\", pięć warstw tabu krwi, składnię ofiarniczą ὑπέρ, egzegezę w. 62-63, pęknięcie Janowego schematu korekt, sieć μένω i trzyaktowy dramat Judasza. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg (t. II z ekskursem eucharystycznym), P. Borgen (Bread from Heaven), a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — św. Jan Chryzostom (Hom. in Io. 44-47), św. Augustyn (Tract. in Io. 25-27), św. Cyryl Aleksandryjski (In Io., ks. III-IV) i św. Tomasz (Super Ioannem, cap. VI, lect. 4-8).*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     16,
+     1,
+     16,
+     36,
+     "Wj 16",
+     "typologia",
+     "manna — tekst homilii kafarnejskiej; pokarm, który ginął, wobec pokarmu trwającego"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     78,
+     24,
+     78,
+     25,
+     "Ps 78,24-25",
+     "tlo",
+     "chleb z nieba dał im do jedzenia — cytat tłumu w w. 31, wyłożony przez Jezusa człon po członie"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     54,
+     13,
+     54,
+     13,
+     "Iz 54,13",
+     "tlo",
+     "będą wszyscy pouczeni przez Boga — tekst prorocki homilii (w. 45), wykład pociągania Ojca"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Prz",
+     9,
+     1,
+     9,
+     5,
+     "Prz 9,1-5",
+     "typologia",
+     "uczta Mądrości: jedzcie mój chleb, pijcie moje wino — sapiencjalna matryca chleba życia"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Syr",
+     24,
+     19,
+     24,
+     21,
+     "Syr 24,19-21",
+     "typologia",
+     "którzy mnie jedzą, będą łaknąć — paradoks Mądrości odwrócony w w. 35"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Kpł",
+     17,
+     10,
+     17,
+     14,
+     "Kpł 17,10-14",
+     "tlo",
+     "dusza ciała jest we krwi — teologiczny fundament tabu krwi, które w. 53 świadomie odwraca"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Rdz",
+     9,
+     4,
+     9,
+     4,
+     "Rdz 9,4",
+     "tlo",
+     "zakaz krwi w przymierzu Noego — najstarsza, uniwersalna warstwa tabu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     27,
+     2,
+     27,
+     2,
+     "Ps 27,2",
+     "tlo",
+     "złoczyńcy zbliżają się, by jeść moje ciało — idiom wrogości, którego pozytywnej wersji Biblia nie zna"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mi",
+     3,
+     3,
+     3,
+     3,
+     "Mi 3,3",
+     "tlo",
+     "pożerają ciało mojego ludu — drugi filar katalogu idiomu jedzenia ciała"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pwt",
+     8,
+     3,
+     8,
+     3,
+     "Pwt 8,3",
+     "typologia",
+     "nie samym chlebem żyje człowiek — komentarz do manny rozwinięty aż do utożsamienia Słowa i chleba"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 Kor",
+     11,
+     23,
+     11,
+     29,
+     "1 Kor 11,23-29",
+     "paralela",
+     "formuła ustanowienia z tym samym hyper i sankcja: winny Ciała i Krwi — Pawłowa konfirmacja realizmu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 Kor",
+     10,
+     16,
+     10,
+     17,
+     "1 Kor 10,16-17",
+     "paralela",
+     "kielich — koinonia Krwi, chleb — koinonia Ciała; jeden chleb, jedno ciało"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     16,
+     13,
+     16,
+     20,
+     "Mt 16,13-20",
+     "paralela",
+     "Cezarea Filipowa — synoptyczny bliźniak wyznania Piotra po mowie eucharystycznej"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     13,
+     18,
+     13,
+     30,
+     "J 13,18-30",
+     "rozwiniecie",
+     "kto gryzie (trogon) mój chleb — kęs Judasza: akt III dramatu otwartego w 6,64.70-71"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     15,
+     1,
+     15,
+     17,
+     "J 15,1-17",
+     "rozwiniecie",
+     "krzew winny: trwajcie we mnie, a ja w was — eklezjalne rozwinięcie formuły 6,56"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     17,
+     19,
+     17,
+     26,
+     "J 17,19-26",
+     "rozwiniecie",
+     "za nich poświęcam siebie; aby stanowili jedno, jak Ty we mnie — arcykapłańskie dopełnienie mowy"
+    ],
+    [
+     [
+      "unit",
+      "w. 41–51",
+      2
+     ],
+     "Iz",
+     53,
+     12,
+     53,
+     12,
+     "Iz 53,12",
+     "tlo",
+     "wydał na śmierć swoją duszę za wielu — ofiarnicze tło składni hyper"
+    ],
+    [
+     [
+      "unit",
+      "w. 60–66",
+      1
+     ],
+     "1 Kor",
+     15,
+     44,
+     15,
+     45,
+     "1 Kor 15,44-45",
+     "paralela",
+     "ciało duchowe; ostatni Adam duchem ożywiającym (pneuma dzoopoioun) — ten sam imiesłów co w w. 63"
+    ],
+    [
+     [
+      "unit",
+      "w. 30–40",
+      2
+     ],
+     "Wj",
+     16,
+     33,
+     16,
+     34,
+     "Wj 16,33-34",
+     "typologia",
+     "dzban manny złożony przed Panem na pamiątkę pokoleń — figura przechowywania Chleba"
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. VI, lect. 4-8",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład mowy: realizm przeciw figurze, jedność ofiary, sposób obecności per modum substantiae, łaska pociągająca.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "P. Borgen",
+     "Bread from Heaven, passim",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Forma homilii synagogalnej (midrasz o mannie) w J 6,31-58: tekst, wykład członów, tekst prorocki.",
+     "Bread from Heaven: An Exegetical Study of the Concept of Manna"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "IV. Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Struktura mowy (chleb wiary i chleb sakramentu), relacja do formuł ustanowienia, historia tradycji.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "Autor projektu",
+     "Eucharystia według świętego Jana (dokument roboczy)",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Siedmiostopniowa eskalacja, τρώγειν, idiom semicki, tabu krwi, hyper, w. 62-63, pęknięcie schematu korekt, sieć μένω, dramat Judasza.",
+     "Eucharystia według świętego Jana — realna obecność, typologie eucharystyczne i kompozycyjne wzorce w czwartej Ewangelii"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana I, ad loc.",
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Polskie omówienie tła mannowego, formy midraszu i eucharystycznej interpretacji w. 51-58.",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 26–29",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 44",
+     "Chryzostom podziwia w pierwszych słowach mowy łagodność chirurga: Jezus gani — a nie odpycha; mówi „szukacie mnie, bo jedliście\", lecz mówi to tym, których sam wczoraj nakarmił do syta, więc wyrzut jest zarazem przypomnieniem dobrodziejstwa. Tak — uczy kaznodzieja — należy korygować: wskazując błąd motywacji, nie odbierając chleba. W wezwaniu „zabiegajcie o pokarm trwający\" słyszy Chryzostom całą hierarchię trosk: nie zakazuje się pracy na chleb ginący (sam Paweł pracował rękami), lecz zakazuje się czynić z niej celu; brzuch jest złym panem, a dobrym sługą. Pieczęć Ojca (ἐσφράγισεν) wykłada jako uwierzytelnienie bez apelacji: jak nikt nie podważa dokumentu z pieczęcią królewską, tak nikt nie ma prawa żądać od Syna dalszych legitymacji — a jednak zażądają znaku, i to nazajutrz po znaku; taka jest natura niewiary: nie brak dowodów, lecz brak woli. Wiara zaś nazwana „dziełem Boże\" uczy dwojga naraz: że wiara jest czynem (nie nastrojem), i że jest darem (nie wyczynem) — kto ją ma, niech pracuje; kto nie ma, niech prosi."
+    ],
+    [
+     "w. 41–51",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 26,2-7",
+     "Augustyn zatrzymuje się nad „nikt nie może przyjść do mnie, jeśli go nie pociągnie Ojciec\" i stawia zarzut, który słyszał po wielekroć: skoro pociąga — gdzie wolność? Odpowiedź, którą daje, stała się jednym z najsłynniejszych zdań teologii łaski: nie myśl, że jesteś pociągany wbrew woli — duszę pociąga także miłość; trahit sua quemque voluptas — każdego pociąga jego rozkosz. Pokaż gałązkę kozie, pokaż orzechy dziecku — pobiegną bez łańcucha, pociągnięte tym, co kochają: a cóż dopiero, gdy Ojciec pokaże sercu Chleb z nieba? Pociąganie Boże nie jest gwałtem na woli, lecz jej uzdrowieniem: łaska nie ciągnie opornych za włosy — zapala smak, daje głód, otwiera oczy na Dobro, za którym wola sama biegnie. Kto więc nie przychodzi, niech nie oskarża dekretu — niech prosi o głód; a kto przyszedł, niech nie chełpi się krokiem — dziękuje za pociągnięcie. „Będą wszyscy pouczeni przez Boga\": w szkole, w której katedrą jest serce, nauczycielem Ojciec, a lekcją — Chleb życia, nikt nie zostaje na drugim roku z braku zdolności; zostaje się tylko z braku apetytu."
+    ],
+    [
+     "w. 52–59",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 26,11-27,11",
+     "Wobec sporu „jak On może dać nam ciało do jedzenia?\" Augustyn rozdziela dwa błędy i jedną prawdę. Błąd pierwszy — jatka: słuchacze wyobrazili sobie Ciało Pańskie tak, jak widzi się mięso w rzeźni (in macello), pokrojone i sprzedawane na funty; myśleli „po cielesnemu\" — i o TAKIM myśleniu, nie o Ciele Chrystusa, powie Pan: ciało nic nie pomaga. Błąd drugi — rozrzedzenie: uczynić z daru samą figurę i pamiątkę; temu Augustyn zamyka drogę słowami, które cytuje po wiekach każdy traktat: tamten pokarm przyjmowali ojcowie — i pomarli; ten, kto spożywa TEN chleb, żyć będzie na wieki — różnica nie jest w pobożności jedzących, lecz w tym, CO się spożywa. Prawda zaś jest taka: spożywajcie duchowo to, co realne — manducate spiritaliter; nie zębom zostawił Pan swoją moc, lecz wierze, ale wiara nie spożywa niczego, jeśli nie ma CZEGO spożywać. Skutek tego pokarmu Augustyn zamyka w formule, którą usłyszał w swojej wizji przed nawróceniem: jestem pokarmem dorosłych — nie ty mnie przemienisz w siebie, jak pokarm twego ciała: ty zostaniesz przemieniony we mnie (Conf. VII,10). Każde inne jedzenie wciela pokarm w jedzącego; to jedno wciela jedzącego w Pokarm — i dlatego, doda gdzie indziej, nikt nie spożywa tego Ciała, zanim go najpierw nie adoruje."
+    ],
+    [
+     "w. 52–59",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. IV",
+     "Cyryl czyta w. 53-57 jak fizjolog życia Bożego. Ciało Pana jest ożywiające (ζωοποιός) — nie dlatego, że jest ciałem, lecz dlatego, że jest ciałem Życia: zjednoczone hipostatycznie ze Słowem, które jest życiem z natury, samo stało się przewodnikiem życia, jak żelazo włożone w ogień samo pali. Kto je spożywa, jednoczy się z Ciałem ożywiającym cieleśnie — nie tylko myślą i uczuciem: jak dwa kawałki wosku stopione razem stają się jednym, tak spożywający zostaje zmieszany z Chrystusem i Chrystus z nim; dlatego formuła „we mnie trwa, a ja w nim\" nie jest przenośnią zażyłości, lecz opisem realnego zespolenia. Z tego zespolenia Cyryl wyprowadza i eklezjologię, i eschatologię. Eklezjologię: skoro wszyscy spożywamy jeden Chleb, wszyscy stajemy się jednym ciałem w Chrystusie — Eucharystia jest tym, co czyni z wielu Kościół (współcielesnymi, σύσσωμοι); spory i podziały przy jednym stole są więc zaprzeczeniem samego pokarmu. Eschatologię: ciało nasze, zmieszane z Ciałem nieśmiertelnym, otrzymuje w zalążku nieśmiertelność — „a ja go wskrzeszę\" nie jest obietnicą doczepioną do pokarmu, lecz jego naturalnym skutkiem: kto nosi w sobie Życie, nie może pozostać w grobie; Eucharystia jest nasieniem zmartwychwstania zasianym w ciele."
+    ],
+    [
+     "w. 60–66",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 47",
+     "Chryzostom pyta o rzecz, którą kaznodzieje zwykle omijają: czemu Pan pozwolił odejść tylu uczniom, skoro jednym słowem mógł ich zatrzymać? I odpowiada: bo złagodzenie słowa byłoby okrucieństwem — zatrzymałoby ich przy Jezusie wyobrażonym, nie przy prawdziwym; wiara kupiona rabatem od prawdy jest niewiarą na raty. Uczniowie mówią „twarda jest ta mowa\" — a Chryzostom precyzuje: twarda nie dla rozumu, lecz dla pychy rozumu; nie „niezrozumiała\", lecz nieuległa — nie daje się przyciąć do miary słuchacza, więc słuchacz musi urosnąć do miary słowa. W pytaniu o Syna Człowieczego wstępującego tam, gdzie był pierwej, widzi lekarstwo na zgorszenie „z dołu\": jeśli mierzycie moją naukę synem cieśli, zmierzcie ją Tym, który zstąpił i wstępuje; trudność w. 53 rozwiązuje się nie przez pomniejszenie daru, lecz przez powiększenie Dawcy. A „Duch jest tym, który ożywia\" czyta jako regułę słuchania wszystkiego, co Boże: rzeczy Ducha przyjmuje się duchowo — kto podchodzi do tajemnic z samą ciekawością cielesną, ten i manny by nie strawił; kto z wiarą — temu i twarda mowa staje się chlebem. Odchodzących Pan nie goni, pozostałych nie wiąże: taka jest cena, którą Prawda płaci za wolność swoich uczniów — i płaci ją do dziś."
+    ],
+    [
+     "w. 67–71",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. IV",
+     "W pytaniu „czy i wy chcecie odejść?\" Cyryl słyszy nie niepewność, lecz położną wiary: Pan wydobywa z Dwunastu wyznanie, którego sami w sobie mogli jeszcze nie widzieć — jak lekarz, który każe choremu wstać, by chory odkrył, że może chodzić. Odpowiedź Piotra jest dla Cyryla wzorem wszelkiej teologii: zaczyna od wyznania braku alternatywy (do kogo pójdziemy? — kto raz skosztował słów życia, temu wszystkie inne stoły obrzydły), przechodzi przez doświadczenie (masz słowa życia wiecznego — Piotr mówi o tym, co słyszał i czym żył, nie o tym, co wydedukował) i kończy na poznaniu ugruntowanym w wierze: uwierzyliśmy i poznaliśmy — najpierw wiara, potem poznanie; kto odwraca porządek i chce najpierw pojąć, by potem uwierzyć, zostaje z niczym, jak tłum w Kafarnaum. Tytuł „Święty Boga\" czyta Cyryl kapłańsko: Poświęcony i Poświęcający, Ten, który za nich uświęca samego siebie. Lecz zaraz po szczycie Ewangelia stawia przepaść: jeden z was jest diabłem — i Cyryl każe Kościołowi zapamiętać tę sekwencję na zawsze: wybranie nie jest gwarancją, stół nie jest talizmanem, bliskość Ciała Pańskiego bez wiary nie uświęca, lecz oskarża; Judasz słuchał tej samej mowy, co Piotr, i pozostał — ciałem przy stole, sercem w cenniku. Dwie drogi rozejdą się w Wieczerniku o jeden kęs; zaczęły się rozchodzić w Kafarnaum, o jedno „amen\", którego jeden z Dwunastu nie powiedział."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "18.-21. Niedziela zwykła, rok B",
+     "J 6,24-35; 41-51; 51-58; 60-69",
+     "Cztery niedziele mowy kafarnejskiej — jedyny taki cykl lekcjonarza: Kościół przechodzi rozdział szósty wers po wersie aż po pytanie o odejście."
+    ],
+    [
+     "rzymski",
+     "Uroczystość Najświętszego Ciała i Krwi Chrystusa, rok A",
+     "J 6,51-58",
+     "Rdzeń mowy jako Ewangelia święta Eucharystii; sekwencja Lauda Sion i hymny Tomaszowe streszczają teologię perykopy."
+    ],
+    [
+     "rzymski",
+     "Ferie III tygodnia Okresu Wielkanocnego",
+     "J 6,22-71",
+     "Mowa czytana dzień po dniu w rytmie mistagogii paschalnej, tuż po znaku chleba z tygodnia II."
+    ],
+    [
+     "bizantyjski",
+     "Modlitwy przed Komunią świętą",
+     "J 6,53-56 (motywy)",
+     "Wieczerzy Twojej mistycznej uczestnikiem mnie dziś przyjmij... nie dam Ci pocałunku jak Judasz — liturgia modli się trzema postaciami Janowego epilogu."
+    ]
+   ],
+   "textual": [
+    [
+     23,
+     "εὐχαριστήσαντος τοῦ κυρίου",
+     "wariant lekcji",
+     "Fraza „gdy Pan uczynił dziękczynienie\" (w. 23): obecna w zdecydowanej większości świadków (P75 ℵc A B L W Θ i in.); pominięta w D, części przekazu starołacińskiego i syryjskiego (sys sc). Nadto samo πλοι[άρι]α drukowane w NA28 z nawiasem (wahanie πλοῖα/πλοιάρια).",
+     "Tekst krótszy (D it) bywał podejrzewany o pierwotność (fraza wygląda na liturgiczny dopisek), ale przewaga świadectw i Janowy zwyczaj odsyłania do wcześniejszych scen (por. 4,46) przemawiają za autentycznością; to raczej zachodnia tradycja usunęła frazę jako zbędną. Miejsce jest cenne teologicznie: pokazuje, że już dla narratora (i dla kopistów!) znak chleba streszczał się w słowie „eucharystia\" — pamięć sceny była od początku pamięcią liturgiczną."
+    ],
+    [
+     52,
+     "τὴν σάρκα [αὐτοῦ] φαγεῖν",
+     "wariant lekcji",
+     "Zaimek „swoje\" po „ciało\" w pytaniu tłumu: obecny w P66 B i części tradycji (NA28 w nawiasie kwadratowym); pominięty w ℵ C D L W i in.",
+     "Drobiazg o ciekawym rewersie egzegetycznym: tekst z zaimkiem („dać swoje ciało\") czyni pytanie tłumu jeszcze dosadniej dosłownym. Dla sensu mowy różnica żadna — dosłowność rozumienia słuchaczy poświadcza sama dramaturgia sceny; nawias NA28 dokumentuje typowe wahanie kopistów przy zaimkach. Warto odnotować, że żaden wariant tekstualny w całej mowie nie łagodzi realizmu — tradycja rękopiśmienna przekazała twardą mowę bez znieczulenia."
+    ],
+    [
+     69,
+     "σὺ εἶ ὁ ἅγιος τοῦ θεοῦ",
+     "wariant lekcji",
+     "Wyznanie Piotra: „Ty jesteś Świętym Boga\" (P75 ℵ B C* D L W — tekst NA28); tradycja bizantyjska: „Ty jesteś Chrystusem, Synem Boga żywego\" (Θ, rodzina bizantyjska, stąd Textus Receptus i przekłady od niego zależne); formy pośrednie: „Chrystusem, Świętym Boga\" (P66), „Synem Boga\" (it sys).",
+     "Podręcznikowy przykład harmonizacji: kopiści uzgadniali wyznanie Janowe z Mt 16,16 („Ty jesteś Chrystus, Syn Boga żywego\"), stopniowo podciągając rzadki tytuł pod znany. Lekcja krótsza i trudniejsza — „Święty Boga\" (poza tym tylko w ustach demona, Mk 1,24!) — jest bezsprzecznie pierwotna: nikt nie zamieniałby dostojnego „Chrystus, Syn Boga\" na tytuł tak osobliwy. Aparat odsłania tu żywą tendencję tradycji: ujednolicać wyznania wiary; a egzegeza zyskuje pewność, że Janowy Piotr wyznał tytuł kapłański — Świętego, który poświęca siebie (17,19) — dokładnie na miarę mowy eucharystycznej, po której padł."
+    ]
+   ],
+   "theme_links": [
+    [
+     "Eucharystia — realna obecność",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "chleb życia (ἄρτος τῆς ζωῆς)",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "ἐγώ εἰμι — JA JESTEM",
+     [
+      "block",
+      "w. 30–40"
+     ]
+    ],
+    [
+     "μένειν — trwać, pozostawać",
+     [
+      "block",
+      "w. 52–59"
+     ]
+    ],
+    [
+     "znaki (σημεῖα) i wiara",
+     [
+      "block",
+      "w. 26–29"
+     ]
+    ],
+    [
+     "eschatologia Janowa — godzina, która nadchodzi i teraz jest",
+     [
+      "block",
+      "w. 30–40"
+     ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 67–71"
+     ]
+    ],
+    [
+     "anty-doketyzm",
+     [
+      "block",
+      "w. 41–51"
+     ]
+    ]
+   ],
+   "revision_note": "Dodano perykopę Mowa eucharystyczna o chlebie życia (J 6,22-71) w pełnym opracowaniu, z materiałem dokumentu roboczego Eucharystia według świętego Jana: siedmiostopniowa eskalacja dialogu, homilia synagogalna (Borgen), trogein 4x, idiom semicki jeść ciało, pięć warstw tabu krwi (karet, nefesz), ofiarnicze hyper jako Janowe słowo ustanowienia, w. 62-63 (tryb pneumatyczny, in macello), pęknięcie schematu korekt, sieć meno (trynitarna-eucharystyczna-eklezjalna), krisis: odejście wielu, wyznanie Piotra (aparat: hagios tou theou vs harmonizacja bizantyjska), dramat Judasza akt I; sekcje II-VIII, katena sześciu głosów, liturgia (niedziele 18-21 B, Boże Ciało); nowe leksemy (trogo, haima, brosis, gongydzo, skleros, helko), terminy ani hu, nefesz, karet, temat Eucharystia — realna obecność, księgi Kpł, 1 Sm, Koh, Lm, Ga; status: ukończona"
+  }
+ ]
+}
