@@ -17,6 +17,7 @@ Ten plik to WYŁĄCZNIE narzędzie — cała treść (schemat i dane) leży osob
     data/betesda.json      — J 5,1-18 (Uzdrowienie nad Betesdą)
     data/mowa.json         — J 5,19-47 (Mowa o Synu i świadectwach)
     data/chleb.json        — J 6,1-21 (Rozmnożenie chleba i przejście przez morze)
+    data/eucharystia.json  — J 6,22-71 (Mowa eucharystyczna o chlebie życia)
 
 Uruchomienie:  python3 tools/egzegeza_jana_build.py
 Wynik:         data/egzegeza_jana.sqlite (budowana od zera)
@@ -37,7 +38,7 @@ DB = DATA / "egzegeza_jana.sqlite"
 SCHEMA = DATA / "schema.sql"
 PHASES = ["prolog.json", "continuation.json", "kana.json", "swiatynia.json",
           "nikodem.json", "oblubieniec.json", "samarytanka.json",
-          "dworzanin.json", "betesda.json", "mowa.json", "chleb.json"]
+          "dworzanin.json", "betesda.json", "mowa.json", "chleb.json", "eucharystia.json"]
 
 # Tytuł sekcji I jest strukturalnym szkieletem każdej perykopy (nie treścią).
 SECTION_I_TITLE = ("I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem "
