@@ -1,0 +1,908 @@
+{
+ "books": [
+  [
+   "2 Sm",
+   "Druga Księga Samuela",
+   "ST",
+   10
+  ]
+ ],
+ "verses": {
+  "chapter": 7,
+  "items": [
+   [
+    37,
+    "Ἐν δὲ τῇ ἐσχάτῃ ἡμέρᾳ τῇ μεγάλῃ τῆς ἑορτῆς εἱστήκει ὁ Ἰησοῦς καὶ ἔκραξεν λέγων· ἐάν τις διψᾷ ἐρχέσθω πρός με καὶ πινέτω.",
+    "A w ostatnim, wielkim dniu święta Jezus stał i zawołał: Jeśli ktoś pragnie, niech przyjdzie do mnie i pije."
+   ],
+   [
+    38,
+    "ὁ πιστεύων εἰς ἐμέ, καθὼς εἶπεν ἡ γραφή, ποταμοὶ ἐκ τῆς κοιλίας αὐτοῦ ῥεύσουσιν ὕδατος ζῶντος.",
+    "Kto wierzy we mnie — jak powiedziało Pismo: rzeki wody żywej popłyną z jego wnętrza."
+   ],
+   [
+    39,
+    "τοῦτο δὲ εἶπεν περὶ τοῦ πνεύματος ὃ ἔμελλον λαμβάνειν οἱ πιστεύσαντες εἰς αὐτόν· οὔπω γὰρ ἦν πνεῦμα, ὅτι Ἰησοῦς οὐδέπω ἐδοξάσθη.",
+    "A powiedział to o Duchu, którego mieli otrzymać wierzący w Niego; jeszcze bowiem nie było Ducha, gdyż Jezus nie został jeszcze uwielbiony."
+   ],
+   [
+    40,
+    "Ἐκ τοῦ ὄχλου οὖν ἀκούσαντες τῶν λόγων τούτων ἔλεγον· οὗτός ἐστιν ἀληθῶς ὁ προφήτης·",
+    "Niektórzy więc z tłumu, usłyszawszy te słowa, mówili: Ten jest prawdziwie Prorokiem."
+   ],
+   [
+    41,
+    "ἄλλοι ἔλεγον· οὗτός ἐστιν ὁ χριστός, οἱ δὲ ἔλεγον· μὴ γὰρ ἐκ τῆς Γαλιλαίας ὁ χριστὸς ἔρχεται;",
+    "Inni mówili: Ten jest Mesjaszem. A jeszcze inni mówili: Czyż Mesjasz przychodzi z Galilei?"
+   ],
+   [
+    42,
+    "οὐχ ἡ γραφὴ εἶπεν ὅτι ἐκ τοῦ σπέρματος Δαυὶδ καὶ ἀπὸ Βηθλέεμ τῆς κώμης ὅπου ἦν Δαυὶδ ἔρχεται ὁ χριστός;",
+    "Czyż Pismo nie powiedziało, że Mesjasz przychodzi z potomstwa Dawida i z Betlejem, wioski, gdzie był Dawid?"
+   ],
+   [
+    43,
+    "σχίσμα οὖν ἐγένετο ἐν τῷ ὄχλῳ δι᾽ αὐτόν·",
+    "Powstał więc z Jego powodu rozłam w tłumie."
+   ],
+   [
+    44,
+    "τινὲς δὲ ἤθελον ἐξ αὐτῶν πιάσαι αὐτόν, ἀλλ᾽ οὐδεὶς ἐπέβαλεν ἐπ᾽ αὐτὸν τὰς χεῖρας.",
+    "A niektórzy z nich chcieli Go pojmać, ale nikt nie podniósł na Niego rąk."
+   ],
+   [
+    45,
+    "Ἦλθον οὖν οἱ ὑπηρέται πρὸς τοὺς ἀρχιερεῖς καὶ Φαρισαίους, καὶ εἶπον αὐτοῖς ἐκεῖνοι· διὰ τί οὐκ ἠγάγετε αὐτόν;",
+    "Przyszli więc strażnicy do arcykapłanów i faryzeuszów, a ci powiedzieli im: Dlaczego nie przyprowadziliście go?"
+   ],
+   [
+    46,
+    "ἀπεκρίθησαν οἱ ὑπηρέται· οὐδέποτε ἐλάλησεν οὕτως ἄνθρωπος.",
+    "Odpowiedzieli strażnicy: Nigdy człowiek nie mówił tak, jak ten mówi."
+   ],
+   [
+    47,
+    "ἀπεκρίθησαν οὖν αὐτοῖς οἱ Φαρισαῖοι· μὴ καὶ ὑμεῖς πεπλάνησθε;",
+    "Odpowiedzieli im więc faryzeusze: Czy i wy daliście się zwieść?"
+   ],
+   [
+    48,
+    "μή τις ἐκ τῶν ἀρχόντων ἐπίστευσεν εἰς αὐτὸν ἢ ἐκ τῶν Φαρισαίων;",
+    "Czy ktokolwiek z przełożonych uwierzył w niego albo z faryzeuszów?"
+   ],
+   [
+    49,
+    "ἀλλὰ ὁ ὄχλος οὗτος ὁ μὴ γινώσκων τὸν νόμον ἐπάρατοί εἰσιν.",
+    "A ten tłum, który nie zna Prawa — przeklęci są."
+   ],
+   [
+    50,
+    "λέγει Νικόδημος πρὸς αὐτούς, ὁ ἐλθὼν πρὸς αὐτὸν [τὸ] πρότερον, εἷς ὢν ἐξ αὐτῶν·",
+    "Mówi do nich Nikodem, ten, który przedtem przyszedł do Niego, a był jednym z nich:"
+   ],
+   [
+    51,
+    "μὴ ὁ νόμος ἡμῶν κρίνει τὸν ἄνθρωπον ἐὰν μὴ ἀκούσῃ πρῶτον παρ᾽ αὐτοῦ καὶ γνῷ τί ποιεῖ;",
+    "Czyż nasze Prawo sądzi człowieka, zanim go najpierw nie wysłucha i nie pozna, co czyni?"
+   ],
+   [
+    52,
+    "ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· μὴ καὶ σὺ ἐκ τῆς Γαλιλαίας εἶ; ἐραύνησον καὶ ἴδε ὅτι ἐκ τῆς Γαλιλαίας προφήτης οὐκ ἐγείρεται.",
+    "Odpowiedzieli i rzekli mu: Czy i ty jesteś z Galilei? Zbadaj i zobacz, że prorok nie powstaje z Galilei."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "ποταμός",
+   "potamos",
+   "rzeczownik",
+   "rzeka — nie strumyk: obfitość Ducha w obietnicy 7,38 (por. Ez 47)"
+  ],
+  [
+   "κοιλία",
+   "koilia",
+   "rzeczownik",
+   "wnętrze, łono, brzuch — hebrajskie beten/meim: głębia osoby, z której płynie Duch"
+  ],
+  [
+   "σχίσμα",
+   "schisma",
+   "rzeczownik",
+   "rozłam, rozdarcie — trzy schizmy z powodu Jezusa (7,43; 9,16; 10,19)"
+  ],
+  [
+   "ὑπηρέτης",
+   "hyperetes",
+   "rzeczownik",
+   "sługa, funkcjonariusz — straż świątynna rozbrojona słowem (7,32.45-46; 18,3)"
+  ],
+  [
+   "χριστός",
+   "christos",
+   "rzeczownik",
+   "Pomazaniec, Mesjasz — grecki odpowiednik hebr. Masziach; oś sporów rozdziału 7 i wyznań Ewangelii (1,41; 4,25-26; 11,27; 20,31)"
+  ]
+ ],
+ "semitic": [
+  [
+   "הוֹשַׁעְנָא רַבָּא",
+   "Hoszana Rabba",
+   "hbr/aram",
+   "Wielka Hosanna — siódmy dzień Sukkot: szczyt obrzędów wody i wierzb, wołanie o deszcz i zbawienie; najprawdopodobniejsze tło wielkiego dnia z 7,37"
+  ],
+  [
+   "עַם הָאָרֶץ",
+   "am ha-arec",
+   "hbr",
+   "lud ziemi — w ustach uczonych: prostacy nieznający Prawa; pogarda z 7,49 ma w źródłach rabinicznych długą i gorzką historię"
+  ]
+ ],
+ "lexeme_semitic": [],
+ "occurrences": [
+  [
+   "κράζω",
+   37,
+   "ἔκραξεν"
+  ],
+  [
+   "διψάω",
+   37,
+   "διψᾷ"
+  ],
+  [
+   "πιστεύω",
+   38,
+   "πιστεύων"
+  ],
+  [
+   "ποταμός",
+   38,
+   "ποταμοί"
+  ],
+  [
+   "κοιλία",
+   38,
+   "κοιλίας"
+  ],
+  [
+   "ὕδωρ",
+   38,
+   "ὕδατος ζῶντος"
+  ],
+  [
+   "πνεῦμα",
+   39,
+   "πνεύματος"
+  ],
+  [
+   "πιστεύω",
+   39,
+   "πιστεύσαντες"
+  ],
+  [
+   "χριστός",
+   41,
+   "χριστός"
+  ],
+  [
+   "σχίσμα",
+   43,
+   "σχίσμα"
+  ],
+  [
+   "πιάζω",
+   44,
+   "πιάσαι"
+  ],
+  [
+   "ὑπηρέτης",
+   45,
+   "ὑπηρέται"
+  ],
+  [
+   "ὑπηρέτης",
+   46,
+   "ὑπηρέται"
+  ],
+  [
+   "πλανάω",
+   47,
+   "πεπλάνησθε"
+  ],
+  [
+   "πιστεύω",
+   48,
+   "ἐπίστευσεν"
+  ],
+  [
+   "νόμος",
+   49,
+   "νόμον"
+  ],
+  [
+   "νόμος",
+   51,
+   "νόμος"
+  ],
+  [
+   "κρίσις",
+   51,
+   "κρίνει"
+  ],
+  [
+   "ἐγείρω",
+   52,
+   "ἐγείρεται"
+  ]
+ ],
+ "works": [],
+ "themes": [],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 7,
+    "vs": 37,
+    "ce": 7,
+    "ve": 52,
+    "title": "Rzeki wody żywej",
+    "motto": "Si quis sitit, veniat ad me et bibat (Jeśli ktoś pragnie, niech przyjdzie do mnie i pije)",
+    "status": "ukonczona",
+    "position": 19
+   },
+   "intro": "W ostatnim, wielkim dniu Święta Namiotów — gdy procesja po raz siódmy niosła wodę z Siloam na ołtarz — Jezus staje i woła na cały dziedziniec: Jeśli ktoś pragnie, niech przyjdzie do mnie i pije. Obietnica rzek wody żywej z wnętrza — którą narrator sam wykłada jako zapowiedź Ducha, jeszcze nie danego, bo Jezus nie został jeszcze uwielbiony — rozdziera święto na trzy głosy: Prorok! Mesjasz! przecież nie z Galilei! Powstaje pierwsza schizma; straże wysłane po więźnia wracają z wyznaniem zamiast aresztanta (nigdy człowiek nie mówił tak, jak ten mówi), elita odpowiada pogardą wobec przeklętego tłumu, a jeden głos — Nikodema — upomina się o elementarz Prawa: wysłuchać, zanim się osądzi. Odpowiedzią jest szyderstwo z Galilei, tak zaślepione, że gubi Jonasza. Perykopa zamyka publiczny dzień Namiotów: woda znalazła Źródło, święto znalazło rozłam.",
+   "struktura": "Perykopa ma budowę fali: jedno wołanie i trzy kręgi jego skutków. Centrum (w. 37-39): w liturgiczny szczyt święta — ostatniego, wielkiego dnia, na tle procesji z wodą — Jezus staje (εἱστήκει: wbrew pozycji siedzącego nauczyciela) i woła (ἔκραξεν — czasownik proklamacji) zaproszenie zbudowane jak tryptyk: pragnąć → przyjść → pić; po nim obietnica z Pismem (rzeki z wnętrza) i unikatowy komentarz narratora, który sam rozwiązuje symbol: to o Duchu — jeszcze nie danym, bo krzyż-uwielbienie jeszcze przed Nim (klucz hermeneutyczny: 19,34 i 20,22). Krąg pierwszy — tłum (w. 40-44): trzy opinie (Prorok / Mesjasz / nie z Galilei — z argumentem betlejemskim, którego ironii narrator nawet nie prostuje), pierwsza z trzech Janowych schizm (7,43; 9,16; 10,19) i kolejna bezsilna chęć pojmania. Krąg drugi — instytucja (w. 45-49): straże wracają bez więźnia, rozbrojone samym słowem (nigdy człowiek nie mówił tak) — pierwsze „aresztowanie odwrócone\" tej Ewangelii; faryzeusze odpowiadają nie argumentem, lecz socjologią pogardy: nikt z przełożonych nie uwierzył, a tłum nieznający Prawa — przeklęty. Krąg trzeci — jeden sprawiedliwy (w. 50-52): Nikodem, wciąż nocny, ale już mówiący, przypomina gremium jego własne Prawo (wysłuchać przed osądzeniem) — i zostaje zakrzyczany szyderstwem tak ślepym, że fałszuje fakty (prorok z Galilei? — Jonasz!). Klamra całości jest ironiczna do bólu: scena zaczyna się od „jeśli ktoś PRAGNIE\" — a kończy pokazem ludzi, którzy nie pragną (mają pewność); woda żywa płynie obok wyschniętych, którzy właśnie orzekli, że nie ma pragnienia.",
+   "blocks": [
+    {
+     "cs": 7,
+     "vs": 37,
+     "ce": 7,
+     "ve": 39,
+     "label": "w. 37–39",
+     "greek": "Ἐν δὲ τῇ ἐσχάτῃ ἡμέρᾳ τῇ μεγάλῃ τῆς ἑορτῆς εἱστήκει ὁ Ἰησοῦς καὶ ἔκραξεν λέγων· ἐάν τις διψᾷ ἐρχέσθω πρός με καὶ πινέτω. ὁ πιστεύων εἰς ἐμέ, καθὼς εἶπεν ἡ γραφή, ποταμοὶ ἐκ τῆς κοιλίας αὐτοῦ ῥεύσουσιν ὕδατος ζῶντος. τοῦτο δὲ εἶπεν περὶ τοῦ πνεύματος ὃ ἔμελλον λαμβάνειν οἱ πιστεύσαντες εἰς αὐτόν· οὔπω γὰρ ἦν πνεῦμα, ὅτι Ἰησοῦς οὐδέπω ἐδοξάσθη.",
+     "transl": "A w ostatnim, wielkim dniu święta Jezus stał i zawołał: Jeśli ktoś pragnie, niech przyjdzie do mnie i pije. Kto wierzy we mnie — jak powiedziało Pismo: rzeki wody żywej popłyną z jego wnętrza. A powiedział to o Duchu, którego mieli otrzymać wierzący w Niego; jeszcze bowiem nie było Ducha, gdyż Jezus nie został jeszcze uwielbiony.",
+     "units": [
+      [
+       "ἐν τῇ ἐσχάτῃ ἡμέρᾳ τῇ μεγάλῃ ... εἱστήκει ... ἔκραξεν",
+       "w ostatnim, wielkim dniu ... stał ... zawołał",
+       "Scenografia jest liturgiczna i obliczona co do godziny. „Ostatni, wielki dzień święta\" to najpewniej siódmy dzień Sukkot — Hoszana Rabba: szczyt obrzędu wody, w którym procesja z złotym dzbanem z Siloam okrążała ołtarz już nie raz, lecz siedem razy, wśród wierzbowych gałęzi i wołania hosanna (hoszia-na — „zbawże!\"), a kapłan wylewał wodę na ołtarz w modlitwie o deszcz i o zbawienie (Miszna, Sukka 4,5.9-10); możliwy jest też ósmy dzień zgromadzenia — wtedy scena gra ciszą PO obrzędach: woda już nie płynie, i właśnie wtedy odzywa się Źródło. W oba dni sens jest ten sam: Jezus wypowiada swoje słowo dokładnie w języku rytu, który trwa (lub właśnie umilkł) wokół — jak w 8,12 odpowie świecznikom dziedzińca. Dwa czasowniki łamią przy tym konwencję: nauczyciel SIEDZI — Jezus STAŁ (εἱστήκει, perfectum trwałe: stał jak herold); wykłada się głosem szkolnym — On ZAWOŁAŁ (ἔκραξεν — u Jana czasownik uroczystych proklamacji: 7,28; 12,44; por. 1,15). To nie lekcja — to obwieszczenie; Mądrość, która „woła na placach\" (Prz 1,20; 8,1-4; 9,3-5), stanęła we własnej osobie na dziedzińcu i przekrzykuje liturgię własnego święta."
+      ],
+      [
+       "ἐάν τις διψᾷ ἐρχέσθω πρός με καὶ πινέτω",
+       "jeśli ktoś pragnie, niech przyjdzie do mnie i pije",
+       "Zaproszenie ma trzy czasowniki i jeden warunek — pragnienie. Ἐάν τις διψᾷ: jedynym biletem jest brak; nie wiedza, nie czystość, nie ranga (za chwilę usłyszymy, że „nikt z przełożonych nie uwierzył\" — bo przełożeni nie pragną: mają pewność) — tylko pragnienie. Za zdaniem stoi cała starotestamentalna liturgia pragnienia: „o, wszyscy spragnieni, przyjdźcie do wody... bez pieniędzy\" (Iz 55,1), „Boże, Ty Boże mój, Ciebie szukam; Ciebie pragnie moja dusza... jak ziemia zeschła\" (Ps 63,2), łania u strumieni (Ps 42,2-3) — z tą różnicą, że wszystkie tamte teksty wołały: przyjdźcie do WODY lub do PANA, a to woła: przyjdźcie DO MNIE. Πρός με jest całą chrystologią zdania: Jezus nie wskazuje źródła — jest nim; nie poi czymś — poi sobą (jak w 6,35 nie daje chleba, lecz nim jest). Trzy imperatywy — pragnij, przyjdź, pij — są zarazem najkrótszą gramatyką życia duchowego: łaska nie wymaga niczego prócz uznania braku, ruchu ku Osobie i przyjęcia; a największą przeszkodą nie jest grzech (grzesznicy bywają spragnieni), lecz sytość — stan, w którym pragnienie zagłuszono. Kościół położy to zdanie na sam koniec Biblii: „kto pragnie, niech przyjdzie; kto chce, niech zaczerpnie wody życia darmo\" (Ap 22,17) — ostatnie zaproszenie Pisma jest echem wołania z dziedzińca."
+      ],
+      [
+       "ποταμοὶ ἐκ τῆς κοιλίας αὐτοῦ ... τοῦτο δὲ εἶπεν περὶ τοῦ πνεύματος",
+       "rzeki z jego wnętrza ... a powiedział to o Duchu",
+       "Obietnica jest hiperbolą zamierzoną: nie kropla, nie źródełko — ποταμοί, rzeki; mnoga obfitość tam, gdzie ryt niósł jeden dzban. Κοιλία (wnętrze, łono — hebr. beten/meim) to biblijna głębia osoby: z samego środka człowieka, nie z jego cystern pamięci, popłynie to, czego sam nie nagromadzi. Formuła „jak powiedziało Pismo\" nie cytuje jednego wersetu — streszcza cały nurt: wodę ze skały (Wj 17,6; Ps 78,15-16.20: „popłynęły strumienie\"), rzekę z progu świątyni, która uzdrawia, dokądkolwiek dotrze (Ez 47,1-12), wody żywe z Jerozolimy dnia ostatecznego (Za 14,8 — czytane w Sukkot!), nawodnioną duszę jak „źródło, którego wody nie zawodzą\" (Iz 58,11). Otwarte pozostaje, CZYJE wnętrze jest źródłem (zob. aparat): w interpunkcji tradycyjnej — wierzącego (napojony sam staje się źródłem dla innych: 4,14); w chrystologicznej, ulubionej przez Zachód — Chrystusa (z JEGO wnętrza popłyną rzeki: wprost ku 19,34). Ale najśmielszy jest werset 39 — unikatowy autokomentarz narratora, który rozwiązuje symbol i wskazuje zegar: to o Duchu; a „jeszcze nie było Ducha\" (zdanie tak mocne, że kopiści dopisywali „danego\" — zob. aparat), BO Jezus nie został jeszcze uwielbiony. Teologia tego „bo\" jest osią czwartej Ewangelii: Duch nie jest energią dostępną zawsze i wszędzie — jest darem wypływającym z otwartego, uwielbionego Człowieczeństwa; dlatego godzina krzyża jest godziną wód: „oddał ducha\" i „wypłynęła krew i woda\" (19,30.34), a wieczorem Paschy: „tchnął i mówi: weźmijcie Ducha Świętego\" (20,22). Pięćdziesiątnica Janowa ma kształt przebitego boku — rzeki mają swoje źródło pod Golgotą."
+      ]
+     ]
+    },
+    {
+     "cs": 7,
+     "vs": 40,
+     "ce": 7,
+     "ve": 44,
+     "label": "w. 40–44",
+     "greek": "Ἐκ τοῦ ὄχλου οὖν ἀκούσαντες τῶν λόγων τούτων ἔλεγον· οὗτός ἐστιν ἀληθῶς ὁ προφήτης· ἄλλοι ἔλεγον· οὗτός ἐστιν ὁ χριστός, οἱ δὲ ἔλεγον· μὴ γὰρ ἐκ τῆς Γαλιλαίας ὁ χριστὸς ἔρχεται; οὐχ ἡ γραφὴ εἶπεν ὅτι ἐκ τοῦ σπέρματος Δαυὶδ καὶ ἀπὸ Βηθλέεμ τῆς κώμης ὅπου ἦν Δαυὶδ ἔρχεται ὁ χριστός; σχίσμα οὖν ἐγένετο ἐν τῷ ὄχλῳ δι᾽ αὐτόν· τινὲς δὲ ἤθελον ἐξ αὐτῶν πιάσαι αὐτόν, ἀλλ᾽ οὐδεὶς ἐπέβαλεν ἐπ᾽ αὐτὸν τὰς χεῖρας.",
+     "transl": "Niektórzy więc z tłumu, usłyszawszy te słowa, mówili: Ten jest prawdziwie Prorokiem. Inni mówili: Ten jest Mesjaszem. A jeszcze inni mówili: Czyż Mesjasz przychodzi z Galilei? Czyż Pismo nie powiedziało, że Mesjasz przychodzi z potomstwa Dawida i z Betlejem, wioski, gdzie był Dawid? Powstał więc z Jego powodu rozłam w tłumie. A niektórzy z nich chcieli Go pojmać, ale nikt nie podniósł na Niego rąk.",
+     "units": [
+      [
+       "μὴ γὰρ ἐκ τῆς Γαλιλαίας ὁ χριστὸς ἔρχεται;",
+       "czyż Mesjasz przychodzi z Galilei?",
+       "Trzy opinie tłumu układają się w drabinę, z której ostatni szczebel jest zarazem zapadnią. „Prorok\" (ten z Pwt 18 — po słowach o wodzie jak u Mojżesza ze skały: skojarzenie trafne); „Mesjasz\" (krok wyżej i również trafnie); i kontra: nie z Galilei przecież — z nasienia Dawida i z Betlejem (Mi 5,1; 2 Sm 7,12; Ps 89,4-5). Argument jest biblijnie bez zarzutu — i właśnie w tym jego groza: przeciwnicy Jezusa cytują Pismo poprawnie, a mylą się śmiertelnie, bo prawdziwą przesłankę mniejszą (ten człowiek urodził się w Betlejem, z domu Dawida) zastąpili pozorem metryki (mieszka w Nazarecie, więc jest „z Galilei\"). Ironia Janowa osiąga tu swoje mistrzostwo w powściągliwości: narrator NIE prostuje — nie wtrąca „a przecież narodził się w Betlejem\" (choć tradycję zna cały Kościół: Mt 2; Łk 2); zostawia czytelnikowi rozkosz i zgrozę wiedzy, której scenie brak, ucząc zarazem lekcji o Piśmie: można mieć wszystkie wersety i przegrać prawdę, jeśli faktów się nie sprawdza, a sprawdzać się nie chce (kontrast z Samarytanami, którzy POSZLI zobaczyć — 4,29-30.42). Sokratejski morał sceny: cytat bez pokory poznawczej jest bronią obosieczną, która najgłębiej rani cytującego."
+      ],
+      [
+       "σχίσμα οὖν ἐγένετο ἐν τῷ ὄχλῳ δι᾽ αὐτόν",
+       "powstał więc z Jego powodu rozłam w tłumie",
+       "Σχίσμα — rozdarcie (od σχίζω, drzeć; to samo słowo o sieci w 21,11, której rozdarcie NIE nastąpiło, i o tunice w 19,24, której nie dzielono): pierwsza z trzech Janowych schizm z powodu Jezusa (7,43 — tłum; 9,16 — faryzeusze; 10,19 — Żydzi; za każdym razem δι᾽ αὐτόν / ἐν αὐτοῖς po Jego słowach lub znakach). Ewangelista podnosi tu do rangi refrenu prawdę, którą Symeon wypowiedział nad Niemowlęciem („znak, któremu sprzeciwiać się będą... na upadek i powstanie wielu\" — Łk 2,34) a Jezus u synoptyków o sobie („nie pokój, lecz miecz... rozdzielenie\" — Mt 10,34-35; Łk 12,51): Chrystus realny — nieprzycięty do oczekiwań — dzieli; zgoda powszechna wokół Jezusa bywa znakiem, że mówi się już nie o Nim, lecz o Jego uładzonej makiecie. Teologicznie schizma jest rewersem krisis: światło, padając, rozdziela (3,19-21) — nie dlatego, że chce dzielić, lecz dlatego, że odsłania; jedność, którą Jezus przyniesie, nie jest jednością ominięcia sporu, lecz jednością po rozstrzygnięciu (17,21-23 — jedność w prawdzie i w Duchu, nie w uśrednieniu opinii). A bezsilne „chcieli pojmać — nikt nie podniósł rąk\" (w. 44) domyka scenę Janowym refrenem godziny: rozdarty tłum może chcieć, czego chce; kalendarz trzyma Kto Inny."
+      ]
+     ]
+    },
+    {
+     "cs": 7,
+     "vs": 45,
+     "ce": 7,
+     "ve": 49,
+     "label": "w. 45–49",
+     "greek": "Ἦλθον οὖν οἱ ὑπηρέται πρὸς τοὺς ἀρχιερεῖς καὶ Φαρισαίους, καὶ εἶπον αὐτοῖς ἐκεῖνοι· διὰ τί οὐκ ἠγάγετε αὐτόν; ἀπεκρίθησαν οἱ ὑπηρέται· οὐδέποτε ἐλάλησεν οὕτως ἄνθρωπος. ἀπεκρίθησαν οὖν αὐτοῖς οἱ Φαρισαῖοι· μὴ καὶ ὑμεῖς πεπλάνησθε; μή τις ἐκ τῶν ἀρχόντων ἐπίστευσεν εἰς αὐτὸν ἢ ἐκ τῶν Φαρισαίων; ἀλλὰ ὁ ὄχλος οὗτος ὁ μὴ γινώσκων τὸν νόμον ἐπάρατοί εἰσιν.",
+     "transl": "Przyszli więc strażnicy do arcykapłanów i faryzeuszów, a ci powiedzieli im: Dlaczego nie przyprowadziliście go? Odpowiedzieli strażnicy: Nigdy człowiek nie mówił tak, jak ten mówi. Odpowiedzieli im więc faryzeusze: Czy i wy daliście się zwieść? Czy ktokolwiek z przełożonych uwierzył w niego albo z faryzeuszów? A ten tłum, który nie zna Prawa — przeklęci są.",
+     "units": [
+      [
+       "οὐδέποτε ἐλάλησεν οὕτως ἄνθρωπος",
+       "nigdy człowiek nie mówił tak, jak ten mówi",
+       "Aresztowanie odwrócone: posłani po więźnia wracają wzięci do niewoli — przez słowo. Ich meldunek jest jednym z najpiękniejszych mimowolnych wyznań Ewangelii: „nigdy człowiek nie mówił tak\" — funkcjonariusze, ludzie od zatrzymań, nie od teologii, zdają raport ściśle empiryczny: nie umieli podnieść ręki na Mówiącego, bo Jego mowa nie mieściła się w kategorii „człowiek mówi\". Czytelnik Prologu słyszy w ich zdaniu więcej, niż powiedzieli: nigdy człowiek nie mówił tak — bo mówił Ktoś więcej niż człowiek: Słowo. Jan lubi tę figurę (prawda największa w ustach najprostszych lub wrogich: Samarytanka, Kajfasz, Piłat, setnik u synoptyków) i buduje na niej tezę o mocy samego słowa Jezusa: rozbraja straże tu, powali kohortę w Ogrodzie (18,6 — ci sami ὑπηρέται wśród padających!), otwiera oczy i grzebie w sercu; miecz Kościoła to głos (por. Hbr 4,12). Duszpasterska strona sceny: ci „prości\" strażnicy usłyszeli — bo słuchali bez tezy; przyszli z rozkazem, nie z doktryną, i dlatego słowo miało do nich dostęp. Kto słucha Ewangelii wyłącznie po to, by ją zaklasyfikować, ten aresztuje — i wraca z pustymi rękami; kto słucha, jak się słucha człowieka — bywa wzięty."
+      ],
+      [
+       "ὁ ὄχλος οὗτος ὁ μὴ γινώσκων τὸν νόμον ἐπάρατοί εἰσιν",
+       "ten tłum, który nie zna Prawa — przeklęci są",
+       "Odpowiedź elity nie zawiera ani jednego argumentu — samą socjologię: (1) kryterium autorytetu: czy KTOKOLWIEK z przełożonych uwierzył? (pytanie retoryczne, które narrator natychmiast falsyfikuje osobą Nikodema — a później Józefa z Arymatei i „wielu z dostojników\", 12,42); (2) pogardę klasową: am ha-arec, „lud ziemi\" — w ustach uczonych termin techniczny na prostaków nieznających i niepraktykujących Prawa w rygorze szkół; źródła rabiniczne przechowały całą gorycz tej przepaści (Pirke Awot 2,5: „prostak nie boi się grzechu, am ha-arec nie jest pobożny\"; a skrajne głosy w Pesachim 49b mrożą do dziś). „Przeklęci są\" (ἐπάρατοι — hapax NT) być może echem Pwt 27-28 (przekleństwa na łamiących Prawo): nie znają — więc nie zachowują — więc przeklęci; sylogizm pychy zamknięty. Ironia Janowa tnie tu wielowarstwowo: ci, którzy gardzą tłumem za nieznajomość Prawa, sami za chwilę złamią jego elementarz (sąd bez wysłuchania — w. 51) i sfałszują dane (w. 52); a przekleństwo, którym szafują, spadnie w tej Ewangelii zupełnie gdzie indziej — na Tego, który „stał się za nas przekleństwem\" (Ga 3,13), by przeklinanych już nie było. Scena pozostaje lustrem każdej religijnej elity: gdy kończą się argumenty, zaczyna się pogarda — i jest ona zawsze wyznaniem bankructwa; wiara, która musi gardzić, by się bronić, już nie wierzy — pilnuje stanu posiadania."
+      ]
+     ]
+    },
+    {
+     "cs": 7,
+     "vs": 50,
+     "ce": 7,
+     "ve": 52,
+     "label": "w. 50–52",
+     "greek": "λέγει Νικόδημος πρὸς αὐτούς, ὁ ἐλθὼν πρὸς αὐτὸν [τὸ] πρότερον, εἷς ὢν ἐξ αὐτῶν· μὴ ὁ νόμος ἡμῶν κρίνει τὸν ἄνθρωπον ἐὰν μὴ ἀκούσῃ πρῶτον παρ᾽ αὐτοῦ καὶ γνῷ τί ποιεῖ; ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· μὴ καὶ σὺ ἐκ τῆς Γαλιλαίας εἶ; ἐραύνησον καὶ ἴδε ὅτι ἐκ τῆς Γαλιλαίας προφήτης οὐκ ἐγείρεται.",
+     "transl": "Mówi do nich Nikodem, ten, który przedtem przyszedł do Niego, a był jednym z nich: Czyż nasze Prawo sądzi człowieka, zanim go najpierw nie wysłucha i nie pozna, co czyni? Odpowiedzieli i rzekli mu: Czy i ty jesteś z Galilei? Zbadaj i zobacz, że prorok nie powstaje z Galilei.",
+     "units": [
+      [
+       "μὴ ὁ νόμος ἡμῶν κρίνει τὸν ἄνθρωπον ἐὰν μὴ ἀκούσῃ πρῶτον;",
+       "czyż nasze Prawo sądzi człowieka, zanim go nie wysłucha?",
+       "Drugi z trzech występów Nikodema (3,1-21: przyszedł nocą; tu: przemówił w gremium; 19,39: przyniesie sto funtów wonności do grobu) — łuk powolnego rodzenia się „z góry\", które sam usłyszał jako pierwsze. Jego zdanie jest majstersztykiem roztropnej odwagi: nie broni Jezusa wprost (nie mówi „on jest niewinny\" ani „ja uwierzyłem\") — broni PROCEDURY, i to z wnętrza wspólnej świętości: „czyż NASZE Prawo...\"; przypomina gremium to, co ono samo wie: Tora nie zna wyroku bez wysłuchania (Pwt 1,16-17: „przesłuchujcie sprawy braci waszych i sądźcie sprawiedliwie\"; Pwt 17,4: „gdy ci doniesiono — zbadasz dokładnie\"; Wj 23,1: nie przyjmiesz fałszywej pogłoski; praktyka: Sanhedryn zaczyna od wysłuchania). Audiatur et altera pars — niech będzie wysłuchana i druga strona — jest zasadą przedchrześcijańską i ponadreligijną: prawem naturalnym sądu; i właśnie dlatego jej złamanie w tej sali jest tak wymowne: gremium strzegące Prawa gwałci jego rdzeń, bo wyrok już zapadł — przed procesem (por. 11,53; a nocny proces Jezusa złamie tych reguł więcej). Nikodem uczy przy tym taktyki świadków nieśmiałych: czasem jedynym możliwym wyznaniem jest upomnienie się o uczciwość wobec Tego, o którym nie śmie się jeszcze powiedzieć „wierzę\" — i Bóg takie wyznanie przyjmuje: droga od pytania proceduralnego do stu funtów mirry prowadzi przez krzyż, ale prowadzi."
+      ],
+      [
+       "ἐραύνησον καὶ ἴδε ὅτι ἐκ τῆς Γαλιλαίας προφήτης οὐκ ἐγείρεται",
+       "zbadaj i zobacz: prorok nie powstaje z Galilei",
+       "Odpowiedź gremium Nikodemowi to trzy ciosy poniżej pasa i ani jednego argumentu: insynuacja plemienna („czy i TY jesteś z Galilei?\" — nie „czy masz rację\", lecz „czyj jesteś\"), rozkaz pozorowanej uczoności („zbadaj i zobacz\" — ἐραύνησον, to samo słowo, którym Jezus wzywał: badacie Pisma, 5,39) i teza podana jako wynik badania — która jest FAŁSZEM podwójnym. Faktograficznym: z Galilei powstał Jonasz z Gat-ha-Chefer pod Nazaretem (2 Krl 14,25 — rabini sami to wiedzieli: „nie było pokolenia, z którego nie wyszliby prorocy\", Sukka 27b; tradycje wiązały z północą także Nahuma czy Ozeasza); gniew fałszuje erudycję — najgroźniejsza ignorancja to ta wściekła, z tytułem naukowym. I prorockim: właśnie Galilea była adresem obietnicy — „ziemia Zabulona i Neftalego... Galilea pogan: lud chodzący w ciemności ujrzał światłość wielką\" (Iz 8,23-9,1; Mt 4,14-16 czyta to wprost o Kafarnaum). Ironia szczytowa: każą „badać\" — a sami nie zbadali ani metryki betlejemskiej (w. 42), ani Jonasza, ani Izajasza; ich ἐραύνησον jest parodią egzegezy: badaniem, którego wynik ustalono przed otwarciem zwoju. Tak kończy się publiczny dzień Namiotów: Źródło wołało do spragnionych — a uczeni w Piśmie zamknęli posiedzenie, orzekłszy autorytatywnie, że z Nazaretu nie może być nic dobrego; czytelnik zna już jednak odpowiedź Filipa na tę pewność: chodź i zobacz (1,46)."
+      ]
+     ]
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Hoszana Rabba i liturgia wody, betlejemska metryka Mesjasza, pogarda wobec am ha-arec oraz procesowe gwarancje Tory — cztery konteksty wielkiego dnia i jego rozłamów.",
+     "children": [
+      [
+       "Hoszana Rabba: szczyt obrzędu wody",
+       "Siódmy dzień Sukkot — Hoszana Rabba, „Wielka Hosanna\" — był kulminacją obrzędów wody i wierzb: procesja z Siloam okrążała ołtarz siedmiokrotnie (w dni zwykłe raz), lud wołał werset Ps 118,25 (hoszia-na — „o, zbawże!\"), ołtarz ubierano wierzbami, a kapłan wylewał wodę z złotego dzbana do srebrnej czary przy ołtarzu (Miszna, Sukka 4,5.9-10); obrzęd łączył modlitwę o jesienny deszcz (od którego zależało życie roku) z pamięcią wody ze skały i z eschatologią wód Za 14 i Ez 47, czytanych w święto. Tradycja rabiniczna dopowiadała: „czemu nazywa się to miejsce Domem Czerpania (bet ha-szoewa)? Bo stamtąd czerpie się Ducha Świętego\" (j.Sukka 5,1 — woda jako symbol Ducha była skojarzeniem żydowskim, zanim stała się Janowym!). Jeśli Jezus zawołał w sam Hoszana Rabba — Jego słowo padło w środek siedmiokrotnej procesji: gdy oczy wszystkich szły za dzbanem wody, Źródło stało obok i wołało spragnionych do siebie; jeśli w ósmym dniu (Szemini Aceret, dzień bez obrzędu wody) — zabrzmiało w ciszy po liturgii: rytuał umilkł, pragnienie zostało, i właśnie wtedy odezwał się Ten, którego rytuał zapowiadał. W obu wariantach Janowa scena jest wzorcem liturgicznej chrystologii: Chrystus nie unieważnia obrzędów Izraela — staje w ich środku jako ich treść (woda → Duch z Jego wnętrza; światła → światłość świata, 8,12)."
+      ],
+      [
+       "Metryka Mesjasza: Betlejem, Dawid i milczenie narratora",
+       "Argument z w. 41-42 opiera się na najtwardszym dossier mesjańskim Biblii: obietnica dynastyczna dla Dawida (2 Sm 7,12-16; Ps 89,4-5: „potomstwo twoje utwierdzę na wieki\"), Betlejem Micheasza („a ty, Betlejem Efrata, najmniejsze... z ciebie wyjdzie mi Ten, który będzie władał w Izraelu\" — Mi 5,1; cytowane w Mt 2,5-6 przez uczonych Heroda) i cała tradycja „syna Dawida\". Rzecz w tym, że obie strony Janowej sceny mają za sobą tekst, a spór rozstrzyga fakt, którego nikt nie sprawdza: gdzie ten człowiek się urodził. Jan — jedyny ewangelista bez narracji dzieciństwa — zostawia betlejemskie pytanie bez odpowiedzi w tekście, i to milczenie jest tak wymowne, że uczyniono z niego argument w obie strony: jedni (już Ojcowie) widzą tu ironię pisarza, który wie i wie, że czytelnik wie (tradycja betlejemska była powszechna: Mt 2; Łk 2); inni — świadectwo, że Jan świadomie przenosi pytanie o pochodzenie na wyższy poziom (prawdziwe „skąd\" Mesjasza to nie wioska, lecz Ojciec: 7,29; 8,14.23). Oba odczytania się nie wykluczają: właśnie dlatego, że metryka betlejemska jest prawdziwa, spór o nią jest u Jana lekcją o czymś głębszym — o wierze, która utknęła w genealogii; „badajcie Pisma\" bez „przyjdźcie do mnie\" (5,39-40) produkuje dokładnie takie sceny: bezbłędne cytaty, błędne wnioski i nieprzekraczalną pewność."
+      ],
+      [
+       "Am ha-arec: socjologia pogardy",
+       "Termin am ha-arec („lud ziemi\") przeszedł znamienną ewolucję: w Biblii oznaczał ogół ludności kraju (czasem z odcieniem: prości wobec elit — Jr 1,18; 2 Krl 24,14), a w języku szkół rabinicznych stał się kategorią religijno-społeczną: ten, kto nie zna Tory i nie przestrzega rygorów czystości i dziesięcin wedle standardu uczonych; chawer (towarzysz bractwa przestrzegających) miał ograniczać z nim kontakty stołu i handlu. Źródła przechowały zarówno przepaść („am ha-arec nie jest pobożny\" — Pirke Awot 2,5; skrajne hiperbole wrogości w Pesachim 49b), jak i późniejszą samokrytykę tradycji (chasydyzm odwróci wartościowanie: prostak z sercem ponad uczonego bez serca). Zdanie z w. 49 — „ten tłum, który nie zna Prawa, przeklęci są\" — jest najostrzejszym nowotestamentalnym zapisem tej pogardy, i Ewangelie sytuują Jezusa konsekwentnie po drugiej stronie: je z celnikami i grzesznikami, błogosławi ubogich, dziękuje Ojcu, że zakrył przed mądrymi, a objawił prostaczkom (Mt 11,25), a Jego uczniowie będą rozpoznawani jako „nieuczeni i prości\" (Dz 4,13). Teologiczna stawka w. 49 jest większa niż socjologia: religia, w której znajomość przepisów staje się warunkiem Bożej przychylności, musi skończyć na przeklinaniu nieuków — i na ukrzyżowaniu Tego, który nieuków umiłował; Paweł domknie tę linię paradoksem: Chrystus „stał się za nas przekleństwem\" (Ga 3,13) — przeklęty zawisł, by przeklinanie ustało."
+      ],
+      [
+       "Audiatur et altera pars: gwarancje procesowe Tory",
+       "Pytanie Nikodema z w. 51 przywołuje rdzeń hebrajskiego prawa procesowego: „przesłuchujcie sprawy między braćmi waszymi i sądźcie sprawiedliwie... wysłuchacie małego i wielkiego\" (Pwt 1,16-17); w sprawie doniesienia — „zbadasz, wywiadujesz się i wypytasz dokładnie\" (Pwt 13,15; 17,4; 19,18: staranne śledztwo przeciw pochopności i fałszywym świadkom); „nie przyjmiesz fałszywej pogłoski\" (Wj 23,1); dwóch świadków (Pwt 19,15). Tradycja rozbudowała te gwarancje w cały kodeks (traktat Sanhedryn: przesłuchanie oskarżonego i świadków, ostrzeżenia, przewaga głosów, odroczenie wyroku skazującego na dzień następny) — sąd bez wysłuchania był w tym systemie nie usterką, lecz zaprzeczeniem sądu. Na tym tle scena w. 45-52 jest gorzką parodią trybunału: wyrok emocjonalny już zapadł (w. 47: „daliście się zwieść\"), świadków się rozbraja pogardą, jedynego rzecznika procedury — insynuacją; a właściwy proces Jezusa (18,12-24; Mk 14,53-65) złamie tych zasad więcej: nocna pora, poszukiwanie fałszywych świadectw, wyrok przed świtem. Chrześcijańska tradycja prawna przejęła zasadę Nikodema jako prawo naturalne (audiatur et altera pars; nemo inauditus damnetur — nikt nie może być skazany niewysłuchany) — i Kościół sam bywa przez nią sądzony, ilekroć w swoich procedurach, opiniach i plotkach skazuje niewysłuchanych; werset 51 jest patronem wszystkich, którzy w rozgrzanym gremium mają odwagę zadać pytanie o elementarz."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Pragnienie jako brama łaski, Duch wypływający z uwielbienia, schizma jako rewers światła oraz sprawiedliwość proceduralna wobec pogardy — cztery węzły wielkiego dnia w optyce tomistycznej; Tomasz komentuje scenę w Super Ioannem, cap. VII, lect. 5.",
+     "children": [
+      [
+       "1. Desiderium — pragnienie jako jedyny warunek",
+       "Zaproszenie „jeśli ktoś pragnie\" czyta Tomasz przez swoją naukę o pragnieniu naturalnym: człowiek jest bytem z wbudowanym nadmiarem — jego wola, nakierowana na dobro jako takie, nie nasyca się żadnym dobrem skończonym (desiderium naturale visionis Dei); stworzenie nosi w sobie studnię głębszą niż wszystkie wody świata, i stąd nieusuwalny niepokój serca (Augustynowe inquietum cor nostrum). Grzechem przeciwko temu pragnieniu nie jest jego siła, lecz jego zagłuszenie: sytość rzeczami małymi (por. Jr 2,13 — cysterny popękane zamiast źródła), która sprawia, że człowiek już nie pragnie — i dlatego nie przychodzi. Ewangeliczny warunek jest więc najniższym progiem, jaki można pomyśleć — i zarazem realnym sitem: do wody żywej nie dochodzą nie najgorsi, lecz najsytsi (scena pokaże ich za chwilę: „czy ktokolwiek z przełożonych uwierzył?\" — przełożeni nie pragną, bo mają). Praktyka duchowa wyprowadza stąd regułę: pierwszą łaską, o którą należy prosić, jest samo pragnienie — rozbudzenie głodu jest już działaniem Ducha (por. Ps 42,2); a kierownictwo duchowe zna diagnozę odwrotną: oziębłość rzadko leczy się argumentami — leczy się postem od zagłuszaczy, aż studnia znów da o sobie znać."
+      ],
+      [
+       "2. Nondum erat Spiritus — Duch z uwielbienia",
+       "Zdanie „jeszcze nie było Ducha, bo Jezus nie został jeszcze uwielbiony\" porządkuje Tomasz nauką o posłaniach Osób Boskich (missiones divinarum personarum, S. Th. I, q. 43): Duch, odwiecznie istniejący i działający w stworzeniu i prorokach, zostaje POSŁANY — dany Kościołowi jako trwały dar zamieszkujący — dopiero z wywyższenia Chrystusa; nie dlatego, że Bóg zwlekał, lecz że dar miał płynąć KANAŁEM uwielbionego Człowieczeństwa: łaska Głowy (gratia capitis) rozlewa się na członki, gdy Głowa przejdzie przez krzyż do chwały. Stąd Janowa sekwencja wód: obietnica w Sukkot (7,37-39) — otwarcie źródła na Golgocie (19,34: krew i woda z przebitego boku, natychmiast po „oddał ducha\") — tchnienie paschalne (20,22) — i Pięćdziesiątnica Łukaszowa jako publiczna promulgacja tego samego daru. Teologiczne konsekwencje są praktyczne: Duch nie jest energią bezosobową dostępną technikami — jest darem Ukrzyżowanego-Uwielbionego, więc droga do Niego prowadzi zawsze przez kontakt z Chrystusem (sakramenty — „rzeki\" z boku: chrzest i Eucharystia, jak czytali Ojcowie wodę i krew); duchowość bez krzyża produkuje entuzjazm, nie Ducha. I jeszcze jedno rozróżnienie tomistyczne, chroniące tekst przed nadgorliwością: „nie było Ducha\" nie przeczy działaniu Ducha w Starym Przymierzu (prorocy!) — przeczy Jego obecności jako trwałego, wewnętrznego daru Nowego Prawa, które JEST „łaską Ducha Świętego daną przez wiarę w Chrystusa\" (S. Th. I-II, q. 106, a. 1): nowość Nowego Testamentu to nie nowy tekst, lecz nowa Rzeka."
+      ],
+      [
+       "3. Schisma — rozłam jako rewers światła",
+       "Trzy Janowe schizmy (7,43; 9,16; 10,19) stawiają pytanie, które Tomasz rozstrzyga rozróżnieniem przyczyny właściwej (per se) i przypadłościowej (per accidens): Chrystus nie jest przyczyną rozłamu per se — Jego intencją i mocą jest jedność (17,21); rozłam powstaje per accidens, z rozmaitości serc, na które pada to samo światło — jak jedno słońce topi wosk i utwardza glinę. Dlatego zgorszenie podziałem („skoro dzieli, nie jest od Boga\") jest logicznie chybione: dzieli wszystko, co realne i nieprzycięte — prawda, dobro, piękno w stanie czystym; nie dzieli tylko to, co uładzone do średniej oczekiwań. Zarazem Tomasz chroni przed nadużyciem odwrotnym: nie każdy podział jest chwalebny — schisma jako grzech (rozdarcie jedności Kościoła z pychy lub uporu) jest czymś innym niż krisis jako skutek prawdy; kryterium leży w przyczynie: czy dzieli prawda przyjmowana i odrzucana (wtedy trwaj przy prawdzie, płacz nad podziałem), czy dzieli ambicja, obraza i władza (wtedy nawróć się). Kościół żyje w tym napięciu od Kafarnaum i Sukkot: musi głosić to, co dzieli (bo realne), i nie wolno mu kochać dzielenia (bo posłany do jedności); miarą zdrowia nie jest ani powszechny aplauz (biada, gdy wszyscy chwalą), ani powszechny konflikt (biada, gdy nikt nie może wytrzymać) — lecz to, czy spór przebiega wzdłuż linii Ewangelii, a nie wzdłuż linii naszych plemion."
+      ],
+      [
+       "4. Iustitia procedurális i pogarda — dwa sądy tej sceny",
+       "Finał perykopy zestawia dwa sądy: sąd pogardy (w. 47-49) i sąd Prawa (w. 51) — i jest to zestawienie z podręcznika etyki sądzenia. Pogarda elit ma strukturę potrójnego błędu: argumentum ad hominem zbiorowe (kto uwierzył? — pytanie o osoby zamiast o racje), petitio principii (zwiedzenie tłumu założone, nie dowiedzione) i przekleństwo jako substytut wyroku (epáratoi — sąd bez procesu, kara bez winy). Nikodemowe pytanie przywraca porządek aktów sądzenia, który Tomasz wylicza za prawem: cognitio (poznać sprawę — „wysłuchać i poznać, co czyni\"), potem iudicium (osądzić według prawa), potem dopiero sententia; wyrok przed poznaniem jest formalnie nie-sądem — aktem woli przebranym za akt rozumu. Głębsza lekcja dotyczy pogardy jako takiej: contemptus jest córką pychy i matką ślepoty — kto gardzi, ten już nie widzi (gremium nie widzi Jonasza w Piśmie, które zna na pamięć!), bo pogarda z definicji zwalnia z patrzenia; dlatego w porządku poznania pokora nie jest ozdobą, lecz warunkiem — superbia w intelekcie kosztuje prawdę, nie tylko miłość. I ostatnia nauka, Nikodemowa: w gremium ogarniętym pogardą głos o procedurze jest już wyznaniem wiary w prawdę — kto broni wysłuchania niewysłuchanego, ten służy Słowu, choćby jeszcze nie umiał wymówić Jego imienia; Bóg, jak pokaże 19,39, takich mów nie zapomina."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "body": "Perykopa domyka publiczny dzień Namiotów i pokazuje pełnię Janowego warsztatu. Reżyseria liturgiczna: ewangelista zna obrzędy Sukkot od środka i ustawia wołanie Jezusa dokładnie na ich szczycie — jak wcześniej mowa eucharystyczna weszła w Paschę, a deklaracja o światłości wejdzie w iluminację dziedzińca (8,12); jego chrystologia ma rytm kalendarza świątynnego, co zdradza autora zakorzenionego w Jerozolimie sprzed 70 roku i wspólnotę, która po zburzeniu świątyni czyta w Chrystusie treść utraconych obrzędów. Unikat narratologiczny: w. 39 to najdłuższy autokomentarz teologiczny narratora w całej Ewangelii — Jan na moment zdejmuje maskę opowiadacza i wykłada symbol (to o Duchu) oraz zegar (po uwielbieniu), dając czytelnikowi klucz, którym otworzy 19,34 i 20,22; ta jawność jest miarą wagi: w sprawach Ducha ewangelista nie ryzykuje niedomówienia. Ironia w trzech rejestrach: milczenie o Betlejem (zaufanie do wiedzy czytelnika — ironia elegancka), meldunek strażników (wyznanie w ustach aparatu przemocy — ironia czuła) i „zbadaj i zobacz\" z fałszywą tezą (parodia uczoności — ironia ostra jak skalpel: gremium każe badać, nie zbadawszy; gubi Jonasza z 2 Krl 14,25 w gniewie, który zaślepia erudycję). Postaci-łuki: Nikodem w drugim akcie swojej trylogii (noc → głos w gremium → mirra przy grobie) jest Janowym studium wiary rodzącej się powoli — pisarz, który umie pokazać nawrócenie w trzech zdaniach rozrzuconych po księdze, jest mistrzem miniatury psychologicznej. Wreszcie rama wspólnotowa: schizma tłumu, pogarda uczonych wobec am ha-arec i samotny głos sprawiedliwego w gremium to również pejzaż epoki Jana — jego Kościół zna wykluczających i wykluczanych; pisząc o wielkim dniu święta, pisze też instrukcję dla swoich: wołajcie o pragnących, nie o wygrane głosowania — i miejcie w gremiach swoich Nikodemów.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "body": "Cztery słowa Ducha z wielkiego dnia. O pragnieniu: jedynym warunkiem u źródła jest brak — nie zasługa, nie wiedza, nie ranga; dlatego pierwsza modlitwa brzmi nie „daj mi\", lecz „obudź we mnie pragnienie\", a najgroźniejszym stanem duszy nie jest upadek, lecz sytość, która już nie pragnie. O Duchu: nie jest On nastrojem ani techniką — jest Rzeką z wnętrza Ukrzyżowanego-Uwielbionego; kto chce Ducha, niech idzie tam, skąd wypływa: do boku Chrystusa — do słowa, chrztu i Eucharystii — i niech się nie dziwi, że pełnia przychodzi przez godziny krzyża, własne i Pańskie: rzeki mają źródło pod Golgotą. I jeszcze to: napojony sam staje się źródłem — Duch nie wsiąka w odbiorcę, lecz płynie przez niego; wiara, z której nic nie wypływa dla innych, jeszcze nie piła, tylko posmakowała. O słowie: strażnicy wrócili bez więźnia, bo słuchali bez tezy — Ewangelia ma moc własną i największą przysługą, jaką można oddać drugiemu, jest wystawić go na sam głos Pana (czytać z nim Słowo, nie referaty o Słowie); a kto słucha wyłącznie po to, by klasyfikować, wraca z pustymi rękami. O sądzeniu wreszcie: pogarda jest bankructwem wiary — gdzie kończą się argumenty, a zaczyna „ten tłum przeklęty\", tam religia przeszła na stronę, z którą Bóg się nie utożsamia; i jeden głos Nikodema w rozgrzanym gremium — upomnienie się o wysłuchanie niewysłuchanego — waży przed Bogiem więcej niż cała reszta protokołu: bywa, że to jedyne wyznanie wiary, na jakie kogoś w danym gremium stać, i Bóg je przyjmuje jako zadatek; mirra przyjdzie później.",
+     "children": []
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "Wj 17,1-7; Lb 20,7-11; Ps 78,15-16; 1 Kor 10,4 → w. 37-38",
+       "Woda ze skały — rdzeń pamięci, którą Sukkot celebrował: lud na pustyni u kresu pragnienia, Mojżesz uderza skałę, „popłynęły strumienie\" (Ps 78,20 — ten sam obraz rzek z twardego wnętrza). Paweł domyka typologię wprost: „pili z duchowej skały, która szła za nimi — a skałą był Chrystus\" (1 Kor 10,4). Janowa scena jest tej typologii drugim aktem: skała stoi na dziedzińcu i woła; a trzecim będzie Golgota — skała przebita włócznią zamiast laski, z której wypłynie woda prawdziwa (19,34). Massa i Meriba dopowiadają ostrzeżenie: przy wodach kuszono Boga pytaniem „czy Pan jest pośród nas?\" — dokładnie to pytanie rozdziera tłum w w. 40-43."
+      ],
+      [
+       "Ez 47,1-12; Za 14,8; Jl 4,18 → w. 38",
+       "Rzeka ze świątyni: Ezechielowa wizja wód wypływających spod progu domu Bożego — od kostek po rzekę nie do przebycia, uzdrawiającą morze i rodzącą drzewa o liściach-lekarstwie; Zachariaszowe „wody żywe wypłyną z Jerozolimy\" (czytane w Sukkot); Joelowe źródło z domu Pańskiego. Nowy Testament dokona w tej wizji zamiany adresu, którą przygotował już J 2,21 (świątynią jest Jego ciało): rzeki popłyną nie spod progu budowli, lecz z wnętrza (koilia) Osoby — z boku nowej Świątyni (19,34), a Apokalipsa zamknie kanon obrazem rzeki „wypływającej z tronu Boga i Baranka\" przez środek miasta (Ap 22,1-2, z drzewami Ezechiela po obu stronach). Perykopa jest środkowym ogniwem tej sztafety: między świątynią z kamienia a miastem bez świątyni stoi Chrystus — Świątynia, która chodzi i woła."
+      ],
+      [
+       "Iz 55,1; Iz 58,11; Jr 2,13; Ps 42,2-3; 63,2 → w. 37",
+       "Liturgia pragnienia: Izajaszowe zaproszenie darmowe („wszyscy spragnieni, przyjdźcie do wody\"), obietnica duszy jak „ogród nawodniony, źródło, którego wody nie zawodzą\", Jeremiaszowa skarga o dwóch złach („mnie, źródło wody żywej, opuścili, by wykuć sobie cysterny popękane\"), psalmy łani i ziemi zeschłej. Jezusowe wołanie zbiera ten nurt i przekracza go zaimkiem: przyjdźcie DO MNIE — Źródło z Jr 2,13, które Izrael opuszczał, stoi na dziedzińcu i zaprasza; a diagnoza Jeremiaszowa pozostaje kluczem sceny: problemem słuchaczy nie jest brak wody, lecz przywiązanie do własnych cystern — pewności, rangi, szkoły — które nie trzymają wody, ale są WŁASNE."
+      ],
+      [
+       "Mi 5,1; 2 Sm 7,12-16; Ps 89,4-5 → w. 41-42",
+       "Dossier betlejemsko-dawidowe: obietnica dynastii wiecznej, „najmniejsze z tysięcy Judy\" Betlejem jako kolebka Władcy, przysięga Psalmu. Wszystko prawda — i wszystko w scenie użyte na oślep, bo bez sprawdzenia faktu narodzin. Nowy Testament zna odpowiedź z obu stron: Mateusz i Łukasz dokumentują Betlejem, Jan pokazuje, że nawet poprawna metryka nie rodzi wiary (znający Betlejem uczeni Heroda posłali tam nie pokłon, lecz miecz — Mt 2). Odniesienie uczy hermeneutycznej pokory: Pismo nie działa jak automat — między tekstem a prawdą stoi zawsze serce czytającego; ci sami prorocy prowadzą magów do żłóbka i gremium do szyderstwa."
+      ],
+      [
+       "Pwt 1,16-17; 17,4; 19,15-18; Wj 23,1 → w. 51",
+       "Gwarancje procesowe Tory: wysłuchać obu stron, zbadać dokładnie, nie przyjmować pogłoski, dwóch świadków, staranne śledztwo. Nikodem cytuje nie przepis, lecz rdzeń — i właśnie dlatego jego pytanie jest nieodparte: gremium może go wyszydzić, nie może mu odpowiedzieć. Łuk nowotestamentalny: te same zasady zostaną złamane w procesie Jezusa (fałszywi świadkowie niezgodni — Mk 14,55-59; nocny wyrok), a przywrócone w praktyce apostolskiej (Dz 25,16: „Rzymianie nie mają zwyczaju skazywać człowieka, zanim oskarżony nie stanie wobec oskarżycieli\" — poganin Festus jako mimowolny uczeń Pwt 1). Kościół odziedziczył zasadę jako prawo Boże i naturalne zarazem; każde jej złamanie — w trybunałach, opiniach, mediach i zakrystiach — jest powtórką z w. 47-52, po stronie, po której stać nie chcemy."
+      ],
+      [
+       "2 Krl 14,25; Iz 8,23-9,1 → w. 52",
+       "Dwa teksty, które gremium „zbadało\" nie zbadawszy: Jonasz, syn Amittaja, prorok „z Gat-ha-Chefer\" — miasteczka w Zabulonie, rzut kamieniem od Nazaretu (2 Krl 14,25): prorok z Galilei istniał czarno na białym; oraz Izajaszowa obietnica dla „Galilei pogan\": „lud chodzący w ciemności ujrzał światłość wielką\" (Iz 8,23-9,1) — tekst, który Mateusz położy pod Kafarnaum (Mt 4,14-16), a Jan zrealizuje w następnym wersecie swojej księgi: „JA JESTEM światłością świata\" (8,12) — powie w tej samej Galilei pogardzonej... nie: powie w Jerozolimie Ten, którego Galilea nosiła. Pogarda geograficzna („czy z Nazaretu może być coś dobrego?\" — 1,46) jest u Jana figurą wszelkiej pewności, która zwalnia z patrzenia; odpowiedź pozostaje ta sama od Filipa: chodź i zobacz."
+      ],
+      [
+       "J 4,10-14; 19,34; 20,22; Ap 22,1.17 → w. 37-39",
+       "Janowa sieć wód: studnia Jakubowa (woda żywa, źródło tryskające ku życiu wiecznemu — obietnica dla jednostki), Sukkot (rzeki z wnętrza — obietnica dla wspólnoty i świata), bok przebity (krew i woda — otwarcie źródła), tchnienie paschalne (Duch dany), tron Baranka (rzeka przez środek miasta i ostatnie „kto pragnie, niech przychodzi\" — Ap 22,17). Pięć scen, jedna hydrologia zbawienia: od obietnicy przez krzyż do miasta; a klamra pierwszego i ostatniego zaproszenia (J 7,37 / Ap 22,17) pokazuje, że całe objawienie kończy się tak, jak wołał wielki dzień święta — zaproszeniem spragnionych, teraz wypowiadanym przez „Ducha i Oblubienicę\" razem: Kościół, który sam pił, nauczył się wołać jak jego Pan."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Liturgia",
+       "Kościół umieścił tę perykopę dokładnie tam, gdzie wskazuje w. 39: w liturgii Pięćdziesiątnicy. Rzym czyta J 7,37-39 jako Ewangelię wigilii Zesłania Ducha Świętego — wołanie z Sukkot jest ostatnim słowem Kościoła przed nocą oczekiwania na Ducha; stara sekwencja Veni Sancte Spiritus prosi o to samo obrazami wody (riga quod est aridum — „nawodnij, co oschłe\"). Bizancjum poszło jeszcze dalej: J 7,37-52 z doklejonym 8,12 jest Ewangelią samej niedzieli Pięćdziesiątnicy — Wschód czyta w dzień Zesłania właśnie scenę wielkiego dnia święta, z jej schizmą i Nikodemem włącznie, a syntezę daje kondakion i słynna stichera: „Przyjdźcie, ludzie, pokłońmy się Bóstwu w trzech Osobach\"; obrzęd klękania (gonyklisia) nieszporów Pięćdziesiątnicy dziedziczy wołanie o wodę dla spragnionych. Nadto w tradycji rzymskiej w. 37-39 wraca w wielkopostnych i wielkanocnych modlitwach chrzcielnych (woda żywa nad chrzcielnicą — por. obrzęd poświęcenia wody z wigilii paschalnej, wspominający wodę ze skały i bok Chrystusa), a kult Najświętszego Serca uczynił z „fons vitae\" — źródła otwartego w boku — swój centralny obraz (encyklika Haurietis aquas bierze tytuł z Iz 12,3: „będziecie czerpać wodę ze zdrojów zbawienia\", czytanego przez J 7,37 i 19,34). Perykopa jest więc liturgicznie tym, czym była narracyjnie: tekstem pomostowym między świętem wody a świętem Ducha."
+      ],
+      [
+       "Recepcja teologiczna i duchowość",
+       "Historia egzegezy w. 37-38 to dzieje sporu o interpunkcję z teologiczną stawką (zob. aparat): lektura „chrystologiczna\" (rzeki z wnętrza CHRYSTUSA), poświadczona u Justyna, Hipolita, Tertuliana, Cypriana i w tradycji efeskiej, karmiła teologię boku Pańskiego — od patrystycznych narodzin Kościoła z boku nowego Adama (jak Ewa z boku pierwszego: Augustyn, Chryzostom) po średniowieczną i nowożytną mistykę Serca Jezusa; lektura „antropologiczna\" (z wnętrza WIERZĄCEGO), przyjęta przez Orygenesa, Atanazego i większość tradycji greckiej, karmiła teologię przebóstwienia i charyzmatów: napojony staje się źródłem — święty jest rzeką dla innych (por. 4,14). Kościół nigdy nie musiał wybierać: obie lektury opisują dwa odcinki tej samej rzeki. W duchowości scena pracuje trzema obrazami: pragnienie (od Augustynowego niespokojnego serca po Teresę z Lisieux i Matkę Teresę z jej „Pragnę\" nad ołtarzami — kontemplacja Jezusa, który pragnie naszego pragnienia, J 19,28 czytane z 7,37); źródło i cysterny (Jr 2,13 jako stały rachunek sumienia z tego, gdzie chodzimy po wodę); oraz Nikodem — patron odwagi proceduralnej: jego pytanie z w. 51 cytowano w dziejach jako argument przeciw sądom kapturowym, a jego łuk (noc — głos — mirra) pociesza wszystkich, których wiara dojrzewa wolniej niż u bohaterów. Werset 46 zaś („nigdy człowiek nie mówił tak\") stał się w homiletyce i apologetyce klasycznym świadectwem mocy samego słowa Jezusa — cytowanym od Bossueta po współczesnych, ilekroć trzeba powiedzieć, że Ewangelia broni się sama, gdy tylko pozwolić jej mówić."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Katena do wielkiego dnia święta — sześć głosów: wołanie do spragnionych i darmowość wody (Chryzostom), rzeki z wnętrza i miara daru (Augustyn), Duch po uwielbieniu (Augustyn), schizma i bezsilność straży (Chryzostom), pochwała strażników i sąd Nikodema (Cyryl), Galilea i ślepota pogardy (Cyryl).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: w szczycie liturgii wody Jezus staje i woła, że Źródłem jest On — kto pragnie, niech przyjdzie i pije, a z wnętrza napojonego popłyną rzeki Ducha, który wtedy jeszcze nie był dany, bo czekał na uwielbienie krzyża; i to jedno wołanie rozdziera święto na trzy kręgi odpowiedzi: tłum dzieli się o metrykę, której nikt nie sprawdza; straże wracają rozbrojone samym słowem; elita, której zabrakło argumentów, sięga po pogardę — a jeden Nikodem ratuje honor Prawa pytaniem o wysłuchanie niewysłuchanego i zostaje zakrzyczany fałszem tak pewnym siebie, że gubi Jonasza. Czytelnik zabiera z wielkiego dnia trzy rzeczy: warunek (u źródła liczy się tylko pragnienie — i tylko sytość dyskwalifikuje), adres (Duch płynie z boku Uwielbionego: kto chce rzek, niech trzyma się krzyża i sakramentów) i przestrogę z lustrem (można znać Pisma na pamięć, kazać innym „badać\" — i przegrać prawdę przez pogardę, która zwalnia z patrzenia); a nad wszystkim jedno pytanie, od którego scena się zaczyna i którym się nie kończy: czy ja jeszcze pragnę?",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28 (nawias NA28: [τὸ] πρότερον w. 50; interpunkcja w. 37-38 za NA28 — zob. aparat o lekturze chrystologicznej); przekłady polskie wersetów są robocze (własne, dosłowne), terminy hebrajskie w transkrypcji uproszczonej. Perykopa kończy się na w. 52: następująca po nim perykopa o kobiecie cudzołożnej (7,53-8,11) jest w NA28 ujęta w podwójne nawiasy jako tekst nienależący do pierwotnej Ewangelii Janowej — zostanie opracowana osobno, z pełną dyskusją jej statusu. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); do obrzędów Hoszana Rabba — Miszna, Sukka 4-5; z klasyki — św. Jan Chryzostom (Hom. in Io. 51-52), św. Augustyn (Tract. in Io. 32-33), św. Cyryl Aleksandryjski (In Io., ks. V) i św. Tomasz (Super Ioannem, cap. VII, lect. 5).*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     17,
+     1,
+     17,
+     7,
+     "Wj 17,1-7",
+     "typologia",
+     "woda ze skały w Massa i Meriba — rdzeń pamięci Sukkot; skałą był Chrystus (1 Kor 10,4)"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     78,
+     15,
+     78,
+     20,
+     "Ps 78,15-16.20",
+     "typologia",
+     "rozszczepił skałę i popłynęły strumienie — rzeki z twardego wnętrza"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ez",
+     47,
+     1,
+     47,
+     12,
+     "Ez 47,1-12",
+     "typologia",
+     "rzeka spod progu świątyni, uzdrawiająca wszystko, dokąd dotrze — matryca rzek z 7,38"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Za",
+     14,
+     8,
+     14,
+     8,
+     "Za 14,8",
+     "typologia",
+     "wody żywe wypłyną z Jerozolimy — proroctwo czytane w Sukkot, wypełnione w Osobie"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     55,
+     1,
+     55,
+     1,
+     "Iz 55,1",
+     "tlo",
+     "o, wszyscy spragnieni, przyjdźcie do wody — darmowe zaproszenie za wołaniem w. 37"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     58,
+     11,
+     58,
+     11,
+     "Iz 58,11",
+     "tlo",
+     "będziesz jak źródło, którego wody nie zawodzą — napojony sam staje się źródłem"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Jr",
+     2,
+     13,
+     2,
+     13,
+     "Jr 2,13",
+     "tlo",
+     "mnie, źródło wody żywej, opuścili — cysterny popękane jako diagnoza sceny"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mi",
+     5,
+     1,
+     5,
+     1,
+     "Mi 5,1",
+     "tlo",
+     "a ty, Betlejem — dossier użyte w w. 42 bez sprawdzenia faktu narodzin"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "2 Sm",
+     7,
+     12,
+     7,
+     16,
+     "2 Sm 7,12-16",
+     "tlo",
+     "obietnica dynastyczna dla Dawida — z potomstwa twego; argument tłumu w w. 42"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pwt",
+     1,
+     16,
+     1,
+     17,
+     "Pwt 1,16-17",
+     "tlo",
+     "wysłuchacie małego i wielkiego — procesowy elementarz Tory w ustach Nikodema"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     23,
+     1,
+     23,
+     1,
+     "Wj 23,1",
+     "tlo",
+     "nie przyjmiesz fałszywej pogłoski — przeciw wyrokom przed wysłuchaniem"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "2 Krl",
+     14,
+     25,
+     14,
+     25,
+     "2 Krl 14,25",
+     "tlo",
+     "Jonasz z Gat-ha-Chefer w Galilei — fakt, który gniew gremium zgubił w w. 52"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     8,
+     23,
+     9,
+     1,
+     "Iz 8,23-9,1",
+     "typologia",
+     "Galilea pogan: lud chodzący w ciemności ujrzał światłość wielką — obietnica dla wzgardzonej krainy"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     19,
+     34,
+     19,
+     34,
+     "J 19,34",
+     "rozwiniecie",
+     "wypłynęła krew i woda — otwarcie źródła zapowiedzianego w 7,38-39"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     20,
+     22,
+     20,
+     22,
+     "J 20,22",
+     "rozwiniecie",
+     "tchnął i mówi: weźmijcie Ducha Świętego — dar dany po uwielbieniu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ap",
+     22,
+     1,
+     22,
+     2,
+     "Ap 22,1-2",
+     "rozwiniecie",
+     "rzeka wody życia z tronu Boga i Baranka — finał sztafety Ez 47 → J 7 → miasto święte"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ap",
+     22,
+     17,
+     22,
+     17,
+     "Ap 22,17",
+     "rozwiniecie",
+     "kto pragnie, niech przyjdzie — ostatnie zaproszenie Pisma jako echo wołania z dziedzińca"
+    ],
+    [
+     [
+      "unit",
+      "w. 45–49",
+      1
+     ],
+     "Ga",
+     3,
+     13,
+     3,
+     13,
+     "Ga 3,13",
+     "rozwiniecie",
+     "Chrystus stał się za nas przekleństwem — odpowiedź na epáratoi z w. 49"
+    ],
+    [
+     [
+      "unit",
+      "w. 37–39",
+      1
+     ],
+     "Ps",
+     63,
+     2,
+     63,
+     2,
+     "Ps 63,2",
+     "tlo",
+     "Ciebie pragnie moja dusza jak ziemia zeschła — psalmodia pragnienia"
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. VII, lect. 5",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład wielkiego dnia: pragnienie naturalne, posłania Osób Boskich, rozłam per accidens, porządek sądu.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Obrzędy Hoszana Rabba, interpunkcyjny crux w. 37-38 i teologia Ducha z uwielbienia.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "C. K. Barrett",
+     "The Gospel According to St John, ad loc.",
+     [
+      "section",
+      "I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
+     ],
+     "Filologia koilia, kompozytowy cytat w. 38 i wahania tekstu w. 39.",
+     "The Gospel According to St John"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana I, ad loc.",
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Polskie omówienie tła Sukkot, schizm rozdziału 7 i postaci Nikodema.",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 37–39",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 51",
+     "Chryzostom zatrzymuje się nad składnią zaproszenia: Pan nie zapędza — woła; nie mówi „musicie\", lecz „jeśli ktoś pragnie\". Taka jest różnica między tyranią a łaską: tyran potrzebuje poddanych, więc przymusza; Źródło niczego nie potrzebuje, więc zaprasza — a przymus zepsułby sam dar, bo picia nie da się wymusić na niespragnionym. Warunek jest jeden i najniższy z możliwych: pragnienie — nie czystość rąk, nie ranga, nie uczoność; dlatego — zauważa kaznodzieja z goryczą — do źródła nie doszli uczeni tej sceny: byli pełni, a pełnego nie napoisz. Obietnica zaś ma miarę królewską: nie kubek, nie dzban — rzeki; Bóg wstydziłby się dawać kroplami, skoro jest morzem. I jeszcze jedno podkreśla Chryzostom: „niech przyjdzie DO MNIE\" — nie do miejsca, nie do rytu, nie do księgi nawet, lecz do Osoby; wszystkie studnie religii są rurami — woda jest jedna i osobowa. Kto więc czuje oschłość, niech nie zmienia rur, lecz sprawdzi, czy pije u Osoby, czy tylko obsługuje instalację."
+    ],
+    [
+     "w. 37–39",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 32,2-8",
+     "Augustyn wykłada obietnicę rzek przez tajemnicę hojności: wnętrze wierzącego (venter interioris hominis — brzuch człowieka wewnętrznego) staje się źródłem, bo taka jest natura tej wody — nie daje się magazynować, daje się tylko przekazywać; kto pije naprawdę, z tego płynie, a komu nic nie płynie, ten jeszcze nie pił, tylko umoczył wargi. Sumienie dobre pije i przelewa: miłość przyjęta staje się miłością świadczoną — dlatego rzeki, nie cysterna: woda żywa w bezruchu byłaby martwa. A zdanie „jeszcze nie było Ducha\" broni Augustyn przed błędem, jakoby Duch nie istniał przed Paschą (przecież napełniał proroków, Elżbietę, Symeona): nie było Go jako TEGO daru — daru rozlanego na wszelkie ciało, czyniącego z uczniów jedno Ciało i dającego odwagę aż po śmierć; ta pełnia czekała na uwielbienie Jezusa, bo trzeba było, aby nasza Głowa weszła do chwały, by członkom mogła być dana Jej moc. I podaje swój ulubiony dowód z historii: ten sam Piotr, który przed uwielbieniem zaparł się na głos służącej, po daniu Ducha wyznawał wobec namiestników — oto różnica między Duchem obecnym a Duchem danym; miarą Pięćdziesiątnicy nie są języki, lecz męstwo miłości."
+    ],
+    [
+     "w. 40–44",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 51-52",
+     "Rozdarcie tłumu komentuje Chryzostom bez zdziwienia: prawda przyszła do chorych oczu — jednych leczy, innych razi; ale winne nie jest światło. Zauważa przy tym rzecz pocieszającą: schizma znaczy, że słowo dotarło — najgorszy nie jest spór o Chrystusa, lecz obojętność, która nie uważa Go za wartego sporu. W sprawie Betlejem kaznodzieja odsłania mechanizm złej egzegezy: mieli Pismo i mieli pytanie — nie mieli woli sprawdzenia; a przecież wystarczyło zapytać Matkę, sąsiadów, urzędy — Betlejem leżało o dwie godziny drogi. Tak niewiara pracuje zawsze: podnosi trudność i nie czeka na odpowiedź, bo trudność jest jej potrzebna jako parawan, nie jako pytanie. Ci zaś, którzy „chcieli Go pojmać, a nikt nie podniósł rąk\", świadczą mimowolnie o mocy, której nie rozumieją: gniew miał ręce związane, bo godzina należała do Ojca. Niech więc Kościół — kończy Złotousty — nie liczy wrogów, lecz godziny: dopóki Bóg nie odda swojej, wszystkie zamachy są próbami generalnymi bez premiery."
+    ],
+    [
+     "w. 45–49",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. V",
+     "Cyryl wystawia strażnikom świadectwo, które zawstydza uczonych: prości funkcjonariusze okazali się zdolniejsi do prawdy niż posyłający ich mędrcy, bo przyszli bez uprzedzenia — ucho niezatkane tezą usłyszało w słowach Jezusa to, co w nich było: mowę przekraczającą człowieka. Tak spełnia się reguła, że Bóg objawia prostym, co zakrywa przed mądrymi we własnych oczach: nie dlatego, że gardzi rozumem, lecz że pycha rozumu jest zatyczką ucha. Odpowiedź faryzeuszy analizuje Cyryl jak anatom: nie zważyli ANI JEDNEGO słowa z meldunku — od razu pytają „czy i was zwiedziono?\", bo w ich świecie niezgoda z nimi ma tylko jedno wyjaśnienie: zwiedzenie; potem zasłaniają się autorytetem stanu (nikt z przełożonych nie uwierzył — jakby łaska musiała zaczynać od prezydium), wreszcie przeklinają tłum, który jakoby nie zna Prawa — sami za chwilę mając je złamać. Oto — mówi Cyryl — trzy stopnie choroby autorytetu: najpierw nie słucha, potem się liczy, w końcu przeklina; a lekarstwem na wszystkie trzy jest jedno: przypomnieć sobie, że autorytet jest sługą prawdy, nie jej właścicielem."
+    ],
+    [
+     "w. 50–52",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 33,2-3",
+     "Nikodema broni Augustyn przed zarzutem połowiczności: prawda, że nie wyznał wprost — ale spójrz, co zrobił: w gremium, które właśnie przeklęło tłum i szuka głów, upomniał się o wysłuchanie Oskarżonego; nie mów „tylko tyle\" — powiedz „aż tyle\", bo w takiej sali takie pytanie jest wyznaniem w jedynym języku, jakiego sala jeszcze słucha: w języku jej własnego Prawa. Nocny uczeń rośnie w rytmie łaski: przyszedł w ciemności — teraz mówi w świetle rady — a przyjdzie dzień, gdy pod krzyżem nie będzie się wstydził mirry; Bóg nie gasi knota o małym płomieniu, lecz go osłania dłonią. Odpowiedź zaś gremium — „czy i ty z Galilei? zbadaj: prorok z Galilei nie powstaje\" — jest dla Augustyna obrazem pychy, która nawet badanie zamienia w wyrok: każą szukać w Pismach nie po to, by znaleźć, lecz by potwierdzić; a kto tak szuka, znajdzie zawsze siebie. Tymczasem wystarczyło zbadać naprawdę: i Betlejem by znaleźli w metryce, i Galileę w proroctwie o światłości wielkiej — Pisma były po stronie Tego, przeciw któremu je obrócono; nie Pisma zawiodły, lecz czytelnicy, którzy przyszli do nich z gotowym wyrokiem."
+    ],
+    [
+     "w. 50–52",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. V",
+     "Finał sceny czyta Cyryl jako sąd nad sądzącymi: gremium, które oskarżało tłum o nieznajomość Prawa, samo obala dwa jego filary w dwóch zdaniach — sądzi niewysłuchanego (przeciw Pwt 1,17) i orzeka fałsz w materii Pisma (przeciw faktowi Jonasza); tak pogarda karze się sama: kto gardzi, ten głupieje, choćby był uczony, bo pogarda odbiera cierpliwość, a bez cierpliwości nie ma poznania. W szyderstwie „czy i ty jesteś z Galilei?\" widzi zaś aleksandryjczyk wieczną taktykę zawstydzania: gdy nie można obalić racji, przypina się mówcy etykietę obozu — uczyń człowieka „Galilejczykiem\", a zwolnisz się z jego argumentu; Kościół zna tę taktykę z obu stron: cierpiał od niej i bywał jej winien. Lecz Bóg — kończy Cyryl — pisze prosto na krzywych liniach gremiów: z tej samej rady wyjdzie Nikodem z mirrą i Józef z grobem; a wzgardzona Galilea poniesie światło, o którym prorokował Izajasz — bo wybiera Bóg to, co wzgardzone, by zawstydzić mocnych, i żadna pogarda ludzka nie unieważniła jeszcze żadnego Bożego wybrania."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "Wigilia Zesłania Ducha Świętego",
+     "J 7,37-39",
+     "Wołanie z wielkiego dnia Sukkot jako Ewangelia nocy oczekiwania na Ducha: obietnica rzek przed ich wylaniem."
+    ],
+    [
+     "bizantyjski",
+     "Niedziela Pięćdziesiątnicy",
+     "J 7,37-52; 8,12",
+     "Wschód czyta w sam dzień Zesłania całą scenę wielkiego dnia — ze schizmą i Nikodemem; klęczne modlitwy nieszporów dziedziczą wołanie o wodę."
+    ],
+    [
+     "rzymski",
+     "Sobota IV tygodnia Wielkiego Postu",
+     "J 7,40-53",
+     "Wielkopostna lektura rozłamu i sądu bez wysłuchania — w drodze ku procesowi, który złamie te same zasady."
+    ],
+    [
+     "rzymski",
+     "Kult Najświętszego Serca (Haurietis aquas) i modlitwy chrzcielne",
+     "J 7,37-39 z 19,34 (motywy)",
+     "Fons vitae: źródło otwarte w boku; woda ze skały i bok Chrystusa w błogosławieństwie wody chrzcielnej."
+    ]
+   ],
+   "textual": [
+    [
+     38,
+     "interpunkcja w. 37-38: czyje wnętrze?",
+     "interpunkcja",
+     "Tekst bez znaków przestankowych dopuszcza dwie składnie. Tradycyjna (NA28, tradycja aleksandryjska, Orygenes): „niech przyjdzie do mnie i pije | kto wierzy we mnie; ... z JEGO (wierzącego) wnętrza popłyną rzeki\". Chrystologiczna (tradycja zachodnia i efeska: Justyn, Hipolit, Tertulian, Cyprian; wspierana rytmem dwuwiersza): „niech przyjdzie do mnie i niech pije, KTO WIERZY WE MNIE. Jak mówi Pismo: z JEGO (Chrystusa) wnętrza popłyną rzeki\".",
+     "Najsłynniejszy interpunkcyjny crux czwartej Ewangelii. Za lekturą chrystologiczną: paralelizm członów (pragnie→przyjdzie / wierzy→pije), sens cytatu (teksty o rzece — Ez 47, Za 14 — mówią o świątyni/Mesjaszu, nie o wierzącym) i Janowa teologia źródła (19,34: bok Chrystusa). Za tradycyjną: gramatyczna naturalność nawiązania αὐτοῦ do bliższego podmiotu i paralela 4,14 (w wierzącym źródło tryskające). Teologicznie obie lektury są prawdziwe i komplementarne — rzeka wypływa z Chrystusa i płynie PRZEZ wierzącego; NA28 drukuje składnię tradycyjną, notując problem. Rzadki przypadek, gdzie decyzja o przecinku niesie całą teologię — i gdzie tradycja rękopiśmienna (scriptio continua!) uczciwie pozwala na obie."
+    ],
+    [
+     39,
+     "οὔπω γὰρ ἦν πνεῦμα",
+     "wariant lekcji",
+     "NA28: „jeszcze bowiem nie było Ducha\" (P66c P75 ℵ K T Θ — tekst krótki, zaskakujący); warianty łagodzące: dodane ἅγιον (P66* L W i in.: „Ducha Świętego\"), dodane δεδομένον („dany\": B it vg syr — stąd Wulgata i przekłady „Duch nie był jeszcze DANY\"), oraz ἦν πνεῦμα ἅγιον ἐπ᾽ αὐτοῖς (D).",
+     "Wzorcowa lectio difficilior: „nie było Ducha\" brzmiało tak mocno (przecież Duch unosił się nad wodami i mówił przez proroków!), że tradycja dopisywała uściślenia — „Święty\", „dany\" — teologicznie poprawne i tekstualnie wtórne. Sens tekstu krótkiego wykłada w. 39a sam: idzie o Ducha JAKO DAR dla wierzących — o nową obecność, która ma swój warunek (uwielbienie Jezusa) i swoją datę (19,30.34; 20,22). Aparat jest tu miniaturą historii dogmatu: to, co ewangelista mógł powiedzieć skrótem, Kościół — nauczony sporami — precyzował glosami; egzegeza wraca do skrótu, niosąc w uszach precyzję."
+    ],
+    [
+     52,
+     "προφήτης / ὁ προφήτης ἐκ τῆς Γαλιλαίας οὐκ ἐγείρεται",
+     "wariant lekcji",
+     "NA28: „prorok z Galilei nie powstaje\" (bez rodzajnika — ogólnie o prorokach; przeważająca tradycja); P66* (prawdopodobnie także P75vid): ὁ προφήτης — „TEN Prorok (eschatologiczny) nie powstaje z Galilei\".",
+     "Drobny rodzajnik o dużej stawce: bez niego zdanie gremium jest błędem faktograficznym (Jonasz z Gat-ha-Chefer był Galilejczykiem — 2 Krl 14,25); z nim — poprawnym twierdzeniem egzegetycznym (o Proroku z Pwt 18 Pismo istotnie nie mówi, że przyjdzie z Galilei). Najstarszy świadek (P66) ratowałby więc uczonym twarz — co czyni jego lekcję podejrzaną o właśnie taką intencję; tekst bez rodzajnika, ostrzejszy dla gremium, lepiej pasuje do Janowej ironii sceny (gniew fałszujący erudycję). Nierozstrzygalne do końca — i pouczające: czasem jeden rodzajnik dzieli szyderstwo od tezy, a krytyka tekstu od apologetyki."
+    ]
+   ],
+   "theme_links": [
+    [
+     "woda żywa — Duch jako dar",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "κρίσις — sąd, który się dokonuje",
+     [
+      "block",
+      "w. 45–49"
+     ]
+    ],
+    [
+     "znaki (σημεῖα) i wiara",
+     [
+      "block",
+      "w. 40–44"
+     ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 45–49"
+     ]
+    ],
+    [
+     "godzina Jezusa (ἡ ὥρα)",
+     [
+      "block",
+      "w. 37–39"
+     ]
+    ],
+    [
+     "Logos a Mądrość",
+     [
+      "block",
+      "w. 37–39"
+     ]
+    ]
+   ],
+   "revision_note": "Dodano perykopę Rzeki wody żywej (J 7,37-52) w pełnym opracowaniu: wielki dzień Sukkot (Hoszana Rabba i libacja wody wg Miszny Sukka 4-5), wołanie do spragnionych (Iz 55,1; Jr 2,13), rzeki z wnętrza z interpunkcyjnym cruxem w. 37-38 (lektura chrystologiczna vs tradycyjna), autokomentarz narratora w. 39 (jeszcze nie było Ducha — lectio difficilior z wariantami hagion/dedomenon), trzy opinie i pierwsza schizma, straże rozbrojone słowem (oudepote elalesen houtos anthropos), am ha-arec i pogarda elit, Nikodem i audiatur et altera pars (Pwt 1,16-17), fałsz o proroku z Galilei (Jonasz z 2 Krl 14,25; wariant P66 ho prophetes); sekcje II-VIII (tomizm: desiderium naturale, missiones divinarum personarum, schisma per accidens, porządek sądu), katena sześciu głosów, liturgia (wigilia Pięćdziesiątnicy, bizantyjska Pięćdziesiątnica, Haurietis aquas); nowe leksemy (potamos, koilia, schisma, hyperetes), terminy Hoszana Rabba i am ha-arec; status: ukończona"
+  }
+ ]
+}
