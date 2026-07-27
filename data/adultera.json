@@ -1,0 +1,837 @@
+{
+ "books": [],
+ "verses": {
+  "chapter": 8,
+  "items": [
+   [
+    1,
+    "Ἰησοῦς δὲ ἐπορεύθη εἰς τὸ ὄρος τῶν ἐλαιῶν.",
+    "Jezus zaś poszedł na Górę Oliwną."
+   ],
+   [
+    2,
+    "Ὄρθρου δὲ πάλιν παρεγένετο εἰς τὸ ἱερὸν καὶ πᾶς ὁ λαὸς ἤρχετο πρὸς αὐτόν, καὶ καθίσας ἐδίδασκεν αὐτούς.",
+    "A o świcie znów przybył do świątyni i cały lud schodził się do Niego, a On, usiadłszy, nauczał ich."
+   ],
+   [
+    3,
+    "Ἄγουσιν δὲ οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι γυναῖκα ἐπὶ μοιχείᾳ κατειλημμένην καὶ στήσαντες αὐτὴν ἐν μέσῳ",
+    "Przyprowadzają zaś uczeni w Piśmie i faryzeusze kobietę pochwyconą na cudzołóstwie i postawiwszy ją pośrodku,"
+   ],
+   [
+    4,
+    "λέγουσιν αὐτῷ· διδάσκαλε, αὕτη ἡ γυνὴ κατείληπται ἐπ᾽ αὐτοφώρῳ μοιχευομένη·",
+    "mówią Mu: Nauczycielu, ta kobieta została pochwycona na cudzołóstwie na gorącym uczynku."
+   ],
+   [
+    5,
+    "ἐν δὲ τῷ νόμῳ ἡμῖν Μωϋσῆς ἐνετείλατο τὰς τοιαύτας λιθάζειν. σὺ οὖν τί λέγεις;",
+    "A w Prawie nakazał nam Mojżesz takie kamienować. Ty więc co mówisz?"
+   ],
+   [
+    6,
+    "τοῦτο δὲ ἔλεγον πειράζοντες αὐτόν, ἵνα ἔχωσιν κατηγορεῖν αὐτοῦ. ὁ δὲ Ἰησοῦς κάτω κύψας τῷ δακτύλῳ κατέγραφεν εἰς τὴν γῆν.",
+    "A mówili to, wystawiając Go na próbę, aby mieli o co Go oskarżyć. Jezus zaś, schyliwszy się, pisał palcem po ziemi."
+   ],
+   [
+    7,
+    "ὡς δὲ ἐπέμενον ἐρωτῶντες αὐτόν, ἀνέκυψεν καὶ εἶπεν αὐτοῖς· ὁ ἀναμάρτητος ὑμῶν πρῶτος ἐπ᾽ αὐτὴν βαλέτω λίθον.",
+    "A gdy nie przestawali Go pytać, wyprostował się i rzekł im: Kto z was jest bez grzechu, niech pierwszy rzuci w nią kamieniem."
+   ],
+   [
+    8,
+    "καὶ πάλιν κατακύψας ἔγραφεν εἰς τὴν γῆν.",
+    "I znów schyliwszy się, pisał po ziemi."
+   ],
+   [
+    9,
+    "οἱ δὲ ἀκούσαντες ἐξήρχοντο εἷς καθ᾽ εἷς ἀρξάμενοι ἀπὸ τῶν πρεσβυτέρων καὶ κατελείφθη μόνος καὶ ἡ γυνὴ ἐν μέσῳ οὖσα.",
+    "Oni zaś, usłyszawszy, wychodzili jeden po drugim, poczynając od starszych; i pozostał sam — i kobieta, stojąca pośrodku."
+   ],
+   [
+    10,
+    "ἀνακύψας δὲ ὁ Ἰησοῦς εἶπεν αὐτῇ· γύναι, ποῦ εἰσιν; οὐδείς σε κατέκρινεν;",
+    "Jezus, wyprostowawszy się, rzekł jej: Kobieto, gdzie oni są? Nikt cię nie potępił?"
+   ],
+   [
+    11,
+    "ἡ δὲ εἶπεν· οὐδείς, κύριε. εἶπεν δὲ ὁ Ἰησοῦς· οὐδὲ ἐγώ σε κατακρίνω· πορεύου, [καὶ] ἀπὸ τοῦ νῦν μηκέτι ἁμάρτανε.",
+    "Ona zaś rzekła: Nikt, Panie. Rzekł jej Jezus: I ja cię nie potępiam. Idź, [i] odtąd już nie grzesz."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "μοιχεία",
+   "moicheia",
+   "rzeczownik",
+   "cudzołóstwo — zarzut z 8,3-4; w prawie Tory przestępstwo gardłowe obojga (Kpł 20,10)"
+  ],
+  [
+   "λιθάζω",
+   "lithadzo",
+   "czasownik",
+   "kamienować — kara z 8,5; grozić będzie samemu Jezusowi (8,59; 10,31-33; 11,8)"
+  ],
+  [
+   "ἀναμάρτητος",
+   "anamartetos",
+   "przymiotnik",
+   "bez grzechu — hapax Nowego Testamentu (8,7): warunek pierwszego kamienia"
+  ],
+  [
+   "κατακρίνω",
+   "katakrino",
+   "czasownik",
+   "potępić, skazać — czasownik wyroku: nikt cię nie potępił? i Ja cię nie potępiam (8,10-11)"
+  ],
+  [
+   "ἁμαρτάνω",
+   "hamartano",
+   "czasownik",
+   "grzeszyć — idź i odtąd już nie grzesz (8,11; por. 5,14; 9,2-3)"
+  ],
+  [
+   "λίθος",
+   "lithos",
+   "rzeczownik",
+   "kamień — narzędzie wyroku wypuszczone z rąk (8,7.59)"
+  ]
+ ],
+ "semitic": [
+  [
+   "סְקִילָה",
+   "skila",
+   "hbr",
+   "ukamienowanie — jedna z czterech kar śmierci prawa rabinicznego; procedura wymagała naocznych świadków i ich pierwszej ręki (Pwt 17,7)"
+  ],
+  [
+   "עֵדִים",
+   "edim",
+   "hbr",
+   "świadkowie — co najmniej dwaj naoczni, uprzedzający sprawcę; ich ręka miała spaść pierwsza: prawo czyniło oskarżycieli egzekutorami"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "λιθάζω",
+   "skila",
+   "kara z 8,5 to skila; Jezus nie kwestionuje przepisu, lecz uruchamia jego własny bezpiecznik: rękę świadków, którą Pwt 17,7 czyni pierwszą — i którą sumienie zatrzymuje"
+  ]
+ ],
+ "occurrences": [
+  [
+   "μοιχεία",
+   3,
+   "μοιχείᾳ"
+  ],
+  [
+   "μοιχεία",
+   4,
+   "μοιχευομένη"
+  ],
+  [
+   "νόμος",
+   5,
+   "νόμῳ"
+  ],
+  [
+   "λιθάζω",
+   5,
+   "λιθάζειν"
+  ],
+  [
+   "ἀναμάρτητος",
+   7,
+   "ἀναμάρτητος"
+  ],
+  [
+   "λίθος",
+   7,
+   "λίθον"
+  ],
+  [
+   "κατακρίνω",
+   10,
+   "κατέκρινεν"
+  ],
+  [
+   "κατακρίνω",
+   11,
+   "κατακρίνω"
+  ],
+  [
+   "ἁμαρτάνω",
+   11,
+   "ἁμάρτανε"
+  ]
+ ],
+ "works": [
+  [
+   "św. Augustyn",
+   "De adulterinis coniugiis",
+   "O małżeństwach cudzołożnych",
+   "V",
+   "patrystyka"
+  ],
+  [
+   "św. Ambroży",
+   "Epistulae",
+   "Listy",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Ambroży",
+   "Expositio psalmi CXVIII",
+   "Wykład Psalmu 118",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Hieronim",
+   "Dialogi adversus Pelagianos",
+   "Dialogi przeciw pelagianom",
+   "IV/V",
+   "patrystyka"
+  ],
+  [
+   "św. Beda Czcigodny",
+   "In S. Ioannis Evangelium expositio",
+   "Wykład Ewangelii św. Jana",
+   "VIII",
+   "patrystyka"
+  ]
+ ],
+ "themes": [
+  [
+   "miłosierdzie, które nie potępia",
+   "Ani potępienie, ani przyzwolenie: nie potępiam — idź i nie grzesz (8,11); nie posłał Bóg Syna, aby sądził świat (3,17); miłosierdzie Janowe jako trzecia droga między kamieniem a obojętnością."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 7,
+    "vs": 53,
+    "ce": 8,
+    "ve": 11,
+    "title": "Kobieta cudzołożna",
+    "motto": "Nec ego te condemnabo (I ja cię nie potępiam)",
+    "status": "ukonczona",
+    "position": 20
+   },
+   "intro": "Perykopa-sierota i perykopa-perła: opowieść o kobiecie pochwyconej na cudzołóstwie wędrowała po rękopisach Ewangelii, zanim znalazła dom między świętem Namiotów a mową o światłości — w NA28 stoi w podwójnych nawiasach jako tekst nienależący do pierwotnego Jana, a w kanonie Kościoła jako Pismo natchnione i jedna z najczystszych pamiątek Jezusowego stylu. O świcie, w świątyni, uczeni zastawiają pułapkę doskonałą: kobieta, paragraf i pytanie, z którego każde wyjście zdaje się przegraną — miłosierdzie przeciw Mojżeszowi albo kamień przeciw własnej nauce (i przeciw Rzymowi). Jezus pisze palcem po ziemi, po czym jednym zdaniem przenosi proces do wnętrza oskarżycieli: kto z was bez grzechu, niech pierwszy rzuci kamieniem. Wychodzą, od najstarszych. Zostają dwoje — jak powie Augustyn: misera et misericordia, nędzna i Miłosierdzie — i pada wyrok, który nie unieważnia ani prawdy, ani grzesznicy: I ja cię nie potępiam. Idź i odtąd już nie grzesz.",
+   "struktura": "Perykopa jest zbudowana jak proces, który zmienia oskarżonych. Rama (7,53-8,2): rozejście się po domach — i Jezus bez domu, nocujący na Górze Oliwnej (rytm znany z wielkiego tygodnia: Łk 21,37); o świcie świątynia, siadająca postawa nauczyciela, cały lud. Akt oskarżenia (w. 3-6a): kobieta postawiona ἐν μέσῳ — pośrodku, jak eksponat; przywołany paragraf (Mojżesz nakazał takie kamienować) i pytanie-pułapka „ty więc co mówisz?\", którego cel narrator obnaża: wystawiali Go na próbę, aby mieć o co oskarżyć — w istocie sądzeni mają być dwoje: ona za cudzołóstwo, On za odpowiedź. Zwłoka (w. 6b): Jezus schyla się i pisze palcem po ziemi — jedyna wzmianka o piszącym Jezusie w całej Biblii; milczenie, które odbiera scenie tempo linczu. Wyrok pierwszy (w. 7-8): wyprostowany, jedno zdanie — bez grzechu niech pierwszy rzuci kamieniem — i znów pisanie: słowo zostawione, by pracowało samo. Egzekucja odwrócona (w. 9): wychodzą jeden po drugim, od starszych; scena pustoszeje, aż zostaje dwoje: μόνος — i ona, wciąż ἐν μέσῳ, choć środka już nie ma. Wyrok drugi (w. 10-11): pierwsze w całej scenie słowa skierowane DO kobiety (dotąd mówiono tylko O niej): pytanie przywracające podmiotowość (nikt cię nie potępił?), jej pierwsze słowo (Nikt, Panie) i sentencja z dwóch połówek, których nie wolno rozdzielać: „i Ja cię nie potępiam\" — „idź i odtąd już nie grzesz\". Oś kompozycji: potrójny ruch ciała Jezusa (schylony-wyprostowany-schylony-wyprostowany) dzieli scenę jak zasłony; a klamra ἐν μέσῳ (w. 3.9) mierzy przemianę — ta sama kobieta pośrodku: najpierw jako dowód rzeczowy w cudzym procesie, na końcu jako osoba w rozmowie, w której po raz pierwszy ktoś pyta o nią samą.",
+   "blocks": [
+    {
+     "cs": 7,
+     "vs": 53,
+     "ce": 8,
+     "ve": 2,
+     "label": "w. 7,53–8,2",
+     "greek": "⟦Καὶ ἐπορεύθησαν ἕκαστος εἰς τὸν οἶκον αὐτοῦ, Ἰησοῦς δὲ ἐπορεύθη εἰς τὸ ὄρος τῶν ἐλαιῶν. Ὄρθρου δὲ πάλιν παρεγένετο εἰς τὸ ἱερὸν καὶ πᾶς ὁ λαὸς ἤρχετο πρὸς αὐτόν, καὶ καθίσας ἐδίδασκεν αὐτούς.",
+     "transl": "I poszli każdy do swojego domu, Jezus zaś poszedł na Górę Oliwną. A o świcie znów przybył do świątyni i cały lud schodził się do Niego, a On, usiadłszy, nauczał ich.",
+     "units": [
+      [
+       "ἕκαστος εἰς τὸν οἶκον αὐτοῦ, Ἰησοῦς δὲ εἰς τὸ ὄρος τῶν ἐλαιῶν",
+       "każdy do swojego domu, Jezus zaś na Górę Oliwną",
+       "Zdanie przejściowe (7,53) jest małym arcydziełem kontrastu: po dniu sporów każdy poszedł do SWOJEGO domu — Jezus na Górę Oliwną, bo domu nie ma (por. Mt 8,20: Syn Człowieczy nie ma gdzie głowy skłonić); rada rozeszła się do pościeli, Sędzia świata nocował pod drzewami oliwnymi. Rytm nocy na Górze i świtu w świątyni jest dokładnie rytmem ostatniego tygodnia według Łukasza (21,37-38: „dniami nauczał w świątyni, a noce spędzał na górze zwanej Oliwną; i cały lud od rana schodził się do Niego\" — zdanie niemal identyczne słownikowo z naszym w. 2), co jest jednym z argumentów za Łukaszowym pochodzeniem wędrującej perykopy (zob. aparat i sekcja II). Teologicznie rama pracuje na całą scenę: z Góry Oliwnej — góry modlitwy i przyszłej agonii — przychodzi o świcie (ὄρθρου) Ten, który za chwilę będzie sądził sąd; Jego wyroki rodzą się z nocy rozmowy z Ojcem, nie z porannej lektury akt. A postawa siedząca (καθίσας ἐδίδασκεν) to katedra nauczyciela: scena zaczyna się jako zwyczajna lekcja dla „całego ludu\" — zanim wtargnie w nią procesja z żywym kazusem."
+      ]
+     ]
+    },
+    {
+     "cs": 8,
+     "vs": 3,
+     "ce": 8,
+     "ve": 6,
+     "label": "w. 3–6a",
+     "greek": "Ἄγουσιν δὲ οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι γυναῖκα ἐπὶ μοιχείᾳ κατειλημμένην καὶ στήσαντες αὐτὴν ἐν μέσῳ λέγουσιν αὐτῷ· διδάσκαλε, αὕτη ἡ γυνὴ κατείληπται ἐπ᾽ αὐτοφώρῳ μοιχευομένη· ἐν δὲ τῷ νόμῳ ἡμῖν Μωϋσῆς ἐνετείλατο τὰς τοιαύτας λιθάζειν. σὺ οὖν τί λέγεις; τοῦτο δὲ ἔλεγον πειράζοντες αὐτόν, ἵνα ἔχωσιν κατηγορεῖν αὐτοῦ.",
+     "transl": "Przyprowadzają zaś uczeni w Piśmie i faryzeusze kobietę pochwyconą na cudzołóstwie i postawiwszy ją pośrodku, mówią Mu: Nauczycielu, ta kobieta została pochwycona na cudzołóstwie na gorącym uczynku. A w Prawie nakazał nam Mojżesz takie kamienować. Ty więc co mówisz? A mówili to, wystawiając Go na próbę, aby mieli o co Go oskarżyć.",
+     "units": [
+      [
+       "στήσαντες αὐτὴν ἐν μέσῳ",
+       "postawiwszy ją pośrodku",
+       "Scena jest ustawiona jak teatr okrucieństwa: kobietę stawia się ἐν μέσῳ — pośrodku kręgu gapiów i sędziów — nie po to, by ją sądzić (wyrok w ich głowach już zapadł), lecz by jej wstydem zastawić pułapkę na Nauczyciela; jest dowodem rzeczowym w cudzym procesie, mówi się wyłącznie O niej („ta kobieta\", „takie\"), nigdy DO niej. Uderzająca jest przy tym nieobecność strukturalna: cudzołóstwo „na gorącym uczynku\" (ἐπ᾽ αὐτοφώρῳ) ma z definicji dwoje sprawców — a Prawo, na które się powołują, nakazuje śmierć OBOJGA („jeśli kto cudzołoży z żoną bliźniego, śmiercią umrze cudzołożnik i cudzołożnica\" — Kpł 20,10; tak samo Pwt 22,22); gdzie jest mężczyzna? Jego brak zdradza wszystko: albo pozwolono mu uciec, albo — jak podejrzewa wielu — całe „przyłapanie\" było ustawką z jego udziałem; w każdym razie oskarżyciele, wymachując Mojżeszem, już go złamali — połową paragrafu i całą jego intencją. Tak wygląda religijna instrumentalizacja człowieka i Prawa naraz: kobieta jako amunicja, Tora jako łom; a Ewangelia, stawiając ją „pośrodku\", stawia pośrodku każdej wspólnoty pytanie, kogo i do czego używamy, gdy cytujemy przepisy."
+      ],
+      [
+       "Μωϋσῆς ἐνετείλατο ... σὺ οὖν τί λέγεις;",
+       "Mojżesz nakazał ... ty więc co mówisz?",
+       "Pułapka jest skonstruowana z precyzją godną lepszej sprawy — to bliźniaczka pytania o podatek cezarowi (Mk 12,13-17): dylemat, w którym każda odpowiedź wydaje się przegraną. Powie „uwolnić\" — zaprzeczy Mojżeszowi publicznie, w świątyni: koniec autorytetu nauczyciela, gotowy zarzut przed sanhedrynem. Powie „kamienować\" — po pierwsze zaprzeczy sam sobie (przyjacielowi celników i grzesznic — całej swojej nauce i praktyce miłosierdzia); po drugie wejdzie w kompetencje Rzymu, który odebrał Żydom ius gladii, prawo miecza („nam nie wolno nikogo zabijać\" — przyznają ci sami ludzie w 18,31): podżeganie do egzekucji to gotowy donos do prokuratora. Trzecie ostrze jest najciemniejsze: jeśli zmilczy lub odmówi — kobieta może zginąć w tumulcie, a Jego milczenie stanie się współwiną. Narrator nazywa rzecz po imieniu: πειράζοντες — wystawiając na próbę; to słowo kusiciela (por. Mt 4) i słowo wszystkich scen, w których religijność bywa używana jako broń. Odpowiedź Jezusa nie wybierze żadnego z podsuniętych rogów dylematu — bo mądrość Boża nie gra w gry o sumie zerowej: znajdzie trzecie wyjście, które ocali i Prawo, i kobietę, i prawdę — a osądzi jedynie samą pułapkę."
+      ]
+     ]
+    },
+    {
+     "cs": 8,
+     "vs": 6,
+     "ce": 8,
+     "ve": 9,
+     "label": "w. 6b–9",
+     "greek": "ὁ δὲ Ἰησοῦς κάτω κύψας τῷ δακτύλῳ κατέγραφεν εἰς τὴν γῆν. ὡς δὲ ἐπέμενον ἐρωτῶντες αὐτόν, ἀνέκυψεν καὶ εἶπεν αὐτοῖς· ὁ ἀναμάρτητος ὑμῶν πρῶτος ἐπ᾽ αὐτὴν βαλέτω λίθον. καὶ πάλιν κατακύψας ἔγραφεν εἰς τὴν γῆν. οἱ δὲ ἀκούσαντες ἐξήρχοντο εἷς καθ᾽ εἷς ἀρξάμενοι ἀπὸ τῶν πρεσβυτέρων καὶ κατελείφθη μόνος καὶ ἡ γυνὴ ἐν μέσῳ οὖσα.",
+     "transl": "Jezus zaś, schyliwszy się, pisał palcem po ziemi. A gdy nie przestawali Go pytać, wyprostował się i rzekł im: Kto z was jest bez grzechu, niech pierwszy rzuci w nią kamieniem. I znów schyliwszy się, pisał po ziemi. Oni zaś, usłyszawszy, wychodzili jeden po drugim, poczynając od starszych; i pozostał sam — i kobieta, stojąca pośrodku.",
+     "units": [
+      [
+       "τῷ δακτύλῳ κατέγραφεν εἰς τὴν γῆν",
+       "pisał palcem po ziemi",
+       "Jedyny raz w całym Piśmie Jezus pisze — i nikt nie zanotował, co. Ta luka jest od wieków warsztatem interpretacji. Najprostsza: gest zwłoki i dystansu — Jezus nie podejmuje rzuconej piłki, gasi tempo linczu, daje czas (i oskarżycielom na opamiętanie, i sobie na modlitewne milczenie); mędrzec, który nie odpowiada natychmiast, już odpowiada. Głębsze czytają sam gest przez Pisma. Jeremiaszowa nić jest najmocniejsza — i wiąże scenę z miejscem, w które ją wstawiono: „wszyscy, którzy Cię opuszczają, będą zawstydzeni; ODSTĘPUJĄCY ODE MNIE BĘDĄ ZAPISANI NA ZIEMI (בָּאָרֶץ יִכָּתֵבוּ), bo opuścili źródło wody żywej, Pana\" (Jr 17,13) — dopiero co, w wielki dzień święta, Jezus wołał jako źródło wody żywej (7,37-38); teraz pisze po ziemi wobec tych, którzy Źródło opuścili: sam gest jest cytatem-wyrokiem, czytelnym dla znających Proroka. Druga nić: palec — τῷ δακτύλῳ: tablice Synaju były „zapisane palcem Boga\" (Wj 31,18; Pwt 9,10); Ten, którego palec pisał Prawo w kamieniu, pisze teraz w prochu — z którego wzięty jest człowiek (Rdz 2,7; 3,19): kamień trwa i osądza, proch przyjmuje literę i daje się rozwiać — jak Ojcowie mówili: Prawo pisane w kamieniu oskarża, łaska pisze w prochu serca, co da się zetrzeć i napisać na nowo. Trzecia, sądowa: jak w Dn 5 ręka pisząca na ścianie — policzone, zważone — tak tu: pisanie wobec trybunału jest znakiem, że właściwy protokół prowadzi Kto Inny. Ewangelia, nie zdradzając treści, zdradza adres wszystkich hipotez: cokolwiek pisał — pisał dla nich; i późni kopiści to zrozumieli aż nadto dosłownie, dopisując: „wypisywał grzechy każdego z nich\" (zob. aparat)."
+      ],
+      [
+       "ὁ ἀναμάρτητος ὑμῶν πρῶτος ἐπ᾽ αὐτὴν βαλέτω λίθον",
+       "kto z was bez grzechu, niech pierwszy rzuci w nią kamieniem",
+       "Jedno zdanie — i pułapka rozbrojona bez naruszenia ani Prawa, ani miłosierdzia. Jezus nie mówi: nie kamienujcie (nie znosi przepisu); mówi: zacznijcie — od siebie. Sięga przy tym w sam mechanizm Tory: w procedurze skila ręka ŚWIADKÓW miała spaść pierwsza („ręka świadków będzie na nim najpierw, by go uśmiercić, a ręka całego ludu potem\" — Pwt 17,7): prawo celowo czyniło oskarżycieli egzekutorami, by świadectwo ważyło życie świadka; Jezus dokręca tę śrubę o jeden obrót — pierwszy kamień ma rzucić świadek BEZ GRZECHU (ἀναμάρτητος — jedyne wystąpienie tego słowa w NT). Nie znaczy to, że sądzić może tylko bezgrzeszny (to zniosłoby każdy sąd — a Ewangelia sądu nie znosi: 7,24); znaczy, że ZABIJAĆ w imię świętości może tylko święty — i że gorliwość egzekucyjna, która nie przeszła przez własne sumienie, jest przemocą w kostiumie pobożności. Zdanie przenosi proces z rynku do wnętrza: każdy z trzymających kamień staje przed trybunałem, którego nie może przekupić ani zakrzyczeć — przed sobą samym wobec Boga; i to jest jedyny sąd, który tego ranka dochodzi do wyroku. A powtórne schylenie się (w. 8) jest częścią miłosierdzia także dla NICH: Jezus nie patrzy, jak wychodzą — nie robi z ich odwrotu drugiego widowiska; słowo pracuje, twarze mogą pozostać nieoglądane. Odchodzą od starszych — bo najdłużej żyli, więc najwięcej pamiętają; albo, jak chce tradycja, bo najmądrzejsi pierwsi pojęli, że przegrali. Zostaje pusty krąg — pierwsza w Ewangelii egzekucja, z której wszyscy wyszli żywi."
+      ]
+     ]
+    },
+    {
+     "cs": 8,
+     "vs": 10,
+     "ce": 8,
+     "ve": 11,
+     "label": "w. 10–11",
+     "greek": "ἀνακύψας δὲ ὁ Ἰησοῦς εἶπεν αὐτῇ· γύναι, ποῦ εἰσιν; οὐδείς σε κατέκρινεν; ἡ δὲ εἶπεν· οὐδείς, κύριε. εἶπεν δὲ ὁ Ἰησοῦς· οὐδὲ ἐγώ σε κατακρίνω· πορεύου, [καὶ] ἀπὸ τοῦ νῦν μηκέτι ἁμάρτανε.⟧",
+     "transl": "Jezus, wyprostowawszy się, rzekł jej: Kobieto, gdzie oni są? Nikt cię nie potępił? Ona zaś rzekła: Nikt, Panie. Rzekł jej Jezus: I ja cię nie potępiam. Idź, [i] odtąd już nie grzesz.",
+     "units": [
+      [
+       "γύναι, ποῦ εἰσιν; οὐδείς σε κατέκρινεν;",
+       "kobieto, gdzie oni są? nikt cię nie potępił?",
+       "Augustyn ujął finał w dwóch słowach, których nikt nie poprawił: relicti sunt duo, misera et misericordia — zostało dwoje: nędzna i Miłosierdzie (Tract. in Io. 33,5). I dopiero teraz, po raz pierwszy w całej scenie, ktoś mówi DO kobiety, nie O niej — a zwrot γύναι (kobieto) nie jest u Jezusa szorstki: tak zwróci się do własnej Matki w Kanie i pod krzyżem (2,4; 19,26) i do Magdaleny o poranku (20,15); to adres godności, nie protokołu. Pytanie „gdzie oni są?\" jest delikatną ironią zwycięstwa — i terapią: kobieta ma SAMA zobaczyć i wypowiedzieć, że krąg śmierci się rozwiał; jej „Nikt, Panie\" (κύριε — pierwsze i jedyne jej słowo w scenie) jest zarazem stwierdzeniem faktu i mimowolnym początkiem wyznania. Pytanie o potępienie przygotowuje wyrok: skoro odpadli wszyscy uprawnieni do rzucenia kamienia — świadkowie, bez których nie ma sprawy — proces upadł formalnie; ale zaraz okaże się, że ostatni, który mógłby potępić (jedyny ἀναμάρτητος tej sceny!), rezygnuje z prawa, które ma. Sąd nad kobietą kończy się nie umorzeniem z braku dowodów, lecz aktem łaski Tego, który dowodów nie potrzebował."
+      ],
+      [
+       "οὐδὲ ἐγώ σε κατακρίνω· πορεύου, ἀπὸ τοῦ νῦν μηκέτι ἁμάρτανε",
+       "i Ja cię nie potępiam; idź i odtąd już nie grzesz",
+       "Sentencja ma dwie połówki i całe chrześcijaństwo mieści się w ich kolejności oraz nierozdzielności. „I JA cię nie potępiam\" — mówi jedyny, który miał prawo potępić: to nie pobłażliwość (Jezus nigdzie nie mówi „nic się nie stało\" ani „to nie grzech\" — słowo ἁμάρτανε za chwilę nazwie rzecz po imieniu), lecz suwerenny akt darowania, zgodny z misją: „nie posłał Bóg Syna na świat, aby świat osądził, lecz aby świat został przez Niego zbawiony\" (3,17); potępienie przyjdzie — ale nie teraz i nie stąd: godzina sądu tej Ewangelii dokona się na krzyżu, gdzie Bezgrzeszny weźmie kamień świata na siebie. „Idź i ODTĄD (ἀπὸ τοῦ νῦν) już nie grzesz\" — miłosierdzie nie jest amnestią dla grzechu, lecz amnestią dla grzesznika: przebaczenie ustanawia nowe „odtąd\", cezurę, od której życie może być inne; łaska nie obniża poprzeczki — daje siły, których poprzeczka wymaga. Dwie herezje ścinają tę sentencję na pół: rygoryzm bierze „nie grzesz\" bez „nie potępiam\" (i wraca z kamieniami), laksyzm bierze „nie potępiam\" bez „nie grzesz\" (i nazywa to miłosierdziem — a jest to obojętność: nie potępiać kogoś w grzechu, który go niszczy, to nie łaska, lecz porzucenie). Chrystusowa całość jest trzecią drogą i jedyną: prawda bez potępienia, przebaczenie z wezwaniem — spotkały się miłosierdzie i wierność (Ps 85,11), pocałowały się na dziedzińcu świątyni o świcie; a Kościół w konfesjonale nie robi od dwudziestu wieków nic innego, jak powtarza tę scenę: wyznanie — „nie potępiam\" (rozgrzeszenie) — „idź i nie grzesz\" (postanowienie poprawy); kto z tych trzech elementów usuwa którykolwiek, sprawuje inny sakrament niż ten ustanowiony między Miłosierdziem a nędzną."
+      ]
+     ]
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Prawo o cudzołóstwie i procedura kamienowania, pułapka jurysdykcyjna wobec Rzymu, wędrówka perykopy po rękopisach i jej droga do kanonu — konteksty sceny, w której prawo, polityka i miłosierdzie spotykają się o świcie.",
+     "children": [
+      [
+       "Cudzołóstwo w Torze i procedura skila",
+       "Prawo jest jednoznaczne i symetryczne: „jeśli kto cudzołoży z żoną bliźniego, śmiercią umrą cudzołożnik I cudzołożnica\" (Kpł 20,10; Pwt 22,22 — oboje); dla zaręczonej dziewczyny Pwt 22,23-24 precyzuje karę ukamienowania — stąd zapewne kazus sceny (mężatkę tradycja rabiniczna wiązała raczej z uduszeniem; „takie\" z 8,5 sugeruje zaręczoną). Procedura chroniła przed pochopnością całym systemem bezpieczników: co najmniej dwaj naoczni świadkowie zgodni w szczegółach (Pwt 17,6; 19,15), uprzedzenie sprawcy o karalności (hatra'a w prawie rabinicznym), surowe przesłuchania (traktat Sanhedryn), a nade wszystko — ręka świadków pierwsza w egzekucji (Pwt 17,7): kto oskarża, ten zabija osobiście; prawo czyniło z oskarżenia akt najwyższego ryzyka moralnego (fałszywy świadek podlegał karze, którą chciał ściągnąć — Pwt 19,18-19). Na tym tle scena jest podręcznikiem nadużycia: brak drugiego sprawcy (przy uczynku „na gorąco\" fizycznie niemożliwy do przeoczenia — więc wypuszczony lub wspólnik ustawki), brak śladu formalnego procesu, kobieta użyta jako rekwizyt. Jezusowe „kto bez grzechu, niech pierwszy rzuci\" nie jest więc uchyleniem Tory, lecz jej egzekwowaniem w głąb: przywołuje przepis o pierwszej ręce świadka i dodaje mu wymiar, który był jego duszą — świadectwo waży życie świadka; a w epoce, w której sanhedrynowa jurysdykcja gardłowa i tak była zawieszona (zob. następna podsekcja), cała „gorliwość\" oskarżycieli była teatrem na użytek pułapki."
+      ],
+      [
+       "Ius gladii: pułapka jurysdykcyjna",
+       "Drugie dno pułapki jest polityczne: od przekształcenia Judei w prowincję (6 r. po Chr.) prawo miecza — orzekania i wykonywania kary śmierci — należało do namiestnika; sami oskarżyciele wypowiedzą tę zasadę przed Piłatem: „nam nie wolno nikogo zabijać\" (J 18,31; potwierdzenie w tradycji rabinicznej: czterdzieści lat przed zburzeniem świątyni odjęto Izraelowi sądy gardłowe — j.Sanhedrin 1,1; 7,2). Pułapka zamyka się więc z obu stron: „uwolnij\" — jesteś przeciw Mojżeszowi; „kamienuj\" — jesteś przeciw cezarowi (i mamy cię: podżeganie do samosądu). To ta sama konstrukcja, co pytanie o podatek (Mk 12,13-17) — i Jezus rozbraja ją tym samym ruchem: nie wybiera rogu dylematu, lecz przenosi pytanie na płaszczyznę, której pułapka nie przewidziała (tam: obraz i napis cezara — dajcie Bogu, co Boże; tu: sumienie egzekutora). Warto zauważyć, że lincze się zdarzały mimo prawa (Szczepan — Dz 7; próby wobec Jezusa — J 8,59; 10,31): groźba dla kobiety była realna, nie teoretyczna; Jezus gra o życie człowieka, nie o punkty w dyspucie — i dlatego Jego zwłoka (pisanie) oraz słowo ważone są także taktyką ratunkową: ostudzić tłum, zanim poleci pierwszy kamień, którego nikt już nie cofnie."
+      ],
+      [
+       "Perykopa wędrująca: świadectwa i drogi tekstu",
+       "Historia tekstualna tej perykopy jest osobnym wykładem o żywej tradycji (szczegóły w aparacie): nieobecna w najstarszych świadkach greckich (P66 P75 ℵ B i in.), obecna w Kodeksie Bezy (D, V w.) i masie rękopisów bizantyjskich, wędruje po kodeksach jak relikwia szukająca ołtarza — po J 7,36 (ms 225), po J 21,25 (rodzina 1), po Łk 21,38 (rodzina 13 — gdzie pasuje stylistycznie jak ulał), na marginesach z obelosami. Ale historia recepcji jest starsza niż najstarsze kopie: Papiasz (pocz. II w.) znał „opowieść o kobiecie oskarżonej przed Panem o wiele grzechów\" (Euzebiusz, HE III 39,17 — z odesłaniem do Ewangelii Hebrajczyków); syryjska Didaskalia (III w.) przywołuje scenę jako wzór dla biskupów przyjmujących pokutników („uczyńcie jak On z ową, która zgrzeszyła, którą starsi postawili przed Nim\"); Konstytucje Apostolskie ją rozwijają. Łaciński Zachód przyjął perykopę sercem: Ambroży komentuje ją wielokrotnie, Hieronim zaświadcza, że „w wielu kodeksach greckich i łacińskich znajduje się w Ewangelii Jana\" (Adv. Pelag. II 17) i włącza ją do Wulgaty, Augustyn zna ją jako oczywistość — i podaje słynną hipotezę zniknięcia: usunęli ją ludzie małej wiary (lub wrogowie prawdziwej wiary), bojąc się, że „nie grzesz\" bez kamienowania da żonom bezkarność (De adult. coniug. II 7,6) — cenzura z pruderii; nowożytna krytyka odwraca kierunek (tekst raczej dołączył, niż wypadł), ale oba wyjaśnienia zgodne są co do jednego: scena była dla kogoś niewygodna — jak jej Bohater. Sobór Trydencki, kanonizując Wulgatę z perykopą, przesądził jej kanoniczność i natchnienie; NA28 uczciwie drukuje ją w podwójnych nawiasach jako tekst nie-Janowy z pochodzenia — i Kościół nie widzi w tych dwóch zdaniach sprzeczności: krytyka tekstu orzeka o rodowodzie, kanon o autorytecie; perła nie przestaje być perłą przez to, że znaleziono ją poza muszlą."
+      ],
+      [
+       "Kobieta w scenie: od rekwizytu do osoby",
+       "Socjologia sceny jest bezlitosna dla epoki: kobieta pojawia się bez imienia, bez głosu, bez obrońcy — wleczona (ἄγουσιν, jak się prowadzi zwierzę lub więźnia), wystawiona pośrodku męskiego kręgu, zredukowana do paragrafu („takie\"). Podwójny standard był realny: mężczyzna znika z kadru bez konsekwencji, choć Prawo karało oboje — praktyka bywała surowa dla niej, wyrozumiała dla niego (przeciw czemu protestowali i prorocy: Oz 4,14 — „nie będę karał córek waszych, że uprawiają nierząd... bo mężczyźni sami idą z nierządnicami\"). Na tym tle każdy gest Jezusa jest kontrkulturowy w rytmie, nie w deklaracjach: nie ogląda jej wstydu (schylony pisze), nie dyskutuje o niej w trzeciej osobie, a gdy krąg pustoszeje — pierwszy w scenie zwraca się do niej samej, adresem godności (γύναι — jak do Matki), pytaniem, które oddaje jej głos, i wyrokiem, który przywraca przyszłość („odtąd\"). Ewangelie znają całą serię takich scen (jawnogrzesznica u Szymona — Łk 7; Samarytanka — J 4; Magdalena; kobieta skulona — Łk 13): Jezus konsekwentnie odmawia traktowania kobiety jako funkcji cudzego dyskursu — moralnego, rytualnego czy polemicznego. Perykopa cudzołożnicy jest w tej serii sceną graniczną, bo tu stawką było życie; i pozostaje probierzem każdej wspólnoty: poznasz Kościół Chrystusowy po tym, jak traktuje ludzi postawionych „pośrodku\" — czy są kazusem do wygrania, czy osobą do ocalenia."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Spotkanie miłosierdzia z prawdą, sumienie jako pierwszy trybunał, prawo sądzenia w rękach grzeszników i sentencja z dwóch połówek — cztery węzły sceny w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem, cap. VIII, lect. 1.",
+     "children": [
+      [
+       "1. Misericordia et veritas — trzecia droga",
+       "Tomasz streszcza scenę formułą, która stała się klasyką: przeciwnicy zastawili sidła między sprawiedliwością a miłosierdziem (de iustitia et misericordia) — a Chrystus nie ominął żadnej: zachował sprawiedliwość, nie uniewinniając grzechu („już nie grzesz\"), i miłosierdzie, nie potępiając grzesznicy („nie potępiam\"); iustitiam non dimisit, misericordiam non amisit. To jest wzorcowe rozwiązanie pozornej antynomii, w której obie wartości są Boże, a pułapka polega na kazaniu wybierać: fałszywa alternatywa „prawda albo litość\" zakłada, że prawda musi zabijać, a litość kłamać — tymczasem w Bogu „łaska i wierność spotkają się, sprawiedliwość i pokój ucałują\" (Ps 85,11), bo obie są jednym aktem tej samej miłości: prawda jest formą miłosierdzia (nie okłamuje chorego), miłosierdzie — celem prawdy (leczy, nie dobija). Scholastyczna reguła z tej sceny: w konflikcie pozornym dóbr nie wybieraj rogu — szukaj wyższej płaszczyzny, na której oba dobra są zachowane (Jezus znajduje ją w sumieniu egzekutorów); a duszpasterska: każde „albo doktryna, albo człowiek\" jest źle postawionym pytaniem — Chrystus nigdy nie ocalił człowieka kosztem prawdy ani prawdy kosztem człowieka, i kto twierdzi, że dziś się nie da, wyznaje tylko, że nie doszedł do świtu tej sceny."
+      ],
+      [
+       "2. Conscientia — pierwszy trybunał",
+       "„Kto z was bez grzechu...\" przenosi proces do instancji, którą teologia nazywa sumieniem — i Tomasz opisuje jego mechanikę: syndereza (niezniszczalna iskra znajomości pierwszych zasad dobra) oraz conscientia jako akt: zastosowanie wiedzy do własnego czynu (applicatio scientiae ad actum). Słowo Jezusa jest chirurgią na tym właśnie stawie: oskarżyciele mieli wiedzę doskonałą — o Prawie, o grzechu, o karze — zastosowaną wyłącznie do CUDZEGO czynu; jedno zdanie odwraca wektor aplikacji: ta sama wiedza, przyłożona do własnego życia, zmienia trzymających kamienie w podsądnych. Nie jest to relatywizacja winy kobiety (jej grzech pozostaje nazwany), lecz uporządkowanie kolejności trybunałów: zanim osądzisz na zewnątrz, musi odbyć się rozprawa wewnętrzna — „najpierw wyrzuć belkę z oka swego\" (Mt 7,5) nie znosi sądzenia, lecz je uzdatnia. Wymowny jest kierunek exodusu: od starszych — sumienie dojrzewa z pamięcią; młodość bywa zuchwała z braku archiwum, starość wie za dużo o sobie, by rzucać. I jeszcze jedno: oni „usłyszawszy, wychodzili\" — sumienie obudzone nie doprowadziło ich do Jezusa, tylko od Niego; skrucha połowiczna: przyznać się przed sobą i odejść, zamiast przyznać się przed Miłosierdziem i zostać — kobieta, która została (bo nie miała dokąd uciec przed własnym grzechem), otrzymała wyrok łaski; oni, uciekłszy przed wstydem, nie usłyszeli „i ja cię nie potępiam\". Największą przegraną tej sceny nie jest pułapka — jest dwunastu czy dwudziestu ludzi, którzy o krok od przebaczenia wybrali drzwi."
+      ],
+      [
+       "3. Quis iudicat — sędzia bez grzechu, który nie rzucił",
+       "Logika sceny zostawia na placu jednego uprawnionego: jedyny ἀναμάρτητος stoi pośrodku — i właśnie On nie rzuca. Tomasz każe zobaczyć w tym zaniechaniu akt, nie brak: Chrystus miał władzę sądzenia (5,22.27: cały sąd przekazany Synowi) i miał kwalifikację, której zabrakło wszystkim — a wstrzymał wyrok, bo czas Jego pierwszego przyjścia jest czasem zbawiania, nie sądzenia (3,17; 12,47: „nie przyszedłem, aby sądzić świat, ale by świat zbawić\"); sąd nastąpi — w godzinie krzyża (12,31) i w dniu ostatnim — ale między nimi rozpięty jest kairos miłosierdzia, w którym żyjemy. Ta suspensja sądu jest fundamentem chrześcijańskiej kultury prawnej i duchowej naraz: skoro Bezgrzeszny nie rzucił, żaden grzeszny nie ma prawa rzucać w Jego imieniu — co nie znosi sądownictwa (państwo „nie na próżno nosi miecz\" — Rz 13,4; sąd Kościoła nad czynami trwa — 1 Kor 5), lecz odbiera mu roszczenie ostateczności: żaden ludzki wyrok nie jest ostatnim słowem o człowieku, bo ostatnie słowo zarezerwował sobie Ten, który tu powiedział „nie potępiam\". Stąd dwie granice wszelkiej ludzkiej sprawiedliwości: proceduralna pokora (sądzimy czyny, nie serca; z możliwością pomyłki — więc bez kar nieodwracalnych tam, gdzie można ich uniknąć) i eschatologiczna nadzieja (dopóki trwa „odtąd\", żaden człowiek nie jest skończony). Kto sądzi zapominając o obu, zajmuje krzesło, z którego Chrystus wstał, by się schylić."
+      ],
+      [
+       "4. Gratia et praeceptum — kolejność dwóch połówek",
+       "Sentencja końcowa jest w oczach Tomasza miniaturą całej teologii łaski i moralności — pod warunkiem, że czyta się ją w jej własnej kolejności. NAJPIERW „nie potępiam\": darowanie uprzedza poprawę, nie nagradza jej; kobieta nie okazała skruchy, nie obiecała niczego, nie zdążyła nawet poprosić — łaska wyprzedziła wszystko (gratia praeveniens), jak zawsze u Boga, który „pierwszy nas umiłował\" (1 J 4,19; Rz 5,8: gdy byliśmy grzesznikami). POTEM „już nie grzesz\": przykazanie wyrasta z przebaczenia jako jego kształt, nie warunek — imperatyw stoi na indykatywie łaski (cała struktura Pawłowa: jesteście nowym stworzeniem → postępujcie); i dlatego jest wykonalny: „odtąd\" mówi Ten, który swoim słowem sprawia to, co nakazuje — nova vita nie jest poprzeczką rzuconą tonącemu, lecz brzegiem, na który go właśnie wyniesiono. Gratia non tollit praeceptum sed perficit: łaska nie znosi przykazania, lecz je udoskonala — czyni z ciężaru drogę. Odwrócenie kolejności produkuje obie karykatury chrześcijaństwa: moralizm („popraw się, to ci przebaczymy\") — u którego bram kobieta by zginęła, czekając na zasługę; i kwietyzm („przebaczono ci, reszta nieistotna\") — który zostawiłby ją w grzechu, czyli w tym, co ją zabijało wolniej niż kamienie. Konfesjonał, powtarzający tę scenę sakramentalnie, strzeże obu połówek i ich kolejności: rozgrzeszenie realne i darmowe — i pokuta z postanowieniem, realna i konieczna; a kierownictwo duchowe zna regułę praktyczną z tego świtu: człowiek dźwiga „już nie grzesz\" dokładnie w tej mierze, w jakiej najpierw do szpiku kości usłyszał „nie potępiam\"."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "body": "Autorstwo tej perykopy jest zagadką z trzema warstwami — i każda uczy czegoś o Ewangelii. Warstwa stylu: język sceny jest uderzająco Łukaszowy (ὄρθρου — świt: poza tym tylko u Łk i Dz; παραγίνομαι, πᾶς ὁ λαός, καθίσας ἐδίδασκεν, οἱ πρεσβύτεροι, rytm Góry Oliwnej z Łk 21,37-38), a nie-Janowy (γραμματεῖς — uczeni w Piśmie: nigdzie indziej u Jana; brak Janowych spójników i podwójnych amen); stąd stara intuicja rodziny 13, która przechowała scenę po Łk 21,38 — jakby wróciła do domu. Najpewniej mamy przed sobą perłę niezależnej, bardzo starej tradycji o Jezusie (znanej Papiaszowi i Didaskaliom, zanim ustabilizował się poczwórny kanon), która krążyła bez adresu, aż skrybowie — teologowie w rzemiośle kopisty — znaleźli jej miejsce genialnie: między 7,52 a 8,12. Bo warstwa druga to redakcyjna celność wstawki: scena ilustruje w narracji dokładnie to, co sąsiedztwo mówi w dyskursie — „nie sądźcie z pozoru, sądźcie sprawiedliwie\" (7,24), „czy nasze Prawo sądzi, zanim wysłucha?\" (7,51 — tu jedyny raz ktoś WYSŁUCHAŁ oskarżoną... milczeniem), „wy sądzicie według ciała, ja nie sądzę nikogo\" (8,15 — następne zdanie po naszej perykopie!), „kto z was udowodni mi grzech?\" (8,46 — ἀναμάρτητος w praktyce); wstawiona kartka komentuje księgę lepiej, niż zrobiłby to traktat. Warstwa trzecia: autentyczność rzeczy samej. Krytyka historyczna, tak wstrzemięźliwa wobec rodowodu tekstu, jest niemal jednomyślna co do rodowodu sceny: to brzmi jak Jezus — bezkompromisowość wobec grzechu połączona z bezwarunkowością wobec grzesznika jest Jego niepodrabialną sygnaturą (kryterium spójności z Łk 7,36-50; 15; 19,1-10), a wspólnota raczej łagodziła tę śmiałość (opory przed sceną!), niż ją wymyślała (kryterium zakłopotania). Tak więc autor ludzki tej perykopy to w istocie trzech autorów: nieznany tradent, który zapamiętał; skryba, który znalazł miejsce; i Kościół, który rozpoznał w tekście głos swojego Pana — i właśnie ta trójwarstwowość czyni z perykopy podręcznikowy przykład, jak Duch pisze Ewangelię rękami wielu.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "body": "Pierwsze słowo Ducha w tej perykopie dotyczy jej samej: Bóg pisze prosto nawet na krzywych liniach tradycji tekstualnej — opowieść bez metryki, podrzucona pod różne drzwi, została przez Kościół rozpoznana jako Jego słowo; kanoniczność tej sceny jest aktem tego samego Ducha, który prowadził rękę tradentów i zmysł wiary wspólnoty (Sobór Trydencki tylko przypieczętował rozpoznanie), i lekcją o naturze natchnienia: nie metryka czyni tekst Pismem, lecz Duch i Kościół. Dalsze słowa idą do trzech adresatów sceny. Do trzymających kamienie — czyli do każdego, kto właśnie ma rację: sprawdź kolejność trybunałów; wiedza o grzechu przyłożona wyłącznie do cudzego życia jest amunicją, przyłożona najpierw do własnego — mądrością; i pamiętaj, że jedyny, który miał prawo rzucić, nie rzucił: odtąd każdy rzucony kamień jest uzurpacją. Do postawionych pośrodku — upokorzonych, zredukowanych do paragrafu, użytych w cudzych wojnach: Jezus nie ogląda twojego wstydu; czeka, aż krąg się rozejdzie, i mówi do ciebie, nie o tobie — a Jego wyrok ma zawsze te dwie połówki i tę kolejność: najpierw „nie potępiam\" (usłysz to do dna — bez tego druga połówka cię przygniecie), potem „odtąd nie grzesz\" (usłysz i to — bez tego pierwsza połówka cię uśpi); łaska otwiera przyszłość, nie muzeum przeszłości. I do Kościoła jako takiego: ta scena jest twoim zwierciadłem instytucjonalnym — będziesz kuszony po obu stronach placu: by być strażnikiem kamieni (prawowierność bez miłosierdzia) albo rozmywaczem „odtąd\" (miłosierdzie bez prawdy); twoim wzorem jest Ten, który jako jedyny utrzymał obie połówki w jednym zdaniu — i sprawuj tak spowiedź, głoszenie i opinie: żeby nikt nie odszedł ani ukamienowany, ani utwierdzony w tym, co go zabija.",
+     "children": []
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "Kpł 20,10; Pwt 22,22-24 → w. 4-5",
+       "Podstawa prawna zarzutu: śmierć dla obojga cudzołożnych (Kpł 20,10; Pwt 22,22); dla zaręczonej — ukamienowanie obojga u bramy miasta (Pwt 22,23-24). Symetria kary jest kluczem lektury: cytujący paragraf oskarżyciele sami go łamią, przyprowadzając połowę pary — Prawo w ich rękach jest już nie normą, lecz narzędziem; scena uczy odróżniać wierność Prawu od posługiwania się nim."
+      ],
+      [
+       "Pwt 17,6-7; 19,15-19 → w. 7",
+       "Ręka świadków pierwsza: procedura czyni oskarżycieli egzekutorami, by świadectwo kosztowało; fałszywy świadek ponosi karę, którą zamierzał ściągnąć. Jezusowe słowo o pierwszym kamieniu jest egzekwowaniem tego przepisu w głąb — do sumienia; nie nowa łagodność przeciw staremu rygorowi, lecz stary rygor domyślany do końca: jeśli świadczysz na śmierć, ważysz własną duszę."
+      ],
+      [
+       "Jr 17,13 → w. 6.8",
+       "„Odstępujący ode mnie będą zapisani na ziemi, bo opuścili źródło wody żywej\" — najmocniejszy klucz do pisania po ziemi, wiążący scenę z miejscem wstawienia: dopiero co Jezus ogłosił się źródłem wody żywej (7,37-38); teraz — wobec tych, którzy Źródło opuścili — wykonuje gest Jeremiaszowego wyroku. Nie trzeba znać liter na piasku: sam gest jest cytatem; a proch, w który wpisano imiona, rozwieje się jak ich proces."
+      ],
+      [
+       "Wj 31,18; Dn 5,5.24-28 → w. 6",
+       "Dwa Boże pisania: palec Boży na tablicach Synaju (prawo w kamieniu) i ręka pisząca wyrok na ścianie Baltazara (mane, tekel, fares). Ten sam palec pisze teraz w prochu dziedzińca: wobec trybunału, który sądzi bez mandatu, protokół prowadzi Ktoś wyższy; a materiał pisma — proch, nie kamień — jest sam w sobie ewangelią: co Bóg pisze o grzeszniku w prochu, daje się zetrzeć; kamienne zostają tylko przykazania, nie wyroki."
+      ],
+      [
+       "Dn 13 (Zuzanna) → całość",
+       "Lustrzana historia: piękna Zuzanna fałszywie oskarżona o cudzołóstwo przez dwóch starców-sędziów, ocalona przez młodego Daniela, który żąda ponownego przesłuchania — tam niewinna uratowana przez proces, tu winna uratowana przez łaskę; tam starsi-oskarżyciele straceni, tu odchodzą osądzeni tylko we własnym sumieniu. Para scen wyznacza dwa skrzydła Bożej sprawiedliwości: przeciw fałszywemu oskarżeniu — dochodzenie prawdy; wobec prawdziwej winy — miłosierdzie, które nie niszczy. Kościół czytał obie razem (w sztuce i liturgii): sędziowie ludzcy mają się uczyć od Daniela, Sędzia Boży pokazał się w Jezusie."
+      ],
+      [
+       "Oz 4,14; Mt 7,1-5; Rz 2,1.22 → w. 7-9",
+       "Trzy teksty przeciw podwójnej miarze: Ozeaszowy Bóg odmawia karania córek za nierząd, póki ojcowie „sami idą z nierządnicami\"; Jezusowa belka i drzazga; Pawłowe „ty, który sądzisz drugiego, siebie potępiasz... mówisz: nie cudzołóż — a cudzołożysz?\". Scena z dziedzińca jest tą nauką w akcji: nie relatywizuje grzechu kobiety — demaskuje sąd, który własnej miary nie przyłożył do siebie; „bez grzechu\" z w. 7 celuje być może wprost w grzechy tej samej kategorii (por. Mt 5,28: cudzołóstwo w sercu), co tłumaczyłoby tempo exodusu starszych."
+      ],
+      [
+       "Łk 7,36-50; 15,1-32; 19,1-10 → w. 10-11",
+       "Konstelacja Łukaszowa, w której scena świeci najjaśniej (i stylistycznie, i duchowo): jawnogrzesznica u Szymona (kontrast sądzącego gospodarza i przebaczonego wiele), zgubiona owca-drachma-syn, Zacheusz („dziś zbawienie stało się udziałem tego domu\"). Wspólny rys: przebaczenie WYPRZEDZA poprawę i ją stwarza — miłość przebaczona rodzi miłość (Łk 7,47), dom Zacheusza zmienia się PO przyjęciu Gościa. „I ja cię nie potępiam — idź i nie grzesz\" jest najkrótszym streszczeniem tej ekonomii; kto chce wiedzieć, co kobieta zrobiła ze swoim „odtąd\", niech czyta te trzy rozdziały Łukasza: tak wygląda życie po świcie."
+      ],
+      [
+       "J 3,17; 8,15.46; 12,47 → w. 11",
+       "Sieć Janowa wokół miejsca wstawienia: „nie posłał Bóg Syna, aby świat osądził\"; „wy sądzicie według ciała — ja nie sądzę nikogo\" (następne zdanie Ewangelii po perykopie!); „kto z was udowodni mi grzech?\" (jedyny anamartetos mówi to za rozdział); „nie przyszedłem, aby sądzić świat, ale by świat zbawić\". Skryba, który wstawił scenę właśnie tu, był egzegetą: dał czytelnikowi narracyjną ilustrację całej Janowej teologii sądu zawieszonego — sąd istnieje (i nadejdzie), ale godzina obecna jest godziną ocalania; kto tego nie rozumie w traktacie, zrozumie w historii kobiety, której jedyny Uprawniony nie potępił."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Liturgia",
+       "Kościół rzymski czyta perykopę w samym sercu Wielkiego Postu: 5. Niedziela roku C (J 8,1-11) — tuż przed Niedzielą Palmową, jako ostatnie słowo o miłosierdziu przed Męką (w parze z Iz 43: „nie wspominajcie rzeczy minionych — oto czynię rzecz nową\" i Pawłowym „zapominając o tym, co za mną\"); oraz w poniedziałek 5. tygodnia Postu (w roku C zastępowany Zuzanną z Dn 13 — liturgia sama zestawia lustrzane siostry!). Starożytność znała scenę w praktyce pokutnej: Didaskalia każą biskupom przyjmować nawróconych „jak On uczynił z tą, którą postawili przed Nim starsi\" — perykopa była instrukcją obsługi władzy kluczy, zanim wróciła do lekcjonarzy; a jej rezerwa wobec publicznego zawstydzania grzesznika współbrzmi z rozwojem spowiedzi od publicznej ku usznej. W pobożności współczesnej scena stała się jedną z ikon Bożego Miłosierdzia (Jan Paweł II w Dives in misericordia i katechezach; Franciszek uczynił z niej motto pontyfikatu — „miłosierdzie i nędza spotkały się\": misera et misericordia dało tytuł listowi Misericordia et misera na zakończenie Roku Miłosierdzia 2016, poświęconemu wprost tej perykopie). W sztuce: od miniatur karolińskich (Codex Egberti) przez Bruegla (1565: Jezus pisze po niderlandzku „kto bez grzechu...\"), Rembrandta (1644: złoty mrok świątyni), Poussina, po niezliczone „Chrystus i cudzołożnica\" — malarze ukochali moment pisania: jedyną scenę, w której Słowo pisze, i nikt nie wie co; a pusty krąg po odejściu oskarżycieli stał się w kaznodziejstwie obrazem konfesjonału: miejsca, gdzie zostaje dwoje."
+      ],
+      [
+       "Recepcja teologiczna i duchowość",
+       "Teologicznie perykopa pracowała na trzech placach budowy. Nauka o pokucie: przeciw rygoryzmowi (nowacjanie, donatyści odmawiający pojednania upadłym) Kościół wskazywał na „i ja cię nie potępiam\" jako kartę władzy odpuszczania po chrzcie; przeciw laksyzmowi — na „już nie grzesz\" jako konstytutywny element rozgrzeszenia (postanowienie poprawy); Trydent cytuje logikę obu połówek w nauce o sakramencie pokuty. Teologia miłosierdzia: od Augustynowego misera et misericordia przez Tomaszowe iustitiam non dimisit po współczesne magisterium — scena jest ulubionym dowodem, że miłosierdzie nie jest zawieszeniem prawdy, lecz jej najwyższym użyciem; „nie potępiam\" i „nie grzesz\" cytowane są razem lub wcale. Kultura prawna: „kto bez grzechu, niech pierwszy rzuci kamieniem\" wszedł do sumienia cywilizacji jak mało który werset — jako hamulec samosądu, argument w sporach o karę śmierć i o publiczne pręgierze każdej epoki (dziś: cyfrowe kamienowanie — scena bywa przywoływana jako pierwszy tekst o linczu medialnym: anonimowy tłum, wystawiony wstyd, brak procedury, znikający współwinni); przy czym kaznodzieje uczciwie przypominają obie strony recepcji — werset bywa też nadużywany jako pałka przeciw wszelkiemu osądowi moralnemu, czego scena nie uczy (Jezus nazywa grzech grzechem). W duchowości wreszcie: „idź i odtąd już nie grzesz\" stało się formułą nowego początku — od katechumenatu po programy wychodzenia z nałogów; a pytanie „gdzie są twoi oskarżyciele?\" — pytaniem kierownictwa duchowego do dusz zamęczonych skrupułami: krąg dawno pusty, a ty wciąż stoisz pośrodku; usłysz wreszcie Tego, który został."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Katena zachodnia — Chryzostom i Cyryl milczą, bo ich egzemplarze Jana perykopy nie zawierały; przechował ją i rozkochał się w niej łaciński Zachód: misera et misericordia i hipoteza usunięcia (Augustyn), sędzia, który sam sądzi się pierwszy, i pisanie po ziemi (Ambroży), świadectwo kodeksów (Hieronim), palec Boży i proch serca (Beda).",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Jeśli zebrać wszystko w jedno zdanie: o świcie, w świątyni, religia użyta jako pułapka postawiła pośrodku człowieka zredukowanego do paragrafu — a Jezus, nie łamiąc ani Prawa, ani miłosierdzia, przeniósł proces do sumień oskarżycieli jednym zdaniem o pierwszym kamieniu, przeczekał w milczeniu pisania ich odwrót, i wobec ostatniej pozostałej — tej, o którą w całej sprawie chodziło najmniej — wypowiedział wyrok, na który nie zdobyłby się żaden trybunał świata: I ja cię nie potępiam; idź i odtąd już nie grzesz. Czytelnik zabiera z tej sceny trzy rzeczy nie do rozdzielenia: kolejność trybunałów (własne sumienie przed cudzym grzechem), kolejność połówek (najpierw „nie potępiam\", potem „nie grzesz\" — i biada temu, kto którąś odetnie) i kolejność osób (człowiek postawiony pośrodku jest osobą do ocalenia, nie kazusem do wygrania). A ponieważ perykopa sama była postawiona pośrodku — bez metryki, podejrzewana, przestawiana po kodeksach — jej losy są jej ostatnią lekcją: Kościół rozpoznał w niej głos swego Pana i nie pozwolił jej zginąć; bo po tym głosie — który nie potępia i nie pobłaża — poznaje się Go bezbłędnie, w tekście tak samo jak w życiu.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Nota warsztatowa: tekst grecki w brzmieniu NA28, gdzie perykopa 7,53-8,11 ujęta jest w podwójne nawiasy ⟦⟧ jako tekst przekazany w tradycji, lecz nienależący do pierwotnej Ewangelii Janowej (pełna dyskusja w aparacie); kanoniczność i natchnienie perykopy, przesądzone praktyką Kościoła i Soborem Trydenckim, nie są przez ten osąd krytyczny naruszone. Werset przejściowy 7,53 przechowano w tekście pierwszego bloku (format danych trzyma jeden rozdział wersetów na plik). Przekłady polskie robocze (własne, dosłowne). Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład z Biblią Tysiąclecia i Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible, appendix o perykopie), C. K. Barrett, R. Schnackenburg (ekskurs), a po polsku S. Mędala; do historii tekstu — B. M. Metzger, A Textual Commentary, ad loc.; z klasyki — św. Augustyn (Tract. in Io. 33; De adulterinis coniugiis II 7), św. Ambroży (Ep. 68 [26]; Expositio psalmi CXVIII 8,25-30), św. Hieronim (Adv. Pelagianos II 17), św. Beda (In Io. expositio, ad loc.) i św. Tomasz (Super Ioannem, cap. VIII, lect. 1). Chryzostom i Cyryl Aleksandryjski perykopy nie komentują — ich tekst Jana jej nie zawierał.*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Kpł",
+     20,
+     10,
+     20,
+     10,
+     "Kpł 20,10",
+     "tlo",
+     "śmiercią umrą cudzołożnik i cudzołożnica — symetria kary, którą oskarżyciele złamali"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pwt",
+     22,
+     22,
+     22,
+     24,
+     "Pwt 22,22-24",
+     "tlo",
+     "ukamienowanie obojga u bramy — podstawa prawna zarzutu z 8,5"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pwt",
+     17,
+     6,
+     17,
+     7,
+     "Pwt 17,6-7",
+     "tlo",
+     "ręka świadków pierwsza — bezpiecznik procedury uruchomiony przez słowo o pierwszym kamieniu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Jr",
+     17,
+     13,
+     17,
+     13,
+     "Jr 17,13",
+     "typologia",
+     "odstępujący ode mnie będą zapisani na ziemi, bo opuścili źródło wody żywej — klucz pisania po ziemi"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Wj",
+     31,
+     18,
+     31,
+     18,
+     "Wj 31,18",
+     "typologia",
+     "tablice zapisane palcem Boga — ten sam palec pisze teraz w prochu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Dn",
+     5,
+     5,
+     5,
+     28,
+     "Dn 5,5.24-28",
+     "typologia",
+     "ręka pisząca wyrok na ścianie — pisanie wobec trybunału bez mandatu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Dn",
+     13,
+     1,
+     13,
+     64,
+     "Dn 13 (Zuzanna)",
+     "paralela",
+     "fałszywie oskarżona ocalona przez proces — lustrzana siostra winnej ocalonej przez łaskę"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Oz",
+     4,
+     14,
+     4,
+     14,
+     "Oz 4,14",
+     "tlo",
+     "nie będę karał córek waszych... bo mężczyźni sami idą z nierządnicami — prorocki protest przeciw podwójnej mierze"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     85,
+     11,
+     85,
+     11,
+     "Ps 85,11",
+     "typologia",
+     "łaska i wierność spotkają się — formuła teologiczna sentencji z 8,11"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     7,
+     1,
+     7,
+     5,
+     "Mt 7,1-5",
+     "paralela",
+     "belka i drzazga — kolejność trybunałów; nie zakaz sądu, lecz jego uzdatnienie"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Rz",
+     2,
+     1,
+     2,
+     22,
+     "Rz 2,1.22",
+     "paralela",
+     "ty, który sądzisz drugiego, siebie potępiasz — Pawłowy komentarz do exodusu starszych"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Łk",
+     7,
+     36,
+     7,
+     50,
+     "Łk 7,36-50",
+     "paralela",
+     "jawnogrzesznica u Szymona — konstelacja Łukaszowa przebaczenia wyprzedzającego poprawę"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     3,
+     17,
+     3,
+     17,
+     "J 3,17",
+     "rozwiniecie",
+     "nie posłał Bóg Syna, aby świat osądził — teologia sądu zawieszonego, którą scena ilustruje"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     8,
+     15,
+     8,
+     15,
+     "J 8,15",
+     "rozwiniecie",
+     "wy sądzicie według ciała, ja nie sądzę nikogo — następne zdanie Ewangelii po perykopie"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     8,
+     46,
+     8,
+     46,
+     "J 8,46",
+     "rozwiniecie",
+     "kto z was udowodni mi grzech? — jedyny anamartetos sceny mówi to za rozdział"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "J",
+     18,
+     31,
+     18,
+     31,
+     "J 18,31",
+     "tlo",
+     "nam nie wolno nikogo zabijać — ius gladii Rzymu: polityczne ostrze pułapki"
+    ],
+    [
+     [
+      "unit",
+      "w. 10–11",
+      1
+     ],
+     "1 J",
+     4,
+     19,
+     4,
+     19,
+     "1 J 4,19",
+     "rozwiniecie",
+     "my miłujemy, bo Bóg pierwszy nas umiłował — gratia praeveniens sentencji"
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. VIII, lect. 1",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Iustitiam non dimisit, misericordiam non amisit — wykład trzeciej drogi między rygoryzmem a pobłażaniem.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, appendix ad 7,53-8,11",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Status tekstualny perykopy, styl Łukaszowy, świadectwa Papiasza i Didaskaliów, celność miejsca wstawienia.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "C. K. Barrett",
+     "The Gospel According to St John, ad loc.",
+     [
+      "section",
+      "I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
+     ],
+     "Filologia sceny: anamartetos, ep autophoro, słownictwo nie-Janowe.",
+     "The Gospel According to St John"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana I, ad loc.",
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Polskie omówienie procedury świadków, tła Jr 17,13 i teologii miłosierdzia perykopy.",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 6b–9",
+     "św. Ambroży",
+     "Epistulae",
+     "Ep. 68 (26) do Studiusza",
+     "List do Studiusza — chrześcijanina sprawującego urząd sędziowski, pytającego, czy wolno mu skazywać na śmierć — Ambroży buduje wokół naszej sceny: oto wzór dla każdego, kto sądzi. Chrystus nie zniósł prawa — pochylił głowę, aby najpierw zajrzeć w sumienia sądzących; kto ma wydać wyrok na cudzy grzech, niech pierwej osądzi siebie, i niech się nie spieszy: sędzia, który nigdy nie zadrżał nad własnym aktem oskarżenia, jest okrutnikiem, nie stróżem sprawiedliwości. Biskup Mediolanu nie odbiera władzy miecza — odbiera jej pewność siebie: skazujesz? — wolno ci może wedle prawa; ale spójrz na Mistrza, który mając prawo, wybrał nawrócenie grzesznika zamiast jego krwi, bo woli Bóg nawrócenie niż śmierć grzesznika. I zostawia Studiuszowi miarę, którą Kościół powtarza sędziom wszystkich epok: powściągliwość w karaniu jest u chrześcijanina nie słabością prawa, lecz naśladowaniem Sędziego, który swój najsłuszniejszy wyrok odroczył — aby winna zdążyła stać się inna niż jej wina."
+    ],
+    [
+     "w. 6b–9",
+     "św. Ambroży",
+     "Expositio psalmi CXVIII",
+     "Exp. ps. CXVIII 8,25-30",
+     "W wykładzie Psalmu 118 Ambroży zatrzymuje się nad pisaniem po ziemi i czyta je podwójnym kluczem. Pierwszy jest Jeremiaszowy: odstępujący od Pana „na ziemi będą zapisani\" — Chrystus, pisząc w prochu, wykonywał wyrok proroka na oskarżycielach, którzy opuścili źródło wody żywej; nie musiał czytać na głos: sumienie każdego czytało swoje. Drugi klucz jest antropologiczny: ziemia, w którą pisał, to człowiek — z prochu wzięty; Prawo pisano na kamieniu, dla twardych — łaska pisze w prochu serca, który przyjmuje literę miękko i daje się przepisać. Gdy więc pytasz, co pisał Pan — odpowiada Ambroży — pytasz źle: pytaj, GDZIE pisał; pisał tam, gdzie od początku chciał pisać Bóg: nie na tablicach, lecz w człowieku (por. Jr 31,33). I ostrożnie, jak przystało na mistrza pokuty, dodaje trzecią myśl: pochylenie Pana jest wzorem dla spowiednika — słuchając cudzych grzechów, spuszczaj oczy; wstyd grzesznika jest święty i nie wolno się nim karmić; Bóg, który wie wszystko, patrzył w ziemię — abyśmy my, którzy nie wiemy nic, nie ważyli się patrzeć z góry."
+    ],
+    [
+     "w. 10–11",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 33,4-8",
+     "Augustynowi zawdzięcza scena swoją najsłynniejszą formułę: relicti sunt duo — misera et misericordia; zostało dwoje: nędzna i Miłosierdzie. Wykład idzie za nią jak melodia. Odeszli wszyscy, którzy przyszli sądzić, bo usłyszeli nie zakaz sądu, lecz jego cenę: niech sądzi, kto sam nie potrzebuje litości — a taki się nie znalazł; został więc tylko Ten, który litości nie potrzebował: jedyny bez grzechu. I tu Augustyn każe wstrzymać oddech: teraz dopiero mogła zadrżeć — została sam na sam z Tym, który MÓGŁ rzucić. A On rzekł: „i ja cię nie potępiam\" — czego się bałaś, nędzo? Tego, który przyszedł nie sądzić, lecz szukać zgubionego? Lecz zaraz Augustyn zamyka drogę nadużyciu: Pan nie powiedział „idź i grzesz dalej\" — potępił GRZECH, nie człowieka (damnavit peccatum, non hominem); gdyby aprobował winę, powiedziałby: idź, żyj jak chcesz — ja cię wybronię. Nie tak: „odtąd już nie grzesz\" — kocha grzesznika i ściga grzech, przebacza, co się stało, i strzeże, co się stać może. Ergo, Panie: ani z tymi, którzy kamienują, ani z tymi, którzy przyzwalają — z Tobą, który przebaczasz i przemieniasz; bo tylko ta dwójnia jest miłosierdziem: litość bez przemiany to wzgarda w czułym przebraniu."
+    ],
+    [
+     "w. 10–11",
+     "św. Augustyn",
+     "De adulterinis coniugiis",
+     "De adult. coniug. II 7,6",
+     "W traktacie o małżeństwach cudzołożnych Augustyn odnotowuje rzecz, która mówi więcej o czytelnikach Ewangelii niż o niej samej: niektórzy małej wiary — lub raczej wrogowie prawdziwej wiary — usunęli z swoich kodeksów historię o cudzołożnicy, lękając się, jakoby ich żony, słysząc „idź i odtąd nie grzesz\", otrzymały bezkarność grzechu (quasi permissionem peccandi). Jakby Ten, który rzekł „już nie grzesz\", grzech pochwalił! — oburza się Augustyn: usunęli lekarstwo, bo bali się, że chore na nie liczą; ocenzurowali Miłosierdzie z ostrożności procesowej. Świadectwo jest bezcenne podwójnie: dokumentuje, że w IV/V wieku perykopy w wielu kodeksach brakowało (co uczciwie potwierdza dzisiejszą krytykę tekstu) — i wskazuje, jak łatwo wspólnota religijna zamienia się w komitet ochrony surowości przed Ewangelią. Hipoteza pruderii nie wyjaśnia dziś rodowodu tekstu — wyjaśnia za to jego recepcję: ta scena zawsze była komuś nie na rękę; i Augustynowy morał zostaje: kto boi się, że przebaczenie rozzuchwali, ten nie zna ani przebaczenia, ani ludzi — najzuchwalsi wobec grzechu są ci, których nigdy nie ogarnęło „nie potępiam\"."
+    ],
+    [
+     "w. 6b–9",
+     "św. Hieronim",
+     "Dialogi adversus Pelagianos",
+     "Adv. Pelag. II 17",
+     "Hieronim — tłumacz, który perykopę wprowadził do Wulgaty — powołuje się na nią w sporze z pelagianami i przy okazji zostawia świadectwo tekstualne pierwszej wagi: „w Ewangelii według Jana, w wielu kodeksach greckich i łacińskich (in multis et Graecis et Latinis codicibus), znajduje się historia o cudzołożnej kobiecie, oskarżonej przed Panem\". Zdanie krótkie, a niesie trzy rzeczy: że około roku 415 tekst stał już w licznych rękopisach OBU języków (więc nie jest łacińskim wynalazkiem), że stał w Janie (nie w Łukaszu), i że uczony, który znał biblioteki Wschodu i Zachodu jak nikt współczesny, uznał go za godny kanonu swojego przekładu — decyzja, która na tysiąc lat przesądziła los perykopy na Zachodzie. Kontekst antypelagiański dodaje smaku teologicznego: Hieronim przywołuje scenę, dowodząc, że nikt nie jest bez grzechu — ho anamartetos z 8,7 służy mu za tekst koronny przeciw pelagiańskiej doskonałości: jeśli mistrzowie Izraela musieli odejść od najstarszych, to i mnich twierdzący, że nie grzeszy, niech odłoży swój kamień. Tak perykopa, sama oskarżana o wątpliwy rodowód, została świadkiem w procesie o łaskę — i zeznała bezbłędnie."
+    ],
+    [
+     "w. 7,53–8,2",
+     "św. Beda Czcigodny",
+     "In S. Ioannis Evangelium expositio",
+     "In Io. exp., ad 8,1-11",
+     "Beda, dziedzic i porządkowacz patrystycznej lektury, splata w swoim wykładzie nici poprzedników w jeden wzór. Pisanie palcem czyta przez Wj 31,18: palec Boży, który wyrył Prawo w kamieniu, pisze teraz w ziemi — bo przyszedł czas pisania prawa nie na tablicach, lecz w sercach z prochu (Jr 31,33; 2 Kor 3,3); schylenie się Pana jest figurą zniżenia (condescensio): Bóg pochyla się ku ziemi naszej natury, by w niej pisać. W dwukrotnym pisaniu widzi dwa Testamenty — jedno przykazanie miłości pisane dwakroć; w odejściu oskarżycieli „poczynając od starszych\" — prawdę o sumieniu, które tym głośniej mówi, im dłużej żyło. A sentencję końcową wykłada z celną równowagą mnicha: Pan nie rzekł najpierw „nie grzesz\", potem „nie potępiam\" — kolejność jest lekarstwem: najpierw uwolnił od śmierci, potem od grzechu; kto odwraca porządek, żąda zdrowia przed podaniem leku. Perykopa — kończy Beda — jest dla Kościoła zwierciadłem podwójnym: w kobiecie niech się przejrzy każdy grzesznik, by nie rozpaczał; w odchodzących — każdy sprawiedliwy, by nie ufał sobie; a w Tym, który został — sędziowie, spowiednicy i wszyscy, którym powierzono cudze winy: sądzić będziemy dobrze tylko pochyleni."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "5. Niedziela Wielkiego Postu, rok C",
+     "J 8,1-11",
+     "Ostatnie słowo o miłosierdziu przed Niedzielą Palmową — z Iz 43 (oto czynię rzecz nową) i Flp 3 jako ramą nowego początku."
+    ],
+    [
+     "rzymski",
+     "Poniedziałek V tygodnia Wielkiego Postu",
+     "J 8,1-11 (lata A i B; w roku C: J 8,12-20)",
+     "W parze z pierwszym czytaniem o Zuzannie (Dn 13) — liturgia zestawia lustrzane siostry: niewinną ocaloną przez proces i winną ocaloną przez łaskę."
+    ],
+    [
+     "rzymski",
+     "Rok Miłosierdzia i list Misericordia et misera (2016)",
+     "J 8,1-11 (motyw przewodni)",
+     "Augustynowe misera et misericordia jako tytuł i program: perykopa ogłoszona syntezą Ewangelii miłosierdzia."
+    ],
+    [
+     "rzymski",
+     "Tradycja pokutna (Didaskalia Apostolskie II 24)",
+     "J 8,3-11 (wzór)",
+     "Biskupi wezwani przyjmować pokutników, jak On uczynił z tą, którą postawili przed Nim starsi — perykopa jako instrukcja władzy kluczy."
+    ]
+   ],
+   "textual": [
+    [
+     1,
+     "status perykopy 7,53-8,11 (podwójne nawiasy NA28)",
+     "autentycznosc",
+     "Perykopy brak w najstarszych i najlepszych świadkach: P66 P75 ℵ B (także A i C wedle rachuby stron — karty zaginione, lecz miejsca za mało), L N T W Θ Ψ 33 565 1241, w starosyryjskim, sahidzkim, części starołacińskich i ormiańskich; Diatessaron jej nie zna, Orygenes, Chryzostom i Cyryl komentują 7,52 → 8,12 bez śladu sceny. Obecna: D (Kodeks Bezy), rodzina bizantyjska (stąd Textus Receptus), część starołacińskich, Wulgata. Tekst wędruje: po J 7,36 (ms 225), po J 21,25 (f1), po Łk 21,38 (f13), na marginesach z obelosami; odmian wewnętrznych mnóstwo (trzy główne recenzje).",
+     "Zewnętrznie sprawa jest jednoznaczna — i NA28 uczciwie ujmuje tekst w podwójne nawiasy jako niepochodzący od czwartego ewangelisty; styl (Łukaszowy) i szwy kontekstu to potwierdzają. Ale historia sceny jest starsza niż jej rękopisy: Papiasz zna „kobietę oskarżoną przed Panem o wiele grzechów\" (Euzebiusz, HE III 39,17), Didaskalia (III w.) czynią z niej wzór pokutny, Hieronim znajduje ją „w wielu kodeksach greckich i łacińskich\", Augustyn podejrzewa usunięcie z pruderii (De adult. coniug. II 7,6). Rozstrzygnięcie Kościoła — Wulgata, praktyka liturgiczna, Trydent — przesądziło kanoniczność i natchnienie niezależnie od rodowodu literackiego: krytyka orzeka o metryce, kanon o autorytecie. Perykopa jest więc podwójną lekcją: rzetelności (nie udawać, że problemu nie ma) i wiary w Ducha prowadzącego Kościół (który perłę bez muszli rozpoznał i oprawił)."
+    ],
+    [
+     8,
+     "dopisek: ἑνὸς ἑκάστου αὐτῶν τὰς ἁμαρτίας",
+     "glosa",
+     "Po „pisał po ziemi\" część rękopisów (U 264 700 al) dopisuje: „wypisywał grzechy każdego z nich\" (ἑνὸς ἑκάστου αὐτῶν τὰς ἁμαρτίας); pokrewne glosy w innych świadkach precyzują treść pisania.",
+     "Klasyczna glosa wypełniająca lukę, której tekst celowo nie wypełnia: kopista odpowiada na pytanie „co pisał?\", zamieniając sugestię w protokół. Cenna jako świadectwo najstarszej egzegezy (już starożytni czytali gest przez sumienia oskarżycieli — po linii Jr 17,13), zgubna jako tekst: odbiera scenie jej zamierzoną dyskrecję. Milczenie oryginału jest teologicznie wymowniejsze od każdej listy grzechów — i lekcją dla egzegezy: nie wszystkie luki są do zapełnienia; niektóre są przestrzenią, w której pracuje Duch i sumienie czytelnika."
+    ],
+    [
+     9,
+     "dopisek: ὑπὸ τῆς συνειδήσεως ἐλεγχόμενοι",
+     "glosa",
+     "Po „usłyszawszy\" tradycja bizantyjska (E G H K i in., stąd Textus Receptus) dodaje: „przekonani przez sumienie\" (ὑπὸ τῆς συνειδήσεως ἐλεγχόμενοι); w w. 11 nadto wahanie [καὶ] przed „odtąd\" (NA28 w nawiasie).",
+     "Znów glosa-egzegeza: dopisek nazywa mechanizm, który tekst pokazuje bez nazywania — że wyszli „przekonani przez sumienie\", wie każdy czytelnik; kopista chciał, by wiedział na pewno. Warianty tej perykopy są w ogóle osobnym gatunkiem: ponieważ tekst żył długo poza kontrolą kanonicznego sąsiedztwa, obrastał wyjaśnieniami jak opowieść ustna — trzy recenzje różnią się dziesiątkami drobiazgów. Dla egzegezy praktyczny wniosek: w tej perykopie bardziej niż gdziekolwiek trzymać się tekstu krótszego; jego powściągliwość jest autorska, gadatliwość — kopistów."
+    ]
+   ],
+   "theme_links": [
+    [
+     "miłosierdzie, które nie potępia",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "κρίσις — sąd, który się dokonuje",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "woda żywa — Duch jako dar",
+     [
+      "block",
+      "w. 6b–9"
+     ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 3–6a"
+     ]
+    ],
+    [
+     "godzina Jezusa (ἡ ὥρα)",
+     [
+      "block",
+      "w. 10–11"
+     ]
+    ]
+   ],
+   "revision_note": "Dodano perykopę Kobieta cudzołożna (J 7,53-8,11) w pełnym opracowaniu: tekst w podwójnych nawiasach NA28 z pełną dyskusją statusu (nieobecność w P66 P75 Alef B, wędrówka po kodeksach, Papiasz i Didaskalia, Hieronim Adv. Pelag. II 17, hipoteza Augustyna De adult. coniug. II 7, kanoniczność trydencka), analiza (rama Góry Oliwnej w rytmie Łk 21,37-38, pułapka podwójna Mojżesz/ius gladii z J 18,31, brak mężczyzny wobec Kpł 20,10, pisanie palcem z kluczami Jr 17,13 / Wj 31,18 / Dn 5, pierwszy kamień jako Pwt 17,7 domyślane w głąb, exodus od starszych, misera et misericordia, sentencja dwóch połówek), sekcje II-VIII (tomizm: iustitiam non dimisit, conscientia, quis iudicat, gratia et praeceptum), katena zachodnia sześciu głosów (Ambroży Ep. 68 i Exp. ps. CXVIII, Augustyn Tract. 33 i De adult. coniug., Hieronim, Beda; Chryzostom i Cyryl milczą — nota), aparat (status, glosa o grzechach każdego, glosa o sumieniu), liturgia (5. Niedziela WP C, Zuzanna w parze, Misericordia et misera), nowe leksemy i terminy skila/edim, temat miłosierdzie, które nie potępia; status: ukończona"
+  }
+ ]
+}
