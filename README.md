@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–8,11** w dwudziestu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz dziewiętnaście perykop J 1,15–8,11; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–8,30** w dwudziestu jeden perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz dwadzieścia perykop J 1,15–8,30; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -27,6 +27,7 @@ data/                     ← źródła (pod kontrolą wersji)
   swieto.json            J 7,14-36 (Nauczanie w połowie święta)
   woda.json              J 7,37-52 (Rzeki wody żywej)
   adultera.json          J 7,53-8,11 (Kobieta cudzołożna)
+  swiatlosc.json         J 8,12-30 (Światłość świata)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -42,7 +43,7 @@ Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera, w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
-dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera`.
+dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc`.
 
 ## Warstwy schematu
 
@@ -157,6 +158,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 7,14–36 | Nauczanie w połowie święta | ukończona |
 | J 7,37–52 | Rzeki wody żywej | ukończona |
 | J 7,53–8,11 | Kobieta cudzołożna | ukończona |
+| J 8,12–30 | Światłość świata | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
