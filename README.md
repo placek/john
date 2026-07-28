@@ -47,7 +47,7 @@ Ewangelii (Jan ma w nim numer księgi `500`):
 |---|---|
 | `words` | interlinia grecko-polska słowo po słowie: `text` (greka NA28 wraz ze znakami aparatu), `translation` (polski odpowiednik), `strong`, `morphology`, `footnote` oraz **`red`** — znacznik słów Jezusa (*verba Christi*) |
 | `commentaries` | aparat krytyczny NA28, powiązany ze znakami (`marker`) wplecionymi w tekst grecki |
-| `latin_verses` | Wulgata łacińska, werset po wersecie |
+| `latin_verses` | Wulgata łacińska, werset po wersecie — trzecia kolumna tekstu paralelnego |
 
 Baza egzegetyczna (`data/egzegeza_jana.sqlite`) pozostaje magazynem **komentarza**
 — analiz, kateny, aparatu autorskiego i odniesień; tekst do prezentacji bierzemy
@@ -207,9 +207,11 @@ uszkodzić danych. Zatrzymanie: Ctrl+C. Port ustawia zmienna `PORT`
 Perykopa jest jednym ciągłym dokumentem (bez zakładek), ułożonym tak, jak się ją
 czyta — od tekstu do szczegółu:
 
-1. **Tekst perykopy** — pełna greka NA28 i pełny przekład roboczy *paralelnie*,
-   werset przy wersecie, z numeracją na marginesie (perykopy przekraczające
-   granicę rozdziałów dostają znaczniki rozdziału i numery w postaci `8,12`)
+1. **Tekst perykopy** — trzy kolumny *paralelnie*, werset przy wersecie:
+   greka NA28, przekład roboczy i **Wulgata** (z `latin_verses`), z numeracją
+   na marginesie (perykopy przekraczające granicę rozdziałów dostają znaczniki
+   rozdziału i numery w postaci `8,12`). Kolumnę łacińską można schować
+   przyciskiem; wybór pamięta się między perykopami
 2. **Komentarz** — „Struktura całości" oraz sekcje II–VII z podsekcjami,
    zakończenie i nota warsztatowa
 3. **Ojcowie Kościoła** — katena z autorem, dziełem, miejscem (locus) i blokiem

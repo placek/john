@@ -210,6 +210,15 @@ def api_pericope(pid):
                     (KSIEGA_JANA, head["chapter_start"], head["verse_start"],
                      head["chapter_end"], head["verse_end"]))
 
+    # Wulgata — trzecia kolumna tekstu paralelnego
+    lacina = qt("""SELECT chapter, verse, text
+                   FROM latin_verses
+                   WHERE book = ?
+                     AND (chapter, verse) BETWEEN (?, ?) AND (?, ?)
+                   ORDER BY chapter, verse""",
+                (KSIEGA_JANA, head["chapter_start"], head["verse_start"],
+                 head["chapter_end"], head["verse_end"]))
+
     # aparat krytyczny NA28 (commentaries) — wpisy kluczowane markerem, który
     # jest wpleciony w tekst grecki interlinii (np. °, ⸀, ⸂)
     aparat = [{"chapter": r["chapter_from"], "verse": r["verse_from"],
@@ -238,7 +247,7 @@ def api_pericope(pid):
             "blocks": blocks, "units": units, "catena": catena,
             "refs": refs, "liturgy": liturgy, "textual": textual,
             "lexemes": lexemes, "interlinia": interlinia, "aparat": aparat,
-            "themes": [t["name"] for t in themes]}
+            "lacina": lacina, "themes": [t["name"] for t in themes]}
 
 
 def api_search(term):
