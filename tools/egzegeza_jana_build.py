@@ -196,9 +196,13 @@ def insert_phase(cur, data):
                     (ab, nm, tst, ordn))
 
     chapter = data["verses"]["chapter"]
-    for vn, gk, pl in data["verses"]["items"]:
+    # pozycja wersetu to [nr, greka, przekład] w rozdziale pliku albo
+    # [rozdział, nr, greka, przekład] — dla perykop przekraczających granicę
+    # rozdziałów (np. J 7,53 na progu perykopy o cudzołożnicy)
+    for item in data["verses"]["items"]:
+        ch, vn, gk, pl = item if len(item) == 4 else (chapter, *item)
         cur.execute("INSERT INTO verse(book_id, chapter, verse_num, text_greek, text_working_pl) VALUES (?,?,?,?,?)",
-                    (book_of("J"), chapter, vn, gk, pl))
+                    (book_of("J"), ch, vn, gk, pl))
 
     for lemma, tr, pos_, gl in data["lexemes"]:
         cur.execute("INSERT OR IGNORE INTO lexeme(lemma, translit, pos, gloss_pl) VALUES (?,?,?,?)",

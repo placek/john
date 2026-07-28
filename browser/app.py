@@ -52,20 +52,25 @@ def api_pericope(pid):
         return None
     head = head[0]
 
-    verses = q("""SELECT v.verse_num, v.text_greek, v.text_working_pl
+    # zakres wersetów porównujemy parami (rozdział, werset) — perykopa może
+    # przekraczać granicę rozdziałów (np. J 7,53-8,11)
+    zakres = (head["book_id"], head["chapter_start"], head["verse_start"],
+              head["chapter_end"], head["verse_end"])
+
+    verses = q("""SELECT v.chapter, v.verse_num, v.text_greek, v.text_working_pl
                   FROM verse v
-                  WHERE v.book_id = ? AND v.chapter = ?
-                    AND v.verse_num BETWEEN ? AND ?
-                  ORDER BY v.verse_num""",
-               (head["book_id"], head["chapter_start"],
-                head["verse_start"], head["verse_end"]))
+                  WHERE v.book_id = ?
+                    AND (v.chapter, v.verse_num) BETWEEN (?, ?) AND (?, ?)
+                  ORDER BY v.chapter, v.verse_num""", zakres)
 
     sections = q("""SELECT id, parent_id, section_type, title, body_md, position
                     FROM section WHERE pericope_id = ?
                     ORDER BY position, id""", (pid,))
 
     blocks = q("""SELECT cb.id, cb.section_id, cb.label, cb.greek_text,
-                         cb.working_translation_pl, cb.position
+                         cb.working_translation_pl, cb.position,
+                         cb.chapter_start, cb.verse_start,
+                         cb.chapter_end, cb.verse_end
                   FROM commentary_block cb
                   JOIN section s ON s.id = cb.section_id
                   WHERE s.pericope_id = ? ORDER BY cb.position""", (pid,))
@@ -102,14 +107,22 @@ def api_pericope(pid):
     liturgy = q("""SELECT rite, occasion, passage, description_md
                    FROM liturgical_use WHERE pericope_id = ? ORDER BY id""", (pid,))
 
-    textual = q("""SELECT v.verse_num, tn.lemma_text, tn.issue,
+    textual = q("""SELECT v.chapter, v.verse_num, tn.lemma_text, tn.issue,
                           tn.readings_md, tn.assessment_md
                    FROM textual_note tn JOIN verse v ON v.id = tn.verse_id
-                   WHERE v.book_id = ? AND v.chapter = ?
-                     AND v.verse_num BETWEEN ? AND ?
-                   ORDER BY v.verse_num""",
-                (head["book_id"], head["chapter_start"],
-                 head["verse_start"], head["verse_end"]))
+                   WHERE v.book_id = ?
+                     AND (v.chapter, v.verse_num) BETWEEN (?, ?) AND (?, ?)
+                   ORDER BY v.chapter, v.verse_num""", zakres)
+
+    # leksemy występujące w perykopie — do przypisów słownikowych przy blokach
+    lexemes = q("""SELECT l.lemma, l.translit, l.pos, l.gloss_pl,
+                          lo.form_in_text, v.chapter, v.verse_num
+                   FROM lexeme_occurrence lo
+                   JOIN lexeme l ON l.id = lo.lexeme_id
+                   JOIN verse v ON v.id = lo.verse_id
+                   WHERE v.book_id = ?
+                     AND (v.chapter, v.verse_num) BETWEEN (?, ?) AND (?, ?)
+                   ORDER BY v.chapter, v.verse_num, l.lemma""", zakres)
 
     themes = q("""SELECT DISTINCT t.name FROM theme_link tl
                   JOIN theme t ON t.id = tl.theme_id
@@ -126,7 +139,7 @@ def api_pericope(pid):
     return {"head": head, "verses": verses, "sections": sections,
             "blocks": blocks, "units": units, "catena": catena,
             "refs": refs, "liturgy": liturgy, "textual": textual,
-            "themes": [t["name"] for t in themes]}
+            "lexemes": lexemes, "themes": [t["name"] for t in themes]}
 
 
 def api_search(term):
