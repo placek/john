@@ -6,133 +6,325 @@
 <title>Egzegeza Ewangelii św. Jana</title>
 <style>
   :root {
-    --tlo: #fbf9f4;
-    --papier: #fffefb;
-    --tekst: #24211c;
-    --przygaszony: #6b6459;
-    --linia: #e0d9cc;
+    --tlo: #faf7f1;
+    --papier: #fffdf8;
+    --papier-2: #f5f0e6;
+    --tekst: #221f1a;
+    --przygaszony: #6f675b;
+    --linia: #e3dccd;
+    --linia-mocna: #cdc2ac;
     --akcent: #7a1f1f;
-    --akcent-jasny: #f3ebe4;
-    --greka: #1f4a5e;
+    --akcent-jasny: #f3e9e4;
+    --greka: #1c4a5a;
+    --zloto: #9a7734;
+    --cien: 0 1px 2px rgba(60, 48, 30, .05);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --tlo: #16150f;
+      --papier: #1d1c16;
+      --papier-2: #24221a;
+      --tekst: #e8e2d5;
+      --przygaszony: #a39a89;
+      --linia: #34301f;
+      --linia-mocna: #4a4430;
+      --akcent: #d98b7f;
+      --akcent-jasny: #2c211d;
+      --greka: #8fc4d4;
+      --zloto: #cfa960;
+      --cien: none;
+    }
   }
   * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; scroll-padding-top: 7.5rem; }
   body {
     margin: 0;
     background: var(--tlo);
     color: var(--tekst);
-    font: 16px/1.65 Georgia, "Times New Roman", serif;
+    font: 16.5px/1.7 Georgia, "Palatino Linotype", "Times New Roman", serif;
+    -webkit-text-size-adjust: 100%;
   }
-  header {
+
+  /* ---------------------------------------------------------- nagłówek */
+  header.gorny {
     background: var(--papier);
     border-bottom: 1px solid var(--linia);
-    padding: .8rem 1.2rem;
+    padding: .7rem 1.3rem;
     display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;
-    position: sticky; top: 0; z-index: 10;
+    position: sticky; top: 0; z-index: 30;
   }
-  header h1 {
-    font-size: 1.05rem; margin: 0; font-weight: normal;
-    letter-spacing: .04em; color: var(--akcent);
+  header.gorny h1 {
+    font-size: 1rem; margin: 0; font-weight: normal;
+    letter-spacing: .06em; color: var(--akcent); white-space: nowrap;
   }
-  header input {
-    flex: 1; min-width: 200px; max-width: 420px;
-    padding: .45rem .7rem; border: 1px solid var(--linia);
-    border-radius: 3px; font: inherit; font-size: .9rem; background: var(--tlo);
+  header.gorny input {
+    flex: 1; min-width: 180px; max-width: 400px;
+    padding: .45rem .75rem; border: 1px solid var(--linia-mocna);
+    border-radius: 3px; font: inherit; font-size: .9rem;
+    background: var(--tlo); color: var(--tekst);
   }
-  header nav { display: flex; gap: .4rem; }
-  header nav button {
-    border: 1px solid var(--linia); background: var(--tlo); cursor: pointer;
-    padding: .4rem .7rem; border-radius: 3px; font: inherit; font-size: .85rem;
+  header.gorny input:focus { outline: 2px solid var(--akcent-jasny); border-color: var(--akcent); }
+  header.gorny nav { display: flex; gap: .35rem; }
+  header.gorny nav button, .przelacznik {
+    border: 1px solid var(--linia-mocna); background: var(--tlo); cursor: pointer;
+    padding: .38rem .7rem; border-radius: 3px; font: inherit; font-size: .82rem;
     color: var(--przygaszony);
   }
-  header nav button:hover, header nav button.akt { background: var(--akcent-jasny); color: var(--akcent); }
+  header.gorny nav button:hover, header.gorny nav button.akt {
+    background: var(--akcent-jasny); color: var(--akcent); border-color: var(--akcent);
+  }
+  .menu-boczne { display: none; }
 
+  /* ---------------------------------------------------------- układ */
   .uklad { display: flex; align-items: flex-start; }
   aside {
-    width: 250px; flex-shrink: 0; padding: 1rem .8rem;
-    border-right: 1px solid var(--linia); min-height: calc(100vh - 56px);
+    width: 262px; flex-shrink: 0; padding: 1.1rem .7rem 3rem;
+    border-right: 1px solid var(--linia);
+    position: sticky; top: 3.4rem; max-height: calc(100vh - 3.4rem); overflow-y: auto;
   }
-  aside h2 { font-size: .72rem; text-transform: uppercase; letter-spacing: .1em;
-             color: var(--przygaszony); margin: 0 0 .6rem .4rem; font-weight: normal; }
+  aside h2 {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .14em;
+    color: var(--przygaszony); margin: 0 0 .7rem .5rem; font-weight: normal;
+  }
   aside a {
-    display: block; padding: .45rem .55rem; margin-bottom: .15rem;
-    text-decoration: none; color: var(--tekst); border-radius: 3px; font-size: .88rem;
+    display: grid; grid-template-columns: 1.6rem 1fr; gap: .1rem .4rem;
+    padding: .4rem .5rem; margin-bottom: .1rem; text-decoration: none;
+    color: var(--tekst); border-radius: 3px; font-size: .87rem; line-height: 1.35;
   }
-  aside a:hover { background: var(--akcent-jasny); }
-  aside a.akt { background: var(--akcent-jasny); color: var(--akcent); font-weight: bold; }
-  aside a small { display: block; color: var(--przygaszony); font-size: .74rem; font-weight: normal; }
+  aside a .licz {
+    grid-row: span 2; font-size: .72rem; color: var(--zloto);
+    font-variant-numeric: tabular-nums; padding-top: .12rem;
+  }
+  aside a small { color: var(--przygaszony); font-size: .75rem; }
+  aside a:hover { background: var(--papier-2); }
+  aside a.akt { background: var(--akcent-jasny); }
+  aside a.akt, aside a.akt small { color: var(--akcent); }
 
-  main { flex: 1; padding: 1.6rem 2rem 5rem; max-width: 860px; }
-  h2.tytul { font-size: 1.7rem; margin: 0 0 .2rem; color: var(--akcent); font-weight: normal; }
-  .motto { font-style: italic; color: var(--przygaszony); margin: 0 0 .3rem; }
-  .status {
-    display: inline-block; font-size: .7rem; text-transform: uppercase;
-    letter-spacing: .08em; padding: .12rem .5rem; border-radius: 2px;
-    background: var(--akcent-jasny); color: var(--akcent); margin-bottom: 1.4rem;
+  main { flex: 1; min-width: 0; padding: 2rem 2.6rem 6rem; max-width: 62rem; }
+
+  /* ---------------------------------------------------------- tytuł perykopy */
+  .perykopa-naglowek { margin-bottom: 1.6rem; }
+  .siglum {
+    font-size: .74rem; text-transform: uppercase; letter-spacing: .16em;
+    color: var(--zloto); margin-bottom: .35rem;
+  }
+  .siglum .status { color: var(--przygaszony); }
+  h1.tytul {
+    font-size: 2.1rem; line-height: 1.2; margin: 0 0 .45rem;
+    color: var(--akcent); font-weight: normal; letter-spacing: -.01em;
+  }
+  .motto { font-style: italic; color: var(--przygaszony); margin: 0; font-size: 1.02rem; }
+  .wprowadzenie {
+    margin: 1.4rem 0 0; padding: 1.1rem 1.3rem;
+    background: var(--papier); border: 1px solid var(--linia);
+    border-left: 3px solid var(--zloto); border-radius: 2px; box-shadow: var(--cien);
+  }
+  .wprowadzenie p:last-child { margin-bottom: 0; }
+
+  /* ---------------------------------------------------------- spis treści */
+  nav.spis {
+    position: sticky; top: 3.4rem; z-index: 20;
+    display: flex; gap: .1rem; flex-wrap: wrap;
+    background: var(--tlo); padding: .5rem 0;
+    border-bottom: 1px solid var(--linia); margin: 1.6rem 0 2.2rem;
+  }
+  nav.spis a {
+    text-decoration: none; color: var(--przygaszony); font-size: .78rem;
+    text-transform: uppercase; letter-spacing: .08em;
+    padding: .3rem .7rem; border-radius: 2px; border-bottom: 2px solid transparent;
+  }
+  nav.spis a:hover { color: var(--tekst); }
+  nav.spis a.akt { color: var(--akcent); border-bottom-color: var(--akcent); }
+
+  /* ---------------------------------------------------------- sekcje */
+  section.czesc { margin-bottom: 3.4rem; scroll-margin-top: 7.5rem; }
+  h2.naglowek-czesci {
+    font-size: .76rem; text-transform: uppercase; letter-spacing: .18em;
+    color: var(--akcent); font-weight: normal; margin: 0 0 1.2rem;
+    padding-bottom: .45rem; border-bottom: 1px solid var(--linia-mocna);
+    display: flex; align-items: baseline; gap: .7rem;
+  }
+  h2.naglowek-czesci .liczba {
+    font-size: .7rem; color: var(--przygaszony); letter-spacing: .1em;
   }
 
-  .zakladki { display: flex; gap: .3rem; border-bottom: 1px solid var(--linia); margin-bottom: 1.5rem; flex-wrap: wrap; }
-  .zakladki button {
-    border: none; background: none; cursor: pointer; font: inherit; font-size: .87rem;
-    padding: .5rem .8rem; color: var(--przygaszony); border-bottom: 2px solid transparent;
+  /* ---------------------------------------------------------- tekst paralelny */
+  .paralela {
+    display: grid; grid-template-columns: 2.6rem minmax(0, 1fr) minmax(0, 1fr);
+    background: var(--papier); border: 1px solid var(--linia);
+    border-radius: 2px; box-shadow: var(--cien); overflow: hidden;
   }
-  .zakladki button:hover { color: var(--tekst); }
-  .zakladki button.akt { color: var(--akcent); border-bottom-color: var(--akcent); }
-
-  .blok { margin-bottom: 2.4rem; }
-  .blok > h3 {
-    font-size: .78rem; text-transform: uppercase; letter-spacing: .1em;
-    color: var(--akcent); margin: 0 0 .7rem; font-weight: normal;
+  .paralela .glowka {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .14em;
+    color: var(--przygaszony); padding: .6rem .9rem;
+    background: var(--papier-2); border-bottom: 1px solid var(--linia);
   }
-  .grecki {
-    background: var(--papier); border-left: 3px solid var(--greka);
-    padding: .8rem 1rem; margin-bottom: .5rem; color: var(--greka);
-    font-size: 1.02rem; line-height: 1.8;
+  .wiersz { display: contents; }
+  .wiersz > * { padding: .55rem .9rem; border-bottom: 1px solid var(--linia); }
+  .wiersz:last-child > * { border-bottom: none; }
+  .wiersz:hover > * { background: var(--papier-2); }
+  .wiersz .nr {
+    text-align: right; font-size: .72rem; color: var(--zloto);
+    font-variant-numeric: tabular-nums; padding-top: .78rem; user-select: none;
   }
-  .przeklad { font-style: italic; color: var(--przygaszony); margin: 0 0 1rem; padding-left: 1rem; }
-  .jednostka { margin-bottom: 1.3rem; }
-  .fraza { color: var(--greka); font-weight: bold; }
-  .fraza span { color: var(--przygaszony); font-weight: normal; font-style: italic; }
+  .wiersz .gr {
+    color: var(--greka); font-size: 1.03rem; line-height: 1.85;
+    border-right: 1px solid var(--linia);
+  }
+  .wiersz .pl { line-height: 1.8; }
+  .rozdzial-znacznik {
+    grid-column: 1 / -1; padding: .45rem .9rem; background: var(--papier-2);
+    border-bottom: 1px solid var(--linia); font-size: .7rem;
+    text-transform: uppercase; letter-spacing: .14em; color: var(--zloto);
+  }
 
-  .sekcja { margin-bottom: 2rem; }
-  .sekcja h3 { font-size: 1.15rem; color: var(--akcent); font-weight: normal; margin: 0 0 .5rem; }
-  .sekcja h4 { font-size: .95rem; margin: 1.2rem 0 .4rem; }
-  .podsekcja { border-left: 2px solid var(--linia); padding-left: 1rem; margin: 1rem 0; }
+  /* ---------------------------------------------------------- proza komentarza */
+  .proza { max-width: 46rem; }
+  .sekcja { margin-bottom: 2.4rem; }
+  .sekcja > h3 {
+    font-size: 1.18rem; color: var(--akcent); font-weight: normal;
+    margin: 0 0 .6rem; line-height: 1.35;
+  }
+  .podsekcja { margin: 1.4rem 0 1.4rem 0; padding-left: 1.1rem; border-left: 2px solid var(--linia); }
+  .podsekcja h4 { font-size: 1rem; margin: 0 0 .4rem; font-weight: bold; color: var(--tekst); }
+  .zakonczenie-czesc { background: var(--papier); border: 1px solid var(--linia);
+    border-left: 3px solid var(--akcent); border-radius: 2px; padding: 1.1rem 1.3rem; }
+  .nota-warsztatowa { font-size: .88rem; color: var(--przygaszony); }
 
-  .ojciec { background: var(--papier); border: 1px solid var(--linia);
-            border-radius: 3px; padding: 1rem 1.2rem; margin-bottom: 1rem; }
-  .ojciec .naglowek { margin-bottom: .5rem; }
-  .ojciec .autor { font-weight: bold; }
+  /* ---------------------------------------------------------- ojcowie */
+  .ojciec {
+    background: var(--papier); border: 1px solid var(--linia);
+    border-left: 3px solid var(--greka); border-radius: 2px;
+    padding: 1rem 1.3rem; margin-bottom: 1.1rem; box-shadow: var(--cien);
+  }
+  .ojciec .naglowek {
+    display: flex; align-items: baseline; gap: .6rem;
+    flex-wrap: wrap; margin-bottom: .55rem;
+  }
+  .ojciec .autor { font-size: 1.02rem; color: var(--akcent); }
   .ojciec .locus { color: var(--przygaszony); font-size: .85rem; font-style: italic; }
-  .ojciec .blok-etykieta {
-    float: right; font-size: .72rem; text-transform: uppercase; letter-spacing: .06em;
-    color: var(--akcent); background: var(--akcent-jasny); padding: .1rem .45rem; border-radius: 2px;
+  .pigulka {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .08em;
+    color: var(--zloto); border: 1px solid var(--linia-mocna);
+    padding: .08rem .45rem; border-radius: 999px; white-space: nowrap;
   }
+  .ojciec .naglowek .pigulka { margin-left: auto; }
 
+  /* ---------------------------------------------------------- liturgia */
+  .liturgia-poz {
+    display: grid; grid-template-columns: 7.5rem 1fr; gap: .2rem 1rem;
+    padding: .85rem 0; border-bottom: 1px solid var(--linia);
+  }
+  .liturgia-poz:last-child { border-bottom: none; }
+  .liturgia-poz .ryt {
+    font-size: .72rem; text-transform: uppercase; letter-spacing: .1em;
+    color: var(--zloto); padding-top: .25rem;
+  }
+  .liturgia-poz .okazja { font-size: 1.02rem; }
+  .liturgia-poz .perykopa-siglum { color: var(--greka); font-size: .9rem; }
+  .liturgia-poz .opis { grid-column: 2; color: var(--przygaszony); font-size: .92rem; }
+
+  /* ---------------------------------------------------------- analiza blokowa */
+  .blok { margin-bottom: 3rem; scroll-margin-top: 7.5rem; }
+  .blok-glowka {
+    display: flex; align-items: baseline; gap: .8rem; margin-bottom: .8rem;
+    border-bottom: 1px solid var(--linia); padding-bottom: .4rem;
+  }
+  .blok-glowka h3 {
+    font-size: 1.05rem; margin: 0; font-weight: normal; color: var(--akcent);
+    letter-spacing: .04em;
+  }
+  .blok .grecki {
+    color: var(--greka); font-size: 1.03rem; line-height: 1.9;
+    background: var(--papier); border: 1px solid var(--linia);
+    border-radius: 2px; padding: .85rem 1.1rem; margin-bottom: .6rem;
+  }
+  .blok .przeklad {
+    font-style: italic; color: var(--przygaszony);
+    margin: 0 0 1.5rem; padding-left: 1.1rem; border-left: 2px solid var(--linia);
+  }
+  .jednostka { margin-bottom: 1.7rem; max-width: 46rem; }
+  .fraza { margin: 0 0 .45rem; line-height: 1.6; }
+  .fraza b { color: var(--greka); font-weight: bold; font-size: 1.02rem; }
+  .fraza i { color: var(--przygaszony); font-weight: normal; }
+  .leksykon-bloku, .aparat-bloku {
+    background: var(--papier-2); border: 1px solid var(--linia);
+    border-radius: 2px; padding: .8rem 1.1rem; margin: 1.2rem 0 0; font-size: .9rem;
+  }
+  .leksykon-bloku h4, .aparat-bloku h4 {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .14em;
+    color: var(--przygaszony); margin: 0 0 .6rem; font-weight: normal;
+  }
+  .leks-poz { display: grid; grid-template-columns: 9rem 1fr; gap: .15rem .9rem; margin-bottom: .5rem; }
+  .leks-poz:last-child { margin-bottom: 0; }
+  .leks-poz .lemat { color: var(--greka); font-weight: bold; }
+  .leks-poz .translit { color: var(--przygaszony); font-size: .82rem; font-style: italic; }
+  .leks-poz .gloss { line-height: 1.55; }
+  .leks-poz .miejsca { color: var(--zloto); font-size: .78rem; }
+  .aparat-bloku .nota { margin-bottom: .9rem; }
+  .aparat-bloku .nota:last-child { margin-bottom: 0; }
+  .aparat-bloku .nota-tytul { color: var(--greka); font-weight: bold; }
+  .aparat-bloku p { margin: .3rem 0; font-size: .9rem; }
+
+  /* ---------------------------------------------------------- tabele, wyniki */
   table { border-collapse: collapse; width: 100%; font-size: .9rem; }
-  th, td { text-align: left; padding: .45rem .6rem; border-bottom: 1px solid var(--linia); vertical-align: top; }
-  th { font-size: .72rem; text-transform: uppercase; letter-spacing: .08em;
+  th, td { text-align: left; padding: .5rem .7rem; border-bottom: 1px solid var(--linia); vertical-align: top; }
+  th { font-size: .68rem; text-transform: uppercase; letter-spacing: .1em;
        color: var(--przygaszony); font-weight: normal; }
   td.lemat { color: var(--greka); font-weight: bold; white-space: nowrap; }
-  .relacja { font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; color: var(--akcent); }
+  .relacja { font-size: .7rem; text-transform: uppercase; letter-spacing: .06em; color: var(--zloto); }
+  .motywy { display: flex; gap: .4rem; flex-wrap: wrap; }
 
-  .wynik { padding: .7rem .9rem; border-bottom: 1px solid var(--linia); cursor: pointer; }
+  .wynik { padding: .8rem .9rem; border-bottom: 1px solid var(--linia); cursor: pointer; }
   .wynik:hover { background: var(--papier); }
   .wynik .gdzie { font-size: .78rem; color: var(--akcent); margin-bottom: .2rem; }
-  .wynik .snip { font-size: .88rem; color: var(--przygaszony); }
-  mark { background: #fbe7b0; color: inherit; }
+  .wynik .snip { font-size: .9rem; color: var(--przygaszony); }
+  mark { background: #f6e2a8; color: #221f1a; padding: 0 .1em; }
 
-  p { margin: 0 0 .8rem; }
+  p { margin: 0 0 .85rem; }
   .pusto { color: var(--przygaszony); font-style: italic; }
-  @media (max-width: 760px) {
+
+  /* ---------------------------------------------------------- responsywność */
+  @media (max-width: 1000px) {
+    main { padding: 1.6rem 1.5rem 5rem; }
+  }
+  @media (max-width: 860px) {
+    /* na wąskim ekranie przyklejony zostaje tylko spis części — górny pasek
+       (który zawija się do kilku rzędów) przewija się razem z treścią */
+    html { scroll-padding-top: 3.2rem; }
+    header.gorny { position: static; }
+    .menu-boczne { display: block; }
     .uklad { flex-direction: column; }
-    aside { width: 100%; min-height: 0; border-right: none; border-bottom: 1px solid var(--linia); }
-    main { padding: 1.2rem 1rem 4rem; }
+    aside {
+      width: 100%; position: static; max-height: none; border-right: none;
+      border-bottom: 1px solid var(--linia); padding-bottom: 1rem;
+    }
+    aside.schowana { display: none; }
+    main { padding: 1.3rem 1.1rem 4rem; }
+    nav.spis { top: 0; margin-top: 1.2rem; }
+    section.czesc, .blok { scroll-margin-top: 3.2rem; }
+    h1.tytul { font-size: 1.7rem; }
+    /* tekst paralelny: greka nad przekładem, wspólny numer wersetu */
+    .paralela { grid-template-columns: 2.4rem minmax(0, 1fr); }
+    .paralela .glowka { display: none; }
+    .wiersz .gr { border-right: none; border-bottom: none; padding-bottom: .1rem; }
+    .wiersz .pl { grid-column: 2; padding-top: .1rem; }
+    .wiersz .nr { padding-top: .7rem; }
+    .leks-poz { grid-template-columns: 1fr; gap: 0; }
+    .liturgia-poz { grid-template-columns: 1fr; }
+    .liturgia-poz .opis { grid-column: 1; }
+  }
+  @media print {
+    header.gorny, aside, nav.spis { display: none; }
+    main { max-width: none; padding: 0; }
+    body { background: #fff; font-size: 11pt; }
   }
 </style>
 </head>
 <body>
-<header>
+<header class="gorny">
   <h1>Egzegeza Ewangelii św. Jana</h1>
+  <button class="przelacznik menu-boczne" id="menu">Perykopy ▾</button>
   <input id="szukaj" type="search" placeholder="Szukaj w tekście, analizach i katenie…">
   <nav>
     <button data-widok="perykopy" class="akt">Perykopy</button>
@@ -148,7 +340,8 @@
 
 <script>
 const $ = (s, el = document) => el.querySelector(s);
-let PERYKOPY = [], AKT = null, ZAKLADKA = 'tekst';
+const $$ = (s, el = document) => [...el.querySelectorAll(s)];
+let PERYKOPY = [], AKT = null, OBSERWATOR = null;
 
 const esc = s => (s ?? '').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 
@@ -211,136 +404,291 @@ async function start() {
 }
 
 function rysujListe() {
-  $('#lista').innerHTML = '<h2>Perykopy</h2>' + PERYKOPY.map(p => `
+  $('#lista').innerHTML = '<h2>Perykopy</h2>' + PERYKOPY.map((p, i) => `
     <a href="#" data-id="${p.id}" class="${p.id === AKT ? 'akt' : ''}">
-      ${esc(p.title)}<small>${esc(p.siglum)}</small>
+      <span class="licz">${i + 1}</span>
+      <span>${esc(p.title)}</span>
+      <small>${esc(p.siglum)}</small>
     </a>`).join('');
-  $('#lista').querySelectorAll('a').forEach(a =>
+  $$('#lista a').forEach(a =>
     a.onclick = e => { e.preventDefault(); otworz(+a.dataset.id); });
 }
 
-// ---------- perykopa ----------
-async function otworz(id, zakladka = 'tekst') {
-  AKT = id; ZAKLADKA = zakladka;
+// ---------- pomocnicze: zakresy wersetów ----------
+const por = (a, b) => a[0] - b[0] || a[1] - b[1];          // porównanie (rozdział, werset)
+const wZakresie = (x, od, aż) => por(x, od) >= 0 && por(x, aż) <= 0;
+
+function numerWersetu(h, v) {
+  return h.chapter_start === h.chapter_end
+    ? String(v.verse_num) : `${v.chapter},${v.verse_num}`;
+}
+
+// ---------- 1. tekst paralelny ----------
+function czescTekst(d) {
+  const h = d.head;
+  if (!d.verses.length) return '';
+  let poprzedniRozdzial = null;
+  const wiersze = d.verses.map(v => {
+    let znacznik = '';
+    if (h.chapter_start !== h.chapter_end && v.chapter !== poprzedniRozdzial) {
+      znacznik = `<div class="rozdzial-znacznik">Rozdział ${v.chapter}</div>`;
+      poprzedniRozdzial = v.chapter;
+    }
+    return znacznik + `
+      <div class="wiersz">
+        <div class="nr">${numerWersetu(h, v)}</div>
+        <div class="gr" lang="grc">${esc(v.text_greek)}</div>
+        <div class="pl">${esc(v.text_working_pl)}</div>
+      </div>`;
+  }).join('');
+  return `
+    <section class="czesc" id="cz-tekst">
+      <h2 class="naglowek-czesci">Tekst perykopy
+        <span class="liczba">${esc(h.abbrev_pl)} ${h.chapter_start},${h.verse_start}–${
+          h.chapter_start === h.chapter_end ? h.verse_end : h.chapter_end + ',' + h.verse_end
+        } · ${d.verses.length} wersetów</span></h2>
+      <div class="paralela">
+        <div class="glowka"></div>
+        <div class="glowka">Tekst grecki — Nestle-Aland 28</div>
+        <div class="glowka">Przekład roboczy</div>
+        ${wiersze}
+      </div>
+    </section>`;
+}
+
+// ---------- 2. komentarz ----------
+function czescKomentarz(d) {
+  const struktura = d.sections.find(s => s.title === 'Struktura całości');
+  const glowne = d.sections.filter(s => !s.parent_id &&
+    !['filologia', 'patrystyka'].includes(s.section_type));
+  if (!struktura && !glowne.length) return '';
+  const sekcja = s => `
+    <div class="sekcja ${s.section_type === 'zakonczenie' ? 'zakonczenie-czesc' : ''}
+                        ${s.section_type === 'nota' ? 'nota-warsztatowa' : ''}">
+      <h3>${esc(s.title)}</h3>
+      ${md(s.body_md)}
+      ${d.sections.filter(c => c.parent_id === s.id).map(c => `
+        <div class="podsekcja"><h4>${esc(c.title)}</h4>${md(c.body_md)}</div>`).join('')}
+    </div>`;
+  return `
+    <section class="czesc" id="cz-komentarz">
+      <h2 class="naglowek-czesci">Komentarz</h2>
+      <div class="proza">
+        ${struktura ? `<div class="sekcja"><h3>${esc(struktura.title)}</h3>${md(struktura.body_md)}</div>` : ''}
+        ${glowne.map(sekcja).join('')}
+      </div>
+    </section>`;
+}
+
+// ---------- 3. ojcowie Kościoła ----------
+function czescOjcowie(d) {
+  if (!d.catena.length) return '';
+  const wstep = d.sections.find(s => s.section_type === 'patrystyka' && !s.parent_id);
+  return `
+    <section class="czesc" id="cz-ojcowie">
+      <h2 class="naglowek-czesci">Ojcowie Kościoła
+        <span class="liczba">katena — ${d.catena.length} głosów</span></h2>
+      ${wstep?.body_md ? `<div class="proza"><p>${esc(wstep.body_md)}</p></div>` : ''}
+      ${d.catena.map(c => `
+        <div class="ojciec">
+          <div class="naglowek">
+            <span class="autor">${esc(c.author)}</span>
+            <span class="locus">${esc(c.title_pl || c.work_title || '')}${
+              c.locus ? ', ' + esc(c.locus) : ''}</span>
+            <span class="pigulka">${esc(c.label)}</span>
+          </div>
+          ${md(c.body_md)}
+        </div>`).join('')}
+    </section>`;
+}
+
+// ---------- 4. liturgia ----------
+function czescLiturgia(d) {
+  if (!d.liturgy.length) return '';
+  return `
+    <section class="czesc" id="cz-liturgia">
+      <h2 class="naglowek-czesci">Liturgia
+        <span class="liczba">${d.liturgy.length} miejsc w recepcji</span></h2>
+      ${d.liturgy.map(l => `
+        <div class="liturgia-poz">
+          <div class="ryt">${esc(l.rite)}</div>
+          <div>
+            <div class="okazja">${esc(l.occasion)}</div>
+            ${l.passage ? `<div class="perykopa-siglum">${esc(l.passage)}</div>` : ''}
+          </div>
+          ${l.description_md ? `<div class="opis">${esc(l.description_md)}</div>` : ''}
+        </div>`).join('')}
+    </section>`;
+}
+
+// ---------- 5. analiza wers po wersie ----------
+function leksykonBloku(d, b) {
+  const od = [b.chapter_start, b.verse_start], az = [b.chapter_end, b.verse_end];
+  const wybrane = (d.lexemes || []).filter(l => wZakresie([l.chapter, l.verse_num], od, az));
+  if (!wybrane.length) return '';
+  const wg = new Map();
+  for (const l of wybrane) {
+    if (!wg.has(l.lemma)) wg.set(l.lemma, {...l, miejsca: []});
+    wg.get(l.lemma).miejsca.push(
+      `${l.verse_num}${l.form_in_text && l.form_in_text !== l.lemma ? ' ' + l.form_in_text : ''}`);
+  }
+  return `
+    <div class="leksykon-bloku">
+      <h4>Leksykon</h4>
+      ${[...wg.values()].map(l => `
+        <div class="leks-poz">
+          <div>
+            <div class="lemat" lang="grc">${esc(l.lemma)}</div>
+            <div class="translit">${esc(l.translit || '')}</div>
+          </div>
+          <div>
+            <div class="gloss">${esc(l.gloss_pl || '')}</div>
+            <div class="miejsca">w. ${esc(l.miejsca.join(' · '))}</div>
+          </div>
+        </div>`).join('')}
+    </div>`;
+}
+
+function aparatBloku(d, b) {
+  const od = [b.chapter_start, b.verse_start], az = [b.chapter_end, b.verse_end];
+  const noty = d.textual.filter(t => wZakresie([t.chapter, t.verse_num], od, az));
+  if (!noty.length) return '';
+  return `
+    <div class="aparat-bloku">
+      <h4>Aparat krytyczny</h4>
+      ${noty.map(t => `
+        <div class="nota">
+          <span class="nota-tytul" lang="grc">${esc(t.lemma_text)}</span>
+          <span class="pigulka">w. ${t.verse_num} · ${esc(t.issue)}</span>
+          ${md(t.readings_md)}${md(t.assessment_md)}
+        </div>`).join('')}
+    </div>`;
+}
+
+function czescAnaliza(d) {
+  if (!d.blocks.length) return '';
+  return `
+    <section class="czesc" id="cz-analiza">
+      <h2 class="naglowek-czesci">Analiza wers po wersie
+        <span class="liczba">${d.blocks.length} bloków · ${d.units.length} jednostek</span></h2>
+      ${d.blocks.map(b => `
+        <div class="blok" id="blok-${b.id}">
+          <div class="blok-glowka"><h3>${esc(b.label)}</h3></div>
+          <div class="grecki" lang="grc">${esc(b.greek_text)}</div>
+          <p class="przeklad">${esc(b.working_translation_pl)}</p>
+          ${d.units.filter(u => u.block_id === b.id).map(u => `
+            <div class="jednostka">
+              ${u.phrase_greek ? `<p class="fraza"><b lang="grc">${esc(u.phrase_greek)}</b>${
+                u.phrase_translation_pl ? ` <i>— ${esc(u.phrase_translation_pl)}</i>` : ''}</p>` : ''}
+              ${md(u.body_md)}
+            </div>`).join('')}
+          ${leksykonBloku(d, b)}
+          ${aparatBloku(d, b)}
+        </div>`).join('')}
+    </section>`;
+}
+
+// ---------- 6. odniesienia i motywy ----------
+function czescOdniesienia(d) {
+  if (!d.refs.length && !d.themes.length) return '';
+  return `
+    <section class="czesc" id="cz-odniesienia">
+      <h2 class="naglowek-czesci">Odniesienia i motywy
+        <span class="liczba">${d.refs.length} odniesień</span></h2>
+      ${d.refs.length ? `<table>
+        <tr><th>Miejsce</th><th>Relacja</th><th>Uwaga</th></tr>
+        ${d.refs.map(r => `<tr>
+          <td class="lemat">${esc(r.target_label)}</td>
+          <td class="relacja">${esc(r.relation)}</td>
+          <td>${esc(r.note_md || '')}</td></tr>`).join('')}
+        </table>` : ''}
+      ${d.themes.length ? `<div class="motywy" style="margin-top:1.2rem">
+        ${d.themes.map(t => `<span class="pigulka">${esc(t)}</span>`).join('')}</div>` : ''}
+    </section>`;
+}
+
+// ---------- złożenie perykopy ----------
+async function otworz(id) {
+  AKT = id;
   rysujListe();
   const d = await pobierz('/api/pericope?id=' + id);
   const h = d.head;
-  const zakl = [
-    ['tekst', 'Tekst i analiza'],
-    ['komentarz', 'Komentarz'],
-    ['katena', `Ojcowie (${d.catena.length})`],
-    ['odniesienia', `Odniesienia (${d.refs.length})`],
-    ['aparat', 'Aparat i liturgia'],
-  ];
+  const intro = d.sections.find(s => s.section_type === 'filologia' && !s.parent_id);
+  const siglum = `${h.abbrev_pl} ${h.chapter_start},${h.verse_start}–${
+    h.chapter_start === h.chapter_end ? h.verse_end : h.chapter_end + ',' + h.verse_end}`;
+
+  const czesci = [
+    ['cz-tekst', 'Tekst', czescTekst(d)],
+    ['cz-komentarz', 'Komentarz', czescKomentarz(d)],
+    ['cz-ojcowie', 'Ojcowie', czescOjcowie(d)],
+    ['cz-liturgia', 'Liturgia', czescLiturgia(d)],
+    ['cz-analiza', 'Analiza', czescAnaliza(d)],
+    ['cz-odniesienia', 'Odniesienia', czescOdniesienia(d)],
+  ].filter(([, , html]) => html);
+
   $('#tresc').innerHTML = `
-    <h2 class="tytul">${esc(h.title)}</h2>
-    <p class="motto">${esc(h.motto || '')}</p>
-    <span class="status">${esc(h.status.replace('_', ' '))}</span>
-    <div class="zakladki">
-      ${zakl.map(([k, n]) => `<button data-z="${k}" class="${k === ZAKLADKA ? 'akt' : ''}">${n}</button>`).join('')}
-    </div>
-    <div id="panel"></div>`;
-  $('#tresc').querySelectorAll('.zakladki button').forEach(b =>
-    b.onclick = () => { ZAKLADKA = b.dataset.z; otworz(id, ZAKLADKA); });
-  rysujPanel(d);
+    <article>
+      <div class="perykopa-naglowek">
+        <div class="siglum">${esc(siglum)} · <span class="status">${esc(h.status.replace('_', ' '))}</span></div>
+        <h1 class="tytul">${esc(h.title)}</h1>
+        ${h.motto ? `<p class="motto">${esc(h.motto)}</p>` : ''}
+        ${intro?.body_md ? `<div class="wprowadzenie">${md(intro.body_md)}</div>` : ''}
+      </div>
+      <nav class="spis">
+        ${czesci.map(([kot, nazwa]) => `<a href="#${kot}">${nazwa}</a>`).join('')}
+      </nav>
+      ${czesci.map(([, , html]) => html).join('')}
+    </article>`;
+
+  sledzSekcje();
   window.scrollTo(0, 0);
+  if (window.innerWidth <= 860) $('#lista').classList.add('schowana');
 }
 
-function rysujPanel(d) {
-  const panel = $('#panel');
-  if (ZAKLADKA === 'tekst') {
-    const intro = d.sections.find(s => s.section_type === 'filologia' && !s.parent_id);
-    panel.innerHTML =
-      (intro?.body_md ? `<div class="sekcja">${md(intro.body_md)}</div>` : '') +
-      d.blocks.map(b => `
-        <div class="blok">
-          <h3>${esc(b.label)}</h3>
-          <div class="grecki">${esc(b.greek_text)}</div>
-          <p class="przeklad">„${esc(b.working_translation_pl)}”</p>
-          ${d.units.filter(u => u.block_id === b.id).map(u => `
-            <div class="jednostka">
-              ${u.phrase_greek ? `<p class="fraza">${esc(u.phrase_greek)}
-                 ${u.phrase_translation_pl ? `<span>— ${esc(u.phrase_translation_pl)}</span>` : ''}</p>` : ''}
-              ${md(u.body_md)}
-            </div>`).join('')}
-        </div>`).join('');
-  }
-  else if (ZAKLADKA === 'komentarz') {
-    const glowne = d.sections.filter(s => !s.parent_id &&
-      !['filologia', 'patrystyka'].includes(s.section_type));
-    panel.innerHTML = glowne.map(s => `
-      <div class="sekcja">
-        <h3>${esc(s.title)}</h3>
-        ${md(s.body_md)}
-        ${d.sections.filter(c => c.parent_id === s.id).map(c => `
-          <div class="podsekcja"><h4>${esc(c.title)}</h4>${md(c.body_md)}</div>`).join('')}
-      </div>`).join('') || '<p class="pusto">Brak sekcji komentarza.</p>';
-  }
-  else if (ZAKLADKA === 'katena') {
-    const wstep = d.sections.find(s => s.section_type === 'patrystyka' && !s.parent_id);
-    panel.innerHTML =
-      (wstep?.body_md ? `<div class="sekcja">${md(wstep.body_md)}</div>` : '') +
-      (d.catena.map(c => `
-        <div class="ojciec">
-          <div class="naglowek">
-            <span class="blok-etykieta">${esc(c.label)}</span>
-            <span class="autor">${esc(c.author)}</span><br>
-            <span class="locus">${esc(c.title_pl || c.work_title || '')}${c.locus ? ', ' + esc(c.locus) : ''}</span>
-          </div>
-          ${md(c.body_md)}
-        </div>`).join('') || '<p class="pusto">Brak komentarzy patrystycznych.</p>');
-  }
-  else if (ZAKLADKA === 'odniesienia') {
-    panel.innerHTML = d.refs.length ? `<table>
-      <tr><th>Miejsce</th><th>Relacja</th><th>Uwaga</th><th>Zaczepione przy</th></tr>
-      ${d.refs.map(r => `<tr>
-        <td class="lemat">${esc(r.target_label)}</td>
-        <td class="relacja">${esc(r.relation)}</td>
-        <td>${esc(r.note_md || '')}</td>
-        <td><small>${esc((r.kotwica || '').slice(0, 40))}</small></td></tr>`).join('')}
-      </table>` : '<p class="pusto">Brak odniesień.</p>';
-  }
-  else {
-    panel.innerHTML = `
-      ${d.textual.length ? `<div class="sekcja"><h3>Krytyka tekstu</h3>
-        ${d.textual.map(t => `<div class="jednostka">
-          <p class="fraza">w. ${t.verse_num} — ${esc(t.lemma_text)} <span>(${esc(t.issue)})</span></p>
-          ${md(t.readings_md)}${md(t.assessment_md)}</div>`).join('')}</div>` : ''}
-      ${d.liturgy.length ? `<div class="sekcja"><h3>Recepcja liturgiczna</h3><table>
-        <tr><th>Ryt</th><th>Okazja</th><th>Perykopa</th></tr>
-        ${d.liturgy.map(l => `<tr><td>${esc(l.rite)}</td>
-          <td>${esc(l.occasion)}<br><small>${esc(l.description_md || '')}</small></td>
-          <td class="lemat">${esc(l.passage || '')}</td></tr>`).join('')}</table></div>` : ''}
-      ${d.themes.length ? `<div class="sekcja"><h3>Motywy przekrojowe</h3>
-        <p>${d.themes.map(esc).join(' · ')}</p></div>` : ''}
-      ${!d.textual.length && !d.liturgy.length ? '<p class="pusto">Brak danych aparatu.</p>' : ''}`;
-  }
+// podświetlanie aktywnej pozycji spisu przy przewijaniu
+function sledzSekcje() {
+  OBSERWATOR?.disconnect();
+  const linki = new Map($$('nav.spis a').map(a => [a.getAttribute('href').slice(1), a]));
+  if (!linki.size) return;
+  OBSERWATOR = new IntersectionObserver(wpisy => {
+    for (const w of wpisy) {
+      if (!w.isIntersecting) continue;
+      linki.forEach(a => a.classList.remove('akt'));
+      linki.get(w.target.id)?.classList.add('akt');
+    }
+  }, {rootMargin: '-30% 0px -60% 0px'});
+  linki.forEach((_, id) => { const el = document.getElementById(id); if (el) OBSERWATOR.observe(el); });
 }
 
 // ---------- widoki dodatkowe ----------
-document.querySelectorAll('header nav button').forEach(b => b.onclick = async () => {
-  document.querySelectorAll('header nav button').forEach(x => x.classList.remove('akt'));
+$$('header nav button').forEach(b => b.onclick = async () => {
+  $$('header nav button').forEach(x => x.classList.remove('akt'));
   b.classList.add('akt');
+  OBSERWATOR?.disconnect();
   if (b.dataset.widok === 'perykopy') { rysujListe(); otworz(AKT || PERYKOPY[0].id); return; }
   if (b.dataset.widok === 'leksykon') {
     const l = await pobierz('/api/lexicon');
-    $('#lista').innerHTML = '<h2>Widok</h2><p style="padding:.4rem;font-size:.85rem;color:var(--przygaszony)">Leksykon grecki</p>';
-    $('#tresc').innerHTML = `<h2 class="tytul">Leksykon</h2>
-      <p class="motto">Słowa-klucze z mapą wystąpień</p><table>
-      <tr><th>Lemat</th><th>Transliteracja</th><th>Znaczenie</th><th>Miejsca</th></tr>
-      ${l.map(x => `<tr><td class="lemat">${esc(x.lemma)}</td><td>${esc(x.translit || '')}</td>
+    $('#tresc').innerHTML = `<div class="perykopa-naglowek">
+      <h1 class="tytul">Leksykon</h1>
+      <p class="motto">Słowa-klucze z mapą wystąpień</p></div>
+      <table><tr><th>Lemat</th><th>Transliteracja</th><th>Znaczenie</th><th>Miejsca</th></tr>
+      ${l.map(x => `<tr><td class="lemat" lang="grc">${esc(x.lemma)}</td><td>${esc(x.translit || '')}</td>
         <td>${esc(x.gloss_pl || '')}</td><td><small>${esc(x.miejsca || '')}</small></td></tr>`).join('')}
       </table>`;
+    window.scrollTo(0, 0);
   }
   if (b.dataset.widok === 'motywy') {
     const t = await pobierz('/api/themes');
-    $('#lista').innerHTML = '<h2>Widok</h2><p style="padding:.4rem;font-size:.85rem;color:var(--przygaszony)">Motywy przekrojowe</p>';
-    $('#tresc').innerHTML = `<h2 class="tytul">Motywy</h2>
-      <p class="motto">Nici tematyczne przez całą księgę</p>
-      ${t.map(x => `<div class="sekcja"><h3>${esc(x.name)}</h3>${md(x.description_md)}
-        <p class="motto">powiązań: ${x.powiazania}</p></div>`).join('')}`;
+    $('#tresc').innerHTML = `<div class="perykopa-naglowek">
+      <h1 class="tytul">Motywy</h1>
+      <p class="motto">Nici tematyczne przez całą księgę</p></div>
+      <div class="proza">${t.map(x => `<div class="sekcja"><h3>${esc(x.name)}</h3>
+        ${md(x.description_md)}<p class="motto">powiązań: ${x.powiazania}</p></div>`).join('')}</div>`;
+    window.scrollTo(0, 0);
   }
 });
+
+$('#menu').onclick = () => $('#lista').classList.toggle('schowana');
 
 // ---------- wyszukiwarka ----------
 let timer;
@@ -351,15 +699,18 @@ $('#szukaj').oninput = e => {
   timer = setTimeout(async () => {
     const w = STATYCZNA ? await szukajStatycznie(v)
                         : await pobierz('/api/search?q=' + encodeURIComponent(v));
-    $('#tresc').innerHTML = `<h2 class="tytul">Wyniki: ${esc(v)}</h2>
-      <p class="motto">${w.length} trafień</p>
-      ${w.map((r, i) => `<div class="wynik" data-id="${r.pericope_id || ''}">
+    OBSERWATOR?.disconnect();
+    $('#tresc').innerHTML = `<div class="perykopa-naglowek">
+      <h1 class="tytul">Wyniki: ${esc(v)}</h1>
+      <p class="motto">${w.length} trafień</p></div>
+      ${w.map(r => `<div class="wynik" data-id="${r.pericope_id || ''}">
         <div class="gdzie">${esc(r.pericope)} — ${esc(r.where)}</div>
         <div class="snip">${r.snippet}</div></div>`).join('') ||
         '<p class="pusto">Nic nie znaleziono. Grekę i „ł" wpisuj w pełnym zapisie.</p>'}`;
-    $('#tresc').querySelectorAll('.wynik').forEach(el => {
+    $$('#tresc .wynik').forEach(el => {
       if (el.dataset.id) el.onclick = () => otworz(+el.dataset.id);
     });
+    window.scrollTo(0, 0);
   }, 250);
 };
 

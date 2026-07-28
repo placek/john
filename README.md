@@ -176,16 +176,28 @@ uszkodzić danych. Zatrzymanie: Ctrl+C. Port ustawia zmienna `PORT`
 
 **Co jest w interfejsie**
 
-- lewa kolumna: lista perykop z siglum
-- zakładka *Tekst i analiza*: bloki wersetowe — greka NA28, przekład roboczy,
-  pod nimi jednostki analizy (fraza grecka + akapit)
-- zakładka *Komentarz*: sekcje II–VII wraz z podsekcjami
-- zakładka *Ojcowie*: katena patrystyczna z autorem, dziełem i miejscem (locus)
-- zakładka *Odniesienia*: tabela z typem relacji i miejscem zaczepienia
-- zakładka *Aparat i liturgia*: noty krytyki tekstu, recepcja liturgiczna, motywy
-- górne przyciski: *Leksykon* (słowa-klucze z mapą wystąpień) i *Motywy*
-- wyszukiwarka u góry: pełnotekstowo po FTS5 (analizy, sekcje, katena, leksykon);
-  kliknięcie wyniku otwiera perykopę. Grekę i „ł" wpisuj w pełnym zapisie.
+Perykopa jest jednym ciągłym dokumentem (bez zakładek), ułożonym tak, jak się ją
+czyta — od tekstu do szczegółu:
+
+1. **Tekst perykopy** — pełna greka NA28 i pełny przekład roboczy *paralelnie*,
+   werset przy wersecie, z numeracją na marginesie (perykopy przekraczające
+   granicę rozdziałów dostają znaczniki rozdziału i numery w postaci `8,12`)
+2. **Komentarz** — „Struktura całości" oraz sekcje II–VII z podsekcjami,
+   zakończenie i nota warsztatowa
+3. **Ojcowie Kościoła** — katena z autorem, dziełem, miejscem (locus) i blokiem
+   wersetowym, którego dotyczy
+4. **Liturgia** — recepcja liturgiczna: ryt, okazja, perykopa lekcjonarza, opis
+5. **Analiza wers po wersie** — blok po bloku: greka, przekład, jednostki analizy
+   frazowej, a pod nimi *leksykon* słów-kluczy tego bloku i *aparat krytyczny*
+   (noty tekstualne przypisane do jego wersetów)
+6. **Odniesienia i motywy** — tabela odniesień biblijnych i motywy przekrojowe
+
+Do tego: lewa kolumna z listą perykop, przyklejony spis części (podświetla
+sekcję, którą właśnie czytasz), górne przyciski *Leksykon* i *Motywy*, tryb
+ciemny wedle ustawień systemu, układ responsywny (na wąskim ekranie greka staje
+nad przekładem) i arkusz do druku. Wyszukiwarka u góry działa pełnotekstowo po
+FTS5 (analizy, sekcje, katena, leksykon); kliknięcie wyniku otwiera perykopę.
+Grekę i „ł" wpisuj w pełnym zapisie.
 
 **Punkty API** (przydatne przy własnych narzędziach):
 `/api/pericopes`, `/api/pericope?id=N`, `/api/search?q=…`, `/api/lexicon`, `/api/themes`
