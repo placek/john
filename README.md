@@ -38,6 +38,22 @@ browser/
 Makefile                  make build | serve | export | clean
 ```
 
+## Źródło tekstu: `db.sqlite`
+
+W korzeniu repozytorium leży `db.sqlite` — **źródło prawdy dla samego tekstu**
+Ewangelii (Jan ma w nim numer księgi `500`):
+
+| tabela | zawartość |
+|---|---|
+| `words` | interlinia grecko-polska słowo po słowie: `text` (greka NA28 wraz ze znakami aparatu), `translation` (polski odpowiednik), `strong`, `morphology`, `footnote` oraz **`red`** — znacznik słów Jezusa (*verba Christi*) |
+| `commentaries` | aparat krytyczny NA28, powiązany ze znakami (`marker`) wplecionymi w tekst grecki |
+| `latin_verses` | Wulgata łacińska, werset po wersecie |
+
+Baza egzegetyczna (`data/egzegeza_jana.sqlite`) pozostaje magazynem **komentarza**
+— analiz, kateny, aparatu autorskiego i odniesień; tekst do prezentacji bierzemy
+z `db.sqlite`. Przeglądarka używa `words` w sekcji „Analiza wers po wersie",
+składając interlinię i znacząc kolorem słowa Jezusa.
+
 Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 (`books`, `verses`, `lexemes`, `semitic`, `occurrences`, `works`, `themes`)
 oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
@@ -189,9 +205,11 @@ czyta — od tekstu do szczegółu:
 3. **Ojcowie Kościoła** — katena z autorem, dziełem, miejscem (locus) i blokiem
    wersetowym, którego dotyczy
 4. **Liturgia** — recepcja liturgiczna: ryt, okazja, perykopa lekcjonarza, opis
-5. **Analiza wers po wersie** — blok po bloku: greka, przekład, jednostki analizy
-   frazowej, a pod nimi *leksykon* słów-kluczy tego bloku i *aparat krytyczny*
-   (noty tekstualne przypisane do jego wersetów)
+5. **Analiza wers po wersie** — blok po bloku: **interlinia** grecko-polska
+   z `db.sqlite` (nad każdym słowem greka, pod nim polski odpowiednik; słowa
+   Jezusa na czerwono, a kod Stronga i morfologia w dymku), pod nią przekład
+   ciągły, jednostki analizy frazowej, *leksykon* słów-kluczy tego bloku
+   i *aparat krytyczny* (noty tekstualne przypisane do jego wersetów)
 6. **Odniesienia i motywy** — tabela odniesień biblijnych i motywy przekrojowe
 
 Do tego: lewa kolumna z listą perykop, przyklejony spis części (podświetla

@@ -17,6 +17,7 @@
     --akcent-jasny: #f3e9e4;
     --greka: #1c4a5a;
     --zloto: #9a7734;
+    --czerwien: #b3261e;          /* verba Christi — słowa Jezusa */
     --cien: 0 1px 2px rgba(60, 48, 30, .05);
   }
   @media (prefers-color-scheme: dark) {
@@ -32,6 +33,7 @@
       --akcent-jasny: #2c211d;
       --greka: #8fc4d4;
       --zloto: #cfa960;
+      --czerwien: #ef9a95;
       --cien: none;
     }
   }
@@ -142,7 +144,7 @@
     font-size: .76rem; text-transform: uppercase; letter-spacing: .18em;
     color: var(--akcent); font-weight: normal; margin: 0 0 1.2rem;
     padding-bottom: .45rem; border-bottom: 1px solid var(--linia-mocna);
-    display: flex; align-items: baseline; gap: .7rem;
+    display: flex; align-items: baseline; gap: .7rem; flex-wrap: wrap;
   }
   h2.naglowek-czesci .liczba {
     font-size: .7rem; color: var(--przygaszony); letter-spacing: .1em;
@@ -239,6 +241,42 @@
     background: var(--papier); border: 1px solid var(--linia);
     border-radius: 2px; padding: .85rem 1.1rem; margin-bottom: .6rem;
   }
+
+  /* interlinia grecko-polska (tabela `words` bazy źródłowej) */
+  .interlinia {
+    background: var(--papier); border: 1px solid var(--linia); border-radius: 2px;
+    padding: .8rem 1.1rem; margin-bottom: .6rem; box-shadow: var(--cien);
+  }
+  .il-werset {
+    display: flex; flex-wrap: wrap; align-items: flex-start; gap: .1rem .6rem;
+    padding: .45rem 0; border-bottom: 1px dotted var(--linia);
+  }
+  .il-werset:first-child { padding-top: 0; }
+  .il-werset:last-child { border-bottom: none; padding-bottom: 0; }
+  .il-nr {
+    min-width: 2.1rem; text-align: right; padding-top: .3rem;
+    font-size: .72rem; color: var(--zloto);
+    font-variant-numeric: tabular-nums; user-select: none;
+  }
+  .il-slowo {
+    display: inline-flex; flex-direction: column; line-height: 1.3;
+    padding: .1rem .15rem; border-radius: 2px;
+  }
+  .il-slowo:hover { background: var(--papier-2); }
+  .il-slowo .gr { color: var(--greka); font-size: 1.02rem; white-space: nowrap; }
+  .il-slowo .pl { color: var(--przygaszony); font-size: .78rem; white-space: nowrap; }
+  .il-slowo .pl.brak { opacity: .45; }
+  .il-slowo.mowa .gr { color: var(--czerwien); }
+  .il-slowo.mowa .pl { color: var(--czerwien); opacity: .78; }
+  .legenda {
+    font-size: .7rem; text-transform: none; letter-spacing: normal;
+    color: var(--przygaszony); margin-left: auto; display: inline-flex;
+    align-items: center; gap: .35rem;
+  }
+  .legenda .probka {
+    width: .7rem; height: .7rem; border-radius: 50%;
+    background: var(--czerwien); display: inline-block;
+  }
   .blok .przeklad {
     font-style: italic; color: var(--przygaszony);
     margin: 0 0 1.5rem; padding-left: 1.1rem; border-left: 2px solid var(--linia);
@@ -310,6 +348,8 @@
     .wiersz .gr { border-right: none; border-bottom: none; padding-bottom: .1rem; }
     .wiersz .pl { grid-column: 2; padding-top: .1rem; }
     .wiersz .nr { padding-top: .7rem; }
+    .legenda { margin-left: 0; flex-basis: 100%; }
+    .il-nr { min-width: 1.7rem; }
     .leks-poz { grid-template-columns: 1fr; gap: 0; }
     .liturgia-poz { grid-template-columns: 1fr; }
     .liturgia-poz .opis { grid-column: 1; }
@@ -549,6 +589,34 @@ function leksykonBloku(d, b) {
     </div>`;
 }
 
+// interlinia grecko-polska dla wersetów bloku; `red` znaczy słowa Jezusa
+function interliniaBloku(d, b) {
+  const od = [b.chapter_start, b.verse_start], az = [b.chapter_end, b.verse_end];
+  const slowa = (d.interlinia || []).filter(w => wZakresie([w.chapter, w.verse], od, az));
+  if (!slowa.length) return '';
+  const wersety = new Map();
+  for (const w of slowa) {
+    const klucz = w.chapter + ',' + w.verse;
+    if (!wersety.has(klucz)) wersety.set(klucz, []);
+    wersety.get(klucz).push(w);
+  }
+  const opis = w => [w.strong ? 'Strong ' + w.strong : '', w.morphology, w.footnote]
+    .filter(Boolean).join(' · ');
+  return `<div class="interlinia">
+    ${[...wersety.entries()].map(([klucz, ws]) => {
+      const [ch, v] = klucz.split(',').map(Number);
+      return `<div class="il-werset">
+        <span class="il-nr">${numerWersetu(d.head, {chapter: ch, verse_num: v})}</span>
+        ${ws.map(w => `<span class="il-slowo${w.red ? ' mowa' : ''}" title="${esc(opis(w))}">
+          <span class="gr" lang="grc">${esc(w.text)}</span>
+          <span class="pl${!w.translation || w.translation === '-' ? ' brak' : ''}">${
+            esc(w.translation || '–')}</span>
+        </span>`).join('')}
+      </div>`;
+    }).join('')}
+  </div>`;
+}
+
 function aparatBloku(d, b) {
   const od = [b.chapter_start, b.verse_start], az = [b.chapter_end, b.verse_end];
   const noty = d.textual.filter(t => wZakresie([t.chapter, t.verse_num], od, az));
@@ -567,14 +635,16 @@ function aparatBloku(d, b) {
 
 function czescAnaliza(d) {
   if (!d.blocks.length) return '';
+  const jestInterlinia = (d.interlinia || []).length > 0;
   return `
     <section class="czesc" id="cz-analiza">
       <h2 class="naglowek-czesci">Analiza wers po wersie
-        <span class="liczba">${d.blocks.length} bloków · ${d.units.length} jednostek</span></h2>
+        <span class="liczba">${d.blocks.length} bloków · ${d.units.length} jednostek</span>
+        ${jestInterlinia ? '<span class="legenda"><i class="probka"></i>słowa Jezusa</span>' : ''}</h2>
       ${d.blocks.map(b => `
         <div class="blok" id="blok-${b.id}">
           <div class="blok-glowka"><h3>${esc(b.label)}</h3></div>
-          <div class="grecki" lang="grc">${esc(b.greek_text)}</div>
+          ${interliniaBloku(d, b) || `<div class="grecki" lang="grc">${esc(b.greek_text)}</div>`}
           <p class="przeklad">${esc(b.working_translation_pl)}</p>
           ${d.units.filter(u => u.block_id === b.id).map(u => `
             <div class="jednostka">
