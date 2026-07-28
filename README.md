@@ -47,12 +47,22 @@ Ewangelii (Jan ma w nim numer księgi `500`):
 |---|---|
 | `words` | interlinia grecko-polska słowo po słowie: `text` (greka NA28 wraz ze znakami aparatu), `translation` (polski odpowiednik), `strong`, `morphology`, `footnote` oraz **`red`** — znacznik słów Jezusa (*verba Christi*) |
 | `commentaries` | aparat krytyczny NA28, powiązany ze znakami (`marker`) wplecionymi w tekst grecki |
-| `latin_verses` | Wulgata łacińska, werset po wersecie |
+| `latin_verses` | Wulgata łacińska, werset po wersecie — trzecia kolumna tekstu paralelnego |
 
 Baza egzegetyczna (`data/egzegeza_jana.sqlite`) pozostaje magazynem **komentarza**
 — analiz, kateny, aparatu autorskiego i odniesień; tekst do prezentacji bierzemy
-z `db.sqlite`. Przeglądarka używa `words` w sekcji „Analiza wers po wersie",
-składając interlinię i znacząc kolorem słowa Jezusa.
+z `db.sqlite`. W sekcji „Analiza wers po wersie" przeglądarka wykorzystuje
+wszystkie trzy warstwy `words` oraz `commentaries`:
+
+- **interlinia** — greka nad polskim odpowiednikiem, słowa Jezusa czerwienią;
+- **Strong i morfologia** — kliknięcie (lub Enter na zaznaczonym) słowa otwiera
+  okienko z formą grecką, znaczeniem, numerem Stronga (odsyłacz do konkordancji)
+  i **rozwiniętym po polsku** kodem morfologicznym: `v--papnsm-` czyta się jako
+  „czasownik · praesens · strona czynna · imiesłów · mianownik · liczba
+  pojedyncza · rodzaj męski";
+- **aparat NA28** — wpisy z `commentaries` przypięte do wersetów bloku; znaki
+  aparatu (`°`, `⸀`, `⸂`…) są podświetlone również wewnątrz greki interlinii, więc
+  widać, do którego słowa odnosi się dana nota.
 
 Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 (`books`, `verses`, `lexemes`, `semitic`, `occurrences`, `works`, `themes`)
@@ -197,9 +207,11 @@ uszkodzić danych. Zatrzymanie: Ctrl+C. Port ustawia zmienna `PORT`
 Perykopa jest jednym ciągłym dokumentem (bez zakładek), ułożonym tak, jak się ją
 czyta — od tekstu do szczegółu:
 
-1. **Tekst perykopy** — pełna greka NA28 i pełny przekład roboczy *paralelnie*,
-   werset przy wersecie, z numeracją na marginesie (perykopy przekraczające
-   granicę rozdziałów dostają znaczniki rozdziału i numery w postaci `8,12`)
+1. **Tekst perykopy** — trzy kolumny *paralelnie*, werset przy wersecie:
+   greka NA28, przekład roboczy i **Wulgata** (z `latin_verses`), z numeracją
+   na marginesie (perykopy przekraczające granicę rozdziałów dostają znaczniki
+   rozdziału i numery w postaci `8,12`). Kolumnę łacińską można schować
+   przyciskiem; wybór pamięta się między perykopami
 2. **Komentarz** — „Struktura całości" oraz sekcje II–VII z podsekcjami,
    zakończenie i nota warsztatowa
 3. **Ojcowie Kościoła** — katena z autorem, dziełem, miejscem (locus) i blokiem
@@ -207,9 +219,10 @@ czyta — od tekstu do szczegółu:
 4. **Liturgia** — recepcja liturgiczna: ryt, okazja, perykopa lekcjonarza, opis
 5. **Analiza wers po wersie** — blok po bloku: **interlinia** grecko-polska
    z `db.sqlite` (nad każdym słowem greka, pod nim polski odpowiednik; słowa
-   Jezusa na czerwono, a kod Stronga i morfologia w dymku), pod nią przekład
-   ciągły, jednostki analizy frazowej, *leksykon* słów-kluczy tego bloku
-   i *aparat krytyczny* (noty tekstualne przypisane do jego wersetów)
+   Jezusa na czerwono, kliknięcie słowa otwiera Stronga i morfologię po
+   polsku), pod nią przekład ciągły, jednostki analizy frazowej, *leksykon*
+   słów-kluczy tego bloku, *aparat NA28* z `commentaries` oraz autorskie
+   *noty tekstualne* przypisane do jego wersetów
 6. **Odniesienia i motywy** — tabela odniesień biblijnych i motywy przekrojowe
 
 Do tego: lewa kolumna z listą perykop, przyklejony spis części (podświetla

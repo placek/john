@@ -18,6 +18,7 @@
     --greka: #1c4a5a;
     --zloto: #9a7734;
     --czerwien: #b3261e;          /* verba Christi — słowa Jezusa */
+    --lacina: #5f5340;            /* Wulgata */
     --cien: 0 1px 2px rgba(60, 48, 30, .05);
   }
   @media (prefers-color-scheme: dark) {
@@ -34,6 +35,7 @@
       --greka: #8fc4d4;
       --zloto: #cfa960;
       --czerwien: #ef9a95;
+      --lacina: #b6a98f;
       --cien: none;
     }
   }
@@ -174,6 +176,20 @@
     border-right: 1px solid var(--linia);
   }
   .wiersz .pl { line-height: 1.8; }
+  .wiersz .la {
+    line-height: 1.8; color: var(--lacina); font-style: italic;
+    border-left: 1px solid var(--linia);
+  }
+  .paralela.trojjezyczna { grid-template-columns: 2.6rem minmax(0,1fr) minmax(0,1fr) minmax(0,1fr); }
+  .paralela.trojjezyczna.bez-laciny { grid-template-columns: 2.6rem minmax(0,1fr) minmax(0,1fr); }
+  .paralela.bez-laciny .la, .paralela.bez-laciny .glowka:nth-child(4) { display: none; }
+  .przelacznik-laciny {
+    margin-left: auto; border: 1px solid var(--linia-mocna); background: var(--tlo);
+    color: var(--przygaszony); cursor: pointer; border-radius: 3px;
+    font: inherit; font-size: .7rem; letter-spacing: .04em;
+    text-transform: none; padding: .2rem .6rem;
+  }
+  .przelacznik-laciny:hover { color: var(--akcent); border-color: var(--akcent); }
   .rozdzial-znacznik {
     grid-column: 1 / -1; padding: .45rem .9rem; background: var(--papier-2);
     border-bottom: 1px solid var(--linia); font-size: .7rem;
@@ -268,6 +284,49 @@
   .il-slowo .pl.brak { opacity: .45; }
   .il-slowo.mowa .gr { color: var(--czerwien); }
   .il-slowo.mowa .pl { color: var(--czerwien); opacity: .78; }
+  .il-slowo { cursor: pointer; }
+  .il-slowo:focus-visible { outline: 2px solid var(--zloto); outline-offset: 1px; }
+  .sigla { color: var(--zloto); font-size: .82em; vertical-align: .12em; }
+
+  /* okienko szczegółów słowa */
+  #okno-slowa {
+    position: absolute; z-index: 50; max-width: min(21rem, 92vw);
+    background: var(--papier); border: 1px solid var(--linia-mocna);
+    border-radius: 3px; padding: .8rem 1rem .7rem;
+    box-shadow: 0 6px 22px rgba(40, 30, 15, .18); font-size: .9rem;
+  }
+  #okno-slowa .zamknij {
+    float: right; border: none; background: none; cursor: pointer;
+    font-size: 1.1rem; line-height: 1; color: var(--przygaszony); padding: 0 0 .3rem .5rem;
+  }
+  #okno-slowa .ow-gr { color: var(--greka); font-size: 1.25rem; line-height: 1.3; }
+  #okno-slowa .ow-pl { color: var(--przygaszony); font-style: italic; margin-bottom: .5rem; }
+  #okno-slowa dl { display: grid; grid-template-columns: auto 1fr; gap: .2rem .7rem; margin: .5rem 0 0; }
+  #okno-slowa dt {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .1em;
+    color: var(--przygaszony); padding-top: .15rem;
+  }
+  #okno-slowa dd { margin: 0; }
+  #okno-slowa dd a { color: var(--akcent); }
+  #okno-slowa .kod {
+    display: inline-block; margin-left: .4rem; font-size: .74rem;
+    color: var(--zloto); font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
+  }
+
+  /* aparat NA28 przy bloku */
+  .aparat-bloku.na28 .ap-wpis {
+    display: grid; grid-template-columns: 2.4rem 1fr; gap: .5rem;
+    padding: .3rem 0; border-bottom: 1px dotted var(--linia);
+  }
+  .aparat-bloku.na28 .ap-wpis:last-child { border-bottom: none; }
+  .aparat-bloku.na28 .ap-nr {
+    text-align: right; font-size: .72rem; color: var(--zloto);
+    font-variant-numeric: tabular-nums; padding-top: .18rem;
+  }
+  .aparat-bloku.na28 .ap-tresc { font-size: .86rem; line-height: 1.6; }
+  .aparat-bloku.na28 .ap-gr { color: var(--greka); }
+  .liczba-drobna { color: var(--zloto); letter-spacing: normal; }
+
   .legenda {
     font-size: .7rem; text-transform: none; letter-spacing: normal;
     color: var(--przygaszony); margin-left: auto; display: inline-flex;
@@ -343,10 +402,13 @@
     section.czesc, .blok { scroll-margin-top: 3.2rem; }
     h1.tytul { font-size: 1.7rem; }
     /* tekst paralelny: greka nad przekładem, wspólny numer wersetu */
-    .paralela { grid-template-columns: 2.4rem minmax(0, 1fr); }
+    .paralela, .paralela.trojjezyczna, .paralela.trojjezyczna.bez-laciny {
+      grid-template-columns: 2.4rem minmax(0, 1fr);
+    }
     .paralela .glowka { display: none; }
     .wiersz .gr { border-right: none; border-bottom: none; padding-bottom: .1rem; }
-    .wiersz .pl { grid-column: 2; padding-top: .1rem; }
+    .wiersz .pl { grid-column: 2; padding-top: .1rem; padding-bottom: .1rem; }
+    .wiersz .la { grid-column: 2; border-left: none; padding-top: .1rem; }
     .wiersz .nr { padding-top: .7rem; }
     .legenda { margin-left: 0; flex-basis: 100%; }
     .il-nr { min-width: 1.7rem; }
@@ -464,9 +526,14 @@ function numerWersetu(h, v) {
 }
 
 // ---------- 1. tekst paralelny ----------
+const BEZ_LACINY = 'egzegeza-bez-laciny';
+
 function czescTekst(d) {
   const h = d.head;
   if (!d.verses.length) return '';
+  const lacina = new Map((d.lacina || []).map(l => [l.chapter + ',' + l.verse, l.text]));
+  const jestLacina = lacina.size > 0;
+  const schowana = jestLacina && localStorage.getItem(BEZ_LACINY) === '1';
   let poprzedniRozdzial = null;
   const wiersze = d.verses.map(v => {
     let znacznik = '';
@@ -479,6 +546,8 @@ function czescTekst(d) {
         <div class="nr">${numerWersetu(h, v)}</div>
         <div class="gr" lang="grc">${esc(v.text_greek)}</div>
         <div class="pl">${esc(v.text_working_pl)}</div>
+        ${jestLacina ? `<div class="la" lang="la">${
+          esc(lacina.get(v.chapter + ',' + v.verse_num) || '')}</div>` : ''}
       </div>`;
   }).join('');
   return `
@@ -486,11 +555,14 @@ function czescTekst(d) {
       <h2 class="naglowek-czesci">Tekst perykopy
         <span class="liczba">${esc(h.abbrev_pl)} ${h.chapter_start},${h.verse_start}–${
           h.chapter_start === h.chapter_end ? h.verse_end : h.chapter_end + ',' + h.verse_end
-        } · ${d.verses.length} wersetów</span></h2>
-      <div class="paralela">
+        } · ${d.verses.length} wersetów</span>
+        ${jestLacina ? `<button class="przelacznik-laciny" aria-pressed="${!schowana}">${
+          schowana ? 'Pokaż Wulgatę' : 'Ukryj Wulgatę'}</button>` : ''}</h2>
+      <div class="paralela${jestLacina ? ' trojjezyczna' : ''}${schowana ? ' bez-laciny' : ''}">
         <div class="glowka"></div>
         <div class="glowka">Tekst grecki — Nestle-Aland 28</div>
         <div class="glowka">Przekład roboczy</div>
+        ${jestLacina ? '<div class="glowka">Wulgata</div>' : ''}
         ${wiersze}
       </div>
     </section>`;
@@ -589,6 +661,40 @@ function leksykonBloku(d, b) {
     </div>`;
 }
 
+// ---------- morfologia: kod dziesięcioznakowy (MorphGNT) po polsku ----------
+const MORF = {
+  czesc:  {n:'rzeczownik', v:'czasownik', a:'przymiotnik', d:'przysłówek',
+           c:'spójnik', p:'przyimek', x:'partykuła', i:'wykrzyknik', m:'liczebnik'},
+  zaimek: {a:'rodzajnik', d:'zaimek wskazujący', i:'zaimek pytajny/nieokreślony',
+           p:'zaimek osobowy', r:'zaimek względny', s:'zaimek dzierżawczy'},
+  osoba:  {1:'1. osoba', 2:'2. osoba', 3:'3. osoba'},
+  czas:   {p:'praesens', i:'imperfectum', f:'futurum', a:'aoryst',
+           x:'perfectum', y:'plusquamperfectum'},
+  strona: {a:'strona czynna', m:'medium', p:'strona bierna'},
+  tryb:   {i:'tryb oznajmujący', d:'tryb rozkazujący', s:'coniunctivus',
+           o:'optativus', n:'bezokolicznik', p:'imiesłów'},
+  przyp:  {n:'mianownik', g:'dopełniacz', d:'celownik', a:'biernik', v:'wołacz'},
+  liczba: {s:'liczba pojedyncza', p:'liczba mnoga'},
+  rodzaj: {m:'rodzaj męski', f:'rodzaj żeński', n:'rodzaj nijaki'},
+  stopien:{c:'stopień wyższy', s:'stopień najwyższy'},
+};
+
+function opiszMorfologie(kod) {
+  if (!kod) return '';
+  const z = i => { const c = kod[i]; return c && c !== '-' ? c : null; };
+  const cz = [];
+  if (z(0) === 'r') cz.push(MORF.zaimek[z(1)] || 'zaimek');
+  else if (z(0)) cz.push(MORF.czesc[z(0)] || z(0));
+  cz.push(MORF.osoba[z(2)], MORF.czas[z(3)], MORF.strona[z(4)], MORF.tryb[z(5)],
+          MORF.przyp[z(6)], MORF.liczba[z(7)], MORF.rodzaj[z(8)], MORF.stopien[z(9)]);
+  return cz.filter(Boolean).join(' · ');
+}
+
+// znaki aparatu NA28 wplecione w tekst grecki (°, ⸀, ⸂, ⸆ …)
+const SIGLA = /([°˸⸀-⸟][¹²³]?)/g;
+const zSiglami = t => esc(t).replace(SIGLA, '<span class="sigla">$1</span>');
+const wSiglach = h => h.replace(SIGLA, '<span class="sigla">$1</span>');
+
 // interlinia grecko-polska dla wersetów bloku; `red` znaczy słowa Jezusa
 function interliniaBloku(d, b) {
   const od = [b.chapter_start, b.verse_start], az = [b.chapter_end, b.verse_end];
@@ -600,21 +706,39 @@ function interliniaBloku(d, b) {
     if (!wersety.has(klucz)) wersety.set(klucz, []);
     wersety.get(klucz).push(w);
   }
-  const opis = w => [w.strong ? 'Strong ' + w.strong : '', w.morphology, w.footnote]
+  const opis = w => [w.strong ? 'Strong ' + w.strong : '', opiszMorfologie(w.morphology)]
     .filter(Boolean).join(' · ');
   return `<div class="interlinia">
     ${[...wersety.entries()].map(([klucz, ws]) => {
       const [ch, v] = klucz.split(',').map(Number);
       return `<div class="il-werset">
         <span class="il-nr">${numerWersetu(d.head, {chapter: ch, verse_num: v})}</span>
-        ${ws.map(w => `<span class="il-slowo${w.red ? ' mowa' : ''}" title="${esc(opis(w))}">
-          <span class="gr" lang="grc">${esc(w.text)}</span>
+        ${ws.map(w => `<span class="il-slowo${w.red ? ' mowa' : ''}" title="${esc(opis(w))}"
+            data-gr="${esc(w.text)}" data-pl="${esc(w.translation || '')}"
+            data-strong="${esc(w.strong || '')}" data-morf="${esc(w.morphology || '')}"
+            data-fn="${esc(w.footnote || '')}" tabindex="0">
+          <span class="gr" lang="grc">${zSiglami(w.text)}</span>
           <span class="pl${!w.translation || w.translation === '-' ? ' brak' : ''}">${
             esc(w.translation || '–')}</span>
         </span>`).join('')}
       </div>`;
     }).join('')}
   </div>`;
+}
+
+// aparat krytyczny NA28 z bazy źródłowej, przypisany do wersetów bloku
+function aparatNA28Bloku(d, b) {
+  const od = [b.chapter_start, b.verse_start], az = [b.chapter_end, b.verse_end];
+  const wpisy = (d.aparat || []).filter(a => wZakresie([a.chapter, a.verse], od, az));
+  if (!wpisy.length) return '';
+  return `
+    <div class="aparat-bloku na28">
+      <h4>Aparat NA28 <span class="liczba-drobna">${wpisy.length}</span></h4>
+      ${wpisy.map(a => `<div class="ap-wpis">
+        <span class="ap-nr">${numerWersetu(d.head, {chapter: a.chapter, verse_num: a.verse})}</span>
+        <span class="ap-tresc">${wSiglach(a.text)}</span>
+      </div>`).join('')}
+    </div>`;
 }
 
 function aparatBloku(d, b) {
@@ -653,6 +777,7 @@ function czescAnaliza(d) {
               ${md(u.body_md)}
             </div>`).join('')}
           ${leksykonBloku(d, b)}
+          ${aparatNA28Bloku(d, b)}
           ${aparatBloku(d, b)}
         </div>`).join('')}
     </section>`;
@@ -710,6 +835,16 @@ async function otworz(id) {
       ${czesci.map(([, , html]) => html).join('')}
     </article>`;
 
+  const przelacznik = $('.przelacznik-laciny');
+  if (przelacznik) przelacznik.onclick = () => {
+    const tabela = $('.paralela');
+    const chowamy = !tabela.classList.contains('bez-laciny');
+    tabela.classList.toggle('bez-laciny', chowamy);
+    localStorage.setItem(BEZ_LACINY, chowamy ? '1' : '0');
+    przelacznik.textContent = chowamy ? 'Pokaż Wulgatę' : 'Ukryj Wulgatę';
+    przelacznik.setAttribute('aria-pressed', String(!chowamy));
+  };
+
   sledzSekcje();
   window.scrollTo(0, 0);
   if (window.innerWidth <= 860) $('#lista').classList.add('schowana');
@@ -759,6 +894,46 @@ $$('header nav button').forEach(b => b.onclick = async () => {
 });
 
 $('#menu').onclick = () => $('#lista').classList.toggle('schowana');
+
+// ---------- okienko szczegółów słowa (Strong, morfologia, przypis) ----------
+function zamknijOkienko() { $('#okno-slowa')?.remove(); }
+
+function pokazOkienko(el) {
+  zamknijOkienko();
+  const d = el.dataset;
+  const okno = document.createElement('div');
+  okno.id = 'okno-slowa';
+  okno.innerHTML = `
+    <button class="zamknij" aria-label="Zamknij">×</button>
+    <div class="ow-gr" lang="grc">${zSiglami(d.gr)}</div>
+    ${d.pl && d.pl !== '-' ? `<div class="ow-pl">${esc(d.pl)}</div>` : ''}
+    <dl>
+      ${d.strong ? `<dt>Strong</dt><dd><a href="https://biblehub.com/greek/${
+        encodeURIComponent(d.strong)}.htm" target="_blank" rel="noopener">${esc(d.strong)}</a></dd>` : ''}
+      ${d.morf ? `<dt>Morfologia</dt><dd>${esc(opiszMorfologie(d.morf))}
+        <span class="kod">${esc(d.morf)}</span></dd>` : ''}
+      ${d.fn ? `<dt>Przypis</dt><dd>${esc(d.fn)}</dd>` : ''}
+    </dl>`;
+  document.body.appendChild(okno);
+  const r = el.getBoundingClientRect();
+  const szer = okno.offsetWidth;
+  const lewo = Math.min(Math.max(8, r.left + window.scrollX - 10),
+                        window.scrollX + document.documentElement.clientWidth - szer - 8);
+  okno.style.left = lewo + 'px';
+  okno.style.top = (r.bottom + window.scrollY + 6) + 'px';
+  okno.querySelector('.zamknij').onclick = zamknijOkienko;
+}
+
+document.addEventListener('click', e => {
+  if (e.target.closest('#okno-slowa')) return;
+  const slowo = e.target.closest('.il-slowo');
+  if (slowo) pokazOkienko(slowo); else zamknijOkienko();
+});
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') zamknijOkienko();
+  if (e.key === 'Enter' && document.activeElement?.classList.contains('il-slowo'))
+    pokazOkienko(document.activeElement);
+});
 
 // ---------- wyszukiwarka ----------
 let timer;

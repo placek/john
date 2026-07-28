@@ -9,10 +9,13 @@ Potem:          http://localhost:8000
 Bez zależności zewnętrznych (tylko biblioteka standardowa).
 Baza jest otwierana w trybie tylko do odczytu.
 """
+import html
+import html.parser
 import http.server
 import json
 import os
 import pathlib
+import re
 import socketserver
 import sqlite3
 import urllib.parse
@@ -45,6 +48,63 @@ def qt(sql, args=()):
     if not DB_TEKST.exists():
         return []
     return _pytaj(DB_TEKST, sql, args)
+
+
+class _CzystyAparat(html.parser.HTMLParser):
+    """Aparat w bazie jest HTML-em z odsyłaczami do wewnętrznej pomocy
+    (`href="C:@1018 0"`). Zostawiamy sam tekst i minimalny zestaw znaczników:
+    <el> (greka) zamieniamy na rozpoznawalny <span>, resztę odrzucamy."""
+
+    DOZWOLONE = {"sup", "sub", "em", "i", "b", "small"}
+
+    def __init__(self):
+        super().__init__()
+        self.kawalki = []
+        self.stos = []          # źródło bywa niedomknięte — domykamy sami
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.DOZWOLONE:
+            self.kawalki.append(f"<{tag}>")
+            self.stos.append(tag)
+        elif tag == "el":
+            self.kawalki.append('<span class="ap-gr">')
+            self.stos.append("span")
+
+    def handle_endtag(self, tag):
+        znacznik = "span" if tag == "el" else tag
+        if znacznik not in self.stos:
+            return                       # zamknięcie bez otwarcia — pomijamy
+        while self.stos:                 # domknij też to, co zostało otwarte w środku
+            otwarty = self.stos.pop()
+            self.kawalki.append(f"</{otwarty}>")
+            if otwarty == znacznik:
+                break
+
+    def handle_data(self, data):
+        self.kawalki.append(html.escape(data))
+
+    def zamknij(self):
+        self.close()
+        while self.stos:
+            self.kawalki.append(f"</{self.stos.pop()}>")
+        return " ".join("".join(self.kawalki).split())
+
+
+_SUP = re.compile(r"<sup>((?:(?!</?sup>).)*)</sup>")
+
+
+def oczysc_aparat(tekst):
+    p = _CzystyAparat()
+    p.feed(tekst or "")
+    wynik = p.zamknij()
+    # W źródle bywa gubione </sup>, więc po zbilansowaniu indeksem górnym
+    # obejmowane są całe frazy. Prawdziwe siglum jest krótkie (75, *, ms,
+    # v.l., 1.13) — dłuższe zawartości rozwijamy do zwykłego tekstu.
+    while True:
+        krotszy = _SUP.sub(lambda m: m.group(0) if len(m.group(1)) <= 6 else m.group(1), wynik)
+        if krotszy == wynik:
+            return wynik
+        wynik = krotszy
 
 
 # ---------------------------------------------------------------- API
@@ -150,6 +210,27 @@ def api_pericope(pid):
                     (KSIEGA_JANA, head["chapter_start"], head["verse_start"],
                      head["chapter_end"], head["verse_end"]))
 
+    # Wulgata — trzecia kolumna tekstu paralelnego
+    lacina = qt("""SELECT chapter, verse, text
+                   FROM latin_verses
+                   WHERE book = ?
+                     AND (chapter, verse) BETWEEN (?, ?) AND (?, ?)
+                   ORDER BY chapter, verse""",
+                (KSIEGA_JANA, head["chapter_start"], head["verse_start"],
+                 head["chapter_end"], head["verse_end"]))
+
+    # aparat krytyczny NA28 (commentaries) — wpisy kluczowane markerem, który
+    # jest wpleciony w tekst grecki interlinii (np. °, ⸀, ⸂)
+    aparat = [{"chapter": r["chapter_from"], "verse": r["verse_from"],
+               "marker": r["marker"], "text": oczysc_aparat(r["text"])}
+              for r in qt("""SELECT chapter_from, verse_from, marker, text
+                             FROM commentaries
+                             WHERE book = ?
+                               AND (chapter_from, verse_from) BETWEEN (?, ?) AND (?, ?)
+                             ORDER BY chapter_from, verse_from, marker""",
+                          (KSIEGA_JANA, head["chapter_start"], head["verse_start"],
+                           head["chapter_end"], head["verse_end"]))]
+
     themes = q("""SELECT DISTINCT t.name FROM theme_link tl
                   JOIN theme t ON t.id = tl.theme_id
                   LEFT JOIN section s  ON s.id  = tl.section_id
@@ -165,8 +246,8 @@ def api_pericope(pid):
     return {"head": head, "verses": verses, "sections": sections,
             "blocks": blocks, "units": units, "catena": catena,
             "refs": refs, "liturgy": liturgy, "textual": textual,
-            "lexemes": lexemes, "interlinia": interlinia,
-            "themes": [t["name"] for t in themes]}
+            "lexemes": lexemes, "interlinia": interlinia, "aparat": aparat,
+            "lacina": lacina, "themes": [t["name"] for t in themes]}
 
 
 def api_search(term):
