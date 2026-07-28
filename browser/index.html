@@ -5,37 +5,38 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Egzegeza Ewangelii św. Jana</title>
 <style>
+  /* paleta Solarized (Ethan Schoonover) — akcenty identyczne w obu wariantach */
   :root {
-    --tlo: #faf7f1;
-    --papier: #fffdf8;
-    --papier-2: #f5f0e6;
-    --tekst: #221f1a;
-    --przygaszony: #6f675b;
-    --linia: #e3dccd;
-    --linia-mocna: #cdc2ac;
-    --akcent: #7a1f1f;
-    --akcent-jasny: #f3e9e4;
-    --greka: #1c4a5a;
-    --zloto: #9a7734;
-    --czerwien: #b3261e;          /* verba Christi — słowa Jezusa */
-    --lacina: #5f5340;            /* Wulgata */
-    --cien: 0 1px 2px rgba(60, 48, 30, .05);
+    --tlo: #eee8d5;              /* base2  — tło strony */
+    --papier: #fdf6e3;           /* base3  — karty (jaśniejsze niż tło) */
+    --papier-2: #e3dcc7;         /* base2 przyciemniony — główki kart */
+    --tekst: #073642;            /* base02 — tekst zasadniczy */
+    --przygaszony: #657b83;      /* base00 — tekst przygaszony */
+    --linia: #ddd6c0;
+    --linia-mocna: #c9c2aa;      /* base1  */
+    --akcent: #cb4b16;           /* orange — tytuły, nagłówki */
+    --akcent-jasny: #f2e2d0;     /* wash pomarańczowy — stany aktywne */
+    --greka: #268bd2;            /* blue   — greka */
+    --zloto: #b58900;            /* yellow — numery, drobne akcenty */
+    --czerwien: #dc322f;         /* red    — verba Christi, słowa Jezusa */
+    --lacina: #6c71c5;           /* violet — Wulgata */
+    --cien: 0 1px 2px rgba(88, 110, 117, .12);
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --tlo: #16150f;
-      --papier: #1d1c16;
-      --papier-2: #24221a;
-      --tekst: #e8e2d5;
-      --przygaszony: #a39a89;
-      --linia: #34301f;
-      --linia-mocna: #4a4430;
-      --akcent: #d98b7f;
-      --akcent-jasny: #2c211d;
-      --greka: #8fc4d4;
-      --zloto: #cfa960;
-      --czerwien: #ef9a95;
-      --lacina: #b6a98f;
+      --tlo: #002b36;            /* base03 — tło strony */
+      --papier: #073642;         /* base02 — karty */
+      --papier-2: #0d4451;       /* base02 rozjaśniony — główki kart */
+      --tekst: #93a1a1;          /* base1  — tekst zasadniczy */
+      --przygaszony: #657b83;    /* base00 — tekst przygaszony */
+      --linia: #0d3b47;
+      --linia-mocna: #2a4a54;
+      --akcent: #cb4b16;         /* orange */
+      --akcent-jasny: #0e3b45;   /* przyciemniony wash — stany aktywne */
+      --greka: #268bd2;          /* blue   */
+      --zloto: #b58900;          /* yellow */
+      --czerwien: #dc322f;       /* red    */
+      --lacina: #6c71c5;         /* violet */
       --cien: none;
     }
   }
@@ -376,7 +377,7 @@
   .wynik:hover { background: var(--papier); }
   .wynik .gdzie { font-size: .78rem; color: var(--akcent); margin-bottom: .2rem; }
   .wynik .snip { font-size: .9rem; color: var(--przygaszony); }
-  mark { background: #f6e2a8; color: #221f1a; padding: 0 .1em; }
+  mark { background: var(--zloto); color: var(--papier); padding: 0 .1em; }
 
   p { margin: 0 0 .85rem; }
   .pusto { color: var(--przygaszony); font-style: italic; }
@@ -419,7 +420,7 @@
   @media print {
     header.gorny, aside, nav.spis { display: none; }
     main { max-width: none; padding: 0; }
-    body { background: #fff; font-size: 11pt; }
+    body { background: var(--papier); font-size: 11pt; }
   }
 </style>
 </head>
