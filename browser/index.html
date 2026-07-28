@@ -297,6 +297,11 @@
   .il-slowo.mowa .pl { color: var(--czerwien); opacity: .78; }
   .il-slowo { cursor: pointer; }
   .il-slowo:focus-visible { outline: 2px solid var(--zloto); outline-offset: 1px; }
+  /* słowo z hasłem słownikowym — kropkowane podkreślenie jako sygnał „kliknij" */
+  .il-slowo.ma-leksykon .gr {
+    text-decoration: underline dotted var(--zloto);
+    text-underline-offset: 3px;
+  }
   .sigla { color: var(--zloto); font-size: .82em; vertical-align: .12em; }
 
   /* okienko szczegółów słowa */
@@ -312,6 +317,12 @@
   }
   #okno-slowa .ow-gr { color: var(--greka); font-size: 1.25rem; line-height: 1.3; }
   #okno-slowa .ow-pl { color: var(--przygaszony); font-style: italic; margin-bottom: .5rem; }
+  #okno-slowa .ow-leks {
+    margin: .1rem 0 .55rem; padding-top: .5rem; border-top: 1px solid var(--linia);
+  }
+  #okno-slowa .ow-lemat { color: var(--greka); font-weight: bold; }
+  #okno-slowa .ow-translit { color: var(--przygaszony); font-style: italic; font-size: .82rem; }
+  #okno-slowa .ow-gloss { font-size: .9rem; margin-top: .15rem; }
   #okno-slowa dl { display: grid; grid-template-columns: auto 1fr; gap: .2rem .7rem; margin: .5rem 0 0; }
   #okno-slowa dt {
     font-size: .68rem; text-transform: uppercase; letter-spacing: .1em;
@@ -646,6 +657,10 @@ function czescLiturgia(d) {
 // ---------- 5. analiza wers po wersie ----------
 function leksykonBloku(d, b) {
   const od = [b.chapter_start, b.verse_start], az = [b.chapter_end, b.verse_end];
+  // Gdy blok ma interlinię, znaczenia słów żyją w dymkach interlinii —
+  // nie dublujemy ich osobną listą pod komentarzem. Lista zostaje tylko
+  // jako awaryjny widok dla bloków bez interlinii.
+  if ((d.interlinia || []).some(w => wZakresie([w.chapter, w.verse], od, az))) return '';
   const wybrane = (d.lexemes || []).filter(l => wZakresie([l.chapter, l.verse_num], od, az));
   if (!wybrane.length) return '';
   const wg = new Map();
@@ -705,32 +720,51 @@ const SIGLA = /([°˸⸀-⸟][¹²³]?)/g;
 const zSiglami = t => esc(t).replace(SIGLA, '<span class="sigla">$1</span>');
 const wSiglach = h => h.replace(SIGLA, '<span class="sigla">$1</span>');
 
+// Dopasowanie hasła słownikowego (leksemu) do słowa interlinii po znormalizowanej
+// formie greckiej: bez wielkości liter, akcentów, przydechów, joty subskrybowanej,
+// interpunkcji i znaków aparatu; sigma końcowa = zwykła. Forma leksemu bywa frazą
+// (np. „ὁ λόγος", „ἐν ἀρχῇ") — bierzemy wyraz główny, czyli ostatni token.
+const greckaBaza = s => (s || '').toLowerCase().normalize('NFD')
+  .replace(/[̀-ͯ]/g, '').replace(/ς/g, 'σ').replace(/[^α-ω]/g, '');
+const formaCelu = f => greckaBaza((f || '').trim().split(/\s+/).pop());
+
 // interlinia grecko-polska dla wersetów bloku; `red` znaczy słowa Jezusa
 function interliniaBloku(d, b) {
   const od = [b.chapter_start, b.verse_start], az = [b.chapter_end, b.verse_end];
   const slowa = (d.interlinia || []).filter(w => wZakresie([w.chapter, w.verse], od, az));
   if (!slowa.length) return '';
+  // indeks leksemów tej perykopy po (rozdział, werset, znormalizowana forma) —
+  // pozwala dołożyć hasło słownikowe do dymka właściwego słowa interlinii
+  const leks = new Map();
+  for (const l of (d.lexemes || []))
+    leks.set(l.chapter + ',' + l.verse_num + ',' + formaCelu(l.form_in_text), l);
   const wersety = new Map();
   for (const w of slowa) {
     const klucz = w.chapter + ',' + w.verse;
     if (!wersety.has(klucz)) wersety.set(klucz, []);
     wersety.get(klucz).push(w);
   }
-  const opis = w => [w.strong ? 'Strong ' + w.strong : '', opiszMorfologie(w.morphology)]
-    .filter(Boolean).join(' · ');
+  const opis = (w, l) => [w.strong ? 'Strong ' + w.strong : '',
+    opiszMorfologie(w.morphology), l && l.gloss_pl].filter(Boolean).join(' · ');
   return `<div class="interlinia">
     ${[...wersety.entries()].map(([klucz, ws]) => {
       const [ch, v] = klucz.split(',').map(Number);
       return `<div class="il-werset">
         <span class="il-nr">${numerWersetu(d.head, {chapter: ch, verse_num: v})}</span>
-        ${ws.map(w => `<span class="il-slowo${w.red ? ' mowa' : ''}" title="${esc(opis(w))}"
+        ${ws.map(w => {
+          const l = leks.get(w.chapter + ',' + w.verse + ',' + greckaBaza(w.text));
+          return `<span class="il-slowo${w.red ? ' mowa' : ''}${l ? ' ma-leksykon' : ''}"
+            title="${esc(opis(w, l))}"
             data-gr="${esc(w.text)}" data-pl="${esc(w.translation || '')}"
             data-strong="${esc(w.strong || '')}" data-morf="${esc(w.morphology || '')}"
-            data-fn="${esc(w.footnote || '')}" tabindex="0">
+            data-fn="${esc(w.footnote || '')}" data-lemat="${esc(l ? l.lemma : '')}"
+            data-translit="${esc(l && l.translit || '')}" data-gloss="${esc(l && l.gloss_pl || '')}"
+            tabindex="0">
           <span class="gr" lang="grc">${zSiglami(w.text)}</span>
           <span class="pl${!w.translation || w.translation === '-' ? ' brak' : ''}">${
             esc(w.translation || '–')}</span>
-        </span>`).join('')}
+        </span>`;
+        }).join('')}
       </div>`;
     }).join('')}
   </div>`;
@@ -920,6 +954,11 @@ function pokazOkienko(el) {
     <button class="zamknij" aria-label="Zamknij">×</button>
     <div class="ow-gr" lang="grc">${zSiglami(d.gr)}</div>
     ${d.pl && d.pl !== '-' ? `<div class="ow-pl">${esc(d.pl)}</div>` : ''}
+    ${d.lemat ? `<div class="ow-leks">
+      <span class="ow-lemat" lang="grc">${esc(d.lemat)}</span>${
+        d.translit ? ` <span class="ow-translit">${esc(d.translit)}</span>` : ''}
+      ${d.gloss ? `<div class="ow-gloss">${esc(d.gloss)}</div>` : ''}
+    </div>` : ''}
     <dl>
       ${d.strong ? `<dt>Strong</dt><dd><a href="https://biblehub.com/greek/${
         encodeURIComponent(d.strong)}.htm" target="_blank" rel="noopener">${esc(d.strong)}</a></dd>` : ''}
