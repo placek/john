@@ -202,7 +202,7 @@ def api_pericope(pid):
     # interlinia grecko-polska z bazy źródłowej (db.sqlite): słowo po słowie,
     # z kodem Stronga, morfologią i znacznikiem `red` (słowa Jezusa)
     interlinia = qt("""SELECT chapter, verse, position, text, translation,
-                              strong, morphology, footnote, red
+                              strong, morphology, red
                        FROM words
                        WHERE book = ?
                          AND (chapter, verse) BETWEEN (?, ?) AND (?, ?)

@@ -757,7 +757,7 @@ function interliniaBloku(d, b) {
             title="${esc(opis(w, l))}"
             data-gr="${esc(w.text)}" data-pl="${esc(w.translation || '')}"
             data-strong="${esc(w.strong || '')}" data-morf="${esc(w.morphology || '')}"
-            data-fn="${esc(w.footnote || '')}" data-lemat="${esc(l ? l.lemma : '')}"
+            data-lemat="${esc(l ? l.lemma : '')}"
             data-translit="${esc(l && l.translit || '')}" data-gloss="${esc(l && l.gloss_pl || '')}"
             tabindex="0">
           <span class="gr" lang="grc">${zSiglami(w.text)}</span>
@@ -964,7 +964,6 @@ function pokazOkienko(el) {
         encodeURIComponent(d.strong)}.htm" target="_blank" rel="noopener">${esc(d.strong)}</a></dd>` : ''}
       ${d.morf ? `<dt>Morfologia</dt><dd>${esc(opiszMorfologie(d.morf))}
         <span class="kod">${esc(d.morf)}</span></dd>` : ''}
-      ${d.fn ? `<dt>Przypis</dt><dd>${esc(d.fn)}</dd>` : ''}
     </dl>`;
   document.body.appendChild(okno);
   const r = el.getBoundingClientRect();
