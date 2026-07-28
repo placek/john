@@ -20,16 +20,31 @@ import urllib.parse
 HERE = pathlib.Path(__file__).resolve().parent          # browser/
 ROOT = HERE.parent
 DB = ROOT / "data" / "egzegeza_jana.sqlite"
+# Baza źródłowa tekstu: interlinia grecko-polska (words), aparat (commentaries)
+# i Wulgata (latin_verses). Ewangelia Jana ma w niej numer księgi 500.
+DB_TEKST = ROOT / "db.sqlite"
+KSIEGA_JANA = 500
 PORT = int(os.environ.get("PORT", "8000"))
 
 
-def q(sql, args=()):
-    con = sqlite3.connect(f"file:{DB}?mode=ro", uri=True)
+def _pytaj(baza, sql, args=()):
+    con = sqlite3.connect(f"file:{baza}?mode=ro", uri=True)
     con.row_factory = sqlite3.Row
     try:
         return [dict(r) for r in con.execute(sql, args)]
     finally:
         con.close()
+
+
+def q(sql, args=()):
+    return _pytaj(DB, sql, args)
+
+
+def qt(sql, args=()):
+    """Zapytanie do bazy źródłowej tekstu; bez niej po prostu brak danych."""
+    if not DB_TEKST.exists():
+        return []
+    return _pytaj(DB_TEKST, sql, args)
 
 
 # ---------------------------------------------------------------- API
@@ -124,6 +139,17 @@ def api_pericope(pid):
                      AND (v.chapter, v.verse_num) BETWEEN (?, ?) AND (?, ?)
                    ORDER BY v.chapter, v.verse_num, l.lemma""", zakres)
 
+    # interlinia grecko-polska z bazy źródłowej (db.sqlite): słowo po słowie,
+    # z kodem Stronga, morfologią i znacznikiem `red` (słowa Jezusa)
+    interlinia = qt("""SELECT chapter, verse, position, text, translation,
+                              strong, morphology, footnote, red
+                       FROM words
+                       WHERE book = ?
+                         AND (chapter, verse) BETWEEN (?, ?) AND (?, ?)
+                       ORDER BY chapter, verse, position""",
+                    (KSIEGA_JANA, head["chapter_start"], head["verse_start"],
+                     head["chapter_end"], head["verse_end"]))
+
     themes = q("""SELECT DISTINCT t.name FROM theme_link tl
                   JOIN theme t ON t.id = tl.theme_id
                   LEFT JOIN section s  ON s.id  = tl.section_id
@@ -139,7 +165,8 @@ def api_pericope(pid):
     return {"head": head, "verses": verses, "sections": sections,
             "blocks": blocks, "units": units, "catena": catena,
             "refs": refs, "liturgy": liturgy, "textual": textual,
-            "lexemes": lexemes, "themes": [t["name"] for t in themes]}
+            "lexemes": lexemes, "interlinia": interlinia,
+            "themes": [t["name"] for t in themes]}
 
 
 def api_search(term):
