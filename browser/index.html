@@ -229,6 +229,16 @@
   }
   .ojciec .naglowek .pigulka { margin-left: auto; }
 
+  /* katena wpleciona w blok analizy */
+  .ojcowie-wstep { max-width: 46rem; margin-bottom: 2rem; color: var(--przygaszony); font-style: italic; }
+  .ojcowie-bloku { margin: 1.4rem 0 0; }
+  .ojcowie-glowka {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .14em;
+    color: var(--przygaszony); margin: 0 0 .7rem; font-weight: normal;
+    display: flex; align-items: baseline; gap: .5rem;
+  }
+  .ojcowie-bloku .ojciec:last-child { margin-bottom: 0; }
+
   /* ---------------------------------------------------------- liturgia */
   .liturgia-poz {
     display: grid; grid-template-columns: 7.5rem 1fr; gap: .2rem 1rem;
@@ -593,26 +603,25 @@ function czescKomentarz(d) {
     </section>`;
 }
 
-// ---------- 3. ojcowie Kościoła ----------
-function czescOjcowie(d) {
-  if (!d.catena.length) return '';
-  const wstep = d.sections.find(s => s.section_type === 'patrystyka' && !s.parent_id);
+// ---------- ojcowie Kościoła: katena wpleciona w bloki analizy ----------
+// Każdy głos patrystyczny wisi na etykiecie bloku (pc.block_id → cb.label),
+// więc renderujemy go wprost pod odpowiednim blokiem, nie w osobnej sekcji.
+function ojcowieBloku(d, b) {
+  const glosy = (d.catena || []).filter(c => c.label === b.label);
+  if (!glosy.length) return '';
   return `
-    <section class="czesc" id="cz-ojcowie">
-      <h2 class="naglowek-czesci">Ojcowie Kościoła
-        <span class="liczba">katena — ${d.catena.length} głosów</span></h2>
-      ${wstep?.body_md ? `<div class="proza"><p>${esc(wstep.body_md)}</p></div>` : ''}
-      ${d.catena.map(c => `
+    <div class="ojcowie-bloku">
+      <h4 class="ojcowie-glowka">Ojcowie Kościoła <span class="liczba-drobna">${glosy.length}</span></h4>
+      ${glosy.map(c => `
         <div class="ojciec">
           <div class="naglowek">
             <span class="autor">${esc(c.author)}</span>
             <span class="locus">${esc(c.title_pl || c.work_title || '')}${
               c.locus ? ', ' + esc(c.locus) : ''}</span>
-            <span class="pigulka">${esc(c.label)}</span>
           </div>
           ${md(c.body_md)}
         </div>`).join('')}
-    </section>`;
+    </div>`;
 }
 
 // ---------- 4. liturgia ----------
@@ -761,11 +770,14 @@ function aparatBloku(d, b) {
 function czescAnaliza(d) {
   if (!d.blocks.length) return '';
   const jestInterlinia = (d.interlinia || []).length > 0;
+  const wstepOjcowie = d.sections.find(s => s.section_type === 'patrystyka' && !s.parent_id);
   return `
     <section class="czesc" id="cz-analiza">
       <h2 class="naglowek-czesci">Analiza wers po wersie
-        <span class="liczba">${d.blocks.length} bloków · ${d.units.length} jednostek</span>
+        <span class="liczba">${d.blocks.length} bloków · ${d.units.length} jednostek${
+          d.catena.length ? ' · ' + d.catena.length + ' głosów Ojców' : ''}</span>
         ${jestInterlinia ? '<span class="legenda"><i class="probka"></i>słowa Jezusa</span>' : ''}</h2>
+      ${wstepOjcowie?.body_md ? `<div class="proza ojcowie-wstep"><p>${esc(wstepOjcowie.body_md)}</p></div>` : ''}
       ${d.blocks.map(b => `
         <div class="blok" id="blok-${b.id}">
           <div class="blok-glowka"><h3>${esc(b.label)}</h3></div>
@@ -777,6 +789,7 @@ function czescAnaliza(d) {
                 u.phrase_translation_pl ? ` <i>— ${esc(u.phrase_translation_pl)}</i>` : ''}</p>` : ''}
               ${md(u.body_md)}
             </div>`).join('')}
+          ${ojcowieBloku(d, b)}
           ${leksykonBloku(d, b)}
           ${aparatNA28Bloku(d, b)}
           ${aparatBloku(d, b)}
@@ -816,7 +829,6 @@ async function otworz(id) {
   const czesci = [
     ['cz-tekst', 'Tekst', czescTekst(d)],
     ['cz-komentarz', 'Komentarz', czescKomentarz(d)],
-    ['cz-ojcowie', 'Ojcowie', czescOjcowie(d)],
     ['cz-liturgia', 'Liturgia', czescLiturgia(d)],
     ['cz-analiza', 'Analiza', czescAnaliza(d)],
     ['cz-odniesienia', 'Odniesienia', czescOdniesienia(d)],
