@@ -25,14 +25,19 @@ ROOT = HERE.parent
 DB = ROOT / "data" / "egzegeza_jana.sqlite"
 # Baza źródłowa tekstu: interlinia grecko-polska (words), aparat (commentaries)
 # i Wulgata (latin_verses). Ewangelia Jana ma w niej numer księgi 500.
+# Dołączamy ją do połączenia przez ATTACH jako `zrodlo` — jedno połączenie
+# obsługuje obie bazy, a zapytania mogą łączyć egzegezę z tekstem w SQL.
 DB_TEKST = ROOT / "db.sqlite"
+MA_TEKST = DB_TEKST.exists()
 KSIEGA_JANA = 500
 PORT = int(os.environ.get("PORT", "8000"))
 
 
-def _pytaj(baza, sql, args=()):
-    con = sqlite3.connect(f"file:{baza}?mode=ro", uri=True)
+def _pytaj(sql, args=()):
+    con = sqlite3.connect(f"file:{DB}?mode=ro", uri=True)
     con.row_factory = sqlite3.Row
+    if MA_TEKST:
+        con.execute("ATTACH DATABASE ? AS zrodlo", (f"file:{DB_TEKST}?mode=ro",))
     try:
         return [dict(r) for r in con.execute(sql, args)]
     finally:
@@ -40,14 +45,14 @@ def _pytaj(baza, sql, args=()):
 
 
 def q(sql, args=()):
-    return _pytaj(DB, sql, args)
+    return _pytaj(sql, args)
 
 
 def qt(sql, args=()):
-    """Zapytanie do bazy źródłowej tekstu; bez niej po prostu brak danych."""
-    if not DB_TEKST.exists():
+    """Zapytanie sięgające tabel bazy źródłowej (zrodlo.*); bez niej brak danych."""
+    if not MA_TEKST:
         return []
-    return _pytaj(DB_TEKST, sql, args)
+    return _pytaj(sql, args)
 
 
 class _CzystyAparat(html.parser.HTMLParser):
@@ -203,7 +208,7 @@ def api_pericope(pid):
     # z kodem Stronga, morfologią i znacznikiem `red` (słowa Jezusa)
     interlinia = qt("""SELECT chapter, verse, position, text, translation,
                               strong, morphology, red
-                       FROM words
+                       FROM zrodlo.words
                        WHERE book = ?
                          AND (chapter, verse) BETWEEN (?, ?) AND (?, ?)
                        ORDER BY chapter, verse, position""",
@@ -212,7 +217,7 @@ def api_pericope(pid):
 
     # Wulgata — trzecia kolumna tekstu paralelnego
     lacina = qt("""SELECT chapter, verse, text
-                   FROM latin_verses
+                   FROM zrodlo.latin_verses
                    WHERE book = ?
                      AND (chapter, verse) BETWEEN (?, ?) AND (?, ?)
                    ORDER BY chapter, verse""",
@@ -224,7 +229,7 @@ def api_pericope(pid):
     aparat = [{"chapter": r["chapter_from"], "verse": r["verse_from"],
                "marker": r["marker"], "text": oczysc_aparat(r["text"])}
               for r in qt("""SELECT chapter_from, verse_from, marker, text
-                             FROM commentaries
+                             FROM zrodlo.commentaries
                              WHERE book = ?
                                AND (chapter_from, verse_from) BETWEEN (?, ?) AND (?, ?)
                              ORDER BY chapter_from, verse_from, marker""",
