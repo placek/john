@@ -182,15 +182,6 @@
     border-left: 1px solid var(--linia);
   }
   .paralela.trojjezyczna { grid-template-columns: 2.6rem minmax(0,1fr) minmax(0,1fr) minmax(0,1fr); }
-  .paralela.trojjezyczna.bez-laciny { grid-template-columns: 2.6rem minmax(0,1fr) minmax(0,1fr); }
-  .paralela.bez-laciny .la, .paralela.bez-laciny .glowka:nth-child(4) { display: none; }
-  .przelacznik-laciny {
-    margin-left: auto; border: 1px solid var(--linia-mocna); background: var(--tlo);
-    color: var(--przygaszony); cursor: pointer; border-radius: 3px;
-    font: inherit; font-size: .7rem; letter-spacing: .04em;
-    text-transform: none; padding: .2rem .6rem;
-  }
-  .przelacznik-laciny:hover { color: var(--akcent); border-color: var(--akcent); }
   .rozdzial-znacznik {
     grid-column: 1 / -1; padding: .45rem .9rem; background: var(--papier-2);
     border-bottom: 1px solid var(--linia); font-size: .7rem;
@@ -424,7 +415,7 @@
     section.czesc, .blok { scroll-margin-top: 3.2rem; }
     h1.tytul { font-size: 1.7rem; }
     /* tekst paralelny: greka nad przekładem, wspólny numer wersetu */
-    .paralela, .paralela.trojjezyczna, .paralela.trojjezyczna.bez-laciny {
+    .paralela, .paralela.trojjezyczna {
       grid-template-columns: 2.4rem minmax(0, 1fr);
     }
     .paralela .glowka { display: none; }
@@ -548,14 +539,11 @@ function numerWersetu(h, v) {
 }
 
 // ---------- 1. tekst paralelny ----------
-const BEZ_LACINY = 'egzegeza-bez-laciny';
-
 function czescTekst(d) {
   const h = d.head;
   if (!d.verses.length) return '';
   const lacina = new Map((d.lacina || []).map(l => [l.chapter + ',' + l.verse, l.text]));
   const jestLacina = lacina.size > 0;
-  const schowana = jestLacina && localStorage.getItem(BEZ_LACINY) === '1';
   let poprzedniRozdzial = null;
   const wiersze = d.verses.map(v => {
     let znacznik = '';
@@ -577,10 +565,8 @@ function czescTekst(d) {
       <h2 class="naglowek-czesci">Tekst perykopy
         <span class="liczba">${esc(h.abbrev_pl)} ${h.chapter_start},${h.verse_start}–${
           h.chapter_start === h.chapter_end ? h.verse_end : h.chapter_end + ',' + h.verse_end
-        } · ${d.verses.length} wersetów</span>
-        ${jestLacina ? `<button class="przelacznik-laciny" aria-pressed="${!schowana}">${
-          schowana ? 'Pokaż Wulgatę' : 'Ukryj Wulgatę'}</button>` : ''}</h2>
-      <div class="paralela${jestLacina ? ' trojjezyczna' : ''}${schowana ? ' bez-laciny' : ''}">
+        } · ${d.verses.length} wersetów</span></h2>
+      <div class="paralela${jestLacina ? ' trojjezyczna' : ''}">
         <div class="glowka"></div>
         <div class="glowka">Tekst grecki — Nestle-Aland 28</div>
         <div class="glowka">Przekład roboczy</div>
@@ -881,16 +867,6 @@ async function otworz(id) {
       </nav>
       ${czesci.map(([, , html]) => html).join('')}
     </article>`;
-
-  const przelacznik = $('.przelacznik-laciny');
-  if (przelacznik) przelacznik.onclick = () => {
-    const tabela = $('.paralela');
-    const chowamy = !tabela.classList.contains('bez-laciny');
-    tabela.classList.toggle('bez-laciny', chowamy);
-    localStorage.setItem(BEZ_LACINY, chowamy ? '1' : '0');
-    przelacznik.textContent = chowamy ? 'Pokaż Wulgatę' : 'Ukryj Wulgatę';
-    przelacznik.setAttribute('aria-pressed', String(!chowamy));
-  };
 
   sledzSekcje();
   window.scrollTo(0, 0);
