@@ -322,10 +322,49 @@ def api_lexicon():
 
 
 def api_themes():
-    return q("""SELECT t.name, t.description_md,
-                       count(tl.id) AS powiazania
-                FROM theme t LEFT JOIN theme_link tl ON tl.theme_id = t.id
-                GROUP BY t.id ORDER BY t.name""")
+    # Każdy motyw rozwijamy do perykop, których dotyka — kotwica motywu
+    # (theme_link) wisi na perykopie, sekcji, bloku albo jednostce analizy,
+    # więc do perykopy docieramy przez COALESCE po całym łańcuchu.
+    rows = q("""
+        SELECT t.id AS theme_id, t.name, t.description_md,
+               p.id AS pericope_id, p.position, p.title,
+               b.abbrev_pl || ' ' || p.chapter_start || ',' || p.verse_start ||
+               '-' || CASE WHEN p.chapter_start = p.chapter_end
+                           THEN p.verse_end
+                           ELSE p.chapter_end || ',' || p.verse_end END AS siglum
+        FROM theme t
+        LEFT JOIN theme_link tl ON tl.theme_id = t.id
+        LEFT JOIN section s   ON s.id  = tl.section_id
+        LEFT JOIN commentary_block cb  ON cb.id  = tl.block_id
+        LEFT JOIN section s2  ON s2.id = cb.section_id
+        LEFT JOIN analysis_unit au ON au.id = tl.analysis_unit_id
+        LEFT JOIN commentary_block cb2 ON cb2.id = au.block_id
+        LEFT JOIN section s3  ON s3.id = cb2.section_id
+        LEFT JOIN pericope p ON p.id = COALESCE(tl.pericope_id, s.pericope_id,
+                                                s2.pericope_id, s3.pericope_id)
+        LEFT JOIN book b ON b.id = p.book_id
+        ORDER BY t.name, p.position, p.id""")
+    motywy, indeks = [], {}
+    for r in rows:
+        m = indeks.get(r["theme_id"])
+        if m is None:
+            m = {"name": r["name"], "description_md": r["description_md"],
+                 "pericopes": [], "_pid": {}}
+            indeks[r["theme_id"]] = m
+            motywy.append(m)
+        pid = r["pericope_id"]
+        if pid is None:
+            continue
+        pp = m["_pid"].get(pid)
+        if pp is None:
+            pp = {"id": pid, "siglum": r["siglum"], "title": r["title"], "n": 0}
+            m["_pid"][pid] = pp
+            m["pericopes"].append(pp)
+        pp["n"] += 1
+    for m in motywy:
+        m.pop("_pid")
+        m["powiazania"] = sum(pp["n"] for pp in m["pericopes"])
+    return motywy
 
 
 ROUTES = {

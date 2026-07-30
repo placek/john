@@ -395,6 +395,26 @@
   td.lemat { color: var(--greka); font-weight: bold; white-space: nowrap; }
   .relacja { font-size: .7rem; text-transform: uppercase; letter-spacing: .06em; color: var(--zloto); }
   .motywy { display: flex; gap: .4rem; flex-wrap: wrap; }
+  /* motyw → perykopy: żetony-linki do perykop dotkniętych danym motywem */
+  .motyw-perykopy {
+    display: flex; flex-wrap: wrap; align-items: center; gap: .35rem;
+    margin: .5rem 0 .2rem;
+  }
+  .motyw-perykopy .etykieta {
+    font-size: .7rem; text-transform: uppercase; letter-spacing: .08em;
+    color: var(--przygaszony); margin-right: .15rem;
+  }
+  a.perykopa-pigulka {
+    font-size: .78rem; color: var(--greka); text-decoration: none;
+    border: 1px solid var(--linia-mocna); background: var(--tlo);
+    padding: .1rem .5rem; border-radius: 999px; white-space: nowrap;
+  }
+  a.perykopa-pigulka:hover {
+    color: var(--akcent); border-color: var(--akcent); background: var(--akcent-jasny);
+  }
+  a.perykopa-pigulka .ile {
+    font-size: .66rem; color: var(--przygaszony); font-variant-numeric: tabular-nums;
+  }
 
   .wynik { padding: .8rem .9rem; border-bottom: 1px solid var(--linia); cursor: pointer; }
   .wynik:hover { background: var(--papier); }
@@ -1022,7 +1042,12 @@ async function pokazMotywy() {
     <h1 class="tytul">Motywy</h1>
     <p class="motto">Nici tematyczne przez całą księgę</p></div>
     <div class="proza">${t.map(x => `<div class="sekcja"><h3>${esc(x.name)}</h3>
-      ${mdRef(x.description_md)}<p class="motto">powiązań: ${x.powiazania}</p></div>`).join('')}</div>`;
+      ${mdRef(x.description_md)}
+      ${x.pericopes.length ? `<div class="motyw-perykopy">
+        <span class="etykieta">Perykopy (${x.pericopes.length})</span>
+        ${x.pericopes.map(pp => `<a class="perykopa-pigulka" href="#${esc(pp.siglum.replace(/\s+/g, '+'))}"
+          title="${esc(pp.title)}">${esc(pp.siglum)}${pp.n > 1 ? ` <span class="ile">${pp.n}</span>` : ''}</a>`).join('')}
+      </div>` : ''}</div>`).join('')}</div>`;
   window.scrollTo(0, 0);
 }
 
