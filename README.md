@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–10,21** w dwudziestu czterech perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz dwadzieścia trzy perykopy J 1,15–10,21; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–10,42** w dwudziestu pięciu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz dwadzieścia cztery perykopy J 1,15–10,42; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -31,6 +31,7 @@ data/                     ← źródła (pod kontrolą wersji)
   abraham.json           J 8,31-59 (Prawda, wolność i Abraham)
   niewidomy.json         J 9,1-41 (Uzdrowienie niewidomego od urodzenia)
   pasterz.json           J 10,1-21 (Dobry Pasterz)
+  poswiecenie.json       J 10,22-42 (Święto Poświęcenia)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -72,7 +73,7 @@ Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera, w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
-dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz`.
+dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie`.
 
 ## Warstwy schematu
 
@@ -191,6 +192,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 8,31–59 | Prawda, wolność i Abraham | ukończona |
 | J 9,1–41 | Uzdrowienie niewidomego od urodzenia | ukończona |
 | J 10,1–21 | Dobry Pasterz | ukończona |
+| J 10,22–42 | Święto Poświęcenia — Ja i Ojciec jedno jesteśmy | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
