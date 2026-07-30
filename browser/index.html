@@ -520,6 +520,11 @@ function linkBiblii(adres, etykieta) {
   return `<a class="link-biblii" href="${url}" target="_blank" rel="noopener">${esc(etykieta ?? a)}</a>`;
 }
 
+// „1,41; 3,16" (miejsca w leksykonie — sama para rozdział,werset z Ewangelii
+// Jana) → linki do deepbible, zachowując krótki zapis bez skrótu księgi.
+const linkMiejsca = m => (m || '').split(';').map(s => s.trim()).filter(Boolean)
+  .map(s => linkBiblii('J ' + s, s)).join('; ');
+
 // Pełny wykaz skrótów ksiąg (ST+NT) — kotwica dla wyłapywania adresów
 // w prozie. Dopasowanie wymaga po skrócie „rozdział,werset", więc ryzyko
 // fałszywych trafień jest znikome.
@@ -1030,7 +1035,7 @@ async function pokazLeksykon() {
     <p class="motto">Słowa-klucze z mapą wystąpień</p></div>
     <table><tr><th>Lemat</th><th>Transliteracja</th><th>Znaczenie</th><th>Miejsca</th></tr>
     ${l.map(x => `<tr><td class="lemat" lang="grc">${esc(x.lemma)}</td><td>${esc(x.translit || '')}</td>
-      <td>${esc(x.gloss_pl || '')}</td><td><small>${esc(x.miejsca || '')}</small></td></tr>`).join('')}
+      <td>${esc(x.gloss_pl || '')}</td><td><small>${linkMiejsca(x.miejsca)}</small></td></tr>`).join('')}
     </table>`;
   window.scrollTo(0, 0);
 }
