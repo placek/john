@@ -1041,13 +1041,16 @@ async function pokazMotywy() {
   $('#tresc').innerHTML = `<div class="perykopa-naglowek">
     <h1 class="tytul">Motywy</h1>
     <p class="motto">Nici tematyczne przez całą księgę</p></div>
-    <div class="proza">${t.map(x => `<div class="sekcja"><h3>${esc(x.name)}</h3>
+    <div class="proza">${t.map(x => {
+      const ps = x.pericopes || [];   // starsze /api/themes nie ma tego pola
+      return `<div class="sekcja"><h3>${esc(x.name)}</h3>
       ${mdRef(x.description_md)}
-      ${x.pericopes.length ? `<div class="motyw-perykopy">
-        <span class="etykieta">Perykopy (${x.pericopes.length})</span>
-        ${x.pericopes.map(pp => `<a class="perykopa-pigulka" href="#${esc(pp.siglum.replace(/\s+/g, '+'))}"
+      ${ps.length ? `<div class="motyw-perykopy">
+        <span class="etykieta">Perykopy (${ps.length})</span>
+        ${ps.map(pp => `<a class="perykopa-pigulka" href="#${esc((pp.siglum || '').replace(/\s+/g, '+'))}"
           title="${esc(pp.title)}">${esc(pp.siglum)}${pp.n > 1 ? ` <span class="ile">${pp.n}</span>` : ''}</a>`).join('')}
-      </div>` : ''}</div>`).join('')}</div>`;
+      </div>` : ''}</div>`;
+    }).join('')}</div>`;
   window.scrollTo(0, 0);
 }
 
