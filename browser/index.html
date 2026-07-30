@@ -582,10 +582,37 @@ async function szukajStatycznie(q) {
 }
 
 // ---------- lista perykop ----------
+// Adres perykopy w URL (do dzielenia się): #J+1,1-14. Slug to siglum
+// ze spacjami zamienionymi na „+"; siglum jednoznacznie wskazuje perykopę.
+const slugP = p => (p.siglum || '').replace(/\s+/g, '+');
+const idzDo = id => { const p = PERYKOPY.find(x => x.id === id); if (p) location.hash = slugP(p); };
+
+function ustawWidokAktywny(widok) {
+  $$('header nav button').forEach(x =>
+    x.classList.toggle('akt', x.dataset.widok === widok));
+}
+
+// Jedno źródło prawdy: hash w URL decyduje, co pokazać. Wywoływany przy
+// starcie i przy każdej zmianie hasha (także Wstecz/Dalej w przeglądarce).
+async function router() {
+  let h = location.hash.slice(1);
+  try { h = decodeURIComponent(h); } catch (_) {}
+  h = h.replace(/\+/g, ' ').trim();
+  if (h === 'leksykon') { ustawWidokAktywny('leksykon'); return pokazLeksykon(); }
+  if (h === 'motywy')   { ustawWidokAktywny('motywy');   return pokazMotywy(); }
+  const p = PERYKOPY.find(x => x.siglum === h) || PERYKOPY[0];
+  ustawWidokAktywny('perykopy');
+  if (!p) return;
+  // nieznany/pusty hash → ustaw kanoniczny bez zaśmiecania historii
+  if (location.hash.slice(1) !== slugP(p)) history.replaceState(null, '', '#' + slugP(p));
+  otworz(p.id);
+}
+
 async function start() {
   PERYKOPY = await pobierz('/api/pericopes');
   rysujListe();
-  otworz(PERYKOPY[0].id);
+  window.addEventListener('hashchange', router);
+  router();
 }
 
 function rysujListe() {
@@ -595,11 +622,12 @@ function rysujListe() {
       <span>${esc(p.title)}</span>
       <small>${linkBiblii(p.siglum)}</small>
     </div>`).join('');
-  // klik w wiersz otwiera perykopę; klik w sam adres (link-biblii) prowadzi
-  // do deepbible i nie przełącza perykopy
+  // klik w wiersz otwiera perykopę (przez hash); klik w sam adres
+  // (link-biblii) prowadzi do deepbible i nie przełącza perykopy
   $$('#lista .poz').forEach(el => {
-    el.onclick = e => { if (!e.target.closest('.link-biblii')) otworz(+el.dataset.id); };
-    el.onkeydown = e => { if (e.key === 'Enter') otworz(+el.dataset.id); };
+    const idz = () => idzDo(+el.dataset.id);
+    el.onclick = e => { if (!e.target.closest('.link-biblii')) idz(); };
+    el.onkeydown = e => { if (e.key === 'Enter') idz(); };
   });
 }
 
@@ -964,32 +992,38 @@ function sledzSekcje() {
 }
 
 // ---------- widoki dodatkowe ----------
-$$('header nav button').forEach(b => b.onclick = async () => {
-  $$('header nav button').forEach(x => x.classList.remove('akt'));
-  b.classList.add('akt');
-  OBSERWATOR?.disconnect();
-  if (b.dataset.widok === 'perykopy') { rysujListe(); otworz(AKT || PERYKOPY[0].id); return; }
-  if (b.dataset.widok === 'leksykon') {
-    KTX = null;
-    const l = await pobierz('/api/lexicon');
-    $('#tresc').innerHTML = `<div class="perykopa-naglowek">
-      <h1 class="tytul">Leksykon</h1>
-      <p class="motto">Słowa-klucze z mapą wystąpień</p></div>
-      <table><tr><th>Lemat</th><th>Transliteracja</th><th>Znaczenie</th><th>Miejsca</th></tr>
-      ${l.map(x => `<tr><td class="lemat" lang="grc">${esc(x.lemma)}</td><td>${esc(x.translit || '')}</td>
-        <td>${esc(x.gloss_pl || '')}</td><td><small>${esc(x.miejsca || '')}</small></td></tr>`).join('')}
-      </table>`;
-    window.scrollTo(0, 0);
-  }
-  if (b.dataset.widok === 'motywy') {
-    KTX = null;
-    const t = await pobierz('/api/themes');
-    $('#tresc').innerHTML = `<div class="perykopa-naglowek">
-      <h1 class="tytul">Motywy</h1>
-      <p class="motto">Nici tematyczne przez całą księgę</p></div>
-      <div class="proza">${t.map(x => `<div class="sekcja"><h3>${esc(x.name)}</h3>
-        ${mdRef(x.description_md)}<p class="motto">powiązań: ${x.powiazania}</p></div>`).join('')}</div>`;
-    window.scrollTo(0, 0);
+async function pokazLeksykon() {
+  KTX = null; OBSERWATOR?.disconnect();
+  const l = await pobierz('/api/lexicon');
+  $('#tresc').innerHTML = `<div class="perykopa-naglowek">
+    <h1 class="tytul">Leksykon</h1>
+    <p class="motto">Słowa-klucze z mapą wystąpień</p></div>
+    <table><tr><th>Lemat</th><th>Transliteracja</th><th>Znaczenie</th><th>Miejsca</th></tr>
+    ${l.map(x => `<tr><td class="lemat" lang="grc">${esc(x.lemma)}</td><td>${esc(x.translit || '')}</td>
+      <td>${esc(x.gloss_pl || '')}</td><td><small>${esc(x.miejsca || '')}</small></td></tr>`).join('')}
+    </table>`;
+  window.scrollTo(0, 0);
+}
+
+async function pokazMotywy() {
+  KTX = null; OBSERWATOR?.disconnect();
+  const t = await pobierz('/api/themes');
+  $('#tresc').innerHTML = `<div class="perykopa-naglowek">
+    <h1 class="tytul">Motywy</h1>
+    <p class="motto">Nici tematyczne przez całą księgę</p></div>
+    <div class="proza">${t.map(x => `<div class="sekcja"><h3>${esc(x.name)}</h3>
+      ${mdRef(x.description_md)}<p class="motto">powiązań: ${x.powiazania}</p></div>`).join('')}</div>`;
+  window.scrollTo(0, 0);
+}
+
+// Przyciski nawigacji zmieniają tylko hash — resztą zajmuje się router().
+$$('header nav button').forEach(b => b.onclick = () => {
+  const w = b.dataset.widok;
+  if (w === 'perykopy') {
+    const p = PERYKOPY.find(x => x.id === AKT) || PERYKOPY[0];
+    if (p) location.hash = slugP(p);
+  } else {
+    location.hash = w;                      // 'leksykon' | 'motywy'
   }
 });
 
@@ -1057,7 +1091,7 @@ $('#szukaj').oninput = e => {
         <div class="snip">${r.snippet}</div></div>`).join('') ||
         '<p class="pusto">Nic nie znaleziono. Grekę i „ł" wpisuj w pełnym zapisie.</p>'}`;
     $$('#tresc .wynik').forEach(el => {
-      if (el.dataset.id) el.onclick = () => otworz(+el.dataset.id);
+      if (el.dataset.id) el.onclick = () => idzDo(+el.dataset.id);
     });
     window.scrollTo(0, 0);
   }, 250);
