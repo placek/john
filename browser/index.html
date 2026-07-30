@@ -91,19 +91,19 @@
     font-size: .68rem; text-transform: uppercase; letter-spacing: .14em;
     color: var(--przygaszony); margin: 0 0 .7rem .5rem; font-weight: normal;
   }
-  aside a {
+  aside .poz {
     display: grid; grid-template-columns: 1.6rem 1fr; gap: .1rem .4rem;
-    padding: .4rem .5rem; margin-bottom: .1rem; text-decoration: none;
+    padding: .4rem .5rem; margin-bottom: .1rem; cursor: pointer;
     color: var(--tekst); border-radius: 3px; font-size: .87rem; line-height: 1.35;
   }
-  aside a .licz {
+  aside .poz .licz {
     grid-row: span 2; font-size: .72rem; color: var(--zloto);
     font-variant-numeric: tabular-nums; padding-top: .12rem;
   }
-  aside a small { color: var(--przygaszony); font-size: .75rem; }
-  aside a:hover { background: var(--papier-2); }
-  aside a.akt { background: var(--akcent-jasny); }
-  aside a.akt, aside a.akt small { color: var(--akcent); }
+  aside .poz small { color: var(--przygaszony); font-size: .75rem; }
+  aside .poz:hover { background: var(--papier-2); }
+  aside .poz.akt { background: var(--akcent-jasny); }
+  aside .poz.akt, aside .poz.akt small { color: var(--akcent); }
 
   main { flex: 1; min-width: 0; padding: 2rem 2.6rem 6rem; max-width: 62rem; }
 
@@ -114,6 +114,13 @@
     color: var(--zloto); margin-bottom: .35rem;
   }
   .siglum .status { color: var(--przygaszony); }
+  /* Adresy biblijne jako linki do deepbible.online — dziedziczą kolor
+     otoczenia, podkreślenie kropkowane pojawia się przy najechaniu. */
+  a.link-biblii { color: inherit; text-decoration: none; }
+  a.link-biblii:hover {
+    color: var(--akcent);
+    text-decoration: underline dotted; text-underline-offset: 3px;
+  }
   h1.tytul {
     font-size: 2.1rem; line-height: 1.2; margin: 0 0 .45rem;
     color: var(--akcent); font-weight: normal; letter-spacing: -.01em;
@@ -460,6 +467,67 @@ let PERYKOPY = [], AKT = null, OBSERWATOR = null;
 
 const esc = s => (s ?? '').replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 
+// Skróty ksiąg Nowego Testamentu — decydują o środkowym panelu linku
+// biblijnego: NA28 (greka NT) dla NT, LXX+ (Septuaginta) dla ST.
+const KSIEGI_NT = new Set(['Mt', 'Mk', 'Łk', 'J', 'Dz', 'Rz', '1 Kor', '2 Kor',
+  'Ga', 'Ef', 'Flp', 'Kol', '1 Tes', '2 Tes', '1 Tm', '2 Tm', 'Tt', 'Flm',
+  'Hbr', 'Jk', '1 P', '2 P', '1 J', '2 J', '3 J', 'Jud', 'Ap']);
+
+// Zamienia adres biblijny (np. „Kpł 23,33-43", „J 1,1") na link do
+// deepbible.online z trzema panelami: PAU · NA28/LXX+ · NVUL. Księgę
+// odczytujemy jako wszystko poza ostatnim tokenem (rozdział,werset).
+function linkBiblii(adres, etykieta) {
+  const a = (adres ?? '').trim();
+  if (!a) return esc(etykieta ?? adres);
+  const ksiega = a.split(/\s+/).slice(0, -1).join(' ');
+  const srodek = KSIEGI_NT.has(ksiega) ? 'NA28' : 'LXX+';
+  // deepbible oczekuje w zakresach zwykłego dywizu, nie półpauzy „–"
+  const q = a.replace(/[–—]/g, '-');
+  const url = 'https://deepbible.online/?pericopes=' +
+    encodeURIComponent(`${q}|PAU;${q}|${srodek};${q}|NVUL`);
+  return `<a class="link-biblii" href="${url}" target="_blank" rel="noopener">${esc(etykieta ?? a)}</a>`;
+}
+
+// Pełny wykaz skrótów ksiąg (ST+NT) — kotwica dla wyłapywania adresów
+// w prozie. Dopasowanie wymaga po skrócie „rozdział,werset", więc ryzyko
+// fałszywych trafień jest znikome.
+const KSIEGI = ['Rdz', 'Wj', 'Kpł', 'Lb', 'Pwt', 'Joz', 'Sdz', 'Rt', '1 Sm', '2 Sm',
+  '1 Krl', '2 Krl', '1 Krn', '2 Krn', 'Ezd', 'Ne', 'Tb', 'Jdt', 'Est', '1 Mch', '2 Mch',
+  'Hi', 'Ps', 'Prz', 'Koh', 'Pnp', 'Mdr', 'Syr', 'Iz', 'Jr', 'Lm', 'Ba', 'Ez', 'Dn',
+  'Oz', 'Jl', 'Am', 'Ab', 'Jon', 'Mi', 'Na', 'Ha', 'So', 'Ag', 'Za', 'Ml',
+  'Mt', 'Mk', 'Łk', 'J', 'Dz', 'Rz', '1 Kor', '2 Kor', 'Ga', 'Ef', 'Flp', 'Kol',
+  '1 Tes', '2 Tes', '1 Tm', '2 Tm', 'Tt', 'Flm', 'Hbr', 'Jk', '1 P', '2 P',
+  '1 J', '2 J', '3 J', 'Jud', 'Ap'];
+const REF_RE = new RegExp('(?<![\\p{L}\\d])(?:(' +
+  KSIEGI.slice().sort((a, b) => b.length - a.length).join('|') +
+  ')[ \\u00a0](\\d+(?:\\(\\d+\\))?,\\d+(?:[-–.]\\d+)*)' +      // 1=księga 2=adres
+  '|(ww?)\\.[ \\u00a0]?(\\d+(?:[-–]\\d+)?))', 'gu');            // 3=w/ww 4=wersety
+
+// Kontekst bieżącej perykopy (księga + rozdział) — do rozwinięcia
+// odsyłaczy typu „w. 11–12" na pełny adres. null poza widokiem perykopy.
+let KTX = null;
+
+// Zamienia adresy biblijne w gotowym HTML na linki, nie ruszając już
+// istniejących znaczników ani wnętrza linków.
+function linkifyBiblii(html) {
+  let wLinku = 0;
+  return html.split(/(<[^>]+>)/).map(seg => {
+    if (seg.startsWith('<')) {
+      if (/^<a\b/i.test(seg)) wLinku++;
+      else if (/^<\/a>/i.test(seg)) wLinku = Math.max(0, wLinku - 1);
+      return seg;
+    }
+    if (wLinku > 0) return seg;
+    return seg.replace(REF_RE, (m, ksiega, adres, w, wersety) => {
+      if (ksiega) return linkBiblii(`${ksiega} ${adres}`, m);
+      if (w && KTX) return linkBiblii(`${KTX.book} ${KTX.chapter},${wersety}`, m);
+      return m;
+    });
+  }).join('');
+}
+
+const mdRef = t => linkifyBiblii(md(t));
+
 // minimalny markdown: **pogrubienie**, *kursywa*, akapity
 function md(t) {
   if (!t) return '';
@@ -520,13 +588,17 @@ async function start() {
 
 function rysujListe() {
   $('#lista').innerHTML = '<h2>Perykopy</h2>' + PERYKOPY.map((p, i) => `
-    <a href="#" data-id="${p.id}" class="${p.id === AKT ? 'akt' : ''}">
+    <div class="poz ${p.id === AKT ? 'akt' : ''}" data-id="${p.id}" role="button" tabindex="0">
       <span class="licz">${i + 1}</span>
       <span>${esc(p.title)}</span>
-      <small>${esc(p.siglum)}</small>
-    </a>`).join('');
-  $$('#lista a').forEach(a =>
-    a.onclick = e => { e.preventDefault(); otworz(+a.dataset.id); });
+      <small>${linkBiblii(p.siglum)}</small>
+    </div>`).join('');
+  // klik w wiersz otwiera perykopę; klik w sam adres (link-biblii) prowadzi
+  // do deepbible i nie przełącza perykopy
+  $$('#lista .poz').forEach(el => {
+    el.onclick = e => { if (!e.target.closest('.link-biblii')) otworz(+el.dataset.id); };
+    el.onkeydown = e => { if (e.key === 'Enter') otworz(+el.dataset.id); };
+  });
 }
 
 // ---------- pomocnicze: zakresy wersetów ----------
@@ -563,9 +635,9 @@ function czescTekst(d) {
   return `
     <section class="czesc" id="cz-tekst">
       <h2 class="naglowek-czesci">Tekst perykopy
-        <span class="liczba">${esc(h.abbrev_pl)} ${h.chapter_start},${h.verse_start}–${
+        <span class="liczba">${linkBiblii(`${h.abbrev_pl} ${h.chapter_start},${h.verse_start}–${
           h.chapter_start === h.chapter_end ? h.verse_end : h.chapter_end + ',' + h.verse_end
-        } · ${d.verses.length} wersetów</span></h2>
+        }`)} · ${d.verses.length} wersetów</span></h2>
       <div class="paralela${jestLacina ? ' trojjezyczna' : ''}">
         <div class="glowka"></div>
         <div class="glowka">Tekst grecki — Nestle-Aland 28</div>
@@ -586,15 +658,15 @@ function czescKomentarz(d) {
     <div class="sekcja ${s.section_type === 'zakonczenie' ? 'zakonczenie-czesc' : ''}
                         ${s.section_type === 'nota' ? 'nota-warsztatowa' : ''}">
       <h3>${esc(s.title)}</h3>
-      ${md(s.body_md)}
+      ${mdRef(s.body_md)}
       ${d.sections.filter(c => c.parent_id === s.id).map(c => `
-        <div class="podsekcja"><h4>${esc(c.title)}</h4>${md(c.body_md)}</div>`).join('')}
+        <div class="podsekcja"><h4>${esc(c.title)}</h4>${mdRef(c.body_md)}</div>`).join('')}
     </div>`;
   return `
     <section class="czesc" id="cz-komentarz">
       <h2 class="naglowek-czesci">Komentarz</h2>
       <div class="proza">
-        ${struktura ? `<div class="sekcja"><h3>${esc(struktura.title)}</h3>${md(struktura.body_md)}</div>` : ''}
+        ${struktura ? `<div class="sekcja"><h3>${esc(struktura.title)}</h3>${mdRef(struktura.body_md)}</div>` : ''}
         ${glowne.map(sekcja).join('')}
       </div>
     </section>`;
@@ -616,7 +688,7 @@ function ojcowieBloku(d, b) {
             <span class="locus">${esc(c.title_pl || c.work_title || '')}${
               c.locus ? ', ' + esc(c.locus) : ''}</span>
           </div>
-          ${md(c.body_md)}
+          ${mdRef(c.body_md)}
         </div>`).join('')}
     </div>`;
 }
@@ -633,7 +705,7 @@ function czescLiturgia(d) {
           <div class="ryt">${esc(l.rite)}</div>
           <div>
             <div class="okazja">${esc(l.occasion)}</div>
-            ${l.passage ? `<div class="perykopa-siglum">${esc(l.passage)}</div>` : ''}
+            ${l.passage ? `<div class="perykopa-siglum">${linkBiblii(l.passage)}</div>` : ''}
           </div>
           ${l.description_md ? `<div class="opis">${esc(l.description_md)}</div>` : ''}
         </div>`).join('')}
@@ -782,7 +854,7 @@ function aparatBloku(d, b) {
         <div class="nota">
           <span class="nota-tytul" lang="grc">${esc(t.lemma_text)}</span>
           <span class="pigulka">w. ${t.verse_num} · ${esc(t.issue)}</span>
-          ${md(t.readings_md)}${md(t.assessment_md)}
+          ${mdRef(t.readings_md)}${mdRef(t.assessment_md)}
         </div>`).join('')}
     </div>`;
 }
@@ -797,7 +869,7 @@ function czescAnaliza(d) {
         <span class="liczba">${d.blocks.length} bloków · ${d.units.length} jednostek${
           d.catena.length ? ' · ' + d.catena.length + ' głosów Ojców' : ''}</span>
         ${jestInterlinia ? '<span class="legenda"><i class="probka"></i>słowa Jezusa</span>' : ''}</h2>
-      ${wstepOjcowie?.body_md ? `<div class="proza ojcowie-wstep"><p>${esc(wstepOjcowie.body_md)}</p></div>` : ''}
+      ${wstepOjcowie?.body_md ? `<div class="proza ojcowie-wstep"><p>${linkifyBiblii(esc(wstepOjcowie.body_md))}</p></div>` : ''}
       ${d.blocks.map(b => `
         <div class="blok" id="blok-${b.id}">
           <div class="blok-glowka"><h3>${esc(b.label)}</h3></div>
@@ -807,7 +879,7 @@ function czescAnaliza(d) {
             <div class="jednostka">
               ${u.phrase_greek ? `<p class="fraza"><b lang="grc">${esc(u.phrase_greek)}</b>${
                 u.phrase_translation_pl ? ` <i>— ${esc(u.phrase_translation_pl)}</i>` : ''}</p>` : ''}
-              ${md(u.body_md)}
+              ${mdRef(u.body_md)}
             </div>`).join('')}
           ${ojcowieBloku(d, b)}
           ${leksykonBloku(d, b)}
@@ -827,9 +899,9 @@ function czescOdniesienia(d) {
       ${d.refs.length ? `<table>
         <tr><th>Miejsce</th><th>Relacja</th><th>Uwaga</th></tr>
         ${d.refs.map(r => `<tr>
-          <td class="lemat">${esc(r.target_label)}</td>
+          <td class="lemat">${linkBiblii(r.target_label)}</td>
           <td class="relacja">${esc(r.relation)}</td>
-          <td>${esc(r.note_md || '')}</td></tr>`).join('')}
+          <td>${linkifyBiblii(esc(r.note_md || ''))}</td></tr>`).join('')}
         </table>` : ''}
       ${d.themes.length ? `<div class="motywy" style="margin-top:1.2rem">
         ${d.themes.map(t => `<span class="pigulka">${esc(t)}</span>`).join('')}</div>` : ''}
@@ -845,6 +917,7 @@ async function otworz(id) {
   const intro = d.sections.find(s => s.section_type === 'filologia' && !s.parent_id);
   const siglum = `${h.abbrev_pl} ${h.chapter_start},${h.verse_start}–${
     h.chapter_start === h.chapter_end ? h.verse_end : h.chapter_end + ',' + h.verse_end}`;
+  KTX = { book: h.abbrev_pl, chapter: h.chapter_start };   // dla odsyłaczy „w. N"
 
   const czesci = [
     ['cz-tekst', 'Tekst', czescTekst(d)],
@@ -857,10 +930,10 @@ async function otworz(id) {
   $('#tresc').innerHTML = `
     <article>
       <div class="perykopa-naglowek">
-        <div class="siglum">${esc(siglum)} · <span class="status">${esc(h.status.replace('_', ' '))}</span></div>
+        <div class="siglum">${linkBiblii(siglum)} · <span class="status">${esc(h.status.replace('_', ' '))}</span></div>
         <h1 class="tytul">${esc(h.title)}</h1>
         ${h.motto ? `<p class="motto">${esc(h.motto)}</p>` : ''}
-        ${intro?.body_md ? `<div class="wprowadzenie">${md(intro.body_md)}</div>` : ''}
+        ${intro?.body_md ? `<div class="wprowadzenie">${mdRef(intro.body_md)}</div>` : ''}
       </div>
       <nav class="spis">
         ${czesci.map(([kot, nazwa]) => `<a href="#${kot}">${nazwa}</a>`).join('')}
@@ -895,6 +968,7 @@ $$('header nav button').forEach(b => b.onclick = async () => {
   OBSERWATOR?.disconnect();
   if (b.dataset.widok === 'perykopy') { rysujListe(); otworz(AKT || PERYKOPY[0].id); return; }
   if (b.dataset.widok === 'leksykon') {
+    KTX = null;
     const l = await pobierz('/api/lexicon');
     $('#tresc').innerHTML = `<div class="perykopa-naglowek">
       <h1 class="tytul">Leksykon</h1>
@@ -906,12 +980,13 @@ $$('header nav button').forEach(b => b.onclick = async () => {
     window.scrollTo(0, 0);
   }
   if (b.dataset.widok === 'motywy') {
+    KTX = null;
     const t = await pobierz('/api/themes');
     $('#tresc').innerHTML = `<div class="perykopa-naglowek">
       <h1 class="tytul">Motywy</h1>
       <p class="motto">Nici tematyczne przez całą księgę</p></div>
       <div class="proza">${t.map(x => `<div class="sekcja"><h3>${esc(x.name)}</h3>
-        ${md(x.description_md)}<p class="motto">powiązań: ${x.powiazania}</p></div>`).join('')}</div>`;
+        ${mdRef(x.description_md)}<p class="motto">powiązań: ${x.powiazania}</p></div>`).join('')}</div>`;
     window.scrollTo(0, 0);
   }
 });
