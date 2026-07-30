@@ -435,6 +435,8 @@
     .leks-poz { grid-template-columns: 1fr; gap: 0; }
     .liturgia-poz { grid-template-columns: 1fr; }
     .liturgia-poz .opis { grid-column: 1; }
+    /* długi żeton motywu (np. „oświecenie (φωτισμός)…") nie mieści się w jednej linii */
+    .motywy .pigulka { white-space: normal; }
   }
   @media print {
     header.gorny, aside, nav.spis { display: none; }
