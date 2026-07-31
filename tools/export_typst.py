@@ -150,7 +150,7 @@ def tekst_paralelny(d):
     jest_lac = bool(lac)
     kol = "(auto, 1fr, 1fr, 1fr)" if jest_lac else "(auto, 1fr, 1fr)"
     out = [r'#block(breakable: true, above: 0.8em)[',
-           f'#table(columns: {kol}, inset: (x: 5pt, y: 3pt), align: top + left,']
+           f'#table(columns: {kol}, stroke: white, inset: (x: 5pt, y: 3pt), align: top + left,']
     rozdz = None
     for v in d["verses"]:
         klucz = (v["chapter"], v["verse_num"])
@@ -160,7 +160,7 @@ def tekst_paralelny(d):
                        f'strong[Rozdział {rozdz}]),')
         nr = (str(v["verse_num"]) if d["head"]["chapter_start"] == d["head"]["chapter_end"]
               else f'{v["chapter"]},{v["verse_num"]}')
-        cele = [f'text(size: 8pt)[{esc(nr)}]',
+        cele = [f'iv({q(nr)})',
                 q(bez_sigli(v["text_greek"])),
                 q(v["text_working_pl"] or "")]
         if jest_lac:
