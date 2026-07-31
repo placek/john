@@ -239,14 +239,12 @@ def aparat_na28(d, b):
     wpisy = [a for a in d.get("aparat", []) if od <= (a["chapter"], a["verse"]) <= az]
     if not wpisy:
         return ""
-    out = [r'#block(breakable: true, above: 0.6em, inset: (left: 6pt), stroke: (left: 1pt + linia))[',
-           r'#heading(level: 4)[Aparat NA28]']
+    out = [r'#heading(level: 4)[Aparat NA28]']
     for a in wpisy:
         mk = f' #text(fill: gold, size: 8pt)[{esc(a["marker"])}]' if a["marker"] else ""
         out.append(f'#par(leading: 0.5em, spacing: 0.55em)[#text(fill: gold, size: 7pt)'
                    f'[{vnum(d, a["chapter"], a["verse"])}]{mk} '
                    f'#text(size: 8pt)[{aparat_typ(a["text"])}]]')
-    out.append("]")
     return "\n".join(out)
 
 
@@ -257,17 +255,14 @@ def aparat_krytyczny(d, b):
     noty = [t for t in d.get("textual", []) if od <= (t["chapter"], t["verse_num"]) <= az]
     if not noty:
         return ""
-    out = [r'#block(breakable: true, above: 0.6em, inset: (left: 6pt), stroke: (left: 1pt + linia))[',
-           r'#heading(level: 4)[Aparat krytyczny]']
+    out = [r'#heading(level: 4)[Aparat krytyczny]']
     for t in noty:
-        out.append(r'#v(0.2em)')
         out.append(f'#text(fill: greek, font: grfont, weight: "bold", size: 9pt)[{esc(t["lemma_text"])}] '
                    f'#pill([w. {esc(vnum(d, t["chapter"], t["verse_num"]))} · {esc(t["issue"])}])')
         if t["readings_md"]:
             out.append(md(t["readings_md"]))
         if t["assessment_md"]:
             out.append(md(t["assessment_md"]))
-    out.append("]")
     return "\n".join(out)
 
 
