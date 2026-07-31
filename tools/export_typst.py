@@ -179,7 +179,8 @@ def interlinia_bloku(d, b):
                 q(w["strong"] or ""),
                 q(morf_kod(w["morphology"])),
                 ", red: true" if w["red"] else ""))
-        linie.append("#par(justify: false, leading: 1.05em)[\n  " + " ".join(karty) + "\n]")
+        linie.append("#par(justify: false, leading: 1.8em, spacing: 1.35em)[\n  "
+                     + " ".join(karty) + "\n]")
     return "\n".join(linie)
 
 
