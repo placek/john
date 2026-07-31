@@ -8,9 +8,9 @@ Wynik:         egzegeza.typ  →  typst compile egzegeza.typ egzegeza.pdf
 
 Zasada jak w export_site.py: żadnej drugiej implementacji API — importujemy
 browser/app.py i korzystamy z tych samych funkcji (api_pericope, api_themes…),
-więc treść jest identyczna z przeglądarką. Dokument stara się odwzorować wygląd
-strony (paleta Solarized, układ sekcji). Komentarz jest justowany; interlinia
-zawiera numery Stronga i morfologię (kod MorphGNT).
+więc treść jest identyczna z przeglądarką. Formatowanie jest standardowe
+(domyślne nagłówki, krój New Athena Unicode); jedyne niestandardowe elementy —
+karty interlinii ze Strongiem i morfologią (MorphGNT).
 """
 import html.parser
 import pathlib
@@ -98,61 +98,32 @@ def aparat_typ(s):
 
 # ---- preambuła --------------------------------------------------------------
 PREAMBULA = r"""// PLIK GENEROWANY — python3 tools/export_typst.py. Nie edytować ręcznie.
-// Neutralna typografia druku: czerń na bieli, szarości dla treści drugoplanowej.
-#let tlo    = white
-#let ink    = rgb("#1a1a1a")
-#let muted  = rgb("#6b6b6b")
-#let linia  = rgb("#cccccc")
-#let accent = rgb("#111111")
-#let greek  = rgb("#1a1a1a")
-#let gold   = rgb("#7a7a7a")
-#let verba  = rgb("#7a1f1f")   // verba Christi — tradycja czerwonej litery
-#let latina = rgb("#555555")
-// greka krojem New Athena Unicode (newathu.ttf; typst compile --font-path .)
-#let grfont = ("New Athena Unicode", "New Computer Modern")
+// Formatowanie standardowe; jedyne niestandardowe elementy są w interlinii.
+#let verba = rgb("#7a1f1f")   // verba Christi — tylko w interlinii
 
 #set document(title: "Egzegeza Ewangelii świętego Jana")
-#set page(paper: "a4", margin: (x: 2.1cm, top: 2.4cm, bottom: 2cm), fill: tlo,
+#set page(paper: "a4", margin: (x: 2.1cm, top: 2.4cm, bottom: 2cm),
   numbering: "1", number-align: center,
   header: context {
     // żywa pagina: tytuł bieżącej perykopy (ostatni nagłówek H1 z tej lub
     // wcześniejszej strony); pomijamy na stronie, gdzie tytuł już widnieje
     let p = here().page()
     let hs = query(heading.where(level: 1)).filter(h => h.location().page() <= p)
-    if hs.len() > 0 and hs.last().location().page() != p {
-      set text(size: 8.5pt, fill: muted, style: "italic")
-      hs.last().body
-      v(-0.35em)
-      line(length: 100%, stroke: 0.4pt + linia)
-    }
+    if hs.len() > 0 and hs.last().location().page() != p { emph(hs.last().body) }
   })
-#set text(font: ("New Computer Modern", "Noto Serif"), fill: ink, size: 10pt,
-  lang: "pl", hyphenate: true)
-#set par(justify: true, leading: 0.62em, spacing: 0.9em)
-#show link: set text(fill: greek)
+#set text(font: "New Athena Unicode", size: 11pt, lang: "pl", hyphenate: true)
+#set par(justify: true)
 
-#show heading: set text(fill: accent, weight: "regular")
-#show heading.where(level: 1): set text(size: 19pt)
-#show heading.where(level: 2): set text(size: 13pt)
-#show heading.where(level: 3): it => block(above: 1em, below: 0.5em,
-  text(size: 10.5pt, fill: gold, weight: "bold", it.body))
-#show heading.where(level: 4): it => text(size: 9.5pt, fill: muted,
-  weight: "bold", tracking: 0.04em, upper(it.body))
-
-// karta interlinii: greka / przekład / Strong / morfologia (MorphGNT)
+// karta interlinii — jedyne niestandardowe formatowanie w dokumencie:
+// greka / przekład / Strong / morfologia (MorphGNT)
 #let iw(gr, pl, s, m, red: false) = box(inset: (x: 1.5pt, y: 1pt), baseline: 0pt,
   stack(dir: ttb, spacing: 4.5pt,
-    align(center, text(fill: if red { verba } else { greek }, font: grfont, size: 9.5pt, weight: "medium", gr)),
-    align(center, text(size: 7pt, pl)),
-    align(center, text(fill: gold, size: 5.4pt, s)),
-    align(center, text(fill: muted, size: 5.4pt, m)),
+    align(center, text(fill: if red { verba } else { black }, size: 10pt, gr)),
+    align(center, text(size: 8pt, pl)),
+    align(center, text(fill: luma(110), size: 6pt, s)),
+    align(center, text(fill: luma(110), size: 6pt, m)),
   ))
-// numer wersetu w interlinii
-#let iv(n) = text(fill: gold, weight: "bold", size: 8pt, n)
-// żeton (siglum, relacja, motyw)
-#let pill(body) = box(inset: (x: 4pt, y: 1pt), outset: (y: 1pt), radius: 3pt,
-  stroke: 0.5pt + linia, text(size: 8pt, fill: gold, body))
-#let sig(body) = text(size: 8.5pt, fill: gold, tracking: 0.08em, smallcaps(body))
+#let iv(n) = text(size: 8.5pt, weight: "bold", n)
 """
 
 
@@ -161,13 +132,9 @@ def naglowek_glowny():
         PREAMBULA,
         r'#align(center)[',
         r'  #v(3cm)',
-        r'  #text(size: 26pt, fill: accent)[Egzegeza Ewangelii]',
-        r'  #linebreak()',
-        r'  #text(size: 26pt, fill: accent)[świętego Jana]',
+        r'  #text(size: 24pt)[Egzegeza Ewangelii świętego Jana]',
         r'  #v(0.6cm)',
-        r'  #text(size: 11pt, fill: muted, style: "italic")[perykopa po perykopie — filologia, kontekst, teologia, katena Ojców]',
-        r'  #v(0.4cm)',
-        r'  #line(length: 40%, stroke: 0.5pt + linia)',
+        r'  #emph[perykopa po perykopie — filologia, kontekst, teologia, katena Ojców]',
         r']',
         r'#pagebreak()',
         r'#outline(title: [Spis perykop], depth: 1, indent: auto)',
@@ -187,14 +154,14 @@ def tekst_paralelny(d):
         if d["head"]["chapter_start"] != d["head"]["chapter_end"] and v["chapter"] != rozdz:
             rozdz = v["chapter"]
             out.append(f'  table.cell(colspan: {4 if jest_lac else 3}, '
-                       f'text(fill: gold, size: 8pt, weight: "bold")[Rozdział {rozdz}]),')
+                       f'strong[Rozdział {rozdz}]),')
         nr = (str(v["verse_num"]) if d["head"]["chapter_start"] == d["head"]["chapter_end"]
               else f'{v["chapter"]},{v["verse_num"]}')
-        cele = [f'text(fill: gold, size: 7.5pt)[{esc(nr)}]',
-                f'text(fill: greek, font: grfont, size: 9.5pt, {q(bez_sigli(v["text_greek"]))})',
-                f'text(size: 9.5pt, {q(v["text_working_pl"] or "")})']
+        cele = [f'text(size: 8pt)[{esc(nr)}]',
+                q(bez_sigli(v["text_greek"])),
+                q(v["text_working_pl"] or "")]
         if jest_lac:
-            cele.append(f'text(fill: latina, size: 9pt, style: "italic", {q(lac.get(klucz, ""))})')
+            cele.append(f'emph({q(lac.get(klucz, ""))})')
         out.append("  " + ", ".join(cele) + ",")
     out.append(")]")
     return "\n".join(out)
@@ -241,10 +208,9 @@ def aparat_na28(d, b):
         return ""
     out = [r'#heading(level: 4)[Aparat NA28]']
     for a in wpisy:
-        mk = f' #text(fill: gold, size: 8pt)[{esc(a["marker"])}]' if a["marker"] else ""
-        out.append(f'#par(leading: 0.5em, spacing: 0.55em)[#text(fill: gold, size: 7pt)'
-                   f'[{vnum(d, a["chapter"], a["verse"])}]{mk} '
-                   f'#text(size: 8pt)[{aparat_typ(a["text"])}]]')
+        mk = f' {esc(a["marker"])}' if a["marker"] else ""
+        out.append(f'#strong[{vnum(d, a["chapter"], a["verse"])}]{mk} '
+                   f'{aparat_typ(a["text"])}\n')
     return "\n".join(out)
 
 
@@ -257,8 +223,8 @@ def aparat_krytyczny(d, b):
         return ""
     out = [r'#heading(level: 4)[Aparat krytyczny]']
     for t in noty:
-        out.append(f'#text(fill: greek, font: grfont, weight: "bold", size: 9pt)[{esc(t["lemma_text"])}] '
-                   f'#pill([w. {esc(vnum(d, t["chapter"], t["verse_num"]))} · {esc(t["issue"])}])')
+        out.append(f'#strong[{esc(t["lemma_text"])}] '
+                   f'#emph[(w. {esc(vnum(d, t["chapter"], t["verse_num"]))} · {esc(t["issue"])})]\n')
         if t["readings_md"]:
             out.append(md(t["readings_md"]))
         if t["assessment_md"]:
@@ -277,16 +243,16 @@ def analiza(d):
         if il:
             out.append(il)
         else:
-            out.append(f'#text(fill: greek, font: grfont, size: 10pt, {q(bez_sigli(b["greek_text"]))})\n')
+            out.append(f'{q(bez_sigli(b["greek_text"]))}\n')
         if b["working_translation_pl"]:
-            out.append(f'#block(above: 0.5em, below: 0.6em, text(style: "italic", fill: muted)[„{esc(b["working_translation_pl"])}”])')
+            out.append(f'#emph[„{esc(b["working_translation_pl"])}”]\n')
         jednostki = [u for u in d["units"] if u["block_id"] == b["id"]]
         if jednostki:
             out.append(r'#heading(level: 4)[Egzegeza]')
         for u in jednostki:
             if u["phrase_greek"]:
                 gl = f' #emph[— {esc(u["phrase_translation_pl"])}]' if u["phrase_translation_pl"] else ""
-                out.append(f'#text(fill: greek, font: grfont, weight: "bold")[{esc(u["phrase_greek"])}]{gl}\n')
+                out.append(f'#strong[{esc(u["phrase_greek"])}]{gl}\n')
             out.append(md(u["body_md"]))
         # katena Ojców przypięta do etykiety bloku
         glosy = catena.get(b["label"], [])
@@ -296,8 +262,7 @@ def analiza(d):
             zrodlo = esc(c["title_pl"] or c["work_title"] or "")
             if c["locus"]:
                 zrodlo += ", " + esc(c["locus"])
-            out.append(f'#text(fill: accent, weight: "bold")[{esc(c["author"])}] '
-                       f'#text(size: 8.5pt, fill: muted, style: "italic")[{zrodlo}]\n')
+            out.append(f'#strong[{esc(c["author"])}] #emph[{zrodlo}]\n')
             out.append(md(c["body_md"]))
         # aparat krytyczny pod blokiem: NA28 (źródłowy) + noty własne
         for cz in (aparat_na28(d, b), aparat_krytyczny(d, b)):
@@ -333,9 +298,9 @@ def liturgia(d):
         return ""
     out = [r'#heading(level: 2)[Liturgia]']
     for l in d["liturgy"]:
-        wiersz = f'#text(fill: gold, weight: "bold")[{esc(l["rite"])}] — {esc(l["occasion"])}'
+        wiersz = f'#strong[{esc(l["rite"])}] — {esc(l["occasion"])}'
         if l["passage"]:
-            wiersz += f' #sig({q(l["passage"])})'
+            wiersz += f' ({esc(l["passage"])})'
         out.append(wiersz + "\n")
         if l["description_md"]:
             out.append(md(l["description_md"]))
@@ -348,18 +313,16 @@ def odniesienia(d):
     out = [r'#heading(level: 2)[Odniesienia i motywy]']
     if d.get("refs"):
         out.append('#block(breakable: true)[#table(columns: (auto, auto, 1fr), '
-                   'stroke: (y: 0.25pt + rgb("#dcdcdc")), inset: (x: 5pt, y: 3pt), align: top + left,')
-        out.append('  table.header(repeat: true, text(fill: gold, size: 8pt)[Miejsce], '
-                   'text(fill: gold, size: 8pt)[Relacja], text(fill: gold, size: 8pt)[Uwaga]),')
+                   'inset: (x: 5pt, y: 3pt), align: top + left,')
+        out.append('  table.header(repeat: true, [*Miejsce*], [*Relacja*], [*Uwaga*]),')
         for r in d["refs"]:
             out.append("  " + ", ".join([
-                f'text(fill: greek, weight: "bold", size: 9pt)[{esc(r["target_label"])}]',
-                f'text(size: 8.5pt, fill: muted)[{esc(r["relation"])}]',
-                f'text(size: 9pt)[{md(r["note_md"]) or ""}]']) + ",")
+                f'strong[{esc(r["target_label"])}]',
+                f'emph[{esc(r["relation"])}]',
+                f'[{md(r["note_md"]) or ""}]']) + ",")
         out.append(")]")
     if d.get("themes"):
-        pastylki = " ".join(f'#pill([{esc(t)}])' for t in d["themes"])
-        out.append(f'#block(above: 0.8em)[{pastylki}]')
+        out.append("*Motywy:* " + ", ".join(esc(t) for t in d["themes"]))
     return "\n".join(out)
 
 
@@ -374,10 +337,10 @@ def perykopa(pid):
     intro = next((s for s in d["sections"]
                   if s["section_type"] == "filologia" and s["parent_id"] is None), None)
     out = [r'#pagebreak(weak: true)']
-    out.append(f'#sig({q(siglum)})')
+    out.append(esc(siglum))
     out.append(f'#heading(level: 1)[{esc(h["title"])}]')
     if h["motto"]:
-        out.append(f'#text(size: 11pt, fill: muted, style: "italic")[{esc(h["motto"])}]\n')
+        out.append(f'#emph[{esc(h["motto"])}]\n')
     if intro and intro["body_md"]:
         out.append(md(intro["body_md"]))
     out.append(r'#heading(level: 2)[Tekst perykopy]')
@@ -390,15 +353,14 @@ def perykopa(pid):
 
 def motywy():
     out = [r'#pagebreak(weak: true)', r'#heading(level: 1)[Motywy]',
-           r'#text(size: 11pt, fill: muted, style: "italic")[Nici tematyczne przez całą księgę]\n']
+           r'#emph[Nici tematyczne przez całą księgę]' + '\n']
     for m in app.api_themes():
-        out.append(f'#heading(level: 3)[{esc(m["name"])}]')
+        out.append(f'#heading(level: 2)[{esc(m["name"])}]')
         if m.get("description_md"):
             out.append(md(m["description_md"]))
         ps = m.get("pericopes") or []
         if ps:
-            zetony = " ".join(f'#pill([{esc(p["siglum"])}])' for p in ps)
-            out.append(f'#block(above: 0.4em)[#text(size: 8pt, fill: muted, tracking: 0.06em)[PERYKOPY] #h(0.4em) {zetony}]')
+            out.append("*Perykopy:* " + ", ".join(esc(p["siglum"]) for p in ps))
     return "\n\n".join(out)
 
 
