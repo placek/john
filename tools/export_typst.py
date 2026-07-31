@@ -296,11 +296,9 @@ def analiza(d):
             zrodlo = esc(c["title_pl"] or c["work_title"] or "")
             if c["locus"]:
                 zrodlo += ", " + esc(c["locus"])
-            out.append(f'#block(inset: (left: 8pt), stroke: (left: 1.5pt + linia))[')
-            out.append(f'  #text(fill: accent, weight: "bold")[{esc(c["author"])}] '
+            out.append(f'#text(fill: accent, weight: "bold")[{esc(c["author"])}] '
                        f'#text(size: 8.5pt, fill: muted, style: "italic")[{zrodlo}]\n')
-            out.append("  " + md(c["body_md"]))
-            out.append("]")
+            out.append(md(c["body_md"]))
         # aparat krytyczny pod blokiem: NA28 (źródłowy) + noty własne
         for cz in (aparat_na28(d, b), aparat_krytyczny(d, b)):
             if cz:
