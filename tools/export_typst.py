@@ -211,11 +211,12 @@ def interlinia_bloku(d, b):
     wersety = {}
     for w in slowa:
         wersety.setdefault((w["chapter"], w["verse"]), []).append(w)
-    linie = []
+    # każdy werset = wiersz siatki: numer (u góry) + zawijające się karty słów
+    komorki = []
     wielo = d["head"]["chapter_start"] != d["head"]["chapter_end"]
     for (ch, v), ws in sorted(wersety.items()):
         nr = f"{ch},{v}" if wielo else str(v)
-        karty = [f'#iv({q(nr)})']
+        karty = []
         for w in ws:
             karty.append('#iw({}, {}, {}, {}{})'.format(
                 q(bez_sigli(w["text"])),
@@ -223,10 +224,12 @@ def interlinia_bloku(d, b):
                 q(w["strong"] or ""),
                 q(morf_kod(w["morphology"])),
                 ", red: true" if w["red"] else ""))
-        linie.append("#par(justify: false, leading: 1.8em, spacing: 1.35em)[\n  "
-                     + " ".join(karty) + "\n]")
-    # cała interlinia jako jeden blok z większym marginesem u góry i u dołu
-    return "#block(breakable: true, above: 1.6em, below: 1.6em)[\n" + "\n".join(linie) + "\n]"
+        komorki.append(f'iv({q(nr)})')
+        komorki.append("par(justify: false, leading: 1.8em)[" + " ".join(karty) + "]")
+    # numer wyrównany do góry wersetu (align: top); cały blok z marginesami
+    return ("#block(breakable: true, above: 1.6em, below: 1.6em)[\n"
+            "#grid(columns: (auto, 1fr), column-gutter: 5pt, row-gutter: 1.35em, align: top,\n  "
+            + ",\n  ".join(komorki) + "\n)\n]")
 
 
 def aparat_na28(d, b):
