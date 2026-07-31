@@ -316,8 +316,8 @@ def odniesienia(d):
     out = [r'#heading(level: 2)[Odniesienia i motywy]']
     if d.get("refs"):
         out.append('#block(breakable: true)[#table(columns: (auto, auto, 1fr), '
-                   'inset: (x: 5pt, y: 3pt), align: top + left,')
-        out.append('  table.header(repeat: true, [*Miejsce*], [*Relacja*], [*Uwaga*]),')
+                   'stroke: white, inset: (x: 5pt, y: 3pt), align: top + left,')
+        out.append('  table.header(repeat: true, strong[Miejsce], strong[Relacja], strong[Uwaga]),')
         for r in d["refs"]:
             out.append("  " + ", ".join([
                 f'strong[{esc(r["target_label"])}]',
