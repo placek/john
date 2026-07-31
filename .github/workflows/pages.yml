@@ -4,7 +4,7 @@
 #   Settings → Pages → Build and deployment → Source: "GitHub Actions".
 #
 # Budowanie: python3 (biblioteka standardowa) — baza SQLite z data/*.json,
-# potem eksport statyczny do site/ (tools/export_site.py, make site).
+# złożenie PDF (typst) i eksport statyczny do site/ (tools/export_site.py).
 name: GitHub Pages
 
 on:
@@ -26,9 +26,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Zbuduj bazę i stronę statyczną
+      - uses: typst-community/setup-typst@v3
+      - name: Zbuduj bazę, złóż PDF i stronę statyczną
         run: |
           python3 tools/egzegeza_jana_build.py
+          python3 tools/export_typst.py
+          typst compile egzegeza.typ egzegeza.pdf
           python3 tools/export_site.py
       - uses: actions/upload-pages-artifact@v3
         with:

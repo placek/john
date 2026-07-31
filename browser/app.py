@@ -395,6 +395,18 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 self.end_headers()
                 self.wfile.write(payload)
             return
+        if parsed.path == "/egzegeza.pdf":
+            pdf = ROOT / "egzegeza.pdf"
+            if not pdf.exists():
+                self.send_error(404, "Brak egzegeza.pdf — złóż: make pdf")
+                return
+            dane = pdf.read_bytes()
+            self.send_response(200)
+            self.send_header("Content-Type", "application/pdf")
+            self.send_header("Content-Length", str(len(dane)))
+            self.end_headers()
+            self.wfile.write(dane)
+            return
         if parsed.path == "/":
             self.path = "/index.html"
         return super().do_GET()

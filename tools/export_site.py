@@ -86,6 +86,11 @@ def main():
     # GitHub Pages: wyłącz Jekylla, żeby nie przetwarzał plików
     (SITE / ".nojekyll").write_text("", encoding="utf-8")
 
+    # pełny tekst w PDF (jeśli złożony: make pdf) — do pobrania z nagłówka strony
+    pdf = ROOT / "egzegeza.pdf"
+    if pdf.exists():
+        shutil.copy(pdf, SITE / "egzegeza.pdf")
+
     rozmiar = sum(f.stat().st_size for f in SITE.rglob("*") if f.is_file())
     print(f"OK -> {SITE}  ({len(perykopy)} perykop, {rozmiar} bajtów)")
 
