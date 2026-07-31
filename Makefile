@@ -31,7 +31,7 @@ PORT    ?= 8000
 PID     ?= all
 OUT     ?=
 
-.PHONY: all serve build rebuild export site clean
+.PHONY: all serve build rebuild export site typst clean
 
 ## zbuduj bazę (jeśli brak) i wystaw stronę z backendem
 all: serve
@@ -58,7 +58,11 @@ export: $(DB)
 site: $(DB)
 	$(PYTHON) tools/export_site.py
 
-## usuń wygenerowaną bazę i stronę statyczną
+## reprezentacja Typst: egzegeza.typ (perykopy + motywy); PDF: typst compile egzegeza.typ
+typst: $(DB)
+	$(PYTHON) tools/export_typst.py
+
+## usuń wygenerowaną bazę, stronę statyczną i eksport Typst
 clean:
-	rm -f $(DB)
+	rm -f $(DB) egzegeza.typ egzegeza.pdf
 	rm -rf site
