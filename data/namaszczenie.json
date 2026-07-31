@@ -1,0 +1,966 @@
+{
+ "books": [],
+ "verses": {
+  "chapter": 12,
+  "items": [
+   [
+    1,
+    "Ὁ οὖν Ἰησοῦς πρὸ ἓξ ἡμερῶν τοῦ πάσχα ἦλθεν εἰς Βηθανίαν, ὅπου ἦν Λάζαρος, ὃν ἤγειρεν ἐκ νεκρῶν Ἰησοῦς·",
+    "Jezus więc na sześć dni przed Paschą przyszedł do Betanii, gdzie był Łazarz, którego Jezus wskrzesił z martwych."
+   ],
+   [
+    2,
+    "ἐποίησαν οὖν αὐτῷ δεῖπνον ἐκεῖ, καὶ ἡ Μάρθα διηκόνει, ὁ δὲ Λάζαρος εἷς ἦν ἐκ τῶν ἀνακειμένων σὺν αὐτῷ·",
+    "Przygotowali Mu więc tam wieczerzę; Marta usługiwała, a Łazarz był jednym z zasiadających z Nim przy stole."
+   ],
+   [
+    3,
+    "Ἡ οὖν Μαριὰμ λαβοῦσα λίτραν μύρου νάρδου πιστικῆς πολυτίμου ἤλειψεν τοὺς πόδας τοῦ Ἰησοῦ καὶ ἐξέμαξεν ταῖς θριξὶν αὐτῆς τοὺς πόδας αὐτοῦ· ἡ δὲ οἰκία ἐπληρώθη ἐκ τῆς ὀσμῆς τοῦ μύρου·",
+    "Maria zaś, wziąwszy funt drogocennego olejku z czystego nardu, namaściła stopy Jezusa i otarła Jego stopy swoimi włosami — a dom napełnił się wonią olejku."
+   ],
+   [
+    4,
+    "λέγει δὲ Ἰούδας ὁ Ἰσκαριώτης εἷς ἐκ τῶν μαθητῶν αὐτοῦ, ὁ μέλλων αὐτὸν παραδιδόναι·",
+    "Mówi zaś Judasz Iskariota, jeden z Jego uczniów, ten, który miał Go wydać:"
+   ],
+   [
+    5,
+    "διὰ τί τοῦτο τὸ μύρον οὐκ ἐπράθη τριακοσίων δηναρίων καὶ ἐδόθη πτωχοῖς;",
+    "Dlaczego tego olejku nie sprzedano za trzysta denarów i nie dano ubogim?"
+   ],
+   [
+    6,
+    "εἶπεν δὲ τοῦτο οὐχ ὅτι περὶ τῶν πτωχῶν ἔμελεν αὐτῷ, ἀλλʼ ὅτι κλέπτης ἦν καὶ τὸ γλωσσόκομον ἔχων τὰ βαλλόμενα ἐβάσταζεν·",
+    "Powiedział zaś to nie dlatego, że troszczył się o ubogich, ale dlatego, że był złodziejem i mając trzos, wykradał to, co wrzucano."
+   ],
+   [
+    7,
+    "εἶπεν οὖν ὁ Ἰησοῦς· ἄφες αὐτήν, ἵνα εἰς τὴν ἡμέραν τοῦ ἐνταφιασμοῦ μου τηρήσῃ αὐτό·",
+    "Rzekł więc Jezus: Zostaw ją — [uczyniła to,] aby zachować to na dzień mego pogrzebu."
+   ],
+   [
+    8,
+    "τοὺς πτωχοὺς γὰρ πάντοτε ἔχετε μεθʼ ἑαυτῶν, ἐμὲ δὲ οὐ πάντοτε ἔχετε·",
+    "Ubogich bowiem zawsze macie u siebie, mnie zaś nie zawsze macie."
+   ],
+   [
+    9,
+    "Ἔγνω οὖν ὁ ὄχλος πολὺς ἐκ τῶν Ἰουδαίων ὅτι ἐκεῖ ἐστιν καὶ ἦλθον οὐ διὰ τὸν Ἰησοῦν μόνον, ἀλλʼ ἵνα καὶ τὸν Λάζαρον ἴδωσιν ὃν ἤγειρεν ἐκ νεκρῶν·",
+    "Dowiedział się więc wielki tłum Żydów, że tam jest, i przyszli nie tylko z powodu Jezusa, lecz także by zobaczyć Łazarza, którego wskrzesił z martwych."
+   ],
+   [
+    10,
+    "ἐβουλεύσαντο δὲ οἱ ἀρχιερεῖς ἵνα καὶ τὸν Λάζαρον ἀποκτείνωσιν,",
+    "Arcykapłani zaś postanowili zabić także Łazarza,"
+   ],
+   [
+    11,
+    "ὅτι πολλοὶ διʼ αὐτὸν ὑπῆγον τῶν Ἰουδαίων καὶ ἐπίστευον εἰς τὸν Ἰησοῦν·",
+    "bo wielu Żydów z jego powodu odchodziło i wierzyło w Jezusa."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "μύρον",
+   "myron",
+   "rzeczownik",
+   "wonny olejek — słowo, od którego chrześcijański Wschód nazwał krzyżmo (myron); w 12,3.5 drogocenny nard Marii, w Mk 14,8 wprost o pogrzebie; u Jana wraca w 19,39-40 stoma funtami Nikodema: cała Pascha Janowa pachnie pogrzebem, który okaże się zwycięstwem"
+  ],
+  [
+   "νάρδος",
+   "nardos",
+   "rzeczownik",
+   "nard — olejek z korzenia rośliny himalajskiej (Nardostachys jatamansi), importowany w zapieczętowanych flakonach; πιστικῆς (12,3) — „czysty, niefałszowany\" (od πίστις: wiarygodny) lub wedle innych od nazwy miejscowej; w Pnp 1,12 nard oblubienicy pachnie, gdy król spoczywa przy stole — scena z Betanii jest żywym midraszem tego wersetu"
+  ],
+  [
+   "ὀσμή",
+   "osme",
+   "rzeczownik",
+   "woń, zapach — dom NAPEŁNIŁ SIĘ wonią olejku (12,3); jedno z najzmysłowszych zdań Ewangelii; Paweł uczyni z wonności metaforę ofiary Chrystusa (Ef 5,2) i rozchodzącej się Ewangelii (2 Kor 2,14-16): czyn miłości pachnie na cały dom — i na całą księgę"
+  ],
+  [
+   "ἐνταφιασμός",
+   "entafiasmos",
+   "rzeczownik",
+   "pogrzeb, przygotowanie do pochówku — tylko 12,7 i Mk 14,8 w NT; Jezus nazywa gest Marii zachowaniem olejku „na dzień mego pogrzebu\": namaszczenie mesjańskie i pogrzebowe stapiają się w jedno — Namaszczony jest Tym, który umrze"
+  ],
+  [
+   "πτωχός",
+   "ptochos",
+   "przymiotnik",
+   "ubogi — czterokrotnie w tej scenie (12,5.6.8); zdanie „ubogich zawsze macie u siebie\" cytuje Pwt 15,11, gdzie jest ROZKAZEM otwartej ręki; u Jana pada z gorzką przydawką: mówi je złodziej trzosu — Ewangelia demaskuje troskę o ubogich używaną jako pałkę na miłość"
+  ],
+  [
+   "γλωσσόκομον",
+   "glossokomon",
+   "rzeczownik",
+   "trzos, szkatułka — pierwotnie futerał na ustniki fletów, stąd: kasetka wspólnej kasy (12,6; 13,29); Judasz ją nosił i z niej wykradał; jedyny przedmiot w Ewangelii przypisany Judaszowi na własność"
+  ],
+  [
+   "ἀλείφω",
+   "aleifo",
+   "czasownik",
+   "namaszczać (oliwą, olejkiem) — czasownik codziennego namaszczenia (gość, chory, zmarły), w 12,3 i 11,2 o geście Marii; obok χρίω (namaszczać urzędowo — skąd Χριστός) tworzy parę: Maria czyni ludzki gest, który Bóg czyta mesjańsko"
+  ],
+  [
+   "δεῖπνον",
+   "deipnon",
+   "rzeczownik",
+   "wieczerza, uczta — uczta w Betanii (12,2) jest u Jana pierwszą z trzech wielkich wieczerz: po niej Ostatnia Wieczerza (13,2.4; 21,20) i uczta Baranka w Ap 19,9; przy każdej ktoś spoczywa przy Jezusie i przy każdej cień Judasza"
+  ],
+  [
+   "λίτρα",
+   "litra",
+   "rzeczownik",
+   "funt (rzymska libra, ok. 327 g) — miara rozrzutności: funt nardu (12,3) wart rocznego zarobku; wróci w 19,39 stokrotnie: sto funtów mirry i aloesu Nikodema — Janowa arytmetyka nadmiaru miłości"
+  ]
+ ],
+ "semitic": [
+  [
+   "נֵרְדְּ",
+   "nerd",
+   "hbr",
+   "nard — zapożyczenie z sanskrytu przez perski; w Biblii hebrajskiej tylko w Pieśni nad Pieśniami (1,12; 4,13-14): „gdy król był przy swoim stole, nard mój wydał swą woń\" — scena betańska odgrywa ten werset co do litery: Król przy stole, woń nardu, dom pełen zapachu"
+  ],
+  [
+   "אִישׁ קְרִיּוֹת",
+   "isz kerijot",
+   "hbr",
+   "mąż z Kerijot — najczęstsza etymologia przydomka Iskariota (Ἰσκαριώτης): Kerijot to miasteczko w południowej Judzie (Joz 15,25); Judasz byłby jedynym Judejczykiem wśród Galilejczyków; kodeks Bezy czyta wprost ἀπὸ Καρυώτου — „z Kariotu\" "
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "νάρδος",
+   "nerd",
+   "to samo egzotyczne słowo wędruje z sanskrytu przez hebrajski do greki; Jan, mówiąc „nard czysty\", uruchamia jedyny biblijny kontekst nardu — oblubieńczą Pieśń — i czyni z namaszczenia stóp scenę oblubienicy przy Królu"
+  ]
+ ],
+ "occurrences": [
+  [
+   "μύρον",
+   3,
+   "μύρου ×2"
+  ],
+  [
+   "μύρον",
+   5,
+   "μύρον"
+  ],
+  [
+   "νάρδος",
+   3,
+   "νάρδου"
+  ],
+  [
+   "ὀσμή",
+   3,
+   "ὀσμῆς"
+  ],
+  [
+   "ἐνταφιασμός",
+   7,
+   "ἐνταφιασμοῦ"
+  ],
+  [
+   "πτωχός",
+   5,
+   "πτωχοῖς"
+  ],
+  [
+   "πτωχός",
+   6,
+   "πτωχῶν"
+  ],
+  [
+   "πτωχός",
+   8,
+   "πτωχοὺς"
+  ],
+  [
+   "γλωσσόκομον",
+   6,
+   "γλωσσόκομον"
+  ],
+  [
+   "ἀλείφω",
+   3,
+   "ἤλειψεν"
+  ],
+  [
+   "δεῖπνον",
+   2,
+   "δεῖπνον"
+  ],
+  [
+   "λίτρα",
+   3,
+   "λίτραν"
+  ],
+  [
+   "πάσχα",
+   1,
+   "πάσχα"
+  ],
+  [
+   "ἐγείρω",
+   1,
+   "ἤγειρεν"
+  ],
+  [
+   "ἐγείρω",
+   9,
+   "ἤγειρεν"
+  ],
+  [
+   "διάκονος",
+   2,
+   "διηκόνει"
+  ],
+  [
+   "πιστεύω",
+   11,
+   "ἐπίστευον"
+  ],
+  [
+   "ὄχλος",
+   9,
+   "ὄχλος"
+  ],
+  [
+   "ἀρχιερεύς",
+   10,
+   "ἀρχιερεῖς"
+  ],
+  [
+   "τηρέω",
+   7,
+   "τηρήσῃ"
+  ]
+ ],
+ "works": [],
+ "themes": [
+  [
+   "rozrzutność miłości — dar bez rachunku",
+   "Janowa arytmetyka nadmiaru: sześćset litrów wina w Kanie (2,6), dwanaście koszy ułomków (6,13), funt czystego nardu za trzysta denarów (12,3), sto funtów wonności Nikodema (19,39), sto pięćdziesiąt trzy wielkie ryby (21,11). Miłość w tej Ewangelii nie liczy — odpowiada nadmiarem na Nadmiar; rachunek pojawia się tylko w ustach Judasza."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 12,
+    "vs": 1,
+    "ce": 12,
+    "ve": 11,
+    "title": "Namaszczenie w Betanii",
+    "motto": "Domus impleta est ex odore unguenti (Dom napełnił się wonią olejku)",
+    "status": "ukonczona",
+    "position": 28
+   },
+   "intro": "Sześć dni przed Paschą — Jan uruchamia odliczanie, które skończy się na krzyżu — Jezus wraca do Betanii, do domu, w którym mieszka Jego największy znak. Uczta jest portretem rodziny ocalonej: Marta usługuje (jak zawsze), Łazarz — żywy dowód — spoczywa przy stole, a Maria czyni rzecz, o której będzie mówić cała Ewangelia: rozbija roczne oszczędności o stopy Gościa. Funt czystego nardu, trzysta denarów, włosy zamiast ręcznika — gest jest rozrzutny, intymny i bezsłowny; Maria w całej scenie nie mówi nic, mówi dom: napełnił się wonią olejku. Kontrapunkt przychodzi natychmiast i ma imię: Judasz Iskariota — pierwszy raz na scenie z własnym głosem — wycenia gest trzeźwo i pobożnie: czemu nie sprzedano i nie dano ubogim? Ewangelista, który zwykle nie komentuje, tym razem nie wytrzymuje: powiedział to nie dlatego, że troszczył się o ubogich, ale że był złodziejem. Odpowiedź Jezusa przecina spór i odsłania dno gestu: zostaw ją — to na dzień mego pogrzebu; ubogich zawsze macie u siebie, mnie nie zawsze. Scena kończy się po Janowemu: tłum ciągnie oglądać wskrzeszonego, a arcykapłani uchwalają drugą śmierć — także Łazarza — bo żywy Łazarz jest chodzącym kazaniem. Tak Ewangelia wchodzi w Wielki Tydzień: pachnąca nardem i pogrzebem naraz.",
+   "struktura": "Perykopa jest zbudowana jak tryptyk zapachowy: dar — sprzeciw — cień. Część pierwsza (w. 1-3): rama czasowa (sześć dni przed Paschą — początek Janowego tygodnia paschalnego, lustrzanego wobec tygodnia inauguracyjnego z 1,19-2,11) i uczta w Betanii z trójką rodzeństwa w rolach, które są ich portretami: Marta — diakonia, Łazarz — obecność świadka, Maria — gest. Namaszczenie opisane jest z rozrzutnością szczegółu: funt, nard, czysty, drogocenny, stopy (nie głowa — jak u Marka i Mateusza: Jan wybiera gest niższy, gest niewolnika i... gest, który Jezus powtórzy w 13,5), włosy, woń wypełniająca dom. Część druga (w. 4-8): sprzeciw Judasza z pobożną kalkulacją (trzysta denarów dla ubogich), demaskacja ewangelisty (złodziej trzosu) i odpowiedź Jezusa, w której gest otrzymuje wykładnię pogrzebową (na dzień mego ἐνταφιασμός) i hierarchię: ubodzy — zawsze (cytat z Pwt 15,11, gdzie „zawsze będą ubodzy w ziemi\" uzasadnia NAKAZ hojności); Ja — nie zawsze: chwila Obecnego ma pierwszeństwo przed każdym programem. Część trzecia (w. 9-11): Betania jako zagrożenie systemowe — tłum przychodzi dla Jezusa I dla Łazarza; arcykapłani rozszerzają uchwałę śmierci na wskrzeszonego, bo „wielu z jego powodu odchodziło i wierzyło\". Logika jest obłędna i nieubłagana: skoro znak przekonuje, trzeba zabić znak. Perykopa spina rozdziały 11 i 12 w jedno: wskrzeszenie (przyczyna uczty), wyrok (tło), namaszczenie (proroctwo pogrzebu) i nadciągająca Pascha (rama) — wszystkie zegary Ewangelii zostają nastawione na jedną godzinę.",
+   "blocks": [
+    {
+     "label": "w. 1–3",
+     "units": [
+      [
+       "πρὸ ἓξ ἡμερῶν τοῦ πάσχα",
+       "sześć dni przed Paschą",
+       "Jan otwiera odliczanie: sześć dni przed Paschą — potem „nazajutrz\" (12,12), „przed świętem Paschy\" (13,1), aż po „był to dzień Przygotowania Paschy, godzina około szóstej\" (19,14). Żadna Ewangelia nie prowadzi chronologii ostatniego tygodnia tak skrupulatnie: czas przestał być tłem, stał się liturgią. Szóstka ma też ciche echo kompozycyjne: księga zaczęła się tygodniem inauguracji (1,19-2,11, z Kaną „trzeciego dnia\" jako zwieńczeniem) — teraz zaczyna się tydzień dopełnienia; stworzenie i nowe stworzenie, oba w siedem dni. Betania — dom wskrzeszonego — jest bramą tego tygodnia: Jezus idzie na śmierć od stołu przyjaciół, których wyrwał śmierci."
+      ],
+      [
+       "ἡ Μάρθα διηκόνει, ὁ δὲ Λάζαρος εἷς ἦν ἐκ τῶν ἀνακειμένων",
+       "portret rodziny ocalonej",
+       "Jedno zdanie maluje trójkę rodzeństwa wiernie ich naturom: Marta USŁUGUJE (διηκόνει — jej czasownik z Łk 10,40, teraz bez skargi: diakonia pogodzona), Łazarz SPOCZYWA przy stole (żaden cytat, żadna mowa — w całej Biblii Łazarz nie wypowiada ani słowa; jego kazaniem jest to, że je kolację), Maria zaraz UCZYNI GEST. Trzy drogi bycia z Jezusem: służba, obecność, adoracja — i Ewangelia nie hierarchizuje ich, lecz sadza przy jednym stole. Scena ma spokój wieczoru po burzy: między wyrokiem (11,53) a wjazdem (12,12) Jezus wybiera dom przyjaciół; ostatni wolny wieczór Ewangelii pachnie chlebem i nardem."
+      ],
+      [
+       "ἤλειψεν τοὺς πόδας … ἡ δὲ οἰκία ἐπληρώθη ἐκ τῆς ὀσμῆς",
+       "stopy, włosy, woń",
+       "Gest Marii jest potrójnie zbytkowny. Materia: funt (327 g!) nardu czystego — importowany olejek wart trzysta denarów, rok pracy najemnika; taki flakon był lokatą rodzinnej fortuny. Miejsce: STOPY, nie głowa — namaszczenie głowy było honorem dla gościa (Ps 23,5), namaszczenie stóp nie było niczym: stopy się myło (wodą, przez sługę), nie namaszczano nardem; Maria wybiera gest bez protokołu, czystą inwencję miłości uniżonej. Sposób: OTARŁA WŁOSAMI — kobieta rozpuszczająca włosy publicznie przekraczała obyczaj; Maria używa własnej chwały (1 Kor 11,15) jako ręcznika. Jan dodaje zdanie-arcydzieło: dom napełnił się wonią olejku. Woń jest jedynym „słowem\" Marii w tej scenie — i okaże się proroctwem: za tydzień inna mieszanka wonności (19,39-40) wypełni grób, który nie zdoła jej zatrzymać. Rabini mawiali: dobry czyn jest jak olejek — im bardziej rozbity, tym szerzej pachnie; Ewangelia doda: gest miłości z Betanii pachnie do dziś wszędzie tam, gdzie się ją czyta (Mk 14,9)."
+      ]
+     ],
+     "greek": "Ὁ οὖν Ἰησοῦς πρὸ ἓξ ἡμερῶν τοῦ πάσχα ἦλθεν εἰς Βηθανίαν, ὅπου ἦν Λάζαρος, ὃν ἤγειρεν ἐκ νεκρῶν Ἰησοῦς· ἐποίησαν οὖν αὐτῷ δεῖπνον ἐκεῖ, καὶ ἡ Μάρθα διηκόνει, ὁ δὲ Λάζαρος εἷς ἦν ἐκ τῶν ἀνακειμένων σὺν αὐτῷ· Ἡ οὖν Μαριὰμ λαβοῦσα λίτραν μύρου νάρδου πιστικῆς πολυτίμου ἤλειψεν τοὺς πόδας τοῦ Ἰησοῦ καὶ ἐξέμαξεν ταῖς θριξὶν αὐτῆς τοὺς πόδας αὐτοῦ· ἡ δὲ οἰκία ἐπληρώθη ἐκ τῆς ὀσμῆς τοῦ μύρου·",
+     "transl": "Jezus więc na sześć dni przed Paschą przyszedł do Betanii, gdzie był Łazarz, którego Jezus wskrzesił z martwych. Przygotowali Mu więc tam wieczerzę; Marta usługiwała, a Łazarz był jednym z zasiadających z Nim przy stole. Maria zaś, wziąwszy funt drogocennego olejku z czystego nardu, namaściła stopy Jezusa i otarła Jego stopy swoimi włosami — a dom napełnił się wonią olejku.",
+     "cs": 12,
+     "vs": 1,
+     "ce": 12,
+     "ve": 3
+    },
+    {
+     "label": "w. 4–8",
+     "units": [
+      [
+       "διὰ τί τοῦτο τὸ μύρον οὐκ ἐπράθη τριακοσίων δηναρίων;",
+       "rachunek Judasza",
+       "Pierwsze samodzielne zdanie Judasza w tej Ewangelii jest arytmetycznie bezbłędne i moralnie efektowne: trzysta denarów dla ubogich. Właśnie dlatego jest groźne: zło rzadko wchodzi na scenę z własną twarzą — wchodzi z twarzą troski o ubogich, z twarzą rozsądku, z twarzą lepszej alokacji środków. Judasz wycenia gest miłości i wycena jest poprawna; nie rozumie tylko jednego — że miłość nie jest pozycją budżetową. Jan obnaża mechanizm komentarzem bez litości: nie o ubogich mu szło — był złodziejem i podbierał z trzosu. Zdanie ostrzega Kościół po wsze czasy: najskuteczniejszą maską chciwości jest język miłosierdzia, a krytyka cudzej rozrzutności dla Boga bywa księgowością własnej kieszeni."
+      ],
+      [
+       "ἄφες αὐτήν, ἵνα εἰς τὴν ἡμέραν τοῦ ἐνταφιασμοῦ μου τηρήσῃ αὐτό",
+       "na dzień mego pogrzebu",
+       "Odpowiedź Jezusa jest obroną i objawieniem. Obroną: ἄφες αὐτήν — zostaw ją, przestań; Jezus staje między kobietą a krytyką, jak stanie w 8,7. Objawieniem: gest zostaje przeczytany na głębokości, której sama Maria być może nie znała — to zachowanie olejku NA DZIEŃ MEGO POGRZEBU. Składnia lekcji przyjętej (ἵνα … τηρήσῃ) jest trudna — jakby namaszczenie było „zachowaniem\" wonności na pogrzeb, który nastąpi za sześć dni; sens teologiczny jest jednak przejrzysty i podwójny. Po pierwsze: Mesjasz znaczy Namaszczony — a jedyne namaszczenie, jakie Jezus przyjmuje w tej Ewangelii, jest pogrzebowe; Jego mesjańskość ma zapach mirry, nie oleju koronacyjnego. Po drugie: miłość bywa prorocza mimowiednie — Maria czyniła gest wdzięczności, Bóg wpisał weń liturgię pogrzebu; kto kocha rozrzutnie, temu Bóg dopisuje znaczenia większe niż zamiar."
+      ],
+      [
+       "τοὺς πτωχοὺς γὰρ πάντοτε ἔχετε μεθʼ ἑαυτῶν",
+       "ubodzy zawsze, Ja nie zawsze",
+       "Zdanie bywa cytowane przeciw wrażliwości społecznej — i jest to lektura dokładnie odwrotna. Jezus cytuje Pwt 15,11: „nie zabraknie ubogich w tej ziemi, DLATEGO nakazuję ci: otwieraj szczodrze rękę\" — werset, który z trwałości ubóstwa czyni argument ZA hojnością, nie wymówkę. Sens odpowiedzi nie brzmi: ubodzy mogą poczekać — lecz: służba ubogim jest czasem zwyczajnym Kościoła (zawsze macie), a obecność Oblubieńca czasem świątecznym, który się nie powtórzy (mnie nie zawsze macie; por. Mk 2,19-20). Hierarchia nie jest konkurencją: ta sama Maria, która wylała nard na stopy Jezusa, jest patronką wszystkich, którzy rozpoznają Go potem w ubogich (Mt 25,40). Ale kolejność ma znaczenie: kto nie umie „zmarnować\" nic dla samego Boga, ten i ubogim będzie w końcu wydzielał z trzosu — jak Judasz."
+      ]
+     ],
+     "greek": "λέγει δὲ Ἰούδας ὁ Ἰσκαριώτης εἷς ἐκ τῶν μαθητῶν αὐτοῦ, ὁ μέλλων αὐτὸν παραδιδόναι· διὰ τί τοῦτο τὸ μύρον οὐκ ἐπράθη τριακοσίων δηναρίων καὶ ἐδόθη πτωχοῖς; εἶπεν δὲ τοῦτο οὐχ ὅτι περὶ τῶν πτωχῶν ἔμελεν αὐτῷ, ἀλλʼ ὅτι κλέπτης ἦν καὶ τὸ γλωσσόκομον ἔχων τὰ βαλλόμενα ἐβάσταζεν· εἶπεν οὖν ὁ Ἰησοῦς· ἄφες αὐτήν, ἵνα εἰς τὴν ἡμέραν τοῦ ἐνταφιασμοῦ μου τηρήσῃ αὐτό· τοὺς πτωχοὺς γὰρ πάντοτε ἔχετε μεθʼ ἑαυτῶν, ἐμὲ δὲ οὐ πάντοτε ἔχετε·",
+     "transl": "Mówi zaś Judasz Iskariota, jeden z Jego uczniów, ten, który miał Go wydać: Dlaczego tego olejku nie sprzedano za trzysta denarów i nie dano ubogim? Powiedział zaś to nie dlatego, że troszczył się o ubogich, ale dlatego, że był złodziejem i mając trzos, wykradał to, co wrzucano. Rzekł więc Jezus: Zostaw ją — [uczyniła to,] aby zachować to na dzień mego pogrzebu. Ubogich bowiem zawsze macie u siebie, mnie zaś nie zawsze macie.",
+     "cs": 12,
+     "vs": 4,
+     "ce": 12,
+     "ve": 8
+    },
+    {
+     "label": "w. 9–11",
+     "units": [
+      [
+       "ἵνα καὶ τὸν Λάζαρον ἴδωσιν",
+       "zobaczyć wskrzeszonego",
+       "Tłum przychodzi do Betanii z podwójną ciekawością: dla Jezusa I dla Łazarza — chcieli ZOBACZYĆ człowieka, który był po tamtej stronie. Jan nie gani tej ciekawości: widok wskrzeszonego prowadził do wiary (w. 11), a świadectwo Łazarza nie wymagało słów — wystarczyło, że żył, jadł i dawał się oglądać. Jest w tym trwała prawda o apologetyce: najmocniejszym argumentem Kościoła nie są wywody, lecz ludzie wyprowadzeni z grobów — widocznie, sprawdzalnie żywi. Każdy nawrócony jest Łazarzem swojej Betanii: przychodzą go oglądać, zanim przyjdą słuchać."
+      ],
+      [
+       "ἐβουλεύσαντο … ἵνα καὶ τὸν Λάζαρον ἀποκτείνωσιν",
+       "zabić także Łazarza",
+       "Uchwała rozszerzająca jest logicznym obłędem systemu: skoro żywy Łazarz rodzi wiarę, trzeba go uśmiercić — zabić dowód, powtórnie pogrzebać świadectwo. Augustyn skomentował to zdaniem, które weszło do klasyki: o stulta cogitatio — o głupia myśli! jakby Ten, który wskrzesił umarłego, nie mógł wskrzesić zabitego. Przemoc wobec znaku jest ostatnim argumentem przegranych: nie mogąc zaprzeczyć faktowi, usuwają fakt. W dziejach Kościoła zdanie to czytano nad każdym męczennikiem: zabija się świadków, by uciszyć świadectwo — i za każdym razem działa ta sama betańska ironia: krew świadków rodzi więcej wiary niż ich życie. Perykopa kończy się więc dokładnie tam, gdzie zaczęła się poprzednia: wobec rady, która chce ratować system, mnożąc groby — nie wiedząc, że idzie Pascha, która wszystkie groby otworzy od środka."
+      ]
+     ],
+     "greek": "Ἔγνω οὖν ὁ ὄχλος πολὺς ἐκ τῶν Ἰουδαίων ὅτι ἐκεῖ ἐστιν καὶ ἦλθον οὐ διὰ τὸν Ἰησοῦν μόνον, ἀλλʼ ἵνα καὶ τὸν Λάζαρον ἴδωσιν ὃν ἤγειρεν ἐκ νεκρῶν· ἐβουλεύσαντο δὲ οἱ ἀρχιερεῖς ἵνα καὶ τὸν Λάζαρον ἀποκτείνωσιν, ὅτι πολλοὶ διʼ αὐτὸν ὑπῆγον τῶν Ἰουδαίων καὶ ἐπίστευον εἰς τὸν Ἰησοῦν·",
+     "transl": "Dowiedział się więc wielki tłum Żydów, że tam jest, i przyszli nie tylko z powodu Jezusa, lecz także by zobaczyć Łazarza, którego wskrzesił z martwych. Arcykapłani zaś postanowili zabić także Łazarza, bo wielu Żydów z jego powodu odchodziło i wierzyło w Jezusa.",
+     "cs": 12,
+     "vs": 9,
+     "ce": 12,
+     "ve": 11
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Cztery tła: nard i handel wonnościami; namaszczenia w Izraelu (gość, król, zmarły); uczta grecko-żydowska i miejsce kobiet; problem synoptyczny — cztery namaszczenia tradycji.",
+     "children": [
+      [
+       "Nard: roczny zarobek w alabastrowym flakonie",
+       "Nard sprowadzano z Himalajów szlakiem korzennym — stąd cena: trzysta denarów to około trzystu dniówek najemnika (por. Mt 20,2), roczny dochód rodziny. Sprzedawano go w szczelnych flakonach alabastrowych (Mk 14,3: łamie flakon), bo woń ulatniała się szybko; πιστικῆς — „czysty, bez domieszek\" — odróżnia produkt od tańszych falsyfikatów, których rynek był pełen. Funt (λίτρα, 327 g) to ilość ogromna: na namaszczenie gościa wystarczało kilka kropel. Wszystkie te realia mówią jedno: gest Marii nie był miłym drobiazgiem, lecz ekonomicznym szaleństwem — rozbiciem rodzinnej lokaty o stopy wędrownego Nauczyciela; dokładnie to szaleństwo wycenia Judasz i dokładnie je broni Jezus."
+      ],
+      [
+       "Namaszczenia Izraela: gość, król, zmarły",
+       "Oliwa i wonności obsługiwały w Izraelu trzy progi. Gościnność: namaszczenie głowy gościa było honorem uczty (Ps 23,5; Łk 7,46 — wyrzut wobec Szymona, że tego zaniechał). Władza: namaszczenie głowy oliwą czyniło króla i kapłana (1 Sm 10,1; 16,13; Wj 30,22-33 — święty olejek, którego nie wolno było użyć prywatnie); stąd Masziach, Namaszczony. Śmierć: ciało zmarłego obmywano i namaszczano wonnościami (Mk 16,1; J 19,39-40), by uczcić i osłabić rozkład. Genialność sceny Janowej polega na tym, że gest Marii dotyka wszystkich trzech progów naraz i żadnego wprost: namaszcza GOŚCIA — ale stopy, nie głowę; namaszcza KRÓLA — ale olejkiem uczty, nie rogiem oliwy; i namaszcza — jak objawi Jezus — ZMARŁEGO, który jeszcze żyje. Trzy liturgie w jednym geście kobiety, która nie powiedziała ani słowa."
+      ],
+      [
+       "Kobieta z rozpuszczonymi włosami przy stole mężczyzn",
+       "Uczta odbywała się na modłę grecko-rzymską: mężczyźni spoczywali na sofach wokół stołu (ἀνακειμένων, w. 2), stopy odchylone na zewnątrz — stąd fizyczna możliwość gestu Marii. Kobiety zwykle usługiwały lub jadły osobno; wejście Marii między sofy, uklęknięcie u stóp, rozpuszczenie włosów (zamężne i dorosłe kobiety wiązały włosy publicznie; rozpuszczenie uchodziło za intymność lub wstyd) — wszystko to łamało konwenans na oczach gości. Jan nie komentuje skandalu obyczajowego (Łukasz w analogicznej scenie 7,36-50 czyni z niego oś), ale jego pierwsi słuchacze go słyszeli: miłość Marii jest bezwstydna w źródłowym sensie — nie ma nic do ukrycia i nic do zachowania; ociera stopy Mistrza tym, co jest jej chwałą. Następna scena, w której ktoś w tej Ewangelii pochyli się nad cudzymi stopami, będzie w Wieczerniku — i wykonawcą będzie Ten, którego stopy tu namaszczono."
+      ],
+      [
+       "Cztery namaszczenia tradycji: problem synoptyczny",
+       "Tradycja zna cztery sceny namaszczenia: Mk 14,3-9 i Mt 26,6-13 (Betania, dom Szymona Trędowatego, dwa dni przed Paschą, bezimienna kobieta, GŁOWA, ta sama kwota trzystu denarów i ta sama wykładnia pogrzebowa), Łk 7,36-50 (Galilea, dom Szymona faryzeusza, bezimienna grzesznica, stopy, łzy i włosy — scena o przebaczeniu, nie o pogrzebie) oraz J 12,1-8. Jan zgadza się z Markiem co do miejsca, czasu (okolice Paschy), wyceny i sensu pogrzebowego, a z Łukaszem co do stóp i włosów; nadto jako jedyny nadaje kobiecie imię: Maria z Betanii, i sadza przy stole Łazarza. Najprościej: jedno wydarzenie betańskie (Mk/Mt/J) z niezależną sceną Łukaszową, przy czym motywy obu zlały się w tradycji — czego owocem jest także zachodnie utożsamienie Marii z Betanii z Marią Magdaleną i grzesznicą Łukasza (utrwalone przez Grzegorza Wielkiego, dziś zarzucone). Egzegeza niniejsza czyta scenę Janową w jej własnych ramach: to Maria, siostra Łazarza — kobieta, która słuchała u stóp (Łk 10,39), płakała u stóp (J 11,32) i namaściła stopy: cała jej droga dzieje się u stóp Jezusa."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Cztery węzły: dar a użyteczność (przeciw utylitaryzmowi miłości); namaszczenie mesjańskie przez pogrzebowe; ubodzy i Obecny — hierarchia bez konkurencji; grzech Judasza jako korupcja dobra.",
+     "children": [
+      [
+       "1. Donum contra utilitatem — miłość nie jest alokacją zasobów",
+       "Spór Judasza z Marią jest w istocie sporem dwóch metafizyk. Utylitaryzm zna tylko jedną miarę: maksymalizację pożytku — w jego świetle nard NALEŻAŁO sprzedać, a każdy kult, każda liturgia, każde piękno „marnuje\" środki możliwe do lepszego użycia. Tomizm odpowiada rozróżnieniem: bonum utile (dobro-środek) nie jest jedynym rodzajem dobra — istnieje bonum honestum, dobro godziwe, kochane dla niego samego; a Bóg jest dobrem godziwym absolutnie, więc dar „bezużyteczny\" złożony Jemu jest najrozumniejszym z aktów (S. Th. II-II, q. 81: religio jako sprawiedliwość wobec Boga; q. 145: honestum). Adoracja nie konkuruje z etyką — fundament pod nią kładzie: kto nie umie nic „zmarnować\" dla Boga, ten zredukował świat do magazynu środków, a w magazynie środków także człowiek staje się w końcu pozycją księgową. Woń nardu jest więc metafizycznym manifestem: istnieje porządek daru, starszy niż porządek wymiany."
+      ],
+      [
+       "2. Unctio messianica per sepulturam — Namaszczony przez pogrzeb",
+       "Jezus nigdzie w czwartej Ewangelii nie zostaje namaszczony na sposób królewski ani kapłański — jedyne Jego namaszczenie jest tym betańskim, które sam czyta jako pogrzebowe. To nie luka, lecz teza: Χριστός objawia się jako Namaszczony właśnie w śmierci; Jego intronizacją będzie krzyż (tytuł winy jako tytuł królewski, 19,19-22), Jego krzyżmem — mirra grobu. Tomasz komentuje: namaszczenie Chrystusa niewidzialne dokonało się w unii hipostatycznej (namaszczony Duchem ponad uczestników — Ps 45,8; por. S. Th. III, q. 7), widzialne zaś znaki tego namaszczenia Bóg pozwolił złożyć ludzkiej miłości — Marii przed śmiercią, Nikodemowi po niej. Kościół dziedziczy tę gramatykę w swoich olejach: krzyżmo konsekruje przez włączenie w Namaszczonego, a namaszczenie chorych łączy z Jego paschą cierpienia — oba pachną Betanią."
+      ],
+      [
+       "3. Pauperes semper — hierarchia, która nie jest konkurencją",
+       "Zdanie o ubogich czytane w całości z Pwt 15,11 ustanawia dwuczasowość miłości chrześcijańskiej. Czas zwyczajny: ubodzy zawsze — i zawsze otwarta ręka; jałmużna jest u Tomasza aktem miłości nakazanym, nie fakultatywnym (S. Th. II-II, q. 32). Czas świąteczny: Oblubieniec nie zawsze — obecność sakramentalna, liturgia, adoracja mają godziny, których nie wolno przeliczyć na nic innego, bo ich przedmiotem jest On sam. Błąd Judasza nie polega na trosce o ubogich (ta byłaby święta), lecz na użyciu ubogich PRZECIW Obecnemu — na rozegraniu dwóch miłości przeciw sobie. Kościół zna obie herezje tego sporu: liturgizm, który za wonią kadzidła nie czuje głodnych, i aktywizm, który sprzedałby nard każdej Betanii na cele statutowe. Ortodoksja jest u stóp: ta sama Maria, jedna miłość, dwa wyrazy — a miarą zdrowia jest zdolność do OBU rozrzutności."
+      ],
+      [
+       "4. Fur erat — korupcja dobra: droga Judasza",
+       "Jan portretuje początek zdrady nie w wielkiej apostazji, lecz w małej, chronicznej nieuczciwości: był złodziejem i podbierał z trzosu. Zło w ujęciu tomistycznym nie ma własnej substancji — jest korupcją dobra; Judasz nie jest demonem z zewnątrz, lecz uczniem, w którym dobro (troska o wspólną kasę, wrażliwość społeczna, bliskość Mistrza) uległo stopniowemu przekierowaniu ku sobie. Droga jest podręcznikowa: najpierw ręka w trzosie, potem język przeciw miłości (12,5), potem serce otwarte na podpowiedź diabła (13,2), wreszcie noc (13,30). Żadnego skoku — sama równia pochyła przyzwolenia. Scena betańska jest więc także traktatem o początkach upadku: zdrada Boga zaczyna się od drobnych sprzeniewierzeń, a jej pierwszym publicznym objawem bywa moralizowanie przeciw cudzej hojności. Kto przy trzosie, niech czuwa nad ręką; kto przy krytyce cudzej miłości — nad sercem."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "children": [],
+     "body": "Autor konstruuje scenę jako bramę tygodnia paschalnego i robi to środkami mistrza. Chronologia: „sześć dni przed Paschą\" otwiera odliczanie, które nada całej Męce rytm liturgiczny — czytelnik ma odtąd czuć upływ każdego dnia. Obsada: trójka z Betanii wraca w rolach-syntezach (diakonia, świadectwo, adoracja), a naprzeciw nich staje po raz pierwszy mówiący Judasz — autor celowo daje mu wejście z tekstem pobożnym, by nauczyć wspólnotę nieufności wobec pobożnych tekstów wypowiadanych przy trzosie; komentarz „był złodziejem\" jest jednym z nielicznych jawnych osądów narratora w całej księdze — tu autor uznał, że stawka usprawiedliwia zerwanie dyskrecji. Sensoryka: Jan pisze wonią — dom napełniony zapachem jest obrazem, który czytelnik czuje nozdrzami; to samo zrobi z grobem pełnym wonności (19,39-40), spinając początek i koniec tygodnia klamrą zapachu. Intertekst: gest stóp i włosów zapowiada Wieczernik (13,5 — Jezus u stóp uczniów), kwota trzystu denarów łączy z tradycją Markową, a nard uruchamia Pieśń nad Pieśniami — autor pisze scenę oblubieńczą bez jednego słowa o oblubieńczości. Cel pastoralny: wspólnota Janowa, uboga i krytykowana za „marnowanie\" czci na ukrzyżowanego Mesjasza, słyszy, że rozrzutność wobec Pana jest proroctwem, nie stratą — i że jej krytycy bywają Judaszami z trzosem. A Łazarz pod uchwałą śmierci to lustro dla świadków po Jawne: świadectwo kosztuje, ale właśnie dlatego działa."
+    },
+    {
+     "type": "autor_bozy",
+     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "children": [],
+     "body": "Duch Święty składa w tej scenie naukę o darze, której Kościół uczy się bez końca. Pierwsza prawda: miłość do Boga ma prawo być rozrzutna — więcej: dopiero rozrzutna jest sobą. Wszystkie miary tej Ewangelii są nadmiarem (woda-wino, kosze ułomków, funt nardu, sto funtów mirry), bo odpowiadają Miłości, która nie wydzielała: tak umiłował, że DAŁ (3,16). Kult, liturgia, piękno dla Boga — wszystko, co Judaszowa księgowość świata nazywa marnotrawstwem — jest w oczach Ducha wonią napełniającą dom; Kościół ubogi w środki nigdy nie był wezwany do ubóstwa w miłości. Druga prawda: prawdziwy dar bywa proroctwem — Maria czyni więcej, niż wie; kto kocha bez rachunku, temu Bóg dopisuje sensy, których dawca nie planował; hojność jest formą proroctwa dostępną każdemu. Trzecia prawda: ubodzy i Obecny nie konkurują — Duch zabrania rozgrywać jałmużnę przeciw adoracji i adorację przeciw jałmużnie; obie są jedną miłością w dwóch czasach, a kto niszczy jedną w imię drugiej, zwykle nie ma żadnej (jak pokazuje trzos). Czwarta prawda, najcichsza: świadectwo życia jest nieusuwalne inaczej niż przemocą — Łazarz przy stole rodzi wiarę samym istnieniem i dlatego system chce go zabić; Duch mówi Kościołowi wszystkich prześladowań: wasze życie jest argumentem, którego nie da się odeprzeć, tylko uśmiercić — i nawet to okaże się bezskuteczne, bo Ten, który wskrzesił raz, wskrzesza i drugi."
+    },
+    {
+     "type": "odniesienia",
+     "title": "VI. Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "Pnp 1,12 → w. 3",
+       "Gdy król był przy swoim stole, nard mój wydał swą woń — jedyny biblijny kontekst nardu; scena betańska odgrywa werset co do litery i czyni z namaszczenia gest oblubienicy: Izrael-oblubienica u stóp Króla na tydzień przed Jego zaślubinami z krzyża."
+      ],
+      [
+       "Pwt 15,11 → w. 8 (cytat)",
+       "Nie zabraknie ubogich w tej ziemi, dlatego nakazuję ci: otwieraj szczodrze rękę — źródło zdania o ubogich; w oryginale trwałość ubóstwa uzasadnia NAKAZ hojności, więc Jezus nie odwołuje troski o ubogich, lecz osadza ją w hierarchii godzin."
+      ],
+      [
+       "Mk 14,3-9; Mt 26,6-13 → całość",
+       "Betańskie namaszczenie synoptyków: dom Szymona Trędowatego, alabaster, głowa, trzysta denarów, wykładnia pogrzebowa i obietnica „gdziekolwiek będzie głoszona Ewangelia, opowiadać będą, co uczyniła\" — wspólne jądro tradycji z Janową specyfiką stóp i imienia Marii."
+      ],
+      [
+       "Łk 7,36-50 → w. 3",
+       "Grzesznica u stóp w domu faryzeusza: łzy, włosy, pocałunki, olejek — scena o przebaczeniu, odrębna od betańskiej, której motywy (stopy, włosy) przeniknęły do Janowego opisu; tło zachodniego utożsamienia trzech kobiet."
+      ],
+      [
+       "Łk 10,38-42 → w. 2-3",
+       "Marta usługuje, Maria u stóp Pana wybrała cząstkę najlepszą — Łukaszowy dyptyk sióstr potwierdzony trzecim świadkiem: u Jana Marta znów przy diakonii, Maria znów u stóp."
+      ],
+      [
+       "Ps 41,10 → w. 4-6",
+       "Nawet przyjaciel mój, któremu ufałem, jedzący chleb mój, podniósł na mnie piętę — psalm zdradzonego zaufania, który Jezus zacytuje wprost o Judaszu w 13,18; przy uczcie betańskiej zdrajca już je chleb i już liczy."
+      ],
+      [
+       "Wj 30,22-33; 1 Sm 16,13 → w. 3.7",
+       "Święty olejek namaszczenia i róg oliwy nad Dawidem — tło mesjańskie: Jan pokazuje Namaszczonego, którego jedyna widzialna unkcja jest pogrzebowa; królestwo tego Króla przejdzie przez grób."
+      ],
+      [
+       "J 11,2 → w. 3",
+       "Ewangelista zapowiedział scenę wstecznie już w 11,2 (Maria była tą, która namaściła Pana) — rzadki u Jana prolepsis: namaszczenie było dla pierwszych czytelników tak znane, że służyło za wizytówkę Marii, zanim zostało opowiedziane."
+      ],
+      [
+       "J 13,2-5.29 → w. 3-6",
+       "Wieczerza, Judasz z trzosem i Jezus u stóp uczniów: Wieczernik odbija Betanię jak lustro — namaszczone stopy Mistrza pochylą się nad stopami uczniów; miłość przyjęta staje się miłością przekazaną."
+      ],
+      [
+       "J 19,38-42 → w. 3.7",
+       "Sto funtów mirry i aloesu Nikodema, grób w ogrodzie — dopełnienie proroctwa z w. 7: pogrzeb królewski o stokrotnej wadze; woń Betanii i woń grobu spinają tydzień paschalny klamrą zapachu."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Liturgia",
+       "J 12,1-11 jest Ewangelią Wielkiego Poniedziałku — Kościół wchodzi w Wielki Tydzień przez dom w Betanii: po Hosanna niedzieli pierwszym obrazem jest woń nardu i cień trzosu; następne dni dopowiedzą zdradę (wtorek) i jej cenę (środa). W tradycji bizantyjskiej perykopa (12,1-18) jest Ewangelią Niedzieli Palmowej, czytaną łącznie z wjazdem: Wschód zachowuje Janową jedność namaszczenia i triumfu. Wonność sceny przeniknęła do teologii olejów świętych: myron — słowo z 12,3.5 — jest po grecku nazwą krzyżma, a modlitwy konsekracji olejów w Wielki Czwartek myślą kategoriami wonności Chrystusowej rozlanej na Kościół. We wspomnienie świętych Marty, Marii i Łazarza (29 lipca) scena betańska powraca w liturgii godzin i jako opcja lekcyjna. Werset 8 wszedł do reguł życia konsekrowanego jako karta adoracji: czas dla Obecnego nie jest czasem odebranym ubogim."
+      ],
+      [
+       "Recepcja teologiczna",
+       "Historia recepcji toczyła się wokół trzech ognisk. Tożsamość Marii: zachodnie utożsamienie Marii z Betanii, Marii Magdaleny i grzesznicy Łukaszowej — kanonizowane kaznodziejsko przez Grzegorza Wielkiego (Hom. 33) — ukształtowało sztukę i pobożność na czternaście stuleci (Magdalena z flakonem!), nim egzegeza i reforma kalendarza (1969) rozdzieliły trzy postaci; Wschód nigdy ich nie mieszał. Spór o rozrzutność: scena była sztandarem w każdej debacie o przepychu kultu — od sporów o kosztowność naczyń liturgicznych (Bernard kontra Suger z Saint-Denis) po współczesne pytania o sztukę sakralną wobec biedy; obie strony cytują tę perykopę, a ona sama trzyma równowagę: nard TAK, trzos NIE. Judasz przy trzosie stał się w tradycji ascetycznej figurą korupcji dobra — małych sprzeniewierzeń poprzedzających wielką zdradę; Augustynowe loculos habens (mając trzos) czytano każdemu ekonomowi klasztoru. A uchwała przeciw Łazarzowi weszła do teologii męczeństwa: świadka można zabić, świadectwa nie — bo za świadkiem stoi Ten, który wskrzesza."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "children": [],
+     "body": "Katena betańska pachnie tak samo jak scena: Ojcowie piszą o woni. Grzegorz czyni z olejku obraz cnót i dobrej sławy Kościoła; Cyryl — wyznania Bóstwa; Augustyn prowadzi wielki proces Judasza i głupoty rady; Chryzostom broni Marii przed każdym rachunkiem; Beda zbiera dla średniowiecza z akcentem na stopach Pana jako miejscu ucznia."
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "children": [],
+     "body": "Intencją perykopy jest nauczyć Kościół właściwej miary miłości — czyli nadmiaru — zanim zacznie się tydzień, w którym Bóg pokaże własny nadmiar. Wszystko w scenie jest lekcją proporcji odwróconych: rok pracy rozbity o stopy w kwadrans; włosy — chwała kobiety — użyte za ręcznik; dom napełniony wonią, której nie da się już zamknąć we flakonie. Naprzeciw staje jedyna w Ewangelii wycena miłości: trzysta denarów — i Jan chce, byśmy na zawsze zapamiętali, kto w tej scenie liczył. Odpowiedź Jezusa przenosi gest w wymiar, który przerasta i Marię, i Judasza: to pogrzeb; Mesjasz przyjmuje swoje jedyne namaszczenie — pogrzebowe — z rąk kobiety, która chciała tylko podziękować. Tak Ewangelia uczy podwójnej prawdy o darze: że jego wartość mierzy się nie użytecznością, lecz miłością; i że dar z miłości zawsze znaczy więcej, niż wie dawca — Bóg dopisuje hojnym znaczenia. A w tle scena ostrzega: krytyka rozrzutności wobec Boga bywa maską trzosu, ubodzy bywają argumentem złodziei, a system zagrożony świadectwem sięga po śmierć świadka. Wielki Tydzień zaczyna się w Betanii, bo tu jest wszystko, co za sześć dni wybuchnie na Golgocie: miłość bez rachunku, zdrada z rachunkiem i woń, która wypełni świat."
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "children": [],
+     "body": "Tekst grecki wszystkich 11 wersetów złożono programowo ze źródła prawdy (db.sqlite, words, księga 500), ze zdjęciem znaków aparatu, i zweryfikowano co do znaku. Trzy noty tekstualne (w. 1, 7, 8) oparto na aparacie NA28 z tabeli commentaries; składniową trudność lekcji przyjętej w. 7 (ἵνα … τηρήσῃ) omówiono w analizie i nocie. Przekład roboczy własny, dosłowny; w w. 7 dodano w nawiasie kwadratowym zwornik składniowy. Podział na trzy bloki za budową sceny (dar — sprzeciw — cień). Kwestię czterech namaszczeń tradycji omówiono w sekcji II z rozstrzygnięciem lektury: scena Janowa czytana we własnych ramach, bez zachodniej konflacji trzech kobiet. Katena sześciu głosów (Augustyn dwukrotnie — Tract. 50 jest dla tej sceny tekstem kanonicznym). Perykopa obejmuje w. 1-11; wjazd do Jerozolimy (12,12-19) stanowi następną jednostkę."
+    }
+   ],
+   "refs": [
+    [
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Pnp",
+     1,
+     12,
+     null,
+     null,
+     "Pnp 1,12",
+     "typologia",
+     "Gdy król przy stole, nard wydaje woń — scena betańska jako żywy midrasz Pieśni."
+    ],
+    [
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Pwt",
+     15,
+     11,
+     null,
+     null,
+     "Pwt 15,11",
+     "cytat",
+     "Nie zabraknie ubogich, dlatego otwieraj rękę — źródło w. 8: trwałość ubóstwa jako nakaz hojności."
+    ],
+    [
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Mk",
+     14,
+     3,
+     14,
+     9,
+     "Mk 14,3-9",
+     "paralela",
+     "Namaszczenie w Betanii u Marka: alabaster, głowa, trzysta denarów, sens pogrzebowy i pamiątka na całą Ewangelię."
+    ],
+    [
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Mt",
+     26,
+     6,
+     26,
+     13,
+     "Mt 26,6-13",
+     "paralela",
+     "Mateuszowa wersja sceny betańskiej — wspólne jądro tradycji."
+    ],
+    [
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Łk",
+     7,
+     36,
+     7,
+     50,
+     "Łk 7,36-50",
+     "kontrast",
+     "Grzesznica u stóp w Galilei — scena o przebaczeniu, odrębna, lecz motywicznie spleciona z betańską."
+    ],
+    [
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Łk",
+     10,
+     38,
+     10,
+     42,
+     "Łk 10,38-42",
+     "paralela",
+     "Marta usługuje, Maria u stóp — dyptyk sióstr potwierdzony niezależnie."
+    ],
+    [
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Ps",
+     41,
+     10,
+     null,
+     null,
+     "Ps 41,10",
+     "typologia",
+     "Jedzący mój chleb podniósł piętę — psalm zdrady przy stole, cytowany wprost w 13,18."
+    ],
+    [
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Wj",
+     30,
+     22,
+     30,
+     33,
+     "Wj 30,22-33",
+     "tlo",
+     "Święty olejek namaszczenia — tło mesjańskiego słownika unkcji."
+    ],
+    [
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "1 Sm",
+     16,
+     13,
+     null,
+     null,
+     "1 Sm 16,13",
+     "tlo",
+     "Namaszczenie Dawida — róg oliwy, od którego Mesjasz ma imię; w Betanii unkcja Namaszczonego jest pogrzebowa."
+    ],
+    [
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "J",
+     19,
+     38,
+     19,
+     42,
+     "J 19,38-42",
+     "rozwiniecie",
+     "Sto funtów wonności Nikodema — pogrzeb dopełnia proroctwo namaszczenia; klamra zapachu tygodnia paschalnego."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–3",
+      0
+     ],
+     "J",
+     2,
+     1,
+     2,
+     11,
+     "J 2,1-11",
+     "paralela",
+     "Tydzień inauguracji z Kaną na końcu — lustrzany wobec tygodnia paschalnego otwartego w Betanii."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–3",
+      2
+     ],
+     "J",
+     13,
+     4,
+     13,
+     5,
+     "J 13,4-5",
+     "rozwiniecie",
+     "Jezus u stóp uczniów — namaszczone stopy pochylą się nad stopami; Betania odbita w Wieczerniku."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–3",
+      2
+     ],
+     "1 Kor",
+     11,
+     15,
+     null,
+     null,
+     "1 Kor 11,15",
+     "tlo",
+     "Włosy chwałą kobiety — Maria używa własnej chwały za ręcznik."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–8",
+      0
+     ],
+     "J",
+     13,
+     29,
+     null,
+     null,
+     "J 13,29",
+     "paralela",
+     "Trzos Judasza w Wieczerniku — uczniowie wciąż sądzą, że chodzi o ubogich; maska działa do końca."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–8",
+      0
+     ],
+     "J",
+     13,
+     2,
+     null,
+     null,
+     "J 13,2",
+     "rozwiniecie",
+     "Diabeł już podał w serce Judasza — droga od trzosu do zdrady; korupcja dobra w kolejnych stacjach."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–8",
+      1
+     ],
+     "Mk",
+     14,
+     8,
+     null,
+     null,
+     "Mk 14,8",
+     "paralela",
+     "Uprzedziła namaścić ciało moje na pogrzeb — Markowa wykładnia identyczna z Janową."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–8",
+      2
+     ],
+     "Mk",
+     2,
+     19,
+     2,
+     20,
+     "Mk 2,19-20",
+     "paralela",
+     "Goście weselni nie poszczą, póki Oblubieniec z nimi — ta sama dwuczasowość: czas święty Obecnego i czas zwyczajny."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–8",
+      2
+     ],
+     "Mt",
+     25,
+     40,
+     null,
+     null,
+     "Mt 25,40",
+     "rozwiniecie",
+     "Coście uczynili jednemu z najmniejszych — po odejściu Oblubieńca ubodzy są miejscem spotkania; obie miłości jedną."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–11",
+      1
+     ],
+     "J",
+     11,
+     53,
+     null,
+     null,
+     "J 11,53",
+     "paralela",
+     "Uchwała śmierci rozszerzona o świadka — logika systemu: zabić znak, skoro znak przekonuje."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "2 Kor",
+     2,
+     14,
+     2,
+     16,
+     "2 Kor 2,14-16",
+     "rozwiniecie",
+     "Jesteśmy wonnością Chrystusa — Pawłowa teologia zapachu: woń z Betanii rozchodzi się na Kościół."
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. XII, lect. 1",
+     [
+      "section",
+      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład namaszczenia: dar godziwy, unkcja Chrystusa, ubodzy a Obecny, portret Judasza.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Problem synoptyczny czterech namaszczeń; analiza pistikes i składni w. 7.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "C. K. Barrett",
+     "The Gospel According to St John, ad loc.",
+     [
+      "section",
+      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Filologia: nardos pistike, glossokomon, entafiasmos; realia uczty.",
+     "The Gospel According to St John"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana II, ad loc.",
+     [
+      "section",
+      "IV. Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Betania jako brama tygodnia paschalnego; kompozycja i chronologia Janowa.",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ],
+    [
+     "R. Schnackenburg",
+     "Das Johannesevangelium II, ad loc.",
+     [
+      "section",
+      "VI. Sieć odniesień biblijnych"
+     ],
+     "Tradycje namaszczenia i ich wzajemne relacje; teologia daru.",
+     "Das Johannesevangelium"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 1–3",
+     "św. Grzegorz Wielki",
+     "Homiliae in Evangelia",
+     "Hom. in Ev. II, 33 (motyw wonności)",
+     "Grzegorz — ten sam, którego kazanie złączyło na Zachodzie trzy kobiety w jedną — zostawił obraz, który przeżył spór o tożsamości: olejek rozlany to cnota rozgłoszona; dom napełniony wonią to Kościół napełniony dobrą sławą świętych czynów. Kto czyni dobro w ukryciu, ma olejek w alabastrze; kto dla Boga rozbije naczynie — nie dla oka ludzkiego, lecz z miłości — tego woń rozejdzie się po całym domu, choćby milczał jak Maria. I dodaje przestrogę godną trzosu: są tacy, co woń cudzych cnót wyceniają, zamiast się nią cieszyć — ci mają nozdrza Judasza."
+    ],
+    [
+     "w. 1–3",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. VIII, ad 12,3",
+     "Cyryl czyta gest Marii jako wyznanie bez słów: namaściła stopy — więc uznała Pana; otarła włosami — więc oddała Mu chwałę własnej głowy; a woń napełniająca dom jest obrazem poznania Chrystusa napełniającego cały świat (por. Ps 45,8: mirra i aloes na szatach Króla). W stopach dostrzega pokorę wyznania: nie śmiała sięgnąć głowy — uczciła to, co najniższe, wyznając, że i proch Jego stóp jest jej świętością. Tak dusza rozumna — pisze — wylewa na Chrystusa mirrę doskonałej wdzięczności: całą, nie odmierzoną, bo częściowej miłości Bóg nie zna."
+    ],
+    [
+     "w. 4–8",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 50,10-13",
+     "Augustyn prowadzi proces Judasza z precyzją prokuratora i miłosierdziem duszpasterza. Loculos habens — mając trzos: oto początek; nie od trzydziestu srebrników zaczęła się zdrada, lecz od drobnych kradzieży z kasy ubogich. Judasz zginął nie wtedy, gdy sprzedał Pana, lecz gdy nauczył się okradać Go po cichu i chodzić dalej między uczniami. Niech drży każdy, kto w Kościele nosi cokolwiek wspólnego — trzos, urząd, zaufanie: furtum praeparat traditionem, kradzież przygotowuje wydanie. A o słowach Pana: ubogich zawsze macie — Augustyn dopowiada tajemnicę obecności: co do postaci sługi, nie zawsze Go mamy; co do majestatu — jest z nami po wszystkie dni; śpieszcie się więc kochać Obecnego w ciele ubogich, skoro w swoim własnym już do nieba wstąpił."
+    ],
+    [
+     "w. 4–8",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 65",
+     "Chryzostom broni Marii przed każdą księgowością: nie badaj daru miłości rachunkiem, bo miłość ma własną logikę — gdyby liczyła, nie byłaby miłością. Pan przyjął olejek nie dlatego, że potrzebował wonności, lecz że patrzył na serce; tak przyjmował wdowie grosze i przyjmie kubek zimnej wody. A słowo o ubogich nie jest przyzwoleniem na obojętność — Złotousty, kaznodzieja jałmużny, nie zna takiej lektury — lecz nauką o wyjątkowości godziny: był to tydzień pogrzebu; są chwile, gdy trzeba przerwać nawet dobre dzieła, by być przy Umierającym. Kto dziś chce namaszczać stopy Pana, niech szuka Jego stóp w ubogich — ale niech wpierw nauczy się od Marii nie liczyć."
+    ],
+    [
+     "w. 9–11",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 50,14",
+     "Nad uchwałą przeciw Łazarzowi Augustyn nie kryje zdumienia: o stulta cogitatio et saeva caecitas — o głupia myśli, okrutna ślepoto! Jakby Pan, który wskrzesił zmarłego, nie mógł wskrzesić zabitego; czyż zabijając Łazarza, odbierzecie moc Temu, który go wzbudził? Oto do czego dochodzi nienawiść: mnoży groby, by zaprzeczyć Zmartwychwstaniu — i każdym grobem daje Mu nową sposobność. Biskup Hippony czyta w tym los wszystkich świadków: świat może zabić wskrzeszonych, lecz nie może sprawić, by nie byli wskrzeszeni; a Kościół niech wie, że życie odzyskane z łaski zawsze będzie solą w oku śmierci — i niech się nie dziwi uchwałom."
+    ],
+    [
+     "w. 9–11",
+     "św. Beda Czcigodny",
+     "In S. Ioannis Evangelium expositio",
+     "In Io. Ev. exp., ad cap. XII",
+     "Beda domyka scenę po nauczycielsku: tłum przychodzi zobaczyć Łazarza — bo świadectwo życia jest pierwszą ewangelizacją; nie słowa wskrzeszonego (żadnych nie zapisano), lecz sam jego oddech przy stole prowadził do wiary. Tak każdy, kogo łaska podniosła z grzechów, staje się widowiskiem dla świata: jedni patrzą i wierzą, drudzy patrzą i ostrzą nóż. Niech więc podniesiony z martwych zasiada spokojnie przy stole Pana — w Kościele, przy Uczcie — i nie lęka się uchwał: jego życie jest własnością Tego, który je zwrócił, a Ten strzeże swoich darów zazdrośniej niż my własnych."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "Wielki Poniedziałek",
+     "J 12,1-11",
+     "Pierwsza Ewangelia Wielkiego Tygodnia po Niedzieli Palmowej: Kościół wchodzi w dni Męki przez dom w Betanii — woń nardu, cień trzosu i proroctwo pogrzebu nadają ton całemu tygodniowi."
+    ],
+    [
+     "bizantyjski",
+     "Niedziela Palmowa (Ewangelia jutrzni i liturgii)",
+     "J 12,1-18",
+     "Wschód czyta namaszczenie łącznie z wjazdem do Jerozolimy, zachowując Janową jedność sceny: Król namaszczony na pogrzeb wjeżdża do swego miasta."
+    ],
+    [
+     "rzymski",
+     "Wspomnienie świętych Marty, Marii i Łazarza (29 lipca)",
+     "J 12,1-8 (opcja lekcyjna)",
+     "Rodzeństwo z Betanii we wspólnym wspomnieniu; scena namaszczenia jako Ewangelia własna domu, w którym Pan miał przyjaciół."
+    ],
+    [
+     "rzymski",
+     "Wielki Czwartek — Msza krzyżma (motyw)",
+     "myron — słownik 12,3",
+     "Greckie myron z Betanii jest do dziś wschodnią nazwą krzyżma; modlitwy poświęcenia olejów myślą kategorią wonności Chrystusa rozlanej na Kościół (por. 2 Kor 2,15)."
+    ]
+   ],
+   "textual": [
+    [
+     1,
+     "Λάζαρος + (ὁ τεθνηκώς) — dopowiedzenie „zmarły\"",
+     "wariant lekcji",
+     "NA28: ὅπου ἦν Λάζαρος, ὃν ἤγειρεν ἐκ νεκρῶν Ἰησοῦς — krótko (ℵ B L W). Szeroka tradycja dodaje po imieniu: ὁ τεθνηκώς — „ten, który był umarł\" (P66 A D Θ Ψ f1.13 M lat sy). Osobliwość: P66* czyta „pięć dni\" zamiast sześciu.",
+     "Dopowiedzenie jest typową glosą wzmacniającą (czytelnik ma pamiętać, że chodzi o TEGO zmarłego); krótsza lekcja najlepszych aleksandryjczyków wystarcza, bo względne zdanie i tak przypomina wskrzeszenie. Wariant „pięciu dni\" w pierwotnym P66 to najpewniej zwykłe potknięcie kopisty — cenne jako świadectwo, że nawet najstarsi świadkowie miewali złe dni."
+    ],
+    [
+     7,
+     "ἵνα … τηρήσῃ / τετήρηκεν",
+     "wariant lekcji",
+     "NA28: ἄφες αὐτήν, ἵνα εἰς τὴν ἡμέραν τοῦ ἐνταφιασμοῦ μου τηρήσῃ αὐτό — „zostaw ją, aby na dzień mego pogrzebu to zachowała\" (P66 P75vid ℵ B D K L Q W Θ Ψ). Tekst bizantyjski upraszcza: τετήρηκεν — „zachowała [dotąd]\" (A f1.13 M sy).",
+     "Crux składniowy: lekcja przyjęta jest trudna (jak „zachować\" olejek już wylany?), i właśnie ta trudność ją uwierzytelnia — bizantyjskie perfectum jest oczywistym wygładzeniem. Sens lekcji trudnej: albo eliptycznie „[uczyniła to,] aby zachować gest na dzień pogrzebu\" (pogrzeb zaczyna się już teraz), albo „niech zachowa [resztę] na dzień pogrzebu\". Teologicznie oba czytania zbiegają się w jednym: namaszczenie należy do pogrzebu Jezusa — Jan antycypuje pochówek, jak antycypuje godzinę."
+    ],
+    [
+     8,
+     "opuszczenie całego wersetu",
+     "opuszczenie",
+     "Werset 8 (ubogich zawsze macie…) opuszczają w całości kodeks D i syryjska sinaicka; P75 i nieliczni opuszczają drugą połowę. Cała pozostała tradycja ma tekst pełny.",
+     "Opuszczenie zachodnio-syryjskie bywa tłumaczone przeskokiem oka lub — ciekawiej — harmonizacją negatywną: kopista mógł uznać zdanie za wtręt z Mk 14,7/Mt 26,11. Tekst jest jednak mocno osadzony (wszystkie główne kodeksy) i teologicznie niezbędny: bez w. 8 odpowiedź Jezusa traci drugie skrzydło — hierarchię godzin. Nota odnotowuje wariant jako przykład, że i całe wersety miewały w tradycji przygody."
+    ]
+   ],
+   "theme_links": [
+    [
+     "rozrzutność miłości — dar bez rachunku",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "godzina Jezusa (ἡ ὥρα)",
+     [
+      "block",
+      "w. 1–3"
+     ]
+    ],
+    [
+     "ὑπέρ — śmierć zastępcza «za»",
+     [
+      "block",
+      "w. 4–8"
+     ]
+    ],
+    [
+     "znaki (σημεῖα) i wiara",
+     [
+      "block",
+      "w. 9–11"
+     ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 9–11"
+     ]
+    ],
+    [
+     "zmartwychwstanie — już i jeszcze nie",
+     [
+      "block",
+      "w. 9–11"
+     ]
+    ],
+    [
+     "Oblubieniec i oblubienica",
+     [
+      "block",
+      "w. 1–3"
+     ]
+    ]
+   ],
+   "revision_note": "Perykopa 28 dodana w cyklu iteracyjnym: pełna egzegeza J 12,1-11 z greką złożoną ze źródła prawdy (db.sqlite) i notami tekstualnymi z aparatu NA28 (w. 1, 7, 8)."
+  }
+ ]
+}

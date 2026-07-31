@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–11,57** w dwudziestu siedmiu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz dwadzieścia sześć perykop J 1,15–11,57; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–12,11** w dwudziestu ośmiu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz dwadzieścia siedem perykop J 1,15–12,11; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -34,6 +34,7 @@ data/                     ← źródła (pod kontrolą wersji)
   poswiecenie.json       J 10,22-42 (Święto Poświęcenia)
   lazarz.json            J 11,1-44 (Wskrzeszenie Łazarza)
   kajfasz.json           J 11,45-57 (Narada Sanhedrynu i proroctwo Kajfasza)
+  namaszczenie.json      J 12,1-11 (Namaszczenie w Betanii)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -75,7 +76,7 @@ Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera, w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
-dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz`.
+dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie`.
 
 ## Warstwy schematu
 
@@ -197,6 +198,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 10,22–42 | Święto Poświęcenia — Ja i Ojciec jedno jesteśmy | ukończona |
 | J 11,1–44 | Wskrzeszenie Łazarza | ukończona |
 | J 11,45–57 | Narada Sanhedrynu i proroctwo Kajfasza | ukończona |
+| J 12,1–11 | Namaszczenie w Betanii | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
