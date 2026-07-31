@@ -418,7 +418,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Cztery tła: Sanhedryn i jego kompetencje pod okupacją; Kajfasz i arcykapłaństwo epoki rzymskiej; strach przed Rzymem w realiach I wieku; Efraim i czystość paschalna.",
      "children": [
       [
@@ -441,7 +441,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Cztery węzły: Opatrzność pisząca prosto na krzywych liniach; proroctwo jako charyzmat urzędu; substytucja — jeden za wielu; roztropność ustąpienia a godzina świadectwa.",
      "children": [
       [
@@ -464,19 +464,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "children": [],
      "body": "Autor wykonuje w tej perykopie trzy operacje naraz. Po pierwsze, domyka teologię znaków ich największym paradoksem: wyrok śmierci zapada nie mimo znaków, lecz Z POWODU znaków — rada przyznaje fakty i właśnie dlatego uchwala mord; Jan odbiera w ten sposób niewierze ostatnie alibi rozumowe i pokazuje ją jako decyzję woli. Po drugie, wprowadza klucz hermeneutyczny Męki, zanim Męka się zacznie: przez proroctwo Kajfasza czytelnik otrzymuje z góry wykładnię krzyża (za naród; by zgromadzić w jedno), więc żadna scena Pasji nie będzie mogła być odczytana jako klęska — autor zadbał, by sens wyprzedził wydarzenie, dokładnie jak w 10,17-18. Po trzecie, prowadzi swoją wspólnotę: „rozproszone dzieci Boże zgromadzić w jedno\" to zdanie-program dla Kościoła z Żydów i pogan po roku 70 — wspólnota Janowa, żyjąca w diasporze po katastrofie, słyszy, że rozproszenie nie jest ostatnim słowem, bo śmierć Pasterza jest siłą dośrodkową historii. Warsztatowo perykopa jest majstersztykiem ironii wielopiętrowej: donos zgodny z faktami, rada ratująca to, co właśnie gubi, prorok-zbrodniarz, oczyszczenia przed ofiarą, która oczyszcza — autor używa ironii nie dla błyskotliwości, lecz jako narzędzia teologii: pokazuje świat, w którym każdy robi swoje, a Bóg swoje przez wszystkich."
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "children": [],
      "body": "Duch Święty odsłania w tej perykopie mechanikę odkupienia od strony, której teologia podręcznikowa dotyka rzadko: od strony sprawców. Pierwsza prawda: Opatrzność nie potrzebuje dobrych intencji, by prowadzić historię zbawienia — uchwała mordu staje się dekretem ofiary, a najcyniczniejsze zdanie epoki nosi w sobie Ewangelię; nic, co ludzie uczynią ze strachu, wyrachowania czy nienawiści, nie wypada poza zasięg Bożego porządkowania. To nie zwalnia z odpowiedzialności — Kajfasz pozostaje Kajfaszem — ale odbiera złu ostatnie słowo z zasady, nie z happy endu. Druga prawda: śmierć Jezusa jest ZA — ὑπέρ jest przyimkiem, na którym wisi zbawienie; Duch każe Kościołowi czytać krzyż nie jako wypadek dziejowy ani sądowy mord tylko, lecz jako zastępstwo: jeden za lud, za naród, za rozproszone dzieci, za mnie (Ga 2,20). Trzecia prawda: owocem śmierci jest ZGROMADZENIE — jedność Kościoła nie jest projektem organizacyjnym, lecz skutkiem krzyża; gdzie krzyż przestaje być centrum, tam wspólnota wraca do rozproszenia, choćby struktury stały. I czwarta, pastoralna: Bóg mówi czasem przez urzędy sprawowane niegodnie — Duch uczy rozróżniać dar od naczynia, aby wiara nie wisiała na cnocie ludzi Kościoła; ale uczy też drżeć: można być ustami proroctwa i architektem zbrodni w tym samym zdaniu. Kto sprawuje jakikolwiek urząd w ludzie Bożym, niech czyta Kajfasza na klęczkach."
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -523,7 +523,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -538,7 +538,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "children": [],
      "body": "Katena tej perykopy krąży wokół dwóch zdumień: że Bóg prorokuje ustami zbrodniarza i że rada gubi to, co ratuje. Orygenes analizuje mechanikę proroctwa mimowolnego; Chryzostom — psychologię strachu rady; Augustyn formułuje klasyczną naukę o charyzmacie bez miłości i o Opatrzności; Cyryl rozwija teologię zgromadzenia w jedno; Beda dopowiada regułę roztropnego ustąpienia; a list Augustyna o ucieczce pasterzy czyni z Efraim kazus moralny."
     },
@@ -559,7 +559,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Kpł",
      16,
@@ -573,7 +573,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Iz",
      53,
@@ -587,7 +587,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Lb",
      22,
@@ -601,7 +601,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "1 Sm",
      10,
@@ -615,7 +615,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "2 Sm",
      20,
@@ -629,7 +629,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Jon",
      1,
@@ -643,7 +643,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Iz",
      11,
@@ -657,7 +657,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Ez",
      37,
@@ -671,7 +671,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "J",
      10,
@@ -685,7 +685,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "J",
      12,
@@ -699,7 +699,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "1 J",
      2,
@@ -713,7 +713,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Dz",
      2,
@@ -851,7 +851,7 @@
      "Super Io., cap. XI, lect. 7-8",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład narady i proroctwa: Opatrzność a wolność sprawców, charyzmat bez świętości, substytucja.",
      "Super Evangelium S. Ioannis lectura"
@@ -861,7 +861,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Historyczność narady, Kajfasz i ród Annasza, formuła „owego roku\", lokalizacja Efraim.",
      "The Gospel According to John (Anchor Bible)"
@@ -871,7 +871,7 @@
      "The Gospel According to St John, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Filologia: symferei, ethnos/laos, menyo; warianty tekstu.",
      "The Gospel According to St John"
@@ -881,7 +881,7 @@
      "Ewangelia według św. Jana I, ad loc.",
      [
       "section",
-      "IV. Autor ludzki: kim jest i co chce przekazać"
+      "Autor ludzki: kim jest i co chce przekazać"
      ],
      "Ironia Janowa w naradzie i funkcja perykopy jako zwornika znaków i Męki.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
@@ -891,7 +891,7 @@
      "Das Johannesevangelium II, ad loc.",
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Teologia zgromadzenia rozproszonych i horyzont uniwersalny w. 52.",
      "Das Johannesevangelium"

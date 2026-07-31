@@ -390,7 +390,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Archeologia Betesdy, halacha szabatowa, żydowska nauka o działaniu Boga w szabat i biblijna dyskusja o chorobie i grzechu — cztery klucze sceny, która z kroniki uzdrowienia przechodzi w akt oskarżenia.",
      "children": [
       [
@@ -413,7 +413,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Wola i łaska, teologia szabatu, uzdrowienie i grzech oraz równość Syna — cztery węzły sceny w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem (cap. V, lect. 1–3).",
      "children": [
       [
@@ -436,19 +436,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Ewangelista otwiera rozdziałem piątym nowy gatunek swojej księgi: proces. Dotąd znaki budziły wiarę (uczniowie, Samarytanie, dom dworzanina) — odtąd każdy znak będzie miał rozprawę: uzdrowienie → śledztwo → mowa obrończa (5), chleb → spór (6), światło → przesłuchania (9), Łazarz → wyrok (11). Kompozycja sceny zdradza rękę prawnika-narratora: informacja o szabacie wstrzymana do w. 9b (czytelnik ma osądzić czyn, zanim pozna paragraf), imperfecta prześladowania (proces jako stan, nie epizod), dwustopniowa eskalacja zarzutów (szabat → bluźnierstwo) z w. 18 jako streszczeniem aktu oskarżenia całej Ewangelii. Precyzja topograficzna (pięć portyków — potwierdzona łopatą archeologa) i medyczna (38 lat, strategia kolejki do wody) współistnieje z architekturą teologiczną: postać uzdrowionego jest celowo pozbawiona blasku — bez imienia, bez wyznania, bez pójścia za — bo ma służyć jako ciemniejsze skrzydło dyptyku, którego jaśniejszym będzie ślepiec z rozdziału 9; dwaj uzdrowieni w szabat, dwa śledztwa, dwie drogi: od daru do obojętności i od daru do wyznania „wierzę, Panie\". Ewangelista nie potępia swojego szarego bohatera ani go nie ratuje — zostawia go czytelnikowi jako lustro: łaska bywa przyjęta w ciele i nieprzyjęta w duszy, i można odejść zdrowym, nie poznawszy, Kto uzdrowił. Wreszcie rys polemiczny epoki: dla wspólnoty oskarżanej w synagodze o kult „drugiego Boga\" w. 17–18 dokumentują, że spór o równość Syna zaczął się nie od teologów Kościoła, lecz od słów samego Jezusa — i że już pierwsi słuchacze rozumieli je dokładnie tak, jak rozumie je wiara.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Duch Święty kieruje przez tę perykopę słowo do trzech adresatów. Do chorych — czyli do wszystkich: pytanie „czy chcesz stać się zdrowy?\" jest zadane każdemu, kto z jakąkolwiek niemocą zdążył się urządzić; a skarga „nie mam człowieka\" otrzymała odpowiedź ostateczną we Wcieleniu — od Betesdy nikt nie jest bez Człowieka, i żadna kolejka do łaski nie obowiązuje: słowo dosięga leżących poza wszelką konkurencją pierwszeństwa. Do wspólnoty — o szabacie serca: dzień Pański nie jest dniem sparaliżowanego dobra; gdzie miłosierdzie czeka, tam „Ojciec działa aż dotąd\" — i biada religijności, która pilnując łoża, przeoczy chodzącego; ale też: odpoczynek święty jest obietnicą, nie tylko przepisem — uzdrowienie w szabat zapowiada wejście do odpoczynku, którego tamten szabat był cieniem (por. Hbr 4,9–10). Do czytelnika przy Piśmie — o stawce księgi: od w. 18 nie można już czytać Ewangelii jako historii nauczyciela miłosierdzia, któremu przydarzył się konflikt; stawką jest tożsamość Syna, równego Ojcu i posłusznego Ojcu, a każdy rozdział będzie odtąd rozprawą, w której czytelnik zasiada nie na widowni, lecz na ławie przysięgłych. Duch, który natchnął tę scenę, przewodniczy temu procesowi w sercu: świadectwo zostało złożone — werdykt wiary należy do słuchającego.",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -483,7 +483,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -498,7 +498,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do Betesdy — sześć głosów: pięć portyków Prawa i liczba 38 (Augustyn), cierpliwość chorego i delikatność pytania (Chryzostom), szabat wobec Prawodawcy (Cyryl), obrona uzdrowionego i słowo o grzechu (Chryzostom), równość wypowiedziana i usłyszana (Cyryl).",
      "children": []
     },
@@ -681,7 +681,7 @@
      "Super Io., cap. V, lect. 1–3",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład uzdrowienia i sporu: wola jako brama łaski, conservatio jako trwające stwarzanie, równość Syna.",
      "Super Evangelium S. Ioannis lectura"
@@ -691,7 +691,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Archeologia Betesdy, formy nazwy i status glosy w. 3b–4; struktura procesu w rozdziałach 5–10.",
      "The Gospel According to John (Anchor Bible)"
@@ -701,7 +701,7 @@
      "The Gospel According to St John, ad loc.",
      [
       "section",
-      "I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
+      "Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
      ],
      "Filologia w. 2 (warianty nazwy), hapax ἐξένευσεν i teologumen działania Boga w szabat (w. 17).",
      "The Gospel According to St John"
@@ -711,7 +711,7 @@
      "Ewangelia według św. Jana I, ad loc.",
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Polskie omówienie halachy szabatowej, typologii 38 lat i dyptyku z rozdziałem 9.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"

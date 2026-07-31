@@ -1322,7 +1322,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": null,
      "children": [
       [
@@ -1345,7 +1345,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Św. Tomasz z Akwinu zostawił obszerny wykład czwartej Ewangelii — *Super Evangelium S. Ioannis lectura* (Wykład Ewangelii św. Jana), owoc wykładów paryskich; sam Prolog komentuje także w *Summa Theologiae* (Suma teologii) i *Summa contra Gentiles* (Suma przeciw poganom). Poniższe obserwacje idą jego tropem.",
      "children": [
       [
@@ -1380,13 +1380,13 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Tradycja kościelna od Ireneusza (ok. 180 r., uczeń Polikarpa, ucznia Jana) wskazuje Jana, ucznia Pańskiego, piszącego w Efezie; sam tekst mówi o „uczniu, którego Jezus miłował\" jako świadku i autorze (J 21,24: ten właśnie uczeń daje świadectwo o tych sprawach i on je opisał, a wiemy, że świadectwo jego jest prawdziwe — zauważmy „wiemy\": wspólnota potwierdza świadka). Niezależnie od dyskusji o etapach redakcji, tekst sam deklaruje swoją intencję z rzadką u starożytnych autorów jasnością — J 20,31: to zaś napisano, abyście wierzyli (πιστεύητε), że Jezus jest Mesjaszem, Synem Bożym, i abyście wierząc, mieli życie w imię Jego. Ewangelia nie jest biografią ani kroniką — jest świadectwem procesowym pisanym po to, by czytelnik wydał werdykt wiary i przez ten werdykt otrzymał życie. Prolog jest do tego procesu mową otwierającą: ujawnia od pierwszego zdania to, czego bohaterowie narracji będą się domyślać przez dwadzieścia rozdziałów. Czytelnik wie, kim jest Jezus, zanim Jezus wypowie pierwsze słowo — i dzięki temu każdą scenę Ewangelii czyta podwójnie: widzi człowieka zmęczonego przy studni i wie, że to Ten, przez którego wszystko się stało.\n\nIntencje autora ludzkiego, które da się z tekstu wyczytać: (1) osadzić Jezusa nie w genealogii Dawidowej (jak Mateusz) ani w historii Cesarstwa (jak Łukasz), lecz w wieczności — odpowiedzieć na pytanie „skąd jest\" Jezus (pytanie, które w Ewangelii wraca obsesyjnie: J 7,27n; 8,14; 19,9 — Piłat: skąd Ty jesteś?); (2) dać wspólnocie wyrzuconej z synagogi nową tożsamość: to my, nie budynek i nie rodowód, jesteśmy miejscem Szechiny (obecności), bo nosimy w sobie narodzenie z Boga; (3) zabezpieczyć wiarę przed dwiema przepaściami — przed uznaniem Jezusa za samego tylko człowieka (stąd w. 1) i za pozornego człowieka (stąd w. 14); (4) powiedzieć poganom: Logos (Rozum), którego szukacie, ma imię i twarz. Jest wreszcie w Prologu rys osobisty, niemal liryczny: ἐθεασάμεθα (oglądaliśmy) — starzec piszący te słowa twierdzi, że patrzył na to własnymi oczami. Cały Prolog jest wspomnieniem przetopionym w hymn: tak pisze ktoś, kto przez kilkadziesiąt lat rozważał to, co widział, aż zobaczył w tym, co widział, To, czego nie widać.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Katolicka nauka o natchnieniu (zob. konstytucja *Dei Verbum* — O Objawieniu Bożym, nr 11–13) uczy, że Bóg jest prawdziwym Autorem Pisma, działającym *w* ludzkim autorze i *przez* niego, nie obok niego — tak, że wszystko, co twierdzi autor ludzki, twierdzi Duch Święty, a sens Boży może przewyższać to, co pisarz w pełni ogarniał (*sensus plenior* — sens pełniejszy). Co zatem mówi sam Duch przez tę perykopę?",
      "children": [
       [
@@ -1409,7 +1409,7 @@
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": null,
      "children": [
       [
@@ -1452,7 +1452,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": null,
      "children": [
       [
@@ -1480,7 +1480,7 @@
    ],
    "section_viii": {
     "type": "patrystyka",
-    "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+    "title": "Komentarze Ojców Kościoła (catena patrum)",
     "body": "Katena (łac. *catena* — łańcuch) to klasyczna forma egzegezy kościelnej: pod tekstem biblijnym nawleka się, ogniwo po ogniwie, głosy Ojców, tak by nad jednym wersetem spotkały się stulecia. Wzorem gatunku pozostaje *Catena aurea* (Złoty łańcuch) św. Tomasza z Akwinu — ciągły komentarz do czterech Ewangelii utkany wyłącznie z cytatów patrystycznych; dla Prologu Tomasz splata tam przede wszystkim Chryzostoma, Augustyna, Orygenesa, Hilarego, Bedę i Teofilakta. Poniższa katena idzie za blokami części I: przy każdym zakresie wersetów zebrano najważniejsze głosy — od Ireneusza po Cyryla — z miejscem (*locus* — miejsce w dziele) i parafrazą, tak by można było wrócić do źródeł. Zasada lektury Ojców jest wspólna: Prolog czytali oni zarazem doksologicznie (jako hymn Kościoła) i polemicznie (jako mur przeciw kolejnym redukcjom wiary) — i właśnie na ich egzegezie tego tekstu wyrosły formuły Nicei, Efezu i Chalcedonu, omówione w części VII.",
     "children": []
    },
@@ -1943,7 +1943,7 @@
      null,
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Super Ioannem, ST i ScG — podstawa całej sekcji III",
      "Super Evangelium S. Ioannis lectura"
@@ -1953,7 +1953,7 @@
      null,
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      null,
      "Summa Theologiae"
@@ -1963,7 +1963,7 @@
      null,
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      null,
      "Summa contra Gentiles"
@@ -1973,7 +1973,7 @@
      "nr 11–13",
      [
       "section",
-      "V. Autor Boży: co Duch Święty chce przekazać"
+      "Autor Boży: co Duch Święty chce przekazać"
      ],
      "Nauka o natchnieniu; sensus plenior",
      "Dei Verbum"

@@ -473,7 +473,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Przypowieść o synu w warsztacie, żydowska nauka o kluczach zastrzeżonych Bogu, prawo dowodowe procesu i etos badania Pism — cztery konteksty, bez których mowa traci swoje zaczepienie w realnym sporze.",
      "children": [
       [
@@ -496,7 +496,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Pochodzenie i równość, życie w sobie, sąd Syna Człowieczego i pycha jako przeszkoda wiary — cztery węzły mowy w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem (cap. V, lect. 4–7).",
      "children": [
       [
@@ -519,19 +519,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Ewangelista komponuje pierwszy wielki monolog swojej księgi — i od razu ustala jego reguły: mowa Janowa nie jest kazaniem synoptycznym z przypowieściami, lecz medytacją sądową, w której zdania wracają falami (nie może od siebie — w. 19 i 30; świadectwo — siedmiokrotnie; godzina — dwukrotnie w dwóch sensach), a rozmówcy milkną całkowicie: od w. 19 do 47 nikt nie przerywa, bo to już nie dialog, lecz wykład procesowy protokołowany dla czytelnika. Retoryka jest kunsztowna: teza z inkluzją, przewód z enumeracją świadków, kontratak z prozopopeją Mojżesza-oskarżyciela i pytaniem retorycznym w klauzuli — struktura, którą ówczesny słuchacz rozpoznałby jako mowę obrończą wedle sztuki, a słuchacz synagogi jako rib, prorocki spór sądowy Boga z ludem (Iz 1; Mi 6). Autor pisze przy tym podwójnym adresem: mowa broni Jezusa przed Sanhedrynem sceny — i broni chrystologii wspólnoty Janowej przed synagogą końca wieku (kult Syna „jak Ojca\", w. 23, to dokładnie punkt, o który toczył się spór po birkat ha-minim); wersety o badaniu Pism bez przyjścia i o Mojżeszu-oskarżycielu są zapisem tej właśnie polemiki, prowadzonej — co trzeba podkreślić — wewnątrz rodziny: obie strony kochały te same zwoje. Wreszcie rys kompozycyjny większej całości: mowa zapowiada wszystko, co następne rozdziały rozwiną narracyjnie — ożywianie (Łazarz), sąd (rozdziały 8–9), świadectwa (proces), „większe dzieła\" (od Betesdy do pustego grobu); rozdział 5 jest partyturą, której resztę księgi ewangelista rozpisze na sceny.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Duch Święty przekazuje przez tę mowę trzy nauki o randze fundamentu. Pierwsza — trynitarna: relacja Ojca i Syna nie jest ani konkurencją dwóch bogów, ani maską jednego — jest miłością pokazującą wszystko (w. 20) i synostwem przyjmującym wszystko (w. 19.26); kto chce wiedzieć, co znaczy „Bóg jest miłością\", niech patrzy tu: na odwieczne „pokazuje\" i odwieczne „czyni podobnie\". Druga — eschatologiczna: Duch każe Kościołowi trzymać obie godziny naraz; dlatego w każdej liturgii słowa spełnia się w. 25 — umarli słuchają głosu Syna Bożego i ożywają — a w każdym Credo Kościół wygląda godziny grobów; kto by rozdzielił te godziny, rozdarłby nadzieję na pół. Trzecia — hermeneutyczna, dla wszystkich ludzi Księgi: Pisma są świadkiem, nie celem; badanie bez przyjścia jest możliwe — i jest najsubtelniejszą postacią niewiary, bo wygląda jak pobożność. Duch zostawia też dwa zwierciadła rachunku sumienia: lampę (czy od świateł, które Bóg zapala na mojej drodze, przechodzę do Światła — czy tylko „raduję się do czasu\"?) i chwałę wzajemną (czyj aplauz rządzi moimi przekonaniami?). A w finale — przestrogę najpoważniejszą z możliwych: można mieć nadzieję złożoną w Mojżeszu, w Piśmie, w tradycji, w ortodoksji — i usłyszeć, że właśnie ten depozyt świadczy przeciw nam, jeśli nie doprowadził nas do Tego, o którym pisał. Nic, co od Boga, nie jest dane zamiast Chrystusa; wszystko — ku Niemu.",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -566,7 +566,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -581,7 +581,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do mowy — sześć głosów: «nie może» jako doskonałość zrodzenia (Augustyn, Hilary), dwa zmartwychwstania (Augustyn), życie w sobie (Cyryl), lampa i świadectwa (Chryzostom), chwała wzajemna i Mojżesz-oskarżyciel (Chryzostom).",
      "children": []
     },
@@ -790,7 +790,7 @@
      "Super Io., cap. V, lect. 4–7",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład mowy: pochodzenie a równość, vita in seipso, sąd Syna Człowieczego, przeszkody wiary.",
      "Super Evangelium S. Ioannis lectura"
@@ -800,7 +800,7 @@
      "De Trin. VII",
      [
       "section",
-      "VII. Znaczenie w historii i liturgii Kościoła"
+      "Znaczenie w historii i liturgii Kościoła"
      ],
      "Antyariański wykład 5,19.26: «nie od siebie» jako gramatyka zrodzenia, nie znak niższości.",
      "De Trinitate"
@@ -810,7 +810,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Analiza dwóch eschatologii rozdziału 5, przypowieści o synu-uczniu i struktury procesowej mowy.",
      "The Gospel According to John (Anchor Bible)"
@@ -820,7 +820,7 @@
      "Ewangelia według św. Jana I, ad loc.",
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Polskie omówienie przewodu świadectw i motywu Mojżesza-oskarżyciela na tle Pwt 18.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"

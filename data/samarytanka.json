@@ -534,7 +534,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Scena zakłada wielowiekową schizmę żydowsko-samarytańską, biblijny topos zaręczyn przy studni, teologię wody żywej i samarytańskie oczekiwanie Taheba — bez tych czterech kluczy dialog traci połowę napięć.",
      "children": [
       [
@@ -557,7 +557,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Pragnienie i łaska uprzedzająca, kult duchowy, posłuszeństwo jako pokarm i stopnie wiary — cztery węzły sceny w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem (cap. IV, lect. 1–5).",
      "children": [
       [
@@ -580,19 +580,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Ewangelista zestawił rozdziały 3 i 4 jak dyptyk kontrastów, który nie może być przypadkiem: Nikodem — mężczyzna, uczony, dostojnik, Żyd z centrum, przychodzi nocą, znika bez wyznania; Samarytanka — kobieta, bez imienia, z marginesu podwójnego (płeć i schizma), spotkana w pełnym słońcu, kończy jako apostołka miasta. Lekcja kompozycji jest przejrzysta: łaska nie idzie po linii kwalifikacji — i bywa, że peryferie wyprzedzają centrum (por. 10,41–42: za Jordanem uwierzyli; 4,44–45 zaraz doda gorzkie zdanie o ojczyźnie proroka). Widać też rękę mistrza dialogu: nieporozumienia (woda, mąż, pokarm) podnoszą rozmowę piętro po piętrze, tytuły rosną w ustach kobiety jak po szczeblach (Żyd → Panie → prorok → Mesjasz? → [Zbawiciel świata w ustach miasta]), a scena z uczniami jest wpleciona technicą naprzemienną, by czytelnik oglądał żniwo dokładnie w chwili, gdy o nim mowa. Szczegóły mają fakturę naoczności: zmęczenie, „usiadł tak\", godzina, zostawiony dzban, zdziwienie, o które nikt nie śmiał zapytać. Wreszcie adres kościelny: dla wspólnoty Janowej, pamiętającej misję samarytańską (Dz 8) i być może mającej Samarytan w swoich szeregach, scena była tekstem założycielskim — dowodem, że ich wiara nie jest łaską drugiej kategorii, bo sam Pan dwa dni mieszkał w Sycharze, a pierwsze JA JESTEM usłyszała ich rodaczka.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Duch Święty jest w tej perykopie obiecanym darem („woda, którą Ja mu dam\") i zasadą nowego kultu („w Duchu i prawdzie\") — a Jego przesłanie dla czytelnika każdej epoki układa się w trzy nauki. Pierwsza — o pragnieniu: Bóg nie brzydzi się ludzkimi pragnieniami, także tymi, które błądziły; wchodzi przez nie, prosi pierwszy i prostuje adres tęsknoty — kto ma za sobą własnych „pięciu mężów\", jest w tej scenie nie oskarżony, lecz szczególnie zaproszony. Druga — o kulcie: Ojciec szuka czcicieli; to najkrótsza definicja historii zbawienia — nie człowiek szuka odpowiedniej góry, lecz Bóg szuka człowieka, a spór o miejsca, obrządki i pierwszeństwa gaśnie tam, gdzie kult wraca do swojego środka: Ducha i Prawdy, czyli do modlitwy zanurzonej w Chrystusie. Trzecia — o świadectwie: Duch pisze tę scenę jako podręcznik ewangelizacji — zaczynać od prośby, nie od oferty; mówić z własnej biografii, nie z cudzych tez; stawiać pytania, które zapraszają („czy nie jest to…?\"); doprowadzać do Słowa i umieć zniknąć. A zostawiony dzban jest znakiem, który Duch podsuwa każdemu czytelnikowi osobno: co jest moim dzbanem — narzędziem starego krążenia między pragnieniem a rozczarowaniem — i czy umiałbym go zostawić, gdy Źródło jest już znalezione.",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -631,7 +631,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -646,7 +646,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do studni Jakubowej — sześć głosów: zmęczony Mocarz (Augustyn), pedagogika stopni (Chryzostom), studnie Pisma i źródło (Orygenes), koniec cieni w kulcie (Cyryl), porzucony dzban (Augustyn), wiara Samarytan bez znaków (Chryzostom).",
      "children": []
     },
@@ -855,7 +855,7 @@
      "Super Io., cap. IV, lect. 1–5",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład sceny: łaska uprzedzająca, woda żywa jako łaska Ducha, kult duchowy i pokarm woli Ojca.",
      "Super Evangelium S. Ioannis lectura"
@@ -865,7 +865,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Analiza sceny zaręczynowej (type-scene), teologii kultu w Duchu i prawdzie oraz samarytańskiego tła (Taheb).",
      "The Gospel According to John (Anchor Bible)"
@@ -875,7 +875,7 @@
      "The Gospel According to St John, ad loc.",
      [
       "section",
-      "I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
+      "Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
      ],
      "Filologia πηγή/φρέαρ, συγχράομαι w w. 9 i interpunkcja ἤδη w w. 35–36.",
      "The Gospel According to St John"
@@ -885,7 +885,7 @@
      "Ewangelia według św. Jana I, ad loc.",
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Polskie omówienie schizmy samarytańskiej, wody żywej i dwóch stopni wiary w w. 39–42.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"

@@ -441,7 +441,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Edukacja rabiniczna i nauczanie bez szkoły, halacha obrzezania w szabat, doktryna Mesjasza ukrytego oraz diaspora grecka — cztery konteksty pierwszej dysputy świątecznej.",
      "children": [
       [
@@ -464,7 +464,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Nauka nie-swoja jako teologia pochodzenia Syna, posłuszeństwo jako organ poznania (w. 17), qal wachomer i hierarchia celów prawa oraz sąd z pozoru przeciw sądowi sprawiedliwemu — cztery węzły dysputy w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem, cap. VII, lect. 2-4.",
      "children": [
       [
@@ -487,19 +487,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Perykopa jest popisem Janowej dramaturgii polifonicznej: na jednej scenie ewangelista prowadzi siedem głosów — Jezusa, „Żydów\" zdumionych, tłum pielgrzymi (nieświadomy spisku), jerozolimczyków (świadomych aż do cynizmu), wierzących z tłumu, faryzeuszy z arcykapłanami i (niemych jeszcze) strażników — i każdemu daje osobną wiedzę, osobny błąd i osobną funkcję w ironii całości. Technika wiedzy stopniowanej jest tu wirtuozerska: tłum nie wie o zamiarze zabójstwa (w. 20), jerozolimczycy wiedzą (w. 25), czytelnik wie więcej niż wszyscy — i dzięki temu każda kwestia gra podwójnie (obelga „masz demona\" jest u pielgrzymów szczerym zdziwieniem, a w uchu czytelnika — pierwszym kamieniem). Ironia pracuje seriami: kryterium „nie wiadomo skąd\" obok kryterium „wiadomo skąd\" (w. 27 vs 41-42) — para sprzecznych pewności ośmieszająca pewność jako taką; „znacie mnie i wiecie, skąd jestem\" — zdanie-lustro, prawdziwe i fałszywe naraz; wreszcie diaspora Greków — szyderstwo, które jest spisem treści przyszłości (Jan pisze te słowa PO ich spełnieniu, wśród Greków diaspory, i mrugnięcie do czytelnika jest tu niemal jawne). Struktura zdradza zamysł katechetyczny: trzy pytania sceny (skąd nauka? skąd Nauczyciel? dokąd odchodzi?) to szkielet wykładu chrystologicznego o posłaniu — nauka od Posyłającego, pochodzenie od Ojca, powrót do Ojca; ewangelista uczy swój Kościół odpowiadać na zarzuty synagogi końca wieku (skąd wasz Chrystus? czemu nie było go w szkołach? czemu Izrael go nie znalazł?) — dokładnie tymi argumentami. A rama nieudanych aresztowań z refrenem godziny (w. 30) niesie jego ulubioną tezę: historia męki nie była wypadkiem przy pracy — od pierwszej próby pojmania do Ogrodu wszystko biegło według zegara, którego wskazówki trzymał Ojciec.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Cztery słowa Ducha z tej dysputy. O poznaniu: „jeśli ktoś chce pełnić Jego wolę, pozna\" — Bóg nie jest twierdzeniem do udowodnienia, lecz wolą do spełnienia, i dlatego wątpiącemu rzadko potrzeba nowych argumentów, częściej jednego aktu posłuszeństwa temu, co już wie; kto czeka z pełnieniem na pewność, czeka w kolejności odwrotnej. O nauczaniu: „moja nauka nie jest moja\" — każde autentyczne słowo w Kościele jest cudze: przekazane, nie wymyślone; i jest test nieomylny — czyja chwała rośnie przy mówcy; gdzie błyszczy głosiciel, tam cień pada na Posyłającego. O sądzeniu: „nie sądźcie według pozoru\" — pozór jest pierwszym kłamcą, któremu wierzymy chętnie, bo sądzi szybko i po naszej myśli; sąd sprawiedliwy kosztuje: trzeba dojść istoty, oczyścić intencję i przyłożyć Bożą miarę — a największe pomyłki sądu w historii zbawienia (od Nazaretu po dziś) były pomyłkami metryki: „wiemy, skąd jest\". O czasie wreszcie: „jeszcze krótki czas jestem z wami... będziecie mnie szukać i nie znajdziecie\" — obecność Boża w moim życiu ma godziny nawiedzenia; łaska odkładana nie czeka bezterminowo jak depozyt, lecz przechodzi jak Ten, który „przechodził\" obok ślepych i celników; dlatego jedno jest pilne w Ewangelii: odpowiedzieć, póki mówi. A dla zniechęconych własną małością — ironia Boża z w. 35 na pociechę: nawet szyderstwo wrogów Bóg umie obrócić w proroctwo misji; tym bardziej umie obrócić w drogę łaski nasze pytania zadane serio.",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -538,7 +538,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -553,7 +553,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do dysputy w połowie święta — sześć głosów: nauka nie moja i pokora Syna (Chryzostom), pełnienie woli jako droga poznania (Augustyn), obrzezanie a uzdrowienie całego człowieka (Chryzostom), dwa skąd Chrystusa (Augustyn), godzina i bezsilność wrogów (Cyryl), szukanie po czasie i diaspora (Cyryl).",
      "children": []
     },
@@ -816,7 +816,7 @@
      "Super Io., cap. VII, lect. 2-4",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład dysputy: nauka Syna od Ojca, poznanie przez pełnienie woli, hierarchia przykazań, sąd sprawiedliwy.",
      "Super Evangelium S. Ioannis lectura"
@@ -826,7 +826,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Doktryna Mesjasza ukrytego, paralele rabiniczne argumentu obrzezaniowego, dramaturgia opinii rozdziału 7.",
      "The Gospel According to John (Anchor Bible)"
@@ -836,7 +836,7 @@
      "The Gospel According to St John, ad loc.",
      [
       "section",
-      "I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
+      "Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
      ],
      "Filologia gramata oiden, ekraxen, podwójne pothen i konstrukcja w. 28 między ironią a pytaniem.",
      "The Gospel According to St John"
@@ -846,7 +846,7 @@
      "Ewangelia według św. Jana I, ad loc.",
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Polskie omówienie qal wachomer, oczekiwań mesjańskich i motywu szukania po czasie.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"

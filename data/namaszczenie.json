@@ -338,7 +338,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Cztery tła: nard i handel wonnościami; namaszczenia w Izraelu (gość, król, zmarły); uczta grecko-żydowska i miejsce kobiet; problem synoptyczny — cztery namaszczenia tradycji.",
      "children": [
       [
@@ -361,7 +361,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Cztery węzły: dar a użyteczność (przeciw utylitaryzmowi miłości); namaszczenie mesjańskie przez pogrzebowe; ubodzy i Obecny — hierarchia bez konkurencji; grzech Judasza jako korupcja dobra.",
      "children": [
       [
@@ -384,19 +384,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "children": [],
      "body": "Autor konstruuje scenę jako bramę tygodnia paschalnego i robi to środkami mistrza. Chronologia: „sześć dni przed Paschą\" otwiera odliczanie, które nada całej Męce rytm liturgiczny — czytelnik ma odtąd czuć upływ każdego dnia. Obsada: trójka z Betanii wraca w rolach-syntezach (diakonia, świadectwo, adoracja), a naprzeciw nich staje po raz pierwszy mówiący Judasz — autor celowo daje mu wejście z tekstem pobożnym, by nauczyć wspólnotę nieufności wobec pobożnych tekstów wypowiadanych przy trzosie; komentarz „był złodziejem\" jest jednym z nielicznych jawnych osądów narratora w całej księdze — tu autor uznał, że stawka usprawiedliwia zerwanie dyskrecji. Sensoryka: Jan pisze wonią — dom napełniony zapachem jest obrazem, który czytelnik czuje nozdrzami; to samo zrobi z grobem pełnym wonności (19,39-40), spinając początek i koniec tygodnia klamrą zapachu. Intertekst: gest stóp i włosów zapowiada Wieczernik (13,5 — Jezus u stóp uczniów), kwota trzystu denarów łączy z tradycją Markową, a nard uruchamia Pieśń nad Pieśniami — autor pisze scenę oblubieńczą bez jednego słowa o oblubieńczości. Cel pastoralny: wspólnota Janowa, uboga i krytykowana za „marnowanie\" czci na ukrzyżowanego Mesjasza, słyszy, że rozrzutność wobec Pana jest proroctwem, nie stratą — i że jej krytycy bywają Judaszami z trzosem. A Łazarz pod uchwałą śmierci to lustro dla świadków po Jawne: świadectwo kosztuje, ale właśnie dlatego działa."
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "children": [],
      "body": "Duch Święty składa w tej scenie naukę o darze, której Kościół uczy się bez końca. Pierwsza prawda: miłość do Boga ma prawo być rozrzutna — więcej: dopiero rozrzutna jest sobą. Wszystkie miary tej Ewangelii są nadmiarem (woda-wino, kosze ułomków, funt nardu, sto funtów mirry), bo odpowiadają Miłości, która nie wydzielała: tak umiłował, że DAŁ (3,16). Kult, liturgia, piękno dla Boga — wszystko, co Judaszowa księgowość świata nazywa marnotrawstwem — jest w oczach Ducha wonią napełniającą dom; Kościół ubogi w środki nigdy nie był wezwany do ubóstwa w miłości. Druga prawda: prawdziwy dar bywa proroctwem — Maria czyni więcej, niż wie; kto kocha bez rachunku, temu Bóg dopisuje sensy, których dawca nie planował; hojność jest formą proroctwa dostępną każdemu. Trzecia prawda: ubodzy i Obecny nie konkurują — Duch zabrania rozgrywać jałmużnę przeciw adoracji i adorację przeciw jałmużnie; obie są jedną miłością w dwóch czasach, a kto niszczy jedną w imię drugiej, zwykle nie ma żadnej (jak pokazuje trzos). Czwarta prawda, najcichsza: świadectwo życia jest nieusuwalne inaczej niż przemocą — Łazarz przy stole rodzi wiarę samym istnieniem i dlatego system chce go zabić; Duch mówi Kościołowi wszystkich prześladowań: wasze życie jest argumentem, którego nie da się odeprzeć, tylko uśmiercić — i nawet to okaże się bezskuteczne, bo Ten, który wskrzesił raz, wskrzesza i drugi."
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -443,7 +443,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -458,7 +458,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "children": [],
      "body": "Katena betańska pachnie tak samo jak scena: Ojcowie piszą o woni. Grzegorz czyni z olejku obraz cnót i dobrej sławy Kościoła; Cyryl — wyznania Bóstwa; Augustyn prowadzi wielki proces Judasza i głupoty rady; Chryzostom broni Marii przed każdym rachunkiem; Beda zbiera dla średniowiecza z akcentem na stopach Pana jako miejscu ucznia."
     },
@@ -479,7 +479,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Pnp",
      1,
@@ -493,7 +493,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Pwt",
      15,
@@ -507,7 +507,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Mk",
      14,
@@ -521,7 +521,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Mt",
      26,
@@ -535,7 +535,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Łk",
      7,
@@ -549,7 +549,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Łk",
      10,
@@ -563,7 +563,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Ps",
      41,
@@ -577,7 +577,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Wj",
      30,
@@ -591,7 +591,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "1 Sm",
      16,
@@ -605,7 +605,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "J",
      19,
@@ -771,7 +771,7 @@
      "Super Io., cap. XII, lect. 1",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład namaszczenia: dar godziwy, unkcja Chrystusa, ubodzy a Obecny, portret Judasza.",
      "Super Evangelium S. Ioannis lectura"
@@ -781,7 +781,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Problem synoptyczny czterech namaszczeń; analiza pistikes i składni w. 7.",
      "The Gospel According to John (Anchor Bible)"
@@ -791,7 +791,7 @@
      "The Gospel According to St John, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Filologia: nardos pistike, glossokomon, entafiasmos; realia uczty.",
      "The Gospel According to St John"
@@ -801,7 +801,7 @@
      "Ewangelia według św. Jana II, ad loc.",
      [
       "section",
-      "IV. Autor ludzki: kim jest i co chce przekazać"
+      "Autor ludzki: kim jest i co chce przekazać"
      ],
      "Betania jako brama tygodnia paschalnego; kompozycja i chronologia Janowa.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
@@ -811,7 +811,7 @@
      "Das Johannesevangelium II, ad loc.",
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Tradycje namaszczenia i ich wzajemne relacje; teologia daru.",
      "Das Johannesevangelium"

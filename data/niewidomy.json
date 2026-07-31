@@ -636,7 +636,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Teologia odpłaty i jej granice, sadzawka Siloam w topografii i liturgii Jerozolimy, szabatowe prawo o ugniataniu i leczeniu oraz — kluczowe dla datowania i adresata Ewangelii — wykluczenie z synagogi po Jawne.",
      "children": [
       [
@@ -659,7 +659,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Cztery węzły: cierpienie a wina (przeciw retrybucjonizmowi), znak jako dokończenie stworzenia, stopnie poznania wiary oraz ślepota zawiniona jako ignorantia affectata.",
      "children": [
       [
@@ -682,19 +682,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "children": [],
      "body": "Rozdział 9 jest literacko najdoskonalszą jednostką narracyjną czwartej Ewangelii i egzegeza zna niewiele tekstów tak precyzyjnie zbudowanych. Autor komponuje dramat w siedmiu scenach z klasyczną regułą dwóch aktorów na scenie, z Jezusem obecnym tylko w ramie (w. 1-7 i 35-41) i z narastającą ironią jako głównym narzędziem: śledczy mówią „my wiemy\" cztery razy i za każdym razem wiedzą mniej, świadek mówi „nie wiem\" trzy razy i za każdym razem rozumie więcej. Ta inwersja jest tezą księgi w miniaturze: światłość przyszła na świat i sąd dokonuje się przez samo jej przyjęcie lub odrzucenie (3,19-21). Autor pisze równocześnie na dwóch poziomach czasowych — historii Jezusa i doświadczenia własnej wspólnoty po Jawne — i robi to świadomie: słowo ἀποσυνάγωγος, procedura przesłuchań, strach rodziców, wyrzucenie za drzwi to realia jego czytelników. Chce ich umocnić dokładnie tym, czym kończy się historia: wyrzucony z synagogi nie zostaje sam — zostaje ZNALEZIONY (w. 35), a jego pokłon przed Synem Człowieczym jest liturgią nowej wspólnoty. Wreszcie autor daje Kościołowi wzór świadectwa: nie trzeba umieć teologii, żeby świadczyć; trzeba nie dać sobie odebrać własnego doświadczenia łaski. Zdanie „jedno wiem: byłem niewidomy, a teraz widzę\" jest najkrótszą definicją świadka w całym Piśmie."
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "children": [],
      "body": "W zamyśle Ducha rozdział 9 jest katechezą chrzcielną Kościoła wszystkich wieków — starożytność odczytała to bezbłędnie, czyniąc z niego Ewangelię skrutyniów. Struktura znaku jest strukturą sakramentu: człowiek w ciemności nie ze swojej winy; inicjatywa całkowicie po stronie Chrystusa (niewidomy o nic nie prosił); materia stworzenia i gest namaszczenia (błoto na oczach jak przedchrzcielne namaszczenie katechumena); posłanie do wody, której imię jest imieniem Posłanego; obmycie i przejrzenie — φωτισμός, oświecenie, jak najstarszy Kościół nazywał chrzest (Hbr 6,4; 10,32; Justyn, Apologia I 61). Dalszy ciąg jest równie sakramentalny: ochrzczony musi wyznać wiarę przed wrogim trybunałem, traci starą wspólnotę, zostaje znaleziony przez Chrystusa i kończy na adoracji — mistagogia w pięciu scenach. Duch Święty przekazuje też twardszą prawdę o sądzie: światłość, która oświeca, tym samym aktem osądza; nie ma neutralnego spotkania z Chrystusem. I prawdę o cierpieniu: żadne kalectwo, żadna bieda, żadna ciemność nie jest Bożym wyrokiem na człowieka — każda może stać się miejscem, w którym objawią się dzieła Boże. Wreszcie — przez pokłon w w. 38, jedyny oddany Jezusowi w tej Ewangelii przed zmartwychwstaniem — Duch uczy, dokąd prowadzi każde prawdziwe przejrzenie: do adoracji."
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -733,7 +733,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -748,7 +748,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "children": [],
      "body": "Katena do J 9 jest wyjątkowo jednomyślna co do dwóch rzeczy: błoto mówi o stworzeniu, Siloam o chrzcie. Różnice zaczynają się w rozłożeniu akcentów — Ireneusz czyta przeciw gnostykom, Augustyn alegorycznie, Chryzostom moralnie (odwaga świadka), Cyryl dogmatycznie (Bóstwo działającego), Grzegorz pastoralnie (ślepota pysznych), Beda syntetycznie dla średniowiecza."
     },
@@ -769,7 +769,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Rdz",
      2,
@@ -783,7 +783,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Wj",
      20,
@@ -797,7 +797,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Hi",
      10,
@@ -811,7 +811,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "2 Krl",
      5,
@@ -825,7 +825,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Iz",
      8,
@@ -839,7 +839,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Iz",
      35,
@@ -853,7 +853,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Iz",
      42,
@@ -867,7 +867,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Iz",
      6,
@@ -881,7 +881,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Joz",
      7,
@@ -895,7 +895,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Dn",
      7,
@@ -1061,7 +1061,7 @@
      "Super Io., cap. IX, lect. 1-4",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład rozdziału: cierpienie poza rachunkiem win, znak jako dzieło Stwórcy, stopnie wyznania, niewiedza zawiniona.",
      "Super Evangelium S. Ioannis lectura"
@@ -1071,7 +1071,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Analiza dwupoziomowa rozdziału (historia Jezusa / dramat wspólnoty po Jawne) i komentarz filologiczny.",
      "The Gospel According to John (Anchor Bible)"
@@ -1081,7 +1081,7 @@
      "The Gospel According to St John, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Tło szabatowe (melacha ugniatania), topografia Siloam, filologia aposynagogos.",
      "The Gospel According to St John"
@@ -1091,7 +1091,7 @@
      "Ewangelia według św. Jana I, ad loc.",
      [
       "section",
-      "IV. Autor ludzki: kim jest i co chce przekazać"
+      "Autor ludzki: kim jest i co chce przekazać"
      ],
      "Struktura dramatyczna siedmiu scen i lektura w kontekście rozejścia z synagogą.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
@@ -1101,7 +1101,7 @@
      "Apologia I 61",
      [
       "section",
-      "V. Autor Boży: co Duch Święty chce przekazać"
+      "Autor Boży: co Duch Święty chce przekazać"
      ],
      "Najstarsze świadectwo nazywania chrztu oświeceniem (photismos) — klucz recepcji rozdziału.",
      "Apologie"

@@ -515,7 +515,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Cztery tła: Chanuka i jej pamięć profanacji; portyk Salomona; prawo o bluźnierstwie i procedura ukamienowania; rabiniczna technika argumentu z Ps 82.",
      "children": [
       [
@@ -538,7 +538,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Cztery węzły: jedność istoty w ἕν ἐσμεν; ręka Ojca i Syna a nieutracalność łaski; consecratio Syna; wiara z dzieł jako droga rozumu.",
      "children": [
       [
@@ -561,19 +561,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "children": [],
      "body": "Autor domyka tą perykopą wielką jerozolimską sekcję Ewangelii (rozdziały 5-10) i czyni to z wyczuciem kompozytora: wszystkie wątki procesu wracają po raz ostatni w stężeniu — dzieła jako świadectwo (5,36), owce i głos (10,3-5.14), zarzut czynienia się Bogiem (5,18), kamienie (8,59), godzina jeszcze nie nadeszła (7,30) — a potem scena pustoszeje i akcja wraca tam, skąd wyszła: za Jordan, do miejsca Jana. Ta klamra geograficzna jest deklaracją literacką: publiczny spór Jezusa z Jerozolimą jest zamknięty; wszystko zostało powiedziane i pokazane; następny znak (Łazarz) nie będzie już argumentem w sporze, lecz detonatorem wyroku. Autor prowadzi też swoją społeczność: wybór Chanuki — święta pamięci o przemocy religijnej i o świątyni odzyskanej — mówi czytelnikom po Jawne, że prawdziwa świątynia i prawdziwa konsekracja są w Chrystusie, więc utrata dostępu do świątyni kamiennej (zburzonej zresztą w 70 r.) niczego im nie odbiera. Wreszcie epitafium Jana Chrzciciela (znaku nie uczynił żadnego, ale wszystko, co powiedział, było prawdziwe) jest autoportretem ewangelisty i jego ideałem świadka: wartość świadectwa mierzy się prawdą, nie mocą — zdanie-motto dla wspólnoty, która cudów nie czyni, a świadczyć musi."
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "children": [],
      "body": "Duch Święty przekazuje w tej perykopie trzy prawdy, na których stoi chrześcijańska dogmatyka, i jedną, na której stoi chrześcijańska ufność. Pierwsza: jedność Ojca i Syna nie jest metaforą — ἕν ἐσμεν wypowiada jedność istoty, którą Nicea nazwie homoousios; kto czyta to zdanie słabiej, musi wyjaśnić, czemu słuchacze sięgnęli po kamienie i czemu Jezus, broniąc się, roszczenia nie odwołał. Druga: Pismo nie może być rozwiązane — natchnienie i nienaruszalność słowa Bożego mają w 10,35 swoją najkrótszą kartę, wypowiedzianą przez samo Słowo. Trzecia: prawdziwa konsekracja jest chrystologiczna — na święcie poświęconego ołtarza objawia się Ten, którego poświęcił Ojciec; cała sakramentalna świętość Kościoła (ołtarze, oleje, ręce, wody) jest odtąd uczestnictwem w tym jednym namaszczeniu. A prawda ufności brzmi: nikt i nic nie wyrwie owiec z ręki Pasterza, bo ta ręka jest ręką Boga. Duch nie mówi tego zdania teologom do analizy, lecz owcom do życia: przez wszystkie prześladowania, ciemności i zimy Kościoła — a scena dzieje się zimą, wśród kamieni — wierzący ma prawo powtarzać: jestem trzymany; nie utrzymuję się sam. Ostatni obraz perykopy dopowiada, gdzie ta ufność dojrzewa: za Jordanem, w miejscu pierwszego świadectwa, gdzie wielu uwierzyło — wiara wraca do źródeł i tam się umacnia."
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -620,7 +620,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -635,7 +635,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "children": [],
      "body": "Katena tej perykopy jest ukształtowana przez spory trynitarne: 10,30 i 10,38 należały do najczęściej cytowanych wersetów IV wieku. Augustyn daje formułę przeciw obu herezjom naraz; Atanazy i Hilary budują na jedności mocy argument o jedności istoty; Chryzostom pilnuje równowagi (jedność bez zlania); Cyryl rozwija wzajemną immanencję; Beda zbiera całość dla średniowiecza z akcentem na epitafium Jana Chrzciciela."
     },
@@ -656,7 +656,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "1 Mch",
      4,
@@ -670,7 +670,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Pwt",
      32,
@@ -684,7 +684,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Iz",
      43,
@@ -698,7 +698,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Ps",
      82,
@@ -712,7 +712,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Kpł",
      24,
@@ -726,7 +726,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Lb",
      7,
@@ -740,7 +740,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Jr",
      1,
@@ -754,7 +754,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Ez",
      34,
@@ -768,7 +768,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "J",
      5,
@@ -782,7 +782,7 @@
     [
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "J",
      17,
@@ -946,7 +946,7 @@
      "Super Io., cap. X, lect. 5-6",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład jedności istoty z 10,30, niewyrywalności owiec, konsekracji Syna i wiary z dzieł.",
      "Super Evangelium S. Ioannis lectura"
@@ -956,7 +956,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Chanuka jako rama; analiza cruxu w. 29; związek 10,22-39 z mową pasterską.",
      "The Gospel According to John (Anchor Bible)"
@@ -966,7 +966,7 @@
      "The Gospel According to St John, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Filologia: enkainia, idiom w. 24, rabiniczne tło Ps 82 i formuła o nierozwiązywalności Pisma.",
      "The Gospel According to St John"
@@ -976,7 +976,7 @@
      "Ewangelia według św. Jana I, ad loc.",
      [
       "section",
-      "IV. Autor ludzki: kim jest i co chce przekazać"
+      "Autor ludzki: kim jest i co chce przekazać"
      ],
      "Kompozycja zamknięcia sekcji jerozolimskiej i klamra zajordańska.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
@@ -986,7 +986,7 @@
      "Das Johannesevangelium II, ad loc.",
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Historia religii formuły jedności i immanencji; recepcja trynitarna 10,30.38.",
      "Das Johannesevangelium"

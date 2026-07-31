@@ -362,7 +362,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Scena zakłada realia dwóch równoległych ruchów chrzcielnych, obyczaj weselny z instytucją szoszbina i rabinicką naukę o „mierze\" Ducha — a jej geografia i chronologia są cennym uzupełnieniem synoptyków.",
      "children": [
       [
@@ -385,7 +385,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Dar, radość z cudzego dobra, pełnia Ducha i gniew Boży — cztery węzły perykopy w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem (cap. III, lect. 4–6).",
      "children": [
       [
@@ -408,19 +408,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Ewangelista komponuje pożegnanie Chrzciciela z symetrią, która nie może być przypadkiem: Jan wchodził do księgi w prozatorskich wstawkach Prologu i w procesowym przesłuchaniu (1,19nn) — wychodzi z niej sceną, w której sam odpowiada na ostatnie przesłuchanie, tym razem prowadzone przez własnych uczniów; jego pierwsze słowa były przeczeniem („nie jestem\"), ostatnie są przyzwoleniem („trzeba, aby On wzrastał\"); między jednym a drugim zamyka się najczystsza biografia świadka, jaką zna Nowy Testament. Widoczna jest też praca redaktora piszącego dla konkretnego adresata: środowiska uczniów Janowych trwały dziesiątki lat po śmierci mistrza (Dz 18,25–19,7 lokalizuje je w Efezie — ojczyźnie tej Ewangelii), i cała perykopa jest wobec nich aktem czułej dyplomacji: ich założyciel zostaje wywyższony właśnie w tym, w czym mógłby się wydawać przegrany — nikt w tej księdze nie mówi o Jezusie piękniej niż Jan, i nikt nie otrzymuje od narratora epitafium równie dyskretnego jak w. 24 (o więzieniu — bez opowiadania kaźni: ewangelista nie wystawia śmierci przyjaciela Oblubieńca na widok). Wreszcie warsztat kody (w. 31–36): płynne przejście od głosu postaci do głosu księgi, identyczne jak po rozmowie z Nikodemem, jest podpisem metody całej Ewangelii — świadectwo przyjęte staje się mową przyjmującego; autor nie cytuje już Chrzciciela, autor mówi tym, czym stał się dzięki niemu.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Duch Święty zostawia w tej perykopie regułę weryfikacji każdej służby kościelnej — i czyni to na przykładzie posługi najświętszej z możliwych, żeby nikt nie sądził, że reguła dotyczy tylko nadużyć: nawet posługa „największego między narodzonymi z niewiast\" ma wpisany termin ważności i błogosławiony zmierzch. Kryteria są trzy, jak trzy ogniwa odpowiedzi Jana: pamięć daru (kto wie, że wszystko otrzymał, nie broni stanu posiadania), prawda tytułu (kto powtarza „nie jestem\", nie przywłaszczy oblubienicy) i radość z głosu Oblubieńca (kto się cieszy, gdy prowadzeni odchodzą do Pana, ten służył Panu, nie sobie). Zdanie „On ma wzrastać, ja się umniejszać\" Duch podaje Kościołowi jako miarę instytucji, urzędów, ruchów i autorytetów: wszystko w Kościele jest szoszbinem — przyjacielem Oblubieńca, niczym więcej; struktura, która rośnie kosztem widoczności Chrystusa, wypadła z roli. Zarazem koda perykopy strzeże przed pomyleniem pokory z relatywizmem: umniejszać ma się świadek — nie świadectwo; o Tym, który przychodzi z góry, należy mówić całą prawdę (jest ponad wszystkimi, ma Ducha bez miary, w Jego ręku wszystko), a stawką przyjęcia lub odmowy jest życie wieczne. Duch uczy więc podwójnej odwagi, którą posiadł Jan: maksymalizmu w wyznawaniu Chrystusa i minimalizmu w eksponowaniu siebie — dwie połowy jednej wierności, których rozdzielenie psuje każdą misję.",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -455,7 +455,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -470,7 +470,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do pożegnania Chrzciciela — sześć głosów: lekarstwo na zawiść uczniów (Chryzostom), oblubienica, która nie należy do sług (Augustyn przeciw donatystom), kalendarz pokory (Augustyn), z góry i z ziemi bez dualizmu (Cyryl), Duch bez miary (Chryzostom) i wszystko w ręku Syna (Cyryl).",
      "children": []
     },
@@ -653,7 +653,7 @@
      "Super Io., cap. III, lect. 4–6",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład pożegnania Chrzciciela: zasada daru, radość przyjaciela, pełnia Ducha w Chrystusie i sens gniewu Bożego.",
      "Super Evangelium S. Ioannis lectura"
@@ -663,7 +663,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Chronologia równoległych chrztów, lokalizacja Ainon i problem granicy głosów w kodzie w. 31–36.",
      "The Gospel According to John (Anchor Bible)"
@@ -673,7 +673,7 @@
      "The Gospel According to St John, ad loc.",
      [
       "section",
-      "I. Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
+      "Tekst grecki (Nestle-Aland, wyd. 28) z przekładem roboczym i analizą filologiczną"
      ],
      "Filologia w. 25 (Ἰουδαίου i propozycje emendacji), w. 29 (figura etymologiczna) i w. 34 (podmiot δίδωσιν).",
      "The Gospel According to St John"
@@ -683,7 +683,7 @@
      "Ewangelia według św. Jana I, ad loc.",
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Polskie omówienie instytucji szoszbina i oblubieńczej linii czwartej Ewangelii.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"

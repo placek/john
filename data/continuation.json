@@ -876,7 +876,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Wersety 15–18 wykazują tę samą dwuwarstwowość co cały Prolog: każde pojęcie ma dno greckie i semickie, a spór, w którym te zdania zabrzmiały po raz pierwszy, słychać w nich do dziś.",
      "children": [
       [
@@ -899,7 +899,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Św. Tomasz komentuje w. 15–18 w Super Ioannem (cap. I, lect. 9–11); poniższe obserwacje idą jego tropem — od pełni łaski przez relację Prawa i łaski po granice widzenia Boga.",
      "children": [
       [
@@ -922,19 +922,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Ewangelista wykonuje tu ruch redaktorski o dużej samoświadomości: wplata głos Chrzciciela (w. 15) w sam środek hymnu i przechodzi z „on\" na „my\" (w. 16) — świadectwo jednostki staje się wyznaniem wspólnoty, a wspólnota wciąga czytelnika. Składnia w. 18 jest zbudowana jak procesja: najpierw uroczysta teza o niewidzialności, potem długi podmiot z trzema określeniami (Jednorodzony — Bóg — będący w łonie Ojca), a na końcu, emfatycznie, zaimek ἐκεῖνος (On, ten właśnie) i jedno słowo orzeczenia: opowiedział. Czytelnik ma usłyszeć, że wszystko, co między w. 1 a 18 zostało powiedziane, zbiega się w tym jednym czasowniku. Zamknięcie na ἐξηγήσατο (opowiedział) jest programowe: cała księga, która teraz nastąpi, będzie tym opowiadaniem — od Kany po pusty grób; Prolog okazuje się spisem treści napisanym językiem hymnu. Jest w tym także osobista sygnatura: autor, który wedle tradycji sam spoczywał na piersi Jezusa (J 13,23), kończy Prolog obrazem Syna w łonie Ojca — jakby mówił: wiem, skąd płynie ten wykład, bo słuchałem go z bliska; moja księga jest echem tamtej bliskości.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Duch Święty domyka objawienie trynitarne Prologu: w. 18 odsłania, że wieczne πρὸς τὸν θεόν (ku Bogu) z w. 1 jest relacją synowską — łonem Ojca. Zarazem ustanawia zasadę wszelkiej teologii: o Bogu prawdziwie mówi tylko to, co opowiedział Jednorodzony; każda inna mowa o Bogu jest domysłem albo echem. Jest i lekcja o samym sposobie mówienia Ducha: w. 16 przechodzi na „my\" — Duch nie objawia prawd do prywatnego posiadania, lecz tworzy wspólnotę wyznającą; kto naprawdę otrzymał „z pełni\", mówi odtąd w liczbie mnogiej Kościoła. „Łaska za łaską\" jest zaś rytmem, w którym Duch prowadzi każde życie wewnętrzne: nie pozwala zatrzymać się przy darze wczorajszym, bo dar wczorajszy był po to, by otworzyć ręce na dzisiejszy — ekonomia zbawienia nie zna próżni ani emerytury. Sens dla czytelnika: nie musisz zdobywać Niewidzialnego — masz Jego egzegezę; przyjmij wykład, a Wykładający wprowadzi cię tam, skąd mówi.",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -969,7 +969,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -984,7 +984,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do dopełnienia Prologu — sześć głosów: o wołaniu, które nie zamilkło, o pełni i wymianie łask, o łonie Ojca i granicach widzenia. Chryzostom prowadzi wykład grecki (Hom. 13–15), Augustyn i Hilary łaciński, Cyryl domyka aleksandryjską precyzją.",
      "children": []
     },
@@ -1246,7 +1246,7 @@
      "Super Io., cap. I, lect. 9–11",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład w. 15–18: pełnia łaski Chrystusa, relacja Prawa i łaski, sposoby widzenia Boga i wyłączność „wykładu\" Syna.",
      "Super Evangelium S. Ioannis lectura"
@@ -1256,7 +1256,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Zestawienie argumentów za lekturą χάριν ἀντὶ χάριτος jako „łaska w miejsce łaski\" oraz za synajskim tłem pary χάρις–ἀλήθεια (chesed we'emet).",
      "The Gospel According to John (Anchor Bible)"
@@ -1266,7 +1266,7 @@
      "Das Johannesevangelium I, ekskursy do Prologu",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Analiza warstw hymnu i wstawek prozatorskich; historia religii pojęcia πλήρωμα przed gnozą.",
      "Das Johannesevangelium"
@@ -1380,7 +1380,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Scena przesłuchania jest gęsta od realiów: instytucji świątynnych, praktyk chrzcielnych i map mesjańskiego oczekiwania — każdy szczegół protokołu ma tło, które pierwszym słuchaczom nie wymagało przypisów.",
      "children": [
       [
@@ -1403,7 +1403,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Trzy węzły sceny — pokora, chrzest, świadectwo — są ulubionym materiałem scholastyki; Tomasz poświęca chrztowi Janowemu osobne zagadnienie Summy (III, q. 38).",
      "children": [
       [
@@ -1426,19 +1426,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Ewangelista otwiera narrację formułą „takie jest świadectwo Jana\" — jakby wciągał do akt pierwszy protokół procesu, który będzie się toczył przez całą księgę. Konstrukcja sceny jest prawnicza: pytania oficjalne, odpowiedzi pod przysięgą (ὡμολόγησεν — wyznał), ustalenie miejsca czynności (w. 28). Zarazem trwa polemika środowiskowa znana z w. 6–8: wobec grup ceniących Chrzciciela ponad miarę (Efez, por. Dz 19,1–7) ewangelista oddaje głos samemu Janowi — niech najwyższy autorytet tych grup własnymi ustami wskaże Większego. Jest wreszcie rys pamięci osobistej: tradycja widzi w autorze (lub w świadku stojącym za księgą) jednego z uczniów Chrzciciela, którzy nazajutrz odejdą za Jezusem — sceny znad Jordanu są opowiedziane z pozycji kogoś, kto stał w tym tłumie i zapamiętał nie tylko słowa, ale i układ dni. Stąd podwójna perspektywa opowiadania: protokolarna ścisłość świadka i czułość ucznia dla mistrza, którego wielkość polegała na wskazywaniu poza siebie.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Duch Święty uczy tu gramatyki powołania: każdy posłany jest głosem, nie Słowem; światłem zapalonym, nie Światłością. Kto głosi, staje w miejscu Chrzciciela — i podlega jego regule: „nie jestem\". Trzy przeczenia Jana są dla Kościoła każdego czasu rachunkiem sumienia z pokus urzędu: pokusy mesjańskiej (być zbawcą ludzi), pokusy Eliaszowej (być rozstrzygającym autorytetem epoki) i pokusy prorockiej (być głosem ostatecznym) — wszystkie trzy leczy jedno zdanie: pośród was stoi Ten, którego nie znacie. To zdanie (w. 26) Duch pozostawił Kościołowi jako słowo stale prawdziwe: w każdej liturgii, w każdym zgromadzeniu, w każdym ubogim (por. Mt 25,35–40) stoi pośród nas Nieznajomy — i całe przepowiadanie jest tylko prostowaniem drogi do rozpoznania Go. Duch nie pozwala też czytelnikowi zostać widzem przesłuchania: pytanie „ty kim jesteś?\" wraca do każdego, kto czyta — a odpowiedź Chrzciciela podpowiada jedyną formę, w której autodefinicja człowieka nie kłamie: określić się przez relację do Tego, który jest.",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -1473,7 +1473,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -1488,7 +1488,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do świadectwa — sześć głosów: pokora wyznania (Chryzostom), głos i Słowo (Augustyn), pytanie o Eliasza i geografia (Orygenes), Nieznajomy pośród nas (Augustyn), rzemień sandała Oblubieńca (Grzegorz Wielki).",
      "children": []
     },
@@ -1762,7 +1762,7 @@
      "Super Io., cap. I, lect. 12–13",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład przesłuchania: porządek pytań delegacji, pokora Jana i natura jego chrztu (por. S. Th. III, q. 38).",
      "Super Evangelium S. Ioannis lectura"
@@ -1772,7 +1772,7 @@
      "The Gospel According to John I, ad loc. i dodatki",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Panorama oczekiwań mesjańskich (Mesjasz, Eliasz, Prorok) i dyskusja lokalizacji Betanii za Jordanem.",
      "The Gospel According to John (Anchor Bible)"
@@ -1782,7 +1782,7 @@
      "Ewangelia według św. Jana I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Polskie omówienie Janowego sensu terminu οἱ Ἰουδαῖοι i tła obmyć rytualnych epoki.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
@@ -1891,7 +1891,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Tytuł Baranka i znak Ducha czerpią z najgłębszych warstw wyobraźni Izraela — ofiarniczej, prorockiej i stworzeniowej; bez tego tła scena jest niema.",
      "children": [
       [
@@ -1914,7 +1914,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Trzy pojęcia sceny — ofiara, namaszczenie Duchem, poznanie przez znak — należą do rdzenia teologii scholastycznej; Tomasz komentuje je w Super Ioannem (cap. I, lect. 14) i w traktacie o łasce Chrystusa (S. Th. III, q. 7–8).",
      "children": [
       [
@@ -1937,19 +1937,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Ewangelista nie opisuje chrztu Jezusa — zakłada, że czytelnik zna scenę (synoptycy), i podaje samo jądro: zeznanie świadka o tym, co chrzest objawił. To świadomy wybór gatunku: nie kronika, lecz proces — liczy się nie zdarzenie, lecz jego poświadczona treść. Odliczanie dni (nazajutrz… nazajutrz… trzeciego dnia: 1,29.35.43; 2,1) buduje tydzień inauguracji zamknięty godami w Kanie: autor komponuje pierwszy tydzień nowego stworzenia, w którym dzień Baranka jest dniem wskazania Ofiary — od początku wesele i krzyż są w jednym rytmie. Umieszczenie tytułu ofiarniczego na progu księgi jest decyzją architekta: czytelnik otrzymuje klucz do wszystkich „godzin\" i „wywyższeń\", zanim padnie pierwsze z tych słów; gdy w rozdziale 19 Jezus umrze w porze zabijania baranków paschalnych, z nieprzełamaną kością (19,14.36), nikt uważny nie będzie zaskoczony — klamra zamknie się z trzaskiem. Jest wreszcie dyskretna korekta środowiskowa: najwyższy autorytet kręgów Chrzcicielowych dwakroć wyznaje własną niewiedzę („nie znałem Go\") — pamięć mistrza zostaje uczczona, a jego wielkość pokazana tam, gdzie jest naprawdę: w posłuszeństwie objawieniu, nie w przenikliwości.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Duch Święty jest w tej perykopie i treścią, i Autorem: objawia siebie jako Tego, który pozostaje — i tego samego uczy czytelnika o sobie. Kryterium dane Chrzcicielowi („na kogo zobaczysz Ducha zstępującego i pozostającego\") Duch zostawił Kościołowi jako stałą zasadę rozeznawania: Mesjasza — i wszystko, co mesjańskie — poznaje się po trwaniu, nie po błysku; charyzmat chwilowy może być od Boga, ale znamieniem Pomazańca jest μένειν (pozostawanie). Tytuł „Baranek\" Duch umieścił na progu Ewangelii po to, by żadna dalsza chwała — znaki, tłumy, entuzjazm — nie przesłoniła kierunku: ta historia idzie ku ofierze; i po to, by Kościół, powtarzający te słowa przed każdą Komunią, nigdy nie oddzielił Eucharystii od krzyża. A podwójne „nie znałem\" świadka jest pociechą wpisaną w sam fundament wiary: nie wymaga się od nikogo, by znał — wymaga się, by przyjął znak i słowo; największy z proroków zaczynał od tej samej niewiedzy, od której zaczyna każdy ochrzczony.",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -1984,7 +1984,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -1999,7 +1999,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do Baranka — sześć głosów: teraźniejszość dźwigania (Chryzostom), typologia baranka rozpisana na głosy (Orygenes), gołębica jedności (Augustyn), Duch, który pozostał dla nas (Cyryl), i pokora tytułu ofiarniczego.",
      "children": []
     },
@@ -2320,7 +2320,7 @@
      "Super Io., cap. I, lect. 14; S. Th. III, q. 7–8.38",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład tytułu Baranka i teologia pełni łaski Chrystusa (gratia capitis); natura chrztu Janowego.",
      "Super Evangelium S. Ioannis lectura"
@@ -2330,7 +2330,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Dyskusja trzech głównych wykładni tytułu Baranka (paschalna, Iz 53/talja, apokaliptyczna) i wariantu ὁ ἐκλεκτός w w. 34.",
      "The Gospel According to John (Anchor Bible)"
@@ -2428,7 +2428,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Scena oddycha realiami szkoły rabinackiej, dwujęzycznej Galilei i wschodniego liczenia godzin — a każdy z tych konkretów niesie ładunek teologiczny.",
      "children": [
       [
@@ -2451,7 +2451,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Pytanie o pragnienie, poznanie przez zamieszkanie i teologia imienia — trzy tomistyczne węzły sceny; Tomasz komentuje ją w Super Ioannem (cap. I, lect. 15).",
      "children": [
       [
@@ -2474,19 +2474,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Scena nosi znamiona wspomnienia osobistego: bezimienny drugi uczeń, zapamiętana godzina, brak jakiejkolwiek treści wieczornej rozmowy (świadek nie zmyśla tego, czego nie wolno mu powtórzyć albo czego nie potrzeba). Jeśli — jak chce tradycja — tym drugim jest sam autor, to w. 39 jest jego podpisem złożonym w rogu obrazu: anonimowość konsekwentna aż po „ucznia, którego Jezus miłował\" i celowa — czytelnik ma móc wstawić siebie w puste miejsce drugiego ucznia. Zamysł literacki całości: powołanie pokazane jako łańcuch osobistych spotkań i „znalezień\", bez tłumów i cudów — wzór ewangelizacji, w którym każde ogniwo mówi jedno zdanie i prowadzi do Osoby. Autor komponuje przy tym z rozmysłem większą ramę: pierwsze pytanie Jezusa w księdze („czego szukacie?\", 1,38) i pierwsze pytanie Zmartwychwstałego („kogo szukasz?\", 20,15) tworzą inkluzję, wewnątrz której zamyka się cała droga ucznia — od „czego\" do „kogo\", od ciekawości do miłości. Kto zauważy tę klamrę, ten zrozumie, po co ewangelista pamiętał godzinę dziesiątą: księga jest pisana przez człowieka, który na pytanie „czego szukasz?\" odpowiadał całym życiem — i chce, by czytelnik usłyszał to pytanie jako swoje.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Duch Święty kreśli w tej scenie stały porządek nawrócenia: świadectwo → pójście → pytanie o pragnienie → zamieszkanie → wyznanie → misja. Żaden etap nie jest ozdobny i żaden nie bywa pomijany bezkarnie: wiara bez zamieszkania jest pogłoską, zamieszkanie bez misji — przytulnością. Pytanie „czego szukacie?\" Duch kieruje do czytelnika każdej epoki jako pierwsze słowo Chrystusa także do niego; a przez zapamiętaną godzinę dziesiątą przypomina, że zbawienie dzieje się w konkrecie: ma datę, adres i porę dnia — nie jest ideą, która obowiązuje zawsze i nigdzie, lecz spotkaniem, które zdarzyło się raz i odtąd promieniuje. Jest wreszcie w scenie pedagogika rodzinności, którą Duch zdaje się szczególnie cenić: pierwszy ochrzczony odruch znalazcy prowadzi do własnego brata — łaska szanuje naturalne więzi i po nich wspina się jak po kracie; kto szuka pola misyjnego, niech zacznie od swojego stołu. A bezimienność drugiego ucznia jest zaproszeniem otwartym: to miejsce w scenie Duch zostawił puste — dla każdego, kto czyta.",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -2517,7 +2517,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -2532,7 +2532,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do powołania — sześć głosów: pytanie o pragnienie i wieczór u Jezusa (Augustyn), wytrwałość świadka i brat prowadzący brata (Chryzostom), zamieszkanie jako poznanie (Cyryl), imię-skała (Chryzostom, Augustyn).",
      "children": []
     },
@@ -2800,7 +2800,7 @@
      "Super Io., cap. I, lect. 15",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład powołania pierwszych uczniów: pytanie o pragnienie, zamieszkanie i teologia imienia Kefas.",
      "Super Evangelium S. Ioannis lectura"
@@ -2810,7 +2810,7 @@
      "Das Johannesevangelium I, ad loc.",
      [
       "section",
-      "IV. Autor ludzki: kim jest i co chce przekazać"
+      "Autor ludzki: kim jest i co chce przekazać"
      ],
      "Analiza anonimowego drugiego ucznia i hipotezy utożsamienia go ze świadkiem stojącym za Ewangelią.",
      "Das Johannesevangelium"
@@ -2929,7 +2929,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Cztery realia niosą tę scenę: prowincjonalna geografia Galilei, figowiec uczonych, sen Jakuba czytany w synagodze i tytulatura mesjańska — każde z drugim dnem.",
      "children": [
       [
@@ -2952,7 +2952,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Wiedza Chrystusa, dynamika wiary i pośrednictwo — trzy tomistyczne osie sceny; Tomasz komentuje ją w Super Ioannem (cap. I, lect. 16).",
      "children": [
       [
@@ -2975,19 +2975,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Ewangelista komponuje finał rozdziału jak jubiler: w czterech scenach tygodnia inauguracji rozmieścił wszystkie tytuły mesjańskie, by w ostatniej dołożyć zwieńczenie — tytuł, który Jezus wybiera sam. Portret Natanaela jest małym arcydziełem charakterologii: sceptyk uczciwy, którego opór nie jest cynizmem, lecz wiernością Pismu — autor pokazuje, że droga do wiary wiedzie także przez rzetelną wątpliwość, i czyni to z humorem (szorstka odzywka o Nazarecie sąsiaduje z najwyższą pochwałą z ust Jezusa). Widać też rękę architekta całości: „przyjdź i zobacz\" Filipa powtarza dosłownie wczorajszą metodę Mistrza — szkoła Jezusowa reprodukuje się w pierwszym pokoleniu uczniów już po jednym dniu; a obietnica w. 51, sformułowana w liczbie mnogiej i czasie przyszłym, przerzuca most nad całą księgą: czytelniku, to, co teraz nastąpi — znaki, godzina, wywyższenie — jest tym otwartym niebem. Wreszcie rys autobiograficzny wspólnoty: Natanael pochodzi z Kany (21,2), dokąd akcja przenosi się „trzeciego dnia\" — ostatni powołany prowadzi do domu, w którym chwała objawi się po raz pierwszy; ewangelista lubi, gdy geografia sama opowiada teologię.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Duch Święty domyka rozdział lekcją o widzeniu: Jezus „zobaczył\" Natanaela, zanim ten zobaczył Jezusa — każde nasze szukanie jest wtórne wobec bycia znalezionym; łaska uprzedzająca (gratia praeveniens) ma tu swoją ikonę, a w. 43 („postanowił… i znajduje\") jej narracyjny fundament: pierwszym ogniwem każdego łańcucha powołań jest chcenie Pana. Zarazem Duch koryguje każdą wiarę, która chciałaby się zatrzymać na własnym wyznaniu: nawet pełna litania tytułów nie jest metą — „większe zobaczysz\"; wiara, której wystarcza wczorajsze doświadczenie, jeszcze nie zna Tego, w kogo wierzy. I zostawia obietnicę eklezjalną: odkąd Słowo rozbiło namiot, dom Boga i brama nieba nie są miejscem na mapie, lecz Osobą — a przez Nią wspólnotą, w której ta Osoba trwa; gdzie gromadzi się Kościół, tam stoi drabina Jakubowa, po której nieustannie wstępuje modlitwa i zstępuje łaska. Czytelnik zaś dostaje od Ducha pytanie pod własny figowiec: skoro zostałeś zobaczony wcześniej, niż zacząłeś szukać — co jeszcze trzyma cię przy „czy może być coś dobrego\"?",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -3018,7 +3018,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -3033,7 +3033,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do finału rozdziału — sześć głosów: sceptyk pochwalony i miara objawienia (Chryzostom), figowiec i liście grzechu (Augustyn), powołanie Filipa (Chryzostom), aniołowie i kaznodzieje (Augustyn), drabina zjednoczenia natur (Cyryl).",
      "children": []
     },
@@ -3335,7 +3335,7 @@
      "Super Io., cap. I, lect. 16",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład powołania Natanaela: rodzaje wiedzy Chrystusa, wzrost wiary i chrystologiczna lektura drabiny Jakubowej.",
      "Super Evangelium S. Ioannis lectura"
@@ -3345,7 +3345,7 @@
      "The Gospel According to St John, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Filologiczna analiza w. 51 (ὄψεσθε, ἀνεῳγότα) i targumiczne tło drabiny Jakubowej.",
      "The Gospel According to St John"

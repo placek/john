@@ -394,7 +394,7 @@
    "sections": [
     {
      "type": "kontekst",
-     "title": "II. Kontekst historyczny, językowy, kulturowy i religijny",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
      "body": "Realia wesela galilejskiego, halachy czystości i prorockiej symboliki wina są w tej scenie nie tłem, lecz budulcem znaku.",
      "children": [
       [
@@ -409,7 +409,7 @@
     },
     {
      "type": "teologia",
-     "title": "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
      "body": "Cud, wstawiennictwo, małżeństwo i znak — cztery węzły sceny w optyce tomistycznej; Tomasz komentuje Kanę w Super Ioannem (cap. II, lect. 1–2).",
      "children": [
       [
@@ -432,19 +432,19 @@
     },
     {
      "type": "autor_ludzki",
-     "title": "IV. Autor ludzki: kim jest i co chce przekazać",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
      "body": "Kompozycja zdradza rękę mistrza: tydzień inauguracji domknięty „trzecim dniem\"; inkluzja dwóch znaków w Kanie (2,1–11 i 4,46–54 — „drugi znak\", jakby autor odhaczał ramę); klamra „matka Jezusa — godzina — niewiasta\" zarzucona aż po 19,25–27. Szczegóły mają fakturę naocznego wspomnienia: liczba i tworzywo stągwi, ich pojemność, tytuł ἀρχιτρίκλινος (starosta weselny), przytoczona dosłownie rubaszna maksyma o kolejności win — folklor weselny zapamiętany przez uczestnika. Zarazem autor pisze z dyskrecją teologa: sam cud dzieje się poza kadrem, między w. 8 a 9 — bo nie mechanika przemiany jest tematem, lecz jej sens; ta sama dyskrecja okryje później samo Zmartwychwstanie, którego również nikt nie zobaczy — tylko skutki. Jest i rys polemiczny à rebours: pierwszy znak Mesjasza nie dzieje się w Świątyni ani na pustyni, lecz w kuchni wiejskiego wesela — przeciw każdej religijności, która szuka Boga tylko w sacrum wydzielonym; zaraz potem (2,13–22) Jezus pójdzie do Świątyni i tam nie uczyni znaku, lecz proroczy gest sądu. Ewangelista ustawia te dwie sceny obok siebie świadomie: nowe wino w Kanie, bicz w przybytku — radość tam, gdzie przyjmują; oczyszczenie tam, gdzie handlują.",
      "children": []
     },
     {
      "type": "autor_bozy",
-     "title": "V. Autor Boży: co Duch Święty chce przekazać",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
      "body": "Duch Święty ustanawia w Kanie gramatykę znaków, którą czytelnik ma stosować do końca księgi — i do własnego życia: brak przedstawiony w modlitwie, słowo przyjęte w posłuszeństwie, materia podana ludzkimi rękami, przemiana dokonana dyskretnie, chwała objawiona, wiara pogłębiona. Ta sekwencja jest matrycą sakramentalną: Kościół od starożytności widział w wodzie przemienionej w wino zapowiedź Eucharystii (a w „godzinie\" — Krzyż, z którego ona wypływa); stągwie oczyszczeń napełnione po brzegi mówią zaś o losie całego Starego Przymierza — nie wylane, nie stłuczone, lecz przemienione. Duch zostawia też lekcję o Maryi: jej ostatnie słowo w Piśmie — „cokolwiek wam powie, czyńcie\" — jest całym jej orędziem; prawdziwa pobożność maryjna kończy się zawsze posłuszeństwem Jezusowi. I lekcję o Bogu: który na początek znaków wybrał ratowanie ludzkiej radości — nie nasze łzy są Mu potrzebne, lecz nasze wesele; „zachowałeś dobre wino aż dotąd\" jest zdaniem, które Duch pozwala odnieść do całej historii zbawienia i do każdej biografii — najlepsze u Boga nigdy nie jest za nami.",
      "children": []
     },
     {
      "type": "odniesienia",
-     "title": "VI. Sieć odniesień biblijnych",
+     "title": "Sieć odniesień biblijnych",
      "body": "",
      "children": [
       [
@@ -483,7 +483,7 @@
     },
     {
      "type": "recepcja",
-     "title": "VII. Znaczenie w historii i liturgii Kościoła",
+     "title": "Znaczenie w historii i liturgii Kościoła",
      "body": "",
      "children": [
       [
@@ -498,7 +498,7 @@
     },
     {
      "type": "patrystyka",
-     "title": "VIII. Komentarze Ojców Kościoła (catena patrum)",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
      "body": "Katena do pierwszego znaku — sześć głosów: gody uświęcone i przejście od litery do Ducha (Cyryl), godzina i posłuszeństwo Matki (Chryzostom, Ireneusz), sześć stągwi i epoki świata (Augustyn), cud jako przyspieszona natura (Augustyn), wino Stwórcy (Ireneusz).",
      "children": []
     },
@@ -879,7 +879,7 @@
      "Super Io., cap. II, lect. 1–2",
      [
       "section",
-      "III. Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
      ],
      "Wykład Kany: natura cudu, rola prośby Maryi, małżeństwo i sens duchowy sześciu stągwi.",
      "Super Evangelium S. Ioannis lectura"
@@ -889,7 +889,7 @@
      "The Gospel According to John I, ad loc.",
      [
       "section",
-      "II. Kontekst historyczny, językowy, kulturowy i religijny"
+      "Kontekst historyczny, językowy, kulturowy i religijny"
      ],
      "Analiza struktury znaku, semityzmu „co Mnie i tobie\" i mariologii Janowej (Niewiasta w 2,4 i 19,26).",
      "The Gospel According to John (Anchor Bible)"
@@ -899,7 +899,7 @@
      "Ewangelia według św. Jana I, ad loc.",
      [
       "section",
-      "VI. Sieć odniesień biblijnych"
+      "Sieć odniesień biblijnych"
      ],
      "Polskie omówienie tygodnia inauguracji i oblubieńczej symboliki Kany na tle prorockim.",
      "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
