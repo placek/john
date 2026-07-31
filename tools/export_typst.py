@@ -98,8 +98,9 @@ def aparat_typ(s):
 
 # ---- preambuła --------------------------------------------------------------
 PREAMBULA = r"""// PLIK GENEROWANY — python3 tools/export_typst.py. Nie edytować ręcznie.
-// Formatowanie standardowe; jedyne niestandardowe elementy są w interlinii.
-#let verba = rgb("#7a1f1f")   // verba Christi — tylko w interlinii
+#let verba    = rgb("#7a1f1f")   // verba Christi — tylko w interlinii
+#let naglowek = rgb("#1f5a8f")   // nagłówki — pogrubione, niebieskawe
+#let nrwers   = rgb("#c0392b")   // numery wersetów (interlinia i Aparat NA28)
 
 #set document(title: "Egzegeza Ewangelii świętego Jana")
 #set page(paper: "a4", margin: (x: 2.1cm, top: 2.4cm, bottom: 2cm),
@@ -113,6 +114,8 @@ PREAMBULA = r"""// PLIK GENEROWANY — python3 tools/export_typst.py. Nie edytow
   })
 #set text(font: "New Athena Unicode", size: 11pt, lang: "pl", hyphenate: true)
 #set par(justify: true)
+#show heading: set text(fill: naglowek, weight: "bold")
+#set table(stroke: 0.5pt + luma(70%))   // ramki tabel — szare, cienkie
 
 // karta interlinii — jedyne niestandardowe formatowanie w dokumencie:
 // greka / przekład / Strong / morfologia (MorphGNT)
@@ -123,7 +126,7 @@ PREAMBULA = r"""// PLIK GENEROWANY — python3 tools/export_typst.py. Nie edytow
     align(center, text(fill: luma(110), size: 6pt, s)),
     align(center, text(fill: luma(110), size: 6pt, m)),
   ))
-#let iv(n) = text(size: 8.5pt, weight: "bold", n)
+#let iv(n) = text(size: 8.5pt, weight: "bold", fill: nrwers, n)
 """
 
 
@@ -147,7 +150,7 @@ def tekst_paralelny(d):
     jest_lac = bool(lac)
     kol = "(auto, 1fr, 1fr, 1fr)" if jest_lac else "(auto, 1fr, 1fr)"
     out = [r'#block(breakable: true, above: 0.8em)[',
-           f'#table(columns: {kol}, stroke: none, inset: (x: 5pt, y: 3pt), align: top + left,']
+           f'#table(columns: {kol}, inset: (x: 5pt, y: 3pt), align: top + left,']
     rozdz = None
     for v in d["verses"]:
         klucz = (v["chapter"], v["verse_num"])
@@ -209,7 +212,7 @@ def aparat_na28(d, b):
     out = [r'#heading(level: 4)[Aparat NA28]']
     for a in wpisy:
         mk = f' {esc(a["marker"])}' if a["marker"] else ""
-        out.append(f'#strong[{vnum(d, a["chapter"], a["verse"])}]{mk} '
+        out.append(f'#iv({q(vnum(d, a["chapter"], a["verse"]))}){mk} '
                    f'{aparat_typ(a["text"])}\n')
     return "\n".join(out)
 
