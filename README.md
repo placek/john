@@ -11,6 +11,7 @@ skrypty w `tools/` są **wyłącznie** narzędziami, które z nich budują bazę
 ```
 data/                     ← źródła (pod kontrolą wersji)
   schema.sql              schemat bazy (DDL)
+  wprowadzenie.json      Wprowadzenie do całej księgi (autor, tekst, recepcja…)
   prolog.json            Prolog J 1,1-14 + katena Ojców
   continuation.json      J 1,15-51 (pięć perykop)
   kana.json              J 2,1-11 (Wesele w Kanie)
@@ -76,12 +77,15 @@ wszystkie trzy warstwy `words` oraz `commentaries`:
 Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 (`books`, `verses`, `lexemes`, `semitic`, `occurrences`, `works`, `themes`)
 oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
-`python3 tools/egzegeza_jana_build.py`) buduje bazę od zera, w kolejności
+`python3 tools/egzegeza_jana_build.py`) buduje bazę od zera — najpierw
+Wprowadzenie (meta + intro_section), potem perykopy w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
 dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd → ziarno`.
 
 ## Warstwy schematu
 
+0. **Wprowadzenie**: `intro_section` (+ klucze `intro_*` w `meta`) — otwiera
+   przeglądarkę (strona domyślna `#wprowadzenie`) i PDF (pierwszy rozdział)
 1. **Kanon**: `book`, `verse` (tekst grecki NA28 + przekład roboczy per werset)
 2. **Perykopa**: `pericope` (zakres, tytuł, motto, status opracowania)
 3. **Komentarz**: `section` (drzewo sekcji I–VII), `commentary_block` (zakres

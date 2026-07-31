@@ -329,6 +329,27 @@ def odniesienia(d):
     return "\n".join(out)
 
 
+def wprowadzenie():
+    """Wprowadzenie do całej księgi — pierwszy rozdział dokumentu."""
+    w = app.api_intro()
+    glowne = [s for s in w["sections"] if not s["parent_id"]]
+    dzieci = lambda sid: [s for s in w["sections"] if s["parent_id"] == sid]
+    out = [r'#pagebreak(weak: true)',
+           f'#heading(level: 1)[{esc(w["title"])}]']
+    if w.get("motto"):
+        out.append(f'#emph[{esc(w["motto"])}]\n')
+    if w.get("lead"):
+        out.append(md(w["lead"]))
+    for s in glowne:
+        out.append(f'#heading(level: 2)[{esc(s["title"])}]')
+        if s["body_md"]:
+            out.append(md(s["body_md"]))
+        for c in dzieci(s["id"]):
+            out.append(f'#heading(level: 3)[{esc(c["title"])}]')
+            out.append(md(c["body_md"]))
+    return "\n\n".join(out)
+
+
 def perykopa(pid):
     d = app.api_pericope(pid)
     h = d["head"]
@@ -371,6 +392,7 @@ def main():
     if not app.DB.exists():
         raise SystemExit(f"Brak bazy: {app.DB}\nUruchom najpierw: make build")
     czesci = naglowek_glowny()
+    czesci.append(wprowadzenie())
     for p in app.api_pericopes():
         czesci.append(perykopa(p["id"]))
     czesci.append(motywy())

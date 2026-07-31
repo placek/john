@@ -6,6 +6,7 @@ Buduje bazę egzegeza_jana.sqlite z plików źródłowych w katalogu ../data.
 Ten plik to WYŁĄCZNIE narzędzie — cała treść (schemat i dane) leży osobno:
 
     data/schema.sql        — schemat bazy (DDL)
+    data/wprowadzenie.json — Wprowadzenie do całej księgi (meta + intro_section)
     data/prolog.json       — Prolog (J 1,1-14) + katena
     data/continuation.json — J 1,15-51 (pięć perykop)
     data/kana.json         — J 2,1-11 (Wesele w Kanie)
@@ -58,7 +59,7 @@ PHASES = ["prolog.json", "continuation.json", "kana.json", "swiatynia.json",
 SECTION_I_TITLE = ("Tekst grecki (Nestle-Aland, wyd. 28) z przekładem "
                    "roboczym i analizą filologiczną")
 
-TABLES = ["book", "verse", "pericope", "section", "commentary_block",
+TABLES = ["intro_section", "book", "verse", "pericope", "section", "commentary_block",
           "analysis_unit", "lexeme", "semitic_term", "lexeme_semitic",
           "lexeme_occurrence", "scripture_ref", "work", "citation",
           "patristic_comment", "liturgical_use", "textual_note",
@@ -241,6 +242,21 @@ def insert_phase(cur, data):
         insert_pericope(cur, bundle, chapter, resolve)
 
 
+def insert_intro(cur, data):
+    """Wprowadzenie do całej księgi: meta (tytuł/motto/lead) + drzewo intro_section."""
+    intro = data["intro"]
+    for key in ("title", "motto", "lead"):
+        cur.execute("INSERT INTO meta(key, value) VALUES (?,?)",
+                    (f"intro_{key}", intro[key]))
+    for spos, s in enumerate(intro["sections"], start=1):
+        cur.execute("""INSERT INTO intro_section(parent_id, title, body_md, position)
+                       VALUES (NULL,?,?,?)""", (s["title"], s["body"].strip(), spos))
+        top = cur.lastrowid
+        for cpos, (ct, cb) in enumerate(s.get("children", []), start=1):
+            cur.execute("""INSERT INTO intro_section(parent_id, title, body_md, position)
+                           VALUES (?,?,?,?)""", (top, ct, cb.strip(), cpos))
+
+
 def build():
     if DB.exists():
         DB.unlink()
@@ -249,6 +265,7 @@ def build():
     con.executescript(SCHEMA.read_text(encoding="utf-8"))
     cur = con.cursor()
 
+    insert_intro(cur, load("wprowadzenie.json"))
     for name in PHASES:
         insert_phase(cur, load(name))
 

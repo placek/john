@@ -113,6 +113,19 @@ def oczysc_aparat(tekst):
 
 
 # ---------------------------------------------------------------- API
+def api_intro():
+    """Wprowadzenie do całej księgi: meta (tytuł/motto/lead) + drzewo sekcji."""
+    meta = {r["key"]: r["value"] for r in
+            q("SELECT key, value FROM meta WHERE key LIKE 'intro_%'")}
+    return {
+        "title": meta.get("intro_title", "Wprowadzenie"),
+        "motto": meta.get("intro_motto"),
+        "lead":  meta.get("intro_lead"),
+        "sections": q("""SELECT id, parent_id, title, body_md, position
+                         FROM intro_section ORDER BY parent_id IS NOT NULL, position"""),
+    }
+
+
 def api_pericopes():
     return q("""
         SELECT p.id, p.title, p.motto, p.status,
@@ -368,6 +381,7 @@ def api_themes():
 
 
 ROUTES = {
+    "/api/intro":     lambda p: api_intro(),
     "/api/pericopes": lambda p: api_pericopes(),
     "/api/pericope":  lambda p: api_pericope(int(p.get("id", ["1"])[0])),
     "/api/search":    lambda p: api_search(p.get("q", [""])[0]),

@@ -9,6 +9,7 @@ Wynik:         site/  — index.html + api/*.json, gotowe do hostingu statyczneg
 Zasada: żadnej drugiej implementacji API. Importujemy browser/app.py i wołamy
 te same funkcje, którymi odpowiada serwer — każdy endpoint zamienia się w plik:
 
+    /api/intro            → api/intro.json
     /api/pericopes        → api/pericopes.json
     /api/pericope?id=N    → api/pericope-N.json
     /api/lexicon          → api/lexicon.json
@@ -70,6 +71,7 @@ def main():
     API.mkdir(parents=True)
 
     perykopy = app.api_pericopes()
+    zapisz(API / "intro.json", app.api_intro())
     zapisz(API / "pericopes.json", perykopy)
     for p in perykopy:
         zapisz(API / f"pericope-{p['id']}.json", app.api_pericope(p["id"]))
