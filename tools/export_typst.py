@@ -108,6 +108,8 @@ PREAMBULA = r"""// PLIK GENEROWANY — python3 tools/export_typst.py. Nie edytow
 #let gold   = rgb("#7a7a7a")
 #let verba  = rgb("#7a1f1f")   // verba Christi — tradycja czerwonej litery
 #let latina = rgb("#555555")
+// greka krojem New Athena Unicode (newathu.ttf; typst compile --font-path .)
+#let grfont = ("New Athena Unicode", "New Computer Modern")
 
 #set document(title: "Egzegeza Ewangelii świętego Jana")
 #set page(paper: "a4", margin: (x: 2.1cm, top: 2.4cm, bottom: 2cm), fill: tlo,
@@ -140,7 +142,7 @@ PREAMBULA = r"""// PLIK GENEROWANY — python3 tools/export_typst.py. Nie edytow
 // karta interlinii: greka / przekład / Strong / morfologia (MorphGNT)
 #let iw(gr, pl, s, m, red: false) = box(inset: (x: 1.5pt, y: 1pt), baseline: 0pt,
   stack(dir: ttb, spacing: 4.5pt,
-    align(center, text(fill: if red { verba } else { greek }, size: 9.5pt, weight: "medium", gr)),
+    align(center, text(fill: if red { verba } else { greek }, font: grfont, size: 9.5pt, weight: "medium", gr)),
     align(center, text(size: 7pt, pl)),
     align(center, text(fill: gold, size: 5.4pt, s)),
     align(center, text(fill: muted, size: 5.4pt, m)),
@@ -189,7 +191,7 @@ def tekst_paralelny(d):
         nr = (str(v["verse_num"]) if d["head"]["chapter_start"] == d["head"]["chapter_end"]
               else f'{v["chapter"]},{v["verse_num"]}')
         cele = [f'text(fill: gold, size: 7.5pt)[{esc(nr)}]',
-                f'text(fill: greek, size: 9.5pt, {q(bez_sigli(v["text_greek"]))})',
+                f'text(fill: greek, font: grfont, size: 9.5pt, {q(bez_sigli(v["text_greek"]))})',
                 f'text(size: 9.5pt, {q(v["text_working_pl"] or "")})']
         if jest_lac:
             cele.append(f'text(fill: latina, size: 9pt, style: "italic", {q(lac.get(klucz, ""))})')
@@ -255,7 +257,7 @@ def aparat_krytyczny(d, b):
            r'#text(fill: gold, size: 8pt, weight: "bold", tracking: 0.05em)[APARAT KRYTYCZNY]']
     for t in noty:
         out.append(r'#v(0.2em)')
-        out.append(f'#text(fill: greek, weight: "bold", size: 9pt)[{esc(t["lemma_text"])}] '
+        out.append(f'#text(fill: greek, font: grfont, weight: "bold", size: 9pt)[{esc(t["lemma_text"])}] '
                    f'#pill([w. {esc(vnum(d, t["chapter"], t["verse_num"]))} · {esc(t["issue"])}])')
         if t["readings_md"]:
             out.append(md(t["readings_md"]))
@@ -276,13 +278,13 @@ def analiza(d):
         if il:
             out.append(il)
         else:
-            out.append(f'#text(fill: greek, size: 10pt, {q(bez_sigli(b["greek_text"]))})\n')
+            out.append(f'#text(fill: greek, font: grfont, size: 10pt, {q(bez_sigli(b["greek_text"]))})\n')
         if b["working_translation_pl"]:
             out.append(f'#block(above: 0.5em, below: 0.6em, text(style: "italic", fill: muted)[„{esc(b["working_translation_pl"])}”])')
         for u in [u for u in d["units"] if u["block_id"] == b["id"]]:
             if u["phrase_greek"]:
                 gl = f' #emph[— {esc(u["phrase_translation_pl"])}]' if u["phrase_translation_pl"] else ""
-                out.append(f'#text(fill: greek, weight: "bold")[{esc(u["phrase_greek"])}]{gl}\n')
+                out.append(f'#text(fill: greek, font: grfont, weight: "bold")[{esc(u["phrase_greek"])}]{gl}\n')
             out.append(md(u["body_md"]))
         # katena Ojców przypięta do etykiety bloku
         for c in catena.get(b["label"], []):

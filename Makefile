@@ -72,8 +72,8 @@ $(TYP): $(DB) tools/export_typst.py
 ## złóż PDF z reprezentacji Typst (wymaga typst — patrz shell.nix)
 pdf: $(PDF)
 
-$(PDF): $(TYP)
-	$(TYPST) compile $(TYP) $(PDF)
+$(PDF): $(TYP) newathu.ttf
+	$(TYPST) compile --font-path . $(TYP) $(PDF)
 
 ## usuń wygenerowaną bazę, stronę statyczną i eksport Typst
 clean:

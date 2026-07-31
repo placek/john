@@ -395,18 +395,21 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 self.end_headers()
                 self.wfile.write(payload)
             return
-        if parsed.path == "/egzegeza.pdf":
-            pdf = ROOT / "egzegeza.pdf"
-            if not pdf.exists():
-                self.send_error(404, "Brak egzegeza.pdf — złóż: make pdf")
+        # zasoby spoza browser/ (korzeń repo): PDF i krój grecki
+        for sciezka, typ in (("/egzegeza.pdf", "application/pdf"),
+                             ("/newathu.ttf", "font/ttf")):
+            if parsed.path == sciezka:
+                plik = ROOT / sciezka.lstrip("/")
+                if not plik.exists():
+                    self.send_error(404, f"Brak {plik.name}")
+                    return
+                dane = plik.read_bytes()
+                self.send_response(200)
+                self.send_header("Content-Type", typ)
+                self.send_header("Content-Length", str(len(dane)))
+                self.end_headers()
+                self.wfile.write(dane)
                 return
-            dane = pdf.read_bytes()
-            self.send_response(200)
-            self.send_header("Content-Type", "application/pdf")
-            self.send_header("Content-Length", str(len(dane)))
-            self.end_headers()
-            self.wfile.write(dane)
-            return
         if parsed.path == "/":
             self.path = "/index.html"
         return super().do_GET()

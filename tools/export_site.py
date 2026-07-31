@@ -91,6 +91,11 @@ def main():
     if pdf.exists():
         shutil.copy(pdf, SITE / "egzegeza.pdf")
 
+    # krój grecki (New Athena Unicode) używany przez @font-face w index.html
+    font = ROOT / "newathu.ttf"
+    if font.exists():
+        shutil.copy(font, SITE / "newathu.ttf")
+
     rozmiar = sum(f.stat().st_size for f in SITE.rglob("*") if f.is_file())
     print(f"OK -> {SITE}  ({len(perykopy)} perykop, {rozmiar} bajtów)")
 

@@ -31,7 +31,7 @@ jobs:
         run: |
           python3 tools/egzegeza_jana_build.py
           python3 tools/export_typst.py
-          typst compile egzegeza.typ egzegeza.pdf
+          typst compile --font-path . egzegeza.typ egzegeza.pdf
           python3 tools/export_site.py
       - uses: actions/upload-pages-artifact@v3
         with:
