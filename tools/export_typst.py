@@ -225,7 +225,8 @@ def interlinia_bloku(d, b):
                 ", red: true" if w["red"] else ""))
         linie.append("#par(justify: false, leading: 1.8em, spacing: 1.35em)[\n  "
                      + " ".join(karty) + "\n]")
-    return "\n".join(linie)
+    # cała interlinia jako jeden blok z większym marginesem u góry i u dołu
+    return "#block(breakable: true, above: 1.6em, below: 1.6em)[\n" + "\n".join(linie) + "\n]"
 
 
 def aparat_na28(d, b):
