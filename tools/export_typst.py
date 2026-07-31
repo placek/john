@@ -249,6 +249,10 @@ def analiza(d):
             out.append(f'{q(bez_sigli(b["greek_text"]))}\n')
         if b["working_translation_pl"]:
             out.append(f'#emph[„{esc(b["working_translation_pl"])}”]\n')
+        # aparat tuż po tekście (interlinia + przekład), przed egzegezą
+        for cz in (aparat_na28(d, b), aparat_krytyczny(d, b)):
+            if cz:
+                out.append(cz)
         jednostki = [u for u in d["units"] if u["block_id"] == b["id"]]
         if jednostki:
             out.append(r'#heading(level: 4)[Egzegeza]')
@@ -267,10 +271,6 @@ def analiza(d):
                 zrodlo += ", " + esc(c["locus"])
             out.append(f'#strong[{esc(c["author"])}] #emph[{zrodlo}]\n')
             out.append(md(c["body_md"]))
-        # aparat krytyczny pod blokiem: NA28 (źródłowy) + noty własne
-        for cz in (aparat_na28(d, b), aparat_krytyczny(d, b)):
-            if cz:
-                out.append(cz)
     return "\n\n".join(out)
 
 
