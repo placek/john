@@ -538,15 +538,18 @@ const KSIEGI = ['Rdz', 'Wj', 'Kpł', 'Lb', 'Pwt', 'Joz', 'Sdz', 'Rt', '1 Sm', '2
 const REF_RE = new RegExp('(?<![\\p{L}\\d])(?:(' +
   KSIEGI.slice().sort((a, b) => b.length - a.length).join('|') +
   ')[ \\u00a0](\\d+(?:\\(\\d+\\))?,\\d+(?:[-–.]\\d+)*)' +      // 1=księga 2=adres
-  '|(ww?)\\.[ \\u00a0]?(\\d+(?:[-–]\\d+)?))', 'gu');            // 3=w/ww 4=wersety
+  '|(ww?)\\.[ \\u00a0]?(\\d+(?:[-–]\\d+)?)' +                  // 3=w/ww 4=wersety
+  '|((?:2[01]|1\\d|[1-9]),\\d{1,3}(?:[-–.]\\d+)*))', 'gu');    // 5=goły adres (rozdz. 1–21)
 
 // Kontekst bieżącej perykopy (księga + rozdział) — do rozwinięcia
 // odsyłaczy typu „w. 11–12" na pełny adres. null poza widokiem perykopy.
 let KTX = null;
 
 // Zamienia adresy biblijne w gotowym HTML na linki, nie ruszając już
-// istniejących znaczników ani wnętrza linków.
-function linkifyBiblii(html) {
+// istniejących znaczników ani wnętrza linków. `ksiegaBazowa` (np. 'J')
+// włącza linkowanie gołych adresów „rozdział,werset" jako danej księgi —
+// używane tam, gdzie kontekst jest jednoznacznie Janowy (np. Motywy).
+function linkifyBiblii(html, ksiegaBazowa) {
   let wLinku = 0;
   return html.split(/(<[^>]+>)/).map(seg => {
     if (seg.startsWith('<')) {
@@ -555,9 +558,10 @@ function linkifyBiblii(html) {
       return seg;
     }
     if (wLinku > 0) return seg;
-    return seg.replace(REF_RE, (m, ksiega, adres, w, wersety) => {
+    return seg.replace(REF_RE, (m, ksiega, adres, w, wersety, goly) => {
       if (ksiega) return linkBiblii(`${ksiega} ${adres}`, m);
       if (w && KTX) return linkBiblii(`${KTX.book} ${KTX.chapter},${wersety}`, m);
+      if (goly && ksiegaBazowa) return linkBiblii(`${ksiegaBazowa} ${goly}`, m);
       return m;
     });
   }).join('');
@@ -1058,7 +1062,7 @@ async function pokazMotywy() {
     <div class="proza">${t.map(x => {
       const ps = x.pericopes || [];   // starsze /api/themes nie ma tego pola
       return `<div class="sekcja"><h3>${esc(x.name)}</h3>
-      ${mdRef(x.description_md)}
+      ${linkifyBiblii(md(x.description_md), 'J')}
       ${ps.length ? `<div class="motyw-perykopy">
         <span class="etykieta">Perykopy (${ps.length})</span>
         ${ps.map(pp => `<a class="perykopa-pigulka" href="#${esc((pp.siglum || '').replace(/\s+/g, '+'))}"
