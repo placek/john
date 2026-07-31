@@ -12,6 +12,7 @@ więc treść jest identyczna z przeglądarką. Dokument stara się odwzorować 
 strony (paleta Solarized, układ sekcji). Komentarz jest justowany; interlinia
 zawiera numery Stronga i morfologię (kod MorphGNT).
 """
+import html.parser
 import pathlib
 import re
 import sys
@@ -64,6 +65,35 @@ def q(s):
 def morf_kod(kod):
     """Kompaktowy kod MorphGNT: bez końcowych myślników."""
     return (kod or "").rstrip("-")
+
+
+def vnum(d, ch, v):
+    return f"{ch},{v}" if d["head"]["chapter_start"] != d["head"]["chapter_end"] else str(v)
+
+
+class _AparatTyp(html.parser.HTMLParser):
+    """Aparat NA28 przychodzi z app.py jako okrojony HTML (sup, em, span.ap-gr…).
+    Spłaszczamy go do zwykłego tekstu — świadkowie zostają w całości, tylko bez
+    wynoszenia numerów do indeksu górnego. Nie emitujemy wywołań funkcji, więc
+    nawias notacji (np. „(β)") nie połączy się w łańcuch wywołań Typst."""
+
+    def __init__(self):
+        super().__init__()
+        self.buf = []
+
+    def handle_data(self, data):
+        # aparat to nie markdown — gwiazdka świadka (ℵ*, D*, B*) jest dosłowna
+        self.buf.append(esc(data).replace("*", "\\*"))
+
+    def wynik(self):
+        return " ".join("".join(self.buf).split())
+
+
+def aparat_typ(s):
+    p = _AparatTyp()
+    p.feed(s or "")
+    p.close()
+    return p.wynik()
 
 
 # ---- preambuła --------------------------------------------------------------
@@ -184,6 +214,45 @@ def interlinia_bloku(d, b):
     return "\n".join(linie)
 
 
+def aparat_na28(d, b):
+    """Aparat krytyczny NA28 (z bazy źródłowej) dla wersetów bloku."""
+    od = (b["chapter_start"], b["verse_start"])
+    az = (b["chapter_end"], b["verse_end"])
+    wpisy = [a for a in d.get("aparat", []) if od <= (a["chapter"], a["verse"]) <= az]
+    if not wpisy:
+        return ""
+    out = [r'#block(breakable: true, above: 0.6em, inset: (left: 6pt), stroke: (left: 1pt + linia))[',
+           r'#text(fill: gold, size: 8pt, weight: "bold", tracking: 0.05em)[APARAT NA28]']
+    for a in wpisy:
+        mk = f' #text(fill: gold, size: 8pt)[{esc(a["marker"])}]' if a["marker"] else ""
+        out.append(f'#par(leading: 0.5em, spacing: 0.55em)[#text(fill: gold, size: 7pt)'
+                   f'[{vnum(d, a["chapter"], a["verse"])}]{mk} '
+                   f'#text(size: 8pt)[{aparat_typ(a["text"])}]]')
+    out.append("]")
+    return "\n".join(out)
+
+
+def aparat_krytyczny(d, b):
+    """Noty krytyki tekstu (własne: warianty, interpunkcja) dla wersetów bloku."""
+    od = (b["chapter_start"], b["verse_start"])
+    az = (b["chapter_end"], b["verse_end"])
+    noty = [t for t in d.get("textual", []) if od <= (t["chapter"], t["verse_num"]) <= az]
+    if not noty:
+        return ""
+    out = [r'#block(breakable: true, above: 0.6em, inset: (left: 6pt), stroke: (left: 1pt + linia))[',
+           r'#text(fill: gold, size: 8pt, weight: "bold", tracking: 0.05em)[APARAT KRYTYCZNY]']
+    for t in noty:
+        out.append(r'#v(0.2em)')
+        out.append(f'#text(fill: greek, weight: "bold", size: 9pt)[{esc(t["lemma_text"])}] '
+                   f'#pill([w. {esc(vnum(d, t["chapter"], t["verse_num"]))} · {esc(t["issue"])}])')
+        if t["readings_md"]:
+            out.append(md(t["readings_md"]))
+        if t["assessment_md"]:
+            out.append(md(t["assessment_md"]))
+    out.append("]")
+    return "\n".join(out)
+
+
 def analiza(d):
     out = [r'#heading(level: 2)[Analiza wers po wersie]']
     catena = {}
@@ -213,6 +282,10 @@ def analiza(d):
                        f'#text(size: 8.5pt, fill: muted, style: "italic")[{zrodlo}]\n')
             out.append("  " + md(c["body_md"]))
             out.append("]")
+        # aparat krytyczny pod blokiem: NA28 (źródłowy) + noty własne
+        for cz in (aparat_na28(d, b), aparat_krytyczny(d, b)):
+            if cz:
+                out.append(cz)
     return "\n\n".join(out)
 
 
@@ -255,16 +328,16 @@ def odniesienia(d):
         return ""
     out = [r'#heading(level: 2)[Odniesienia i motywy]']
     if d.get("refs"):
-        out.append('#table(columns: (auto, auto, 1fr), stroke: (y: 0.5pt + linia), '
-                   'inset: (x: 5pt, y: 3pt), align: top + left,')
-        out.append('  table.header(text(fill: gold, size: 8pt)[Miejsce], '
+        out.append('#block(breakable: true)[#table(columns: (auto, auto, 1fr), '
+                   'stroke: (y: 0.5pt + linia), inset: (x: 5pt, y: 3pt), align: top + left,')
+        out.append('  table.header(repeat: true, text(fill: gold, size: 8pt)[Miejsce], '
                    'text(fill: gold, size: 8pt)[Relacja], text(fill: gold, size: 8pt)[Uwaga]),')
         for r in d["refs"]:
             out.append("  " + ", ".join([
                 f'text(fill: greek, weight: "bold", size: 9pt)[{esc(r["target_label"])}]',
                 f'text(size: 8.5pt, fill: muted)[{esc(r["relation"])}]',
                 f'text(size: 9pt)[{md(r["note_md"]) or ""}]']) + ",")
-        out.append(")")
+        out.append(")]")
     if d.get("themes"):
         pastylki = " ".join(f'#pill([{esc(t)}])' for t in d["themes"])
         out.append(f'#block(above: 0.8em)[{pastylki}]')
