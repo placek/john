@@ -127,7 +127,7 @@ PREAMBULA = r"""// PLIK GENEROWANY — python3 tools/export_typst.py. Nie edytow
 
 // karta interlinii: greka / przekład / Strong / morfologia (MorphGNT)
 #let iw(gr, pl, s, m, red: false) = box(inset: (x: 1.5pt, y: 1pt), baseline: 0pt,
-  stack(dir: ttb, spacing: 1.2pt,
+  stack(dir: ttb, spacing: 4.5pt,
     align(center, text(fill: if red { verba } else { greek }, size: 9.5pt, weight: "medium", gr)),
     align(center, text(size: 7pt, pl)),
     align(center, text(fill: gold, size: 5.4pt, s)),
@@ -355,7 +355,7 @@ def perykopa(pid):
     intro = next((s for s in d["sections"]
                   if s["section_type"] == "filologia" and s["parent_id"] is None), None)
     out = [r'#pagebreak(weak: true)']
-    out.append(f'#sig({q(siglum)}) #h(0.6em) #text(size: 8pt, fill: muted)[{esc(h["status"].replace("_", " "))}]')
+    out.append(f'#sig({q(siglum)})')
     out.append(f'#heading(level: 1)[{esc(h["title"])}]')
     if h["motto"]:
         out.append(f'#text(size: 11pt, fill: muted, style: "italic")[{esc(h["motto"])}]\n')
