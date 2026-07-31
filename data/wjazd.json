@@ -1,0 +1,981 @@
+{
+ "books": [
+  [
+   "Sdz",
+   "Księga Sędziów",
+   "ST",
+   7
+  ]
+ ],
+ "verses": {
+  "chapter": 12,
+  "items": [
+   [
+    12,
+    "Τῇ ἐπαύριον ὁ ὄχλος πολὺς ὁ ἐλθὼν εἰς τὴν ἑορτήν, ἀκούσαντες ὅτι ἔρχεται ὁ Ἰησοῦς εἰς Ἱεροσόλυμα",
+    "Nazajutrz wielki tłum, który przyszedł na święto, usłyszawszy, że Jezus idzie do Jerozolimy,"
+   ],
+   [
+    13,
+    "ἔλαβον τὰ βαΐα τῶν φοινίκων καὶ ἐξῆλθον εἰς ὑπάντησιν αὐτῷ καὶ ἐκραύγαζον· ὡσαννά· εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου, καὶ ὁ βασιλεὺς τοῦ Ἰσραήλ·",
+    "wziął gałązki palm i wyszedł Mu na spotkanie, i wołali: Hosanna! Błogosławiony, który przychodzi w imię Pańskie — i Król Izraela!"
+   ],
+   [
+    14,
+    "εὑρὼν δὲ ὁ Ἰησοῦς ὀνάριον ἐκάθισεν ἐπʼ αὐτό, καθώς ἐστιν γεγραμμένον·",
+    "A Jezus, znalazłszy osiołka, usiadł na nim — jak jest napisane:"
+   ],
+   [
+    15,
+    "μὴ φοβοῦ, θυγάτηρ Σιών· ἰδοὺ ὁ βασιλεύς σου ἔρχεται, καθήμενος ἐπὶ πῶλον ὄνου·",
+    "Nie bój się, córo Syjonu! Oto Król twój przychodzi, siedzący na źrebięciu oślicy."
+   ],
+   [
+    16,
+    "ταῦτα οὐκ ἔγνωσαν αὐτοῦ οἱ μαθηταὶ τὸ πρῶτον, ἀλλʼ ὅτε ἐδοξάσθη Ἰησοῦς τότε ἐμνήσθησαν ὅτι ταῦτα ἦν ἐπʼ αὐτῷ γεγραμμένα καὶ ταῦτα ἐποίησαν αὐτῷ·",
+    "Tego zrazu nie zrozumieli Jego uczniowie; lecz gdy Jezus został uwielbiony, wtedy przypomnieli sobie, że to było o Nim napisane i że to Mu uczynili."
+   ],
+   [
+    17,
+    "ἐμαρτύρει οὖν ὁ ὄχλος ὁ ὢν μετʼ αὐτοῦ ὅτε τὸν Λάζαρον ἐφώνησεν ἐκ τοῦ μνημείου καὶ ἤγειρεν αὐτὸν ἐκ νεκρῶν·",
+    "Świadczył więc tłum, który był z Nim, gdy wywołał Łazarza z grobu i wskrzesił go z martwych."
+   ],
+   [
+    18,
+    "διὰ τοῦτο καὶ ὑπήντησεν αὐτῷ ὁ ὄχλος, ὅτι ἤκουσαν τοῦτο αὐτὸν πεποιηκέναι τὸ σημεῖον·",
+    "Dlatego też tłum wyszedł Mu naprzeciw, bo usłyszeli, że On uczynił ten znak."
+   ],
+   [
+    19,
+    "οἱ οὖν Φαρισαῖοι εἶπαν πρὸς ἑαυτούς· θεωρεῖτε ὅτι οὐκ ὠφελεῖτε οὐδέν· ἴδε ὁ κόσμος ὀπίσω αὐτοῦ ἀπῆλθεν·",
+    "Faryzeusze zaś mówili między sobą: Widzicie, że nic nie osiągacie — oto świat poszedł za Nim."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "βαΐον",
+   "baion",
+   "rzeczownik",
+   "gałązka palmowa — hapaks całego NT (12,13), zapożyczenie koptyjskie; pleonazm τὰ βαΐα τῶν φοινίκων (gałązki palm palmowych) zdradza wagę rekwizytu: palma była znakiem zwycięstwa i narodowego triumfu (1 Mch 13,51) — tłum wita zwycięzcę"
+  ],
+  [
+   "φοῖνιξ",
+   "foiniks",
+   "rzeczownik",
+   "palma daktylowa — drzewo zwycięstwa i sprawiedliwego (Ps 92,13); w NT tylko tu i w Ap 7,9, gdzie wielki tłum zbawionych stoi z palmami w rękach: liturgia nieba dziedziczy rekwizyt bramy jerozolimskiej"
+  ],
+  [
+   "ὡσαννά",
+   "hosanna",
+   "wykrzyknik",
+   "hosanna — transkrypcja hebr. hosza-na (Ps 118,25: „zbaw, prosimy!\"); pierwotnie błaganie, w procesji Sukkot i przy wjeździe — aklamacja; Kościół wziął ją do każdej Mszy w Sanctus: błaganie, które stało się uwielbieniem"
+  ],
+  [
+   "ὀνάριον",
+   "onarion",
+   "rzeczownik",
+   "osiołek (zdrobnienie) — hapaks NT (12,14); Jan celowo zdrabnia: Król Izraela na oślątku, nie na rumaku; jedno słowo niesie całą teologię królewskości bez przemocy"
+  ],
+  [
+   "πῶλος",
+   "polos",
+   "rzeczownik",
+   "źrebię — w cytacie z Za 9,9 (12,15); u synoptyków słowo głównej narracji (Mk 11,2-7), u Jana tylko w proroctwie: narracja mówi zdrobnieniem, Pismo — słowem Zachariasza"
+  ],
+  [
+   "ὑπάντησις",
+   "hypantesis",
+   "rzeczownik",
+   "wyjście na spotkanie — termin ceremonialnego powitania władcy wizytującego miasto (12,13.18; por. Mt 25,6 — wyjście naprzeciw oblubieńca); tłum sprawuje wobec Jezusa protokół paruzji cesarskiej, nie wiedząc, jak trafnie wybiera słownik"
+  ],
+  [
+   "ὠφελέω",
+   "ofeleo",
+   "czasownik",
+   "osiągać, zyskiwać — westchnienie faryzeuszów: nic nie osiągacie (12,19); ten sam czasownik w 6,63 (ciało nic nie pomaga): Janowa ironia bilansów — rachuby ludzkie wobec dzieł Bożych zawsze wychodzą na zero"
+  ],
+  [
+   "εὐλογέω",
+   "eulogeo",
+   "czasownik",
+   "błogosławić — εὐλογημένος ὁ ἐρχόμενος (12,13, z Ps 118,26): formuła powitania pielgrzymów u bram świątyni, odniesiona do JEDNEGO przychodzącego; w ustach tłumu staje się aklamacją mesjańską, w liturgii — Benedictus qui venit każdej Eucharystii"
+  ]
+ ],
+ "semitic": [
+  [
+   "הוֹשַׁע־נָא",
+   "hosza-na",
+   "hbr",
+   "zbaw, prosimy — błagalny okrzyk z Ps 118,25, rytualnie wołany w procesjach Sukkot z lulawem w dłoni (stąd siódmy dzień święta zwie się Hoszana Rabba); przy wjeździe tłum przenosi okrzyk Namiotów na Paschę — i na Osobę: zbawienie ma imię i wjeżdża na osiołku"
+  ],
+  [
+   "בַּת־צִיּוֹן",
+   "bat cijon",
+   "hbr",
+   "córa Syjonu — personifikacja Jerozolimy jako dziewczyny wyglądającej króla (So 3,14; Za 9,9); Janowy cytat otwiera ją słowami „nie bój się\" — zszytymi z Sofoniasza — bo król, który nadchodzi, rozbroił samą kategorię strachu: przybywa bez armii"
+  ],
+  [
+   "לוּלָב",
+   "lulaw",
+   "hbr",
+   "lulav — wiązanka palmy, mirtu i wierzby noszona w procesjach Sukkot (Kpł 23,40); machano nią przy śpiewie Hallelu, zwłaszcza przy Hosanna; palmy przy wjeździe to gest z liturgii Namiotów przeniesiony na przybywającego Mesjasza — lud sam składa nowe święto"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "ὡσαννά",
+   "hosza-na",
+   "transkrypcja, nie przekład: Kościół zachował okrzyk w brzmieniu hebrajskim (jak amen i alleluja), bo aklamacji się nie tłumaczy — dziedziczy się ją; każda Msza śpiewa u bram ołtarza to, co Jerozolima u bram miasta"
+  ],
+  [
+   "βαΐον",
+   "lulaw",
+   "gałązki wjazdu są lulawem Sukkot w rękach tłumu paschalnego: rekwizyt jednego święta użyty w drugim mówi, że wszystkie święta Izraela zbiegają się w Przychodzącym"
+  ]
+ ],
+ "occurrences": [
+  [
+   "βαΐον",
+   13,
+   "βαΐα"
+  ],
+  [
+   "φοῖνιξ",
+   13,
+   "φοινίκων"
+  ],
+  [
+   "ὡσαννά",
+   13,
+   "ὡσαννά"
+  ],
+  [
+   "ὀνάριον",
+   14,
+   "ὀνάριον"
+  ],
+  [
+   "πῶλος",
+   15,
+   "πῶλον"
+  ],
+  [
+   "ὑπάντησις",
+   13,
+   "ὑπάντησιν"
+  ],
+  [
+   "ὑπάντησις",
+   18,
+   "ὑπήντησεν"
+  ],
+  [
+   "ὠφελέω",
+   19,
+   "ὠφελεῖτε"
+  ],
+  [
+   "εὐλογέω",
+   13,
+   "εὐλογημένος"
+  ],
+  [
+   "βασιλεύς",
+   13,
+   "βασιλεὺς"
+  ],
+  [
+   "βασιλεύς",
+   15,
+   "βασιλεύς"
+  ],
+  [
+   "κραυγάζω",
+   13,
+   "ἐκραύγαζον"
+  ],
+  [
+   "ὄχλος",
+   12,
+   "ὄχλος"
+  ],
+  [
+   "ὄχλος",
+   17,
+   "ὄχλος"
+  ],
+  [
+   "δοξάζω",
+   16,
+   "ἐδοξάσθη"
+  ],
+  [
+   "μαρτυρέω",
+   17,
+   "ἐμαρτύρει"
+  ],
+  [
+   "μνημεῖον",
+   17,
+   "μνημείου"
+  ],
+  [
+   "ἐγείρω",
+   17,
+   "ἤγειρεν"
+  ],
+  [
+   "σημεῖον",
+   18,
+   "σημεῖον"
+  ],
+  [
+   "κόσμος",
+   19,
+   "κόσμος"
+  ],
+  [
+   "φωνή",
+   17,
+   "ἐφώνησεν"
+  ],
+  [
+   "ὄνομα",
+   13,
+   "ὀνόματι"
+  ]
+ ],
+ "works": [
+  [
+   "św. Andrzej z Krety",
+   "Oratio in ramos palmarum",
+   "Mowa na Niedzielę Palmową",
+   "VIII",
+   "patrystyka"
+  ]
+ ],
+ "themes": [
+  [
+   "królewskość Jezusa (βασιλεύς) — tron krzyża",
+   "Nić królewska czwartej Ewangelii: Natanael wyznaje Króla Izraela (1,49), tłum chce Go porwać i obwołać królem (6,15) — a On ucieka; przy wjeździe przyjmuje aklamację, ale na osiołku (12,13-15); przed Piłatem definiuje królestwo nie z tego świata (18,33-37), a tytuł winy na krzyżu staje się intronizacją w trzech językach (19,19-22). Król objawia się w pełni dopiero tam, gdzie nie można Go już pomylić z Cezarem."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 12,
+    "vs": 12,
+    "ce": 12,
+    "ve": 19,
+    "title": "Wjazd do Jerozolimy",
+    "motto": "Benedictus qui venit in nomine Domini (Błogosławiony, który przychodzi w imię Pańskie)",
+    "status": "ukonczona",
+    "position": 29
+   },
+   "intro": "Nazajutrz po wieczerzy w Betanii dzieje się rzecz, której Jezus przez całą Ewangelię unikał: tłum obwołuje Go królem — a On tym razem nie ucieka. Gdy po rozmnożeniu chleba chcieli Go porwać i uczynić królem, oddalił się na górę sam (6,15); teraz, sześć dni przed Paschą, gdy wielki tłum pielgrzymów wychodzi Mu naprzeciw z palmami i Hosanna na ustach, przyjmuje aklamację — bo godzina nadeszła i królestwo może już być ogłoszone bez ryzyka pomyłki: znalazłszy OSIOŁKA, usiadł na nim. Ten jeden rekwizyt prostuje całą scenę: król, owszem — ale taki, jakiego widział Zachariasz: pokorny, bez rydwanu i łuku, na źrebięciu oślicy; król, przed którym córa Syjonu nie musi się bać. Jan przyznaje uczciwie, że wtedy nie rozumieli tego nawet uczniowie — dopiero po uwielbieniu pamięć złożyła Pismo i wydarzenie w jedno. Scena ma też drugi silnik: świadectwo tłumu Łazarzowego — ci, którzy widzieli grób otwarty, opowiadają, i dlatego miasto wychodzi z palmami. A na końcu, jak zwykle u Jana, głos przegranych rachmistrzów: faryzeusze mówią między sobą — nic nie osiągacie, oto świat poszedł za Nim. Chcieli powiedzieć: wszystko stracone; powiedzieli — bezwiednie, jak Kajfasz — czystą prawdę Ewangelii: za Przychodzącym pójdzie świat.",
+   "struktura": "Perykopa jest zbudowana z trzech scen i jednego zdania-komentarza, spiętych ruchem naprzeciw. Scena pierwsza (w. 12-13): inicjatywa należy do tłumu — pielgrzymi paschalni (nie mieszkańcy: ὁ ἐλθὼν εἰς τὴν ἑορτήν) biorą palmy i WYCHODZĄ na spotkanie (ὑπάντησις — protokół powitania władcy), wołając Ps 118,25-26 z dopowiedzeniem, które psalm przekracza: I KRÓL IZRAELA. Aklamacja jest liturgicznie hybrydowa — okrzyk i gest z Sukkot (Hosanna, lulaw) przeniesione na Paschę — i politycznie zapalna: palma była emblematem machabejskiego triumfu i monet powstańczych. Scena druga (w. 14-15): odpowiedź Jezusa — bez słowa; jedynym Jego „przemówieniem\" jest znak: ZNALAZŁSZY osiołka (Jan skraca synoptyczną logistykę do jednego imiesłowu — inicjatywa i wykładnia należą do Jezusa), usiadł na nim. Cytat mieszany (So 3,14-16 + Za 9,9) tłumaczy gest: nie bój się, córo Syjonu — oto Król twój przychodzi na źrebięciu; Jezus przyjmuje tytuł, korygując jego treść: królewskość bez militarnej grozy, przed którą nie trzeba drżeć. Zdanie-komentarz (w. 16): ewangelista odsłania warsztat pamięci Kościoła — uczniowie zrozumieli scenę dopiero PO uwielbieniu; Pismo, wydarzenie i pamięć potrzebowały Ducha, by się złożyć (por. 2,22; 14,26): Jan uczciwie datuje własną egzegezę na „po Passze\". Scena trzecia (w. 17-19): mechanika tłumu — świadczyli ci, którzy widzieli wywołanie Łazarza z grobu, i DLATEGO wyszli następni; łańcuch świadectwa działa (znak → świadkowie → nowi wychodzący), a jego bilans wystawiają przeciwnicy: nic nie osiągacie — oto świat (κόσμος!) poszedł za Nim. W ustach faryzeuszów hiperbola rezygnacji; w księdze, w której „świat\" jest stawką (1,29; 3,16-17), mimowolne proroctwo o zasięgu krzyża — bezpośrednio przed przyjściem Greków (12,20), którzy je zaczną spełniać.",
+   "blocks": [
+    {
+     "label": "w. 12–13",
+     "units": [
+      [
+       "ὁ ὄχλος πολὺς ὁ ἐλθὼν εἰς τὴν ἑορτήν",
+       "tłum pielgrzymów wychodzi naprzeciw",
+       "Inicjatorem wjazdu nie jest Jezus — jest tłum; i to tłum szczególny: pielgrzymi przybyli na święto (ὁ ἐλθὼν εἰς τὴν ἑορτήν), a więc Galilejczycy i diaspora, nie jerozolimska starszyzna. Czasownik jest ceremonialny: ἐξῆλθον εἰς ὑπάντησιν — wyszli na spotkanie, jak miasto wychodziło naprzeciw wizytującemu władcy (tak w papirusach o adventus cesarza; por. Mt 25,6 i 1 Tes 4,17, gdzie ten sam słownik obsłuży paruzję). Jan buduje scenę z dwóch procesji: od Betanii nadchodzi Jezus ze świadkami wskrzeszenia, z bram miasta wypływa fala pielgrzymów — Izrael idzie na spotkanie swego Króla, nie wiedząc, że za pięć dni ta sama liturgia powitania obróci się w liturgię odrzucenia. Kościół czyta tę dwuznaczność co roku, gdy procesja z palmami przechodzi w czytanie Męki."
+      ],
+      [
+       "τὰ βαΐα τῶν φοινίκων",
+       "palmy: liturgia i polityka",
+       "Gałązki palmowe są rekwizytem podwójnie naładowanym. Liturgicznie: to lulaw Święta Namiotów (Kpł 23,40) — machano nim przy śpiewie Hallelu, zwłaszcza przy wersecie Hosanna; tłum przenosi więc gest z Sukkot na Paschę, sam komponując nowe święto dla Przychodzącego (Jan już raz pokazał tę tęsknotę Namiotów za Jezusem — rozdziały 7-8). Politycznie: palma była emblematem narodowego zwycięstwa — z palmami witano Szymona Machabeusza po zdobyciu twierdzy (1 Mch 13,51), palma widniała na monetach powstańczych, a po klęsce Rzym wybije szyderczą Iudaea capta z płaczącą kobietą pod palmą. Tłum wita więc wyzwoliciela w stylistyce machabejskiej — i właśnie tę stylistykę Jezus za chwilę skoryguje osiołkiem. Apokalipsa odda palmom ich sens ostateczny: wielki tłum zbawionych z palmami w rękach (Ap 7,9) — zwycięstwo, owszem, ale odniesione przez Baranka."
+      ],
+      [
+       "ὡσαννά· εὐλογημένος ὁ ἐρχόμενος … καὶ ὁ βασιλεὺς τοῦ Ἰσραήλ",
+       "aklamacja i jej nadwyżka",
+       "Okrzyk tłumu to Ps 118,25-26 — psalm procesji świątecznych, śpiewany u bram świątyni nad pielgrzymami: hosza-na (zbaw, prosimy!) i „błogosławiony przychodzący w imię Pańskie\" (pierwotnie: każdy pielgrzym). Ale tłum dodaje do psalmu nadwyżkę, której w tekście nie ma: KAI ὁ βασιλεὺς τοῦ Ἰσραήλ — i Król Izraela. To dopowiedzenie zmienia liturgię w proklamację: nie witają pielgrzyma — witają Mesjasza królewskiego. Tytuł wraca z 1,49 (Natanael: Ty jesteś Król Izraela) jak klamra otwarcia i domknięcia publicznej drogi. Jan zapisuje aklamację bez cudzysłowu ironii: tłum mówi prawdę — tyle że prawdę, której treść objawi dopiero krzyż z tytułem w trzech językach (19,19-20). Kościół w Sanctus każdej Mszy powtarza dokładnie ten okrzyk — Benedictus qui venit — bo każda Eucharystia jest bramą Jerozolimy: Przychodzący przychodzi, a lud wychodzi Mu naprzeciw z błogosławieństwem, które jest zarazem błaganiem o zbawienie."
+      ]
+     ],
+     "greek": "Τῇ ἐπαύριον ὁ ὄχλος πολὺς ὁ ἐλθὼν εἰς τὴν ἑορτήν, ἀκούσαντες ὅτι ἔρχεται ὁ Ἰησοῦς εἰς Ἱεροσόλυμα ἔλαβον τὰ βαΐα τῶν φοινίκων καὶ ἐξῆλθον εἰς ὑπάντησιν αὐτῷ καὶ ἐκραύγαζον· ὡσαννά· εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου, καὶ ὁ βασιλεὺς τοῦ Ἰσραήλ·",
+     "transl": "Nazajutrz wielki tłum, który przyszedł na święto, usłyszawszy, że Jezus idzie do Jerozolimy, wziął gałązki palm i wyszedł Mu na spotkanie, i wołali: Hosanna! Błogosławiony, który przychodzi w imię Pańskie — i Król Izraela!",
+     "cs": 12,
+     "vs": 12,
+     "ce": 12,
+     "ve": 13
+    },
+    {
+     "label": "w. 14–16",
+     "units": [
+      [
+       "εὑρὼν δὲ ὁ Ἰησοῦς ὀνάριον ἐκάθισεν ἐπʼ αὐτό",
+       "odpowiedź bez słów: osiołek",
+       "Jezus nie wygłasza przy wjeździe ani jednego słowa — Jego mową jest rekwizyt. Tam, gdzie synoptycy rozpisują logistykę (dwóch uczniów, wieś naprzeciw, „Pan go potrzebuje\"), Jan stawia jeden imiesłów: ZNALAZŁSZY (εὑρών) — jakby chciał powiedzieć: nie szukajcie mechaniki, patrzcie na wykładnię. Zdrobnienie ὀνάριον (osiołek, oślątko — hapaks NT) jest teologią w morfologii: na aklamację królewską z podtekstem machabejskim Jezus odpowiada wierzchowcem, na którym nie da się prowadzić szarży. Nie odrzuca tytułu króla — odrzuca jego wyobrażenie: koń jest zwierzęciem wojny (Za 9,10 zaraz po wjeździe króla zapowiada: zniszczy rydwany i konie bojowe), osioł — zwierzęciem pokoju, sędziów i Dawidowego dworu (1 Krl 1,33: Salomon na mulicy ojca jedzie na namaszczenie). Król prawdziwy przyjeżdża tak, żeby córa Syjonu nie musiała się bać."
+      ],
+      [
+       "μὴ φοβοῦ, θυγάτηρ Σιών",
+       "cytat zszyty: Sofoniasz i Zachariasz",
+       "Formuła cytatu jest Janowym majstersztykiem szycia: „NIE BÓJ SIĘ, córo Syjonu\" nie pochodzi z Zachariasza (tam: „raduj się wielce, wykrzykuj!\") — to So 3,14-16: nie bój się, Syjonie... Król Izraela, Pan, jest pośród ciebie. Jan zszywa dwa proroctwa w jedno, wymieniając radość na nieustraszoność, bo strach jest dokładnie tym, co ten Król unieważnia: przybywa bez armii, więc Jego nadejście niczym nie grozi — nikomu prócz śmierci. Reszta wersetu skraca Za 9,9 (opuszczając „sprawiedliwy i zwycięski, pokorny\"): zostaje samo sedno — oto Król twój przychodzi, siedzący na źrebięciu oślicy. Zachariaszowy kontekst dopowiada to, czego Jan nie musi cytować: ten król „ogłosi pokój narodom, a Jego władztwo od morza do morza\" — uniwersalizm, który za chwilę zapuka do drzwi w postaci Greków (12,20)."
+      ],
+      [
+       "ὅτε ἐδοξάσθη Ἰησοῦς τότε ἐμνήσθησαν",
+       "pamięć po uwielbieniu",
+       "Werset 16 jest jednym z najcenniejszych wyznań warsztatowych Ewangelii: uczniowie NIE ROZUMIELI sceny, w której uczestniczyli — dopiero gdy Jezus został uwielbiony (Janowe ἐδοξάσθη: krzyż i zmartwychwstanie jako jedno wywyższenie), przypomnieli sobie, że „to było o Nim napisane i to Mu uczynili\". Ewangelista odsłania mechanizm powstania własnej księgi: wydarzenie + Pismo + pamięć prowadzona przez Ducha (14,26: przypomni wam wszystko; por. 2,22 — identyczna struktura po oczyszczeniu świątyni). Objawienie nie jest reportażem na żywo — jest zrozumieniem po Passze; i Jan ma odwagę przyznać, że sam wtedy nie widział tego, co teraz pisze. Dla teologii natchnienia i dla każdej wspólnoty wierzącej to zdanie jest kartą pokory i nadziei: nie musisz rozumieć sceny, w której stoisz — zrozumienie przyjdzie po uwielbieniu; wierność wyprzedza egzegezę."
+      ]
+     ],
+     "greek": "εὑρὼν δὲ ὁ Ἰησοῦς ὀνάριον ἐκάθισεν ἐπʼ αὐτό, καθώς ἐστιν γεγραμμένον· μὴ φοβοῦ, θυγάτηρ Σιών· ἰδοὺ ὁ βασιλεύς σου ἔρχεται, καθήμενος ἐπὶ πῶλον ὄνου· ταῦτα οὐκ ἔγνωσαν αὐτοῦ οἱ μαθηταὶ τὸ πρῶτον, ἀλλʼ ὅτε ἐδοξάσθη Ἰησοῦς τότε ἐμνήσθησαν ὅτι ταῦτα ἦν ἐπʼ αὐτῷ γεγραμμένα καὶ ταῦτα ἐποίησαν αὐτῷ·",
+     "transl": "A Jezus, znalazłszy osiołka, usiadł na nim — jak jest napisane: Nie bój się, córo Syjonu! Oto Król twój przychodzi, siedzący na źrebięciu oślicy. Tego zrazu nie zrozumieli Jego uczniowie; lecz gdy Jezus został uwielbiony, wtedy przypomnieli sobie, że to było o Nim napisane i że to Mu uczynili.",
+     "cs": 12,
+     "vs": 14,
+     "ce": 12,
+     "ve": 16
+    },
+    {
+     "label": "w. 17–19",
+     "units": [
+      [
+       "ἐμαρτύρει οὖν ὁ ὄχλος",
+       "łańcuch świadectwa",
+       "Jan dopowiada mechanikę entuzjazmu: za wjazdem stoi Betania. Świadczył tłum, który BYŁ przy grobie, gdy wywołał Łazarza — i przez ich opowieść wyszedł naprzeciw tłum drugi, który „usłyszał, że uczynił ten znak\". Struktura jest łańcuchowa: znak → naoczni świadkowie → słowo świadectwa → nowi wychodzący naprzeciw. To miniatura całej misji Kościoła (por. 4,39-42: Samarytanie — od słowa kobiety do własnego spotkania; 20,29-31: księga jako świadectwo dla niewidzących): między znakiem a wiarą tłumów zawsze stoi ktoś, kto opowiada. Imperfectum ἐμαρτύρει (świadczyli, wciąż na nowo) maluje dni między wskrzeszeniem a wjazdem wypełnione opowiadaniem — Jerozolima wyszła z palmami, bo Betania nie milczała."
+      ],
+      [
+       "ἴδε ὁ κόσμος ὀπίσω αὐτοῦ ἀπῆλθεν",
+       "mimowolne proroctwo przegranych",
+       "Scenę zamyka głos faryzeuszów mówiących MIĘDZY SOBĄ (πρὸς ἑαυτούς — Jan lubi podsłuchiwać narady przeciwników): widzicie, że nic nie osiągacie (οὐκ ὠφελεῖτε οὐδέν — bilans zerowy wszystkich uchwał, obław i poleceń z 11,57) — oto ŚWIAT poszedł za Nim. Chcieli westchnąć hiperbolą rezygnacji; wypowiedzieli — jak Kajfasz przed nimi — proroctwo. Κόσμος jest w tej księdze słowem najwyższej stawki: świat, który Bóg umiłował (3,16), świat, którego grzech gładzi Baranek (1,29), świat, który Syn pociągnie do siebie wywyższony (12,32). Zdanie przegranych rachmistrzów jest więc nagłówkiem następnej sceny: zaraz przyjdą GRECY (12,20-21) — pierwsza fala tego świata, który poszedł za Nim — i właśnie ich przyjście przekona Jezusa, że nadeszła godzina uwielbienia. Jan kończy perykopę wjazdu tam, gdzie zaczyna się jej prawdziwy zasięg: nie Jerozolima jest miastem tego Króla, lecz kosmos."
+      ]
+     ],
+     "greek": "ἐμαρτύρει οὖν ὁ ὄχλος ὁ ὢν μετʼ αὐτοῦ ὅτε τὸν Λάζαρον ἐφώνησεν ἐκ τοῦ μνημείου καὶ ἤγειρεν αὐτὸν ἐκ νεκρῶν· διὰ τοῦτο καὶ ὑπήντησεν αὐτῷ ὁ ὄχλος, ὅτι ἤκουσαν τοῦτο αὐτὸν πεποιηκέναι τὸ σημεῖον· οἱ οὖν Φαρισαῖοι εἶπαν πρὸς ἑαυτούς· θεωρεῖτε ὅτι οὐκ ὠφελεῖτε οὐδέν· ἴδε ὁ κόσμος ὀπίσω αὐτοῦ ἀπῆλθεν·",
+     "transl": "Świadczył więc tłum, który był z Nim, gdy wywołał Łazarza z grobu i wskrzesił go z martwych. Dlatego też tłum wyszedł Mu naprzeciw, bo usłyszeli, że On uczynił ten znak. Faryzeusze zaś mówili między sobą: Widzicie, że nic nie osiągacie — oto świat poszedł za Nim.",
+     "cs": 12,
+     "vs": 17,
+     "ce": 12,
+     "ve": 19
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Cztery tła: adventus — protokół powitania władcy; palma między liturgią Sukkot a polityką machabejską; Psalm 118 i procesje Hallelu; osioł królewski w tradycji Izraela i wjazdy synoptyków.",
+     "children": [
+      [
+       "Adventus: jak witano władców",
+       "Świat grecko-rzymski znał precyzyjny ceremoniał adventus: na wieść o zbliżaniu się władcy lub wodza miasto wychodziło mu naprzeciw (ὑπάντησις, occursus) za bramy — z gałęziami, okrzykami i aklamacjami — po czym wprowadzało go uroczyście do środka; tak witano Aleksandra, tak Attalosa, tak namiestników i cesarzy. Słownik Janowej sceny (ἐξῆλθον εἰς ὑπάντησιν, aklamacja, wjazd) jest słownikiem tego protokołu — pielgrzymi sprawują wobec Galilejczyka na osiołku liturgię cesarskiego adventus. NT użyje tych samych słów o paruzji (Mt 25,6; 1 Tes 4,17: na spotkanie Pana): wjazd do Jerozolimy jest ikoną i zadatkiem ostatecznego Przyjścia — z tą Janową różnicą, że pierwszy adventus prowadzi nie na tron, lecz na krzyż, który okaże się tronem."
+      ],
+      [
+       "Palma: lulaw, Machabeusze i moneta Iudaea capta",
+       "Palma prowadzi w tej scenie podwójne życie. Liturgiczne: gałązki palmy należą do lulawu Święta Namiotów (Kpł 23,40; Ne 8,15) — machano nimi przy Hallelu, szczególnie przy wołaniu hosza-na, tak że siódmy dzień Sukkot zwie się do dziś Hoszana Rabba; gest tłumu jest więc gestem z innego święta, spontanicznie przeniesionym na Przychodzącego. Polityczne: palmą fetowano triumfy machabejskie (1 Mch 13,51: wejście Szymona do twierdzy „z palmami i pieśniami\"; 2 Mch 10,7 — rededykacja świątyni), palma zdobiła monety Machabeuszów i obu powstań przeciw Rzymowi, a po roku 70 Rzym odpowiedział serią Iudaea capta: Judea jako kobieta płacząca pod własną palmą. Tłum z palmami wita więc wyzwoliciela w stylistyce narodowej insurekcji — i dokładnie ten rejestr Jezus przestroi osiołkiem. Ap 7,9 odda palmie sens ostateczny: zwycięstwo, ale Baranka."
+      ],
+      [
+       "Psalm 118: Hallel u bram",
+       "Ps 118 zamyka Hallel (Ps 113-118), śpiewany w wielkie święta; wersety 25-26 były dialogiem procesji z kapłanami u bram świątyni: hosza-na — zbaw, prosimy! — i odpowiedź błogosławieństwa nad przychodzącymi w imię Pańskie. Psalm niesie też werset o kamieniu odrzuconym przez budujących, który stał się głowicą węgła (118,22) — NT uczyni z niego klucz pasyjny (Mk 12,10; Dz 4,11; 1 P 2,7). Tłum śpiewa więc u bram miasta psalm, którego dalszego ciągu nie przeczuwa: aklamowany dziś Przychodzący jest kamieniem, którego budujący właśnie postanowili się pozbyć — a odrzucenie uczyni Go węgłem nowej świątyni. Liturgia chrześcijańska scala oba ogniwa: Sanctus śpiewa Benedictus qui venit w każdej Mszy — u progu anafory, w której Odrzucony-Uwielbiony przychodzi ponownie."
+      ],
+      [
+       "Osioł królewski i wjazdy synoptyków",
+       "Osioł nie jest w Izraelu zwierzęciem wzgardy, lecz starą kawalerią królewską czasów pokoju: na oślętach jeżdżą sędziowie (Sdz 5,10; 10,4), na mulicy Dawida jedzie Salomon na swoje namaszczenie (1 Krl 1,33-40), a błogosławieństwo Judy wiąże władcę z oślęciem i winnym krzewem (Rdz 49,10-11). Za 9,9-10 kodyfikuje tę tradycję: król pokorny na źrebięciu oślicy, który zniszczy rydwan i konia bojowego i OGŁOSI POKÓJ NARODOM. Synoptycy rozpisują wjazd szeroko (znalezienie osła na słowo Jezusa, płaszcze na drodze, Łk: płacz nad miastem i kamienie, które wołać będą); Jan skraca wszystko do εὑρών i cytatu — jego wkładem własnym jest natomiast wiązanie wjazdu z Łazarzem (świadectwo tłumu z Betanii jako motor sceny) i komentarz o pamięci po uwielbieniu. Ta redakcyjna oszczędność ma cel: u Jana wjazd nie jest odrębnym triumfem, lecz przedsionkiem godziny — dlatego zaraz po nim przyjdą Grecy i padnie słowo o ziarnie."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Cztery węzły: królewskość Chrystusa i jej paradoks; pokora jako sposób objawienia mocy; pamięć Kościoła jako miejsce teologiczne; aklamacja liturgiczna — od Hosanna tłumu do Sanctus Mszy.",
+     "children": [
+      [
+       "Rex pacificus — królewskość bez grozy",
+       "Tomasz pyta, czy Chrystusowi przysługuje królewskość, i odpowiada: tak, z tytułu unii hipostatycznej i z tytułu odkupienia — ale jej wykonywanie (regnum) jest duchowe: nie znosi władz ziemskich, lecz je przekracza (S. Th. III, q. 59; por. Quas primas Piusa XI, encyklika Chrystusa Króla, karmiąca się tą sceną). Wjazd jest dogmatem w obrazie: Jezus PRZYJMUJE tytuł Króla Izraela — nie jest on pomyłką tłumu — ale wybiera insygnium, które uniemożliwia militarne odczytanie: oślę zamiast konia, „nie bój się\" zamiast „drżyjcie\". Królewskość Chrystusa nie jest konkurencją dla cesarstw w ich własnej lidze — jest innym rodzajem władzy: taką, która rozbraja strach, bo niczego nie zdobywa przemocą; jej pełna definicja padnie przed Piłatem (18,36-37), a intronizacja dokona się na krzyżu. Kościół, ilekroć sięgał po konia zamiast osiołka, przegrywał własną królewskość."
+      ],
+      [
+       "Humilitas ut potentia — pokora jako język mocy",
+       "Paradoks osiołka sięga głębiej niż taktyka: to objawieniowa zasada Wcielenia. Bóg objawia wszechmoc najczyściej w uniżeniu (Flp 2,6-11), bo moc okazywana groźbą zawsze może być pomylona z przemocą — dopiero moc, która niczym nie grozi, jest czytelna jako miłość. Augustyn ujmował to kontrastem dwóch pochodów: cesarz jedzie na rydwanie, poprzedzany przez legiony — Chrystus na oślęciu, poprzedzany przez dzieci i śpiew; a przecież to drugie przetrwało pierwsze. Tomistycznie: pokora nie jest zaprzeczeniem wielkości, lecz jej właściwą miarą (S. Th. II-II, q. 161: pokora porządkuje dążenie do wielkości wedle prawdy); Chrystus na osiołku nie udaje małego — pokazuje, jak wygląda prawdziwie wielki, gdy nie musi niczego udowadniać. Stąd reguła dla wszelkiej misji: Ewangelia głoszona z konia przestaje być tą Ewangelią."
+      ],
+      [
+       "Memoria Ecclesiae — pamięć jako miejsce teologiczne",
+       "Werset 16 podnosi pamięć do rangi organu Objawienia: uczniowie zrozumieli scenę dopiero po uwielbieniu, gdy Duch złożył wydarzenie z Pismem (14,26). Teologia nazwie to sensem pełniejszym (sensus plenior) i dozrewaniem rozumienia w Tradycji: Objawienie zamknęło się w Chrystusie, ale jego rozumienie rośnie — „wzrasta bowiem zrozumienie tak rzeczy, jak słów przekazanych\" (Dei Verbum 8, wprost w duchu tego wersetu). Dla egzegezy płynie stąd reguła pokory: natchniona lektura wydarzeń nie jest reportażem, lecz anamnezą prowadzoną przez Ducha; dla duchowości — reguła cierpliwości: sceny własnego życia też czyta się wstecz, po ich „uwielbieniu\", i nie trzeba rozumieć procesji, w której się właśnie idzie. Kościół cały jest wspólnotą, która ἐμνήσθη — przypomina sobie w Duchu, co znaczyło to, przy czym stała."
+      ],
+      [
+       "Hosanna in excelsis — od aklamacji tłumu do Sanctus",
+       "Liturgia przechowała z tej sceny więcej niż wspomnienie: przechowała sam okrzyk. Sanctus każdej Mszy łączy trishagion Izajasza (6,3) z aklamacją wjazdu: Benedictus qui venit in nomine Domini, hosanna in excelsis — Kościół u progu anafory ustawia się dokładnie tam, gdzie tłum u bram Jerozolimy: naprzeciw Przychodzącego. Teologicznie znaczy to, że każda Eucharystia jest adventus: Król wjeżdża — pod postaciami pokorniejszymi jeszcze niż oślę — a zgromadzenie wychodzi Mu naprzeciw z tym samym błaganiem-uwielbieniem. Hosza-na zachowuje przy tym swoją dwuwarstwowość: jest wołaniem „zbaw!\" i już-dziękczynieniem za zbawienie; liturgia nie wybiera między błaganiem a chwałą, bo Przychodzący jest jednocześnie Oczekiwanym i Obecnym. Kto śpiewa Sanctus, stoi w bramie Jerozolimy — oby nie z tłumem, który w piątek zmieni okrzyk."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "children": [],
+     "body": "Autor komponuje wjazd inaczej niż synoptycy i każda różnica jest tezą. Po pierwsze, odwraca inicjatywę: to tłum wychodzi pierwszy, Jezus odpowiada — wjazd jest u Jana sceną przyjęcia i korekty aklamacji, nie zorganizowanego proroczego happeningu; autor pokazuje Mesjasza, który nie reżyseruje entuzjazmu, lecz go prostuje. Po drugie, wszczepia wjazd w łańcuch Łazarza: świadectwo naocznych z Betanii jest jawnie nazwanym motorem sceny (w. 17-18) — dla wspólnoty Janowej to lekcja o sile opowiadanego świadectwa: miasta wychodzą z palmami tam, gdzie ktoś opowiedział o otwartym grobie. Po trzecie, dopisuje metakomentarz o pamięci (w. 16), odsłaniając własny warsztat: księga, którą czytasz, powstała z przypominania po uwielbieniu — autor wpisuje teorię swojej Ewangelii do jej wnętrza. Po czwarte, oddaje puentę przeciwnikom: „świat poszedł za Nim\" w ustach faryzeuszów jest czwartym już w tej sekcji mimowolnym proroctwem wrogów (po Kajfaszu 11,50, po „przyjdą Rzymianie\" 11,48, po pytaniu o diasporę 7,35) — ulubiona Janowa figura: prawda Boża mówi także przez tych, którzy jej nie chcą. Wreszcie autor pisze scenę pod liturgię swojej wspólnoty: aklamacja z dopiskiem „Król Izraela\", cytat zszyty pod „nie bój się\", zdrobnienie osiołka — wszystko jest gotowe do śpiewu i katechezy; nie przypadkiem to właśnie Janowy wjazd Wschód czyta w Niedzielę Palmową."
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "children": [],
+     "body": "Duch Święty objawia w tej scenie gramatykę przychodzenia Boga. Prawda pierwsza: Bóg przychodzi — ἔρχεται jest czasownikiem sceny i całej księgi (Przychodzący, ὁ ἐρχόμενος, to tytuł mesjański); wiara nie jest wspinaczką człowieka, lecz wyjściem naprzeciw Temu, który już jest w drodze. Prawda druga: przychodzi tak, żeby nie trzeba było się bać — „nie bój się, córo Syjonu\" jest kluczem, który Duch wszył w cytat; każde przyjście Boga, od Betlejem po paruzję, nosi ten sam podpis: bez grozy, na oślęciu, w postaci, którą można przyjąć albo odrzucić bez przymusu — bo tylko taka moc jest czytelna jako miłość. Prawda trzecia: rozumienie przychodzi po uwielbieniu — Duch uczy Kościół cierpliwości hermeneutycznej: stoisz w procesjach, których sens pozna się dopiero z tamtej strony Paschy; wierność wyprzedza zrozumienie i wolno iść w pochodzie, którego się jeszcze nie pojmuje. Prawda czwarta: świadectwo porusza świat — łańcuch od grobu Łazarza do palm Jerozolimy jest modelem misji: nie propaganda, lecz opowieść naocznych o tym, co Bóg uczynił; i prawda piąta, ukryta w westchnieniu przegranych: świat pójdzie za Nim — zasięg tego wjazdu jest kosmiczny, a bramy Jerozolimy były tylko pierwszymi z bram, przez które Król na osiołku zamierza wjechać. Ostatnią bramą jest serce czytelnika — i przed nią też staje bez armii."
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "Ps 118,25-26 → w. 13 (cytat)",
+       "Hosza-na i „błogosławiony przychodzący w imię Pańskie\" — dialog procesji Hallelu u bram świątyni, przeniesiony przez tłum na jednego Przychodzącego; psalm niesie w zanadrzu kamień odrzucony (118,22), który stanie się kluczem Męki."
+      ],
+      [
+       "Za 9,9-10 → w. 15 (cytat)",
+       "Oto Król twój przychodzi, pokorny, na źrebięciu oślicy — proroctwo króla pokoju, który zniszczy rydwany i ogłosi pokój narodom aż po krańce ziemi; Jan cytuje początek, a kontekst (uniwersalizm!) spełnią nadchodzący Grecy."
+      ],
+      [
+       "So 3,14-16 → w. 15 (cytat zszyty)",
+       "Nie bój się, Syjonie! Król Izraela, Pan, jest pośród ciebie — Janowe „mē fobou\" pochodzi stąd, nie z Zachariasza: ewangelista zszywa proroctwa, by nadać wjazdowi ton rozbrojonego strachu."
+      ],
+      [
+       "1 Mch 13,51; 2 Mch 10,7 → w. 13",
+       "Palmy triumfu machabejskiego — wejście Szymona do twierdzy i rededykacja świątyni z palmami: polityczny rejestr rekwizytu, który tłum przykłada do Jezusa, a Jezus koryguje osiołkiem."
+      ],
+      [
+       "Kpł 23,40; Ne 8,15 → w. 13",
+       "Lulaw Święta Namiotów — liturgiczne źródło gestu palm; tłum przenosi obrzęd Sukkot na Paschę, komponując mimowolnie nowe święto Przychodzącego."
+      ],
+      [
+       "Rdz 49,10-11; Sdz 5,10; 1 Krl 1,33-40 → w. 14",
+       "Berło Judy z oślęciem u winnego krzewu, sędziowie na oślicach, Salomon na mulicy Dawida jadący na namaszczenie — rodowód osła jako wierzchowca władzy pokojowej; wjazd Jezusa jest intronizacją w tym właśnie stylu."
+      ],
+      [
+       "Mk 11,1-10; Mt 21,1-11; Łk 19,28-40 → całość",
+       "Synoptyczne wjazdy: logistyka znalezienia osła, płaszcze, u Mt cytat Za z dwoma zwierzętami, u Łk płacz nad miastem i kamienie, które wołać będą — Janowa redakcja skraca wszystko do znaku i cytatu, a dodaje Łazarza i pamięć po uwielbieniu."
+      ],
+      [
+       "J 6,15 → w. 13-14 (kontrast)",
+       "Chcieli Go porwać i obwołać królem — a Jezus uszedł na górę: tamta odmowa i to przyjęcie mierzą się nawzajem; królewskość można było przyjąć dopiero wtedy, gdy godzina krzyża wykluczyła pomyłkę co do jej natury."
+      ],
+      [
+       "J 2,22; 14,26 → w. 16",
+       "Gdy zmartwychwstał, przypomnieli sobie — identyczna struktura pamięci po uwielbieniu; Duch-Paraklet jako nauczyciel anamnezy: teoria powstania tej Ewangelii zapisana w jej wnętrzu."
+      ],
+      [
+       "Ap 7,9 → w. 13",
+       "Wielki tłum, którego nikt nie mógł policzyć... z palmami w rękach — liturgia nieba dziedziczy rekwizyt wjazdu: palma wraca jako znak zwycięstwa Baranka i tych, którzy przyszli z wielkiego ucisku."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Liturgia",
+       "Niedziela Palmowa jest najstarszą udokumentowaną procesją chrześcijaństwa: już Egeria (ok. 384 r.) opisuje jerozolimski pochód z Góry Oliwnej z gałązkami palm i oliwek, z dziećmi i śpiewem Benedictus qui venit. W rycie rzymskim Ewangelią procesji jest w roku B właśnie J 12,12-16; Wschód czyta Janowy wjazd (12,1-18) jako Ewangelię liturgii Niedzieli Palmowej — u Greków to Kyriake ton Baion, Niedziela Palm (βαΐα z 12,13 weszło do nazwy święta!), u Słowian Niedziela Kwietna z wierzbami zamiast palm. Aklamacja wjazdu weszła na stałe do Sanctus każdej anafory — Benedictus qui venit in nomine Domini, hosanna in excelsis — czyniąc z Eucharystii codzienny adventus; a palmy święcone w Niedzielę Palmową wracają rok później jako popiół Środy Popielcowej: liturgia sama komentuje kruchość tłumnych entuzjazmów. Hymnografia sceny jest przebogata — od Gloria, laus et honor Teodulfa z Orleanu (IX w.), śpiewanego w procesji od tysiąclecia, po wschodni kondakion „na tronie w niebie, na oślęciu na ziemi\"."
+      ],
+      [
+       "Recepcja teologiczna",
+       "Wjazd na osiołku stał się w teologii ikoną królewskości paradoksalnej: od Ojców przez Quas primas po współczesną teologię polityczną scena pracuje wszędzie tam, gdzie Kościół musi odróżnić panowanie Chrystusa od panowań tego świata — „król na osiołku\" jest formułą krytyki wszelkiego mariażu Ewangelii z przemocą; Chesterton nazwał osła najbardziej wywyższonym ze zwierząt, a teologia pokoju czyta Za 9,9-10 z J 12 jako biblijny rozbrojeniowy manifest. Werset 16 zrobił osobną karierę w teologii Objawienia i hermeneutyce: „pamięć po uwielbieniu\" cytują traktaty o Tradycji (Dei Verbum 8) i o sensus plenior — Jan dostarczył Kościołowi teorii własnej lektury Pisma. „Świat poszedł za Nim\" bywa mottem misjologii (mimowolne proroctwa wrogów jako figura skuteczności Ewangelii), a procesja palmowa — od Egerii po dziś — pozostaje najmasowniejszą inscenizacją biblijną chrześcijaństwa: raz w roku Kościół całą swoją cielesnością wchodzi w scenę, o której czyta."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "children": [],
+     "body": "Katena wjazdu śpiewa i koryguje naraz: Andrzej z Krety każe rozścielać przed Chrystusem samych siebie zamiast płaszczy; Chryzostom mierzy pokorę Króla i płytkość tłumów; Augustyn wykłada osiołka i palmy alegorycznie; Cyryl pilnuje wypełnienia proroctw i pamięci uczniów; Beda zbiera dla średniowiecza z akcentem na dwóch pochodach — jerozolimskim i eschatologicznym."
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "children": [],
+     "body": "Intencją perykopy jest nauczyć Kościół rozpoznawać swojego Króla — i nie pomylić Go z żadnym innym. Scena jest zbudowana jak korekta w ruchu: tłum przynosi wszystko, co ma najlepszego — psalm, palmy, tytuł mesjański — i wszystko to jest prawdziwe, ale niedoczytane; Jezus niczego nie odrzuca i wszystko prostuje jednym gestem: osiołek. Król — tak; ale taki, przed którym „nie bój się\" jest pierwszym słowem powitania; zwycięzca — tak, ale jego palmy okażą się palmami męczenników z Apokalipsy, nie machabejskich insurekcji; Przychodzący w imię Pańskie — tak, i dlatego droga tego wjazdu prowadzi nie na tron Heroda, lecz na Golgotę, gdzie tytuł „Król\" zawiśnie w trzech językach nad głową Ukrzyżowanego. Ewangelista dopisuje do sceny dwie lekcje dla wspólnoty wszystkich czasów: o pamięci — że sens procesji rozumie się dopiero po uwielbieniu, więc wolno iść, nie rozumiejąc; i o świadectwie — że miasta wychodzą z palmami tam, gdzie ktoś opowiedział o pustym grobie. A puentę oddaje przeciwnikom, bo taka jest Janowa ekonomia prawdy: „oto świat poszedł za Nim\". Od dwóch tysięcy lat to westchnienie przegranych sprawdza się co niedzielę, na wszystkich kontynentach, w każdym Sanctus: świat rzeczywiście idzie za Nim — a On wciąż przyjeżdża na osiołku."
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "children": [],
+     "body": "Tekst grecki wszystkich 8 wersetów złożono programowo ze źródła prawdy (db.sqlite, words, księga 500), ze zdjęciem znaków aparatu, i zweryfikowano co do znaku. Trzy noty tekstualne (w. 13, 15, 19) oparto na aparacie NA28 z tabeli commentaries. Przekład roboczy własny, dosłowny; ὡσαννά pozostawiono w transkrypcji (aklamacji się nie tłumaczy), a ὀνάριον oddano zdrobnieniem „osiołek\" za morfologią oryginału. Cytat w. 15 opisano jako zszycie So 3,14-16 (mē fobou) z Za 9,9 — za zgodną obserwacją krytyki. Tytuły sekcji wedle nowej konwencji repozytorium (bez numeracji rzymskiej). Podział na trzy bloki za dramaturgią (aklamacja — odpowiedź znakiem i cytatem — mechanika świadectwa i bilans przeciwników). Katena sześciu głosów; dodano dzieło: Andrzej z Krety, Oratio in ramos palmarum (Godzina czytań Niedzieli Palmowej). Perykopa obejmuje w. 12-19; Grecy i mowa o ziarnie (12,20-36) stanowią następną jednostkę."
+    }
+   ],
+   "refs": [
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Ps",
+     118,
+     25,
+     118,
+     26,
+     "Ps 118,25-26",
+     "cytat",
+     "Hosanna i błogosławiony Przychodzący — dialog procesji Hallelu przeniesiony na Mesjasza."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Za",
+     9,
+     9,
+     9,
+     10,
+     "Za 9,9-10",
+     "cytat",
+     "Król pokorny na źrebięciu, który ogłosi pokój narodom — proroctwo wykonane i zacytowane."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "So",
+     3,
+     14,
+     3,
+     16,
+     "So 3,14-16",
+     "cytat",
+     "Nie bój się, Syjonie — Król Izraela pośród ciebie: źródło Janowego mē fobou w cytacie zszytym."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "1 Mch",
+     13,
+     51,
+     null,
+     null,
+     "1 Mch 13,51",
+     "tlo",
+     "Wejście Szymona z palmami i pieśniami — machabejski rejestr rekwizytu palm."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Kpł",
+     23,
+     40,
+     null,
+     null,
+     "Kpł 23,40",
+     "tlo",
+     "Lulaw Święta Namiotów — liturgiczne źródło gestu gałązek."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Rdz",
+     49,
+     10,
+     49,
+     11,
+     "Rdz 49,10-11",
+     "typologia",
+     "Berło Judy i oślę przywiązane do winnego krzewu — najstarszy rodowód króla na osiołku."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "1 Krl",
+     1,
+     33,
+     1,
+     40,
+     "1 Krl 1,33-40",
+     "typologia",
+     "Salomon na mulicy Dawida jedzie na namaszczenie wśród okrzyków — wzorzec intronizacji pokojowej."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Mk",
+     11,
+     1,
+     11,
+     10,
+     "Mk 11,1-10",
+     "paralela",
+     "Wjazd u Marka: logistyka osła, płaszcze, Hosanna — wspólne jądro tradycji w pełnej narracji."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Łk",
+     19,
+     28,
+     19,
+     40,
+     "Łk 19,28-40",
+     "paralela",
+     "Łukaszowy wjazd z płaczem nad miastem i kamieniami, które wołać będą — ton, który u Jana przejmuje cień wyroku."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Ap",
+     7,
+     9,
+     null,
+     null,
+     "Ap 7,9",
+     "rozwiniecie",
+     "Wielki tłum z palmami przed tronem i Barankiem — eschatologiczne dopełnienie rekwizytu zwycięstwa."
+    ],
+    [
+     [
+      "unit",
+      "w. 12–13",
+      0
+     ],
+     "Mt",
+     25,
+     6,
+     null,
+     null,
+     "Mt 25,6",
+     "paralela",
+     "Wyjdźcie mu na spotkanie — słownik hypantesis obsługuje i wjazd, i paruzję: adventus jako figura Przyjścia."
+    ],
+    [
+     [
+      "unit",
+      "w. 12–13",
+      2
+     ],
+     "J",
+     1,
+     49,
+     null,
+     null,
+     "J 1,49",
+     "paralela",
+     "Natanael: Ty jesteś Król Izraela — tytuł wraca u bram Jerozolimy jako klamra publicznej drogi."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–16",
+      0
+     ],
+     "J",
+     6,
+     15,
+     null,
+     null,
+     "J 6,15",
+     "kontrast",
+     "Uszedł, gdy chcieli obwołać Go królem — przyjęcie aklamacji stało się możliwe dopiero w cieniu krzyża."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–16",
+      0
+     ],
+     "Sdz",
+     5,
+     10,
+     null,
+     null,
+     "Sdz 5,10",
+     "tlo",
+     "Jeżdżący na białych oślicach — osioł jako wierzchowiec władzy sędziowskiej czasów pokoju."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–16",
+      2
+     ],
+     "J",
+     2,
+     22,
+     null,
+     null,
+     "J 2,22",
+     "paralela",
+     "Gdy zmartwychwstał, przypomnieli sobie — bliźniacza formuła pamięci po uwielbieniu."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–16",
+      2
+     ],
+     "J",
+     14,
+     26,
+     null,
+     null,
+     "J 14,26",
+     "rozwiniecie",
+     "Paraklet przypomni wam wszystko — pneumatologia anamnezy stojąca za w. 16."
+    ],
+    [
+     [
+      "unit",
+      "w. 17–19",
+      0
+     ],
+     "J",
+     4,
+     39,
+     4,
+     42,
+     "J 4,39-42",
+     "paralela",
+     "Samarytanie: od słowa świadczącej do własnego spotkania — ten sam łańcuch świadectwa co między Betanią a bramą."
+    ],
+    [
+     [
+      "unit",
+      "w. 17–19",
+      1
+     ],
+     "J",
+     12,
+     20,
+     12,
+     21,
+     "J 12,20-21",
+     "rozwiniecie",
+     "Chcemy ujrzeć Jezusa — Grecy jako pierwsza fala świata, który „poszedł za Nim\": proroctwo faryzeuszów zaczyna się spełniać w następnej scenie."
+    ],
+    [
+     [
+      "unit",
+      "w. 17–19",
+      1
+     ],
+     "J",
+     3,
+     16,
+     3,
+     17,
+     "J 3,16-17",
+     "paralela",
+     "Tak Bóg umiłował świat — kosmos z westchnienia faryzeuszów jest tym samym kosmosem, dla którego posłano Syna."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     118,
+     22,
+     null,
+     null,
+     "Ps 118,22",
+     "typologia",
+     "Kamień odrzucony przez budujących stał się głowicą węgła — dalszy ciąg psalmu wjazdu, którego tłum jeszcze nie śpiewa."
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. XII, lect. 2",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład wjazdu: królewskość duchowa, pokora znaku, wypełnienie proroctw i pamięć uczniów.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Gospel According to John I, ad loc.",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Redakcja Janowa wjazdu wobec synoptyków; cytat zszyty i rola tłumu Łazarzowego.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "C. K. Barrett",
+     "The Gospel According to St John, ad loc.",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Filologia: baia, hypantesis, hosanna; warianty tekstu i pleonazm palm.",
+     "The Gospel According to St John"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według św. Jana II, ad loc.",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Kompozycja sceny, mimowolne proroctwo faryzeuszów i funkcja w. 16 w teologii pamięci.",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ],
+    [
+     "R. Schnackenburg",
+     "Das Johannesevangelium II, ad loc.",
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Tradycje wjazdu, tło Za 9,9 i adventus; teologia królewskości.",
+     "Das Johannesevangelium"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 12–13",
+     "św. Andrzej z Krety",
+     "Oratio in ramos palmarum",
+     "Or. in ramos palm. (PG 97, 985-1000)",
+     "Andrzej z Krety woła do swojego zgromadzenia przez wieki: chodźmy i my, biegnijmy z Tym, który śpieszy ku męce — i rozścielmy przed Nim nie płaszcze i nie martwe gałęzie, lecz SAMYCH SIEBIE: obleczeni w Jego łaskę, sami stańmy się szatami pod Jego stopy. Nie machajmy palmami, które jutro zwiędną — przynieśmy Mu palmy zwycięstwa nad sobą. Ten, który na niebie spoczywa na tronie cherubinów, na ziemi wybrał grzbiet oślęcia: taka jest pokora, w której majestat nie gaśnie, lecz staje się dostępny. Kto chce witać Króla, niech się uniży jak On — bo do Tego, który zstępuje, nie ma innej drogi niż w dół."
+    ],
+    [
+     "w. 12–13",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 66",
+     "Chryzostom mierzy temperaturę tłumu bez złudzeń: wołają „Król Izraela\", bo pachnie im chleb i wolność od Rzymu — wyznają prawdę, której głębi nie znają, i dlatego ich hosanna tak łatwo przejdzie w „ukrzyżuj\". Ucz się — mówi — nie budować wiary na nastroju zgromadzeń: dziś ścielą płaszcze, jutro uciekną wszyscy. A jednak Pan aklamacji nie odrzuca — przyjmuje niedoskonałe wyznanie i prostuje je znakiem, bo taka jest pedagogia Boża: nie gasi knota tlącego, lecz cierpliwie podnosi rozumienie ku prawdzie. Przyjmij więc i ty ludzi z ich połowiczną wiarą — i posadź ich, jak On, przed znakiem osiołka."
+    ],
+    [
+     "w. 14–16",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 51,2-8",
+     "Augustyn wykłada scenę wzwyż: palmy to laudes, pieśni zwycięstwa — a zwycięstwo, które Pan odniesie, będzie tryumfem nad śmiercią śmiercią; osiołek zaś, zwierzę juczne i wzgardzone, niesie w sobie obraz ludów pogańskich — nieujeżdżonych Prawem — na których Pan zasiada łagodnie i które prowadzi do Jerozolimy niebieskiej. Nie bój się, córo Syjonu: twój Król nie przybywa cię łupić, lecz zbawić. A że uczniowie zrozumieli poniewczasie — niech nikogo nie gorszy: i my rozumiemy Pisma dopiero wtedy, gdy Chrystus zostanie w nas uwielbiony; rozum idzie za łaską, jak tamci szli za osiołkiem — nie wiedząc jeszcze, w jakiej procesji uczestniczą."
+    ],
+    [
+     "w. 14–16",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. VIII, ad 12,14-16",
+     "Cyryl podkreśla suwerenność znaku: Pan nie przypadkiem natrafił na osiołka — ZNALAZŁ go, jak znajduje wszystko, co przygotował od wieków przez usta proroków; wypełnia Zachariasza co do joty, aby Izrael nie miał wymówki niewiedzy. Oślę, na którym nikt nie siedział, jest ludem nowym, nieujarzmionym dotąd żadnym jarzmem Prawa — poganami, których Chrystus czyni swoim wierzchowcem i prowadzi do miasta pokoju. A niezrozumienie uczniów aż do uwielbienia jest miarą tajemnicy: Duch, dany po wywyższeniu, jest jedynym egzegetą tej procesji — bez Niego nawet naoczni świadkowie widzą i nie widzą; z Nim — pamięć staje się teologią."
+    ],
+    [
+     "w. 17–19",
+     "św. Beda Czcigodny",
+     "In S. Ioannis Evangelium expositio",
+     "In Io. Ev. exp., ad cap. XII",
+     "Beda splata dwa pochody: tłum z palmami u bram Jerozolimy i tłum zbawionych z palmami przed tronem Baranka — pierwszy jest figurą drugiego, a między nimi biegnie całe pielgrzymowanie Kościoła. Świadectwo tych, którzy widzieli Łazarza, poucza, jak rośnie wiara: jedni widzieli i opowiedzieli, drudzy usłyszeli i wyszli — tak do dziś: nie wszyscy widzą znaki, ale wszyscy mogą słyszeć świadków, i błogosławieni, którzy nie widzieli, a uwierzyli słowu. Faryzeusze zaś, mówiąc „świat poszedł za Nim\", prorokują jak Kajfasz — bo prawda umie się wypowiedzieć nawet ustami zawiści; i po dziś dzień, ilekroć wrogowie Kościoła liczą jego tryumfy z przekąsem, powtarzają bezwiednie to samo proroctwo."
+    ],
+    [
+     "w. 17–19",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 66,2",
+     "Nad westchnieniem faryzeuszów Złotousty zatrzymuje się z gorzką satysfakcją: „nic nie osiągacie\" — oto bilans wszystkich knowań przeciw prawdzie; zakazali, grozili, uchwalili śmierć — a tłum rośnie. Taka jest natura prawdy: prześladowana, krzepnie; tłumiona, rozlewa się szerzej — jakby przeszkody były jej żaglami. Niech więc Kościół w uciskach czyta to zdanie jak obietnicę: gdy wrogowie mówią między sobą „nic nie wskóramy\", w niebie zapisuje się ich mimowolne wyznanie. Ale niech i wierzący usłyszą przestrogę odwrotną: świat, który „poszedł za Nim\" w niedzielę palm, w piątek stał pod krzyżem po obu stronach — iść za Jezusem trzeba dalej niż od bramy do bramy."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "Niedziela Palmowa — procesja z palmami, rok B",
+     "J 12,12-16",
+     "Ewangelia procesji: Kościół rokrocznie wchodzi cieleśnie w scenę wjazdu — z gałązkami, śpiewem Hosanna i Gloria, laus Teodulfa — nim liturgia słowa przejdzie w czytanie Męki: palma i pasja w jednym obrzędzie."
+    ],
+    [
+     "rzymski",
+     "Sanctus każdej Mszy — Benedictus qui venit",
+     "Ps 118,26 przez J 12,13",
+     "Aklamacja wjazdu na stałe w anaforze: u progu modlitwy eucharystycznej zgromadzenie staje w bramie Jerozolimy, witając Przychodzącego pod postaciami pokorniejszymi niż oślę."
+    ],
+    [
+     "bizantyjski",
+     "Niedziela Palmowa (Kyriake ton Baion)",
+     "J 12,1-18",
+     "Wschód czyta Janowy wjazd jako Ewangelię dnia — a nazwę święta wziął wprost z 12,13: Niedziela Baion, Palm; kondakion śpiewa: „na tronie w niebie, na oślęciu na ziemi, Chryste Boże\"."
+    ],
+    [
+     "godzin",
+     "Godzina czytań Niedzieli Palmowej",
+     "św. Andrzej z Krety, Oratio in ramos palmarum",
+     "Mowa Andrzeja z Krety — „rozścielmy przed Nim samych siebie\" — jest patrystycznym czytaniem dnia: recepcja sceny w modlitwie całego Kościoła."
+    ]
+   ],
+   "textual": [
+    [
+     13,
+     "ἐκραύγαζον (+ λέγοντες)",
+     "wariant lekcji",
+     "NA28: ἐκραύγαζον (imperfectum: wołali raz po raz) — za P75 ℵ B2 D L Q W. P66 i B* mają aoryst ἐκραύγασαν, tradycja bizantyjska — synoptyczne ἔκραζον. Nadto szeroka grupa świadków (P66 ℵ A D K f1.13) dodaje po czasowniku: λέγοντες — „mówiąc\".",
+     "Imperfectum jest lekcją najlepiej osadzoną i najżywszą: aklamacja nie była jednym okrzykiem, lecz falującym wołaniem procesji. Dodatek „λέγοντες\" to klasyczna harmonizacja z Mt 21,9; krótsza lekcja bez niego (B L W Θ M) jest pierwotna. Drobiazg oddaje charakter Janowej sceny: chór, nie hasło."
+    ],
+    [
+     15,
+     "θυγάτηρ / θύγατερ Σιών",
+     "wariant lekcji",
+     "NA28: μὴ φοβοῦ, θυγάτηρ Σιών — mianownik w funkcji wołacza (P66 A B* D K L Q W). Część tradycji poprawia na regularny wołacz θύγατερ (ℵ Θ Ψ f1.13 M), a P75vid B2 dodają rodzajnik ἡ θυγάτηρ.",
+     "Mianownik zamiast wołacza jest hebraizmem żywcem z Septuaginty (tak LXX w Za 9,9 i So 3,14) — Jan cytuje Biblię grecką z jej składniową patyną, a kopiści „poprawiali\" grekę na szkolną. Lekcja przyjęta zachowuje więc ślad źródła cytatu; wariant jest miniaturową lekcją o tym, że ewangeliści słyszeli Pisma po grecku z semickim akcentem."
+    ],
+    [
+     19,
+     "ὁ κόσμος (+ ὅλος)",
+     "wariant lekcji",
+     "NA28: ἴδε ὁ κόσμος ὀπίσω αὐτοῦ ἀπῆλθεν — bez przydawki (P66 P75 ℵ A B W f1 M). Znacząca grupa świadków dodaje: ὅλος — „CAŁY świat\" (D L Q Θ Ψ f13 33 latt syrs.p ac bo).",
+     "Dodatek zachodnio-koptyjski wzmacnia hiperbolę faryzeuszów do kompletności — i choć wtórny, jest najstarszym komentarzem do wersetu: kopiści usłyszeli w westchnieniu przeciwników proroctwo o powszechności i dopisali mu „cały\". Krótsza lekcja wystarcza: κόσμος u Jana i bez przydawki znaczy więcej, niż faryzeusze chcieli powiedzieć."
+    ]
+   ],
+   "theme_links": [
+    [
+     "królewskość Jezusa (βασιλεύς) — tron krzyża",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "godzina Jezusa (ἡ ὥρα)",
+     [
+      "block",
+      "w. 12–13"
+     ]
+    ],
+    [
+     "świadectwo (μαρτυρία)",
+     [
+      "block",
+      "w. 17–19"
+     ]
+    ],
+    [
+     "znaki (σημεῖα) i wiara",
+     [
+      "block",
+      "w. 17–19"
+     ]
+    ],
+    [
+     "κόσμος — świat umiłowany i wrogi",
+     [
+      "block",
+      "w. 17–19"
+     ]
+    ],
+    [
+     "zmartwychwstanie — już i jeszcze nie",
+     [
+      "block",
+      "w. 14–16"
+     ]
+    ],
+    [
+     "eschatologia Janowa — godzina, która nadchodzi i teraz jest",
+     [
+      "block",
+      "w. 12–13"
+     ]
+    ]
+   ],
+   "revision_note": "Perykopa 29 dodana w cyklu iteracyjnym: pełna egzegeza J 12,12-19 z greką złożoną ze źródła prawdy (db.sqlite) i notami tekstualnymi z aparatu NA28 (w. 13, 15, 19); tytuły sekcji wedle nowej konwencji bez numeracji rzymskiej."
+  }
+ ]
+}
