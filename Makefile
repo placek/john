@@ -6,7 +6,9 @@
 #   make export     # wyeksportuj wszystkie perykopy do Markdown
 #   make export PID=4 [OUT=baranek.md]   # jedną perykopę
 #   make site       # statyczna wersja przeglądarki (site/) — np. GitHub Pages
-#   make clean      # usuń wygenerowaną bazę i site/
+#   make typst      # reprezentacja Typst (egzegeza.typ)
+#   make pdf        # złóż PDF (egzegeza.pdf) — wymaga typst
+#   make clean      # usuń wygenerowaną bazę, site/ i eksport Typst
 #
 # Układ repozytorium:
 #   data/     — źródła: schema.sql + *.json (oraz generowana baza)
@@ -16,7 +18,10 @@
 # Wymaga tylko python3 (biblioteka standardowa) — patrz shell.nix.
 
 PYTHON ?= python3
+TYPST  ?= typst
 DB      = data/egzegeza_jana.sqlite
+TYP     = egzegeza.typ
+PDF     = egzegeza.pdf
 SOURCES = tools/egzegeza_jana_build.py data/schema.sql \
           data/prolog.json data/continuation.json data/kana.json \
           data/swiatynia.json data/nikodem.json data/oblubieniec.json \
@@ -31,7 +36,7 @@ PORT    ?= 8000
 PID     ?= all
 OUT     ?=
 
-.PHONY: all serve build rebuild export site typst clean
+.PHONY: all serve build rebuild export site typst pdf clean
 
 ## zbuduj bazę (jeśli brak) i wystaw stronę z backendem
 all: serve
@@ -58,9 +63,17 @@ export: $(DB)
 site: $(DB)
 	$(PYTHON) tools/export_site.py
 
-## reprezentacja Typst: egzegeza.typ (perykopy + motywy); PDF: typst compile egzegeza.typ
-typst: $(DB)
+## reprezentacja Typst: egzegeza.typ (perykopy + motywy)
+typst: $(TYP)
+
+$(TYP): $(DB) tools/export_typst.py
 	$(PYTHON) tools/export_typst.py
+
+## złóż PDF z reprezentacji Typst (wymaga typst — patrz shell.nix)
+pdf: $(PDF)
+
+$(PDF): $(TYP)
+	$(TYPST) compile $(TYP) $(PDF)
 
 ## usuń wygenerowaną bazę, stronę statyczną i eksport Typst
 clean:
