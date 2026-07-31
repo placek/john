@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–12,19** w dwudziestu dziewięciu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz dwadzieścia osiem perykop J 1,15–12,19; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–12,36** w trzydziestu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz dwadzieścia dziewięć perykop J 1,15–12,36; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -36,6 +36,7 @@ data/                     ← źródła (pod kontrolą wersji)
   kajfasz.json           J 11,45-57 (Narada Sanhedrynu i proroctwo Kajfasza)
   namaszczenie.json      J 12,1-11 (Namaszczenie w Betanii)
   wjazd.json             J 12,12-19 (Wjazd do Jerozolimy)
+  ziarno.json            J 12,20-36 (Grecy i mowa o ziarnie)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -77,7 +78,7 @@ Każdy plik `data/*.json` ma tę samą strukturę: słownictwo współdzielone
 oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera, w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
-dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd`.
+dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd → ziarno`.
 
 ## Warstwy schematu
 
@@ -201,6 +202,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 11,45–57 | Narada Sanhedrynu i proroctwo Kajfasza | ukończona |
 | J 12,1–11 | Namaszczenie w Betanii | ukończona |
 | J 12,12–19 | Wjazd do Jerozolimy | ukończona |
+| J 12,20–36 | Grecy i mowa o ziarnie — godzina uwielbienia | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
