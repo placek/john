@@ -602,6 +602,7 @@ const STATYCZNA = document.documentElement.hasAttribute('data-static');
 
 function statycznyAdres(url) {
   const [sciezka, zapytanie] = url.split('?');
+  if (sciezka === '/api/intro') return 'api/intro.json';
   if (sciezka === '/api/pericopes') return 'api/pericopes.json';
   if (sciezka === '/api/pericope')
     return 'api/pericope-' + new URLSearchParams(zapytanie).get('id') + '.json';
@@ -658,10 +659,16 @@ async function router() {
   if (/^(cz-|blok-)/.test(h)) return;   // kotwica sekcji w perykopie, nie trasa
   if (h === 'leksykon') { ustawWidokAktywny('leksykon'); return pokazLeksykon(); }
   if (h === 'motywy')   { ustawWidokAktywny('motywy');   return pokazMotywy(); }
-  const p = PERYKOPY.find(x => x.siglum === h) || PERYKOPY[0];
+  // strona domyślna: Wprowadzenie (pusty hash lub #wprowadzenie)
+  if (!h || h === 'wprowadzenie') {
+    ustawWidokAktywny('perykopy');
+    if (location.hash.slice(1) !== 'wprowadzenie')
+      history.replaceState(null, '', '#wprowadzenie');
+    return pokazWprowadzenie();
+  }
+  const p = PERYKOPY.find(x => x.siglum === h);
   ustawWidokAktywny('perykopy');
-  if (!p) return;
-  // nieznany/pusty hash → ustaw kanoniczny bez zaśmiecania historii
+  if (!p) { history.replaceState(null, '', '#wprowadzenie'); return pokazWprowadzenie(); }
   if (location.hash.slice(1) !== slugP(p)) history.replaceState(null, '', '#' + slugP(p));
   otworz(p.id);
 }
@@ -674,7 +681,13 @@ async function start() {
 }
 
 function rysujListe() {
-  $('#lista').innerHTML = '<h2>Perykopy</h2>' + PERYKOPY.map((p, i) => `
+  const wpisWprowadzenia = `
+    <div class="poz poz-intro ${AKT === null ? 'akt' : ''}" data-intro role="button" tabindex="0">
+      <span class="licz">❧</span>
+      <span>Wprowadzenie</span>
+      <small>autor · tekst · recepcja · dwie księgi</small>
+    </div>`;
+  $('#lista').innerHTML = '<h2>Perykopy</h2>' + wpisWprowadzenia + PERYKOPY.map((p, i) => `
     <div class="poz ${p.id === AKT ? 'akt' : ''}" data-id="${p.id}" role="button" tabindex="0">
       <span class="licz">${i + 1}</span>
       <span>${esc(p.title)}</span>
@@ -683,7 +696,8 @@ function rysujListe() {
   // klik w wiersz otwiera perykopę (przez hash); klik w sam adres
   // (link-biblii) prowadzi do deepbible i nie przełącza perykopy
   $$('#lista .poz').forEach(el => {
-    const idz = () => idzDo(+el.dataset.id);
+    const idz = () => ('intro' in el.dataset)
+      ? (location.hash = 'wprowadzenie') : idzDo(+el.dataset.id);
     el.onclick = e => { if (!e.target.closest('.link-biblii')) idz(); };
     el.onkeydown = e => { if (e.key === 'Enter') idz(); };
   });
@@ -1068,6 +1082,33 @@ async function pokazLeksykon() {
     ${l.map(x => `<tr><td class="lemat" lang="grc">${esc(x.lemma)}</td><td>${esc(x.translit || '')}</td>
       <td>${esc(x.gloss_pl || '')}</td><td><small>${linkMiejsca(x.miejsca)}</small></td></tr>`).join('')}
     </table>`;
+  window.scrollTo(0, 0);
+}
+
+async function pokazWprowadzenie() {
+  AKT = null;                       // podświetl wpis Wprowadzenia na liście
+  rysujListe();
+  KTX = { book: 'J', chapter: 1 };  // odsyłacze biblijne bez rozdziału → J
+  OBSERWATOR?.disconnect();
+  const w = await pobierz('/api/intro');
+  const glowne = w.sections.filter(s => !s.parent_id);
+  const dzieci = id => w.sections.filter(s => s.parent_id === id);
+  $('#tresc').innerHTML = `
+    <div class="perykopa-naglowek">
+      <div class="siglum">Ewangelia według św. Jana</div>
+      <h1 class="tytul">${esc(w.title)}</h1>
+      ${w.motto ? `<p class="motto">${esc(w.motto)}</p>` : ''}
+      ${w.lead ? `<div class="wprowadzenie">${linkifyBiblii(md(w.lead), 'J')}</div>` : ''}
+    </div>
+    <div class="proza">
+      ${glowne.map(s => `
+        <div class="sekcja">
+          <h3>${esc(s.title)}</h3>
+          ${linkifyBiblii(md(s.body_md), 'J')}
+          ${dzieci(s.id).map(c => `
+            <div class="podsekcja"><h4>${esc(c.title)}</h4>${linkifyBiblii(md(c.body_md), 'J')}</div>`).join('')}
+        </div>`).join('')}
+    </div>`;
   window.scrollTo(0, 0);
 }
 

@@ -23,6 +23,17 @@ CREATE TABLE meta (
     value TEXT
 ) STRICT;
 
+-- Wprowadzenie do całej księgi (nie-perykopa): drzewo sekcji jak w section,
+-- lecz bez zakotwiczenia w pericope. Tytuł/motto/akapit wiodący — w meta
+-- (intro_title, intro_motto, intro_lead).
+CREATE TABLE intro_section (
+    id        INTEGER PRIMARY KEY,
+    parent_id INTEGER REFERENCES intro_section(id) ON DELETE CASCADE,
+    title     TEXT,
+    body_md   TEXT,
+    position  INTEGER NOT NULL DEFAULT 0
+) STRICT;
+
 -- ------------------------------------------------------------
 -- 1. KANON
 -- ------------------------------------------------------------
