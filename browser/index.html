@@ -633,6 +633,7 @@ async function router() {
   let h = location.hash.slice(1);
   try { h = decodeURIComponent(h); } catch (_) {}
   h = h.replace(/\+/g, ' ').trim();
+  if (/^(cz-|blok-)/.test(h)) return;   // kotwica sekcji w perykopie, nie trasa
   if (h === 'leksykon') { ustawWidokAktywny('leksykon'); return pokazLeksykon(); }
   if (h === 'motywy')   { ustawWidokAktywny('motywy');   return pokazMotywy(); }
   const p = PERYKOPY.find(x => x.siglum === h) || PERYKOPY[0];
@@ -1005,6 +1006,14 @@ async function otworz(id) {
       </nav>
       ${czesci.map(([, , html]) => html).join('')}
     </article>`;
+
+  // Kotwice spisu przewijają w obrębie perykopy — bez zmiany hasha, żeby
+  // nie wyzwolić routera i nie zgubić adresu perykopy w URL.
+  $$('nav.spis a').forEach(a => a.onclick = e => {
+    e.preventDefault();
+    document.getElementById(a.getAttribute('href').slice(1))
+      ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
 
   sledzSekcje();
   window.scrollTo(0, 0);
