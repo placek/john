@@ -314,16 +314,18 @@ def komentarz(d):
     struktura = next((s for s in d["sections"] if s["title"] == "Struktura całości"), None)
     if not glowne and not struktura:
         return ""
-    out = [r'#heading(level: 2)[Komentarz]']
+    # bez nadrzędnego „Komentarz" — sekcje są bezpośrednio na poziomie 2,
+    # a ich podsekcje na 3 (jak wersety w analizie)
+    out = []
     if struktura:
-        out.append(f'#heading(level: 3)[{esc(struktura["title"])}]')
+        out.append(f'#heading(level: 2)[{esc(struktura["title"])}]')
         out.append(md(struktura["body_md"]))
     for s in glowne:
-        out.append(f'#heading(level: 3)[{esc(s["title"])}]')
+        out.append(f'#heading(level: 2)[{esc(s["title"])}]')
         if s["body_md"]:
             out.append(md(s["body_md"]))
         for c in [x for x in d["sections"] if x["parent_id"] == s["id"]]:
-            out.append(f'#heading(level: 4)[{esc(c["title"])}]')
+            out.append(f'#heading(level: 3)[{esc(c["title"])}]')
             out.append(md(c["body_md"]))
     return "\n\n".join(out)
 
