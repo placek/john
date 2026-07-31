@@ -285,7 +285,10 @@ def analiza(d):
             out.append(f'#text(fill: greek, font: grfont, size: 10pt, {q(bez_sigli(b["greek_text"]))})\n')
         if b["working_translation_pl"]:
             out.append(f'#block(above: 0.5em, below: 0.6em, text(style: "italic", fill: muted)[„{esc(b["working_translation_pl"])}”])')
-        for u in [u for u in d["units"] if u["block_id"] == b["id"]]:
+        jednostki = [u for u in d["units"] if u["block_id"] == b["id"]]
+        if jednostki:
+            out.append(r'#heading(level: 4)[Egzegeza]')
+        for u in jednostki:
             if u["phrase_greek"]:
                 gl = f' #emph[— {esc(u["phrase_translation_pl"])}]' if u["phrase_translation_pl"] else ""
                 out.append(f'#text(fill: greek, font: grfont, weight: "bold")[{esc(u["phrase_greek"])}]{gl}\n')
