@@ -110,8 +110,20 @@ PREAMBULA = r"""// PLIK GENEROWANY — python3 tools/export_typst.py. Nie edytow
 #let latina = rgb("#555555")
 
 #set document(title: "Egzegeza Ewangelii świętego Jana")
-#set page(paper: "a4", margin: (x: 2.1cm, top: 2.2cm, bottom: 2cm), fill: tlo,
-  numbering: "1", number-align: center)
+#set page(paper: "a4", margin: (x: 2.1cm, top: 2.4cm, bottom: 2cm), fill: tlo,
+  numbering: "1", number-align: center,
+  header: context {
+    // żywa pagina: tytuł bieżącej perykopy (ostatni nagłówek H1 z tej lub
+    // wcześniejszej strony); pomijamy na stronie, gdzie tytuł już widnieje
+    let p = here().page()
+    let hs = query(heading.where(level: 1)).filter(h => h.location().page() <= p)
+    if hs.len() > 0 and hs.last().location().page() != p {
+      set text(size: 8.5pt, fill: muted, style: "italic")
+      hs.last().body
+      v(-0.35em)
+      line(length: 100%, stroke: 0.4pt + linia)
+    }
+  })
 #set text(font: ("New Computer Modern", "Noto Serif"), fill: ink, size: 10pt,
   lang: "pl", hyphenate: true)
 #set par(justify: true, leading: 0.62em, spacing: 0.9em)
