@@ -276,7 +276,7 @@ def analiza(d):
 
 def komentarz(d):
     glowne = [s for s in d["sections"]
-              if s["parent_id"] is None and s["section_type"] not in ("filologia", "patrystyka")]
+              if s["parent_id"] is None and s["section_type"] not in ("filologia", "patrystyka", "nota")]
     struktura = next((s for s in d["sections"] if s["title"] == "Struktura całości"), None)
     if not glowne and not struktura:
         return ""

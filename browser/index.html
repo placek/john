@@ -740,7 +740,7 @@ function czescTekst(d) {
 function czescKomentarz(d) {
   const struktura = d.sections.find(s => s.title === 'Struktura całości');
   const glowne = d.sections.filter(s => !s.parent_id &&
-    !['filologia', 'patrystyka'].includes(s.section_type));
+    !['filologia', 'patrystyka', 'nota'].includes(s.section_type));
   if (!struktura && !glowne.length) return '';
   const sekcja = s => `
     <div class="sekcja ${s.section_type === 'zakonczenie' ? 'zakonczenie-czesc' : ''}
