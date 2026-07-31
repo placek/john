@@ -240,7 +240,7 @@ def aparat_na28(d, b):
     if not wpisy:
         return ""
     out = [r'#block(breakable: true, above: 0.6em, inset: (left: 6pt), stroke: (left: 1pt + linia))[',
-           r'#text(fill: gold, size: 8pt, weight: "bold", tracking: 0.05em)[APARAT NA28]']
+           r'#heading(level: 4)[Aparat NA28]']
     for a in wpisy:
         mk = f' #text(fill: gold, size: 8pt)[{esc(a["marker"])}]' if a["marker"] else ""
         out.append(f'#par(leading: 0.5em, spacing: 0.55em)[#text(fill: gold, size: 7pt)'
@@ -258,7 +258,7 @@ def aparat_krytyczny(d, b):
     if not noty:
         return ""
     out = [r'#block(breakable: true, above: 0.6em, inset: (left: 6pt), stroke: (left: 1pt + linia))[',
-           r'#text(fill: gold, size: 8pt, weight: "bold", tracking: 0.05em)[APARAT KRYTYCZNY]']
+           r'#heading(level: 4)[Aparat krytyczny]']
     for t in noty:
         out.append(r'#v(0.2em)')
         out.append(f'#text(fill: greek, font: grfont, weight: "bold", size: 9pt)[{esc(t["lemma_text"])}] '
@@ -291,7 +291,10 @@ def analiza(d):
                 out.append(f'#text(fill: greek, font: grfont, weight: "bold")[{esc(u["phrase_greek"])}]{gl}\n')
             out.append(md(u["body_md"]))
         # katena Ojców przypięta do etykiety bloku
-        for c in catena.get(b["label"], []):
+        glosy = catena.get(b["label"], [])
+        if glosy:
+            out.append(r'#heading(level: 4)[Ojcowie Kościoła]')
+        for c in glosy:
             zrodlo = esc(c["title_pl"] or c["work_title"] or "")
             if c["locus"]:
                 zrodlo += ", " + esc(c["locus"])
