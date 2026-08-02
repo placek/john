@@ -103,6 +103,11 @@
     font-size: .68rem; text-transform: uppercase; letter-spacing: .14em;
     color: var(--przygaszony); margin: 0 0 .7rem .5rem; font-weight: normal;
   }
+  aside .ksiega {
+    font-size: .68rem; text-transform: uppercase; letter-spacing: .14em;
+    color: var(--akcent); margin: 1rem 0 .45rem .5rem; font-weight: bold;
+    border-bottom: 1px solid var(--linia); padding-bottom: .3rem;
+  }
   aside .poz {
     display: grid; grid-template-columns: 1.6rem 1fr; gap: .1rem .4rem;
     padding: .4rem .5rem; margin-bottom: .1rem; cursor: pointer;
@@ -687,12 +692,20 @@ function rysujListe() {
       <span>Wprowadzenie</span>
       <small>autor · tekst · recepcja · dwie księgi</small>
     </div>`;
-  $('#lista').innerHTML = '<h2>Perykopy</h2>' + wpisWprowadzenia + PERYKOPY.map((p, i) => `
+  // dwie księgi czwartej Ewangelii: Księga Znaków (J 1–12) i Księga Męki (J 13–21)
+  const ksiega = p => ((p.chapter_start ?? +(p.siglum.match(/\s(\d+),/) || [])[1]) >= 13)
+    ? 'Księga Męki' : 'Księga Znaków';
+  let biezacaKsiega = null;
+  $('#lista').innerHTML = '<h2>Perykopy</h2>' + wpisWprowadzenia + PERYKOPY.map((p, i) => {
+    const naglowek = ksiega(p) !== biezacaKsiega
+      ? `<div class="ksiega">${biezacaKsiega = ksiega(p)}</div>` : '';
+    return naglowek + `
     <div class="poz ${p.id === AKT ? 'akt' : ''}" data-id="${p.id}" role="button" tabindex="0">
       <span class="licz">${i + 1}</span>
       <span>${esc(p.title)}</span>
       <small>${linkBiblii(p.siglum)}</small>
-    </div>`).join('');
+    </div>`;
+  }).join('');
   // klik w wiersz otwiera perykopę (przez hash); klik w sam adres
   // (link-biblii) prowadzi do deepbible i nie przełącza perykopy
   $$('#lista .poz').forEach(el => {
