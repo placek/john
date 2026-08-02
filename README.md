@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–14,14** w trzydziestu czterech perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz trzydzieści trzy perykopy J 1,15–14,14; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–14,31** w trzydziestu pięciu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz trzydzieści cztery perykopy J 1,15–14,31; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -42,6 +42,7 @@ data/                     ← źródła (pod kontrolą wersji)
   umycie.json            J 13,1-20 (Umycie nóg)
   zdrada.json            J 13,21-38 (Zapowiedź zdrady i przykazanie nowe)
   mieszkania.json        J 14,1-14 (Droga, prawda i życie)
+  paraklet.json          J 14,15-31 (Paraklet i pokój)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -84,7 +85,7 @@ oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera — najpierw
 Wprowadzenie (meta + intro_section), potem perykopy w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
-dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd → ziarno → bilans → umycie → zdrada → mieszkania`.
+dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd → ziarno → bilans → umycie → zdrada → mieszkania → paraklet`.
 
 ## Warstwy schematu
 
@@ -215,6 +216,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 13,1–20 | Umycie nóg | ukończona |
 | J 13,21–38 | Zapowiedź zdrady i przykazanie nowe | ukończona |
 | J 14,1–14 | Droga, prawda i życie | ukończona |
+| J 14,15–31 | Paraklet i pokój | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
