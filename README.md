@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–13,20** w trzydziestu dwóch perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz trzydzieści jeden perykop J 1,15–13,20; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–13,38** w trzydziestu trzech perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz trzydzieści dwie perykopy J 1,15–13,38; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -40,6 +40,7 @@ data/                     ← źródła (pod kontrolą wersji)
   ziarno.json            J 12,20-36 (Grecy i mowa o ziarnie)
   bilans.json            J 12,37-50 (Bilans niewiary i ostatnie wołanie)
   umycie.json            J 13,1-20 (Umycie nóg)
+  zdrada.json            J 13,21-38 (Zapowiedź zdrady i przykazanie nowe)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -82,7 +83,7 @@ oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera — najpierw
 Wprowadzenie (meta + intro_section), potem perykopy w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
-dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd → ziarno → bilans → umycie`.
+dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd → ziarno → bilans → umycie → zdrada`.
 
 ## Warstwy schematu
 
@@ -211,6 +212,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 12,20–36 | Grecy i mowa o ziarnie — godzina uwielbienia | ukończona |
 | J 12,37–50 | Bilans niewiary i ostatnie wołanie | ukończona |
 | J 13,1–20 | Umycie nóg | ukończona |
+| J 13,21–38 | Zapowiedź zdrady i przykazanie nowe | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
