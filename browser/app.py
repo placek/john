@@ -128,7 +128,7 @@ def api_intro():
 
 def api_pericopes():
     return q("""
-        SELECT p.id, p.title, p.motto, p.status,
+        SELECT p.id, p.title, p.motto, p.status, p.chapter_start,
                b.abbrev_pl || ' ' || p.chapter_start || ',' || p.verse_start ||
                '-' || CASE WHEN p.chapter_start = p.chapter_end
                            THEN p.verse_end

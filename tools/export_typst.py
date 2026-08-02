@@ -109,7 +109,8 @@ PREAMBULA = r"""// PLIK GENEROWANY — python3 tools/export_typst.py. Nie edytow
     // żywa pagina: tytuł bieżącej perykopy (ostatni nagłówek H1 z tej lub
     // wcześniejszej strony); pomijamy na stronie, gdzie tytuł już widnieje
     let p = here().page()
-    let hs = query(heading.where(level: 1)).filter(h => h.location().page() <= p)
+    let hs = query(heading.where(level: 1).or(heading.where(level: 2)))
+      .filter(h => h.location().page() <= p)
     if hs.len() > 0 and hs.last().location().page() != p { emph(hs.last().body) }
   })
 #set text(font: "New Athena Unicode", size: 11pt, lang: "pl", hyphenate: true)
@@ -140,8 +141,27 @@ def naglowek_glowny():
         r'  #emph[perykopa po perykopie — filologia, kontekst, teologia, katena Ojców]',
         r']',
         r'#pagebreak()',
-        r'#outline(title: [Spis perykop], depth: 1, indent: auto)',
+        r'#outline(title: [Spis perykop], depth: 2, indent: auto)',
     ]
+
+
+def ksiega(tytul, perykopy):
+    """Strona działowa księgi (Księga Znaków / Księga Męki) — poziom 1,
+    perykopy księgi są w spisie poziomem 2."""
+    poczatek = perykopy[0]["siglum"].split(" ", 1)[1].split("-")[0]
+    ostatnia = perykopy[-1]
+    koniec = ostatnia["siglum"].split("-")[-1]
+    if "," not in koniec:
+        koniec = f'{ostatnia["siglum"].split(" ", 1)[1].split(",")[0]},{koniec}'
+    return "\n".join([
+        r'#pagebreak(weak: true)',
+        r'#v(5cm)',
+        r'#align(center)[',
+        f'  #heading(level: 1)[{esc(tytul)}]',
+        r'  #v(0.4cm)',
+        f'  #emph[J {esc(poczatek)} – {esc(koniec)}]',
+        r']',
+    ])
 
 
 def tekst_paralelny(d):
@@ -209,7 +229,7 @@ def aparat_na28(d, b):
     wpisy = [a for a in d.get("aparat", []) if od <= (a["chapter"], a["verse"]) <= az]
     if not wpisy:
         return ""
-    out = [r'#heading(level: 4)[Aparat NA28]']
+    out = [r'#heading(level: 5)[Aparat NA28]']
     for a in wpisy:
         mk = f' {esc(a["marker"])}' if a["marker"] else ""
         out.append(f'#iv({q(vnum(d, a["chapter"], a["verse"]))}){mk} '
@@ -224,7 +244,7 @@ def aparat_krytyczny(d, b):
     noty = [t for t in d.get("textual", []) if od <= (t["chapter"], t["verse_num"]) <= az]
     if not noty:
         return ""
-    out = [r'#heading(level: 4)[Aparat krytyczny]']
+    out = [r'#heading(level: 5)[Aparat krytyczny]']
     for t in noty:
         out.append(f'#strong[{esc(t["lemma_text"])}] '
                    f'#emph[(w. {esc(vnum(d, t["chapter"], t["verse_num"]))} · {esc(t["issue"])})]\n')
@@ -236,12 +256,12 @@ def aparat_krytyczny(d, b):
 
 
 def analiza(d):
-    out = [r'#heading(level: 2)[Analiza wers po wersie]']
+    out = [r'#heading(level: 3)[Analiza wers po wersie]']
     catena = {}
     for c in d.get("catena", []):
         catena.setdefault(c["label"], []).append(c)
     for b in d["blocks"]:
-        out.append(f'#heading(level: 3)[{esc(b["label"])}]')
+        out.append(f'#heading(level: 4)[{esc(b["label"])}]')
         il = interlinia_bloku(d, b)
         if il:
             out.append(il)
@@ -255,7 +275,7 @@ def analiza(d):
                 out.append(cz)
         jednostki = [u for u in d["units"] if u["block_id"] == b["id"]]
         if jednostki:
-            out.append(r'#heading(level: 4)[Egzegeza]')
+            out.append(r'#heading(level: 5)[Egzegeza]')
         for u in jednostki:
             if u["phrase_greek"]:
                 gl = f' #emph[— {esc(u["phrase_translation_pl"])}]' if u["phrase_translation_pl"] else ""
@@ -264,7 +284,7 @@ def analiza(d):
         # katena Ojców przypięta do etykiety bloku
         glosy = catena.get(b["label"], [])
         if glosy:
-            out.append(r'#heading(level: 4)[Ojcowie Kościoła]')
+            out.append(r'#heading(level: 5)[Ojcowie Kościoła]')
         for c in glosy:
             zrodlo = esc(c["title_pl"] or c["work_title"] or "")
             if c["locus"]:
@@ -284,14 +304,14 @@ def komentarz(d):
     # a ich podsekcje na 3 (jak wersety w analizie)
     out = []
     if struktura:
-        out.append(f'#heading(level: 2)[{esc(struktura["title"])}]')
+        out.append(f'#heading(level: 3)[{esc(struktura["title"])}]')
         out.append(md(struktura["body_md"]))
     for s in glowne:
-        out.append(f'#heading(level: 2)[{esc(s["title"])}]')
+        out.append(f'#heading(level: 3)[{esc(s["title"])}]')
         if s["body_md"]:
             out.append(md(s["body_md"]))
         for c in [x for x in d["sections"] if x["parent_id"] == s["id"]]:
-            out.append(f'#heading(level: 3)[{esc(c["title"])}]')
+            out.append(f'#heading(level: 4)[{esc(c["title"])}]')
             out.append(md(c["body_md"]))
     return "\n\n".join(out)
 
@@ -299,7 +319,7 @@ def komentarz(d):
 def liturgia(d):
     if not d.get("liturgy"):
         return ""
-    out = [r'#heading(level: 2)[Liturgia]']
+    out = [r'#heading(level: 3)[Liturgia]']
     for l in d["liturgy"]:
         wiersz = f'#strong[{esc(l["rite"])}] — {esc(l["occasion"])}'
         if l["passage"]:
@@ -313,7 +333,7 @@ def liturgia(d):
 def odniesienia(d):
     if not d.get("refs") and not d.get("themes"):
         return ""
-    out = [r'#heading(level: 2)[Odniesienia i motywy]']
+    out = [r'#heading(level: 3)[Odniesienia i motywy]']
     if d.get("refs"):
         out.append('#block(breakable: true)[#table(columns: (auto, auto, 1fr), '
                    'stroke: white, inset: (x: 5pt, y: 3pt), align: top + left,')
@@ -341,7 +361,7 @@ def wprowadzenie():
     if w.get("lead"):
         out.append(md(w["lead"]))
     for s in glowne:
-        out.append(f'#heading(level: 2)[{esc(s["title"])}]')
+        out.append(f'#heading(level: 2, outlined: false)[{esc(s["title"])}]')
         if s["body_md"]:
             out.append(md(s["body_md"]))
         for c in dzieci(s["id"]):
@@ -362,12 +382,12 @@ def perykopa(pid):
                   if s["section_type"] == "filologia" and s["parent_id"] is None), None)
     out = [r'#pagebreak(weak: true)']
     out.append(esc(siglum))
-    out.append(f'#heading(level: 1)[{esc(h["title"])}]')
+    out.append(f'#heading(level: 2)[{esc(h["title"])}]')
     if h["motto"]:
         out.append(f'#emph[{esc(h["motto"])}]\n')
     if intro and intro["body_md"]:
         out.append(md(intro["body_md"]))
-    out.append(r'#heading(level: 2)[Tekst perykopy]')
+    out.append(r'#heading(level: 3)[Tekst perykopy]')
     out.append(tekst_paralelny(d))
     for czesc in (komentarz(d), liturgia(d), analiza(d), odniesienia(d)):
         if czesc:
@@ -379,7 +399,7 @@ def motywy():
     out = [r'#pagebreak(weak: true)', r'#heading(level: 1)[Motywy]',
            r'#emph[Nici tematyczne przez całą księgę]' + '\n']
     for m in app.api_themes():
-        out.append(f'#heading(level: 2)[{esc(m["name"])}]')
+        out.append(f'#heading(level: 2, outlined: false)[{esc(m["name"])}]')
         if m.get("description_md"):
             out.append(md(m["description_md"]))
         ps = m.get("pericopes") or []
@@ -393,8 +413,15 @@ def main():
         raise SystemExit(f"Brak bazy: {app.DB}\nUruchom najpierw: make build")
     czesci = naglowek_glowny()
     czesci.append(wprowadzenie())
-    for p in app.api_pericopes():
-        czesci.append(perykopa(p["id"]))
+    wszystkie = app.api_pericopes()
+    znaki = [p for p in wszystkie if p["chapter_start"] < 13]
+    meka = [p for p in wszystkie if p["chapter_start"] >= 13]
+    for tytul, grupa in (("Księga Znaków", znaki), ("Księga Męki", meka)):
+        if not grupa:
+            continue
+        czesci.append(ksiega(tytul, grupa))
+        for p in grupa:
+            czesci.append(perykopa(p["id"]))
     czesci.append(motywy())
     OUT.write_text("\n\n".join(czesci) + "\n", encoding="utf-8")
     print(f"OK -> {OUT} ({OUT.stat().st_size} bajtów)\n"
