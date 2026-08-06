@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–16,15** w trzydziestu ośmiu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz trzydzieści siedem perykop J 1,15–16,15; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **J 1,1–16,33** w trzydziestu dziewięciu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz trzydzieści osiem perykop J 1,15–16,33; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -46,6 +46,7 @@ data/                     ← źródła (pod kontrolą wersji)
   krzew.json             J 15,1-17 (Krzew winny i przyjaciele)
   nienawisc.json         J 15,18-16,4 (Nienawiść świata i świadectwo Parakleta)
   duch.json              J 16,5-15 (Dzieło Parakleta)
+  radosc.json            J 16,16-33 (Smutek zamieniony w radość)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -88,7 +89,7 @@ oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera — najpierw
 Wprowadzenie (meta + intro_section), potem perykopy w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
-dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd → ziarno → bilans → umycie → zdrada → mieszkania → paraklet → krzew → nienawisc → duch`.
+dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd → ziarno → bilans → umycie → zdrada → mieszkania → paraklet → krzew → nienawisc → duch → radosc`.
 
 ## Warstwy schematu
 
@@ -223,6 +224,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 15,1–17 | Krzew winny i przyjaciele | ukończona |
 | J 15,18–16,4 | Nienawiść świata i świadectwo Parakleta | ukończona |
 | J 16,5–15 | Dzieło Parakleta | ukończona |
+| J 16,16–33 | Smutek zamieniony w radość | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
