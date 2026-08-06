@@ -330,6 +330,36 @@ def liturgia(d):
     return "\n\n".join(out)
 
 
+def leksykon(d):
+    """Leksemy perykopy z mapą wystąpień. W przeglądarce znaczenia słów żyją
+    w dymkach interlinii — w druku dymków nie ma, więc warstwa słownikowa
+    dostaje własną część, inaczej ginie w PDF-ie zupełnie."""
+    if not d.get("lexemes"):
+        return ""
+    wg = {}
+    for l in d["lexemes"]:
+        w = wg.setdefault(l["lemma"], {**l, "miejsca": []})
+        forma = l["form_in_text"] if l["form_in_text"] != l["lemma"] else ""
+        w["miejsca"].append(vnum(d, l["chapter"], l["verse_num"])
+                            + (f' {forma}' if forma else ""))
+    out = [r'#heading(level: 3)[Leksykon]',
+           '#block(breakable: true)[#table(columns: (auto, 1fr), '
+           'stroke: white, inset: (x: 5pt, y: 3pt), align: top + left,']
+    for l in wg.values():
+        naglowek = f'strong[{esc(l["lemma"])}]'
+        if l["translit"]:
+            naglowek += f' + linebreak() + emph[{esc(l["translit"])}]'
+        if l["pos"]:
+            naglowek += (f' + linebreak() + text(size: 8pt, fill: luma(110))'
+                         f'[{esc(l["pos"])}]')
+        tresc = md(l["gloss_pl"]) or ""
+        miejsca = " · ".join(esc(m) for m in l["miejsca"])
+        out.append(f'  {naglowek}, [{tresc}\n\n'
+                   f'#text(size: 8pt, fill: luma(110))[w. {miejsca}]],')
+    out.append(")]")
+    return "\n".join(out)
+
+
 def odniesienia(d):
     if not d.get("refs") and not d.get("themes"):
         return ""
@@ -389,7 +419,8 @@ def perykopa(pid):
         out.append(md(intro["body_md"]))
     out.append(r'#heading(level: 3)[Tekst perykopy]')
     out.append(tekst_paralelny(d))
-    for czesc in (komentarz(d), liturgia(d), analiza(d), odniesienia(d)):
+    for czesc in (komentarz(d), liturgia(d), analiza(d), leksykon(d),
+                  odniesienia(d)):
         if czesc:
             out.append(czesc)
     return "\n\n".join(out)
@@ -408,6 +439,39 @@ def motywy():
     return "\n\n".join(out)
 
 
+def sprawdz_kompletnosc(dokument, perykopy):
+    """Twarda kontrola: każda perykopa z bazy musi trafić do dokumentu wraz
+    z każdą warstwą, dla której ma dane. Eksport, który cokolwiek gubi, ma
+    zawieść głośno — nie wypuścić po cichu niepełnego PDF-a."""
+    braki = []
+    for p in perykopy:
+        if f'#heading(level: 2)[{esc(p["title"])}]' not in dokument:
+            braki.append(f'perykopa {p["siglum"]} — {p["title"]}')
+            continue
+        d = app.api_pericope(p["id"])
+        warstwy = (
+            ("tekst perykopy", bool(d["verses"]), "Tekst perykopy"),
+            ("analiza", bool(d["units"]), "Analiza wers po wersie"),
+            ("leksykon", bool(d["lexemes"]), "Leksykon"),
+            ("liturgia", bool(d["liturgy"]), "Liturgia"),
+            ("odniesienia", bool(d["refs"] or d["themes"]), "Odniesienia i motywy"),
+            ("katena", bool(d["catena"]), "Ojcowie Kościoła"),
+            ("aparat krytyczny", bool(d["textual"]), "Aparat krytyczny"),
+        )
+        for nazwa, ma_dane, naglowek in warstwy:
+            if ma_dane and f'[{naglowek}]' not in dokument:
+                braki.append(f'{p["siglum"]}: brak warstwy „{nazwa}"')
+        for s in d["sections"]:
+            if s["parent_id"] is None and s["section_type"] in (
+                    "filologia", "patrystyka", "nota"):
+                continue          # świadomie poza drukiem (jak w przeglądarce)
+            if f'[{esc(s["title"])}]' not in dokument:
+                braki.append(f'{p["siglum"]}: brak sekcji „{s["title"]}"')
+    if braki:
+        raise SystemExit("Eksport niekompletny — brakuje:\n  "
+                         + "\n  ".join(braki[:40]))
+
+
 def main():
     if not app.DB.exists():
         raise SystemExit(f"Brak bazy: {app.DB}\nUruchom najpierw: make build")
@@ -423,8 +487,10 @@ def main():
         for p in grupa:
             czesci.append(perykopa(p["id"]))
     czesci.append(motywy())
-    OUT.write_text("\n\n".join(czesci) + "\n", encoding="utf-8")
-    print(f"OK -> {OUT} ({OUT.stat().st_size} bajtów)\n"
+    dokument = "\n\n".join(czesci) + "\n"
+    sprawdz_kompletnosc(dokument, wszystkie)
+    OUT.write_text(dokument, encoding="utf-8")
+    print(f"OK -> {OUT} ({OUT.stat().st_size} bajtów, {len(wszystkie)} perykop)\n"
           f"     typst compile {OUT.name} egzegeza.pdf")
 
 
