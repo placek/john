@@ -39,6 +39,7 @@ Ten plik to WYŁĄCZNIE narzędzie — cała treść (schemat i dane) leży osob
     data/mieszkania.json   — J 14,1-14 (Droga, prawda i życie)
     data/paraklet.json     — J 14,15-31 (Paraklet i pokój)
     data/krzew.json        — J 15,1-17 (Krzew winny i przyjaciele)
+    data/nienawisc.json    — J 15,18-16,4 (Nienawiść świata i świadectwo Parakleta)
 
 Uruchomienie:  python3 tools/egzegeza_jana_build.py
 Wynik:         data/egzegeza_jana.sqlite (budowana od zera)
@@ -59,7 +60,7 @@ DB = DATA / "egzegeza_jana.sqlite"
 SCHEMA = DATA / "schema.sql"
 PHASES = ["prolog.json", "continuation.json", "kana.json", "swiatynia.json",
           "nikodem.json", "oblubieniec.json", "samarytanka.json",
-          "dworzanin.json", "betesda.json", "mowa.json", "chleb.json", "eucharystia.json", "bracia.json", "swieto.json", "woda.json", "adultera.json", "swiatlosc.json", "abraham.json", "niewidomy.json", "pasterz.json", "poswiecenie.json", "lazarz.json", "kajfasz.json", "namaszczenie.json", "wjazd.json", "ziarno.json", "bilans.json", "umycie.json", "zdrada.json", "mieszkania.json", "paraklet.json", "krzew.json"]
+          "dworzanin.json", "betesda.json", "mowa.json", "chleb.json", "eucharystia.json", "bracia.json", "swieto.json", "woda.json", "adultera.json", "swiatlosc.json", "abraham.json", "niewidomy.json", "pasterz.json", "poswiecenie.json", "lazarz.json", "kajfasz.json", "namaszczenie.json", "wjazd.json", "ziarno.json", "bilans.json", "umycie.json", "zdrada.json", "mieszkania.json", "paraklet.json", "krzew.json", "nienawisc.json"]
 
 # Tytuł sekcji I jest strukturalnym szkieletem każdej perykopy (nie treścią).
 SECTION_I_TITLE = ("Tekst grecki (Nestle-Aland, wyd. 28) z przekładem "
@@ -155,9 +156,12 @@ def insert_pericope(cur, bundle, chapter, resolve):
         cur.execute("""INSERT INTO liturgical_use(pericope_id, rite, occasion, passage, description_md)
                        VALUES (?,?,?,?,?)""", (pid, rite, occ, passage, desc))
 
-    for vn, lemma, issue, readings, assessment in bundle["textual"]:
+    # nota to [nr wersetu, ...] w rozdziale pliku albo [rozdział, nr wersetu, ...]
+    for item in bundle["textual"]:
+        ch_n, vn, lemma, issue, readings, assessment = (
+            item if len(item) == 6 else (chapter, *item))
         cur.execute("""INSERT INTO textual_note(verse_id, lemma_text, issue, readings_md, assessment_md)
-                       VALUES (?,?,?,?,?)""", (verse_of(chapter, vn), lemma, issue, readings, assessment))
+                       VALUES (?,?,?,?,?)""", (verse_of(ch_n, vn), lemma, issue, readings, assessment))
 
     for name, link in bundle["theme_links"]:
         cols = {"pericope_id": None, "section_id": None, "block_id": None, "analysis_unit_id": None}
@@ -232,9 +236,12 @@ def insert_phase(cur, data):
         cur.execute("INSERT OR IGNORE INTO lexeme_semitic(lexeme_id, semitic_id, relation_note) VALUES (?,?,?)",
                     (lex_of(lemma), sem_of(sem_tr), note))
 
-    for lemma, vn, form in data["occurrences"]:
+    # wystąpienie to [lemat, nr wersetu, forma] w rozdziale pliku albo
+    # [lemat, rozdział, nr wersetu, forma] — jak w pozycjach wersetów
+    for item in data["occurrences"]:
+        lemma, ch_w, vn, form = item if len(item) == 4 else (item[0], chapter, item[1], item[2])
         cur.execute("INSERT INTO lexeme_occurrence(lexeme_id, verse_id, form_in_text) VALUES (?,?,?)",
-                    (lex_of(lemma), verse_of(chapter, vn), form))
+                    (lex_of(lemma), verse_of(ch_w, vn), form))
 
     for author, title, title_pl, century, trad in data["works"]:
         cur.execute("INSERT OR IGNORE INTO work(author, title, title_pl, century, tradition) VALUES (?,?,?,?,?)",
