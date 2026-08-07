@@ -1,0 +1,1450 @@
+{
+ "books": [],
+ "verses": {
+  "chapter": 18,
+  "items": [
+   [
+    28,
+    "Ἄγουσιν οὖν τὸν Ἰησοῦν ἀπὸ τοῦ Καϊάφα εἰς τὸ πραιτώριον· ἦν δὲ πρωΐ· καὶ αὐτοὶ οὐκ εἰσῆλθον εἰς τὸ πραιτώριον, ἵνα μὴ μιανθῶσιν ἀλλὰ φάγωσιν τὸ πάσχα·",
+    "Prowadzą więc Jezusa od Kajfasza do pretorium; a było wcześnie rano. I sami nie weszli do pretorium, aby się nie skalali, lecz mogli spożyć Paschę."
+   ],
+   [
+    29,
+    "ἐξῆλθεν οὖν ὁ Πιλᾶτος ἔξω πρὸς αὐτοὺς καὶ φησίν· τίνα κατηγορίαν φέρετε κατὰ τοῦ ἀνθρώπου τούτου;",
+    "Wyszedł więc Piłat na zewnątrz do nich i mówi: Jaką skargę wnosicie przeciw temu człowiekowi?"
+   ],
+   [
+    30,
+    "ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· εἰ μὴ ἦν οὗτος κακὸν ποιῶν, οὐκ ἄν σοι παρεδώκαμεν αὐτόν·",
+    "Odpowiedzieli i rzekli mu: Gdyby ten nie był czyniącym zło, nie wydalibyśmy go tobie."
+   ],
+   [
+    31,
+    "εἶπεν οὖν αὐτοῖς ὁ Πιλᾶτος· λάβετε αὐτὸν ὑμεῖς καὶ κατὰ τὸν νόμον ὑμῶν κρίνατε αὐτόν· εἶπον αὐτῷ οἱ Ἰουδαῖοι· ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα·",
+    "Rzekł więc im Piłat: Weźcie go wy i według waszego Prawa osądźcie go. Rzekli mu Żydzi: Nam nie wolno nikogo zabić."
+   ],
+   [
+    32,
+    "ἵνα ὁ λόγος τοῦ Ἰησοῦ πληρωθῇ ὃν εἶπεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν·",
+    "Aby wypełniło się słowo Jezusa, które wypowiedział, dając znać, jaką śmiercią miał umrzeć."
+   ],
+   [
+    33,
+    "Εἰσῆλθεν οὖν πάλιν εἰς τὸ πραιτώριον ὁ Πιλᾶτος καὶ ἐφώνησεν τὸν Ἰησοῦν καὶ εἶπεν αὐτῷ· σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων;",
+    "Wszedł więc znowu do pretorium Piłat i zawołał Jezusa, i rzekł mu: Ty jesteś królem Żydów?"
+   ],
+   [
+    34,
+    "ἀπεκρίθη Ἰησοῦς· ἀπὸ σεαυτοῦ σὺ τοῦτο λέγεις ἢ ἄλλοι εἶπόν σοι περὶ ἐμοῦ;",
+    "Odpowiedział Jezus: Od siebie samego ty to mówisz, czy inni powiedzieli ci o mnie?"
+   ],
+   [
+    35,
+    "ἀπεκρίθη ὁ Πιλᾶτος· μήτι ἐγὼ Ἰουδαῖός εἰμι; τὸ ἔθνος τὸ σὸν καὶ οἱ ἀρχιερεῖς παρέδωκάν σε ἐμοί· τί ἐποίησας;",
+    "Odpowiedział Piłat: Czy ja jestem Żydem? Twój naród i arcykapłani wydali mi ciebie. Co uczyniłeś?"
+   ],
+   [
+    36,
+    "ἀπεκρίθη Ἰησοῦς· ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐκ τοῦ κόσμου τούτου· εἰ ἐκ τοῦ κόσμου τούτου ἦν ἡ βασιλεία ἡ ἐμή, οἱ ὑπηρέται οἱ ἐμοὶ ἠγωνίζοντο ἂν ἵνα μὴ παραδοθῶ τοῖς Ἰουδαίοις· νῦν δὲ ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐντεῦθεν·",
+    "Odpowiedział Jezus: Królestwo moje nie jest z tego świata. Gdyby z tego świata było królestwo moje, słudzy moi walczyliby, abym nie został wydany Żydom. Teraz zaś królestwo moje nie jest stąd."
+   ],
+   [
+    37,
+    "εἶπεν οὖν αὐτῷ ὁ Πιλᾶτος· οὐκοῦν βασιλεὺς εἶ σύ; ἀπεκρίθη ὁ Ἰησοῦς· σὺ λέγεις ὅτι βασιλεύς εἰμι· ἐγὼ εἰς τοῦτο γεγέννημαι καὶ εἰς τοῦτο ἐλήλυθα εἰς τὸν κόσμον, ἵνα μαρτυρήσω τῇ ἀληθείᾳ· πᾶς ὁ ὢν ἐκ τῆς ἀληθείας ἀκούει μου τῆς φωνῆς·",
+    "Rzekł więc mu Piłat: A więc ty jesteś królem? Odpowiedział Jezus: Ty mówisz, że jestem królem. Ja na to się narodziłem i na to przyszedłem na świat, aby dać świadectwo prawdzie. Każdy, kto jest z prawdy, słucha mojego głosu."
+   ],
+   [
+    38,
+    "λέγει αὐτῷ ὁ Πιλᾶτος· τί ἐστιν ἀλήθεια; Καὶ τοῦτο εἰπὼν πάλιν ἐξῆλθεν πρὸς τοὺς Ἰουδαίους καὶ λέγει αὐτοῖς· ἐγὼ οὐδεμίαν εὑρίσκω ἐν αὐτῷ αἰτίαν·",
+    "Mówi mu Piłat: Co to jest prawda? A to powiedziawszy, znowu wyszedł do Żydów i mówi im: Ja żadnej winy w nim nie znajduję."
+   ],
+   [
+    39,
+    "ἔστιν δὲ συνήθεια ὑμῖν ἵνα ἕνα ἀπολύσω ὑμῖν ἐν τῷ πάσχα· βούλεσθε οὖν ἀπολύσω ὑμῖν τὸν βασιλέα τῶν Ἰουδαίων;",
+    "Jest zaś u was zwyczaj, abym jednego wam uwolnił na Paschę. Chcecie więc, abym wam uwolnił króla Żydów?"
+   ],
+   [
+    40,
+    "ἐκραύγασαν οὖν πάλιν λέγοντες· μὴ τοῦτον ἀλλὰ τὸν Βαραββᾶν· ἦν δὲ ὁ Βαραββᾶς λῃστής·",
+    "Zawołali więc znowu, mówiąc: Nie tego, ale Barabasza! A Barabasz był rozbójnikiem."
+   ],
+   [
+    19,
+    1,
+    "Τότε οὖν ἔλαβεν ὁ Πιλᾶτος τὸν Ἰησοῦν καὶ ἐμαστίγωσεν·",
+    "Wtedy więc Piłat wziął Jezusa i ubiczował."
+   ],
+   [
+    19,
+    2,
+    "καὶ οἱ στρατιῶται πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ καὶ ἱμάτιον πορφυροῦν περιέβαλον αὐτὸν",
+    "A żołnierze, uplótłszy koronę z cierni, włożyli mu na głowę i płaszczem purpurowym go okryli."
+   ],
+   [
+    19,
+    3,
+    "καὶ ἤρχοντο πρὸς αὐτὸν καὶ ἔλεγον· χαῖρε ὁ βασιλεὺς τῶν Ἰουδαίων· καὶ ἐδίδοσαν αὐτῷ ῥαπίσματα·",
+    "I podchodzili do niego, i mówili: Witaj, królu Żydów! I wymierzali mu policzki."
+   ],
+   [
+    19,
+    4,
+    "Καὶ ἐξῆλθεν πάλιν ἔξω ὁ Πιλᾶτος καὶ λέγει αὐτοῖς· ἴδε ἄγω ὑμῖν αὐτὸν ἔξω, ἵνα γνῶτε ὅτι οὐδεμίαν αἰτίαν εὑρίσκω ἐν αὐτῷ·",
+    "I wyszedł znowu na zewnątrz Piłat, i mówi im: Oto wyprowadzam go wam na zewnątrz, abyście poznali, że żadnej winy w nim nie znajduję."
+   ],
+   [
+    19,
+    5,
+    "ἐξῆλθεν οὖν ὁ Ἰησοῦς ἔξω, φορῶν τὸν ἀκάνθινον στέφανον καὶ τὸ πορφυροῦν ἱμάτιον· καὶ λέγει αὐτοῖς· ἰδοὺ ὁ ἄνθρωπος·",
+    "Wyszedł więc Jezus na zewnątrz, niosąc cierniową koronę i purpurowy płaszcz. I mówi im: Oto człowiek."
+   ],
+   [
+    19,
+    6,
+    "Ὅτε οὖν εἶδον αὐτὸν οἱ ἀρχιερεῖς καὶ οἱ ὑπηρέται ἐκραύγασαν λέγοντες· σταύρωσον σταύρωσον· λέγει αὐτοῖς ὁ Πιλᾶτος· λάβετε αὐτὸν ὑμεῖς καὶ σταυρώσατε· ἐγὼ γὰρ οὐχ εὑρίσκω ἐν αὐτῷ αἰτίαν·",
+    "Gdy więc zobaczyli go arcykapłani i słudzy, zawołali, mówiąc: Ukrzyżuj! Ukrzyżuj! Mówi im Piłat: Weźcie go wy i ukrzyżujcie; ja bowiem nie znajduję w nim winy."
+   ],
+   [
+    19,
+    7,
+    "ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι· ἡμεῖς νόμον ἔχομεν καὶ κατὰ τὸν νόμον ὀφείλει ἀποθανεῖν, ὅτι υἱὸν θεοῦ ἑαυτὸν ἐποίησεν·",
+    "Odpowiedzieli mu Żydzi: My mamy Prawo i według Prawa powinien umrzeć, bo synem Bożym siebie uczynił."
+   ],
+   [
+    19,
+    8,
+    "Ὅτε οὖν ἤκουσεν ὁ Πιλᾶτος τοῦτον τὸν λόγον, μᾶλλον ἐφοβήθη,",
+    "Gdy więc Piłat usłyszał to słowo, bardziej się przestraszył"
+   ],
+   [
+    19,
+    9,
+    "καὶ εἰσῆλθεν εἰς τὸ πραιτώριον πάλιν καὶ λέγει τῷ Ἰησοῦ· πόθεν εἶ σύ; ὁ δὲ Ἰησοῦς ἀπόκρισιν οὐκ ἔδωκεν αὐτῷ·",
+    "i wszedł do pretorium znowu, i mówi Jezusowi: Skąd ty jesteś? Jezus zaś nie dał mu odpowiedzi."
+   ],
+   [
+    19,
+    10,
+    "λέγει οὖν αὐτῷ ὁ Πιλᾶτος· ἐμοὶ οὐ λαλεῖς; οὐκ οἶδας ὅτι ἐξουσίαν ἔχω ἀπολῦσαί σε καὶ ἐξουσίαν ἔχω σταυρῶσαί σε;",
+    "Mówi więc mu Piłat: Do mnie nie mówisz? Czy nie wiesz, że mam władzę uwolnić cię i mam władzę ukrzyżować cię?"
+   ],
+   [
+    19,
+    11,
+    "ἀπεκρίθη αὐτῷ Ἰησοῦς· οὐκ εἶχες ἐξουσίαν κατʼ ἐμοῦ οὐδεμίαν εἰ μὴ ἦν δεδομένον σοι ἄνωθεν· διὰ τοῦτο ὁ παραδούς μέ σοι μείζονα ἁμαρτίαν ἔχει·",
+    "Odpowiedział mu Jezus: Nie miałbyś nade mną żadnej władzy, gdyby nie było ci dane z góry. Dlatego ten, kto mnie tobie wydał, ma większy grzech."
+   ],
+   [
+    19,
+    12,
+    "ἐκ τούτου ὁ Πιλᾶτος ἐζήτει ἀπολῦσαι αὐτόν· οἱ δὲ Ἰουδαῖοι ἐκραύγασαν λέγοντες· ἐὰν τοῦτον ἀπολύσῃς, οὐκ εἶ φίλος τοῦ Καίσαρος· πᾶς ὁ βασιλέα ἑαυτὸν ποιῶν ἀντιλέγει τῷ Καίσαρι·",
+    "Odtąd Piłat usiłował go uwolnić. Lecz Żydzi zawołali, mówiąc: Jeżeli tego uwolnisz, nie jesteś przyjacielem Cezara. Każdy, kto czyni siebie królem, sprzeciwia się Cezarowi."
+   ],
+   [
+    19,
+    13,
+    "ὁ οὖν Πιλᾶτος ἀκούσας τῶν λόγων τούτων ἤγαγεν ἔξω τὸν Ἰησοῦν καὶ ἐκάθισεν ἐπὶ βήματος εἰς τόπον λεγόμενον Λιθόστρωτον, Ἑβραϊστὶ δὲ Γαββαθα·",
+    "Piłat więc, usłyszawszy te słowa, wyprowadził Jezusa na zewnątrz i zasiadł na trybunale, na miejscu zwanym Litostrotos, po hebrajsku zaś Gabbata."
+   ],
+   [
+    19,
+    14,
+    "ἦν δὲ παρασκευὴ τοῦ πάσχα, ὥρα ἦν ὡς ἕκτη· καὶ λέγει τοῖς Ἰουδαίοις· ἴδε ὁ βασιλεὺς ὑμῶν·",
+    "A było to Przygotowanie Paschy, godzina była około szóstej. I mówi Żydom: Oto król wasz."
+   ],
+   [
+    19,
+    15,
+    "ἐκραύγασαν οὖν ἐκεῖνοι· ἆρον ἆρον, σταύρωσον αὐτόν· λέγει αὐτοῖς ὁ Πιλᾶτος· τὸν βασιλέα ὑμῶν σταυρώσω; ἀπεκρίθησαν οἱ ἀρχιερεῖς· οὐκ ἔχομεν βασιλέα εἰ μὴ Καίσαρα·",
+    "Zawołali więc tamci: Precz! Precz! Ukrzyżuj go! Mówi im Piłat: Króla waszego mam ukrzyżować? Odpowiedzieli arcykapłani: Nie mamy króla, tylko Cezara."
+   ],
+   [
+    19,
+    16,
+    "Τότε οὖν παρέδωκεν αὐτὸν αὐτοῖς ἵνα σταυρωθῇ· Παρέλαβον οὖν τὸν Ἰησοῦν,",
+    "Wtedy więc wydał go im, aby został ukrzyżowany. Zabrali więc Jezusa."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "πραιτώριον",
+   "praitorion",
+   "rzeczownik",
+   "pretorium — łacińskie praetorium przejęte do greki: rezydencja namiestnika rzymskiego; w Jerozolimie najpewniej dawny pałac Heroda przy zachodnim murze (nie twierdza Antonia); u Jana słowo-scena procesu (18,28.33; 19,9) — próg, którego oskarżyciele nie przekraczają w trosce o czystość rytualną, a który staje się miejscem najgłębszego dialogu tej Ewangelii"
+  ],
+  [
+   "κατηγορία",
+   "kategoria",
+   "rzeczownik",
+   "skarga, akt oskarżenia — termin procesowy (od κατηγορέω — oskarżać przed sądem): τίνα κατηγορίαν φέρετε; (18,29) otwiera formalny proces rzymski; charakterystyczne, że oskarżyciele nie potrafią jej sformułować (18,30: „gdyby nie był złoczyńcą…\") — proces Jezusa zaczyna się od oskarżenia bez treści"
+  ],
+  [
+   "αἰτία",
+   "aitia",
+   "rzeczownik",
+   "wina, podstawa oskarżenia, powód prawny — w ustach Piłata trzykrotne οὐδεμίαν αἰτίαν εὑρίσκω (18,38; 19,4.6): urzędowa formuła uniewinnienia; ten sam rzeczownik pojawi się na tabliczce winy (titulus) nad krzyżem u synoptyków (Mt 27,37) — Jan buduje na tym ironię: skazano Tego, w którym sędzia po trzykroć nie znalazł winy"
+  ],
+  [
+   "μαστιγόω",
+   "mastigoo",
+   "czasownik",
+   "ubiczować — rzymska flagellatio rzemieniami z ołowianymi końcówkami, kara samoistna lub wstęp do egzekucji; Jan opisuje ją jednym słowem bez przymiotnika (19,1), zgodnie ze starożytną wstydliwością wobec tortur; czasownik wypełnia zapowiedź z trzeciej zapowiedzi Męki u synoptyków (Mk 10,34) i Iz 50,6 LXX (τὸν νῶτόν μου δέδωκα εἰς μάστιγας)"
+  ],
+  [
+   "στέφανος",
+   "stefanos",
+   "rzeczownik",
+   "wieniec, korona — w świecie greckim znak zwycięstwa (wieniec atlety), w rzymskim — władzy i triumfu; στέφανος ἐξ ἀκανθῶν (19,2.5) jest rekwizytem szyderstwa, który Ewangelia traktuje śmiertelnie poważnie: jedyna korona, jaką świat dał swojemu Królowi; w Apokalipsie Baranek nosi już διαδήματα πολλά (Ap 19,12)"
+  ],
+  [
+   "ἄκανθα",
+   "akantha",
+   "rzeczownik",
+   "cierń — roślina przekleństwa ziemi po upadku (Rdz 3,18 LXX: ἀκάνθας καὶ τριβόλους ἀνατελεῖ σοι); korona spleciona z cierni czyni z głowy Skazańca miejsce, gdzie przekleństwo Adamowej ziemi zostaje dosłownie wzięte na głowę nowego Adama — patrystyka czytała ten szczegół jako zwięzłą sumę soteriologii"
+  ],
+  [
+   "πορφυροῦς",
+   "porfyrous",
+   "przymiotnik",
+   "purpurowy — ἱμάτιον πορφυροῦν (19,2.5): purpura, barwnik z morskich ślimaków, była w starożytności insygnium królewskim i cesarskim (por. 1 Mch 8,14); żołnierski płaszcz udający purpurę jest kostiumem parodii — ale Jan, mistrz ironii, pokazuje w przebraniu prawdę: przed Piłatem stoi Król w purpurze i koronie"
+  ],
+  [
+   "σταυρόω",
+   "stauroo",
+   "czasownik",
+   "ukrzyżować — czasownik pada w tej perykopie po raz pierwszy u Jana i od razu seryjnie (19,6 ×3; 19,15 ×2; 19,16): σταύρωσον σταύρωσον — okrzyk tłumu zastępuje wyrok, którego Piłat nigdy formalnie nie wypowiada; ukrzyżowanie, kara rzymska dla niewolników i buntowników, jest u Jana od początku „wywyższeniem\" (3,14; 12,32-33) — słowo hańby niesie teologię chwały"
+  ],
+  [
+   "βῆμα",
+   "bema",
+   "rzeczownik",
+   "trybunał, podwyższenie sędziowskie — ἐκάθισεν ἐπὶ βήματος (19,13): oficjalne miejsce ogłaszania wyroków; składnia pozwala czytać ἐκάθισεν i nieprzechodnio (Piłat zasiadł), i przechodnio (posadził Jezusa na trybunale — tak rozumieli Justyn i Ewangelia Piotra); w NT βῆμα to także trybunał Chrystusa, przed którym staną wszyscy (2 Kor 5,10) — sądzony jest Sędzią"
+  ],
+  [
+   "Καῖσαρ",
+   "Kaisar",
+   "rzeczownik",
+   "Cezar — tytuł cesarza rzymskiego (tu: Tyberiusz); w perykopie trzykrotnie (19,12 ×2; 19,15) jako ostateczny argument procesu: „nie jesteś przyjacielem Cezara\" łamie Piłata, a „nie mamy króla, tylko Cezara\" — wyznanie arcykapłanów w wigilię Paschy — jest teologicznym samowyrokiem: odrzuceniem królowania Boga (1 Sm 8,7)"
+  ],
+  [
+   "παρασκευή",
+   "paraskeue",
+   "rzeczownik",
+   "Przygotowanie — dzień przygotowania święta; παρασκευὴ τοῦ πάσχα (19,14) to u Jana 14 Nisan, wigilia Paschy: po południu zabijano w świątyni baranki paschalne; wyrok na Jezusa zapada dokładnie wtedy — Janowa chronologia jest teologią: prawdziwy Baranek (1,29) umiera w godzinie baranków; słowo wróci w 19,31.42"
+  ],
+  [
+   "ἀπολύω",
+   "apolyo",
+   "czasownik",
+   "uwolnić, wypuścić — czasownik targu Piłata: proponowane uwolnienie paschalne (18,39 ×2), chełpliwe „mam władzę uwolnić cię\" (19,10) i seria daremnych prób (19,12: ἐζήτει ἀπολῦσαι — imperfectum usiłowania); sędzia, który MOŻE uwolnić i CHCE uwolnić, a mimo to skazuje, jest u Jana studium woli złamanej strachem — ostatnie ἀπολύσῃς pada już tylko w groźbie oskarżycieli"
+  ],
+  [
+   "λῃστής",
+   "lestes",
+   "rzeczownik",
+   "rozbójnik, bandyta — u Józefa Flawiusza termin na partyzantów i buntowników przeciw Rzymowi; ἦν δὲ ὁ Βαραββᾶς λῃστής (18,40) to cała charakterystyka wybranego przez tłum; u Jana słowo padło dotąd tylko o tych, którzy „przychodzą kraść i zabijać\" zamiast wejść bramą owiec (10,1.8) — tłum wybiera rozbójnika zamiast Pasterza"
+  ]
+ ],
+ "semitic": [
+  [
+   "גַּבְּתָא",
+   "Gabbata",
+   "aram",
+   "wzniesienie, garb (aram. gabbeta — od rdzenia gbh, być wysokim) — Ἑβραϊστὶ δὲ Γαββαθα (19,13): semicka nazwa miejsca trybunału nie jest tłumaczeniem greckiego Λιθόστρωτον (kamienny bruk), lecz drugą, niezależną nazwą tego samego miejsca — wybrukowanego podwyższenia przed pretorium; Jan podaje obie, jak przy Betesdzie i Golgocie, z dokładnością naocznego świadka topografii przedwojennej Jerozolimy"
+  ],
+  [
+   "עֶרֶב פֶּסַח",
+   "erew Pesach",
+   "hbr",
+   "wigilia Paschy, 14 Nisan — dzień, w którym po południu (Miszna, Pesachim 5,1: od około południa) zabijano w świątyni baranki paschalne na wieczerzę spożywaną po zmierzchu; Janowe „było Przygotowanie Paschy, godzina około szóstej\" (19,14) umieszcza wyrok na Jezusa dokładnie na progu tej rzezi — barait Talmudu (Sanhedryn 43a) zachowała pamięć, że Jezusa stracono „w wigilię Paschy\"; chronologia czwartej Ewangelii czyni z Golgoty dziedziniec świątynny"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "βῆμα",
+   "Gabbata",
+   "trybunał z 19,13 stoi na miejscu o podwójnej nazwie: greckiej Λιθόστρωτον (kamienny bruk) i aramejskiej Gabbata (wzniesienie); podwójne nazewnictwo — jak Betesda (5,2) i Golgota (19,17) — jest sygnaturą Janowej pamięci topograficznej, a sens aramejskiej nazwy dodaje scenie mimowolnej teologii: wyrok na Wywyższonego zapada na wzniesieniu"
+  ],
+  [
+   "παρασκευή",
+   "erew Pesach",
+   "παρασκευὴ τοῦ πάσχα jest greckim odpowiednikiem hebrajskiego erew Pesach — wigilii Paschy; w tej chronologii (innej niż synoptyczna) ostatnia wieczerza nie była ucztą paschalną, a Jezus umiera w godzinie, gdy w świątyni zabijano baranki: Jan podporządkował kalendarz teologii Baranka Bożego (1,29), którego kości nie zostaną złamane jak baranka z Wj 12,46 (por. 19,36)"
+  ]
+ ],
+ "occurrences": [
+  [
+   "πραιτώριον",
+   28,
+   "πραιτώριον ×2"
+  ],
+  [
+   "πραιτώριον",
+   33,
+   "πραιτώριον"
+  ],
+  [
+   "πάσχα",
+   28,
+   "πάσχα"
+  ],
+  [
+   "πάσχα",
+   39,
+   "πάσχα"
+  ],
+  [
+   "κατηγορία",
+   29,
+   "κατηγορίαν"
+  ],
+  [
+   "παραδίδωμι",
+   30,
+   "παρεδώκαμεν"
+  ],
+  [
+   "παραδίδωμι",
+   35,
+   "παρέδωκάν"
+  ],
+  [
+   "παραδίδωμι",
+   36,
+   "παραδοθῶ"
+  ],
+  [
+   "νόμος",
+   31,
+   "νόμον"
+  ],
+  [
+   "ἀποκτείνω",
+   31,
+   "ἀποκτεῖναι"
+  ],
+  [
+   "λόγος",
+   32,
+   "λόγος"
+  ],
+  [
+   "βασιλεύς",
+   33,
+   "βασιλεὺς"
+  ],
+  [
+   "βασιλεύς",
+   37,
+   "βασιλεύς ×2"
+  ],
+  [
+   "βασιλεύς",
+   39,
+   "βασιλέα"
+  ],
+  [
+   "βασιλεία",
+   36,
+   "βασιλεία ×3"
+  ],
+  [
+   "κόσμος",
+   36,
+   "κόσμου ×2 / κόσμου τούτου"
+  ],
+  [
+   "κόσμος",
+   37,
+   "κόσμον"
+  ],
+  [
+   "ἀλήθεια",
+   37,
+   "ἀληθείᾳ / ἀληθείας"
+  ],
+  [
+   "ἀλήθεια",
+   38,
+   "ἀλήθεια"
+  ],
+  [
+   "μαρτυρέω",
+   37,
+   "μαρτυρήσω"
+  ],
+  [
+   "φωνή",
+   37,
+   "φωνῆς"
+  ],
+  [
+   "αἰτία",
+   38,
+   "αἰτίαν"
+  ],
+  [
+   "ἀπολύω",
+   39,
+   "ἀπολύσω ×2"
+  ],
+  [
+   "κραυγάζω",
+   40,
+   "ἐκραύγασαν"
+  ],
+  [
+   "λῃστής",
+   40,
+   "λῃστής"
+  ],
+  [
+   "μαστιγόω",
+   19,
+   1,
+   "ἐμαστίγωσεν"
+  ],
+  [
+   "στέφανος",
+   19,
+   2,
+   "στέφανον"
+  ],
+  [
+   "στέφανος",
+   19,
+   5,
+   "στέφανον"
+  ],
+  [
+   "ἄκανθα",
+   19,
+   2,
+   "ἀκανθῶν"
+  ],
+  [
+   "πορφυροῦς",
+   19,
+   2,
+   "πορφυροῦν"
+  ],
+  [
+   "πορφυροῦς",
+   19,
+   5,
+   "πορφυροῦν"
+  ],
+  [
+   "βασιλεύς",
+   19,
+   3,
+   "βασιλεὺς"
+  ],
+  [
+   "βασιλεύς",
+   19,
+   12,
+   "βασιλέα"
+  ],
+  [
+   "βασιλεύς",
+   19,
+   14,
+   "βασιλεὺς"
+  ],
+  [
+   "βασιλεύς",
+   19,
+   15,
+   "βασιλέα / βασιλέα"
+  ],
+  [
+   "ῥάπισμα",
+   19,
+   3,
+   "ῥαπίσματα"
+  ],
+  [
+   "αἰτία",
+   19,
+   4,
+   "αἰτίαν"
+  ],
+  [
+   "αἰτία",
+   19,
+   6,
+   "αἰτίαν"
+  ],
+  [
+   "σταυρόω",
+   19,
+   6,
+   "σταύρωσον ×2 / σταυρώσατε"
+  ],
+  [
+   "σταυρόω",
+   19,
+   15,
+   "σταύρωσον / σταυρώσω"
+  ],
+  [
+   "σταυρόω",
+   19,
+   16,
+   "σταυρωθῇ"
+  ],
+  [
+   "νόμος",
+   19,
+   7,
+   "νόμον ×2"
+  ],
+  [
+   "ἀπολύω",
+   19,
+   10,
+   "ἀπολῦσαί"
+  ],
+  [
+   "ἀπολύω",
+   19,
+   12,
+   "ἀπολῦσαι / ἀπολύσῃς"
+  ],
+  [
+   "ἐξουσία",
+   19,
+   10,
+   "ἐξουσίαν ×2"
+  ],
+  [
+   "ἐξουσία",
+   19,
+   11,
+   "ἐξουσίαν"
+  ],
+  [
+   "ἄνωθεν",
+   19,
+   11,
+   "ἄνωθεν"
+  ],
+  [
+   "ἁμαρτία",
+   19,
+   11,
+   "ἁμαρτίαν"
+  ],
+  [
+   "φίλος",
+   19,
+   12,
+   "φίλος"
+  ],
+  [
+   "Καῖσαρ",
+   19,
+   12,
+   "Καίσαρος / Καίσαρι"
+  ],
+  [
+   "Καῖσαρ",
+   19,
+   15,
+   "Καίσαρα"
+  ],
+  [
+   "βῆμα",
+   19,
+   13,
+   "βήματος"
+  ],
+  [
+   "παρασκευή",
+   19,
+   14,
+   "παρασκευὴ"
+  ],
+  [
+   "πάσχα",
+   19,
+   14,
+   "πάσχα"
+  ],
+  [
+   "ὥρα",
+   19,
+   14,
+   "ὥρα"
+  ],
+  [
+   "κραυγάζω",
+   19,
+   6,
+   "ἐκραύγασαν"
+  ],
+  [
+   "κραυγάζω",
+   19,
+   12,
+   "ἐκραύγασαν"
+  ],
+  [
+   "κραυγάζω",
+   19,
+   15,
+   "ἐκραύγασαν"
+  ],
+  [
+   "παραδίδωμι",
+   19,
+   11,
+   "παραδούς"
+  ],
+  [
+   "παραδίδωμι",
+   19,
+   16,
+   "παρέδωκεν"
+  ]
+ ],
+ "works": [
+  [
+   "św. Leon Wielki",
+   "Sermones de passione Domini",
+   "Mowy o Męce Pańskiej",
+   "V",
+   "patrystyka"
+  ]
+ ],
+ "themes": [
+  [
+   "Ecce homo — król objawiony w poniżeniu",
+   "Proces przed Piłatem jest u Jana intronizacją odwróconą: wszystkie insygnia królewskie — korona, purpura, aklamacja „witaj, królu\", trybunał, prezentacja ludowi („oto król wasz\") — pojawiają się w trybie szyderstwa, a Ewangelista każe im mówić prawdę. Świat drwi, nie wiedząc, że koronuje. Szczytem tej ironii jest zdanie Piłata ἰδοὺ ὁ ἄνθρωπος (19,5): w zamierzeniu — „patrzcie na tego nieszczęśnika\", w ustach Ewangelii — prezentacja prawdziwego Człowieka, nowego Adama w koronie z cierni przeklętej ziemi (Rdz 3,18). Królewskość Jezusa nie jest „z tego świata\" (18,36) — nie znaczy: poza światem, lecz: nie z jego źródeł i nie jego metodami; jej berłem jest świadectwo prawdzie (18,37), a tronem będzie krzyż. Dlatego czwarta Ewangelia nie zna korony innej niż cierniowa ani purpury innej niż żołnierski płaszcz — i nie potrzebuje ich prostować."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 18,
+    "vs": 28,
+    "ce": 19,
+    "ve": 16,
+    "title": "Proces przed Piłatem",
+    "motto": "Regnum meum non est de hoc mundo (Królestwo moje nie jest z tego świata)",
+    "status": "ukonczona",
+    "position": 42
+   },
+   "intro": "Jest wcześnie rano, gdy Jezusa prowadzą od Kajfasza do pretorium — i już w pierwszym wersecie Jan zapala swoją najzimniejszą ironię: oskarżyciele nie wchodzą do środka, ABY SIĘ NIE SKALAĆ przed spożyciem Paschy. Skrupulatna czystość rytualna w chwili wydawania Niewinnego na śmierć; czytelnik, który pamięta zdanie Chrzciciela z pierwszego rozdziału, wie już, że prawdziwy Baranek paschalny właśnie idzie na zabicie. Ten próg, którego pobożni nie przekraczają, organizuje całą scenografię procesu: Piłat będzie krążył między dziedzińcem a wnętrzem pretorium — siedem razy wyjdzie i wejdzie — jakby sam nie mógł się zdecydować, po której stronie stoi. Na zewnątrz krzyczy tłum; wewnątrz toczy się najspokojniejszy dialog tej Ewangelii. Piłat pyta o to, co jedynie go obchodzi: „Ty jesteś królem Żydów?\" — i otrzymuje odpowiedź, która od dwóch tysięcy lat nie przestaje pracować: KRÓLESTWO MOJE NIE JEST Z TEGO ŚWIATA. Nie znaczy to, że jest gdzie indziej — znaczy, że pochodzi skądinąd: nie z przemocy, skoro jego słudzy nie walczą; nie z aklamacji, skoro zaraz zostanie wykrzyczane „ukrzyżuj\"; z prawdy, której Król przyszedł dać świadectwo. „Każdy, kto jest z prawdy, słucha mojego głosu\" — na co Piłat odpowiada pytaniem, które jest jednocześnie szczytem filozofii i kapitulacją przed nią: CO TO JEST PRAWDA? I nie czeka na odpowiedź, choć Prawda stoi przed nim związana. Dalej wypadki toczą się w rytmie eskalacji: Barabasz — rozbójnik wybrany zamiast Pasterza; biczowanie; korona z cierni i purpurowy płaszcz; „witaj, królu Żydów\" i policzki. Piłat trzykrotnie ogłasza, że nie znajduje winy — i trzykrotnie ustępuje. Wyprowadza ubiczowanego przed tłum ze słowami, które przerosły jego intencję na miarę proroctwa Kajfasza: ECCE HOMO, oto człowiek. Gdy pada wreszcie prawdziwe oskarżenie — „synem Bożym siebie uczynił\" — Piłat BARDZIEJ się boi i zadaje Janowe pytanie wszystkich pytań: skąd ty jesteś? Milczenie Jezusa, a potem zdanie o władzy danej z góry, przewracają role: to nie więzień jest sądzony. Ostatni akt rozgrywa się na kamiennym podwyższeniu zwanym po aramejsku Gabbata, w wigilię Paschy, około godziny szóstej — dokładnie wtedy, gdy w świątyni zaczynano zabijać baranki. „Oto król wasz!\" — „Nie mamy króla, tylko Cezara\". Tym jednym zdaniem, wypowiedzianym przez arcykapłanów w przeddzień święta upamiętniającego królowanie Boga nad Izraelem, proces się kończy: Piłat wydaje Jezusa, ale osądzeni są wszyscy inni.",
+   "struktura": "Perykopa jest zbudowana jak dyptyk sceniczny o siedmiu odsłonach, wyznaczanych ruchem Piłata między zewnętrzem (tłum, krzyk, polityka) a wnętrzem pretorium (Jezus, dialog, prawda): na zewnątrz (18,28-32: oskarżenie bez treści i odmowa jurysdykcji), wewnątrz (18,33-38a: rozmowa o królestwie i prawdzie), na zewnątrz (18,38b-40: pierwsza deklaracja niewinności i wybór Barabasza), w środku kompozycji (19,1-3): biczowanie i parodia koronacji — jedyna scena bez Piłata i bez tłumu, sam Król w insygniach szyderstwa; potem znowu na zewnątrz (19,4-7: Ecce homo, żądanie krzyża i prawdziwe oskarżenie), wewnątrz (19,8-11: „skąd ty jesteś?\" i władza dana z góry), wreszcie na zewnątrz (19,12-16a: szantaż przyjaźnią Cezara, trybunał na Gabbacie, „oto król wasz\" i wydanie). Środek chiazmu — koronacja cierniem — jest teologicznym sercem całości: w samym punkcie zerowym procesu, między deklaracjami niewinności, Ewangelia pokazuje prawdę w kostiumie parodii. W niniejszym opracowaniu siedem scen ujęto w sześć bloków (środkowa scena przekracza granicę rozdziału razem z wyborem Barabasza): 18,28-32 — przekazanie i pierwsza ironia (czystość rytualna, mimowolne proroctwo o rodzaju śmierci); 18,33-38 — pierwszy dialog: królestwo nie stąd i pytanie o prawdę; 18,39-19,3 — Barabasz, bicz i korona; 19,4-7 — Ecce homo i oskarżenie o synostwo Boże; 19,8-12 — drugi dialog: pochodzenie i władza, złamanie Piłata; 19,13-16 — Gabbata: trybunał, godzina baranków, samowyrok „nie mamy króla, tylko Cezara\" i wydanie na krzyż. Przez całość biegną trzy narastające serie: trzykrotne „nie znajduję w nim winy\" (18,38; 19,4.6), trzykrotny krzyk tłumu (18,40; 19,6.15) i trzykrotne „król\" w ustach Piłata (18,39; 19,14.15) — sędzia, który uniewinnia, tłum, który skazuje, i tytuł, który zostanie przybity nad krzyżem.",
+   "blocks": [
+    {
+     "label": "w. 18,28–32",
+     "units": [
+      [
+       "Ἄγουσιν οὖν τὸν Ἰησοῦν ἀπὸ τοῦ Καϊάφα εἰς τὸ πραιτώριον",
+       "prowadzą Jezusa do pretorium",
+       "Praesens historicum („prowadzą\") otwiera nowy akt z reporterską bezpośredniością: noc przesłuchań u Annasza i Kajfasza przechodzi w świt, a sąd religijny przekazuje sprawę władzy, która jako jedyna może orzec śmierć. Πρωΐ — „wcześnie rano\" — to nazwa czwartej straży nocnej (por. Mk 13,35): urzędowanie o brzasku było rzymskim zwyczajem, ale u Jana pora dnia nigdy nie jest neutralna. Judasz wyszedł w noc (13,30); teraz, gdy Jezus zaczyna drogę na krzyż, zaczyna świtać — światło wraca do opowieści dokładnie wtedy, gdy pozornie zwycięża ciemność. Samego przesłuchania przed Kajfaszem Jan w ogóle nie opowiada — sąd Izraela nad Jezusem odbył się w tej Ewangelii dawno (11,47-53), a jego streszczeniem było proroctwo Kajfasza o jednym umierającym za lud."
+      ],
+      [
+       "ἵνα μὴ μιανθῶσιν ἀλλὰ φάγωσιν τὸ πάσχα",
+       "aby się nie skalali, lecz mogli spożyć Paschę",
+       "Najzimniejsza ironia czwartej Ewangelii. Wejście do domu poganina ściągało według ówczesnej halachy nieczystość rytualną (por. Dz 10,28; 11,3) — a nieczystość zaciągnięta rano wykluczałaby ze spożycia baranka wieczorem. Oskarżyciele pilnują więc progu: skrupulatna czystość obrzędowa w chwili wydawania Niewinnego na śmierć. Jan nie komentuje — zestawia. Zdanie mimochodem zdradza też chronologię: Pascha ma być spożyta dopiero nadchodzącego wieczoru, a więc proces i egzekucja przypadają na 14 Nisan, wigilię święta — inaczej niż u synoptyków, u których ostatnia wieczerza jest już ucztą paschalną. Ta rozbieżność, dyskutowana od starożytności, jest u Jana teologicznie rozmyślna: Baranek Boży (1,29) umrze w dzień zabijania baranków."
+      ],
+      [
+       "σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν",
+       "jaką śmiercią miał umrzeć",
+       "Odpowiedź „nam nie wolno nikogo zabić\" (18,31) jest prawnie ścisła: ius gladii — prawo miecza — należało do namiestnika, a Sanhedryn mógł co najwyżej doprowadzić do samosądu (jak przy Szczepanie). Ale Jan natychmiast podnosi ten proceduralny szczegół do rangi Opatrzności: MUSIAŁO tak być, aby wypełniło się słowo Jezusa o rodzaju śmierci. Egzekucja żydowska oznaczałaby ukamienowanie; tylko rzymska oznacza krzyż — a Jezus trzykrotnie zapowiadał, że zostanie WYWYŻSZONY (3,14; 8,28; 12,32-33, gdzie Ewangelista użył tej samej formuły „dając znać, jaką śmiercią miał umrzeć\"). Machina dwóch jurysdykcji, przerzucających sobie więźnia, realizuje co do joty scenariusz, który Skazany sam ogłosił — pierwszy sygnał tej perykopy, że proces ma innego reżysera niż sędzia."
+      ]
+     ],
+     "greek": "Ἄγουσιν οὖν τὸν Ἰησοῦν ἀπὸ τοῦ Καϊάφα εἰς τὸ πραιτώριον· ἦν δὲ πρωΐ· καὶ αὐτοὶ οὐκ εἰσῆλθον εἰς τὸ πραιτώριον, ἵνα μὴ μιανθῶσιν ἀλλὰ φάγωσιν τὸ πάσχα· ἐξῆλθεν οὖν ὁ Πιλᾶτος ἔξω πρὸς αὐτοὺς καὶ φησίν· τίνα κατηγορίαν φέρετε κατὰ τοῦ ἀνθρώπου τούτου; ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· εἰ μὴ ἦν οὗτος κακὸν ποιῶν, οὐκ ἄν σοι παρεδώκαμεν αὐτόν· εἶπεν οὖν αὐτοῖς ὁ Πιλᾶτος· λάβετε αὐτὸν ὑμεῖς καὶ κατὰ τὸν νόμον ὑμῶν κρίνατε αὐτόν· εἶπον αὐτῷ οἱ Ἰουδαῖοι· ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα· ἵνα ὁ λόγος τοῦ Ἰησοῦ πληρωθῇ ὃν εἶπεν σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνῄσκειν·",
+     "transl": "Prowadzą więc Jezusa od Kajfasza do pretorium; a było wcześnie rano. I sami nie weszli do pretorium, aby się nie skalali, lecz mogli spożyć Paschę. Wyszedł więc Piłat na zewnątrz do nich i mówi: Jaką skargę wnosicie przeciw temu człowiekowi? Odpowiedzieli i rzekli mu: Gdyby ten nie był czyniącym zło, nie wydalibyśmy go tobie. Rzekł więc im Piłat: Weźcie go wy i według waszego Prawa osądźcie go. Rzekli mu Żydzi: Nam nie wolno nikogo zabić. Aby wypełniło się słowo Jezusa, które wypowiedział, dając znać, jaką śmiercią miał umrzeć.",
+     "cs": 18,
+     "vs": 28,
+     "ce": 18,
+     "ve": 32
+    },
+    {
+     "label": "w. 18,33–38",
+     "units": [
+      [
+       "σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων;",
+       "ty jesteś królem Żydów?",
+       "Pierwsze zdanie Piłata do Jezusa jest identyczne we wszystkich czterech Ewangeliach — najpewniej autentyczne jądro akt procesowych: oskarżenie musiało zostać przełożone na jedyny język, który Rzym rozumiał, czyli uzurpację władzy. Emfatyczne σύ niesie niedowierzanie: TY — związany, opuszczony, wydany przez własny naród — miałbyś być królem? Jezus odpowiada pytaniem o źródło pytania: „od siebie samego to mówisz, czy inni ci powiedzieli?\" — nie jest to unik, lecz sondaż sumienia: czy pytasz jak sędzia powtarzający akt oskarżenia, czy jak człowiek, którego to zaczęło obchodzić? Cała rozmowa w pretorium będzie właśnie tym: próbą przebicia się przez urząd do człowieka. Piłat odbija pytanie wzgardliwie („czy ja jestem Żydem?\"), ale rozmowy nie przerywa — i to jego „co uczyniłeś?\" otwiera przestrzeń dla najważniejszej deklaracji procesu."
+      ],
+      [
+       "ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐκ τοῦ κόσμου τούτου",
+       "królestwo moje nie jest z tego świata",
+       "Przyimek ἐκ mówi o pochodzeniu, nie o adresie: królestwo Jezusa nie jest „poza światem\", lecz nie wywodzi się ze świata — z jego mechanizmów zdobywania i utrzymywania władzy. Dowód jest empiryczny i dyskretnie ironiczny: gdyby było stąd, „słudzy moi walczyliby\" — a właśnie nie walczą; jedyny miecz został schowany w ogrodzie (18,11). Słowo ὑπηρέται jest przy tym złośliwie precyzyjne: dotąd oznaczało w tej Ewangelii sługi arcykapłanów, straż aresztującą Jezusa — królestwa z tego świata mają swoje bojówki, Jego królestwo ich nie ma. Trzykrotne, uroczyste ἡ βασιλεία ἡ ἐμή (szyk z powtórzonym rodzajnikiem — „królestwo, to moje\") nie jest abdykacją z rzeczywistości: to definicja innego typu władzy, której jedyną bronią będzie świadectwo, a jedynym tronem krzyż. Piłat słyszy z tego tyle, że więzień nie jest groźny militarnie — i o to Jezusowi w tej warstwie chodziło."
+      ],
+      [
+       "ἵνα μαρτυρήσω τῇ ἀληθείᾳ… τί ἐστιν ἀλήθεια;",
+       "świadectwo prawdzie i pytanie Piłata",
+       "Na wprost postawione „a więc jesteś królem?\" Jezus odpowiada σὺ λέγεις — „ty [to] mówisz\" — ani prostym tak (tytuł w ustach Piłata znaczy co innego), ani nie (bo królem jest); po czym sam definiuje swoje królowanie: „ja na to się narodziłem i na to przyszedłem na świat, aby dać świadectwo prawdzie\". To jedyne miejsce, gdzie Jan mówi o narodzeniu Jezusa — i od razu podaje jego cel: nie podbój, lecz martyria; król-świadek, którego poddanymi są wszyscy „będący z prawdy\", a berłem głos, którego się słucha (10,3-4.16.27: owce słuchają głosu pasterza). Piłatowe τί ἐστιν ἀλήθεια; bywało czytane jako pytanie filozofa, sceptyka i kpiarza — tekst rozstrzyga tylko tyle, że pytający NIE CZEKA na odpowiedź: „a to powiedziawszy, wyszedł\". Najsłynniejsze pytanie Ewangelii pozostaje bez odpowiedzi słownej, bo odpowiedź stoi przed pytającym związana (14,6: ja jestem prawdą) — i właśnie wychodząc od niej, Piłat po raz pierwszy ogłasza jej niewinność."
+      ]
+     ],
+     "greek": "Εἰσῆλθεν οὖν πάλιν εἰς τὸ πραιτώριον ὁ Πιλᾶτος καὶ ἐφώνησεν τὸν Ἰησοῦν καὶ εἶπεν αὐτῷ· σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων; ἀπεκρίθη Ἰησοῦς· ἀπὸ σεαυτοῦ σὺ τοῦτο λέγεις ἢ ἄλλοι εἶπόν σοι περὶ ἐμοῦ; ἀπεκρίθη ὁ Πιλᾶτος· μήτι ἐγὼ Ἰουδαῖός εἰμι; τὸ ἔθνος τὸ σὸν καὶ οἱ ἀρχιερεῖς παρέδωκάν σε ἐμοί· τί ἐποίησας; ἀπεκρίθη Ἰησοῦς· ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐκ τοῦ κόσμου τούτου· εἰ ἐκ τοῦ κόσμου τούτου ἦν ἡ βασιλεία ἡ ἐμή, οἱ ὑπηρέται οἱ ἐμοὶ ἠγωνίζοντο ἂν ἵνα μὴ παραδοθῶ τοῖς Ἰουδαίοις· νῦν δὲ ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐντεῦθεν· εἶπεν οὖν αὐτῷ ὁ Πιλᾶτος· οὐκοῦν βασιλεὺς εἶ σύ; ἀπεκρίθη ὁ Ἰησοῦς· σὺ λέγεις ὅτι βασιλεύς εἰμι· ἐγὼ εἰς τοῦτο γεγέννημαι καὶ εἰς τοῦτο ἐλήλυθα εἰς τὸν κόσμον, ἵνα μαρτυρήσω τῇ ἀληθείᾳ· πᾶς ὁ ὢν ἐκ τῆς ἀληθείας ἀκούει μου τῆς φωνῆς· λέγει αὐτῷ ὁ Πιλᾶτος· τί ἐστιν ἀλήθεια; Καὶ τοῦτο εἰπὼν πάλιν ἐξῆλθεν πρὸς τοὺς Ἰουδαίους καὶ λέγει αὐτοῖς· ἐγὼ οὐδεμίαν εὑρίσκω ἐν αὐτῷ αἰτίαν·",
+     "transl": "Wszedł więc znowu do pretorium Piłat i zawołał Jezusa, i rzekł mu: Ty jesteś królem Żydów? Odpowiedział Jezus: Od siebie samego ty to mówisz, czy inni powiedzieli ci o mnie? Odpowiedział Piłat: Czy ja jestem Żydem? Twój naród i arcykapłani wydali mi ciebie. Co uczyniłeś? Odpowiedział Jezus: Królestwo moje nie jest z tego świata. Gdyby z tego świata było królestwo moje, słudzy moi walczyliby, abym nie został wydany Żydom. Teraz zaś królestwo moje nie jest stąd. Rzekł więc mu Piłat: A więc ty jesteś królem? Odpowiedział Jezus: Ty mówisz, że jestem królem. Ja na to się narodziłem i na to przyszedłem na świat, aby dać świadectwo prawdzie. Każdy, kto jest z prawdy, słucha mojego głosu. Mówi mu Piłat: Co to jest prawda? A to powiedziawszy, znowu wyszedł do Żydów i mówi im: Ja żadnej winy w nim nie znajduję.",
+     "cs": 18,
+     "vs": 33,
+     "ce": 18,
+     "ve": 38
+    },
+    {
+     "label": "w. 18,39–19,3",
+     "units": [
+      [
+       "μὴ τοῦτον ἀλλὰ τὸν Βαραββᾶν",
+       "nie tego, ale Barabasza",
+       "Privilegium paschale — zwyczaj uwalniania więźnia na święto — poświadczają wszystkie Ewangelie; Piłat sięga po nie jako po wytrych: uwolnić bez uniewinniania i bez konfliktu. Ale formułuje ofertę prowokacyjnie — „chcecie, abym wam uwolnił KRÓLA ŻYDÓW?\" — drwiąc z oskarżycieli tytułem ich więźnia, i przegrywa: tłum wybiera Barabasza. Jan kwituje wybór najkrótszym zdaniem perykopy: ἦν δὲ ὁ Βαραββᾶς λῃστής. U Józefa Flawiusza λῃσταί to partyzanci i bandyci antyrzymskiego podziemia (Marek doda: morderca z rozruchów, Mk 15,7); ale u Jana to słowo ma już swoją historię — tak nazwani zostali ci, którzy wchodzą do owczarni inaczej niż bramą, aby kraść i zabijać (10,1.8). Wybór jest więc podwójnie gorzki: zamiast Pasterza — rozbójnik; zamiast królestwa prawdy — przemoc, która za czterdzieści lat spali miasto. Aramejskie bar-abba znaczy „syn ojca\" — tłum uwalnia syna ojca, wydając Syna Ojca."
+      ],
+      [
+       "ἔλαβεν ὁ Πιλᾶτος τὸν Ἰησοῦν καὶ ἐμαστίγωσεν",
+       "wziął Jezusa i ubiczował",
+       "Jedno słowo na jedną z najstraszniejszych kar starożytności: flagellatio rzymskimi flagra, rzemieniami zbrojonymi ołowiem i kością, bez liczbowego limitu Tory. Ewangelie zachowują tu jednomyślną wstydliwość — żadna nie opisuje przebiegu; Jan jest najoszczędniejszy ze wszystkich. W jego kompozycji biczowanie nie wieńczy procesu (jak u Marka i Mateusza, gdzie następuje po wyroku), lecz tkwi w jego środku — jako manewr Piłata w logice, którą Łukasz wypowiada wprost: „każę go ubiczować i uwolnię\" (Łk 23,16). Okaleczyć niewinnego, żeby go ocalić: sprawiedliwość, która zaczęła ustępować pragmatyce, nie ma już miejsca, w którym mogłaby się zatrzymać. Dla czytelnika Pism w tle brzmi Sługa Pański: „podałem grzbiet moim bijącym\" (Iz 50,6) — i trzecia zapowiedź Męki, w której biczowanie poprzedza zabicie (Mk 10,34)."
+      ],
+      [
+       "χαῖρε ὁ βασιλεὺς τῶν Ἰουδαίων",
+       "witaj, królu Żydów",
+       "Scena w środku chiazmu całej perykopy: bez Piłata, bez tłumu, sam Jezus i żołnierze — i wszystkie insygnia władzy w trybie parodii. Korona (στέφανος), tyle że z cierni — rośliny przekleństwa ziemi po upadku Adama (Rdz 3,18); purpura, tyle że z żołnierskiego płaszcza; aklamacja χαῖρε — kalka cesarskiego ave — tyle że wykrzykiwana ze śmiechem; hołd, tyle że w postaci policzków (ῥαπίσματα — to samo słowo, którym nazwano cios u Annasza, 18,22). Imperfecta ἤρχοντο, ἔλεγον, ἐδίδοσαν malują scenę trwającą: podchodzili raz za razem, jak w kolejce do tronu. Jan opowiada to wszystko bez jednego słowa komentarza, bo jego komentarzem jest cała Ewangelia: szyderstwo mówi prawdę, której szydercy nie znają. To JEST koronacja króla Żydów — jedyna, jaką ten świat mu urządził — i Jezus nosi te insygnia aż po Ecce homo, jakby je przyjął."
+      ]
+     ],
+     "greek": "ἔστιν δὲ συνήθεια ὑμῖν ἵνα ἕνα ἀπολύσω ὑμῖν ἐν τῷ πάσχα· βούλεσθε οὖν ἀπολύσω ὑμῖν τὸν βασιλέα τῶν Ἰουδαίων; ἐκραύγασαν οὖν πάλιν λέγοντες· μὴ τοῦτον ἀλλὰ τὸν Βαραββᾶν· ἦν δὲ ὁ Βαραββᾶς λῃστής· Τότε οὖν ἔλαβεν ὁ Πιλᾶτος τὸν Ἰησοῦν καὶ ἐμαστίγωσεν· καὶ οἱ στρατιῶται πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ καὶ ἱμάτιον πορφυροῦν περιέβαλον αὐτὸν καὶ ἤρχοντο πρὸς αὐτὸν καὶ ἔλεγον· χαῖρε ὁ βασιλεὺς τῶν Ἰουδαίων· καὶ ἐδίδοσαν αὐτῷ ῥαπίσματα·",
+     "transl": "Jest zaś u was zwyczaj, abym jednego wam uwolnił na Paschę. Chcecie więc, abym wam uwolnił króla Żydów? Zawołali więc znowu, mówiąc: Nie tego, ale Barabasza! A Barabasz był rozbójnikiem. Wtedy więc Piłat wziął Jezusa i ubiczował. A żołnierze, uplótłszy koronę z cierni, włożyli mu na głowę i płaszczem purpurowym go okryli. I podchodzili do niego, i mówili: Witaj, królu Żydów! I wymierzali mu policzki.",
+     "cs": 18,
+     "vs": 39,
+     "ce": 19,
+     "ve": 3
+    },
+    {
+     "label": "w. 19,4–7",
+     "units": [
+      [
+       "ἴδε ἄγω ὑμῖν αὐτὸν ἔξω",
+       "oto wyprowadzam go wam na zewnątrz",
+       "Piłat wyprowadza ubiczowanego w koronie i purpurze, licząc — jak sam mówi — że widok wystarczy: „abyście poznali, że żadnej winy w nim nie znajduję\". Kalkulacja jest czytelna: człowiek tak upokorzony i zmasakrowany nie może już być groźny; litość dokończy to, czego nie załatwiła procedura. To druga z trzech deklaracji niewinności (18,38; 19,4.6) — i drugi akt kapitulacji, bo sędzia, który ogłasza niewinność, a mimo to biczuje i targuje się z tłumem, już nie sądzi, lecz negocjuje. Odpowiedzią na obliczony na litość spektakl jest pierwszy w tej Ewangelii okrzyk σταύρωσον σταύρωσον — żądanie kary, której dotąd nikt głośno nie wymienił. Piłatowe „weźcie go wy i ukrzyżujcie\" jest bezsilnym sarkazmem (krzyżować wolno tylko jemu) — trzecia deklaracja niewinności wypowiedziana już tonem człowieka przegranego."
+      ],
+      [
+       "ἰδοὺ ὁ ἄνθρωπος",
+       "oto człowiek",
+       "Dwa słowa, które przerosły mówiącego. W intencji Piłata — wzgardliwa perswazja: patrzcie, oto ten „król\" — pobity, ośmieszony, niegroźny; czy tego się boicie? W ustach Ewangelii — proklamacja o dnach, których Piłat nie przeczuwa. Oto CZŁOWIEK: prawdziwy człowiek pośród odczłowieczonego tłumu i odczłowieczonej władzy; nowy Adam, noszący na głowie ciernie przeklętej ziemi starego Adama (Rdz 3,18); „mąż boleści\" z pieśni Sługi, wzgardzony i opuszczony (Iz 53,3); może i echo Zachariaszowego „oto mąż, którego imię Odrośl\" (Za 6,12 LXX: ἰδοὺ ἀνήρ) — obwołane nad Tym, którego nazwano Nazorejczykiem-Odroślą (18,5.7). Jan już raz użył tej figury: Kajfasz prorokował, nie wiedząc, co mówi (11,51). Teraz prorokuje Piłat — poganin, sędzia, kpiarz — i jego zdanie stało się w sztuce i pobożności chrześcijańskiej osobnym obrazem: Ecce homo, Bóg pokazany światu w postaci, do której świat go doprowadził."
+      ],
+      [
+       "υἱὸν θεοῦ ἑαυτὸν ἐποίησεν",
+       "synem Bożym siebie uczynił",
+       "Pod naciskiem trzeciej deklaracji niewinności opada wreszcie polityczna maska procesu: „my mamy Prawo i według Prawa powinien umrzeć, bo synem Bożym siebie uczynił\". To jest prawdziwe oskarżenie — nie uzurpacja tronu, lecz bluźnierstwo (Kpł 24,16: bluźnierca poniesie śmierć), dokładnie ten zarzut, który ścigał Jezusa przez całą Ewangelię: „czynił się równym Bogu\" (5,18), „ty, będąc człowiekiem, czynisz siebie Bogiem\" (10,33). Czasownik ἐποίησεν — „uczynił siebie\" — jest słowem oskarżycieli i zarazem miejscem, w którym się mylą: całą czwartą Ewangelię można streścić jako wykazanie, że Jezus nie UCZYNIŁ siebie Synem — JEST nim, od Prologu (1,1.14.18). Prawdziwe są więc obie połowy zdania: Prawo rzeczywiście karze śmiercią za to, czym Jezus jest, jeśli nie jest tym naprawdę. Proces sprowadza się odtąd do pytania nierozstrzygalnego dla trybunału: skąd On jest."
+      ]
+     ],
+     "greek": "Καὶ ἐξῆλθεν πάλιν ἔξω ὁ Πιλᾶτος καὶ λέγει αὐτοῖς· ἴδε ἄγω ὑμῖν αὐτὸν ἔξω, ἵνα γνῶτε ὅτι οὐδεμίαν αἰτίαν εὑρίσκω ἐν αὐτῷ· ἐξῆλθεν οὖν ὁ Ἰησοῦς ἔξω, φορῶν τὸν ἀκάνθινον στέφανον καὶ τὸ πορφυροῦν ἱμάτιον· καὶ λέγει αὐτοῖς· ἰδοὺ ὁ ἄνθρωπος· Ὅτε οὖν εἶδον αὐτὸν οἱ ἀρχιερεῖς καὶ οἱ ὑπηρέται ἐκραύγασαν λέγοντες· σταύρωσον σταύρωσον· λέγει αὐτοῖς ὁ Πιλᾶτος· λάβετε αὐτὸν ὑμεῖς καὶ σταυρώσατε· ἐγὼ γὰρ οὐχ εὑρίσκω ἐν αὐτῷ αἰτίαν· ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι· ἡμεῖς νόμον ἔχομεν καὶ κατὰ τὸν νόμον ὀφείλει ἀποθανεῖν, ὅτι υἱὸν θεοῦ ἑαυτὸν ἐποίησεν·",
+     "transl": "I wyszedł znowu na zewnątrz Piłat, i mówi im: Oto wyprowadzam go wam na zewnątrz, abyście poznali, że żadnej winy w nim nie znajduję. Wyszedł więc Jezus na zewnątrz, niosąc cierniową koronę i purpurowy płaszcz. I mówi im: Oto człowiek. Gdy więc zobaczyli go arcykapłani i słudzy, zawołali, mówiąc: Ukrzyżuj! Ukrzyżuj! Mówi im Piłat: Weźcie go wy i ukrzyżujcie; ja bowiem nie znajduję w nim winy. Odpowiedzieli mu Żydzi: My mamy Prawo i według Prawa powinien umrzeć, bo synem Bożym siebie uczynił.",
+     "cs": 19,
+     "vs": 4,
+     "ce": 19,
+     "ve": 7
+    },
+    {
+     "label": "w. 19,8–12",
+     "units": [
+      [
+       "μᾶλλον ἐφοβήθη… πόθεν εἶ σύ;",
+       "bardziej się przestraszył: skąd ty jesteś?",
+       "Comparativus μᾶλλον zdradza, że Piłat bał się już wcześniej — teraz, po słowach „syn Boży\", strach rośnie. Rzymianin słyszy w nich to, co słyszeć może: theios aner, człowiek boski, syn bóstwa — a skazanie kogoś takiego ściąga gniew niebios (por. ostrzeżenie żony Piłata, Mt 27,19). Jego pytanie jest jednak, wbrew intencji, najgłębszym pytaniem tej Ewangelii: πόθεν εἶ σύ — SKĄD jesteś? O pochodzenie Jezusa spierano się przez całą księgę (7,27-28; 8,14; 9,29-30: „nie wiemy, skąd jest\"), a odpowiedź zna czytelnik od Prologu. Jezus milczy — i to milczenie ma dwa dna: wypełnia Iz 53,7 („jak baranek na rzeź prowadzony... nie otworzył ust swoich\"), a zarazem jest uczciwe: na pytanie „skąd\", zadane bez gotowości pójścia za odpowiedzią, odpowiedzi nie ma — Piłat słyszał już „królestwo moje nie jest stąd\" i wyszedł w połowie rozmowy."
+      ],
+      [
+       "οὐκ εἶχες ἐξουσίαν κατʼ ἐμοῦ οὐδεμίαν, εἰ μὴ ἦν δεδομένον σοι ἄνωθεν",
+       "władza dana z góry",
+       "Na groźbę urzędnika („mam władzę uwolnić cię i mam władzę ukrzyżować\") Jezus odpowiada zdaniem, które przewraca salę sądową: nie miałbyś żadnej władzy nade mną, gdyby nie była ci DANA Z GÓRY. Ἄνωθεν — słowo z rozmowy z Nikodemem (3,3.7) — wskazuje na Boga, nie na Rzym: cesarz nie jest „górą\". Jezus nie kwestionuje realności władzy państwowej (por. Rz 13,1) ani jej nie unieważnia — relatywizuje ją u źródła: jest pochodna, powierzona, odpowiedzialna. Neutrum δεδομένον („było dane\") obejmuje przy tym więcej niż urząd: całą tę godzinę, w której władza Rzymu staje się narzędziem planu, o którym Piłat nie wie. Stąd gradacja winy: „ten, kto mnie tobie wydał, ma WIĘKSZY grzech\" — Kajfasz i sąd Izraela grzeszą bardziej, bo wydają Mesjasza w imię Objawienia, które go zapowiedziało; Piłat grzeszy jako ślepe narzędzie. Sądzony rozdziela winy sądzących: nikt inny w tej scenie nie ma już autorytetu, by to zrobić."
+      ],
+      [
+       "ἐὰν τοῦτον ἀπολύσῃς, οὐκ εἶ φίλος τοῦ Καίσαρος",
+       "nie jesteś przyjacielem Cezara",
+       "Imperfectum ἐζήτει ἀπολῦσαι („usiłował uwolnić\") pokazuje serię prób — i moment, w którym oskarżyciele znajdują wreszcie skuteczny argument: nie z Prawa, lecz z kadr. Amicus Caesaris było w Rzymie tytułem niemal technicznym — utrata przyjaźni cesarza kończyła karierę, a bywało, że i życie; jeśli proces toczy się po upadku Sejana (31 r.), protektora Piłata, groźba donosu do podejrzliwego Tyberiusza jest śmiertelnie konkretna. Zdanie „każdy, kto czyni siebie królem, sprzeciwia się Cezarowi\" domyka pułapkę: uwolnienie „króla\" stanie się współudziałem w obrazie majestatu (crimen laesae maiestatis). Piłat staje wobec wyboru, który Ewangelia obnaża bez litości: prawda albo posada. Wybiera posadę — i w tym samym momencie przestaje być w tej scenie kimkolwiek więcej niż funkcjonariuszem cudzej decyzji. Janowy portret Piłata nie jest karykaturą tchórza: to studium człowieka, który poznał prawdę na tyle, by się jej bać, i za mało, by za nią zapłacić."
+      ]
+     ],
+     "greek": "Ὅτε οὖν ἤκουσεν ὁ Πιλᾶτος τοῦτον τὸν λόγον, μᾶλλον ἐφοβήθη, καὶ εἰσῆλθεν εἰς τὸ πραιτώριον πάλιν καὶ λέγει τῷ Ἰησοῦ· πόθεν εἶ σύ; ὁ δὲ Ἰησοῦς ἀπόκρισιν οὐκ ἔδωκεν αὐτῷ· λέγει οὖν αὐτῷ ὁ Πιλᾶτος· ἐμοὶ οὐ λαλεῖς; οὐκ οἶδας ὅτι ἐξουσίαν ἔχω ἀπολῦσαί σε καὶ ἐξουσίαν ἔχω σταυρῶσαί σε; ἀπεκρίθη αὐτῷ Ἰησοῦς· οὐκ εἶχες ἐξουσίαν κατʼ ἐμοῦ οὐδεμίαν εἰ μὴ ἦν δεδομένον σοι ἄνωθεν· διὰ τοῦτο ὁ παραδούς μέ σοι μείζονα ἁμαρτίαν ἔχει· ἐκ τούτου ὁ Πιλᾶτος ἐζήτει ἀπολῦσαι αὐτόν· οἱ δὲ Ἰουδαῖοι ἐκραύγασαν λέγοντες· ἐὰν τοῦτον ἀπολύσῃς, οὐκ εἶ φίλος τοῦ Καίσαρος· πᾶς ὁ βασιλέα ἑαυτὸν ποιῶν ἀντιλέγει τῷ Καίσαρι·",
+     "transl": "Gdy więc Piłat usłyszał to słowo, bardziej się przestraszył i wszedł do pretorium znowu, i mówi Jezusowi: Skąd ty jesteś? Jezus zaś nie dał mu odpowiedzi. Mówi więc mu Piłat: Do mnie nie mówisz? Czy nie wiesz, że mam władzę uwolnić cię i mam władzę ukrzyżować cię? Odpowiedział mu Jezus: Nie miałbyś nade mną żadnej władzy, gdyby nie było ci dane z góry. Dlatego ten, kto mnie tobie wydał, ma większy grzech. Odtąd Piłat usiłował go uwolnić. Lecz Żydzi zawołali, mówiąc: Jeżeli tego uwolnisz, nie jesteś przyjacielem Cezara. Każdy, kto czyni siebie królem, sprzeciwia się Cezarowi.",
+     "cs": 19,
+     "vs": 8,
+     "ce": 19,
+     "ve": 12
+    },
+    {
+     "label": "w. 19,13–16",
+     "units": [
+      [
+       "ἐκάθισεν ἐπὶ βήματος εἰς τόπον λεγόμενον Λιθόστρωτον",
+       "zasiadł na trybunale",
+       "Wyrok wymaga formy: Piłat wyprowadza Jezusa i zasiada na βῆμα — podwyższeniu sędziowskim — w miejscu o podwójnej nazwie: greckiej Λιθόστρωτον (kamienny bruk) i aramejskiej Gabbata (wzniesienie); podwójna toponimia, jak przy Betesdzie (5,2) i Golgocie (19,17), należy do Janowej pamięci topograficznej. Składnia kryje jednak drugie dno: ἐκάθισεν może być nieprzechodnie (zasiadł) albo przechodnie — POSADZIŁ GO na trybunale; tak tę scenę czytali w II wieku Justyn (Apol. I,35) i Ewangelia Piotra (3,7): posadzili go na krześle sędziowskim, mówiąc „sądź sprawiedliwie, królu Izraela\". Nawet jeśli gramatycznie pierwotne jest znaczenie nieprzechodnie, dwuznaczność jest u Jana funkcjonalna: w chwili ogłaszania wyroku czytelnik ma zobaczyć na podwyższeniu nie tylko sędziego, ale i Sądzonego, który sądzi — bo „Ojciec cały sąd przekazał Synowi\" (5,22), a ta godzina jest sądem nad światem (12,31)."
+      ],
+      [
+       "παρασκευὴ τοῦ πάσχα, ὥρα ὡς ἕκτη· ἴδε ὁ βασιλεὺς ὑμῶν",
+       "Przygotowanie Paschy, godzina szósta",
+       "Jan datuje wyrok z dokładnością, jakiej nie poświęcił żadnemu innemu wydarzeniu: wigilia Paschy, około godziny szóstej — południe 14 Nisan, pora, od której w świątyni zaczynano zabijać baranki paschalne (Miszna, Pesachim 5,1). Chronologia jest teologią: dokładnie wtedy, gdy kapłani przystępują do rzezi baranków, na Gabbacie zapada wyrok na Baranka Bożego (1,29) — a Jan dopowie przy śmierci, że nie złamano mu kości, jak nakazywał przepis o baranku (19,36; Wj 12,46). Napięcie z Markową „godziną trzecią\" ukrzyżowania (Mk 15,25) zauważono już w starożytności; Janowi nie chodzi o zegar, lecz o kalendarz liturgiczny Boga. W tej godzinie Piłat dokonuje ostatniej prezentacji: ἴδε ὁ βασιλεὺς ὑμῶν — „oto król wasz\". Po Ecce homo — Ecce rex: formuła intronizacyjna wypowiedziana jako szyderstwo z oskarżycieli i, ponad głową mówiącego, jako szczera proklamacja Ewangelii."
+      ],
+      [
+       "οὐκ ἔχομεν βασιλέα εἰ μὴ Καίσαρα",
+       "nie mamy króla, tylko Cezara",
+       "Odpowiedź arcykapłanów jest teologicznym samowyrokiem procesu. W przeddzień Paschy — święta upamiętniającego, że Izraela wyprowadził z niewoli sam Bóg-Król — kapłani Izraela wyznają wobec poganina, że nie mają króla poza cesarzem. Stara skarga Boga do Samuela („nie ciebie odrzucili, lecz mnie, abym nie królował nad nimi\", 1 Sm 8,7) i prorockie „Król Izraela, JHWH, jest pośród ciebie\" (So 3,15) stoją za tym zdaniem jak zwierciadło; hymnika paschalna, którą zaśpiewają wieczorem, kończy się przecież wyznaniem wyłącznego królowania Boga. Τότε οὖν παρέδωκεν αὐτὸν αὐτοῖς — „wtedy więc wydał go im\": czasownik wydania, który prowadzi przez całą Mękę (Judasz, Kajfasz, Piłat), osiąga tu punkt, w którym gramatyka celowo się mąci — wydał go „im\", to znaczy komu? Oskarżycielom, choć wykonają Rzymianie; wszystkim, bo wszyscy go wydali; a w najgłębszej warstwie nikomu — bo On sam daje swoje życie (10,18). Παρέλαβον οὖν τὸν Ἰησοῦν: zabrali Jezusa — i tym zdaniem droga prowadzi już tylko na Golgotę."
+      ]
+     ],
+     "greek": "ὁ οὖν Πιλᾶτος ἀκούσας τῶν λόγων τούτων ἤγαγεν ἔξω τὸν Ἰησοῦν καὶ ἐκάθισεν ἐπὶ βήματος εἰς τόπον λεγόμενον Λιθόστρωτον, Ἑβραϊστὶ δὲ Γαββαθα· ἦν δὲ παρασκευὴ τοῦ πάσχα, ὥρα ἦν ὡς ἕκτη· καὶ λέγει τοῖς Ἰουδαίοις· ἴδε ὁ βασιλεὺς ὑμῶν· ἐκραύγασαν οὖν ἐκεῖνοι· ἆρον ἆρον, σταύρωσον αὐτόν· λέγει αὐτοῖς ὁ Πιλᾶτος· τὸν βασιλέα ὑμῶν σταυρώσω; ἀπεκρίθησαν οἱ ἀρχιερεῖς· οὐκ ἔχομεν βασιλέα εἰ μὴ Καίσαρα· Τότε οὖν παρέδωκεν αὐτὸν αὐτοῖς ἵνα σταυρωθῇ· Παρέλαβον οὖν τὸν Ἰησοῦν,",
+     "transl": "Piłat więc, usłyszawszy te słowa, wyprowadził Jezusa na zewnątrz i zasiadł na trybunale, na miejscu zwanym Litostrotos, po hebrajsku zaś Gabbata. A było to Przygotowanie Paschy, godzina była około szóstej. I mówi Żydom: Oto król wasz. Zawołali więc tamci: Precz! Precz! Ukrzyżuj go! Mówi im Piłat: Króla waszego mam ukrzyżować? Odpowiedzieli arcykapłani: Nie mamy króla, tylko Cezara. Wtedy więc wydał go im, aby został ukrzyżowany. Zabrali więc Jezusa.",
+     "cs": 19,
+     "vs": 13,
+     "ce": 19,
+     "ve": 16
+    }
+   ],
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Cztery realia: pretorium i skrupuł czystości w wigilię Paschy, granice jurysdykcji Sanhedrynu, Barabasz i przywilej paschalny oraz topografia i chronologia wyroku.",
+     "children": [
+      [
+       "Pretorium i próg czystości",
+       "Praetorium to urzędowa rezydencja namiestnika, który na święta przenosił się z Cezarei Nadmorskiej do Jerozolimy z kohortą wzmocnienia; badacze wskazują dziś raczej dawny pałac Heroda przy dzisiejszej Bramie Jafskiej niż twierdzę Antonia. Wejście do domu poganina ściągało według ówczesnej praktyki nieczystość rytualną (por. Dz 10,28) — a ta, zaciągnięta w dniu Przygotowania, wykluczałaby ze spożycia baranka wieczorem; stąd scena, w której sąd odbywa się na progu, a sędzia kursuje między stronami. Jan buduje na tym podwójną konstrukcję: przestrzenną (siedem scen na przemian wewnątrz i na zewnątrz — jedyny taki teatr w Ewangeliach) i moralną: skrupulatna troska o czystość obrzędową w chwili wydawania Niewinnego. Zdanie „aby mogli spożyć Paschę\" zdradza przy tym Janową chronologię: wieczerza paschalna dopiero nadejdzie, proces toczy się 14 Nisan — inaczej niż w rachubie synoptycznej, w której ostatnia wieczerza była już sederem; próby harmonizacji (m.in. przez kalendarz esseński z Qumran, wg którego Jezus spożyłby Paschę wcześniej) pozostają hipotezami, a sam Jan swojej rachuby nie broni — używa jej: Baranek umiera w dzień baranków."
+      ],
+      [
+       "Ius gladii: czego Sanhedrynowi nie było wolno",
+       "„Nam nie wolno nikogo zabić\" (18,31) odpowiada temu, co wiemy o prowincjonalnym wymiarze sprawiedliwości: prawo miecza (ius gladii) było zastrzeżone dla namiestnika, a Talmud jerozolimski zachował pamięć, że „czterdzieści lat przed zburzeniem Świątyni odebrano Izraelowi sądy gardłowe\" (Sanhedrin 1,1; 7,2). Znane wyjątki — ukamienowanie Szczepana (Dz 7), stracenie Jakuba Sprawiedliwego w bezkrólewiu prokuratorskim 62 r. (Józef Flawiusz, Ant. XX 200) — mają charakter samosądu lub nadużycia międzywładzia i regułę raczej potwierdzają. Dla Jana ten prawny szczegół jest trybem Opatrzności: egzekucja żydowska oznaczałaby ukamienowanie za bluźnierstwo (Kpł 24,16); przekazanie sprawy Rzymowi oznacza krzyż — czyli dokładnie „wywyższenie\", które Jezus trzykrotnie zapowiedział (3,14; 8,28; 12,32-33). Machina dwóch jurysdykcji wypełnia słowo Skazanego co do rodzaju śmierci."
+      ],
+      [
+       "Barabasz i przywilej paschalny",
+       "Zwyczaj uwalniania więźnia na Paschę (privilegium paschale) poświadczają wszystkie cztery Ewangelie, choć źródła pozabiblijne milczą; analogie rzymskie (abolitio — darowanie procesu, indulgentia — darowanie kary) czynią lokalny zwyczaj amnestii świątecznej całkowicie wiarygodnym. Imię Barabbas to aramejskie bar-abba, „syn ojca\" (część rękopisów Mt 27,16-17 zachowała pełne „Jezus Barabasz\" — dwaj Jezusowie postawieni przed tłumem); Jan charakteryzuje go jednym słowem: λῃστής. U Józefa Flawiusza to termin techniczny na bojowników i bandytów antyrzymskiego podziemia (Marek doda: uczestnik rozruchów, w których popełniono zabójstwo, Mk 15,7). Wybór tłumu ma więc u Jana ciężar symbolu: zamiast Pasterza — ten, kogo Ewangelia nazwała „złodziejem i rozbójnikiem\" przychodzącym kraść i zabijać (10,1.8); zamiast królestwa prawdy — droga przemocy, która pokolenie później skończy się pożarem miasta."
+      ],
+      [
+       "Gabbata, godzina szósta i pamięć topograficzna",
+       "Miejsce wyroku nosi dwie nazwy: grecką Λιθόστρωτον (kamienny bruk — plac wykładany płytami przed rezydencją) i aramejską Gabbata (wzniesienie, garb) — nie tłumaczenie, lecz dwie niezależne nazwy tego samego punktu miasta, jak przy Betesdzie (5,2); taka podwójna toponimia, sprawdzalna dla czytelników sprzed 70 r., należy do najmocniejszych śladów jerozolimskiej pamięci czwartej Ewangelii. Tradycja wiążąca Litostrotos z brukiem pod klasztorem Ecce Homo przy Via Dolorosa okazała się anachroniczna (płyty pochodzą z czasów Hadriana); dziś wskazuje się raczej dziedziniec pałacu Heroda. Godzina szósta to południe: według Miszny (Pesachim 5,1) mniej więcej od tej pory w świątyni rozpoczynano zabijanie baranków paschalnych — Janowa notatka czasowa umieszcza wyrok na Baranku dokładnie na progu tej rzezi. Napięcie z Mk 15,25 (ukrzyżowanie o godzinie trzeciej) dostrzegano od starożytności; rozmaite harmonizacje (liczenie „urzędowe\" a potoczne, zaokrąglanie ćwiartek dnia) są mniej ważne niż rozpoznanie, że obaj Ewangeliści datują teologicznie: Marek rytmem modlitw dnia, Jan — kalendarzem Paschy."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Cztery węzły: królestwo nie z tego świata, pytanie o prawdę, władza dana z góry i gradacja winy oraz Ecce homo jako chrystologia.",
+     "children": [
+      [
+       "Regnum non de hoc mundo: źródło, nie adres",
+       "Zdanie z 18,36 bywało nadużywane w obie strony: jako alibi dla ucieczki chrześcijan od spraw publicznych i, odwrotnie, jako parawan dla teokracji („skoro królestwo nie stąd, państwo wolno nam zbudować po swojemu\"). Gramatyka broni tekstu przed oboma nadużyciami: ἐκ oznacza pochodzenie — królestwo Jezusa nie wywodzi się z mechanizmów tego świata (przemocy, aklamacji, strachu) i dlatego nie może być nimi ani zdobyte, ani obronione; ale działa W świecie, skoro jego Król przyszedł na świat świadczyć prawdzie. Tomasz komentuje: królestwo Chrystusa nie jest z tego świata co do pochodzenia i sposobu (non quantum ad originem), jest zaś nad tym światem co do władzy (por. Super Io. XVIII, lect. 6); stąd dwie granice wyznaczone raz na zawsze — Kościół nie ma prawa sięgać po miecz, by szerzyć królestwo (jedyny miecz tej nocy kazano schować, 18,11), a państwo nie ma prawa żądać dla siebie tego, co należy do prawdy. Królewskość realizowana przez świadectwo, nie przez przymus, jest jedyną, która nie niszczy wolności poddanych — bo „każdy, kto jest z prawdy, słucha\" nie z lęku, lecz z rozpoznania."
+      ],
+      [
+       "Quid est veritas: pytanie, które nie zaczekało na odpowiedź",
+       "Piłatowe pytanie jest filozoficznie bezbłędne i egzystencjalnie spóźnione. Klasyczna definicja — veritas est adaequatio rei et intellectus (Tomasz, De veritate q. 1, a. 1) — opisuje prawdę zdań; ale Jezus mówił o prawdzie, której się DAJE ŚWIADECTWO i Z KTÓREJ się jest: o prawdzie jako rzeczywistości osobowej, samoobjawieniu Boga, które w Nim stało się ciałem (1,14.17; 14,6). Na pytanie o taką prawdę nie odpowiada się definicją, lecz obecnością — i dlatego milczenie Jezusa wobec wychodzącego Piłata jest samo w sobie odpowiedzią: prawda stała przed nim, a on odwrócił się na własnych warunkach, zanim mogła coś powiedzieć. Tradycja zapamiętała tę scenę dwojako: jako kpinę znudzonego sceptyka („jesting Pilate\" u Bacona — zapytał i nie zaczekał na odpowiedź) i jako tragedię relatywizmu władzy: sędzia, który nie wierzy w prawdę, nie ma innego kryterium niż siła i strach — co pokaże reszta procesu. Augustynowa pointa dopowiada trzecie dno: być z prawdy to łaska, nie osiągnięcie — dlatego pytanie zadane bez modlitwy nie doczekało się odpowiedzi, której pytający i tak nie mógłby unieść."
+      ],
+      [
+       "Potestas desuper: teologia władzy w jednym zdaniu",
+       "Odpowiedź z 19,11 jest najzwięźlejszym w Piśmie traktatem o władzy państwowej. Po pierwsze: władza jest realna — Jezus nie mówi „nie masz władzy\", lecz „nie miałbyś jej, gdyby nie była ci dana\". Po drugie: jest pochodna — dana ἄνωθεν, z góry, od Boga (Rz 13,1: non est potestas nisi a Deo; por. Mdr 6,1-3), a nie z samej siły ani z samego mandatu ludu czy cesarza; sprawujący ją jest więc odpowiedzialny przed instancją, której nie mianował. Po trzecie: bycie narzędziem planu Bożego nie usprawiedliwia — Piłat ma grzech, choć „dano mu\" tę godzinę; Opatrzność posługuje się wolnymi decyzjami, nie znosząc ich winy. Po czwarte: wina ma stopnie — „ten, kto mnie tobie wydał, ma większy grzech\": większa bliskość Objawienia to większa odpowiedzialność (por. 15,22-24); Kajfasz, wydający Mesjasza w imię Pisma, które go zapowiedziało, grzeszy ciężej niż poganin, który o Piśmie nie słyszał. Tomasz systematyzuje: ignorancja Piłata częściowo umniejsza winę (ignorantia iuris divini u poganina), zawiść i świadome odrzucenie u wydających — powiększa (por. STh I-II, q. 76). Sądzony, który rozdziela winy sądzących, jest już w tej scenie tym, kim go wyznaje 5,22: Synem, któremu przekazano wszelki sąd."
+      ],
+      [
+       "Ecce homo: chrystologia w trybie ironii",
+       "Janowa ironia nie jest ozdobnikiem, lecz metodą objawienia: prawda wypowiadana przez tych, którzy jej nie znają (Kajfasz w 11,50; Piłat tutaj), pokazuje, że objawienie nie zależy od intencji mówiących — Bóg pisze prosto na krzywych liniach procesu. „Oto człowiek\" jest w tym trybie zdaniem o trzech piętrach. Piętro pierwsze, Piłatowe: perswazja przez litość — patrzcie, jaki to król. Piętro drugie, antropologiczne: oto Człowiek prawdziwy — w scenie, w której wszyscy pozostali właśnie tracą człowieczeństwo (tłum w krzyku, kapłani w wyparciu, sędzia w tchórzostwie), jedyny, który go nie traci, stoi ubiczowany w koronie z cierni; ecce homo — tak wygląda człowieczeństwo nieuszkodzone, gdy świat robi z nim, co umie. Piętro trzecie, Adamowe: nowy Adam nosi na głowie ciernie z przekleństwa ziemi pierwszego Adama (Rdz 3,18) — patrystyka i średniowiecze czytały tu zwięzłą sumę soteriologii: przyjął na siebie przekleństwo, aby je zdjąć (por. Ga 3,13). Gdy zaraz potem padnie „synem Bożym siebie uczynił\", chrystologia procesu będzie kompletna: prawdziwy człowiek i prawdziwy Syn — obie prawdy wypowiedziane w trybie oskarżenia i szyderstwa, obie prawdziwe wbrew mówiącym."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "body": "Scena przed Piłatem jest najstaranniej skomponowanym fragmentem czwartej Ewangelii — i to kompozycja jest tu głównym nośnikiem sensu. Siedem odsłon na przemian na zewnątrz i wewnątrz pretorium, z koronacją cierniem w geometrycznym środku; trzy deklaracje niewinności, trzy krzyki tłumu, trzykrotne „król\" w ustach Piłata; dwa dialogi wewnętrzne (o królestwie i o władzy) oprawione w sceny tłumu — autor buduje teatr, w którym architektura mówi tyle co słowa: sędzia kursujący między stronami to człowiek rozdarty między prawdą, którą zaczyna przeczuwać, a ceną, której nie chce zapłacić. Ten sam autor okazuje się przy tym najlepiej poinformowanym z Ewangelistów: zna podwójną toponimię (Litostrotos/Gabbata), realia jurysdykcji („nam nie wolno\"), mechanikę kariery rzymskiej („przyjaciel Cezara\") i kalendarz świątynny (Przygotowanie Paschy, godzina szósta); jego dokładność w sprawach jerozolimskich sprzed 70 r. jest dokładnością naocznego świadka lub ucznia świadków. Co chce przekazać? Po pierwsze — że proces Jezusa był w istocie procesem odwróconym: sądzony był jedynym, który sądził suwerennie; wszyscy pozostali — Piłat, kapłani, tłum — wydali w nim wyrok na siebie. Po drugie — apologię i przestrogę w jednym: wobec Rzymu autor pokazuje, że sam prefekt trzykrotnie uniewinnił Jezusa (chrześcijaństwo nie rodzi się z buntu przeciw imperium), a zarazem portretuje władzę imperialną bez złudzeń — jako aparat, w którym kariera wygrywa z prawdą. Po trzecie — królewskość: wspólnota Janowa, wykluczona z synagogi i podejrzana dla państwa, wyznaje króla, którego koronacją była kaźń; ta perykopa uczy ją, że tak właśnie wygląda władza prawdy w świecie przemocy — i że przegrana przed trybunałami nie jest przegraną sprawy. Autor nie demonizuje przy tym nikogo: Piłat nie jest potworem, lecz studium przeciętności postawionej wobec prawdy o jeden raz za wysoko; i właśnie ta przeciętność — nie nadzwyczajne okrucieństwo — wystarczyła, by wydać Syna Bożego na krzyż.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "body": "Duch Święty zapisał w tej perykopie trwałą naukę o dwóch królestwach i jednym Królu. Najpierw o Królu: jego władza nie pochodzi z tego świata i dlatego nie posługuje się narzędziami świata — nie ma bojówek, nie licytuje się z Barabaszem o poklask, nie odpowiada przemocą na policzki; jej jedynym orężem jest świadectwo prawdzie, a jej poddanymi ci, którzy prawdy słuchają. Kościół każdego stulecia jest przez to zdanie sądzony: ilekroć sięgał po miecz, aklamację tłumu albo protekcję Cezara, by „bronić królestwa\", stawał po stronie rekwizytów z pretorium, nie po stronie Więźnia. Następnie o władzy państwowej: jest realna i pochodzi z góry — więc chrześcijanin nie jest anarchistą; ale jest pochodna i odpowiedzialna — więc nie jest też bałwochwalcą państwa; a jej sprawowanie bez pytania o prawdę kończy się tak, jak skończył Piłat: umywaniem rąk, które nic nie zmywa. Zdanie arcykapłanów „nie mamy króla, tylko Cezara\" pozostaje w kanonie jako wieczne memento tego, do czego prowadzi religia gotowa oddać Bogu wszystko oprócz realnej władzy nad sobą. Wreszcie o człowieku: ECCE HOMO. Duch chciał, by Kościół na zawsze oglądał swojego Boga w tej postaci — ubiczowanego, ukoronowanego szyderstwem, prezentowanego tłumowi — bo tylko taki obraz Boga jest odporny na pokusę mylenia Go z projekcją naszej siły. Bóg objawiony w poniżonym człowieku jest zarazem sądem nad każdym poniżaniem człowieka: od pretorium Piłata po wszystkie pretoria historii każdy ubiczowany więzień nosi odtąd rysy Króla, a pytanie „skąd jesteś?\" — zadane więźniowi przez władzę — zawsze może się okazać pytaniem zadanym Bogu.",
+     "children": []
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "",
+     "children": [
+      [
+       "Ps 2,1-2 → 18,28-19,16 (tlo)",
+       "Burzą się narody... królowie ziemi i władcy spiskują przeciw Panu i Jego Pomazańcowi — psalm czytany przez pierwotny Kościół wprost o Herodzie i Piłacie (Dz 4,25-27)."
+      ],
+      [
+       "1 Sm 8,7 → 19,15 (kontrast)",
+       "Nie ciebie odrzucili, lecz mnie odrzucili, abym nie królował nad nimi — skarga Boga przy narodzinach monarchii, wypełniona w „nie mamy króla, tylko Cezara\"."
+      ],
+      [
+       "So 3,15 → 19,15 (kontrast)",
+       "Król Izraela, JHWH, jest pośród ciebie — prorockie wyznanie, którego arcykapłani wypierają się przed poganinem w wigilię Paschy."
+      ],
+      [
+       "Dn 7,13-14 → 18,36 (tlo)",
+       "Syn Człowieczy otrzymuje panowanie wieczne, które nie przeminie — królestwo dane z góry, nie zdobyte z dołu: tło „królestwa nie z tego świata\"."
+      ],
+      [
+       "Iz 50,6 → 19,1-3 (typologia)",
+       "Podałem grzbiet moim bijącym, policzki rwącym mi brodę — trzecia pieśń Sługi wypełniona w biczowaniu i policzkach pretorium."
+      ],
+      [
+       "Iz 53,3-7 → 19,5 (typologia)",
+       "Wzgardzony mąż boleści, jak baranek na rzeź prowadzony nie otworzył ust — Ecce homo i milczenie przed Piłatem w soczewce czwartej pieśni Sługi."
+      ],
+      [
+       "Wj 12,6 → 19,14 (typologia)",
+       "Całe zgromadzenie Izraela zabije baranka między dwoma wieczorami — wyrok na Baranka Bożego zapada w godzinie rozpoczęcia rzezi baranków paschalnych."
+      ],
+      [
+       "Mk 15,25 → 19,14 (paralela)",
+       "Była godzina trzecia, gdy go ukrzyżowali — napięcie chronologiczne z Janową godziną szóstą: dwie teologie czasu, nie dwa zegary."
+      ],
+      [
+       "Łk 23,2-5 → 18,29-38 (paralela)",
+       "Oskarżenia przed Piłatem w wersji Łukasza: podburza naród, zabrania podatków, czyni się królem — polityczna translacja zarzutu religijnego."
+      ],
+      [
+       "Mt 27,24-29 → 19,1-6 (paralela)",
+       "Umycie rąk, płaszcz szkarłatny, trzcina i korona z cierni — Mateuszowa wersja koronacji szyderstwa i kapitulacji sędziego."
+      ],
+      [
+       "1 Tm 6,13 → 18,37 (rozwiniecie)",
+       "Chrystus Jezus złożył dobre wyznanie za Poncjusza Piłata — najstarsze poapostolskie echo procesu: wyznanie przed trybunałem jako wzór wyznania wiary."
+      ],
+      [
+       "Rz 13,1 → 19,11 (rozwiniecie)",
+       "Nie ma władzy, jak tylko od Boga — Pawłowa systematyzacja zdania „nie miałbyś władzy, gdyby nie była ci dana z góry\"."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": "",
+     "children": [
+      [
+       "Liturgia",
+       "Proces przed Piłatem jest sercem liturgii Wielkiego Piątku: w rycie rzymskim Pasja według św. Jana (18,1-19,42) jest czytana tego dnia od starożytności — Kościół słucha procesu swojego Króla w godzinie, w której zapadł wyrok. Fragment 18,33b-37 („królestwo moje nie jest z tego świata\") jest ponadto Ewangelią uroczystości Jezusa Chrystusa Króla Wszechświata w roku B — święta ustanowionego przez Piusa XI encykliką Quas primas (1925) przeciw totalitaryzmom stulecia: Kościół co trzy lata definiuje królewskość Chrystusa słowami wypowiedzianymi przed rzymskim trybunałem. W rycie bizantyjskim scena wchodzi do czytań Świętej i Wielkiej Soboty oraz Ewangelii Męki Wielkiego Piątku; obraz „Oto człowiek\" — Chrystus w koronie cierniowej i purpurze — stał się osobnym typem ikonograficznym (Ecce homo) i tematem nabożeństw pasyjnych, a w pobożności polskiej powraca w Gorzkich żalach i w rozważaniach pierwszej stacji Drogi krzyżowej: „Jezus na śmierć skazany\"."
+      ],
+      [
+       "Recepcja teologiczna",
+       "Trzy zdania tej perykopy pracowały w historii mocniej niż niejedna księga. „Królestwo moje nie jest z tego świata\" stało się osią chrześcijańskiej teologii politycznej: od Augustyna (dwa państwa — civitas Dei i civitas terrena) przez średniowieczny spór o dwa miecze po współczesne rozdzielenie tronu i ołtarza; każde pokolenie na nowo negocjuje, co znaczy „nie z tego świata\" — i każde bywa sądzone przez to zdanie, gdy o nim zapomina. „Co to jest prawda?\" weszło do kanonu filozofii jako figura sceptycyzmu władzy (Bacon: „cóż jest prawda? — rzekł żartobliwie Piłat i nie zaczekał na odpowiedź\"; Nietzsche widział w tym pytaniu jedyne zdanie NT godne szacunku — à rebours potwierdzając jego wagę); teologia odpowiada nań chrystologicznie: prawda nie jest czym, lecz Kim. Wreszcie „nie miałbyś władzy, gdyby nie była ci dana z góry\" stało się — obok Rz 13 — klasycznym tekstem nauki o pochodzeniu i granicach władzy państwowej, przywoływanym zarówno przez teoretyków posłuszeństwa, jak i przez męczenników sprzeciwu: od Tomasza Morusa („umieram jako dobry sługa króla, ale najpierw Boga\") po wyznawców XX wieku, którzy przed nowożytnymi pretoriami powtarzali gest Więźnia z Gabbaty — świadectwo zamiast przemocy. Obraz Ecce homo przeszedł osobną drogę w sztuce (Bosch, Tycjan, Caravaggio, Rembrandt; „Ecce homo\" Adama Chmielowskiego — obraz, który nawrócił malarza na służbę nędzarzom) — twarz ubiczowanego Króla stała się zwierciadłem, w którym Europa oglądała własne sumienie."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Katena procesu: Augustyn o skrupule na progu pretorium i o królestwie nie stąd, Chryzostom o Barabaszu i taktyce Piłata, Cyryl o Ecce homo, Leon Wielki o milczeniu i władzy, Beda o godzinie szóstej i samowyroku arcykapłanów.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Intencją perykopy jest pokazać, że w pretorium Piłata sądzony był każdy oprócz Jezusa. Piłat — sądzony z prawdy: usłyszał więcej niż ktokolwiek z pogan w tej Ewangelii, trzykrotnie rozpoznał niewinność i trzykrotnie ją sprzedał, za każdym razem taniej; jego pytanie „co to jest prawda?\" pozostało bez odpowiedzi nie dlatego, że odpowiedzi nie było, lecz dlatego, że nie zaczekał. Oskarżyciele — sądzeni z wierności: w wigilię święta wolności wyznali przed poganinem, że nie mają króla poza Cezarem, i tym jednym zdaniem oddali wszystko, czego bronili. Tłum — sądzony z wyboru: między Pasterzem a rozbójnikiem wybrał rozbójnika. A pośrodku tego wszystkiego stoi Król, którego koronację świat urządził we własnym stylu — z cierni, żołnierskiego płaszcza i policzków — i który przyjął te insygnia, bo mówiły prawdę, choć ich autorzy o tym nie wiedzieli. Perykopa uczy Kościół trzech rzeczy. Że królestwo Jezusa nie jest z tego świata — więc nie wolno go budować metodami świata: ani mieczem, ani tłumem, ani przyjaźnią Cezara; wszystkie te narzędzia występują w tej scenie i wszystkie są po stronie skazujących. Że władza jest dana z góry — więc zasługuje na szacunek i podlega sądowi; posłuszeństwo państwu ma granicę dokładnie tam, gdzie państwo żąda dla siebie prawdy. I że prawda przegrywa procesy, nie przegrywając niczego: wyrok z Gabbaty jest w czwartej Ewangelii nie klęską, lecz intronizacją — od tego popołudnia król tego świata jest osądzony (12,31), a Ukrzyżowany zaczyna przyciągać wszystkich do siebie. Ecce homo: oto człowiek, oto król wasz. Kto raz zobaczył te dwa zdania bez ironii, ten już wie, przed kim stał Piłat — i przed kim staje każdy, kto o Jezusie decyduje.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "Tekst grecki złożony programowo ze źródła prawdy (db.sqlite, words, księga 500, NA28); przekład roboczy własny, dosłowny — zachowuje praesens historicum („prowadzą\", „mówi\"), emfatyczne szyki (ἡ βασιλεία ἡ ἐμή — „królestwo moje\") i literalne ἆρον ἆρον („Precz! Precz!\") w 19,15. Perykopa przekracza granicę rozdziału (18,28-19,16), więc numery wersetów w etykietach bloków i aparacie podano w formacie „rozdział,werset\", z wykorzystaniem czteroelementowych postaci wersetów, wystąpień i not wprowadzonych przy perykopie 37. Granice: 18,28 (zmiana miejsca i jurysdykcji po zaparciu Piotra) — 19,16 (wydanie na krzyż); tradycyjny podział kończy jednostkę na 19,16a („wydał go im\"), ale baza operuje całymi wersetami, więc granicę postawiono po 19,16 — zdanie „zabrali więc Jezusa\" jest zawiasem, który następna perykopa (droga krzyżowa i ukrzyżowanie) podejmie od 19,17. Siedem scen procesu ujęto w sześć bloków (środkowa scena — Barabasz, bicz i korona — przekracza granicę rozdziału jako jeden blok 18,39-19,3). Noty tekstualne z aparatu NA28 (commentaries): 18,28 (ἀλλὰ / ἀλλ' ἵνα φάγωσιν), 19,14 (ἕκτη / τρίτη — harmonizacja z Mk 15,25), 19,16 (rozszerzenia narracyjne παρέλαβον). Nowe leksemy: πραιτώριον, κατηγορία, αἰτία, μαστιγόω, στέφανος, ἄκανθα, πορφυροῦς, σταυρόω, βῆμα, Καῖσαρ, παρασκευή, λῃστής; terminy semickie Gabbata i erew Pesach. Nowe dzieło w katenie: Leon Wielki, Sermones de passione Domini. Nowy temat przekrojowy: Ecce homo — król objawiony w poniżeniu.",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Ps",
+     2,
+     1,
+     2,
+     2,
+     "Ps 2,1-2",
+     "tlo",
+     "Królowie ziemi przeciw Panu i Pomazańcowi — psalm procesu (Dz 4,25-27)."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "1 Sm",
+     8,
+     7,
+     8,
+     7,
+     "1 Sm 8,7",
+     "kontrast",
+     "Mnie odrzucili, abym nie królował — wypełnione w „nie mamy króla, tylko Cezara\"."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "So",
+     3,
+     15,
+     3,
+     15,
+     "So 3,15",
+     "kontrast",
+     "Król Izraela, JHWH, jest pośród ciebie — wyparte przed poganinem."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Dn",
+     7,
+     13,
+     7,
+     14,
+     "Dn 7,13-14",
+     "tlo",
+     "Panowanie wieczne Syna Człowieczego — królestwo dane z góry."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Iz",
+     50,
+     6,
+     50,
+     6,
+     "Iz 50,6",
+     "typologia",
+     "Podałem grzbiet bijącym — pieśń Sługi w biczowaniu i policzkach."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Iz",
+     53,
+     3,
+     53,
+     7,
+     "Iz 53,3-7",
+     "typologia",
+     "Mąż boleści; jak baranek nie otworzył ust — Ecce homo i milczenie."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Wj",
+     12,
+     6,
+     12,
+     6,
+     "Wj 12,6",
+     "typologia",
+     "Zabicie baranka między dwoma wieczorami — godzina wyroku na Baranka."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Mk",
+     15,
+     25,
+     15,
+     25,
+     "Mk 15,25",
+     "paralela",
+     "Godzina trzecia ukrzyżowania — napięcie z Janową godziną szóstą."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Łk",
+     23,
+     2,
+     23,
+     5,
+     "Łk 23,2-5",
+     "paralela",
+     "Polityczna wersja oskarżeń przed Piłatem u Łukasza."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Mt",
+     27,
+     24,
+     27,
+     29,
+     "Mt 27,24-29",
+     "paralela",
+     "Umycie rąk i koronacja szyderstwa w wersji Mateusza."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "1 Tm",
+     6,
+     13,
+     6,
+     13,
+     "1 Tm 6,13",
+     "rozwiniecie",
+     "Dobre wyznanie za Poncjusza Piłata — najstarsze echo procesu."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Rz",
+     13,
+     1,
+     13,
+     1,
+     "Rz 13,1",
+     "rozwiniecie",
+     "Nie ma władzy, jak tylko od Boga — systematyzacja 19,11."
+    ],
+    [
+     [
+      "unit",
+      "w. 18,28–32",
+      2
+     ],
+     "J",
+     12,
+     32,
+     12,
+     33,
+     "J 12,32-33",
+     "paralela",
+     "Wywyższony nad ziemię — ta sama formuła „jaką śmiercią miał umrzeć\"."
+    ],
+    [
+     [
+      "unit",
+      "w. 18,33–38",
+      1
+     ],
+     "J",
+     3,
+     3,
+     3,
+     5,
+     "J 3,3.5",
+     "paralela",
+     "Królestwo Boże u Jana tylko w rozmowie z Nikodemem — i tu, przed Piłatem."
+    ],
+    [
+     [
+      "unit",
+      "w. 18,33–38",
+      2
+     ],
+     "J",
+     8,
+     47,
+     8,
+     47,
+     "J 8,47",
+     "paralela",
+     "Kto jest z Boga, słów Bożych słucha — bliźniacze „kto jest z prawdy\"."
+    ],
+    [
+     [
+      "unit",
+      "w. 18,39–19,3",
+      0
+     ],
+     "Mk",
+     15,
+     7,
+     15,
+     7,
+     "Mk 15,7",
+     "paralela",
+     "Barabasz uwięziony z buntownikami za zabójstwo w rozruchach."
+    ],
+    [
+     [
+      "unit",
+      "w. 19,4–7",
+      1
+     ],
+     "Rdz",
+     3,
+     18,
+     3,
+     18,
+     "Rdz 3,18",
+     "typologia",
+     "Cierń i oset zrodzi ci ziemia — przekleństwo Adama na głowie nowego Adama."
+    ],
+    [
+     [
+      "unit",
+      "w. 19,4–7",
+      2
+     ],
+     "J",
+     5,
+     18,
+     5,
+     18,
+     "J 5,18",
+     "paralela",
+     "Czynił się równym Bogu — ten sam zarzut w całej Ewangelii (por. 10,33)."
+    ],
+    [
+     [
+      "unit",
+      "w. 19,8–12",
+      1
+     ],
+     "J",
+     10,
+     18,
+     10,
+     18,
+     "J 10,18",
+     "paralela",
+     "Nikt mi życia nie zabiera — władza Piłata wobec władzy oddania życia."
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Io., cap. XVIII, lect. 6-7; cap. XIX, lect. 1-3; De veritate, q. 1, a. 1",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Królestwo nie z tego świata co do pochodzenia; prawda jako adaequatio i jako osoba; władza dana z góry i stopnie winy.",
+     "Super Evangelium S. Ioannis lectura"
+    ],
+    [
+     "R. E. Brown",
+     "The Death of the Messiah; The Gospel According to John, t. II, ad 18,28-19,16a",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Siedmioscenowa struktura procesu (na zewnątrz / wewnątrz pretorium); historyczność privilegium paschale i tytułu amicus Caesaris.",
+     "The Gospel According to John (Anchor Bible)"
+    ],
+    [
+     "R. Schnackenburg",
+     "Das Johannesevangelium, t. III, ad loc.",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Królewskość Jezusa i pojęcie prawdy w procesie; teologia władzy w 19,11; ironia prezentacji Ecce homo.",
+     "Das Johannesevangelium"
+    ],
+    [
+     "S. Mędala",
+     "Ewangelia według świętego Jana, t. II, ad loc.",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Chronologia paschalna Jana wobec synoptyków; realia jurysdykcyjne i topografia (Litostrotos/Gabbata).",
+     "Ewangelia według świętego Jana (Nowy Komentarz Biblijny)"
+    ],
+    [
+     "C. K. Barrett",
+     "The Gospel According to St John, ad 18,28-19,16",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Ius gladii i wiarygodność „nam nie wolno nikogo zabić\"; godzina szósta a Mk 15,25; tło tytułu „przyjaciel Cezara\".",
+     "The Gospel According to St John"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 18,28–32",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 114 (CCL 36)",
+     "Augustyn zatrzymuje się na progu pretorium i nie może wyjść ze zdumienia: o impia caecitas — o bezbożna ślepoto! Boją się skalania cudzym domem, a nie boją się skalania krwią niewinnego; jakby domostwo poganina mogło splamić bardziej niż zamordowanie Sprawiedliwego. Chcieli czystymi ustami spożyć baranka, nie widząc, że wydają Baranka prawdziwego. Tak — dodaje — dzieje się zawsze, gdy religia zamienia się w rytualną skrupulatność bez sprawiedliwości: cedzi komara, a połyka wielbłąda; i ostrzega swoich słuchaczy, by paschy nie obchodzili z takim sercem, z jakim tamci strzegli progu."
+    ],
+    [
+     "w. 18,33–38",
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 115 (CCL 36)",
+     "Nad „królestwo moje nie jest z tego świata\" Augustyn woła: słuchajcie, Żydzi i poganie, słuchajcie, wszystkie królestwa ziemi — nie mówi „nie jest NA tym świecie\", lecz „nie jest Z tego świata\"; nie zabiera wam władzy, lecz jej nie potrzebuje. Jego królestwo to wierzący rozsiani po całym świecie, wyrwani z mocy ciemności; jest w świecie jak światło w ciemności, ale nie stąd czerpie. Dlatego nie broni go żaden miecz: gdyby było stąd, walczyliby słudzy — a właśnie nie walczą, aby nikt nie sądził, że prawdę można narzucić żelazem. Królestwo nie stąd zdobywa poddanych świadectwem i pociąga wolnych, nie spędza przymuszonych."
+    ],
+    [
+     "w. 18,39–19,3",
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 84 (PG 59)",
+     "Złotousty obnaża logikę Piłata bez litości: wiedział, że wydali go z zawiści, i szukał furtki, nie sprawiedliwości — najpierw przez Barabasza, potem przez bicz. Ubiczował niewinnego, aby nasycić wściekłość oskarżycieli i wzbudzić litość: jakby okaleczenie mogło być drogą ratunku! Tak czyni każdy, kto chce zadowolić i prawdę, i tłum — kończy zdradzając prawdę na raty. A o wyborze tłumu mówi: proszeni o uwolnienie dobroczyńcy, zażądali rozbójnika; taka jest wdzięczność świata — i taka przewrotność zawiści, że woli cierpieć od bandyty, niż zawdzięczać życie Zbawcy."
+    ],
+    [
+     "w. 19,4–7",
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io. XII (ad 19,5; PG 74)",
+     "Cyryl słyszy w „oto człowiek\" więcej, niż zamierzył Piłat: oto człowiek — patrzcie, do czego doprowadziliście Tego, który was karmił i wskrzeszał; ale patrzcie też, Kto to znosi. Ten, który jest Bogiem z natury, stał się człowiekiem i stoi w koronie waszego szyderstwa — a korona ta, choć spleciona na drwinę, głosi mimo woli prawdę o królowaniu. Nosi ciernie — owoc przekleństwa, które ziemia wydała po grzechu — bo przyszedł wziąć na siebie przekleństwo nasze; i w purpurze z szyderstwa jest bardziej królem niż wszyscy, którzy go skazują, bo króluje nie strachem, lecz cierpliwością."
+    ],
+    [
+     "w. 19,8–12",
+     "św. Leon Wielki",
+     "Sermones de passione Domini",
+     "Sermo 59 (De passione VIII; PL 54)",
+     "Leon waży milczenie i słowo Więźnia: milczał na pytania, na które odpowiedź już dał, aby wypełniło się „jak baranek przed strzygącym\"; przemówił zaś o władzy, aby sędzia wiedział, kogo sądzi. „Nie miałbyś nade mną żadnej władzy, gdyby nie była ci dana z góry\" — tym jednym zdaniem Pan i uznaje porządek władzy, i odbiera jej pychę: sądzisz z dopustu, nie z mocy własnej; jesteś narzędziem godziny, nie jej panem. Dlatego cała Męka — mówi Leon — jest dziełem nie konieczności, lecz zgody: cierpi, bo zechciał; wydany, bo się wydał; a moc, która pozwala go krzyżować, jest tą samą mocą, która krzyżujących mogłaby w proch obrócić — i właśnie dlatego ich zbawia."
+    ],
+    [
+     "w. 19,13–16",
+     "św. Beda Czcigodny",
+     "In S. Ioannis Evangelium expositio",
+     "In Io. exp. XIX (PL 92)",
+     "Beda składa w jedno wszystkie znaki godziny: Przygotowanie Paschy — bo prawdziwa Pascha się gotuje; godzina szósta — bo w południe, gdy słońce najwyżej, Słońce sprawiedliwości zostaje wydane na zaćmienie; Gabbata, wzniesienie — bo wyrok na Wywyższonego zapada na wysokości. A nad „nie mamy króla, tylko Cezara\" wzdycha: wyparli się nie Piłatowi, lecz sobie; oddali cudzoziemcowi to, co Bóg zachował dla siebie, i dlatego — dodaje za prorokami — zostali bez króla i bez namaszczenia, aż poznają Tego, którego przebili. Kto zaś dziś woła, że nie ma króla prócz doczesnych — czyni to samo wyznanie i ten sam wybór."
+    ]
+   ],
+   "liturgy": [
+    [
+     "rzymski",
+     "Wielki Piątek Męki Pańskiej — Pasja",
+     "J 18,1-19,42",
+     "Proces przed Piłatem jest centralną częścią Pasji Janowej czytanej w Wielki Piątek od starożytności; zgromadzenie słucha wyroku z Gabbaty w godzinie, w której zapadł."
+    ],
+    [
+     "rzymski",
+     "Uroczystość Jezusa Chrystusa Króla Wszechświata, rok B",
+     "J 18,33b-37",
+     "Dialog o królestwie nie z tego świata jest Ewangelią uroczystości ustanowionej przez Piusa XI (Quas primas, 1925): Kościół definiuje królewskość Chrystusa słowami procesu."
+    ],
+    [
+     "bizantyjski",
+     "Jutrznia Wielkiego Piątku — Ewangelie Męki",
+     "J 18,28-19,16",
+     "Scena przed Piłatem wchodzi w cykl Dwunastu Ewangelii Męki Świętej i Wielkiej Soboty; tropariony Wielkiego Piątku rozważają purpurę i koronę jako insygnia prawdziwego królowania."
+    ],
+    [
+     "rzymski",
+     "Droga krzyżowa — stacja I; Gorzkie żale",
+     "J 19,13-16",
+     "Pierwsza stacja („Jezus na śmierć skazany\") i pasyjna pobożność polska rozważają wyrok z Gabbaty; obraz Ecce homo stał się osobnym typem ikonograficznym i tematem medytacji."
+    ]
+   ],
+   "textual": [
+    [
+     28,
+     "ἀλλὰ φάγωσιν τὸ πάσχα",
+     "wariant lekcji",
+     "NA28: ἀλλὰ φάγωσιν („lecz [mogli] spożyć\") za 𝔓60vid ℵ A B C* Ds N W Δ Θ 0250. 565. 579. l 844 i tradycją łacińską. C2 L Ψ f1.13 33 z tradycją bizantyjską, częścią starołacińskich, Wulgatą klementyńską i syryjską harklejską dodają spójnik: ἀλλ' ἵνα φάγωσιν („lecz aby spożyli\").",
+     "Dodanie ἵνα wyrównuje składnię do poprzedzającego ἵνα μὴ μιανθῶσιν i jest typowym wygładzeniem — lekcja krótsza, eliptyczna (celownik zamiaru bez spójnika), jest trudniejsza i pierwotna. Dla sensu wariant obojętny; dla obrazu tradycji pouczający: kopiści porządkowali gramatykę zdania, którego treść — skrupuł czystości nad wydawanym Niewinnym — pozostała nietknięta w całym przekazie."
+    ],
+    [
+     19,
+     14,
+     "ὥρα ἦν ὡς ἕκτη",
+     "wariant harmonizujący",
+     "NA28: ἕκτη („szósta\") za zdecydowaną większością świadków (𝔓66c ℵ A B Ds L N W Δ Ψ f1.13 33. 565. 579. 1241. l 844, przekłady). ℵ2 Ds L Δ Ψ i część minuskułów czytają τρίτη („trzecia\"); nadto Θ z tradycją bizantyjską i syryjską harklejską mają δὲ ὡς zamiast ἦν ὡς, a 𝔓66* opuszcza frazę.",
+     "Wariant τρίτη jest jawną harmonizacją z Mk 15,25 („była godzina trzecia, gdy go ukrzyżowali\") — skoro u Marka o trzeciej już wisi na krzyżu, Janowa szósta na trybunale wydawała się błędem i „poprawiano\" ją od starożytności (dyskusję zna już Euzebiusz). Lectio difficilior ἕκτη jest pierwotna i teologicznie rozmyślna: około południa 14 Nisan w świątyni rozpoczynano zabijanie baranków paschalnych — Janowi zegar służy kalendarzowi Baranka, nie synchronizacji z synoptykami."
+    ],
+    [
+     19,
+     16,
+     "Παρέλαβον οὖν τὸν Ἰησοῦν",
+     "wariant lekcji",
+     "NA28 za B Ds L Ψ 33 i częścią starołacińskich: krótkie „zabrali więc Jezusa\". Tradycja rękopiśmienna rozbudowuje: παρέλαβον δὲ τὸν Ἰησοῦν (A Θ 𝔐 vg syh); παραλαβόντες οὖν... z dopowiedzeniami ἀπήγαγον („odprowadzili\" — 𝔓66vid ℵ N W f1 565. 579) lub καὶ ἤγαγον; Γ 700 dodają „do pretorium\", a f13 z l 844 i łacińskim Orygenesem — „i włożyli na niego krzyż\".",
+     "Wachlarz rozszerzeń to dopowiedzenia narracyjne (częściowo z Mt 27,31 i z 19,17), uzupełniające ruch, którego krótka lekcja nie opisuje. Tekst pierwotny zostawia zdanie znacząco surowe: „zabrali Jezusa\" — bez podmiotu nazwanego wprost, w celowej dwuznaczności po παρέδωκεν αὐτὸν αὐτοῖς: wydał go „im\", zabrali „oni\" — oskarżyciele, choć ukrzyżują żołnierze; wszyscy, bo wszyscy wydali; a najgłębiej — nikt: On sam daje swoje życie (10,18)."
+    ]
+   ],
+   "theme_links": [
+    [
+     "Ecce homo — król objawiony w poniżeniu",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "Męka Janowa — pasja Króla",
+     [
+      "block",
+      "w. 18,28–32"
+     ]
+    ],
+    [
+     "wywyższenie (ὑψωθῆναι) — krzyż jako chwała",
+     [
+      "block",
+      "w. 18,28–32"
+     ]
+    ],
+    [
+     "królewskość Jezusa (βασιλεύς) — tron krzyża",
+     [
+      "block",
+      "w. 18,33–38"
+     ]
+    ],
+    [
+     "prawda (ἀλήθεια), która wyzwala",
+     [
+      "block",
+      "w. 18,33–38"
+     ]
+    ],
+    [
+     "Dobry Pasterz — brama, głos, oddane życie",
+     [
+      "block",
+      "w. 18,39–19,3"
+     ]
+    ],
+    [
+     "κρίσις — sąd, który się dokonuje",
+     [
+      "block",
+      "w. 19,4–7"
+     ]
+    ],
+    [
+     "ojcostwo i pochodzenie — czyj jesteś?",
+     [
+      "block",
+      "w. 19,8–12"
+     ]
+    ],
+    [
+     "Baranek Boży",
+     [
+      "block",
+      "w. 19,13–16"
+     ]
+    ],
+    [
+     "godzina Jezusa (ἡ ὥρα)",
+     [
+      "block",
+      "w. 19,13–16"
+     ]
+    ],
+    [
+     "królewskość Jezusa (βασιλεύς) — tron krzyża",
+     [
+      "block",
+      "w. 19,13–16"
+     ]
+    ]
+   ],
+   "revision_note": "Perykopa 42 (J 18,28-19,16): proces przed Piłatem — siedem scen między zewnętrzem a wnętrzem pretorium, królestwo nie z tego świata, pytanie o prawdę, Barabasz, biczowanie i koronacja cierniem, Ecce homo, władza dana z góry, Gabbata i wyrok w godzinie baranków. Greka z db.sqlite (NA28), noty tekstualne 18,28; 19,14; 19,16 z aparatu; nowe leksemy (m.in. πραιτώριον, σταυρόω, βῆμα, παρασκευή, λῃστής), terminy Gabbata i erew Pesach, nowe dzieło: Leon Wielki, Sermones de passione Domini; temat: Ecce homo — król objawiony w poniżeniu."
+  }
+ ]
+}
