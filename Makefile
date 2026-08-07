@@ -28,7 +28,7 @@ SOURCES = tools/egzegeza_jana_build.py data/schema.sql \
           data/samarytanka.json data/dworzanin.json data/betesda.json \
           data/mowa.json data/chleb.json data/eucharystia.json \
           data/bracia.json data/swieto.json data/woda.json data/adultera.json \
-          data/swiatlosc.json data/abraham.json data/niewidomy.json data/pasterz.json data/poswiecenie.json data/lazarz.json data/kajfasz.json data/namaszczenie.json data/wjazd.json data/ziarno.json data/bilans.json data/umycie.json data/zdrada.json data/mieszkania.json data/paraklet.json data/krzew.json data/nienawisc.json data/duch.json data/radosc.json
+          data/swiatlosc.json data/abraham.json data/niewidomy.json data/pasterz.json data/poswiecenie.json data/lazarz.json data/kajfasz.json data/namaszczenie.json data/wjazd.json data/ziarno.json data/bilans.json data/umycie.json data/zdrada.json data/mieszkania.json data/paraklet.json data/krzew.json data/nienawisc.json data/duch.json data/radosc.json data/modlitwa.json
 BUILD   = tools/egzegeza_jana_build.py
 APP     = browser/app.py
 EXPORT  = tools/export_pericope.py
