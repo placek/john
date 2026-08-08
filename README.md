@@ -1,7 +1,7 @@
 # Egzegeza Ewangelii według św. Jana — baza SQLite
 
 Baza `egzegeza_jana.sqlite` przechowuje pełną egzegezę perykopa po perykopie.
-Zawartość: **J 1,1–20,31** w czterdziestu czterech perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz czterdzieści trzy perykopy J 1,15–20,31; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
+Zawartość: **cała Ewangelia, J 1,1–21,25**, w czterdziestu pięciu perykopach — Prolog (zmigrowany z dokumentu roboczego) oraz czterdzieści cztery perykopy J 1,15–21,25; wszystkie doprowadzone do pełnej egzegezy (status: ukończona).
 
 ## Układ repozytorium
 
@@ -52,6 +52,7 @@ data/                     ← źródła (pod kontrolą wersji)
   pilat.json             J 18,28-19,16 (Proces przed Piłatem)
   golgota.json           J 19,17-42 (Ukrzyżowanie, śmierć i pogrzeb)
   zmartwychwstanie.json  J 20,1-31 (Zmartwychwstanie: pusty grób i spotkania)
+  epilog.json            J 21,1-25 (Epilog: połów, pasterz i świadek)
   egzegeza_jana.sqlite    baza generowana (make build; poza gitem)
 tools/
   egzegeza_jana_build.py  buduje data/egzegeza_jana.sqlite z data/*.json
@@ -94,7 +95,7 @@ oraz listę samodzielnych perykop (`pericopes`). `make build` (czyli
 `python3 tools/egzegeza_jana_build.py`) buduje bazę od zera — najpierw
 Wprowadzenie (meta + intro_section), potem perykopy w kolejności
 `prolog → continuation → kana → swiatynia → nikodem → oblubieniec → samarytanka →
-dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd → ziarno → bilans → umycie → zdrada → mieszkania → paraklet → krzew → nienawisc → duch → radosc → modlitwa → pojmanie → pilat → golgota → zmartwychwstanie`.
+dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto → woda → adultera → swiatlosc → abraham → niewidomy → pasterz → poswiecenie → lazarz → kajfasz → namaszczenie → wjazd → ziarno → bilans → umycie → zdrada → mieszkania → paraklet → krzew → nienawisc → duch → radosc → modlitwa → pojmanie → pilat → golgota → zmartwychwstanie → epilog`.
 
 ## Warstwy schematu
 
@@ -235,6 +236,7 @@ WHERE fts_tresc MATCH 'przebóstwieni' AND entity = 'patristic_comment';
 | J 18,28–19,16 | Proces przed Piłatem | ukończona |
 | J 19,17–42 | Ukrzyżowanie, śmierć i pogrzeb | ukończona |
 | J 20,1–31 | Zmartwychwstanie: pusty grób i spotkania | ukończona |
+| J 21,1–25 | Epilog: połów, pasterz i świadek | ukończona |
 
 Eksport pojedynczej perykopy: `make export PID=4` (lub
 `python3 tools/export_pericope.py 4 baranek.md`); całości: `make export`.
