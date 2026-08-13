@@ -47,6 +47,7 @@ Ten plik to WYŁĄCZNIE narzędzie — cała treść (schemat i dane) leży osob
     data/pilat.json        — J 18,28-19,16 (Proces przed Piłatem)
     data/golgota.json      — J 19,17-42 (Ukrzyżowanie, śmierć i pogrzeb)
     data/zmartwychwstanie.json — J 20,1-31 (Zmartwychwstanie: pusty grób i spotkania)
+    data/epilog.json       — J 21,1-25 (Epilog: połów, pasterz i świadek)
 
 Uruchomienie:  python3 tools/egzegeza_jana_build.py
 Wynik:         data/egzegeza_jana.sqlite (budowana od zera)
@@ -67,7 +68,7 @@ DB = DATA / "egzegeza_jana.sqlite"
 SCHEMA = DATA / "schema.sql"
 PHASES = ["prolog.json", "continuation.json", "kana.json", "swiatynia.json",
           "nikodem.json", "oblubieniec.json", "samarytanka.json",
-          "dworzanin.json", "betesda.json", "mowa.json", "chleb.json", "eucharystia.json", "bracia.json", "swieto.json", "woda.json", "adultera.json", "swiatlosc.json", "abraham.json", "niewidomy.json", "pasterz.json", "poswiecenie.json", "lazarz.json", "kajfasz.json", "namaszczenie.json", "wjazd.json", "ziarno.json", "bilans.json", "umycie.json", "zdrada.json", "mieszkania.json", "paraklet.json", "krzew.json", "nienawisc.json", "duch.json", "radosc.json", "modlitwa.json", "pojmanie.json", "pilat.json", "golgota.json", "zmartwychwstanie.json"]
+          "dworzanin.json", "betesda.json", "mowa.json", "chleb.json", "eucharystia.json", "bracia.json", "swieto.json", "woda.json", "adultera.json", "swiatlosc.json", "abraham.json", "niewidomy.json", "pasterz.json", "poswiecenie.json", "lazarz.json", "kajfasz.json", "namaszczenie.json", "wjazd.json", "ziarno.json", "bilans.json", "umycie.json", "zdrada.json", "mieszkania.json", "paraklet.json", "krzew.json", "nienawisc.json", "duch.json", "radosc.json", "modlitwa.json", "pojmanie.json", "pilat.json", "golgota.json", "zmartwychwstanie.json", "epilog.json"]
 
 # Tytuł sekcji I jest strukturalnym szkieletem każdej perykopy (nie treścią).
 SECTION_I_TITLE = ("Tekst grecki (Nestle-Aland, wyd. 28) z przekładem "
