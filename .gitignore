@@ -1,6 +1,8 @@
-# Markdown files are generated exports (make export); keep only the README.
+# Markdown files are generated exports (make export); keep only the README
+# and the hand-maintained review log.
 *.md
 !README.md
+!data/REVIEW_LOG.md
 
 # The SQLite database is generated from data/*.json (make build).
 data/egzegeza_jana.sqlite
