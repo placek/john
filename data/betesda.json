@@ -146,7 +146,7 @@
    "בֵּית חֶסְדָּא",
    "Bet chesda",
    "hbr/aram",
-   "dom łaski/miłosierdzia — prawdopodobna etymologia nazwy Betesda; forma dualna Bet Eszdatajin w Zwoju Miedzianym z Qumran"
+   "dom łaski/miłosierdzia — tradycyjna etymologia nazwy Betesda; Zwój Miedziany z Qumran (3Q15 XI,12) poświadcza formę dualną בית אשדתין (Bet Eszdatajin), od אֶשֶׁד (eszed) — wylew, i to ją uważa się dziś za pierwotną"
   ],
   [
    "מְלָאכָה",
@@ -224,6 +224,11 @@
    "ὑγιῆ"
   ],
   [
+   "κράβαττος",
+   11,
+   "κράβαττόν"
+  ],
+  [
    "εὑρίσκω",
    14,
    "εὑρίσκει"
@@ -264,6 +269,14 @@
   [
    "szabat i dzieła Boże",
    "Spór szabatowy czwartej Ewangelii (5,1–18; 7,19–24; 9): Ojciec działa aż dotąd — i Syn działa; uzdrowienie jako dzieło Boże, nie naruszenie odpoczynku."
+  ],
+  [
+   "jedność Ojca i Syna (ἓν ἐσμεν)",
+   "Nić chrystologiczna, która w 10,30 osiąga formułę najkrótszą z możliwych: ja i Ojciec JEDNO jesteśmy — ani „jednym\" (osobą), ani „zgodni\" (moralnie), lecz jedno co do mocy i istoty. Biegnie od 1,1 (Słowo było u Boga i Bogiem było Słowo) przez 5,17-23 i 10,38 (Ojciec we mnie, ja w Ojcu) do 17,21-22 i wyznania Tomasza (20,28)."
+  ],
+  [
+   "κρίσις — sąd, który się dokonuje",
+   "Janowy sąd jako samoosądzenie wobec światła (3,19-21): nie sądźcie po pozorze (7,24), na sąd przyszedłem (9,39), teraz odbywa się sąd nad tym światem (12,31); krisis nie jako trybunał na końcu, lecz jako rozdzielenie dokonujące się przy każdym spotkaniu ze Słowem."
   ]
  ],
  "pericopes": [
@@ -293,7 +306,7 @@
       [
        "κολυμβήθρα ... πέντε στοὰς ἔχουσα",
        "sadzawka ... mająca pięć portyków",
-       "Topografia, którą przez wieki podejrzewano o symbol, okazała się protokołem: wykopaliska przy kościele św. Anny w Jerozolimie (od XIX w., systematycznie w XX) odsłoniły przy dawnej Bramie Owczej podwójną sadzawkę z czterema portykami wokół i piątym na grobli dzielącej oba baseny — pięć stoa dokładnie jak w tekście; Zwój Miedziany z Qumran (3Q15) zna to miejsce jako Bet Eszdatajin — „dom dwóch wylewów\", w liczbie podwójnej, potwierdzając i nazwę, i podwójność. Czwarta Ewangelia, pisana po zburzeniu miasta, pamięta układ architektoniczny sprzed katastrofy — jeden z najmocniejszych argumentów za jerozolimską pamięcią naocznego świadka (czas teraźniejszy ἔστιν — „jest sadzawka\" — bywa nawet czytany jako ślad redakcji sprzed 70 r.). Co nie unieważnia głębi, którą starożytni czytelnicy widzieli w liczbie: pięć portyków pełnych chorych to dla Augustyna pięć ksiąg Prawa — ujawniającego choroby, których nie umie uleczyć (zob. katena). Πλῆθος τῶν ἀσθενούντων (mnóstwo chorych) — u bram świątyni, w mieście świętym, obraz zalegającego cierpienia: świat czekający przy wodzie, która pomaga rzadko i tylko pierwszym."
+       "Topografia, którą przez wieki podejrzewano o symbol, okazała się protokołem: wykopaliska przy kościele św. Anny w Jerozolimie (od XIX w., systematycznie w XX) odsłoniły przy dawnej Bramie Owczej podwójną sadzawkę z czterema portykami wokół i piątym na grobli dzielącej oba baseny — pięć stoa dokładnie jak w tekście; Zwój Miedziany z Qumran (3Q15 XI,12) zna to miejsce jako Bet Eszdatajin — „dom dwóch wylewów\", w liczbie podwójnej, potwierdzając i nazwę, i podwójność. Czwarta Ewangelia, pisana po zburzeniu miasta, pamięta układ architektoniczny sprzed katastrofy — argument za jerozolimską pamięcią naocznego świadka, rozwijany m.in. przez R. Bauckhama (czas teraźniejszy ἔστιν — „jest sadzawka\" — bywa nawet czytany jako ślad redakcji sprzed 70 r.). Co nie unieważnia głębi, którą starożytni czytelnicy widzieli w liczbie: pięć portyków pełnych chorych to dla Augustyna pięć ksiąg Prawa — ujawniającego choroby, których nie umie uleczyć (zob. katena). Πλῆθος τῶν ἀσθενούντων (mnóstwo chorych) — u bram świątyni, w mieście świętym, obraz zalegającego cierpienia: świat czekający przy wodzie, która pomaga rzadko i tylko pierwszym."
       ]
      ]
     },
@@ -309,17 +322,17 @@
       [
        "τριάκοντα [καὶ] ὀκτὼ ἔτη",
        "trzydzieści osiem lat",
-       "Liczba nie jest okrągła — i właśnie dlatego brzmi jak metryka, nie jak symbol; ale ucho biblijne słyszy w niej echo dokładne: trzydzieści osiem lat trwała wędrówka pokolenia niewiary od Kadesz-Barnea do potoku Zered — „aż wyginęło całe pokolenie wojowników\" (Pwt 2,14). Człowiek spod portyków nosi w swoim ciele chronologię Izraela na pustyni: czas kary, wyczekiwania i wymierania nadziei; jego uzdrowienie będzie więc czymś więcej niż terapią — będzie wejściem do ziemi obiecanej po epoce, która nie mogła wejść. Ἔχων ἐν τῇ ἀσθενείᾳ (trwający w słabości — dosłownie: mający lata w chorobie) opisuje stan, który stał się tożsamością: po trzydziestu ośmiu latach człowiek nie tyle ma chorobę, ile choroba ma jego — z miejscem, przyzwyczajeniami i codzienną strategią porażki („inny przede mną schodzi\"). Ἰδὼν... καὶ γνούς (ujrzawszy i poznawszy): inicjatywa jest w całości po stronie Jezusa — chory o nic nie prosi, nie woła, zapewne nawet nie patrzy; z mnóstwa leżących Pan wybiera przypadek najbardziej beznadziejny, jak lekarz, który zaczyna obchód od sali chorób nieuleczalnych."
+       "Liczba nie jest okrągła — i właśnie dlatego brzmi jak metryka, nie jak symbol; ale ucho biblijne słyszy w niej echo: trzydzieści osiem lat trwała wędrówka pokolenia niewiary od Kadesz-Barnea do potoku Zered — „aż wyginęło całe pokolenie wojowników\" (Pwt 2,14), jedyny inny odcinek trzydziestu ośmiu lat w Biblii (poza datowaniem panowania: 1 Krl 16,29; 2 Krl 15,8). Aluzja nie jest pewna — część komentatorów widzi w liczbie zwykły realizm metryki chorego — ale kierunek lektury podpowiada sama Ewangelia, wiążąc uzdrowienie z szabatem i odpoczynkiem. Człowiek spod portyków nosi w swoim ciele chronologię Izraela na pustyni: czas kary, wyczekiwania i wymierania nadziei; jego uzdrowienie będzie więc czymś więcej niż terapią — będzie wejściem do ziemi obiecanej po epoce, która nie mogła wejść. Ἔχων ἐν τῇ ἀσθενείᾳ (trwający w słabości — dosłownie: mający lata w chorobie) opisuje stan, który stał się tożsamością: po trzydziestu ośmiu latach człowiek nie tyle ma chorobę, ile choroba ma jego — z miejscem, przyzwyczajeniami i codzienną strategią porażki („inny przede mną schodzi\"). Ἰδὼν... καὶ γνούς (ujrzawszy i poznawszy): inicjatywa jest w całości po stronie Jezusa — chory o nic nie prosi, nie woła, zapewne nawet nie patrzy; z mnóstwa leżących Pan wybiera przypadek najbardziej beznadziejny, jak lekarz, który zaczyna obchód od sali chorób nieuleczalnych."
       ],
       [
        "θέλεις ὑγιὴς γενέσθαι;",
        "czy chcesz stać się zdrowy?",
-       "Pytanie na pozór zbędne — kto by nie chciał? — a w istocie najgłębsze w całej scenie: po trzydziestu ośmiu latach choroba bywa już nie tylko nieszczęściem, lecz układem życia; wyzdrowieć znaczy stracić usprawiedliwienie, miejsce, rutynę żebraczą — i przyjąć odpowiedzialność chodzącego. Jezus nie zakłada woli — pyta o nią: łaska nie forsuje drzwi, których człowiek nie chce otworzyć (Augustyn odleje to później w formułę: Ten, który stworzył cię bez ciebie, nie uzdrowi cię bez ciebie). Odpowiedź chorego jest kliniczna dla duszy zastarzałej w niemocy: nie mówi „chcę\" — recytuje mechanizm klęski (poruszona woda, brak pomocnika, zawsze ktoś pierwszy); a jej pierwsze słowa są mimowolnie największe: ἄνθρωπον οὐκ ἔχω — nie mam człowieka. Cała Ewangelia jest odpowiedzią na tę skargę: oto stoi przed nim ἄνθρωπος, którego mu brakowało — Słowo, które stało się człowiekiem właśnie po to, by nikt już nie mógł powiedzieć, że go nie ma. Ojcowie każą czytać to zdanie na głos w każdej epoce samotności: choroby leczone wodą wymagają kolejki; uzdrowienie, które przyszło, wymaga tylko Obecnego."
+       "Pytanie na pozór zbędne — kto by nie chciał? — a w istocie najgłębsze w całej scenie: po trzydziestu ośmiu latach choroba bywa już nie tylko nieszczęściem, lecz układem życia; wyzdrowieć znaczy stracić usprawiedliwienie, miejsce, rutynę żebraczą — i przyjąć odpowiedzialność chodzącego. Jezus nie zakłada woli — pyta o nią: łaska nie forsuje drzwi, których człowiek nie chce otworzyć (Augustyn odleje to później w formułę o usprawiedliwieniu: Qui ergo fecit te sine te, non te iustificat sine te — „Ten więc, który cię uczynił bez ciebie, nie usprawiedliwia cię bez ciebie\", Sermo 169,11,13, przypomniane w KKK 1847). Odpowiedź chorego jest kliniczna dla duszy zastarzałej w niemocy: nie mówi „chcę\" — recytuje mechanizm klęski (poruszona woda, brak pomocnika, zawsze ktoś pierwszy); a jej pierwsze słowa są mimowolnie największe: ἄνθρωπον οὐκ ἔχω — nie mam człowieka. Cała Ewangelia jest odpowiedzią na tę skargę: oto stoi przed nim ἄνθρωπος, którego mu brakowało — Słowo, które stało się człowiekiem właśnie po to, by nikt już nie mógł powiedzieć, że go nie ma. Ojcowie każą czytać to zdanie na głos w każdej epoce samotności: choroby leczone wodą wymagają kolejki; uzdrowienie, które przyszło, wymaga tylko Obecnego."
       ],
       [
        "ἔγειρε ἆρον τὸν κράβαττόν σου καὶ περιπάτει",
        "wstań, weź swoje łoże i chodź",
-       "Trzy imperatywy — i żadnej wody: Jezus nie wrzuca chorego do sadzawki, nie czeka na poruszenie, nie konkuruje z „innymi przed nim\"; omija całą maszynerię, na którą tamten patrzył przez pół życia, i działa jak w Kafarnaum — samym słowem. Ἔγειρε to znów czasownik zmartwychwstania (jak ἐγερῶ o przybytku, 2,19): wstawanie chorych jest w Ewangeliach przedsmakiem powstania z martwych — mowa 5,21.25 wyłoży to wprost („jak Ojciec wskrzesza umarłych… tak i Syn ożywia, kogo chce\"). Rozkaz „weź swoje łoże\" ma zaś dwuznaczność zamierzoną: praktycznie — znak pełni sił (nosze nosiły jego, teraz on nosi je); prowokacyjnie — jest szabat, o czym czytelnik jeszcze nie wie, a Prawodawca wie doskonale: polecenie wpisuje w uzdrowienie świadectwo, które za chwilę stanie się przedmiotem śledztwa. Κράβαττος — słowo ludowe, nosze nędzarza (Marek używa go o łożu paralityka, Mk 2: ten sam potrójny rozkaz „wstań, weź, chodź\" — dwie tradycje, jeden styl Pana); εὐθέως (natychmiast) — bez rekonwalescencji: po trzydziestu ośmiu latach mięśnie słuchają słowa, nie fizjologii."
+       "Trzy imperatywy — i żadnej wody: Jezus nie wrzuca chorego do sadzawki, nie czeka na poruszenie, nie konkuruje z „innymi przed nim\"; omija całą maszynerię, na którą tamten patrzył przez pół życia, i działa jak w Kafarnaum — samym słowem. Ἔγειρε to znów czasownik zmartwychwstania (jak ἐγερῶ o przybytku, 2,19): wstawanie chorych jest w Ewangeliach przedsmakiem powstania z martwych — mowa 5,21.25 wyłoży to wprost („jak Ojciec wskrzesza umarłych… tak i Syn ożywia, kogo chce\"). Rozkaz „weź swoje łoże\" ma zaś dwuznaczność zamierzoną: praktycznie — znak pełni sił (nosze nosiły jego, teraz on nosi je); prowokacyjnie — jest szabat, o czym czytelnik jeszcze nie wie, a Prawodawca wie doskonale: polecenie wpisuje w uzdrowienie świadectwo, które za chwilę stanie się przedmiotem śledztwa. Κράβαττος — słowo ludowe, nosze nędzarza (Marek używa go o łożu paralityka z Kafarnaum: Mk 2,9 ma ἔγειρε καὶ ἆρον τὸν κράβαττόν σου καὶ περιπάτει — „wstań i weź swoje łoże, i chodź\" — czyli ten sam potrójny rozkaz z dodanym spójnikiem, a Mk 2,11 kończy się ὕπαγε εἰς τὸν οἶκόν σου — „idź do swojego domu\"; dwie tradycje, jeden styl Pana); εὐθέως (natychmiast) — bez rekonwalescencji: po trzydziestu ośmiu latach mięśnie słuchają słowa, nie fizjologii."
       ]
      ]
     },
@@ -329,18 +342,18 @@
      "ce": 5,
      "ve": 13,
      "label": "w. 9b–13",
-     "greek": "῏Ην δὲ σάββατον ⸋¹ἐν ἐκείνῃ τῇ ἡμέρᾳ⸌· ἔλεγον οὖν οἱ Ἰουδαῖοι τῷ τεθεραπευμένῳ· σάββατόν ἐστιν, καὶ οὐκ ἔξεστίν σοι ἆραι τὸν κράβαττόν °σου· ⸂ὁ δὲ⸃ ἀπεκρίθη αὐτοῖς· ὁ ποιήσας με ὑγιῆ ἐκεῖνός μοι εἶπεν· ἆρον τὸν κράβαττόν σου καὶ περιπάτει· ⸋ἠρώτησαν ⸀αὐτόν· τίς ἐστιν ὁ ἄνθρωπος ὁ εἰπών σοι· ἆρον ⸆ καὶ περιπάτει;⸌ ὁ δὲ ⸀ἰαθεὶς οὐκ ᾔδει τίς ἐστιν, ὁ ⸁γὰρ Ἰησοῦς ⸀¹ἐξένευσεν ὄχλου ὄντος ἐν τῷ τόπῳ·",
+     "greek": "Ἦν δὲ σάββατον ⸋¹ἐν ἐκείνῃ τῇ ἡμέρᾳ⸌· ἔλεγον οὖν οἱ Ἰουδαῖοι τῷ τεθεραπευμένῳ· σάββατόν ἐστιν, καὶ οὐκ ἔξεστίν σοι ἆραι τὸν κράβαττόν °σου· ⸂ὁ δὲ⸃ ἀπεκρίθη αὐτοῖς· ὁ ποιήσας με ὑγιῆ ἐκεῖνός μοι εἶπεν· ἆρον τὸν κράβαττόν σου καὶ περιπάτει· ⸋ἠρώτησαν ⸀αὐτόν· τίς ἐστιν ὁ ἄνθρωπος ὁ εἰπών σοι· ἆρον ⸆ καὶ περιπάτει;⸌ ὁ δὲ ⸀ἰαθεὶς οὐκ ᾔδει τίς ἐστιν, ὁ ⸁γὰρ Ἰησοῦς ⸀¹ἐξένευσεν ὄχλου ὄντος ἐν τῷ τόπῳ·",
      "transl": "A był szabat w owym dniu. Mówili więc Żydzi do uzdrowionego: Jest szabat i nie wolno ci nosić twojego łoża. On zaś odpowiedział im: Ten, który mnie uczynił zdrowym, On mi powiedział: Weź swoje łoże i chodź. Zapytali go: Kim jest ten człowiek, który ci powiedział: Weź i chodź? Uzdrowiony zaś nie wiedział, kim jest — Jezus bowiem usunął się, bo tłum był na tym miejscu.",
      "units": [
       [
        "Ἦν δὲ σάββατον",
        "a był szabat",
-       "Zdanie-zwrotnica, ujawnione z Janowym wyczuciem chwili: dopiero po uzdrowieniu, jak w 9,14 — czytelnik ma najpierw zobaczyć czysty dar, a potem dowiedzieć się, że dar był „nielegalny\". Noszenie przedmiotów między domenami należało do 39 kategorii pracy zakazanej (melachot; por. Jr 17,21–22: „nie noście ciężarów w dzień szabatu\" — tekst, na którym opierała się halacha; Ne 13,15–19), więc zarzut śledczych jest formalnie ścisły — i formalnie ślepy: widzą łoże niesione, nie widzą człowieka chodzącego; kontrolują przedmiot, przeoczają cud. Ewangelista nie kpi z szabatu — buduje pytanie, które Jezus postawi wprost w 7,23: skoro obrzezanie wolno czynić w szabat, „czemu złościcie się na Mnie, że całego człowieka uzdrowiłem w szabat?\"; sednem sporu nie jest kalendarz, lecz teologia: czym jest odpoczynek Boga — bezczynnością czy dokończonym dziełem? Scena przy Betesdzie otwiera ten spór na całą księgę (5; 7; 9), a jego rozstrzygnięcie padnie w w. 17 z ust samego Oskarżonego."
+       "Zdanie-zwrotnica, ujawnione z Janowym wyczuciem chwili: dopiero po uzdrowieniu, jak w 9,14 — czytelnik ma najpierw zobaczyć czysty dar, a potem dowiedzieć się, że dar był „nielegalny\". Noszenie przedmiotów między domenami należało do 39 kategorii pracy zakazanej (melachot — Miszna, Szabat 7,2; por. Jr 17,21–22: „nie noście ciężarów w dzień szabatu\" — tekst, na którym opierała się halacha; Ne 13,15–19), więc zarzut śledczych jest formalnie ścisły — i formalnie ślepy: widzą łoże niesione, nie widzą człowieka chodzącego; kontrolują przedmiot, przeoczają cud. Ewangelista nie kpi z szabatu — buduje pytanie, które Jezus postawi wprost w 7,23: skoro obrzezanie wolno czynić w szabat, „czemu złościcie się na Mnie, że całego człowieka uzdrowiłem w szabat?\"; sednem sporu nie jest kalendarz, lecz teologia: czym jest odpoczynek Boga — bezczynnością czy dokończonym dziełem? Scena przy Betesdzie otwiera ten spór na całą księgę (5; 7; 9), a jego rozstrzygnięcie padnie w w. 17 z ust samego Oskarżonego."
       ],
       [
        "ὁ ποιήσας με ὑγιῆ ἐκεῖνός μοι εἶπεν",
        "Ten, który mnie uczynił zdrowym, On mi powiedział",
-       "Logika uzdrowionego jest prosta jak kość udowa, która znów działa: autorytet czynu. Nie umie cytować halachy, nie zna nawet imienia dobroczyńcy (w. 13 — Jezus „usunął się\", ἐξένευσεν: hapax o wymowie skromności; cud nie czekał na owację) — wie jedno: kto ma moc uczynić zdrowym po trzydziestu ośmiu latach, ten ma prawo powiedzieć, co robić z łożem. To argument, który powróci dojrzalszy u ślepca z rozdziału 9 („czy grzesznik może takie znaki czynić?\"), a którego śledczy konsekwentnie nie podejmują: w ich pytaniu (w. 12) znika słowo „uzdrowił\" — pytają o tego, „który ci POWIEDZIAŁ: weź i chodź\"; z całego wydarzenia interesuje ich wyłącznie naruszenie, jakby dar był nieistotnym tłem wykroczenia. Ta selektywna pamięć władzy jest u Jana stałym rysem niewiary: fakty się przyjmuje, wybiera się, o co pytać. Uzdrowiony broni się biernie, bez brawury — jego formuła „ἐκεῖνος mi kazał\" przenosi odpowiedzialność wyżej; postać celowo szara, o której więcej powie następny blok."
+       "Logika uzdrowionego jest prosta jak kość udowa, która znów działa: autorytet czynu. Nie umie cytować halachy, nie zna nawet imienia dobroczyńcy (w. 13 — Jezus „usunął się\", ἐξένευσεν od ἐκνεύω — usunąć się, wymknąć: hapax w Nowym Testamencie, o wymowie skromności; cud nie czekał na owację) — wie jedno: kto ma moc uczynić zdrowym po trzydziestu ośmiu latach, ten ma prawo powiedzieć, co robić z łożem. To argument, który powróci dojrzalszy u ślepca z rozdziału 9 („czy grzesznik może takie znaki czynić?\"), a którego śledczy konsekwentnie nie podejmują: w ich pytaniu (w. 12) znika słowo „uzdrowił\" — pytają o tego, „który ci POWIEDZIAŁ: weź i chodź\"; z całego wydarzenia interesuje ich wyłącznie naruszenie, jakby dar był nieistotnym tłem wykroczenia. Ta selektywna pamięć władzy jest u Jana stałym rysem niewiary: fakty się przyjmuje, wybiera się, o co pytać. Uzdrowiony broni się biernie, bez brawury — jego formuła „ἐκεῖνος mi kazał\" przenosi odpowiedzialność wyżej; postać celowo szara, o której więcej powie następny blok."
       ]
      ]
     },
@@ -377,7 +390,7 @@
       [
        "ὁ πατήρ μου ἕως ἄρτι ἐργάζεται κἀγὼ ἐργάζομαι",
        "Ojciec mój aż dotąd działa i Ja działam",
-       "Obrona w jednym zdaniu — i jakim: Jezus nie kwestionuje faktów ani nie łagodzi halachy; sięga po teologumen, który judaizm znał dobrze, bo musiał go znać: skoro Bóg „odpoczął dnia siódmego\", czy przestał podtrzymywać świat? Rabini odpowiadali subtelnie (Bóg nie przenosi niczego poza swoją domenę — a Jego domeną jest wszystko; nie ustaje w trzech dziełach: rodzenia, ożywiania, sądzenia), Filon filozoficznie (Bóg nigdy nie przestaje działać — działanie jest Mu właściwe jak ogniowi palenie): szabat Boga to nie bezruch, lecz suwerenne panowanie nad dziełem. Ἕως ἄρτι (aż dotąd) przyjmuje tę naukę i dodaje do niej jedno słowo, które zmienia wszystko: κἀγώ — i Ja. Jezus nie mówi „Bóg działa, więc wyjątki są możliwe\" — mówi: moje uzdrowienie przy Betesdzie JEST tym nieustającym działaniem Ojca; stawia własny czyn wewnątrz Bożego szabatu, po stronie Stwórcy, nie stworzenia obowiązanego odpoczynkiem. „Mój Ojciec\" (πατήρ μου — nie „nasz\"): synostwo własne, nieudzielane; całe następne kazanie (5,19–47) będzie wykładem tego κἀγώ."
+       "Obrona w jednym zdaniu — i jakim: Jezus nie kwestionuje faktów ani nie łagodzi halachy; sięga po teologumen, który judaizm znał dobrze, bo musiał go znać: skoro Bóg „odpoczął dnia siódmego\", czy przestał podtrzymywać świat? Rabini odpowiadali subtelnie: Bóg nie przenosi niczego poza swoją domenę, bo cały świat jest Jego domeną prywatną (odpowiedź przypisana Gamalielowi II i jego towarzyszom w Rzymie — Wj Rabba 30,9, midrasz o redakcji znacznie późniejszej, więc świadectwo o I w. jest pośrednie). Filon odpowiadał filozoficznie: Bóg nigdy nie przestaje czynić — działanie jest Mu właściwe jak ogniowi palenie (Legum allegoriae I,5–6; por. De Cherubim 87). Szabat Boga to zatem nie bezruch, lecz suwerenne panowanie nad dziełem. Ἕως ἄρτι (aż dotąd) przyjmuje tę naukę i dodaje do niej jedno słowo, które zmienia wszystko: κἀγώ — i Ja. Jezus nie mówi „Bóg działa, więc wyjątki są możliwe\" — mówi: moje uzdrowienie przy Betesdzie JEST tym nieustającym działaniem Ojca; stawia własny czyn wewnątrz Bożego szabatu, po stronie Stwórcy, nie stworzenia obowiązanego odpoczynkiem. „Mój Ojciec\" (πατήρ μου — nie „nasz\"): synostwo własne, nieudzielane; całe następne kazanie (5,19–47) będzie wykładem tego κἀγώ."
       ],
       [
        "ἴσον ἑαυτὸν ποιῶν τῷ θεῷ",
@@ -395,15 +408,15 @@
      "children": [
       [
        "Betesda: archeologia, nazwa, kulty wód",
-       "Kompleks przy Bramie Owczej — dziś na terenie kościoła św. Anny — to jedna z największych zdobyczy archeologii biblijnej: dwa wielkie baseny (północny i południowy) przedzielone groblą, otoczone portykami, z piątym portykiem na grobli; głębokość i schody potwierdzają funkcję rytualno-zbiorczą. Nazwa krąży w rękopisach w kilku formach (zob. aparat), a Zwój Miedziany z Qumran (3Q15) wymienia Bet Eszdatajin — dualis, „dom dwóch wylewów/zbiorników\" — znakomicie tłumacząc i podwójność basenów, i wahania transkrypcji; popularna etymologia Bet chesda (dom łaski) jest może wtórna, ale teologicznie trafiła w sedno sceny. Rys drażliwy: w epoce rzymskiej (po 135 r.) działało tu sanktuarium Asklepiosa/Serapisa — wody uchodziły za lecznicze zapewne już wcześniej; ludowa wiara w okresowe „poruszenie wody\" (przypisywane aniołowi — stąd glosa w. 4) mogła mieć podłoże w nieregularnym dopływie. Ewangelista opisuje więc miejsce z pogranicza pobożności i magii, kolejkę do kaprysu żywiołu — i na tym tle uzdrowienie „poza kolejką i poza wodą\", samym słowem, jest cichą polemiką: łaska nie jest loterią dla najszybszych."
+       "Kompleks przy Bramie Owczej — dziś na terenie kościoła św. Anny — to jedna z największych zdobyczy archeologii biblijnej: dwa wielkie baseny (północny i południowy) przedzielone groblą, otoczone portykami, z piątym portykiem na grobli; głębokość i schody potwierdzają funkcję rytualno-zbiorczą. Nazwa krąży w rękopisach w kilku formach (zob. aparat), a Zwój Miedziany z Qumran (3Q15 XI,12) wymienia בית אשדתין (Bet Eszdatajin) — dualis, „dom dwóch wylewów/zbiorników\" — znakomicie tłumacząc i podwójność basenów, i wahania transkrypcji; tradycyjna etymologia Bet chesda (dom łaski) jest wobec tego zapewne wtórna, ale teologicznie trafiła w sedno sceny. Rys drażliwy: w Aelia Capitolina (po 135 r.) działało tu sanktuarium Asklepiosa i Serapisa, poświadczone przez wota z wykopalisk (m.in. kamienna stopa z grecką inskrypcją) — wody uchodziły za lecznicze zapewne już wcześniej; ludowa wiara w okresowe „poruszenie wody\" (przypisywane aniołowi — stąd glosa w. 4) mogła mieć podłoże w nieregularnym dopływie. Ewangelista opisuje więc miejsce z pogranicza pobożności i magii, kolejkę do kaprysu żywiołu — i na tym tle uzdrowienie „poza kolejką i poza wodą\", samym słowem, jest cichą polemiką: łaska nie jest loterią dla najszybszych."
       ],
       [
        "Szabat i 39 kategorii pracy",
-       "Zakaz pracy w szabat (Wj 20,8–11; Pwt 5,12–15) wymagał definicji pracy — tradycja ustna wypracowała katalog 39 melachot (Miszna, Szabat 7,2), wśród nich „przenoszenie z domeny do domeny\": noszenie przedmiotów w przestrzeni publicznej. Zarzut z w. 10 opiera się wprost na proroku: „nie noście ciężarów w dzień szabatu\" (Jr 17,21–22; egzekwowane przez Nehemiasza: Ne 13,15–19) — jest więc poważny, nie pieniacki. Kwestia uzdrawiania była subtelniejsza: ratowanie życia (pikuach nefesz) uchylało szabat bezspornie, ale choroba trwająca 38 lat mogła poczekać do niedzieli — dokładnie ten punkt uczyni spór zasadniczym: Jezus nie leczy „w nagłym wypadku\", lecz wybiera szabat programowo (por. 9,14), bo — jak wyłoży w 7,22–23 — jeśli wolno w szabat obrzezać (naznaczyć przymierzem jeden członek), tym bardziej wolno uczynić całego człowieka zdrowym (ὅλον ἄνθρωπον ὑγιῆ): szabat jest dniem dopełnienia stworzenia, więc dzieła czyniące człowieka całym są jego treścią, nie naruszeniem. Rozkaz „weź łoże\" jest w tej logice celowy: znak ma być widoczny i sporny, by pytanie o szabat musiało paść publicznie."
+       "Zakaz pracy w szabat (Wj 20,8–11; Pwt 5,12–15) wymagał definicji pracy — tradycja ustna wypracowała katalog 39 melachot (Miszna, Szabat 7,2), wśród nich „przenoszenie z domeny do domeny\": noszenie przedmiotów w przestrzeni publicznej. Zarzut z w. 10 opiera się wprost na proroku: „nie noście ciężarów w dzień szabatu\" (Jr 17,21–22; egzekwowane przez Nehemiasza: Ne 13,15–19) — jest więc poważny, nie pieniacki. Kwestia uzdrawiania była subtelniejsza: ratowanie życia (pikuach nefesz) uchylało szabat bezspornie (Miszna, Joma 8,6; b. Joma 85a–b — kodyfikacja późniejsza niż scena), ale choroba trwająca 38 lat mogła poczekać dzień dłużej — dokładnie ten punkt uczyni spór zasadniczym: Jezus nie leczy „w nagłym wypadku\", lecz wybiera szabat programowo (por. 9,14), bo — jak wyłoży w 7,22–23 — jeśli wolno w szabat obrzezać (naznaczyć przymierzem jeden członek), tym bardziej wolno uczynić całego człowieka zdrowym (ὅλον ἄνθρωπον ὑγιῆ): szabat jest dniem dopełnienia stworzenia, więc dzieła czyniące człowieka całym są jego treścią, nie naruszeniem. Rozkaz „weź łoże\" jest w tej logice celowy: znak ma być widoczny i sporny, by pytanie o szabat musiało paść publicznie."
       ],
       [
        "Bóg działający w szabat — teologumen żydowski",
-       "Odpowiedź w. 17 trafia w żywy nerw żydowskiej refleksji: co robi Bóg w szabat? Rdz 2,2–3 mówi o odpoczynku — ale świat przecież trwa, dzieci się rodzą, deszcz pada, umarli umierają: opatrzność nie zna weekendu. Filon (Legum allegoriae I; De Cherubim) odpowiadał: Bóg nigdy nie przestaje czynić — działanie jest Mu właściwe jak ogniowi palenie; „odpoczynek\" oznacza, że działa bez trudu i bez zmiany. Rabini obrazowo: Bóg może przenosić w szabat, bo cały świat jest Jego domeną prywatną; oraz: trzy klucze nie wychodzą z Jego ręki nigdy — deszczu, łona i wskrzeszenia (a więc rodzenie, żywienie, ożywianie i sądzenie trwają także w szabat). Jezus staje na gruncie tej wspólnej teologii — i czyni krok, którego nikt nie śmiał uczynić: włącza własne czyny w tę wyłącznie Bożą aktywność szabatową (κἀγὼ ἐργάζομαι). Dlatego w. 18 nie jest nadinterpretacją wrogów: w kategoriach ówczesnej teologii powiedzieć „mój Ojciec działa [w szabat] i Ja działam\" to zająć miejsce po Bożej stronie szabatu; słuchacze zrozumieli dokładnie — nie zrozumieli tylko, że mówiący ma do tego prawo."
+       "Odpowiedź w. 17 trafia w żywy nerw żydowskiej refleksji: co robi Bóg w szabat? Rdz 2,2–3 mówi o odpoczynku — ale świat przecież trwa, dzieci się rodzą, deszcz pada, umarli umierają: opatrzność nie zna weekendu. Filon (Legum allegoriae I,5–6; De Cherubim 87) odpowiadał: Bóg nigdy nie przestaje czynić — działanie jest Mu właściwe jak ogniowi palenie; „odpoczynek\" oznacza, że działa bez trudu i bez zmiany. Rabini obrazowo: Bóg może przenosić w szabat, bo cały świat jest Jego domeną prywatną (odpowiedź przypisana Gamalielowi II i towarzyszom podczas pobytu w Rzymie ok. 95 r. — Wj Rabba 30,9; midrasz jest jednak o wiele późniejszy, więc jako świadectwo I w. ma wartość pośrednią). Osobna, choć zbieżna, jest nauka o trzech kluczach, których Bóg nie oddaje żadnemu posłańcowi — deszczu, łona i wskrzeszenia umarłych (b. Taanit 2a): mówi ona o wyłącznych prerogatywach Boga, nie wprost o szabacie, ale to właśnie te dzieła — ożywianie i sąd — mowa 5,21–29 przypisze Synowi. Jezus staje na gruncie tej wspólnej teologii — i czyni krok, którego nikt nie śmiał uczynić: włącza własne czyny w tę wyłącznie Bożą aktywność szabatową (κἀγὼ ἐργάζομαι). Dlatego w. 18 nie jest nadinterpretacją wrogów: w kategoriach ówczesnej teologii powiedzieć „mój Ojciec działa [w szabat] i Ja działam\" to zająć miejsce po Bożej stronie szabatu; słuchacze zrozumieli dokładnie — nie zrozumieli tylko, że mówiący ma do tego prawo."
       ],
       [
        "Choroba i grzech — między Hiobem a Betesdą",
@@ -414,30 +427,30 @@
     {
      "type": "teologia",
      "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
-     "body": "Wola i łaska, teologia szabatu, uzdrowienie i grzech oraz równość Syna — cztery węzły sceny w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem (cap. V, lect. 1–3).",
+     "body": "Wola i łaska, teologia szabatu, uzdrowienie i grzech oraz równość Syna — cztery węzły sceny w optyce tomistycznej; Tomasz komentuje ją w Super Ioannem (cap. V).",
      "children": [
       [
        "1. Czy chcesz? — wola jako brama łaski",
-       "Pytanie w. 6 jest u Tomasza modelem współpracy łaski z wolnością: Bóg, który porusza wszystko wedle natury każdej rzeczy, człowieka porusza przez jego wolę — nie obok niej; dlatego uzdrowienie (a tym bardziej usprawiedliwienie) dorosłego wymaga aktu woli przyjmującej (S. Th. III, q. 68: Deus qui creavit te sine te — formuła Augustyna, którą Tomasz podejmuje — non iustificat te sine te). Scena obnaża zarazem patologię woli zastarzałej: chory nie odpowiada „chcę\" — opowiada system niemożności; trzydzieści osiem lat nauczyło go chcieć ostrożnie, na miarę sadzawki i kolejki. Scholastyka zna tę przypadłość jako acedię i pusillanimitas (małoduszność): wola nie tyle zła, ile skarłowaciała do rozmiaru dostępnych rozczarowań. Terapia Jezusowa jest podwójna: pytanie rozbudza chcenie (trzeba je nazwać, by wróciło), a rozkaz przekracza je z nadmiarem — nie „spróbuj wstać\", lecz „wstań, weź, chodź\": łaska nie negocjuje z niemożnością, którą przyszła usunąć. Kto duszpastersko towarzyszy ludziom „chorym od 38 lat\" (nałóg, uraza, rozpacz), znajdzie w tej scenie całą metodę: najpierw pytanie o wolę, potem słowo większe niż wola."
+       "Pytanie w. 6 jest u Tomasza modelem współpracy łaski z wolnością: Bóg, który porusza wszystko wedle natury każdej rzeczy, człowieka porusza przez jego wolę — nie obok niej; dlatego uzdrowienie (a tym bardziej usprawiedliwienie) dorosłego wymaga aktu woli przyjmującej (Augustyn: Qui ergo fecit te sine te, non te iustificat sine te — „Ten więc, który cię uczynił bez ciebie, nie usprawiedliwia cię bez ciebie\", Sermo 169,11,13, przywołane w KKK 1847; u Tomasza ta sama zasada w nauce o ruchu wolnej woli wymaganym do usprawiedliwienia dorosłego — S. Th. I-II, q. 113, a. 3). Scena obnaża zarazem patologię woli zastarzałej: chory nie odpowiada „chcę\" — opowiada system niemożności; trzydzieści osiem lat nauczyło go chcieć ostrożnie, na miarę sadzawki i kolejki. Scholastyka zna tę przypadłość jako acedię i pusillanimitas (małoduszność): wola nie tyle zła, ile skarłowaciała do rozmiaru dostępnych rozczarowań. Terapia Jezusowa jest podwójna: pytanie rozbudza chcenie (trzeba je nazwać, by wróciło), a rozkaz przekracza je z nadmiarem — nie „spróbuj wstać\", lecz „wstań, weź, chodź\": łaska nie negocjuje z niemożnością, którą przyszła usunąć. Kto duszpastersko towarzyszy ludziom „chorym od 38 lat\" (nałóg, uraza, rozpacz), znajdzie w tej scenie całą metodę: najpierw pytanie o wolę, potem słowo większe niż wola."
       ],
       [
        "2. Szabat: odpoczynek Boga jako nieustanne działanie",
-       "W. 17 daje Tomaszowi klasyczne miejsce nauki o conservatio: zachowywanie świata w istnieniu nie jest czymś innym niż stwarzanie — jest stwarzaniem trwającym (conservatio est continuatio creationis); gdyby Bóg „odpoczął\" w sensie bezczynności, świat nie tyle by się zepsuł, ile przestałby istnieć. Odpoczynek siódmego dnia oznacza więc zaprzestanie stwarzania nowych rodzajów, nie zaprzestanie działania — Bóg działa w każdym działaniu stworzeń jako przyczyna pierwsza. Na tym tle argument Jezusa jest ścisły: uzdrowienie jest par excellence dziełem zachowującym i naprawiającym — należy do tego, czego Bóg w szabat nie przerywa; a „i Ja działam\" przypisuje Synowi udział w samym akcie stwórczo-zachowawczym (jak Prolog: wszystko przez Nie się stało). Tomasz wyciąga też regułę moralną, którą Kościół przyjął za swoją: przykazanie odpoczynku zakazuje prac służebnych, nie dzieł Bożych — kult, miłosierdzie i konieczność nie łamią szabatu, lecz go wypełniają; niedziela chrześcijańska dziedziczy tę logikę: dzień Pański jest dniem dzieł Pana, nie dniem paraliżu dobra."
+       "W. 17 daje Tomaszowi klasyczne miejsce nauki o conservatio: zachowywanie świata w istnieniu nie jest czymś innym niż stwarzanie — jest stwarzaniem trwającym (S. Th. I, q. 104, a. 1: zachowanie dokonuje się nie przez nowe działanie, lecz przez ciągłość tego, którym Bóg daje istnienie; szkoła późniejsza streści to formułą conservatio est continuatio creationis — „zachowanie jest ciągłością stwarzania\"); gdyby Bóg „odpoczął\" w sensie bezczynności, świat nie tyle by się zepsuł, ile przestałby istnieć. Odpoczynek siódmego dnia oznacza więc zaprzestanie stwarzania nowych rodzajów, nie zaprzestanie działania — Bóg działa w każdym działaniu stworzeń jako przyczyna pierwsza. Na tym tle argument Jezusa jest ścisły: uzdrowienie jest par excellence dziełem zachowującym i naprawiającym — należy do tego, czego Bóg w szabat nie przerywa; a „i Ja działam\" przypisuje Synowi udział w samym akcie stwórczo-zachowawczym (jak Prolog: wszystko przez Nie się stało). Tomasz wyciąga też regułę moralną, którą Kościół przyjął za swoją: przykazanie odpoczynku zakazuje prac służebnych, nie dzieł Bożych — kult, miłosierdzie i konieczność nie łamią szabatu, lecz go wypełniają; niedziela chrześcijańska dziedziczy tę logikę: dzień Pański jest dniem dzieł Pana, nie dniem paraliżu dobra."
       ],
       [
-       "3. Medicus corporis et animae — uzdrowienie a grzech",
-       "Sekwencja sceny (najpierw zdrowie ciała, potem — w świątyni — słowo o duszy) jest dla Tomasza obrazem porządku, w jakim łaska zwykle pracuje: przez dobrodziejstwa odczuwalne prowadzi do nawrócenia, bo człowiek poznaje przez zmysłowe. Ale w. 14 dodaje prawdę o hierarchii: „coś gorszego\" od 38 lat paraliżu istnieje — jest nim grzech trwały i śmierć duszy; zdrowie ciała jest dobrem, lecz dobrem niższym, danym jako znak i wezwanie. Tomistyczna teologia rozróżnia tu precyzyjnie: nie każda choroba jest karą osobistą (przeciw temu 9,3 i cała Księga Hioba), lecz każda jest skutkiem kondycji upadłej i może być przez Opatrzność dopuszczona ku dobru; natomiast po otrzymanej łasce recydywa ma ciężar większy — nie dlatego, że Bóg się mści, ale dlatego, że wzgardzony dar zostawia duszę słabszą i winę cięższą (por. 2 P 2,20–21). Sakramentalna praktyka Kościoła — pokuta i namaszczenie chorych jako dwa leki jednego Lekarza — wyrasta wprost z tej sceny: Chrystus przy Betesdzie i w świątyni działa jak medicus totus hominis, lekarz całego człowieka."
+       "3. Medicus corporis et animae (lekarz ciała i duszy) — uzdrowienie a grzech",
+       "Sekwencja sceny (najpierw zdrowie ciała, potem — w świątyni — słowo o duszy) jest dla Tomasza obrazem porządku, w jakim łaska zwykle pracuje: przez dobrodziejstwa odczuwalne prowadzi do nawrócenia, bo człowiek poznaje przez zmysłowe. Ale w. 14 dodaje prawdę o hierarchii: „coś gorszego\" od 38 lat paraliżu istnieje — jest nim grzech trwały i śmierć duszy; zdrowie ciała jest dobrem, lecz dobrem niższym, danym jako znak i wezwanie. Tomistyczna teologia rozróżnia tu precyzyjnie: nie każda choroba jest karą osobistą (przeciw temu 9,3 i cała Księga Hioba), lecz każda jest skutkiem kondycji upadłej i może być przez Opatrzność dopuszczona ku dobru; natomiast po otrzymanej łasce recydywa ma ciężar większy — nie dlatego, że Bóg się mści, ale dlatego, że wzgardzony dar zostawia duszę słabszą i winę cięższą (por. 2 P 2,20–21). Sakramentalna praktyka Kościoła — pokuta i namaszczenie chorych jako dwa leki jednego Lekarza — wyrasta wprost z tej sceny: Chrystus przy Betesdzie i w świątyni działa jako Christus medicus (Chrystus lekarz — określenie znane z kaznodziejstwa Augustyna), i to lekarz całego człowieka."
       ],
       [
-       "4. Aequalitas Filii — równość nie przywłaszczona",
-       "W. 18 stawia po raz pierwszy publicznie tezę, o którą toczy się cała księga: równość Syna z Ojcem. Tomasz analizuje ją z precyzją, która chroni przed dwoma błędami naraz. Przeciw oskarżycielom (i wszystkim ariańskim wnukom ich logiki): równość nie jest uzurpacją, bo nie jest „uczyniona\" — Syn nie czyni siebie równym (ποιῶν ἑαυτόν to projekcja zakładająca, że był mniejszy), lecz jest równy przez odwieczne zrodzenie: otrzymuje od Ojca nie część, lecz całą naturę (por. Flp 2,6: „nie uznał za łup być na równi z Bogiem\" — nie trzeba grabić tego, co się ma z natury). Przeciw pomieszaniu osób: równość natury nie znosi porządku pochodzenia — Syn działa „od Ojca\" i to wyłoży mowa 5,19nn („Syn nie może nic czynić od siebie\"): zależność w pochodzeniu, równość w naturze; scholastyczna formuła aequalitas personarum secundum naturam, ordo secundum originem. Scena uczy też metody chrystologicznej: bóstwo Jezusa nie zostało ogłoszone traktatem, lecz wywołane sporem o czyn miłosierdzia — teologia równości Syna ma za kolebkę uzdrowione ciało nędzarza; kto o niej mówi, niech pamięta, przy jakim łożu się urodziła."
+       "4. Aequalitas Filii (równość Syna) — równość nie przywłaszczona",
+       "W. 18 stawia po raz pierwszy publicznie tezę, o którą toczy się cała księga: równość Syna z Ojcem. Tomasz analizuje ją z precyzją, która chroni przed dwoma błędami naraz. Przeciw oskarżycielom (i wszystkim ariańskim wnukom ich logiki): równość nie jest uzurpacją, bo nie jest „uczyniona\" — Syn nie czyni siebie równym (ποιῶν ἑαυτόν to projekcja zakładająca, że był mniejszy), lecz jest równy przez odwieczne zrodzenie: otrzymuje od Ojca nie część, lecz całą naturę (por. Flp 2,6: „nie uznał za łup być na równi z Bogiem\" — nie trzeba grabić tego, co się ma z natury). Przeciw pomieszaniu osób: równość natury nie znosi porządku pochodzenia — Syn działa „od Ojca\" i to wyłoży mowa 5,19nn („Syn nie może nic czynić od siebie\"): zależność w pochodzeniu, równość w naturze — u Tomasza: równość Osób co do natury (S. Th. I, q. 42, a. 1) oraz porządek pochodzenia, który tej równości nie narusza (tamże, a. 3). Scena uczy też metody chrystologicznej: bóstwo Jezusa nie zostało ogłoszone traktatem, lecz wywołane sporem o czyn miłosierdzia — teologia równości Syna ma za kolebkę uzdrowione ciało nędzarza; kto o niej mówi, niech pamięta, przy jakim łożu się urodziła."
       ]
      ]
     },
     {
      "type": "autor_ludzki",
      "title": "Autor ludzki: kim jest i co chce przekazać",
-     "body": "Ewangelista otwiera rozdziałem piątym nowy gatunek swojej księgi: proces. Dotąd znaki budziły wiarę (uczniowie, Samarytanie, dom dworzanina) — odtąd każdy znak będzie miał rozprawę: uzdrowienie → śledztwo → mowa obrończa (5), chleb → spór (6), światło → przesłuchania (9), Łazarz → wyrok (11). Kompozycja sceny zdradza rękę prawnika-narratora: informacja o szabacie wstrzymana do w. 9b (czytelnik ma osądzić czyn, zanim pozna paragraf), imperfecta prześladowania (proces jako stan, nie epizod), dwustopniowa eskalacja zarzutów (szabat → bluźnierstwo) z w. 18 jako streszczeniem aktu oskarżenia całej Ewangelii. Precyzja topograficzna (pięć portyków — potwierdzona łopatą archeologa) i medyczna (38 lat, strategia kolejki do wody) współistnieje z architekturą teologiczną: postać uzdrowionego jest celowo pozbawiona blasku — bez imienia, bez wyznania, bez pójścia za — bo ma służyć jako ciemniejsze skrzydło dyptyku, którego jaśniejszym będzie ślepiec z rozdziału 9; dwaj uzdrowieni w szabat, dwa śledztwa, dwie drogi: od daru do obojętności i od daru do wyznania „wierzę, Panie\". Ewangelista nie potępia swojego szarego bohatera ani go nie ratuje — zostawia go czytelnikowi jako lustro: łaska bywa przyjęta w ciele i nieprzyjęta w duszy, i można odejść zdrowym, nie poznawszy, Kto uzdrowił. Wreszcie rys polemiczny epoki: dla wspólnoty oskarżanej w synagodze o kult „drugiego Boga\" w. 17–18 dokumentują, że spór o równość Syna zaczął się nie od teologów Kościoła, lecz od słów samego Jezusa — i że już pierwsi słuchacze rozumieli je dokładnie tak, jak rozumie je wiara.",
+     "body": "Ewangelista otwiera rozdziałem piątym nowy gatunek swojej księgi: proces. Dotąd znaki budziły wiarę (uczniowie, Samarytanie, dom dworzanina) — odtąd każdy znak będzie miał rozprawę: uzdrowienie → śledztwo → mowa obrończa (5), chleb → spór (6), światło → przesłuchania (9), Łazarz → wyrok (11). Kompozycja sceny zdradza rękę prawnika-narratora: informacja o szabacie wstrzymana do w. 9b (czytelnik ma osądzić czyn, zanim pozna paragraf), imperfecta prześladowania (proces jako stan, nie epizod), dwustopniowa eskalacja zarzutów (szabat → bluźnierstwo) z w. 18 jako streszczeniem aktu oskarżenia całej Ewangelii. Precyzja topograficzna (pięć portyków — potwierdzona łopatą archeologa) i medyczna (38 lat, strategia kolejki do wody) współistnieje z architekturą teologiczną: postać uzdrowionego jest celowo pozbawiona blasku — bez imienia, bez wyznania, bez pójścia za — bo ma służyć jako ciemniejsze skrzydło dyptyku, którego jaśniejszym będzie ślepiec z rozdziału 9; dwaj uzdrowieni w szabat, dwa śledztwa, dwie drogi: od daru do obojętności i od daru do wyznania „wierzę, Panie\". Ewangelista nie potępia swojego szarego bohatera ani go nie ratuje — zostawia go czytelnikowi jako lustro: łaska bywa przyjęta w ciele i nieprzyjęta w duszy, i można odejść zdrowym, nie poznawszy, Kto uzdrowił. Wreszcie rys polemiczny epoki — przy założeniu, dziś dyskutowanym, że wspólnota Janowa zmagała się z zarzutem czczenia „drugiej mocy w niebie\" i z wykluczeniem z synagogi (9,22; 12,42; 16,2): w. 17–18 dokumentowałyby, że spór o równość Syna zaczął się nie od teologów Kościoła, lecz od słów samego Jezusa — i że już pierwsi słuchacze rozumieli je dokładnie tak, jak rozumie je wiara.",
      "children": []
     },
     {
@@ -453,7 +466,7 @@
      "children": [
       [
        "Pwt 2,14 → w. 5",
-       "„Trzydzieści osiem lat szliśmy od Kadesz-Barnea aż do przejścia potoku Zered — aż wyginęło w obozie całe pokolenie wojowników, jak im poprzysiągł Pan\": jedyne inne „38 lat\" Biblii. Człowiek znad Betesdy nosi w ciele chronologię pokolenia, które nie weszło do odpoczynku z powodu niewiary (por. Ps 95,10–11; Hbr 3,16–19) — a jego wstanie na słowo Jezusa jest figurą wejścia: to, czego nie dała woda (Meriba! sadzawka!), daje słowo. Typologia jest dyskretna, lecz gęsta: pustynia — portyki, pokolenie — chory, Jozue (imię Jezusa!) — Uzdrawiający; nawet spór o szabat współbrzmi: wejście do odpoczynku (katapausis) jest tematem obu historii."
+       "„Trzydzieści osiem lat szliśmy od Kadesz-Barnea aż do przejścia potoku Zered — aż wyginęło w obozie całe pokolenie wojowników, jak im poprzysiągł Pan\": jedyny inny odcinek trzydziestu ośmiu lat w Biblii (sama liczba wraca jeszcze w datowaniu panowania: 1 Krl 16,29; 2 Krl 15,8). Człowiek znad Betesdy nosi w ciele chronologię pokolenia, które nie weszło do odpoczynku z powodu niewiary (por. Ps 95,10–11; Hbr 3,16–19) — a jego wstanie na słowo Jezusa jest figurą wejścia: to, czego nie dała woda (Meriba! sadzawka!), daje słowo. Typologia jest dyskretna i niepewna — część komentatorów czyta liczbę po prostu jako metrykę chorego — lecz gęsta: pustynia — portyki, pokolenie — chory, Jozue (imię Jezusa!) — Uzdrawiający; nawet spór o szabat współbrzmi: wejście do odpoczynku (katapausis) jest tematem obu historii."
       ],
       [
        "Jr 17,19–27; Ne 13,15–19 → w. 10",
@@ -465,7 +478,7 @@
       ],
       [
        "Mk 2,1–12; 2,23–3,6 → w. 8–9.16",
-       "Synoptyczne rezonanse podwójne. Paralityk z Kafarnaum: identyczny rozkaz co do słowa (ἔγειρε ἆρον τὸν κράβαττόν σου καὶ περιπάτει, Mk 2,9.11) — dwie niezależne tradycje przechowały ten sam styl Pana wobec sparaliżowanych; u Marka spór dotyczy odpuszczenia grzechów, u Jana szabatu — oba wątki nasza perykopa splata (w. 14!). Oraz kontrowersje szabatowe Marka (kłosy; uschła ręka) z ich szczytową formułą „szabat został ustanowiony dla człowieka\" i skutkiem: „naradzali się, jak Go zgładzić\" (Mk 3,6) — ta sama sekwencja dar–spór–spisek, którą Jan opowiada po swojemu, z odsłonięciem najgłębszego powodu: nie przepis, lecz roszczenie równości."
+       "Synoptyczne rezonanse podwójne. Paralityk z Kafarnaum: rozkaz niemal identyczny co do słowa — Mk 2,9 ἔγειρε καὶ ἆρον τὸν κράβαττόν σου καὶ περιπάτει („wstań i weź swoje łoże, i chodź\"), Mk 2,11 ἔγειρε ἆρον τὸν κράβαττόν σου καὶ ὕπαγε εἰς τὸν οἶκόν σου („wstań, weź swoje łoże i idź do swojego domu\"); J 5,8 zestawia trzy imperatywy bez spójnika — dwie niezależne tradycje przechowały ten sam styl Pana wobec sparaliżowanych; u Marka spór dotyczy odpuszczenia grzechów, u Jana szabatu — oba wątki nasza perykopa splata (w. 14!). Oraz kontrowersje szabatowe Marka (kłosy; uschła ręka) z ich szczytową formułą „szabat został ustanowiony dla człowieka\" i skutkiem: „naradzali się, jak Go zgładzić\" (Mk 3,6) — ta sama sekwencja dar–spór–spisek, którą Jan opowiada po swojemu, z odsłonięciem najgłębszego powodu: nie przepis, lecz roszczenie równości."
       ],
       [
        "J 7,19–24; 9,1–41 → całość",
@@ -477,7 +490,7 @@
       ],
       [
        "Hbr 3,7–4,11 → w. 5.17",
-       "List do Hebrajczyków rozwija obie linie perykopy w jednym wykładzie: pokolenie pustyni, które „nie weszło do odpoczynku z powodu niewiary\" (38 lat!), i „odpoczynek szabatni, który pozostaje dla ludu Bożego\" — katapausis jako rzeczywistość eschatologiczna, do której wchodzi się przez wiarę „dzisiaj\". Uzdrowienie nad Betesdą jest narracyjną miniaturą tej teologii: człowiek pokolenia niewiary wchodzi do odpoczynku (wstaje, chodzi) w sam szabat, mocą słowa — a spór, który wybucha, jest sporem o to, czy szabat to zamknięte wczoraj Prawa, czy otwarte „dzisiaj\" Boga działającego aż dotąd."
+       "List do Hebrajczyków rozwija obie linie perykopy w jednym wykładzie: pokolenie pustyni, które „nie weszło do odpoczynku z powodu niewiary\" (38 lat!), i „odpoczynek szabatni, który pozostaje dla ludu Bożego\" (Hbr 4,9 — σαββατισμός, odpoczynek szabatni; szerszym pojęciem wykładu jest κατάπαυσις, odpoczynek, wzięte z Ps 95,11 LXX) — rzeczywistość eschatologiczna, do której wchodzi się przez wiarę „dzisiaj\". Uzdrowienie nad Betesdą jest narracyjną miniaturą tej teologii: człowiek pokolenia niewiary wchodzi do odpoczynku (wstaje, chodzi) w sam szabat, mocą słowa — a spór, który wybucha, jest sporem o to, czy szabat to zamknięte wczoraj Prawa, czy otwarte „dzisiaj\" Boga działającego aż dotąd."
       ]
      ]
     },
@@ -488,18 +501,18 @@
      "children": [
       [
        "Liturgia",
-       "Zachód czyta perykopę we wtorek IV tygodnia Wielkiego Postu (J 5,1–16) — w bloku wielkopostnych scen wody i uzdrowienia, tuż po dworzaninie; starsze lekcjonarze znały ją w piątek po pierwszej niedzieli Postu, a woda z Betesdy weszła do wyobraźni chrzcielnej: katechezy mistagogiczne (za tekstem dłuższym z aniołem — zob. aparat) czytały poruszenie wody jako typ chrztu, w którym „porusza\" ją Duch, a uzdrowienie nie zna kolejki ani liczby. Wschód poświęca scenie osobną niedzielę okresu paschalnego — Niedzielę Paralityka (IV po Passze): troparia i kanon święta wołają do Chrystusa jako do „lekarza chorych\" i każą Kościołowi rozpoznać się w człowieku bez człowieka („Człowieka nie mam — a Ty, Człowieku i Boże, stałeś się moim wszystkim\"); to jedna z najpiękniejszych liturgicznych egzegez w. 7. W obu tradycjach scena służy też duszpasterstwu chorych: pytanie „czy chcesz stać się zdrowy?\" otwiera obrzędy i modlitwy o uzdrowienie, strzegąc ich przed magią — łaska pyta o wolę."
+       "Zachód rozpisuje perykopę na dwa dni: wtorek IV tygodnia Wielkiego Postu (Ez 47,1–9.12 + J 5,1–16) i środę tego samego tygodnia (J 5,17–30) — w bloku wielkopostnych scen wody i uzdrowienia, tuż po dworzaninie. Woda z Betesdy weszła zaś wcześnie do wyobraźni chrzcielnej: za tekstem dłuższym z aniołem (zob. aparat) czytali ją Tertulian (De baptismo 5) i Ambroży (De mysteriis 4,22–24), dla którego poruszenie wody jest typem chrztu — w kąpieli Kościoła „porusza\" ją Duch, a uzdrowienie nie zna kolejki ani liczby. Wschód poświęca scenie osobną niedzielę okresu paschalnego — Niedzielę Paralityka, czwartą niedzielę Paschy, czyli trzecią po Passce (Dz 9,32–42 + J 5,1–15): troparia i kanon święta wołają do Chrystusa jako do „lekarza chorych\" i każą Kościołowi rozpoznać się w człowieku bez człowieka („Człowieka nie mam — a Ty, Człowieku i Boże, stałeś się moim wszystkim\"); to jedna z najpiękniejszych liturgicznych egzegez w. 7. W obu tradycjach scena służy też duszpasterstwu chorych: pytanie „czy chcesz stać się zdrowy?\" otwiera obrzędy i modlitwy o uzdrowienie, strzegąc ich przed magią — łaska pyta o wolę."
       ],
       [
        "Duchowość i wyobraźnia",
-       "„Nie mam człowieka\" stało się w duchowości formułą podwójną: skargą wszystkich opuszczonych (duszpasterstwo samotnych, chorych przewlekle, więźniów ma w w. 7 swój tekst założycielski) i definicją Wcielenia à rebours — odtąd jest Człowiek; kaznodziejstwo od Ojców po współczesność każe Kościołowi być „człowiekiem od sadzawki\": tym, który zanosi, gdy ktoś sam nie zdąża. Liczba 38 weszła do języka kierownictwa duchowego jako miara niemocy zastarzałej — nałogów i uraz „chorych od trzydziestu ośmiu lat\" — z całą nadzieją sceny: dla słowa nie istnieje staż choroby. Pytanie „czy chcesz?\" jest osią niezliczonych rekolekcji (i trzeźwym patronem terapii uzależnień: bez „chcę\" nie ma drogi); a „wstań, weź swoje łoże\" czytano jako wezwanie, by nie zostawiać za sobą historii choroby wypartej, lecz nieść ją przemienioną — świadectwo zamiast wstydu. W ikonografii scena należy do najstarszego kanonu (katakumby, mozaiki Rawenny, ampułki pielgrzymie): paralityk z łożem na plecach stał się znakiem rozpoznawczym mocy Chrystusa — człowiek niosący to, co nosiło jego."
+       "„Nie mam człowieka\" stało się w duchowości formułą podwójną: skargą wszystkich opuszczonych (duszpasterstwo samotnych, chorych przewlekle i więźniów chętnie sięga po w. 7) i definicją Wcielenia à rebours — odtąd jest Człowiek; kaznodziejstwo od Ojców po współczesność każe Kościołowi być „człowiekiem od sadzawki\": tym, który zanosi, gdy ktoś sam nie zdąża. Liczba 38 weszła do języka kierownictwa duchowego jako miara niemocy zastarzałej — nałogów i uraz „chorych od trzydziestu ośmiu lat\" — z całą nadzieją sceny: dla słowa nie istnieje staż choroby. Pytanie „czy chcesz?\" jest osią niezliczonych rekolekcji (i trzeźwym patronem terapii uzależnień: bez „chcę\" nie ma drogi); a „wstań, weź swoje łoże\" czytano jako wezwanie, by nie zostawiać za sobą historii choroby wypartej, lecz nieść ją przemienioną — świadectwo zamiast wstydu. W ikonografii scena należy do najstarszego kanonu: uzdrowienie paralityka z baptysterium w Dura Europos (ok. 232–235 r.) uchodzi za najdawniejsze zachowane przedstawienie jakiegokolwiek cudu Jezusa, motyw wraca na sarkofagach wczesnochrześcijańskich i w mozaikach Sant'Apollinare Nuovo w Rawennie (ok. 500 r.): paralityk z łożem na plecach stał się znakiem rozpoznawczym mocy Chrystusa — człowiek niosący to, co nosiło jego."
       ]
      ]
     },
     {
      "type": "patrystyka",
      "title": "Komentarze Ojców Kościoła (catena patrum)",
-     "body": "Katena do Betesdy — sześć głosów: pięć portyków Prawa i liczba 38 (Augustyn), cierpliwość chorego i delikatność pytania (Chryzostom), szabat wobec Prawodawcy (Cyryl), obrona uzdrowionego i słowo o grzechu (Chryzostom), równość wypowiedziana i usłyszana (Cyryl).",
+     "body": "Katena do Betesdy — sześć głosów: pięć portyków Prawa i liczba 38 (Augustyn), cierpliwość chorego i delikatność pytania (Chryzostom), szabat wobec Prawodawcy (Cyryl), obrona uzdrowionego i słowo o grzechu (Chryzostom), równość wypowiedziana i usłyszana (Cyryl), odpoczynek Boga jako nieustanne rządzenie stworzeniem (Augustyn).",
      "children": []
     },
     {
@@ -511,7 +524,7 @@
     {
      "type": "nota",
      "title": "Nota warsztatowa",
-     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — św. Jan Chryzostom (Hom. in Io. 36–38), św. Augustyn (Tract. in Io. 17), św. Cyryl Aleksandryjski (In Io., ks. II) i św. Tomasz (Super Ioannem, cap. V, lect. 1–3).*",
+     "body": "*Nota warsztatowa: analiza gramatyczna oparta na tekście greckim w brzmieniu wydania krytycznego Nestle-Aland 28; przekłady polskie wersetów są robocze (własne, dosłowne), przekłady terminów hebrajskich i aramejskich podane w transkrypcji uproszczonej. Przy pracy kaznodziejskiej lub publikacyjnej warto zestawić przekład roboczy z Biblią Tysiąclecia i Biblią Paulistów oraz sięgnąć po komentarze: R. E. Brown (Anchor Bible), C. K. Barrett, R. Schnackenburg, a po polsku S. Mędala (Nowy Komentarz Biblijny) i L. Stachowiak (KUL); z klasyki — św. Jan Chryzostom (Hom. in Io. 36–38), św. Augustyn (Tract. in Io. 17), św. Cyryl Aleksandryjski (In Io., ks. II) i św. Tomasz (Super Ioannem, cap. V).*",
      "children": []
     }
    ],
@@ -678,7 +691,7 @@
    "citations": [
     [
      "św. Tomasz z Akwinu",
-     "Super Io., cap. V, lect. 1–3",
+     "Super Io., cap. V",
      [
       "section",
       "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
@@ -722,7 +735,7 @@
      "w. 1–3 [4]",
      "św. Augustyn",
      "In Iohannis Evangelium tractatus",
-     "Tract. in Io. 17,2–6",
+     "Tract. in Io. 17",
      "Augustyn czyta scenografię Betesdy jak przypowieść o historii zbawienia: pięć portyków to pięć ksiąg Prawa — przestronne, dostojne, pełne chorych; Prawo umiało chorych pomieścić i ujawnić, uleczyć nie umiało (ostendere morbos, non sanare): litera pokazuje grzech, nie daje mocy. Woda poruszana od czasu do czasu, lecząca jednego, to dla Augustyna tajemnica działająca w ukryciu pośród ludu — aż przyszedł Ten, który nie potrzebuje ani wody, ani kolejki. A liczba 38 dostaje u niego wykład, który stał się klasyką kaznodziejstwa: 40 jest liczbą pełni (czterdzieści dni postu, pełnia Prawa), do 38 brakuje dwóch — dwóch przykazań miłości Boga i bliźniego; chory nad sadzawką jest obrazem człowieka pod Prawem bez miłości: o dwa przykazania za krótki do zdrowia. Uzdrawia go Ten, który miłość przyniósł — i dlatego słusznie w szabat: caritas jest odpoczynkiem Prawa."
     ],
     [
@@ -743,7 +756,7 @@
      "w. 14–16",
      "św. Jan Chryzostom",
      "Homilie na Ewangelię Jana",
-     "Hom. in Io. 37–38",
+     "Hom. in Io. 38",
      "Chryzostom broni uzdrowionego przed zarzutem donosicielstwa — i czyni to z psychologiczną finezją: człowiek ten nie poszedł do Żydów mówić „Jezus kazał mi łamać szabat\", lecz „Jezus mnie uzdrowił\" — ogłosił dobrodziejstwo, nie wykroczenie; nie jego wina, że słuchacze z dobrodziejstwa zrobili akt oskarżenia. Wdzięczność szuka rozgłosu dla dobroczyńcy — złość przekuwa rozgłos w paragraf. Słowo w świątyni („już nie grzesz…\") kaznodzieja czyta jako dowód, że Chrystus leczy dalej niż sięga paraliż: przypomnienie grzechu nie jest odebraniem daru, lecz jego ubezpieczeniem — cielesne zdrowie bez przemiany życia byłoby lekarstwem na objaw. A „coś gorszego\" rozumie eschatologicznie: gorsza od 38 lat na łożu jest wieczność poza Bogiem; kto to usłyszał, temu choroba może się jeszcze okazać łaskawsza niż zdrowie źle użyte."
     ],
     [
@@ -751,14 +764,14 @@
      "św. Cyryl Aleksandryjski",
      "Commentarii in Ioannem",
      "In Io., ks. II",
-     "W. 17 jest dla Cyryla jednym z filarów chrystologii: „Ojciec mój aż dotąd działa i Ja działam\" ogłasza jedność działania (μία ἐνέργεια) Ojca i Syna — a jedność działania zdradza jedność natury, bo działanie płynie z natury; kto działa dziełami właściwymi wyłącznie Bogu (podtrzymywanie świata, ożywianie, sądzenie), ten jest z natury Bogiem. Oskarżyciele — zauważa Cyryl z aleksandryjską ironią — okazali się mimowolnymi teologami: usłyszeli w zdaniu dokładnie to, co ono znaczy (równość), i pobłądzili tylko w jednym słowie własnego aktu oskarżenia: „czyniąc siebie\" — bo Syn nie czyni się równym, lecz jest równy, zrodzony z istoty Ojca; uzurpację widzi ten, kto sam nie umie pomyśleć synostwa prawdziwego. Tak przy Betesdzie — kończy Cyryl — rozpoczęła się wielka katecheza: odtąd Pan będzie musiał wykładać swoje synostwo publicznie, a Kościół po wieki będzie czytał ten spór jako miejsce, gdzie wiara nicejska ma swój ewangeliczny rodowód."
+     "W. 17 jest dla Cyryla jednym z filarów chrystologii: „Ojciec mój aż dotąd działa i Ja działam\" ogłasza jedność działania (ἐνέργεια — działanie, moc sprawcza) Ojca i Syna — a jedność działania zdradza jedność natury, bo działanie płynie z natury; teologia późniejsza ujmie to jako nierozdzielność dzieł Trójcy na zewnątrz (opera Trinitatis ad extra indivisa sunt — dzieła Trójcy na zewnątrz są nierozdzielne), której nie należy mylić z monoenergizmem odrzuconym na Soborze Konstantynopolitańskim III (681 r.), gdzie spór dotyczył dwóch naturalnych energii wcielonego Syna; kto działa dziełami właściwymi wyłącznie Bogu (podtrzymywanie świata, ożywianie, sądzenie), ten jest z natury Bogiem. Oskarżyciele — zauważa Cyryl z aleksandryjską ironią — okazali się mimowolnymi teologami: usłyszeli w zdaniu dokładnie to, co ono znaczy (równość), i pobłądzili tylko w jednym słowie własnego aktu oskarżenia: „czyniąc siebie\" — bo Syn nie czyni się równym, lecz jest równy, zrodzony z istoty Ojca; uzurpację widzi ten, kto sam nie umie pomyśleć synostwa prawdziwego. Tak przy Betesdzie — kończy Cyryl — rozpoczęła się wielka katecheza: odtąd Pan będzie musiał wykładać swoje synostwo publicznie, a Kościół po wieki będzie czytał ten spór jako miejsce, gdzie wiara nicejska ma swój ewangeliczny rodowód."
     ],
     [
      "w. 17–18",
      "św. Augustyn",
      "In Iohannis Evangelium tractatus",
-     "Tract. in Io. 17,15–16",
-     "Augustyn spina scenę klamrą stworzenia i Opatrzności: Bóg odpoczął od tworzenia nowych natur, lecz nie od rządzenia stworzonymi — gdyby cofnął rękę, świat by się rozsypał jak głos, gdy zamilknie mówiący; w tym sensie „Ojciec działa aż dotąd\": nosi wszystko, co uczynił. Syn zaś mówi „i Ja działam\" nie jak pomocnik, lecz jak współsprawca tych samych dzieł — bo przez Niego wszystko się stało i w Nim wszystko trwa. Stąd rada Augustyna dla czytelnika zgorszonego „naruszeniem\" szabatu: zapytaj, kto tu działa — jeśli człowiek, gorszysz się słusznie; jeśli Ten, który i ciebie w tej chwili trzyma w istnieniu, to twoje oburzenie jest niewdzięcznością bytu wobec Źródła. A żydowskim oskarżycielom — i każdemu z nas, gdy sądzimy Boga według własnych przepisów o Nim — zostawia zdanie warte kateny: intellege ut credas, crede ut intellegas; zrozum, byś uwierzył — uwierz, byś zrozumiał: równość Syna nie mieści się w paragrafie, mieści się w wierze."
+     "Tract. in Io. 17",
+     "Augustyn spina scenę klamrą stworzenia i Opatrzności: Bóg odpoczął od tworzenia nowych natur, lecz nie od rządzenia stworzonymi — gdyby cofnął rękę, świat by się rozsypał jak głos, gdy zamilknie mówiący; w tym sensie „Ojciec działa aż dotąd\": nosi wszystko, co uczynił. Syn zaś mówi „i Ja działam\" nie jak pomocnik, lecz jak współsprawca tych samych dzieł — bo przez Niego wszystko się stało i w Nim wszystko trwa. Stąd rada Augustyna dla czytelnika zgorszonego „naruszeniem\" szabatu: zapytaj, kto tu działa — jeśli człowiek, gorszysz się słusznie; jeśli Ten, który i ciebie w tej chwili trzyma w istnieniu, to twoje oburzenie jest niewdzięcznością bytu wobec Źródła. A żydowskim oskarżycielom — i każdemu z nas, gdy sądzimy Boga według własnych przepisów o Nim — zostawia regułę, którą sformułował gdzie indziej: intellege, ut credas; crede, ut intellegas — „zrozum, byś uwierzył; uwierz, byś zrozumiał\" (Sermo 43,9): równość Syna nie mieści się w paragrafie, mieści się w wierze."
     ]
    ],
    "liturgy": [
@@ -766,19 +779,25 @@
      "rzymski",
      "Wtorek IV tygodnia Wielkiego Postu",
      "J 5,1–16",
-     "Wielkopostny blok wody i uzdrowienia — Betesda po dworzaninie, przed wielkim sporem jerozolimskim."
-    ],
-    [
-     "bizantyjski",
-     "Niedziela Paralityka (IV po Passze)",
-     "J 5,1–15",
-     "Osobna niedziela paschalna; hymnografia rozwija skargę „człowieka nie mam\" ku wyznaniu Boga-Człowieka."
+     "Wielkopostny blok wody i uzdrowienia — Betesda po dworzaninie, przed wielkim sporem jerozolimskim; pierwsze czytanie Ez 47,1–9.12 (woda spod progu świątyni)."
     ],
     [
      "rzymski",
-     "Katechezy chrzcielne i tradycja mistagogiczna (tekst dłuższy z w. 4)",
+     "Środa IV tygodnia Wielkiego Postu",
+     "J 5,17–30",
+     "Ciąg dalszy sceny: obrona z w. 17 otwiera mowę o Synu i świadectwach (kolejna perykopa)."
+    ],
+    [
+     "bizantyjski",
+     "Niedziela Paralityka (czwarta niedziela Paschy, trzecia po Passce)",
+     "J 5,1–15",
+     "Osobna niedziela paschalna (Dz 9,32–42 + J 5,1–15); hymnografia rozwija skargę „człowieka nie mam\" ku wyznaniu Boga-Człowieka."
+    ],
+    [
+     "patrystyczny",
+     "Mistagogia chrzcielna (tekst dłuższy z w. 4)",
      "J 5,1–9",
-     "Poruszenie wody jako typ chrztu: w kąpieli Kościoła porusza wodę Duch, a uzdrowienie nie zna kolejki."
+     "Poruszenie wody jako typ chrztu: Tertulian (De baptismo 5) i Ambroży (De mysteriis 4,22–24) — w kąpieli Kościoła porusza wodę Duch, a uzdrowienie nie zna kolejki."
     ]
    ],
    "textual": [
@@ -786,21 +805,21 @@
      3,
      "w. 3b–4 (anioł poruszający wodę)",
      "glosa",
-     "Po w. 3a część tradycji dodaje: „…oczekujących poruszenia wody. Anioł bowiem Pański zstępował co pewien czas do sadzawki i poruszał wodę; kto pierwszy wszedł po poruszeniu wody, stawał się zdrowy, jakąkolwiek zdjęty był chorobą\" (w. 3b–4). Brak w P66, P75, ℵ, B, C*, D; obecne w A, rodzinie bizantyjskiej, części starołacińskich i u Tertuliana (De baptismo 5). NA28 pomija bez nawiasu.",
-     "Podręcznikowa glosa objaśniająca: w. 7 zakłada znaną czytelnikowi praktykę („gdy woda zostanie poruszona…\"), więc wcześni kopiści dopisali wyjaśnienie z ludowej tradycji o aniele. Świadectwo Tertuliana pokazuje, że glosa jest bardzo stara i cenna jako okno na wierzenia o sadzawce — ale słownictwo (pięć słów niejanowych) i najlepsi świadkowie przesądzają: to nie tekst ewangelisty. Duszpastersko warto znać oba stany: NA28 dla egzegezy, tekst dłuższy dla historii recepcji (mistagogia chrzcielna!)."
+     "Po w. 3a część tradycji dodaje: „…oczekujących poruszenia wody. Anioł bowiem Pański zstępował co pewien czas do sadzawki i poruszał wodę; kto pierwszy wszedł po poruszeniu wody, stawał się zdrowy, jakąkolwiek zdjęty był chorobą\" (w. 3b–4). Aparat NA28 rozdziela oba przyrostki. W. 3b (ἐκδεχομένων τὴν τοῦ ὕδατος κίνησιν — oczekujących poruszenia wody) dodają A^c, C³, D (z wariantem παραλυτικῶν — sparaliżowanych), W^s, Θ, Ψ, 078, f1.13, 33, 𝔐, przekłady łacińskie, sy^p.h i bo^pt; pomijają P66, P75, ℵ, A*, B, C*, L, T, q, sy^c i koptyjskie. Cały w. 4 dodają A, C³, L, Θ, Ψ, 078^vid, f1.13, 𝔐, it, vg^cl i sy^p.h**, a w parafrazie zna go już Tertulian (De baptismo 5); pomijają P66, P75, ℵ, B, C*, D, T, W^s, 33, f, l, q, vg^st, sy^c i koptyjskie. NA28 pomija oba przyrostki bez nawiasu.",
+     "Podręcznikowa glosa objaśniająca: w. 7 zakłada znaną czytelnikowi praktykę („gdy woda zostanie poruszona…\"), więc wcześni kopiści dopisali wyjaśnienie z ludowej tradycji o aniele. Świadectwo Tertuliana pokazuje, że glosa jest bardzo stara i cenna jako okno na wierzenia o sadzawce — ale słownictwo obce Janowi (ἐκδέχομαι — oczekiwać, κίνησις — poruszenie, ἐμβαίνω — wejść do wody, δήποτε — jakikolwiek, νόσημα — choroba; zestawienie u B. M. Metzgera) i najlepsi świadkowie przesądzają: to nie tekst ewangelisty. Duszpastersko warto znać oba stany: NA28 dla egzegezy, tekst dłuższy dla historii recepcji (mistagogia chrzcielna!)."
     ],
     [
      2,
      "Βηθζαθά",
      "wariant lekcji",
-     "Nazwa sadzawki: Βηθζαθά (NA28: ℵ, 33, Euzebiusz; por. Bezetha u Józefa Flawiusza jako nazwa dzielnicy); Βηθεσδά (A, C, rodzina bizantyjska — stąd tradycyjne „Betesda\"); Βηθσαϊδά (P66, P75, B — asymilacja do znanej Betsaidy).",
-     "Wielość form odbija aramejski oryginał niełatwy dla greckich kopistów. Zwój Miedziany z Qumran (3Q15: Bet Eszdatajin, dualis) wspiera rdzeń eszda — „wylew\", co godzi „Betesdę\" tradycji z topografią dwóch basenów; Βηθζαθά może oddawać nazwę dzielnicy (Bezetha). NA28 wybiera lekcję najtrudniejszą; egzegeza może spokojnie używać utartego „Betesda\", odnotowując problem."
+     "Nazwa sadzawki w czterech postaciach: Βηθζαθά — lekcja tekstu NA28 (ℵ, L, 33, it); Βηθεσδά (A, C, Θ, 078, f1.13, 𝔐, f, q, sy^c.p.hmg — stąd tradycyjne „Betesda\"); Βηθσαϊδά (P66, P75, B, T, W^s, Ψ, aur, c, vg, sy^h, koptyjskie i Tertulian — asymilacja do znanej Betsaidy); Βελζεθά (D, a, r¹). Poza aparatem: formę Βηζαθά zna Euzebiuszowy Onomastikon, a Józef Flawiusz nazywa Βεζεθά nową dzielnicę Jerozolimy na północ od świątyni, objaśniając nazwę jako καινὴ πόλις — „nowe miasto\" (Wojna 5,151).",
+     "Wielość form odbija aramejski oryginał niełatwy dla greckich kopistów. Zwój Miedziany z Qumran (3Q15 XI,12: בית אשדתין, Bet Eszdatajin — dualis) wspiera rdzeń eszda — „wylew\", co godzi „Betesdę\" tradycji z topografią dwóch basenów; Βηθζαθά może oddawać nazwę dzielnicy (Bezetha). NA28 wybiera lekcję najtrudniejszą; egzegeza może spokojnie używać utartego „Betesda\", odnotowując problem."
     ],
     [
      17,
      "[Ἰησοῦς]",
      "wariant lekcji",
-     "Imię „Jezus\" po „On zaś odpowiedział\": obecne w większości świadków; pominięte w P75, ℵ, B, W. NA28 drukuje w nawiasie kwadratowym.",
+     "Imię „Jezus\" po „On zaś odpowiedział\": pomijają P75, ℵ, B, W, 892, 1241, pc i pbo; czytają P66, A, D, L, Θ, Ψ, f1.13, 33, 𝔐 oraz przekłady łacińskie, syryjskie i koptyjskie. NA28 drukuje w nawiasie kwadratowym.",
      "Typowe wahanie przy podmiocie domyślnym: tekst krótszy (samo ὁ δέ) jest zwięźlejszy i mógł zostać uzupełniony dla jasności lektury liturgicznej. Sens nietknięty; nawias NA28 dokumentuje niepewność — drobiazg, który uczy, jak wcześnie tekst czytano na głos wspólnocie, potrzebującej jednoznacznych podmiotów."
     ]
    ],
@@ -819,7 +838,7 @@
      ]
     ],
     [
-     "świadectwo (μαρτυρία)",
+     "κρίσις — sąd, który się dokonuje",
      [
       "block",
       "w. 14–16"
@@ -829,25 +848,18 @@
      "ἦν / ἐγένετο — trwanie a stawanie się",
      [
       "block",
-      "w. 17–18"
+      "w. 5–9a"
      ]
     ],
     [
-     "woda żywa — Duch jako dar",
-     [
-      "block",
-      "w. 1–3 [4]"
-     ]
-    ],
-    [
-     "tytuły chrystologiczne J 1",
+     "jedność Ojca i Syna (ἓν ἐσμεν)",
      [
       "block",
       "w. 17–18"
      ]
     ]
    ],
-   "revision_note": "Dodano perykopę Uzdrowienie nad Betesdą (J 5,1–18) w pełnym opracowaniu: analiza filologiczna (pięć portyków i archeologia, 38 lat z Pwt 2,14, pytanie o wolę, nie mam człowieka, szabat i melachot, Ojciec działa aż dotąd, ison to theo), struktura aktu oskarżenia, sekcje II–VIII z podsekcjami, katena sześciu głosów, aparat (glosa w. 3b–4, nazwa sadzawki, w. 17), odniesienia (Hbr 3–4; Flp 2,6; dyptyk z J 9), cytowania, liturgia (Niedziela Paralityka); status: ukończona"
+   "revision_note": "Dodano perykopę Uzdrowienie nad Betesdą (J 5,1–18) w pełnym opracowaniu: analiza filologiczna (pięć portyków i archeologia, 38 lat z Pwt 2,14, pytanie o wolę, nie mam człowieka, szabat i melachot, Ojciec działa aż dotąd, ison to theo), struktura aktu oskarżenia, sekcje II–VIII z podsekcjami, katena sześciu głosów, aparat (glosa w. 3b–4, nazwa sadzawki, w. 17), odniesienia (Hbr 3–4; Flp 2,6; dyptyk z J 9), cytowania, liturgia (Niedziela Paralityka); status: ukończona. Recenzja naukowa (2026-09): przepisano cały aparat wedle rzeczywistych danych NA28 — w. 3b i w. 4 mają różnych świadków (D dodaje 3b z παραλυτικῶν, ale pomija 4; A* pomija 3b, A^c dodaje), nazwa sadzawki ma cztery formy (Βηθζαθά ℵ L 33 it; Βηθεσδά A C Θ 078 f1.13 𝔐; Βηθσαϊδά P66 P75 B T W^s Ψ i Tertulian; Βελζεθά D), a Euzebiusz i Flawiusz (Wojna 5,151) nie są świadkami aparatu, tylko poświadczeniem nazwy; w. 17 pomijają także 892 i 1241. Sprostowano formułę Augustyna o łasce (Sermo 169,11,13: non te iustificat sine te, nie „nie uzdrowi\", i nie S. Th. III, q. 68 — por. KKK 1847), brzmienie rozkazu u Marka (Mk 2,9 z καί, Mk 2,11 z ὕπαγε), numerację bizantyjskiej Niedzieli Paralityka (czwarta niedziela Paschy, trzecia po Passce), przekazy rabiniczne (Wj Rabba 30,9 i b. Taanit 2a to dwie różne nauki), namiary Filona (Leg. all. I,5–6; Cher. 87) i ikonografię (Dura Europos, sarkofagi, Rawenna zamiast ampułek pielgrzymich); dopisano środę IV tygodnia Postu (J 5,17–30) i wystąpienie κράβαττος w w. 11. Usunięto niepotwierdzone: numerację lekcji Tomaszowego Super Ioannem, numery akapitów Augustynowego Tract. in Io. 17, sentencje aequalitas personarum… i medicus totus hominis, piątek po I niedzieli Postu oraz liczbę „pięciu słów niejanowych\" w glosie w. 3b–4. Osłabiono typologię Pwt 2,14, hipotezę konfliktu z synagogą i „tekst założycielski\" duszpasterstwa samotnych; formułę μία ἐνέργεια przeformułowano, by nie kolidowała z potępieniem monoenergizmu (681 r.). Przekotwiczono motywy przekrojowe."
   }
  ]
 }
