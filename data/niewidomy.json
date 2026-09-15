@@ -222,7 +222,7 @@
    "τυφλός",
    "tyflos",
    "przymiotnik",
-   "niewidomy — trzynaście razy w J 9, ani razu więcej w czwartej Ewangelii poza 10,21 i 11,37; słowo przechodzi w rozdziale drogę od defektu oczu do metafory sądu: niewidomy widzi, widzący ślepną (9,39-41)"
+   "niewidomy — trzynaście razy w J 9; poza tym rozdziałem w czwartej Ewangelii tylko trzy razy (5,3; 10,21; 11,37); słowo przechodzi w rozdziale drogę od defektu oczu do metafory sądu: niewidomy widzi, widzący ślepną (9,39-41)"
   ],
   [
    "πηλός",
@@ -240,7 +240,7 @@
    "ἀποσυνάγωγος",
    "aposynagogos",
    "przymiotnik",
-   "wyłączony z synagogi — słowo tylko Janowe w całej grece biblijnej (9,22; 12,42; 16,2); formalna ekskomunika synagogalna, cena wyznania Jezusa jako Mesjasza; dla wspólnoty Janowej pod koniec I wieku — rzeczywistość, nie groźba"
+   "wyłączony z synagogi — słowo tylko Janowe w całej grece biblijnej (9,22; 12,42; 16,2); wykluczenie ze wspólnoty synagogalnej jako cena wyznania Jezusa Mesjaszem; Jan jest jedynym świadkiem tej nazwy, a prawna forma i procedura takiego wykluczenia pozostają nieznane"
   ],
   [
    "κρίμα",
@@ -278,20 +278,20 @@
    "מְשֻׁלָּח",
    "meszullach",
    "hbr",
-   "posłany (imiesłów) — targumiczne echo tytułu; w czwartej Ewangelii posłanie jest tożsamością Jezusa (ponad czterdzieści razy: Ten, który Mnie posłał); sadzawka nosi Jego imię, zanim On je wypowie"
+   "posłany (imiesłów bierny od szalach, posyłać) — forma pokrewna nazwie sadzawki, przytaczana jako pomoc językowa: pokazuje, jaki rdzeń Jan oddaje przez ἀπεσταλμένος (Posłany). Nie jest to tytuł poświadczony w źródłach żydowskich. W czwartej Ewangelii posłanie jest natomiast tożsamością Jezusa: sam zwrot ὁ πέμψας με (Ten, który mnie posłał) wraca siedemnaście razy — sadzawka nosi to imię, zanim On je wypowie"
   ],
   [
    "בִּרְכַּת הַמִּינִים",
    "birkat ha-minim",
    "hbr",
-   "błogosławieństwo przeciw heretykom — dwunaste z Osiemnastu Błogosławieństw w brzmieniu z Jawne (ok. 85-90 r.), wyklinające minim; najbliższy historyczny kontekst Janowego ἀποσυνάγωγος (9,22): modlitwa, której wyznawca Jezusa nie mógł wypowiedzieć"
+   "błogosławieństwo przeciw heretykom — dwunaste z Osiemnastu Błogosławieństw; jego zredagowanie tradycja talmudyczna (b. Berachot 28b) przypisuje akademii w Jawne za Gamaliela II, ale ani datacja, ani skierowanie przeciw chrześcijanom nie są dowiedzione (R. Kimelman, 1981; R. Langer, 2012). Zestawianie tej modlitwy z Janowym ἀποσυνάγωγος (9,22) pozostaje więc hipotezą, nie tłem pewnym"
   ]
  ],
  "lexeme_semitic": [
   [
    "ἀποσυνάγωγος",
    "birkat ha-minim",
-   "Janowe słowo o wyłączeniu z synagogi i jawneńska klątwa przeciw minim opisują tę samą ranę z dwóch stron: rozdział 9 czyta doświadczenie wspólnoty Janowej wstecz, w historię uzdrowionego żebraka"
+   "Janowe słowo o wyłączeniu z synagogi zestawiano tradycyjnie z jawneńską klątwą przeciw minim jako dwie strony tej samej rany; związek ten jest dziś kwestionowany i pewne pozostaje tylko to, że rozdział 9 czyta doświadczenie wspólnoty Janowej wstecz, w historię uzdrowionego żebraka"
   ],
   [
    "ἀποστέλλω",
@@ -485,11 +485,11 @@
     "ce": 9,
     "ve": 41,
     "title": "Uzdrowienie niewidomego od urodzenia",
-    "motto": "Caecus natus sum, modo video (Byłem niewidomy, teraz widzę)",
+    "motto": "Caecus cum essem, modo video (Byłem niewidomy, teraz widzę)",
     "status": "ukonczona",
     "position": 23
    },
-   "intro": "Jedyny rozdział Ewangelii, w którym Jezus na długo znika ze sceny: od wersetu 8 do 34 nie ma Go wcale, a scenę dzierży człowiek bez imienia, żebrak niewidomy od urodzenia, który z przesłuchania na przesłuchanie mówi coraz krócej, coraz celniej i coraz odważniej. Rozdział zaczyna się od pytania uczniów, kto zgrzeszył — pytania, które Jezus ucina, zanim stanie się teologią — i od gestu, w którym starożytność natychmiast rozpoznała Księgę Rodzaju: błoto ze śliny położone na oczy, które nigdy nie widziały. Potem znak schodzi ze sceny, a zaczyna się proces: sąsiedzi, faryzeusze, rodzice, znów faryzeusze — pięć przesłuchań, w których śledczy wiedzą coraz więcej i rozumieją coraz mniej, a świadek wie jedno i to jedno mu wystarcza: byłem niewidomy, teraz widzę. Wyrzucony za drzwi synagogi, zostaje znaleziony przez Tego, którego nigdy nie widział, i po raz pierwszy w Ewangelii pada przed Nim pokłon. Ostatnie słowo należy do Jezusa i jest wyrokiem: przyszedłem, aby niewidomi widzieli, a widzący oślepli — bo ślepota, która wie o sobie, jest uleczalna, a wzrok, który się sobą chełpi, już nie.",
+   "intro": "Jedyny rozdział Ewangelii, w którym Jezus na długo znika ze sceny: od wersetu 8 do 34 nie ma Go wcale, a scenę dzierży człowiek bez imienia, żebrak niewidomy od urodzenia, który z przesłuchania na przesłuchanie mówi coraz krócej, coraz celniej i coraz odważniej. Rozdział zaczyna się od pytania uczniów, kto zgrzeszył — pytania, które Jezus ucina, zanim stanie się teologią — i od gestu, w którym starożytność natychmiast rozpoznała Księgę Rodzaju: błoto ze śliny położone na oczy, które nigdy nie widziały. Potem znak schodzi ze sceny, a zaczyna się proces: sąsiedzi, faryzeusze, rodzice, znów faryzeusze — cztery przesłuchania, w których śledczy wiedzą coraz więcej i rozumieją coraz mniej, a świadek wie jedno i to jedno mu wystarcza: byłem niewidomy, teraz widzę. Wyrzucony za drzwi synagogi, zostaje znaleziony przez Tego, którego nigdy nie widział, i po raz pierwszy w Ewangelii pada przed Nim pokłon. Ostatnie słowo należy do Jezusa i jest wyrokiem: przyszedłem, aby niewidomi widzieli, a widzący oślepli — bo ślepota, która wie o sobie, jest uleczalna, a wzrok, który się sobą chełpi, już nie.",
    "struktura": "Rozdział jest zbudowany jak dramat sądowy w siedmiu scenach, z Jezusem obecnym tylko w pierwszej i ostatniej. Scena I (w. 1-7): znak — pytanie o winę, odpowiedź o dziełach Bożych, błoto, posłanie do Siloam i lakoniczne spełnienie: przyszedł widząc. Scena II (w. 8-12): sąsiedzi — spór o tożsamość (to on? podobny?) rozstrzygnięty przez samego uzdrowionego słowami ἐγώ εἰμι, i pierwszy stopień jego wyznania: człowiek zwany Jezusem. Scena III (w. 13-17): pierwsze przesłuchanie u faryzeuszów — wychodzi na jaw szabat, sędziowie dzielą się (σχίσμα), świadek awansuje: jest prorokiem. Scena IV (w. 18-23): rodzice — potwierdzają fakty, uchylają się od wniosków, bo nad przesłuchaniem wisi już uchwała o wyłączeniu z synagogi. Scena V (w. 24-34): drugie przesłuchanie — zaklęcie „oddaj chwałę Bogu\", epistemologia świadka (jedno wiem), ironia (czy i wy chcecie zostać Jego uczniami?), wykład żebraka o tym, kogo Bóg wysłuchuje, i wyrok: urodzony w grzechach — precz. Scena VI (w. 35-38): Jezus znajduje wyrzuconego — pytanie o wiarę w Syna Człowieczego, wyznanie i pokłon; kulminacja całej drogi. Scena VII (w. 39-41): sentencja — na sąd przyszedłem; faryzeusze pytają, czy i oni są niewidomi, i słyszą zdanie, które zamyka rozdział jak wieko: gdybyście byli niewidomi, nie mielibyście grzechu; teraz mówicie „widzimy\" — grzech wasz trwa. Oś kompozycji jest podwójna i przeciwbieżna: niewidomy idzie od ciemności do pełnego światła wiary, widzący — od pewności siebie do ślepoty, o której nie wiedzą. Punkt przecięcia to werset 35: wyrzucony z synagogi zostaje znaleziony przez Kościół w osobie jego Głowy.",
    "blocks": [
     {
@@ -498,7 +498,7 @@
       [
        "ῥαββί, τίς ἥμαρτεν, οὗτος ἢ οἱ γονεῖς αὐτοῦ;",
        "kto zgrzeszył?",
-       "Pytanie uczniów jest doskonale ortodoksyjne w ramach teologii odpłaty: skoro cierpienie jest karą, a ten człowiek cierpi od urodzenia, to winowajcą mógł być albo on sam (rabini znali spekulację o grzechu w łonie matki, por. Rdz 25,22), albo rodzice (Wj 20,5: nawiedzam winę ojców na synach). Pytanie zakłada, że rachunek win jest zamknięty i trzeba go tylko odczytać. Jezus odrzuca obie księgowości jednym οὔτε — οὔτε: ani on, ani rodzice. Nie podaje trzeciej przyczyny w tym samym rejestrze; zmienia rejestr. Cierpienie nie jest tu skutkiem do wyjaśnienia, lecz miejscem, w którym MA SIĘ OBJAWIĆ dzieło Boga. To samo przesunięcie powtórzy się w 11,4 przy Łazarzu. Ewangelia nie daje teorii cierpienia — daje kierunek patrzenia: nie wstecz, ku winie, lecz naprzód, ku temu, co Bóg uczyni."
+       "Pytanie uczniów jest doskonale ortodoksyjne w ramach teologii odpłaty: skoro cierpienie jest karą, a ten człowiek cierpi od urodzenia, to winowajcą mógł być albo on sam (rabiniczna spekulacja o grzechu popełnionym w łonie matki jest poświadczona dopiero w Bereszit Rabba 63,6 do Rdz 25,22, a więc w zbiorze o wieki późniejszym od Ewangelii — przytaczamy ją jako ilustrację możliwego toku myśli, nie jako tło pewne), albo rodzice (Wj 20,5: nawiedzam winę ojców na synach). Pytanie zakłada, że rachunek win jest zamknięty i trzeba go tylko odczytać. Jezus odrzuca obie księgowości jednym οὔτε — οὔτε: ani on, ani rodzice. Nie podaje trzeciej przyczyny w tym samym rejestrze; zmienia rejestr. Cierpienie nie jest tu skutkiem do wyjaśnienia, lecz miejscem, w którym MA SIĘ OBJAWIĆ dzieło Boga. To samo przesunięcie powtórzy się w 11,4 przy Łazarzu. Ewangelia nie daje teorii cierpienia — daje kierunek patrzenia: nie wstecz, ku winie, lecz naprzód, ku temu, co Bóg uczyni."
       ],
       [
        "ἵνα φανερωθῇ τὰ ἔργα τοῦ θεοῦ ἐν αὐτῷ",
@@ -508,12 +508,12 @@
       [
        "ἔπτυσεν χαμαὶ καὶ ἐποίησεν πηλόν",
        "błoto ze śliny",
-       "Gest jest szokująco fizyczny i dokładnie przemyślany. Czasownik ἐποίησεν (uczynił) i rzeczownik πηλός (glina) to słownik stworzenia: Hiob mówi Bogu „uczyniłeś mnie jak glinę\" (Hi 10,9), Izajasz — „my gliną, a Ty naszym twórcą\" (Iz 64,7), a Rdz 2,7 opisuje ulepienie człowieka z prochu ziemi. Ojcowie od Ireneusza po Augustyna czytali jednym głosem: oczy, które nie widziały od urodzenia, nie zostają naprawione, lecz DOLEPIONE — Stwórca dokańcza w szabat swoje stworzenie, i właśnie dlatego czyni to błotem, choć mógł słowem. Ślina dodaje intymności: to nie technika, lecz dotyk osoby. Jan zapamiętał też, że właśnie zrobienie błota stanie się głównym zarzutem szabatowym (w. 14.16) — melacha ugniatania. Znak jest więc podwójnie gęsty: kreacyjny w treści i prowokacyjny w formie."
+       "Gest jest szokująco fizyczny i dokładnie przemyślany. Czasownik ἐποίησεν (uczynił) i rzeczownik πηλός (glina) to słownik stworzenia: Hiob mówi Bogu „uczyniłeś mnie jak glinę\" (Hi 10,9), Izajasz — „my gliną, a Ty naszym twórcą\" (Iz 64,7), a Rdz 2,7 opisuje ulepienie człowieka z prochu ziemi. Ireneusz czyta ten gest wprost: to, czego Słowo pominęło w łonie, dolepia teraz jawnie (Adv. haer. V,15,2); Augustyn przesuwa akcent na alegorię Wcielenia i chrztu (Tract. in Io. 44,2). Wspólne obu jest przeświadczenie, że oczy, które nie widziały od urodzenia, nie zostają naprawione, lecz DOLEPIONE — Stwórca dokańcza w szabat swoje stworzenie, i właśnie dlatego czyni to błotem, choć mógł słowem. Ślina dodaje intymności: to nie technika, lecz dotyk osoby. Jan zapamiętał też, że właśnie zrobienie błota stanie się głównym zarzutem szabatowym (w. 14.16) — melacha ugniatania (hebr. לָשׁ, lasz; Miszna, Szabbat 7,2). Znak jest więc podwójnie gęsty: kreacyjny w treści i prowokacyjny w formie."
       ],
       [
        "ὕπαγε νίψαι εἰς τὴν κολυμβήθραν τοῦ Σιλωάμ",
        "idź, obmyj się w Posłanym",
-       "Jan robi rzecz u siebie rzadką: sam tłumaczy hebrajską nazwę (ὃ ἑρμηνεύεται ἀπεσταλμένος — co się tłumaczy: Posłany), i to tłumaczenie jest teologią. Sziloach to kanał posyłający wodę Gihonu do miasta — ta sama woda, którą czerpano w Święto Namiotów i nad którą Jezus wołał o rzekach wody żywej (7,37-38). Ale imiesłów bierny „Posłany\" jest w czwartej Ewangelii tytułem samego Jezusa: Ten, którego posłał Ojciec, ponad czterdzieści razy. Niewidomy obmywa się więc — mówi litera — w sadzawce, a mówi duch — w Posłanym. Uzdrowienie dokonuje się na dystans, bez Jezusa na scenie, przez posłuszeństwo słowu i wodę: struktura, w której chrześcijanin od II wieku rozpoznawał własny chrzest. Zwięzłość spełnienia (odszedł, obmył się, przyszedł widząc — trzy czasowniki) jest Janowym arcydziełem: największy cud tej Ewangelii przed Łazarzem zajmuje pół wersetu."
+       "Jan robi rzecz u siebie rzadką: sam tłumaczy hebrajską nazwę (ὃ ἑρμηνεύεται ἀπεσταλμένος — co się tłumaczy: Posłany), i to tłumaczenie jest teologią. Sziloach to kanał posyłający wodę Gihonu do miasta — ta sama woda, którą czerpano w Święto Namiotów i nad którą Jezus wołał o rzekach wody żywej (7,37-38). Ale imiesłów bierny „Posłany\" jest w czwartej Ewangelii tytułem samego Jezusa: πέμπω (posyłać) i ἀποστέλλω (wysyłać) padają u Jana łącznie sześćdziesiąt razy, a sam zwrot ὁ πέμψας με (Ten, który mnie posłał) — siedemnaście. Niewidomy obmywa się więc — mówi litera — w sadzawce, a mówi duch — w Posłanym. Uzdrowienie dokonuje się na dystans, bez Jezusa na scenie, przez posłuszeństwo słowu i wodę: struktura, w której chrześcijanin od II wieku rozpoznawał własny chrzest. Zwięzłość spełnienia (odszedł, obmył się, przyszedł widząc — trzy czasowniki) jest Janowym arcydziełem: największy cud tej Ewangelii przed Łazarzem zajmuje pół wersetu."
       ]
      ],
      "greek": "Καὶ παράγων εἶδεν ἄνθρωπον τυφλὸν ἐκ γενετῆς· καὶ ἠρώτησαν αὐτὸν οἱ μαθηταὶ αὐτοῦ λέγοντες· ῥαββί, τίς ἥμαρτεν, οὗτος ἢ οἱ γονεῖς αὐτοῦ, ἵνα τυφλὸς γεννηθῇ; ἀπεκρίθη Ἰησοῦς· οὔτε οὗτος ἥμαρτεν οὔτε οἱ γονεῖς αὐτοῦ, ἀλλʼ ἵνα φανερωθῇ τὰ ἔργα τοῦ θεοῦ ἐν αὐτῷ· ἡμᾶς δεῖ ἐργάζεσθαι τὰ ἔργα τοῦ πέμψαντός με ἕως ἡμέρα ἐστίν· ἔρχεται νὺξ ὅτε οὐδεὶς δύναται ἐργάζεσθαι· ὅταν ἐν τῷ κόσμῳ ὦ, φῶς εἰμι τοῦ κόσμου· ταῦτα εἰπὼν ἔπτυσεν χαμαὶ καὶ ἐποίησεν πηλὸν ἐκ τοῦ πτύσματος καὶ ἐπέχρισεν αὐτοῦ τὸν πηλὸν ἐπὶ τοὺς ὀφθαλμοὺς καὶ εἶπεν αὐτῷ· ὕπαγε νίψαι εἰς τὴν κολυμβήθραν τοῦ Σιλωάμ (ὃ ἑρμηνεύεται ἀπεσταλμένος)· ἀπῆλθεν οὖν καὶ ἐνίψατο καὶ ἦλθεν βλέπων·",
@@ -555,7 +555,7 @@
       [
        "ἦν δὲ σάββατον",
        "a był szabat",
-       "Jan wstrzymuje tę informację aż do wersetu 14 — dokładnie tak samo jak w 5,9 przy Betesdzie — żeby czytelnik najpierw zobaczył znak w jego czystości, a dopiero potem prawny problem. Zarzut jest techniczny: ugniatanie ciasta czy gliny (liszah) należy do trzydziestu dziewięciu melachot zakazanych w szabat, a leczenie chorób niezagrażających życiu odkładano na dzień powszedni. Jezus znów — jak w rozdziale 5 — nie omija szabatu przypadkiem, lecz wybiera go: skoro szabat jest pamiątką stworzenia, to dokończenie stworzenia (dolepienie oczu) jest najgłębszą treścią szabatu, nie jego naruszeniem. Argument z 7,22-23 (obrzezanie w szabat) działa tu z podwojoną siłą: jeśli wolno w szabat poprawić jeden członek, czemu nie wolno dać całemu człowiekowi światła?"
+       "Jan wstrzymuje tę informację aż do wersetu 14 — dokładnie tak samo jak w 5,9 przy Betesdzie — żeby czytelnik najpierw zobaczył znak w jego czystości, a dopiero potem prawny problem. Zarzut jest techniczny: ugniatanie (hebr. לָשׁ, lasz) należy do trzydziestu dziewięciu melachot zakazanych w szabat (Miszna, Szabbat 7,2), a leczenie chorób niezagrażających życiu odkładano na dzień powszedni. Jezus znów — jak w rozdziale 5 — nie omija szabatu przypadkiem, lecz wybiera go: skoro szabat jest pamiątką stworzenia, to dokończenie stworzenia (dolepienie oczu) jest najgłębszą treścią szabatu, nie jego naruszeniem. Argument z 7,22-23 (obrzezanie w szabat) działa tu z podwojoną siłą: jeśli wolno w szabat poprawić jeden członek, czemu nie wolno dać całemu człowiekowi światła?"
       ],
       [
        "καὶ σχίσμα ἦν ἐν αὐτοῖς",
@@ -565,7 +565,7 @@
       [
        "ἐφοβοῦντο τοὺς Ἰουδαίους",
        "strach rodziców i ἀποσυνάγωγος",
-       "Rodzice potwierdzają dokładnie tyle, ile widzieli (to nasz syn, urodził się niewidomy), i ani słowa więcej: jak widzi i kto otworzył — nie wiemy, jego pytajcie, ma swoje lata. Jan wykłada ich motyw wprost: bali się, bo już postanowiono, że wyznanie Jezusa jako Mesjasza karze się wyłączeniem z synagogi. Słowo ἀποσυνάγωγος — tylko Janowe w całej grece biblijnej (9,22; 12,42; 16,2) — jest oknem, przez które widać dwie epoki naraz: czas opowiadanej historii i czas wspólnoty Janowej po Jawne, gdy birkat ha-minim uczyniła z synagogalnej modlitwy test wykluczający wyznawców Jezusa. Ewangelista pisze o rodzicach niewidomego, a jego pierwsi czytelnicy słyszeli własny dylemat: wyznać i stracić wszystko, czy widzieć i milczeć. Scena nie potępia rodziców tanio — pokazuje, ile kosztuje zdanie wypowiedziane na głos."
+       "Rodzice potwierdzają dokładnie tyle, ile widzieli (to nasz syn, urodził się niewidomy), i ani słowa więcej: jak widzi i kto otworzył — nie wiemy, jego pytajcie, ma swoje lata. Jan wykłada ich motyw wprost: bali się, bo już postanowiono, że wyznanie Jezusa jako Mesjasza karze się wyłączeniem z synagogi. Słowo ἀποσυνάγωγος — tylko Janowe w całej grece biblijnej (9,22; 12,42; 16,2) — jest oknem, przez które widać dwie epoki naraz: czas opowiadanej historii i czas wspólnoty Janowej, dla której wykluczenie z synagogi było już ceną wyznania. Dawniejsza egzegeza (J. L. Martyn) wiązała je wprost z birkat ha-minim (błogosławieństwem przeciw heretykom); dziś ten konkretny mechanizm uchodzi za niedowiedziony — ani wczesna datacja tej modlitwy, ani jej antychrześcijański adres nie są pewne (R. Kimelman, 1981; J. Marcus, NTS 55/2009). Ewangelista pisze o rodzicach niewidomego, a jego pierwsi czytelnicy słyszeli własny dylemat: wyznać i stracić wszystko, czy widzieć i milczeć. Scena nie potępia rodziców tanio — pokazuje, ile kosztuje zdanie wypowiedziane na głos."
       ]
      ],
      "greek": "Ἄγουσιν αὐτὸν πρὸς τοὺς Φαρισαίους τόν ποτε τυφλόν· ἦν δὲ σάββατον ἐν ᾗ ἡμέρᾳ τὸν πηλὸν ἐποίησεν ὁ Ἰησοῦς καὶ ἀνέῳξεν αὐτοῦ τοὺς ὀφθαλμούς· πάλιν οὖν ἠρώτων αὐτὸν καὶ οἱ Φαρισαῖοι πῶς ἀνέβλεψεν· ὁ δὲ εἶπεν αὐτοῖς· πηλὸν ἐπέθηκέν μου ἐπὶ τοὺς ὀφθαλμοὺς καὶ ἐνιψάμην καὶ βλέπω· ἔλεγον οὖν ἐκ τῶν Φαρισαίων τινές· οὐκ ἔστιν οὗτος παρὰ θεοῦ ὁ ἄνθρωπος, ὅτι τὸ σάββατον οὐ τηρεῖ· ἄλλοι δὲ ἔλεγον· πῶς δύναται ἄνθρωπος ἁμαρτωλὸς τοιαῦτα σημεῖα ποιεῖν; καὶ σχίσμα ἦν ἐν αὐτοῖς· λέγουσιν οὖν τῷ τυφλῷ πάλιν· τί σὺ λέγεις περὶ αὐτοῦ, ὅτι ἠνέῳξέν σου τοὺς ὀφθαλμούς; ὁ δὲ εἶπεν ὅτι προφήτης ἐστίν· Οὐκ ἐπίστευσαν οὖν οἱ Ἰουδαῖοι περὶ αὐτοῦ ὅτι ἦν τυφλὸς καὶ ἀνέβλεψεν ἕως ὅτου ἐφώνησαν τοὺς γονεῖς αὐτοῦ τοῦ ἀναβλέψαντος καὶ ἠρώτησαν αὐτοὺς λέγοντες· οὗτός ἐστιν ὁ υἱὸς ὑμῶν, ὃν ὑμεῖς λέγετε ὅτι τυφλὸς ἐγεννήθη; πῶς οὖν βλέπει ἄρτι; ἀπεκρίθησαν οὖν οἱ γονεῖς αὐτοῦ καὶ εἶπαν· οἴδαμεν ὅτι οὗτός ἐστιν ὁ υἱὸς ἡμῶν καὶ ὅτι τυφλὸς ἐγεννήθη· πῶς δὲ νῦν βλέπει οὐκ οἴδαμεν, ἢ τίς ἤνοιξεν αὐτοῦ τοὺς ὀφθαλμοὺς ἡμεῖς οὐκ οἴδαμεν· αὐτὸν ἐρωτήσατε, ἡλικίαν ἔχει, αὐτὸς περὶ ἑαυτοῦ λαλήσει· ταῦτα εἶπαν οἱ γονεῖς αὐτοῦ ὅτι ἐφοβοῦντο τοὺς Ἰουδαίους· ἤδη γὰρ συνετέθειντο οἱ Ἰουδαῖοι ἵνα ἐάν τις αὐτὸν ὁμολογήσῃ χριστόν, ἀποσυνάγωγος γένηται· διὰ τοῦτο οἱ γονεῖς αὐτοῦ εἶπαν ὅτι ἡλικίαν ἔχει, αὐτὸν ἐπερωτήσατε·",
@@ -586,12 +586,12 @@
       [
        "μὴ καὶ ὑμεῖς θέλετε αὐτοῦ μαθηταὶ γενέσθαι;",
        "ironia świadka",
-       "Przy drugim przesłuchaniu świadek przechodzi do ataku: już wam powiedziałem i nie słuchaliście; czemu chcecie słuchać znowu — czy i wy chcecie zostać Jego uczniami? Partykuła μή zakłada odpowiedź przeczącą, więc zdanie jest czystą kpiną, pierwszym śmiechem w tej Ewangelii — i śmiech ten kosztuje. Trybunał odpowiada wyzwiskiem (ἐλοιδόρησαν) i deklaracją tożsamości: ty jesteś JEGO uczniem, my jesteśmy uczniami MOJŻESZA; wiemy, że do Mojżesza przemówił Bóg, o tym zaś nie wiemy, skąd jest. Opozycja Mojżesz–Jezus jest fałszywa na gruncie samej Ewangelii (5,46: gdybyście wierzyli Mojżeszowi, wierzylibyście i mnie), a „nie wiemy, skąd jest\" — mimowolnie prawdziwe: rzeczywiście nie wiedzą, bo On jest z góry (8,23). Jan pozwala oskarżycielom mówić o sobie prawdę, której nie rozumieją."
+       "Przy drugim przesłuchaniu świadek przechodzi do ataku: już wam powiedziałem i nie słuchaliście; czemu chcecie słuchać znowu — czy i wy chcecie zostać Jego uczniami? Partykuła μή zakłada odpowiedź przeczącą, więc zdanie jest czystą kpiną — jedyną w tej Ewangelii ironią wypowiedzianą wprost przez przesłuchiwanego, nie przez Jezusa i nie przez narratora — i kpina ta kosztuje. Trybunał odpowiada wyzwiskiem (ἐλοιδόρησαν) i deklaracją tożsamości: ty jesteś JEGO uczniem, my jesteśmy uczniami MOJŻESZA; wiemy, że do Mojżesza przemówił Bóg, o tym zaś nie wiemy, skąd jest. Opozycja Mojżesz–Jezus jest fałszywa na gruncie samej Ewangelii (5,46: gdybyście wierzyli Mojżeszowi, wierzylibyście i mnie), a „nie wiemy, skąd jest\" — mimowolnie prawdziwe: rzeczywiście nie wiedzą, bo On jest z góry (8,23). Jan pozwala oskarżycielom mówić o sobie prawdę, której nie rozumieją."
       ],
       [
        "ἐν τούτῳ γὰρ τὸ θαυμαστόν ἐστιν",
        "wykład żebraka",
-       "Werset 30 odwraca role: przesłuchiwany zaczyna wykładać. W tym właśnie rzecz dziwna, że WY nie wiecie, skąd jest — a otworzył mi oczy. Potem następuje sylogizm, którego nie powstydziłaby się szkoła: Bóg grzeszników nie wysłuchuje, lecz wysłuchuje bogobojnego pełniącego Jego wolę (przesłanka większa — wspólna cała tradycja: Ps 66,18; Prz 15,29; Iz 1,15); od wieku nie słyszano o otwarciu oczu ślepego OD URODZENIA (przesłanka mniejsza — bezprecedensowość znaku); więc gdyby nie był od Boga, nie mógłby nic (wniosek). Hapaks θεοσεβής błyszczy w środku: prosty człowiek nazywa kryterium, którego uczeni nie chcą przyłożyć. Odpowiedź trybunału jest kapitulacją logiki: w grzechach urodziłeś się CAŁY i ty nas pouczasz? — czyli powrót do teologii odpłaty z wersetu 2, którą Jezus już unieważnił. Po argumentach zostaje im tylko siła: καὶ ἐξέβαλον αὐτὸν ἔξω, wyrzucili go precz."
+       "Werset 30 odwraca role: przesłuchiwany zaczyna wykładać. W tym właśnie rzecz dziwna, że WY nie wiecie, skąd jest — a otworzył mi oczy. Potem następuje sylogizm, którego nie powstydziłaby się szkoła: Bóg grzeszników nie wysłuchuje, lecz wysłuchuje bogobojnego pełniącego Jego wolę (przesłanka większa — wspólna cała tradycja: Ps 66,18; Prz 15,29; Iz 1,15); od wieku nie słyszano o otwarciu oczu ślepego OD URODZENIA (przesłanka mniejsza — bezprecedensowość znaku); więc gdyby nie był od Boga, nie mógłby nic (wniosek). Nowotestamentalny hapaks θεοσεβής (bogobojny) błyszczy w środku: prosty człowiek nazywa kryterium, którego uczeni nie chcą przyłożyć. Odpowiedź trybunału jest kapitulacją logiki: w grzechach urodziłeś się CAŁY i ty nas pouczasz? — czyli powrót do teologii odpłaty z wersetu 2, którą Jezus już unieważnił. Po argumentach zostaje im tylko siła: καὶ ἐξέβαλον αὐτὸν ἔξω, wyrzucili go precz."
       ]
      ],
      "greek": "Ἐφώνησαν οὖν τὸν ἄνθρωπον ἐκ δευτέρου ὃς ἦν τυφλὸς καὶ εἶπαν αὐτῷ· δὸς δόξαν τῷ θεῷ· ἡμεῖς οἴδαμεν ὅτι οὗτος ὁ ἄνθρωπος ἁμαρτωλός ἐστιν· ἀπεκρίθη οὖν ἐκεῖνος· εἰ ἁμαρτωλός ἐστιν οὐκ οἶδα· ἓν οἶδα ὅτι τυφλὸς ὢν ἄρτι βλέπω· εἶπον οὖν αὐτῷ· τί ἐποίησέν σοι; πῶς ἤνοιξέν σου τοὺς ὀφθαλμούς; ἀπεκρίθη αὐτοῖς· εἶπον ὑμῖν ἤδη καὶ οὐκ ἠκούσατε· τί πάλιν θέλετε ἀκούειν; μὴ καὶ ὑμεῖς θέλετε αὐτοῦ μαθηταὶ γενέσθαι; καὶ ἐλοιδόρησαν αὐτὸν καὶ εἶπον· σὺ μαθητὴς εἶ ἐκείνου, ἡμεῖς δὲ τοῦ Μωϋσέως ἐσμὲν μαθηταί· ἡμεῖς οἴδαμεν ὅτι Μωϋσεῖ λελάληκεν ὁ θεός, τοῦτον δὲ οὐκ οἴδαμεν πόθεν ἐστίν· ἀπεκρίθη ὁ ἄνθρωπος καὶ εἶπεν αὐτοῖς· ἐν τούτῳ γὰρ τὸ θαυμαστόν ἐστιν, ὅτι ὑμεῖς οὐκ οἴδατε πόθεν ἐστίν, καὶ ἤνοιξέν μου τοὺς ὀφθαλμούς· οἴδαμεν ὅτι ἁμαρτωλῶν ὁ θεὸς οὐκ ἀκούει, ἀλλʼ ἐάν τις θεοσεβὴς ᾖ καὶ τὸ θέλημα αὐτοῦ ποιῇ τούτου ἀκούει· ἐκ τοῦ αἰῶνος οὐκ ἠκούσθη ὅτι ἠνέῳξέν τις ὀφθαλμοὺς τυφλοῦ γεγεννημένου· εἰ μὴ ἦν οὗτος παρὰ θεοῦ, οὐκ ἠδύνατο ποιεῖν οὐδέν· ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· ἐν ἁμαρτίαις σὺ ἐγεννήθης ὅλος καὶ σὺ διδάσκεις ἡμᾶς; καὶ ἐξέβαλον αὐτὸν ἔξω·",
@@ -607,22 +607,22 @@
       [
        "σὺ πιστεύεις εἰς τὸν υἱὸν τοῦ ἀνθρώπου;",
        "znaleziony przez Tego, którego nie widział",
-       "Jezus wraca na scenę dokładnie w chwili, gdy wyrzucony traci wszystko: usłyszał, że go wyrzucili, i ZNALAZŁSZY GO (εὑρών) — czasownik pasterza szukającego owcy — zadaje jedno pytanie: ty wierzysz w Syna Człowieczego? Zaimek σύ jest emfatyczny: ty, w odróżnieniu od nich. Tytuł „Syn Człowieczy\" spina uzdrowienie z sądem, który za chwilę nastąpi (Dn 7,13-14: Synowi Człowieczemu dano władzę sądu; por. J 5,27). Odpowiedź uzdrowionego jest rozbrajająca: a kto to jest, Panie, abym uwierzył? — wiara szuka przedmiotu, jest już gotowa, czeka tylko na wskazanie. Odpowiedź Jezusa: καὶ ἑώρακας αὐτόν — i WIDZIAŁEŚ Go — jest pierwszym użyciem czasownika widzenia wobec człowieka, który nigdy niczego nie widział: pierwszą twarzą, jaką zobaczyły jego nowe oczy, była twarz Tego, który je ulepił."
+       "Jezus wraca na scenę dokładnie w chwili, gdy wyrzucony traci wszystko: usłyszał, że go wyrzucili, i ZNALAZŁSZY GO (εὑρών) — ten sam czasownik, którym Jan opisał powołanie Filipa (1,43) i odnalezienie uzdrowionego z Betesdy w świątyni (5,14) — zadaje jedno pytanie: ty wierzysz w Syna Człowieczego? Zaimek σύ jest emfatyczny: ty, w odróżnieniu od nich. Tytuł „Syn Człowieczy\" spina uzdrowienie z sądem, który za chwilę nastąpi: Dn 7,13-14 daje Synowi Człowieczemu władzę i panowanie, a z władzą sądzenia wiąże ten tytuł dopiero sam Jan (5,27). Odpowiedź uzdrowionego jest rozbrajająca: a kto to jest, Panie, abym uwierzył? — wiara szuka przedmiotu, jest już gotowa, czeka tylko na wskazanie. Odpowiedź Jezusa: καὶ ἑώρακας αὐτόν — i WIDZIAŁEŚ Go — jest pierwszym użyciem czasownika widzenia wobec człowieka, który nigdy niczego nie widział: pierwszą twarzą, jaką zobaczyły jego nowe oczy, była twarz Tego, który je ulepił."
       ],
       [
        "πιστεύω, κύριε· καὶ προσεκύνησεν αὐτῷ",
        "wyznanie i pokłon",
-       "Dwa słowa i gest: wierzę, Panie — i oddał Mu pokłon. Προσκυνέω pojawiło się w tej Ewangelii dotąd tylko w rozmowie o prawdziwych czcicielach Ojca (4,20-24); teraz po raz pierwszy ktoś składa ten akt przed Jezusem, i Jezus go przyjmuje. To liturgiczne zwieńczenie drogi: od „człowieka zwanego Jezusem\" do adoracji. Warto zważyć cenę: wyznanie pada PO wyrzuceniu z synagogi, nie przed — uzdrowiony nie ma już nic do stracenia i dlatego jego pokłon jest czysty. Wspólnota Janowa, czytając tę scenę, widziała własną historię: wykluczeni z domu modlitwy ojców znaleźli się u stóp Tego, który jest nową świątynią (2,21)."
+       "Dwa słowa i gest: wierzę, Panie — i oddał Mu pokłon. Προσκυνέω (oddawać pokłon) pojawiło się w tej Ewangelii dotąd tylko w rozmowie o prawdziwych czcicielach Ojca (4,20-24; później jeszcze raz o Grekach idących na święto, 12,20); tu jedyny raz w całej czwartej Ewangelii ktoś składa ten akt przed Jezusem, i Jezus go przyjmuje — przy czym właśnie ten werset jest tekstualnie sporny (zob. notę do w. 38), co każe mówić o nim z zastrzeżeniem. To liturgiczne zwieńczenie drogi: od „człowieka zwanego Jezusem\" do adoracji. Warto zważyć cenę: wyznanie pada PO wyrzuceniu z synagogi, nie przed — uzdrowiony nie ma już nic do stracenia i dlatego jego pokłon jest czysty. Wspólnota Janowa, czytając tę scenę, widziała własną historię: wykluczeni z domu modlitwy ojców znaleźli się u stóp Tego, który jest nową świątynią (2,21)."
       ],
       [
        "εἰς κρίμα ἐγὼ εἰς τὸν κόσμον τοῦτον ἦλθον",
        "na sąd przyszedłem",
-       "Zdanie tylko pozornie przeczy 3,17 (nie posłał Bóg Syna, aby sądził świat). Tam mowa o CELU posłania — zbawieniu; tu o SKUTKU przyjścia — rozstrzygnięciu, które dokonuje się samo, przez sposób, w jaki ludzie stają wobec Światłości (3,19-21). Hapaks κρίμα (wyrok, nie proces) jest precyzyjny: przyjście Jezusa jest jak światło wpadające do pokoju — nikogo nie oskarża, a jednak natychmiast dzieli: ci, którzy nie widzą, przejrzą; ci, którzy widzą, oślepną. Paradoks jest celowo niesymetryczny: ślepota pierwszych jest rzeczywista i uznana, ślepota drugich — wybrana i zaprzeczana. Izajaszowe tło (6,9-10; 42,18-20) dopowiada: zatwardziałość nie jest brakiem informacji, lecz decyzją serca."
+       "Zdanie tylko pozornie przeczy 3,17 (nie posłał Bóg Syna, aby sądził świat). Tam mowa o CELU posłania — zbawieniu; tu o SKUTKU przyjścia — rozstrzygnięciu, które dokonuje się samo, przez sposób, w jaki ludzie stają wobec Światłości (3,19-21). Jedyne u Jana κρίμα (wyrok, nie proces — w reszcie Nowego Testamentu słowo pospolite) jest precyzyjne: przyjście Jezusa jest jak światło wpadające do pokoju — nikogo nie oskarża, a jednak natychmiast dzieli: ci, którzy nie widzą, przejrzą; ci, którzy widzą, oślepną. Paradoks jest celowo niesymetryczny: ślepota pierwszych jest rzeczywista i uznana, ślepota drugich — wybrana i zaprzeczana. Izajaszowe tło (6,9-10; 42,18-20) dopowiada: zatwardziałość nie jest brakiem informacji, lecz decyzją serca."
       ],
       [
        "ἡ ἁμαρτία ὑμῶν μένει",
        "grzech, który trwa",
-       "Faryzeusze z otoczenia Jezusa zadają pytanie, w którym po raz pierwszy słychać niepokój: czy i my jesteśmy niewidomi? Odpowiedź jest chirurgiczna: gdybyście byli niewidomi — gdybyście uznali swoją ślepotę — nie mielibyście grzechu; teraz jednak mówicie „widzimy\", więc grzech wasz TRWA (μένει). Czasownik trwania, który w tej Ewangelii opisuje najgłębszą komunię (trwać w słowie, w miłości, w Nim), tu jeden raz opisuje trwanie grzechu: to samo słowo, dwa przeciwne zadomowienia. Zamknięcie rozdziału jest lustrem dla każdego czytelnika: nieuleczalna jest tylko ta ślepota, która ma się za wzrok; wyznana — właśnie została uzdrowiona błotem i wodą. Rozdział 9 kończy się więc tam, gdzie zaczyna się rachunek sumienia."
+       "Faryzeusze z otoczenia Jezusa zadają pytanie, w którym po raz pierwszy słychać niepokój: czy i my jesteśmy niewidomi? Odpowiedź jest chirurgiczna: gdybyście byli niewidomi — gdybyście uznali swoją ślepotę — nie mielibyście grzechu; teraz jednak mówicie „widzimy\", więc grzech wasz TRWA (μένει). Czasownik trwania, który w tej Ewangelii opisuje najgłębszą komunię (trwać w słowie, w miłości, w Nim), tu jeden raz opisuje trwanie grzechu — jak w 3,36 trwanie gniewu Bożego nad tym, kto nie słucha Syna: to samo słowo, dwa przeciwne zadomowienia. Zamknięcie rozdziału jest lustrem dla każdego czytelnika: nieuleczalna jest tylko ta ślepota, która ma się za wzrok; wyznana — właśnie została uzdrowiona błotem i wodą. Rozdział 9 kończy się więc tam, gdzie zaczyna się rachunek sumienia."
       ]
      ],
      "greek": "Ἤκουσεν Ἰησοῦς ὅτι ἐξέβαλον αὐτὸν ἔξω καὶ εὑρὼν αὐτὸν εἶπεν· σὺ πιστεύεις εἰς τὸν υἱὸν τοῦ ἀνθρώπου; ἀπεκρίθη ἐκεῖνος καὶ εἶπεν· καὶ τίς ἐστιν, κύριε, ἵνα πιστεύσω εἰς αὐτόν; εἶπεν αὐτῷ ὁ Ἰησοῦς· καὶ ἑώρακας αὐτὸν καὶ ὁ λαλῶν μετὰ σοῦ ἐκεῖνός ἐστιν· ὁ δὲ ἔφη· πιστεύω, κύριε· καὶ προσεκύνησεν αὐτῷ· Καὶ εἶπεν ὁ Ἰησοῦς· εἰς κρίμα ἐγὼ εἰς τὸν κόσμον τοῦτον ἦλθον, ἵνα οἱ μὴ βλέποντες βλέπωσιν καὶ οἱ βλέποντες τυφλοὶ γένωνται· ἤκουσαν ἐκ τῶν Φαρισαίων ταῦτα οἱ μετʼ αὐτοῦ ὄντες καὶ εἶπον αὐτῷ· μὴ καὶ ἡμεῖς τυφλοί ἐσμεν; εἶπεν αὐτοῖς ὁ Ἰησοῦς· εἰ τυφλοὶ ἦτε, οὐκ ἂν εἴχετε ἁμαρτίαν· νῦν δὲ λέγετε ὅτι βλέπομεν, ἡ ἁμαρτία ὑμῶν μένει·",
@@ -641,19 +641,19 @@
      "children": [
       [
        "Kto zgrzeszył? Teologia odpłaty w czasach Jezusa",
-       "Związek cierpienia z winą był w starożytnym Izraelu nie przesądem, lecz konsekwencją wiary w sprawiedliwość Boga: skoro Bóg jest sprawiedliwy, nieszczęście musi mieć moralną przyczynę (Wj 20,5; Pwt 28). Księga Hioba i Koheleta podważyły automatyzm tego rachunku od wewnątrz, ale w pobożności potocznej trzymał się mocno; rabini dyskutowali nawet możliwość grzechu płodu w łonie matki (na kanwie Rdz 25,22 — walki Ezawa z Jakubem) oraz grzechu rodziców karanego w dzieciach. Pytanie uczniów w 9,2 jest więc pytaniem ludzi pobożnych i oczytanych. Odpowiedź Jezusa nie rozstrzyga teodycei — nie mówi, SKĄD ślepota — lecz odbiera nieszczęściu funkcję dowodu winy i nadaje mu funkcję miejsca objawienia. To przesunięcie ma dla duszpasterstwa wagę trudną do przecenienia: Ewangelia zakazuje czytać cudze cierpienie jako wyrok."
+       "Związek cierpienia z winą był w starożytnym Izraelu nie przesądem, lecz konsekwencją wiary w sprawiedliwość Boga: skoro Bóg jest sprawiedliwy, nieszczęście musi mieć moralną przyczynę (Wj 20,5; Pwt 28). Księga Hioba i Koheleta podważyły automatyzm tego rachunku od wewnątrz, ale w pobożności potocznej trzymał się mocno; rabini dyskutowali nawet możliwość grzechu płodu w łonie matki (Bereszit Rabba 63,6 na kanwie Rdz 25,22 — walki Ezawa z Jakubem; zbiór jest o wieki późniejszy od Ewangelii, więc świadczy o kierunku myślenia, nie o poglądach z roku 30) oraz grzechu rodziców karanego w dzieciach. Pytanie uczniów w 9,2 jest więc pytaniem ludzi pobożnych i oczytanych. Odpowiedź Jezusa nie rozstrzyga teodycei — nie mówi, SKĄD ślepota — lecz odbiera nieszczęściu funkcję dowodu winy i nadaje mu funkcję miejsca objawienia. To przesunięcie ma dla duszpasterstwa wagę trudną do przecenienia: Ewangelia zakazuje czytać cudze cierpienie jako wyrok."
       ],
       [
        "Siloam: woda posłana do miasta",
-       "Sadzawka Sziloach zbierała wodę źródła Gihon, sprowadzoną do wnętrza murów tunelem Ezechiasza (2 Krl 20,20; inskrypcja z tunelu, ok. 700 r. przed Chr.). Nazwa — od rdzenia szalach, posyłać — oznacza dosłownie „posłanie\" wody. To stąd czerpano wodę w liturgii Święta Namiotów (tło J 7,37-38) i tu Izajasz widział „wody Sziloach płynące łagodnie\", wzgardzone przez lud (Iz 8,6). Wykopaliska z lat 2004-2005 odsłoniły monumentalne stopnie sadzawki z czasów Drugiej Świątyni, kilkadziesiąt metrów od tradycyjnej lokalizacji bizantyjskiej. Jan, tłumacząc nazwę jako ἀπεσταλμένος, wykonuje najkrótszą egzegezę Ewangelii: geografia staje się chrystologią — obmycie dokonuje się w Posłanym."
+       "Sadzawka Sziloach zbierała wodę źródła Gihon, sprowadzoną do wnętrza murów tunelem Ezechiasza (2 Krl 20,20; inskrypcja z tunelu, ok. 700 r. przed Chr.). Nazwa — od rdzenia szalach, posyłać — oznacza dosłownie „posłanie\" wody. To stąd czerpano wodę w liturgii Święta Namiotów (tło J 7,37-38) i tu Izajasz widział „wody Sziloach płynące łagodnie\", wzgardzone przez lud (Iz 8,6). Wykopaliska rozpoczęte w 2004 r. (R. Reich, E. Szukron) odsłoniły monumentalne stopnie sadzawki z czasów Drugiej Świątyni, na południowy wschód od mniejszej sadzawki bizantyjskiej, z którą Siloam utożsamiano od czasów cesarzowej Eudokii. Jan, tłumacząc nazwę jako ἀπεσταλμένος, wykonuje najkrótszą egzegezę Ewangelii: geografia staje się chrystologią — obmycie dokonuje się w Posłanym."
       ],
       [
        "Błoto w szabat: melacha ugniatania",
-       "Katalog trzydziestu dziewięciu prac zakazanych w szabat (Miszna, Szabbat 7,2) wymienia losz — ugniatanie ciasta; zrobienie błota ze śliny i pyłu podpada pod tę kategorię wprost, a pomazanie oczu mogło dodatkowo podpadać pod zakaz leczenia w szabat chorób niezagrażających życiu (leczenie dozwolone tylko przy pikuach nefesz, zagrożeniu życia — ślepota od urodzenia nim nie jest, bo poczeka do niedzieli). Zarzut z 9,16 jest więc formalnie mocny. Ale właśnie dlatego wybór Jezusa jest czytelny: nie musiał używać błota — w 4,50 uzdrawia słowem na odległość. Używa go, bo znak ma mówić o stworzeniu, a spór o szabat ma postawić pytanie, czym szabat JEST: pamiątką stworzenia, które Bóg w Jezusie dokańcza (5,17: Ojciec mój działa aż dotąd), czy ogrodzeniem, które zabrania Bogu dokończyć."
+       "Katalog trzydziestu dziewięciu prac zakazanych w szabat (Miszna, Szabbat 7,2) wymienia ha-lasz (הַלָּשׁ) — ugniatanie ciasta; zrobienie błota ze śliny i pyłu podpada pod tę kategorię wprost, a pomazanie oczu mogło dodatkowo podpadać pod zakaz leczenia w szabat chorób niezagrażających życiu (leczenie dozwolone tylko przy pikuach nefesz, zagrożeniu życia — ślepota od urodzenia nim nie jest, bo zaczeka do jutra). Tradycja rabiniczna zna też osobny zakaz kładzenia śliny na oko w szabat (Talmud babiloński, Szabbat 108b), jej świadectwa są jednak późniejsze od Ewangelii i nie dowodzą wprost praktyki I wieku. Zarzut z 9,16 jest więc formalnie mocny. Ale właśnie dlatego wybór Jezusa jest czytelny: nie musiał używać błota — w 4,50 uzdrawia słowem na odległość. Używa go, bo znak ma mówić o stworzeniu, a spór o szabat ma postawić pytanie, czym szabat JEST: pamiątką stworzenia, które Bóg w Jezusie dokańcza (5,17: Ojciec mój działa aż dotąd), czy ogrodzeniem, które zabrania Bogu dokończyć."
       ],
       [
-       "Aposynagogos i Jawne: dwie epoki w jednym tekście",
-       "Trzykrotne Janowe ἀποσυνάγωγος (9,22; 12,42; 16,2) nie ma odpowiednika w żadnym innym tekście greckim. Uchwała, o której mówi 9,22 — że wyznanie Jezusa jako Mesjasza karze się wyłączeniem — odpowiada sytuacji nie z roku 30, lecz z końca I wieku, gdy po zburzeniu Świątyni akademia w Jawne przeredagowała codzienną modlitwę Osiemnastu Błogosławieństw, włączając birkat ha-minim: błogosławieństwo (eufemistycznie) przeciw odstępcom i heretykom, którego wyznawca Jezusa nie mógł ani wypowiedzieć, ani ominąć niezauważenie. Większość egzegetów widzi więc w rozdziale 9 tekst o podwójnym dnie: opowieść o uzdrowionym żebraku niesie doświadczenie wspólnoty Janowej — proces, przesłuchania, strach rodzin, wykluczenie z domu modlitwy. To nie odbiera historii jądra historycznego; to wyjaśnia, czemu właśnie ta historia została opowiedziana tak szczegółowo i z taką znajomością procedury."
+       "Aposynagogos: dwie epoki w jednym tekście",
+       "Trzykrotne Janowe ἀποσυνάγωγος (wyłączony z synagogi: 9,22; 12,42; 16,2) nie ma odpowiednika w żadnym innym tekście greckim. Uchwała, o której mówi 9,22 — że wyznanie Jezusa jako Mesjasza karze się wyłączeniem — zakłada sytuację, w której wyznanie ma już cenę instytucjonalną, a takiej sytuacji nie potwierdza żadne niezależne źródło dla roku 30. Dlatego większość egzegetów (Martyn, Brown, Schnackenburg, Moloney, Mędala) czyta rozdział 9 jako tekst o podwójnym dnie: opowieść o uzdrowionym żebraku niesie doświadczenie wspólnoty Janowej — proces, przesłuchania, strach rodzin, wykluczenie z domu modlitwy. Klasyczna postać tej hipotezy (J. L. Martyn, History and Theology in the Fourth Gospel, 1968) wiązała owo wykluczenie z birkat ha-minim, dwunastym z Osiemnastu Błogosławieństw, którego zredagowanie tradycja talmudyczna (b. Berachot 28b) przypisuje akademii w Jawne za Gamaliela II. Ten konkretny mechanizm uchodzi dziś za niedowiedziony: R. Kimelman (1981) wykazał brak świadectw, by modlitwa ta była w pierwszych wiekach skierowana przeciw chrześcijanom, a dalsze badania (J. Marcus, NTS 55/2009; R. Langer, Cursing the Christians?, 2012; J. Bernier, 2013) osłabiły zarówno datację wzmianki o nocrim (nazarejczykach), jak i całą synchronizację z czwartą Ewangelią. Zostaje więc to, co tekst poświadcza sam: realny konflikt i realna cena wyznania — bez przesądzania, jaką procedurą dokonywało się wykluczenie. To nie odbiera historii jądra historycznego; to wyjaśnia, czemu właśnie ta historia została opowiedziana tak szczegółowo i z taką znajomością procedury."
       ]
      ]
     },
@@ -664,7 +664,7 @@
      "children": [
       [
        "1. Non propter peccatum — cierpienie poza rachunkiem win",
-       "Tomasz, komentując 9,3, rozróżnia karę (poena) i skutek natury (defectus naturae): nie każdy brak jest karą za osobisty grzech, choć każdy jest następstwem kondycji natury upadłej. Bóg dopuszcza defekt nie jako odpłatę, lecz ordinans ad bonum — porządkując go ku dobru większemu, którym tu jest objawienie chwały (S. Th. I-II, q. 87; Super Io. IX, lect. 1). To rozróżnienie rozcina węzeł teodycei praktycznej: pytanie „za co?\" jest źle postawione; poprawne brzmi „ku czemu?\". Wolno je zadać tylko z wnętrza nadziei — jako pytanie o dzieło, które Bóg zechce w tym braku objawić — nigdy z zewnątrz, jako diagnozę cudzej winy."
+       "Tomasz, komentując 9,3, rozróżnia karę (poena) i skutek natury (defectus naturae): nie każdy brak jest karą za osobisty grzech, choć każdy jest następstwem kondycji natury upadłej. Bóg dopuszcza defekt nie jako odpłatę, lecz ordinans ad bonum — porządkując go ku dobru większemu, którym tu jest objawienie chwały (Super Io. IX, lect. 1; por. S. Th. I-II, q. 85-87 o skutkach grzechu w naturze). To rozróżnienie rozcina węzeł teodycei praktycznej: pytanie „za co?\" jest źle postawione; poprawne brzmi „ku czemu?\". Wolno je zadać tylko z wnętrza nadziei — jako pytanie o dzieło, które Bóg zechce w tym braku objawić — nigdy z zewnątrz, jako diagnozę cudzej winy."
       ],
       [
        "2. Creatio continuata — błoto i dokończenie stworzenia",
@@ -676,7 +676,7 @@
       ],
       [
        "4. Ignorantia affectata — ślepota, która się wybiera",
-       "Zamknięcie rozdziału (gdybyście byli niewidomi, nie mielibyście grzechu) Tomasz czyta przez rozróżnienie niewiedzy: ignorantia invincibilis (niepokonalna) usprawiedliwia; ignorantia affectata (pielęgnowana, chciana) obciąża podwójnie, bo jest grzechem w samym akcie poznania — człowiek nie chce wiedzieć, żeby nie musieć się nawrócić (S. Th. I-II, q. 6, a. 8; q. 76). Faryzeusze z 9,41 nie są ślepi z natury; ich „widzimy\" jest decyzją o nieprzyjmowaniu światła. Stąd niesymetryczność wyroku z w. 39: światłość nie odbiera nikomu wzroku — zastaje jednych w uznanej ciemności i ich oświeca, drugich w deklarowanej jasności i ich deklarację utrwala. Sąd jest samowykonaniem wyboru."
+       "Zamknięcie rozdziału (gdybyście byli niewidomi, nie mielibyście grzechu) Tomasz czyta przez rozróżnienie niewiedzy: ignorantia invincibilis (niepokonalna) usprawiedliwia; ignorantia affectata (pielęgnowana, chciana) obciąża podwójnie, bo jest grzechem w samym akcie poznania — człowiek nie chce wiedzieć, żeby nie musieć się nawrócić (S. Th. I-II, q. 6, a. 8; q. 76, a. 3-4). Faryzeusze z 9,41 nie są ślepi z natury; ich „widzimy\" jest decyzją o nieprzyjmowaniu światła. Stąd niesymetryczność wyroku z w. 39: światłość nie odbiera nikomu wzroku — zastaje jednych w uznanej ciemności i ich oświeca, drugich w deklarowanej jasności i ich deklarację utrwala. Sąd jest samowykonaniem wyboru."
       ]
      ]
     },
@@ -684,13 +684,13 @@
      "type": "autor_ludzki",
      "title": "Autor ludzki: kim jest i co chce przekazać",
      "children": [],
-     "body": "Rozdział 9 jest literacko najdoskonalszą jednostką narracyjną czwartej Ewangelii i egzegeza zna niewiele tekstów tak precyzyjnie zbudowanych. Autor komponuje dramat w siedmiu scenach z klasyczną regułą dwóch aktorów na scenie, z Jezusem obecnym tylko w ramie (w. 1-7 i 35-41) i z narastającą ironią jako głównym narzędziem: śledczy mówią „my wiemy\" cztery razy i za każdym razem wiedzą mniej, świadek mówi „nie wiem\" trzy razy i za każdym razem rozumie więcej. Ta inwersja jest tezą księgi w miniaturze: światłość przyszła na świat i sąd dokonuje się przez samo jej przyjęcie lub odrzucenie (3,19-21). Autor pisze równocześnie na dwóch poziomach czasowych — historii Jezusa i doświadczenia własnej wspólnoty po Jawne — i robi to świadomie: słowo ἀποσυνάγωγος, procedura przesłuchań, strach rodziców, wyrzucenie za drzwi to realia jego czytelników. Chce ich umocnić dokładnie tym, czym kończy się historia: wyrzucony z synagogi nie zostaje sam — zostaje ZNALEZIONY (w. 35), a jego pokłon przed Synem Człowieczym jest liturgią nowej wspólnoty. Wreszcie autor daje Kościołowi wzór świadectwa: nie trzeba umieć teologii, żeby świadczyć; trzeba nie dać sobie odebrać własnego doświadczenia łaski. Zdanie „jedno wiem: byłem niewidomy, a teraz widzę\" jest najkrótszą definicją świadka w całym Piśmie."
+     "body": "Rozdział 9 uchodzi w komentarzach (Brown, Mędala) za arcydzieło Janowej sztuki narracyjnej i egzegeza zna niewiele tekstów tak precyzyjnie zbudowanych. Autor komponuje dramat w siedmiu scenach z klasyczną regułą dwóch aktorów na scenie, z Jezusem obecnym tylko w ramie (w. 1-7 i 35-41) i z narastającą ironią jako głównym narzędziem: trybunał mówi ἡμεῖς οἴδαμεν (my wiemy) dwa razy (w. 24.29) i za każdym razem wie mniej; rodzice zasłaniają się potrójnym οἴδαμεν / οὐκ οἴδαμεν (wiemy / nie wiemy: w. 20.21), żeby nie powiedzieć nic; świadek mówi οὐκ οἶδα (nie wiem) dwa razy (w. 12.25) i za każdym razem rozumie więcej, aż w w. 31 obróci ich własne οἴδαμεν przeciw nim. Ta inwersja jest tezą księgi w miniaturze: światłość przyszła na świat i sąd dokonuje się przez samo jej przyjęcie lub odrzucenie (3,19-21). Autor pisze równocześnie na dwóch poziomach czasowych — historii Jezusa i doświadczenia własnej wspólnoty pod koniec I wieku — i robi to świadomie: słowo ἀποσυνάγωγος, procedura przesłuchań, strach rodziców, wyrzucenie za drzwi to realia jego czytelników. Chce ich umocnić dokładnie tym, czym kończy się historia: wyrzucony z synagogi nie zostaje sam — zostaje ZNALEZIONY (w. 35), a jego pokłon przed Synem Człowieczym jest liturgią nowej wspólnoty. Wreszcie autor daje Kościołowi wzór świadectwa: nie trzeba umieć teologii, żeby świadczyć; trzeba nie dać sobie odebrać własnego doświadczenia łaski. Zdanie „jedno wiem: byłem niewidomy, a teraz widzę\" jest najkrótszą definicją świadka w całym Piśmie."
     },
     {
      "type": "autor_bozy",
      "title": "Autor Boży: co Duch Święty chce przekazać",
      "children": [],
-     "body": "W zamyśle Ducha rozdział 9 jest katechezą chrzcielną Kościoła wszystkich wieków — starożytność odczytała to bezbłędnie, czyniąc z niego Ewangelię skrutyniów. Struktura znaku jest strukturą sakramentu: człowiek w ciemności nie ze swojej winy; inicjatywa całkowicie po stronie Chrystusa (niewidomy o nic nie prosił); materia stworzenia i gest namaszczenia (błoto na oczach jak przedchrzcielne namaszczenie katechumena); posłanie do wody, której imię jest imieniem Posłanego; obmycie i przejrzenie — φωτισμός, oświecenie, jak najstarszy Kościół nazywał chrzest (Hbr 6,4; 10,32; Justyn, Apologia I 61). Dalszy ciąg jest równie sakramentalny: ochrzczony musi wyznać wiarę przed wrogim trybunałem, traci starą wspólnotę, zostaje znaleziony przez Chrystusa i kończy na adoracji — mistagogia w pięciu scenach. Duch Święty przekazuje też twardszą prawdę o sądzie: światłość, która oświeca, tym samym aktem osądza; nie ma neutralnego spotkania z Chrystusem. I prawdę o cierpieniu: żadne kalectwo, żadna bieda, żadna ciemność nie jest Bożym wyrokiem na człowieka — każda może stać się miejscem, w którym objawią się dzieła Boże. Wreszcie — przez pokłon w w. 38, jedyny oddany Jezusowi w tej Ewangelii przed zmartwychwstaniem — Duch uczy, dokąd prowadzi każde prawdziwe przejrzenie: do adoracji."
+     "body": "W zamyśle Ducha rozdział 9 jest katechezą chrzcielną Kościoła wszystkich wieków — starożytność odczytała to bezbłędnie, czyniąc z niego Ewangelię skrutyniów. Struktura znaku jest strukturą sakramentu: człowiek w ciemności nie ze swojej winy; inicjatywa całkowicie po stronie Chrystusa (niewidomy o nic nie prosił); materia stworzenia i gest namaszczenia (błoto na oczach jak przedchrzcielne namaszczenie katechumena); posłanie do wody, której imię jest imieniem Posłanego; obmycie i przejrzenie — φωτισμός, oświecenie, jak najstarszy Kościół nazywał chrzest (Hbr 6,4; 10,32; Justyn, Apologia I 61). Dalszy ciąg jest równie sakramentalny: ochrzczony musi wyznać wiarę przed wrogim trybunałem, traci starą wspólnotę, zostaje znaleziony przez Chrystusa i kończy na adoracji — mistagogia w pięciu scenach. Duch Święty przekazuje też twardszą prawdę o sądzie: światłość, która oświeca, tym samym aktem osądza; nie ma neutralnego spotkania z Chrystusem. I prawdę o cierpieniu: żadne kalectwo, żadna bieda, żadna ciemność nie jest Bożym wyrokiem na człowieka — każda może stać się miejscem, w którym objawią się dzieła Boże. Wreszcie — przez pokłon w w. 38, jedyny pokłon oddany Jezusowi w całej czwartej Ewangelii, i to w wersecie, którego część najstarszych świadków nie ma (zob. notę do w. 38) — Duch uczy, dokąd prowadzi każde prawdziwe przejrzenie: do adoracji."
     },
     {
      "type": "odniesienia",
@@ -699,7 +699,7 @@
      "children": [
       [
        "Rdz 2,7 → w. 6-7",
-       "Ulepienie człowieka z prochu ziemi jest matrycą gestu z błotem: ten sam Stwórca, ta sama materia, to samo tchnienie życia. Ireneusz uczynił z tej paraleli klucz: to, czego Słowo nie dolepiło w łonie, dolepia teraz publicznie — plasma, ulepienie, zostaje dokończone. Uzdrowienie niewidomego OD URODZENIA jest jedynym cudem Ewangelii opisanym słownikiem Rdz 2."
+       "Ulepienie człowieka z prochu ziemi jest matrycą gestu z błotem: ten sam Stwórca, ta sama materia, to samo tchnienie życia. Ireneusz uczynił z tej paraleli klucz: to, czego Słowo nie dolepiło w łonie, dolepia teraz publicznie — plasma, ulepienie, zostaje dokończone. Uzdrowienie niewidomego OD URODZENIA jest jedynym cudem tej Ewangelii, w którym Jezus posługuje się materią ziemi — choć samo słownictwo (πηλός, ποιέω) bliższe jest Hiobowi i Izajaszowi (Hi 10,9; Iz 64,7 wg LXX) niż greckiemu brzmieniu Rdz 2,7, gdzie stoi χοῦς (proch) i πλάσσω (lepić)."
       ],
       [
        "Wj 20,5; Pwt 28; Hi 10,9 → w. 2-3",
@@ -711,7 +711,7 @@
       ],
       [
        "Iz 8,6; Iz 35,5; Iz 42,7 → w. 7.30-33",
-       "Wzgardzone wody Sziloach (Iz 8,6) wracają jako miejsce znaku. Obietnice mesjańskie — wtedy otworzą się oczy niewidomych (35,5), abyś otworzył oczy ślepym (42,7) — czynią z uzdrowienia legitymację mesjańską: dlatego argument uzdrowionego „od wieku nie słyszano\" (w. 32) trafia w sedno, bo otwarcie oczu ślepego od urodzenia było zastrzeżone dla czasów Mesjasza."
+       "Wzgardzone wody Sziloach (Iz 8,6) wracają jako miejsce znaku. Obietnice mesjańskie — wtedy otworzą się oczy niewidomych (35,5), abyś otworzył oczy ślepym (42,7) — czynią z uzdrowienia legitymację mesjańską: dlatego argument uzdrowionego „od wieku nie słyszano\" (w. 32) trafia w sedno. Stary Testament przypisuje otwieranie oczu niewidomych samemu Bogu (Ps 146,8) i zapowiada je jako znak czasów zbawienia (Iz 29,18; 35,5; 42,7); jedyne opisane w nim uzdrowienie z niewidomości — Tobiasz przywracający wzrok ojcu (Tb 11,10-14) — dotyczy człowieka, który wzrok utracił, nie urodzonego niewidomym."
       ],
       [
        "Iz 6,9-10; Iz 42,18-20 → w. 39-41",
@@ -738,11 +738,11 @@
      "children": [
       [
        "Liturgia",
-       "Rozdział 9 jest Ewangelią czwartej niedzieli Wielkiego Postu roku A (niedziela Laetare) i pozostaje nią do dziś w cyklu skrutyniów: gdy w parafii są kandydaci do chrztu, czyta się go także w latach B i C podczas drugiego skrutynium — bo tak czynił Kościół starożytny. W Rzymie IV-V wieku katechumeni przechodzili w Wielkim Poście obrzęd otwarcia uszu i oczu; Ewangelia o niewidomym była im wykładana jako zapowiedź tego, co stanie się z nimi w noc paschalną: photismos, oświecenie. Ślad tej katechezy nosi sama terminologia — od Justyna po mistagogów IV wieku chrzest nazywa się oświeceniem, a neofitów: oświeconymi (illuminati, neophotistoi). W rycie przedsoborowym perykopę czytano w środę po czwartej niedzieli Wielkiego Postu — w dniu wielkiego skrutynium in aperitione aurium — ze stacją u św. Pawła za Murami. Motyw sadzawki-Posłanego przeszedł do teologii chrzcielnicy: fons jako Sziloach, woda, która ma imię Chrystusa."
+       "Rozdział 9 jest Ewangelią czwartej niedzieli Wielkiego Postu roku A (niedziela Laetare) i pozostaje nią do dziś w cyklu skrutyniów: gdy w parafii są kandydaci do chrztu, czyta się go także w latach B i C podczas drugiego skrutynium — bo tak czynił Kościół starożytny. W Rzymie IV-V wieku katechumeni przechodzili w Wielkim Poście obrzęd otwarcia uszu i oczu; Ewangelia o niewidomym była im wykładana jako zapowiedź tego, co stanie się z nimi w noc paschalną: photismos, oświecenie. Ślad tej katechezy nosi sama terminologia — od Justyna po mistagogów IV wieku chrzest nazywa się oświeceniem, a neofitów: oświeconymi (illuminati, neophotistoi). W rycie przedsoborowym perykopę czytano w środę po czwartej niedzieli Wielkiego Postu — w dniu wielkiego skrutynium in aperitione aurium (przy otwarciu uszu) — ze stacją u św. Pawła za Murami; antyfona na komunię tego dnia brzmi Lutum fecit ex sputo Dominus, et linivit oculos meos (Uczynił Pan błoto ze śliny i pomazał moje oczy — J 9,11). Motyw sadzawki-Posłanego przeszedł do teologii chrzcielnicy: fons jako Sziloach, woda, która ma imię Chrystusa."
       ],
       [
        "Recepcja teologiczna",
-       "Ireneusz uczynił z 9,6 dowód jedności Stwórcy i Zbawcy przeciw gnostykom: ta sama Ręka, która ulepiła Adama, lepi błoto — nie ma dwóch bogów, złego stwórcy materii i dobrego zbawcy duchów; materia jest narzędziem zbawienia. Augustyn dał Zachodowi alegorię całościową: niewidomy to rodzaj ludzki ślepy od upadku, błoto — Wcielenie (Słowo zmieszane z ciałem jak ślina z ziemią), Siloam — chrzest w Posłanym; jego Tractatus 44 czytano przez całe średniowiecze. Scholastyka wzięła z rozdziału dwie lekcje: o cierpieniu poza rachunkiem win (przeciw każdemu retrybucjonizmowi) i o niewiedzy zawinionej. Nowożytna egzegeza (od Martyna przez Browna po Mędalę) odsłoniła drugie dno rozdziału — dramat wspólnoty Janowej po Jawne — nie unieważniając pierwszego; a współczesne duszpasterstwo osób z niepełnosprawnością znalazło w 9,3 swoją kartę wolności: żadne kalectwo nie jest karą, każde może być miejscem objawienia dzieł Boga. W sztuce scena obmycia w Siloam należy do najstarszego repertuaru katakumb (Katakumby Domitylli, sarkofagi IV w.) — obok Łazarza i Samarytanki, czyli dokładnie w zestawie wielkopostnych Ewangelii skrutyniów."
+       "Ireneusz uczynił z 9,6 dowód jedności Stwórcy i Zbawcy przeciw gnostykom: ta sama Ręka, która ulepiła Adama, lepi błoto — nie ma dwóch bogów, złego stwórcy materii i dobrego zbawcy duchów; materia jest narzędziem zbawienia. Augustyn dał Zachodowi alegorię całościową: niewidomy to rodzaj ludzki ślepy od upadku, błoto — Wcielenie (Słowo zmieszane z ciałem jak ślina z ziemią), Siloam — chrzest w Posłanym; jego Tractatus 44 czytano przez całe średniowiecze. Scholastyka wzięła z rozdziału dwie lekcje: o cierpieniu poza rachunkiem win (przeciw każdemu retrybucjonizmowi) i o niewiedzy zawinionej. Nowożytna egzegeza (od Martyna przez Browna po Mędalę) odsłoniła drugie dno rozdziału — dramat wspólnoty płacącej za wyznanie wykluczeniem — nie unieważniając pierwszego, choć pierwotne powiązanie tego dramatu z birkat ha-minim zostało w ostatnich dekadach poważnie zakwestionowane (zob. sekcja I); a współczesne duszpasterstwo osób z niepełnosprawnością znalazło w 9,3 swoją kartę wolności: żadne kalectwo nie jest karą, każde może być miejscem objawienia dzieł Boga. W sztuce uzdrowienie niewidomego — przedstawiane jako dotknięcie oczu przez Chrystusa, nie jako obmycie w sadzawce — należy do wczesnego repertuaru chrześcijańskiego i wraca na rzymskich sarkofagach IV wieku obok wskrzeszenia Łazarza i rozmnożenia chlebów, a więc w sąsiedztwie wielkopostnych Ewangelii skrutyniów."
       ]
      ]
     },
@@ -750,7 +750,7 @@
      "type": "patrystyka",
      "title": "Komentarze Ojców Kościoła (catena patrum)",
      "children": [],
-     "body": "Katena do J 9 jest wyjątkowo jednomyślna co do dwóch rzeczy: błoto mówi o stworzeniu, Siloam o chrzcie. Różnice zaczynają się w rozłożeniu akcentów — Ireneusz czyta przeciw gnostykom, Augustyn alegorycznie, Chryzostom moralnie (odwaga świadka), Cyryl dogmatycznie (Bóstwo działającego), Grzegorz pastoralnie (ślepota pysznych), Beda syntetycznie dla średniowiecza."
+     "body": "Katena do J 9 jest wyjątkowo jednomyślna co do dwóch rzeczy: błoto mówi o stworzeniu, Siloam o chrzcie. Różnice zaczynają się w rozłożeniu akcentów — Ireneusz czyta przeciw gnostykom, Augustyn alegorycznie i chrzcielnie (a na końcu rozdziału moralnie: pycha jako ślepota, której światło nie leczy), Chryzostom moralnie (uczciwość i śmiałość świadka), Cyryl polemicznie (zawiść, która nie znosi niezbitego faktu)."
     },
     {
      "type": "zakonczenie",
@@ -762,7 +762,7 @@
      "type": "nota",
      "title": "Nota warsztatowa",
      "children": [],
-     "body": "Tekst grecki wszystkich 41 wersetów złożono programowo ze źródła prawdy (db.sqlite, tabela words, księga 500), ze zdjęciem znaków aparatu krytycznego, i zweryfikowano względem bazy co do znaku. Trzy noty tekstualne (w. 4, 35, 38-39a) oparto na aparacie NA28 z tabeli commentaries tegoż źródła. Przekład roboczy jest własny, celowo dosłowny: zachowuje historyczne praesens (prowadzą, mówi), emfatyczne zaimki (my wiemy / ty mówisz) i powtórzenia czasownika oἶδα, na których zbudowana jest ironia rozdziału. Struktura siedmiu scen za zgodną obserwacją egzegezy narracyjnej (Martyn, Brown, Mędala). W sekcji o Jawne przyjęto ostrożną wersję konsensusu: birkat ha-minim jako najbliższy kontekst ἀποσυνάγωγος, bez przesądzania szczegółów datacji. Katena sześciu głosów z locusami; do sprawdzenia w przyszłej rewizji: dokładne numery homilii Chryzostoma (56-59 wg numeracji Migne'a) i zakres Tractatus 44 Augustyna."
+     "body": "Tekst grecki wszystkich 41 wersetów złożono programowo ze źródła prawdy (db.sqlite, tabela words, księga 500), ze zdjęciem znaków aparatu krytycznego, i zweryfikowano względem bazy co do znaku. Trzy noty tekstualne (w. 4, 35, 38-39a) oparto na aparacie NA28 z tabeli commentaries tegoż źródła i uzupełniono o pominiętych wcześniej świadków. Przekład roboczy jest własny, celowo dosłowny: zachowuje historyczne praesens (prowadzą, mówi), emfatyczne zaimki (my wiemy / ty mówisz) i powtórzenia czasownika οἶδα, na których zbudowana jest ironia rozdziału. Struktura siedmiu scen za zgodną obserwacją egzegezy narracyjnej (Martyn, Brown, Mędala). W sekcji o wykluczeniu z synagogi rozdzielono to, co pewne (ἀποσυνάγωγος jako ślad realnego konfliktu), od tego, co sporne (powiązanie z birkat ha-minim — po krytyce Kimelmana i późniejszych prac nie uchodzi już za tło pewne). Katena liczy pięć głosów. Numery homilii Chryzostoma ustalono wobec podziału perykop (Hom. 56 — J 9,1-5; 57 — 9,6-16; 58 — 9,17-35; 59 — od 9,39), Tractatus 44 Augustyna obejmuje cały rozdział 9. Usunięto dwa wpisy, których sygnatur nie dało się potwierdzić: Grzegorza Wielkiego (Hom. in Ev. 28 komentuje J 4,46-53, a w zbiorze czterdziestu homilii nie ma homilii na J 9) oraz Bedy Czcigodnego (komentarz do Jana z PL 92 nie należy do jego dzieł autentycznych — autentyczna egzegeza ewangeliczna Bedy obejmuje Marka i Łukasza). Wszystkie loci patrystyczne wymagają jeszcze kontroli przy wydaniach źródłowych (PG/PL, SCh, ŹMT, PSP)."
     }
    ],
    "refs": [
@@ -848,7 +848,7 @@
      null,
      "Iz 35,5",
      "aluzja",
-     "Wtedy otworzą się oczy niewidomych — znak mesjański zastrzeżony dla czasów zbawienia."
+     "Wtedy otworzą się oczy niewidomych — otwarcie oczu zapowiadane jako znak czasów zbawienia."
     ],
     [
      [
@@ -863,6 +863,20 @@
      "Iz 42,7",
      "aluzja",
      "Abyś otworzył oczy ślepym — misja Sługi Pańskiego spełniona w znaku."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Ps",
+     146,
+     8,
+     null,
+     null,
+     "Ps 146,8",
+     "tlo",
+     "Pan przywraca wzrok niewidomym — w Starym Testamencie otwieranie oczu jest dziełem samego Boga."
     ],
     [
      [
@@ -1112,21 +1126,21 @@
      "w. 1–7",
      "św. Ireneusz z Lyonu",
      "Adversus haereses",
-     "Adv. haer. V,15,2-4",
-     "To, co Ręka Boża zaniedbała ulepić w łonie — mówi Ireneusz — dolepiła jawnie, abyśmy poznali tę samą Rękę: Słowo, przez które na początku uformowany został człowiek. Błoto na oczach jest dla niego rozstrzygającym argumentem przeciw gnostykom: nie ma złego stwórcy materii i dobrego zbawcy duchów — Ten sam, który ulepił Adama z ziemi, używa ziemi, by dokończyć swoje plasma. Cud nie jest zawieszeniem stworzenia, lecz jego podpisem: Artifex przyznaje się do dzieła, poprawiając je własną techniką. Dlatego niewidomy musiał być ślepy OD URODZENIA — żeby nie było wątpliwości, że nie chodzi o naprawę, lecz o akt Stwórcy."
+     "Adv. haer. V,15,2",
+     "To, co Ręka Boża pominęła ulepić w łonie — mówi Ireneusz — dolepiła jawnie, abyśmy poznali tę samą Rękę: Słowo, przez które na początku uformowany został człowiek. Błoto na oczach jest dla niego rozstrzygającym argumentem przeciw gnostykom: nie ma złego stwórcy materii i dobrego zbawcy duchów — Ten sam, który ulepił Adama z ziemi, używa ziemi, by dokończyć swoje plasma. Cud nie jest zawieszeniem stworzenia, lecz jego podpisem: Artifex przyznaje się do dzieła, poprawiając je własną techniką. Dlatego niewidomy musiał być ślepy OD URODZENIA — żeby nie było wątpliwości, że nie chodzi o naprawę, lecz o akt Stwórcy."
     ],
     [
      "w. 1–7",
      "św. Augustyn",
      "In Iohannis Evangelium tractatus",
      "Tract. in Io. 44,1-2",
-     "Augustyn czyta rozdział jedną wielką alegorią rodzaju ludzkiego: ów niewidomy to genus humanum — ślepota przyszła na pierwszego człowieka przez grzech i wszyscy rodzimy się z niej. Błoto uczynione ze śliny to Wcielenie: ślina — Słowo pochodzące z głowy, ziemia — ciało wzięte z ziemi; Verbum caro factum est zmieszane jak ślina z prochem. Pomazani tym błotem — katechumeni — jeszcze nie widzą: muszą zostać posłani do sadzawki, która tłumaczy się Posłany. Kto się w Posłanym obmywa, ten zostaje oświecony: baptizatus est in Christo, illuminatus est. Cała starożytna praktyka skrutyniów nosi ślad tej właśnie strony Tractatus 44."
+     "Augustyn czyta rozdział jedną wielką alegorią rodzaju ludzkiego: ów niewidomy to genus humanum — ślepota przyszła na pierwszego człowieka przez grzech i wszyscy rodzimy się z niej. Błoto uczynione ze śliny to Wcielenie: ślina — Słowo pochodzące z głowy, ziemia — ciało wzięte z ziemi; Verbum caro factum est zmieszane jak ślina z prochem. Pomazani tym błotem — katechumeni — jeszcze nie widzą: muszą zostać posłani do sadzawki, która tłumaczy się Posłany. Kto się w Posłanym obmywa, ten zostaje ochrzczony: lotus est in ea piscina quae interpretatur Missus — baptizatus est in Christo (obmył się w tej sadzawce, która tłumaczy się Posłany — został ochrzczony w Chrystusie); samo pomazanie błotem czyni zeń, dodaje Augustyn, dopiero katechumena. Cała starożytna praktyka skrutyniów nosi ślad tej właśnie strony Tractatus 44."
     ],
     [
      "w. 8–12",
      "św. Jan Chryzostom",
      "Homilie na Ewangelię Jana",
-     "Hom. in Io. 56-57",
+     "Hom. in Io. 57",
      "Chryzostom zatrzymuje się nad przemianą tak głęboką, że sąsiedzi nie poznają człowieka: łaska — mówi — odmienia nie tylko oczy, lecz całą postać duszy, która prześwieca przez twarz. A gdy jedni mówią „to on\", drudzy „podobny do niego\", sam uzdrowiony ucina spór wyznaniem: ja jestem. Złotousty podziwia jego wdzięczność bez wstydu: nie ukrywa, że był żebrakiem, nie wstydzi się dobrodzieja, nie poprawia protokołu na swoją korzyść — mówi dokładnie to, co wie, i przyznaje, czego nie wie. Taka prostota — poucza kaznodzieja — jest pierwszym stopniem wyznawania: nikt nie świadczy o Chrystusie, kto najpierw nie umie powiedzieć uczciwie, co mu się przydarzyło."
     ],
     [
@@ -1134,21 +1148,21 @@
      "św. Cyryl Aleksandryjski",
      "Commentarii in Ioannem",
      "In Io., ks. VI",
-     "Cyryl broni znaku przed zarzutem szabatowym argumentem teologicznym: prawo szabatu zakazuje dzieł ludzkich, nie Boskich — Bóg bowiem i w szabat podtrzymuje świat, rodzi się słońce, płyną rzeki, rosną dzieci. Skoro więc Jezus czyni w szabat dzieło możliwe tylko dla Boga (stworzenie oczu), sam znak rozstrzyga spór o Jego osobę: albo Bóg łamie własny szabat — co niedorzeczne — albo Ten, który działa, jest Panem szabatu, współistotnym Ojcu, który działa aż dotąd. Rozłam faryzeuszów (σχίσμα) jest dla Cyryla dowodem, że znak był niezbity: skoro nie mogli zaprzeczyć faktowi, musieli pęknąć na jego interpretacji."
+     "Cyryl nie zatrzymuje się na samym prawie szabatowym, lecz na dyspozycji sędziów: zapomnieli — mówi — o Tym, który nakazał „sądzić sądem sprawiedliwym\" (J 7,24), i wzięci jakby w więzy zawiści nie są już w stanie znieść żadnego słowa, które oddawałoby cześć Chrystusowi. Zawiść ma tę moc, że każe człowiekowi robić w namiętności rzeczy wystawiające go na śmieszność — a taki właśnie jest spór o to, czy zdarzyło się to, co wszyscy widzą. Rozłam faryzeuszów (σχίσμα) jest dla Cyryla dowodem, że znak był niezbity: skoro faktu nie dało się zaprzeczyć, musieli pęknąć na jego interpretacji. Wniosek dla chrystologii jest u niego stały: dzieło możliwe tylko dla Stwórcy rozstrzyga spór o Osobę Tego, kto je czyni."
     ],
     [
      "w. 24–34",
-     "św. Grzegorz Wielki",
-     "Homiliae in Evangelia",
-     "Hom. in Ev. II, 28 (o pysze wiedzy)",
-     "Grzegorz czyta drugie przesłuchanie jako starcie dwóch szkół: uczonych, którzy „wiedzą\", i żebraka, który wie jedno. Pycha wiedzy — mówi — jest ślepotą tym groźniejszą, że nosi okulary autorytetu: my wiemy, że ten człowiek jest grzeszny; my wiemy, że do Mojżesza przemówił Bóg. Tymczasem pokora doświadczenia widzi dalej niż uczoność: unum scio — jedno wiem — jest zdaniem, którego żadna dialektyka nie obali, bo nie twierdzi niczego ponad to, co łaska uczyniła. Wyrzucenie za drzwi jest w tej lekturze nieuniknione: kto nie może pokonać świadka, usuwa świadectwo. Ale wyrzucony za drzwi synagogi — dopowiada Grzegorz — stanął w progu Kościoła."
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 58",
+     "Chryzostom czyta drugie przesłuchanie jako pojedynek nierówny tylko z pozoru: uczeni mają za sobą autorytet i formułę przysięgi, świadek — jedno zdanie, którego nie da się obalić, bo nie twierdzi niczego ponad to, co mu się przydarzyło. Złotousty podziwia jego παρρησία (śmiałość mowy): nie ustępuje, nie schlebia, nie ucieka w ostrożność, choć doskonale wie, czym to grozi, aż w końcu sam zaczyna nauczać tych, którzy go sądzą — i to jest ta chwila, w której trybunał przechodzi od argumentów do przemocy. Wyrzucenie za drzwi jest w takiej lekturze konsekwencją naturalną: kto nie może pokonać świadka, usuwa świadectwo. Kaznodzieja robi z tego wzór dla swoich słuchaczy: wyznanie kosztuje i właśnie dlatego jest wyznaniem."
     ],
     [
      "w. 35–41",
-     "św. Beda Czcigodny",
-     "In S. Ioannis Evangelium expositio",
-     "In Io. Ev. exp., ad cap. IX",
-     "Beda zbiera żniwo tradycji w syntezę dla średniowiecza: Chrystus znajduje wyrzuconego, bo świat może wykluczyć wierzącego ze swoich wspólnot, lecz nie może go wykluczyć z ręki Tego, który szuka. Pytanie „wierzysz w Syna Człowieczego?\" pada dopiero teraz — po próbie — bo wiara wyznana przed trybunałem dojrzała do objawienia wprost: i widziałeś Go, i Ten, który mówi z tobą, to On. Pokłon uzdrowionego jest dla Bedy figurą adoracji eucharystycznej Kościoła: oczy ulepione w chrzcie poznają Pana obecnego i mówiącego. A sentencja o sądzie zamyka księgę znaku kluczem moralnym: ślepota wyznana jest materią łaski, wzrok deklarowany — formą pychy; między nimi rozstrzyga się każdy Wielki Post."
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 44 (ad Io 9,35-41)",
+     "Ten sam Tractatus, który otwiera rozdział alegorią rodzaju ludzkiego, zamyka go wykładem o sądzie. Chrystus przyszedł „na sąd\" — to znaczy na rozdzielenie: nie po to, by komukolwiek odebrać wzrok, lecz po to, by wyszło na jaw, kto swoją ślepotę uznaje, a kto nazywa ją widzeniem. Gdy faryzeusze pytają „czy i my jesteśmy niewidomi?\", pytają o rzecz, którą sami już rozstrzygnęli: ich „widzimy\" jest pychą, a pycha jest jedyną ślepotą, której światło nie leczy, bo ona go nie przyjmuje. Stąd wyrok: gdybyście byli niewidomi, nie mielibyście grzechu; teraz mówicie „widzimy\" — grzech wasz trwa. Uzdrowiony przeszedł drogę dokładnie odwrotną: wyznał, że nie widzi, i dlatego zobaczył — najpierw oczami ciała, na końcu wiarą, gdy padł na twarz przed Tym, który go znalazł."
     ]
    ],
    "liturgy": [
@@ -1168,7 +1182,7 @@
      "rzymski (forma nadzwyczajna)",
      "Środa po 4. Niedzieli Wielkiego Postu",
      "J 9,1-38",
-     "Dzień wielkiego skrutynium in aperitione aurium (otwarcia uszu), stacja u św. Pawła za Murami: starożytna katecheza chrzcielna zachowana w mszale z 1962 r."
+     "Dzień wielkiego skrutynium in aperitione aurium (przy otwarciu uszu), stacja u św. Pawła za Murami: starożytna katecheza chrzcielna zachowana w mszale z 1962 r.; antyfona na komunię — Lutum fecit ex sputo Dominus, et linivit oculos meos (Uczynił Pan błoto ze śliny i pomazał moje oczy — J 9,11)."
     ],
     [
      "godzin",
@@ -1182,22 +1196,22 @@
      4,
      "ἡμᾶς δεῖ ... τοῦ πέμψαντός με / warianty zaimków",
      "wariant lekcji",
-     "NA28: ἡμᾶς δεῖ ἐργάζεσθαι τὰ ἔργα τοῦ πέμψαντός με (nam trzeba czynić dzieła Tego, który MNIE posłał) — za P66 P75 ℵ* B D L W. Część tradycji wygładza na ἐμὲ δεῖ (MNIE trzeba: ℵ¹ A C Θ Ψ, tekst bizantyjski), a część wyrównuje też zaimek dalszy na ἡμᾶς (posłał NAS: P66.75 ℵ* L W).",
+     "NA28: ἡμᾶς δεῖ ἐργάζεσθαι τὰ ἔργα τοῦ πέμψαντός με (nam trzeba czynić dzieła Tego, który MNIE posłał) — za P66, P75, ℵ*, B, L, W, 070, pc oraz sa, pbo, bo; D niesie tę samą lekcję z przestawionym szykiem (⸉). Część tradycji wygładza pierwszy zaimek na ἐμὲ δεῖ (MNIE trzeba: ℵ¹, A, C, Θ, Ψ, f1.13, 33, 𝔐, lat, sy, ac², bo^mss). Osobny wariant wyrównuje w drugą stronę zaimek dalszy — τοῦ πέμψαντος ἡμᾶς (który posłał NAS: P66, P75, ℵ*, L, W, pc, pbo, bo) — a ten sam werset zna jeszcze lekcję ὡς zamiast ἕως (C*, L, W, 070, 33, pc).",
      "Lectio difficilior — niezgrabne „nam trzeba czynić dzieła Tego, który mnie posłał\" — jest niemal na pewno pierwotna: łączy wspólnotę uczniów z misją, która pozostaje własnością Jezusa. Obie korekty (całe zdanie o Jezusie albo całe o wspólnocie) to typowe wygładzenia. Teologicznie lekcja NA28 jest najbogatsza: dzieła są wspólne, posłanie — Jego."
     ],
     [
      35,
      "εἰς τὸν υἱὸν τοῦ ἀνθρώπου / τοῦ θεοῦ",
      "wariant lekcji",
-     "NA28: τὸν υἱὸν τοῦ ἀνθρώπου (Syna Człowieczego) — za P66 P75 ℵ B D W it syc. Tekst bizantyjski i większość późnych świadków: τοῦ θεοῦ (Syna Bożego: A L Θ Ψ 070 f1.13), stąd „Syn Boży\" w Wulgacie klementyńskiej i przekładach od niej zależnych.",
-     "Zewnętrznie i wewnętrznie sprawa jest jednoznaczna: najstarsze papirusy i kodeksy mają „Syna Człowieczego\", a kierunek zmiany mógł być tylko jeden — ku częstszej formule wyznania chrzcielnego „Syn Boży\"; nikt nie zmieniałby odwrotnie. Tytuł Syna Człowieczego niesie tu Danielowy kontekst sądu (Dn 7,13-14), który werset 39 natychmiast podejmuje."
+     "NA28: τὸν υἱὸν τοῦ ἀνθρώπου (Syna Człowieczego) — za P66, P75, ℵ, B, D, W, pc, sy^s i przekładami koptyjskimi (co). Lekcję τοῦ θεοῦ (Syna Bożego) niosą A, L, Θ, Ψ, 070, 0250, f1.13, 33, 𝔐, lat, sy^p.h, bo — stąd „Syn Boży\" w Wulgacie i w przekładach od niej zależnych. Werset zna nadto dwa drobne dodatki: rodzajnik ὁ przed Ἰησοῦς oraz αὐτῷ po εἶπεν (oba: P66, ℵ², A, L, Θ, Ψ, 070, 0250, f1.13, 33, 𝔐; txt P75, ℵ*, B).",
+     "Zewnętrznie i wewnętrznie sprawa jest jasna: najstarsze papirusy i kodeksy mają „Syna Człowieczego\", a kierunek zmiany mógł być tylko jeden — ku częstszej formule wyznania chrzcielnego „Syn Boży\"; nikt nie zmieniałby odwrotnie. Tytuł Syna Człowieczego niesie tu Danielowy kontekst sądu (Dn 7,13-14), który werset 39 natychmiast podejmuje."
     ],
     [
      38,
      "ὁ δὲ ἔφη· πιστεύω, κύριε· καὶ προσεκύνησεν αὐτῷ. καὶ εἶπεν ὁ Ἰησοῦς (w. 38-39a)",
      "opuszczenie",
-     "Całe wyznanie z pokłonem oraz otwarcie w. 39 opuszczają P75 ℵ* W oraz część starołacińskich (b); tekst mają P66 ℵ² A B D L Θ Ψ i cała reszta tradycji. NA28 zatrzymuje zdanie w tekście głównym, notując opuszczenie w aparacie.",
-     "Ranga świadków opuszczenia (P75!) każe brać wariant poważnie; wysuwano hipotezę, że wyznanie dodano pod wpływem liturgii chrzcielnej. Przeważa jednak zdanie, że to przypadkowe opuszczenie (przeskok oka między podobnymi początkami zdań) lub rewizja skracająca: bez w. 38 pokłon i wyznanie znikają, a sentencja o sądzie traci narracyjne oparcie. Zatrzymujemy tekst — z wdzięcznością wobec aparatu, że każe pamiętać, iż nawet pokłon Kościoła przeszedł przez ogień krytyki tekstu."
+     "Całe wyznanie z pokłonem oraz otwarcie w. 39 (w NA28 w klamrach ⸋ ⸌) opuszczają P75, ℵ*, W, starołacińskie b i l oraz koptyjskie sa^ms, ac², mf; tekst mają P66, ℵ², A, B, D, L, Θ, Ψ i reszta tradycji. NA28 zatrzymuje zdanie w tekście głównym, notując opuszczenie w aparacie.",
+     "Ranga świadków opuszczenia (P75 — jedyny zachowany papirus dla tego miejsca) każe brać wariant poważnie, tym bardziej że oba czasowniki są u Jana osobliwe: ἔφη (rzekł) poza tym wersetem pojawia się w czwartej Ewangelii tylko raz (1,23), a προσκυνέω (oddać pokłon) nigdzie indziej nie ma za przedmiot Jezusa. Konkurują dwa wyjaśnienia: albo zdanie jest dodatkiem wyrosłym z liturgii chrzcielnej (tak m.in. R. E. Brown i C. L. Porter), albo opuszczenie powstało z niezrozumienia znaków lekcjonarzowych w antygrafie (tak B. M. Metzger, A Textual Commentary on the Greek New Testament, ad loc.). Zatrzymujemy tekst za NA28, odnotowując, że jedyny w tej Ewangelii pokłon oddany Jezusowi stoi na gruncie tekstualnie spornym."
     ]
    ],
    "theme_links": [
@@ -1256,7 +1270,7 @@
      ]
     ]
    ],
-   "revision_note": "Perykopa 23 dodana w cyklu iteracyjnym: pełna egzegeza J 9,1-41 z greką złożoną ze źródła prawdy (db.sqlite) i notami tekstualnymi z aparatu NA28 (w. 4, 35, 38-39a)."
+   "revision_note": "Perykopa 23 dodana w cyklu iteracyjnym: pełna egzegeza J 9,1-41 z greką złożoną ze źródła prawdy (db.sqlite) i notami tekstualnymi z aparatu NA28 (w. 4, 35, 38-39a). Recenzja naukowa 2026-09: weryfikacja kateny, aparatu, realiów szabatowych i tezy o birkat ha-minim."
   }
  ]
 }
