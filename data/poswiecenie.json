@@ -48,7 +48,7 @@
    [
     29,
     "ὁ πατήρ μου ὃ δέδωκέν μοι πάντων μεῖζόν ἐστιν, καὶ οὐδεὶς δύναται ἁρπάζειν ἐκ τῆς χειρὸς τοῦ πατρός·",
-    "Ojciec mój, [w] tym, co mi dał, jest większy od wszystkich i nikt nie może wyrywać z ręki Ojca."
+    "To, co Ojciec mój mi dał, jest większe od wszystkiego, i nikt nie może wyrywać z ręki Ojca."
    ],
    [
     30,
@@ -172,13 +172,13 @@
    "חֲנֻכָּה",
    "chanukka",
    "hbr",
-   "poświęcenie, inauguracja — od chanach, poświęcać; święto ustanowione przez Judę Machabeusza po oczyszczeniu świątyni z posągu Zeusa (164 przed Chr.): osiem dni świateł w miesiącu kislew; Janowe τὰ ἐγκαίνια jest jego grecką kalką"
+   "poświęcenie, inauguracja — od chanach, poświęcać; święto ustanowione przez Judę Machabeusza po oczyszczeniu świątyni sprofanowanej kultem Zeusa Olimpijskiego (164 przed Chr.; 1 Mch 1,54; 2 Mch 6,2): osiem dni świateł w miesiącu kislew; Janowe τὰ ἐγκαίνια jest jego grecką kalką"
   ],
   [
    "אֱלֹהִים",
    "elohim",
    "hbr",
-   "Bóg, bogowie — w Ps 82,6 tytuł nadany sędziom Izraela: „Ja rzekłem: jesteście elohim\"; Jezus bierze ten werset za dźwignię argumentu a fortiori (10,34-36): jeśli adresaci słowa mogli nosić imię bogów, czemu Uświęcony i Posłany bluźni, mówiąc: jestem Synem Bożym?"
+   "Bóg, bogowie — w Ps 82,6: „Ja rzekłem: jesteście elohim\"; dzisiejsza egzegeza ST widzi w adresatach psalmu najczęściej zgromadzenie istot niebieskich (rada Boża), tradycja rabiniczna — sędziów Izraela albo Izraela pod Synajem, i tę właśnie lekturę zakłada argument Jezusa; Jezus bierze ten werset za dźwignię argumentu a fortiori (10,34-36): jeśli adresaci słowa mogli nosić imię bogów, czemu Uświęcony i Posłany bluźni, mówiąc: jestem Synem Bożym?"
   ]
  ],
  "lexeme_semitic": [
@@ -380,7 +380,15 @@
    "σημεῖον"
   ]
  ],
- "works": [],
+ "works": [
+  [
+   "św. Atanazy",
+   "Orationes contra Arianos",
+   "Mowy przeciw arianom",
+   "IV",
+   "patrystyka"
+  ]
+ ],
  "themes": [
   [
    "jedność Ojca i Syna (ἓν ἐσμεν)",
@@ -399,8 +407,8 @@
     "status": "ukonczona",
     "position": 25
    },
-   "intro": "Jest zima, Chanuka — święto pamiętające dzień, w którym oczyszczono świątynię z posągu obcego boga — i Jezus przechadza się w portyku Salomona, osłonięty od wiatru. Wtedy otaczają Go kołem, jak w potrzasku, z pytaniem, które brzmi jak ostatnie: dokąd będziesz trzymał nas w zawieszeniu? Jeśli jesteś Mesjaszem, powiedz wprost. Odpowiedź jest dwustopniowa i za każdym stopniem rośnie stawka. Najpierw: powiedziałem — dziełami; nie wierzycie, bo nie jesteście z moich owiec — i wraca cała mowa pasterska, doprowadzona teraz do obietnicy, od której nie ma większej: nikt nie wyrwie ich z ręki mojej; nikt nie może wyrwać z ręki Ojca. Dwie ręce strzegące tych samych owiec domagają się zdania, które je połączy — i ono pada: ja i Ojciec jedno jesteśmy. Kamienie, które poszły w ruch po „zanim Abraham stał się\" (8,59), idą w ruch po raz drugi; zarzut zostaje wypowiedziany z prawniczą precyzją: bluźnierstwo — będąc człowiekiem, czynisz siebie Bogiem. Obrona Jezusa jest rabiniczna w formie (Ps 82: bogami jesteście) i wywrotowa w treści: nie cofa roszczenia ani o krok — Uświęcony i Posłany mówi o sobie mniej, nie więcej, niż jest. Perykopa — i cała publiczna działalność w Jerozolimie — kończy się wyjściem z ręki prześladowców i powrotem za Jordan, tam gdzie wszystko się zaczęło: do miejsca chrztu Jana, gdzie wielu uwierzyło.",
-   "struktura": "Perykopa jest zbudowana jak drugi akt procesu rozpoczętego w rozdziale 5, z Chanuką jako ironiczną scenografią. Ekspozycja (w. 22-24): czas (Poświęcenie, zima), miejsce (portyk Salomona) i osaczenie — ἐκύκλωσαν, otoczyli kołem; żądanie mesjańskiej parezji brzmi jak ultimatum. Część pierwsza (w. 25-30): odpowiedź pasterska — dzieła świadczą, ale wiara wymaga przynależności do owiec; owce moje słuchają, ja znam, one idą, ja daję życie wieczne — pięć czasowników wzajemności; potem podwójna gwarancja ręki (mojej — Ojca) i zwieńczenie: ἐγὼ καὶ ὁ πατὴρ ἕν ἐσμεν, rodzaj nijaki ἕν (jedno, nie jeden) i liczba mnoga ἐσμεν (jesteśmy, nie jestem) w jednym zdaniu — cała przyszła teologia trynitarna w pięciu słowach. Część druga (w. 31-39): kamienie i rozprawa — Jezus pyta o dzieło, oskarżyciele odpowiadają o osobę (nie za dzieło, lecz za bluźnierstwo); obrona z Ps 82,6 w formie qal wachomer: jeśli sędziów, do których skierowano słowo, Pismo nazywa bogami — a Pismo nie może być rozwiązane — to czy bluźni Ten, którego Ojciec UŚWIĘCIŁ i POSŁAŁ, mówiąc: jestem Synem Bożym? Zakończenie argumentu przenosi ciężar z tytułów na dzieła (nie wierzcie MI — wierzcie DZIEŁOM) i podnosi formułę jedności do wzajemnego przebywania: we mnie Ojciec, ja w Ojcu. Próba pojmania kończy się Janowym paradoksem: wyszedł z ich ręki — z ręki, która chciała wyrwać, nie wychodzi nikt wbrew niej samej. Epilog (w. 40-42): geografia zatacza koło — za Jordan, do miejsca Jana; retrospektywne świadectwo (Jan znaku nie uczynił, ale wszystko, co powiedział, było prawdziwe) i cicha żniwna koda: wielu tam uwierzyło. To ostatnie zdanie publicznej działalności przed Betanią — Ewangelia bierze oddech przed wskrzeszeniem Łazarza.",
+   "intro": "Jest zima, Chanuka — święto pamiętające dzień, w którym oczyszczono świątynię ze śladów obcego kultu — i Jezus przechadza się w portyku Salomona, osłonięty od wiatru. Wtedy otaczają Go kołem, jak w potrzasku, z pytaniem, które brzmi jak ostatnie: dokąd będziesz trzymał nas w zawieszeniu? Jeśli jesteś Mesjaszem, powiedz wprost. Odpowiedź jest dwustopniowa i za każdym stopniem rośnie stawka. Najpierw: powiedziałem — dziełami; nie wierzycie, bo nie jesteście z moich owiec — i wraca cała mowa pasterska, doprowadzona teraz do obietnicy, od której nie ma większej: nikt nie wyrwie ich z ręki mojej; nikt nie może wyrwać z ręki Ojca. Dwie ręce strzegące tych samych owiec domagają się zdania, które je połączy — i ono pada: ja i Ojciec jedno jesteśmy. Kamienie, które poszły w ruch po „zanim Abraham stał się\" (8,59), idą w ruch po raz drugi; zarzut zostaje wypowiedziany z prawniczą precyzją: bluźnierstwo — będąc człowiekiem, czynisz siebie Bogiem. Obrona Jezusa jest rabiniczna w formie (Ps 82: bogami jesteście) i wywrotowa w treści: nie cofa roszczenia ani o krok — Uświęcony i Posłany mówi o sobie mniej, nie więcej, niż jest. Perykopa — i cała publiczna działalność w Jerozolimie — kończy się wyjściem z ręki prześladowców i powrotem za Jordan, tam gdzie wszystko się zaczęło: do miejsca chrztu Jana, gdzie wielu uwierzyło.",
+   "struktura": "Perykopa jest zbudowana jak drugi akt procesu rozpoczętego w rozdziale 5, z Chanuką jako ironiczną scenografią. Ekspozycja (w. 22-24): czas (Poświęcenie, zima), miejsce (portyk Salomona) i osaczenie — ἐκύκλωσαν, otoczyli kołem; żądanie mesjańskiej parezji brzmi jak ultimatum. Część pierwsza (w. 25-30): odpowiedź pasterska — dzieła świadczą, ale wiara wymaga przynależności do owiec; owce moje słuchają, ja znam, one idą, ja daję życie wieczne — pięć czasowników wzajemności; potem podwójna gwarancja ręki (mojej — Ojca) i zwieńczenie: ἐγὼ καὶ ὁ πατὴρ ἕν ἐσμεν, rodzaj nijaki ἕν (jedno, nie jeden) i liczba mnoga ἐσμεν (jesteśmy, nie jestem) w jednym zdaniu bez orzecznika — zdanie, wokół którego obróci się cały spór trynitarny IV wieku. Część druga (w. 31-39): kamienie i rozprawa — Jezus pyta o dzieło, oskarżyciele odpowiadają o osobę (nie za dzieło, lecz za bluźnierstwo); obrona z Ps 82,6 w formie qal wachomer: jeśli sędziów, do których skierowano słowo, Pismo nazywa bogami — a Pismo nie może być rozwiązane — to czy bluźni Ten, którego Ojciec UŚWIĘCIŁ i POSŁAŁ, mówiąc: jestem Synem Bożym? Zakończenie argumentu przenosi ciężar z tytułów na dzieła (nie wierzcie MI — wierzcie DZIEŁOM) i podnosi formułę jedności do wzajemnego przebywania: we mnie Ojciec, ja w Ojcu. Próba pojmania kończy się Janowym paradoksem: wyszedł z ich ręki — z ręki, która chciała wyrwać, nie wychodzi nikt wbrew niej samej. Epilog (w. 40-42): geografia zatacza koło — za Jordan, do miejsca Jana; retrospektywne świadectwo (Jan znaku nie uczynił, ale wszystko, co powiedział, było prawdziwe) i cicha żniwna koda: wielu tam uwierzyło. To ostatnie zdanie publicznej działalności przed Betanią — Ewangelia bierze oddech przed wskrzeszeniem Łazarza.",
    "blocks": [
     {
      "label": "w. 22–24",
@@ -408,17 +416,17 @@
       [
        "ἐγένετο τότε τὰ ἐγκαίνια … χειμὼν ἦν",
        "Chanuka, zima",
-       "Dwa krótkie zdania ustawiają całą scenę. Chanuka — jedyna wzmianka w Biblii greckiej — jest świętem pamięci o profanacji odwróconej: Antioch IV postawił w świątyni ołtarz Zeusa (167 przed Chr.), Juda Machabeusz po trzech latach walk oczyścił przybytek i ustanowił osiem dni odnowienia (1 Mch 4,36-59). Święto zadaje więc pytanie o to, co naprawdę święte i kto ma prawo konsekrować — pytanie, na które mowa Jezusa odpowie w wersecie 36 słowem ἡγίασεν: prawdziwe poświęcenie dokonało się nie na ołtarzu, lecz w Osobie. „Była zima\" jest u Jana zawsze czymś więcej niż meteorologią: jak „była noc\" przy wyjściu Judasza (13,30), tak zimowy chłód współgra z temperaturą sceny — osaczeniem, ultimatum, kamieniami czekającymi pod ręką."
+       "Dwa krótkie zdania ustawiają całą scenę. Chanuka — w NT wspomniana tylko tutaj, choć samo słowo ἐγκαίνια zna już LXX (poświęcenie świątyni: 2 Ezd 6,16-17; Ne 12,27), a ἐγκαινισμός opisuje poświęcenie ołtarza Machabeuszów (1 Mch 4,59) — jest świętem pamięci o profanacji odwróconej: w grudniu 167 przed Chr. Antioch IV postawił na ołtarzu całopalenia „ohydę spustoszenia\", ołtarz Zeusa Olimpijskiego (1 Mch 1,54; 2 Mch 6,2), a Juda Machabeusz po trzech latach oczyścił przybytek i ustanowił osiem dni odnowienia (1 Mch 4,36-59). Święto zadaje więc pytanie o to, co naprawdę święte i kto ma prawo konsekrować — pytanie, na które mowa Jezusa odpowie w wersecie 36 słowem ἡγίασεν: prawdziwe poświęcenie dokonało się nie na ołtarzu, lecz w Osobie. „Była zima\" jest u Jana zawsze czymś więcej niż meteorologią: jak „była noc\" przy wyjściu Judasza (13,30), tak zimowy chłód współgra z temperaturą sceny — osaczeniem, ultimatum, kamieniami czekającymi pod ręką."
       ],
       [
        "ἐν τῇ στοᾷ τοῦ Σολομῶνος",
        "portyk Salomona",
-       "Wschodnia kolumnada dziedzińca pogan, jedyna osłonięta od zimowego wiatru wschodniego, nosiła imię Salomona — budowniczego pierwszej świątyni. Topografia jest teologicznie gęsta: Jezus przechadza się (περιεπάτει — czasownik perypatetyckiej swobody nauczyciela) w miejscu, które pamięta świątynię sprzed wszystkich profanacji, na dziedzińcu dostępnym poganom — tam, gdzie wkrótce będzie się gromadził pierwotny Kościół (Dz 3,11; 5,12). Ta sama stoa usłyszy mowę o jedności z Ojcem i pierwsze kazania apostolskie: Łukasz, pisząc Dzieje, wiedział, gdzie osadza początek Kościoła."
+       "Wschodnia kolumnada dziedzińca pogan — kryta, wsparta o wschodni mur dziedzińca, więc dająca osłonę od wiatru i deszczu — nosiła imię Salomona, budowniczego pierwszej świątyni. Topografia jest teologicznie gęsta: Jezus przechadza się (περιεπάτει — czasownik perypatetyckiej swobody nauczyciela) w miejscu, które pamięta świątynię sprzed wszystkich profanacji, na dziedzińcu dostępnym poganom — tam, gdzie wkrótce będzie się gromadził pierwotny Kościół (Dz 3,11; 5,12). Ta sama stoa usłyszy mowę o jedności z Ojcem i pierwsze kazania apostolskie: Łukasz, pisząc Dzieje, wiedział, gdzie osadza początek Kościoła."
       ],
       [
        "ἕως πότε τὴν ψυχὴν ἡμῶν αἴρεις;",
        "dokąd trzymasz nas w zawieszeniu?",
-       "Idiom αἴρειν τὴν ψυχήν znaczy dosłownie „podnosić duszę\" — trzymać w niepewności, w napięciu oczekiwania — ale Janowy czytelnik słyszy w czasowniku αἴρω drugie dno: to słowo o ZABIERANIU życia (10,18: nikt go nie zabiera). Pytający mimowolnie wyznają, że słowo Jezusa trzyma ich dusze w swojej mocy. Żądanie „powiedz nam otwarcie (παρρησίᾳ), czy jesteś Chrystusem\" jest pułapką o dwóch szczękach: potwierdzenie wprost dałoby podstawę oskarżenia politycznego (Mesjasz = pretendent królewski), zaprzeczenie — zakończyłoby sprawę. Jezus nie wybierze żadnej ze szczęk: odpowie, że odpowiedź już padła — w dziełach — a jej nieprzyjęcie nie jest brakiem informacji, lecz brakiem przynależności."
+       "Zwrot αἴρειν τὴν ψυχήν znaczy dosłownie „podnosić duszę\"; rozumie się go zwykle jako „trzymać w niepewności\", choć poza tym miejscem jest w grece słabo poświadczony i przekłady wahają się między „trzymasz nas w zawieszeniu\" a „zadręczasz nas\" — ale Janowy czytelnik słyszy w czasowniku αἴρω drugie dno: to słowo o ZABIERANIU życia (10,18: nikt go nie zabiera). Pytający mimowolnie wyznają, że słowo Jezusa trzyma ich dusze w swojej mocy. Żądanie „powiedz nam otwarcie (παρρησίᾳ), czy jesteś Chrystusem\" jest pułapką o dwóch szczękach: potwierdzenie wprost dałoby podstawę oskarżenia politycznego (Mesjasz = pretendent królewski), zaprzeczenie — zakończyłoby sprawę. Jezus nie wybierze żadnej ze szczęk: odpowie, że odpowiedź już padła — w dziełach — a jej nieprzyjęcie nie jest brakiem informacji, lecz brakiem przynależności."
       ]
      ],
      "greek": "Ἐγένετο τότε τὰ ἐγκαίνια ἐν τοῖς Ἱεροσολύμοις, χειμὼν ἦν, καὶ περιεπάτει ὁ Ἰησοῦς ἐν τῷ ἱερῷ ἐν τῇ στοᾷ τοῦ Σολομῶνος· ἐκύκλωσαν οὖν αὐτὸν οἱ Ἰουδαῖοι καὶ ἔλεγον αὐτῷ· ἕως πότε τὴν ψυχὴν ἡμῶν αἴρεις; εἰ σὺ εἶ ὁ χριστός, εἰπὲ ἡμῖν παρρησίᾳ·",
@@ -449,11 +457,11 @@
       [
        "ἐγὼ καὶ ὁ πατὴρ ἕν ἐσμεν",
        "jedno jesteśmy",
-       "Pięć słów, na których wspiera się Nicea. Gramatyka jest precyzyjna jak skalpel: ἕν — rodzaj nijaki, JEDNO (nie εἷς, jeden ktoś) — wyklucza zlanie Osób; ἐσμεν — JESTEŚMY, liczba mnoga — wyklucza modalizm, w którym Ojciec i Syn byliby maskami jednego podmiotu. Augustyn ujął to w formułę, którą Kościół powtarza od szesnastu wieków: „unum\" wyzwala cię od Ariusza, „sumus\" — od Sabeliusza. Kontekst nadaje jedności treść konkretną: to jedność MOCY strzegącej owiec (nikt nie wyrwie) — ale słuchacze rozumieją natychmiast, że jedność mocy Boga z kimkolwiek jest jednością istoty, i sięgają po kamienie. Cokolwiek współczesna egzegeza powie o „jedności działania\" — pierwsi słuchacze usłyszeli roszczenie do boskości i zareagowali według Kpł 24,16. Spór o sens zdania jest tak stary jak samo zdanie; różnica w tym, po której stronie kamieni się stoi."
+       "Sześć greckich słów, o które oprze się cały spór ariański. Gramatyka jest precyzyjna jak skalpel: ἕν — rodzaj nijaki, JEDNO (nie εἷς, jeden ktoś) — wyklucza zlanie Osób; ἐσμεν — JESTEŚMY, liczba mnoga — wyklucza modalizm, w którym Ojciec i Syn byliby maskami jednego podmiotu. Augustyn ujął to w formułę, którą Kościół powtarza od szesnastu wieków (Tract. in Io. 36): to, że powiedział „jedno\", wyzwala cię od Ariusza; to, że powiedział „jesteśmy\" — od Sabeliusza. Kontekst nadaje jedności treść konkretną: to jedność MOCY strzegącej owiec (nikt nie wyrwie) — ale słuchacze rozumieją natychmiast, że jedność mocy Boga z kimkolwiek jest jednością istoty, i sięgają po kamienie. Cokolwiek współczesna egzegeza powie o „jedności działania\" — pierwsi słuchacze usłyszeli roszczenie do boskości i zareagowali według Kpł 24,16. Spór o sens zdania jest tak stary jak samo zdanie; różnica w tym, po której stronie kamieni się stoi."
       ]
      ],
      "greek": "ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· εἶπον ὑμῖν καὶ οὐ πιστεύετε· τὰ ἔργα ἃ ἐγὼ ποιῶ ἐν τῷ ὀνόματι τοῦ πατρός μου ταῦτα μαρτυρεῖ περὶ ἐμοῦ· ἀλλὰ ὑμεῖς οὐ πιστεύετε, ὅτι οὐκ ἐστὲ ἐκ τῶν προβάτων τῶν ἐμῶν· τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούουσιν, κἀγὼ γινώσκω αὐτὰ καὶ ἀκολουθοῦσίν μοι, κἀγὼ δίδωμι αὐτοῖς ζωὴν αἰώνιον καὶ οὐ μὴ ἀπόλωνται εἰς τὸν αἰῶνα καὶ οὐχ ἁρπάσει τις αὐτὰ ἐκ τῆς χειρός μου· ὁ πατήρ μου ὃ δέδωκέν μοι πάντων μεῖζόν ἐστιν, καὶ οὐδεὶς δύναται ἁρπάζειν ἐκ τῆς χειρὸς τοῦ πατρός· ἐγὼ καὶ ὁ πατὴρ ἕν ἐσμεν·",
-     "transl": "Odpowiedział im Jezus: Powiedziałem wam, a nie wierzycie. Dzieła, które ja czynię w imieniu Ojca mego, one świadczą o mnie. Ale wy nie wierzycie, bo nie jesteście z owiec moich. Owce moje słuchają głosu mego i ja je znam, a one idą za mną. I ja daję im życie wieczne, i nie zginą na wieki, i nikt nie wyrwie ich z ręki mojej. Ojciec mój, [w] tym, co mi dał, jest większy od wszystkich i nikt nie może wyrywać z ręki Ojca. Ja i Ojciec jedno jesteśmy.",
+     "transl": "Odpowiedział im Jezus: Powiedziałem wam, a nie wierzycie. Dzieła, które ja czynię w imieniu Ojca mego, one świadczą o mnie. Ale wy nie wierzycie, bo nie jesteście z owiec moich. Owce moje słuchają głosu mego i ja je znam, a one idą za mną. I ja daję im życie wieczne, i nie zginą na wieki, i nikt nie wyrwie ich z ręki mojej. To, co Ojciec mój mi dał, jest większe od wszystkiego, i nikt nie może wyrywać z ręki Ojca. Ja i Ojciec jedno jesteśmy.",
      "cs": 10,
      "vs": 25,
      "ce": 10,
@@ -470,7 +478,7 @@
       [
        "οὐκ ἔστιν γεγραμμένον … ἐγὼ εἶπα· θεοί ἐστε;",
        "Psalm 82 i qal wachomer",
-       "Obrona Jezusa jest rabiniczna w najściślejszym sensie. Ps 82,6 („Ja rzekłem: bogami jesteście\") mówi o sędziach Izraela — śmiertelnikach, których Pismo tytułuje elohim, bo do nich skierowano słowo Boga. Argument biegnie a minori ad maius: jeśli WOLNO było nazwać bogami zwykłych adresatów słowa — a Pismo nie może być rozwiązane (οὐ δύναται λυθῆναι ἡ γραφή: zdanie wtrącone mimochodem, które stało się kartą przetargową całej teologii natchnienia) — to jakim prawem zarzucacie bluźnierstwo Temu, którego sam Ojciec UŚWIĘCIŁ i POSŁAŁ, gdy mówi o sobie mniej: jestem SYNEM Bożym? Argument bywa odczytywany jako uskok w dół (Jezus chowa się za słabszym tytułem) — ale jest odwrotnie: na święcie poświęcenia ołtarza słowo ἡγίασεν ogłasza, że prawdziwa konsekracja dotyczy Osoby posłanej na świat; a różnica między „do których skierowano słowo\" a Tym, który sam JEST Słowem (1,1), stanowi niewypowiedzianą, lecz oczywistą pointę."
+       "Obrona Jezusa jest rabiniczna w najściślejszym sensie. Ps 82,6 („Ja rzekłem: bogami jesteście\") w lekturze rabinicznej — tej, którą zakłada argument Jezusa — mówi o sędziach Izraela albo o Izraelu pod Synajem: o śmiertelnikach, których Pismo tytułuje elohim, bo do nich skierowano słowo Boga (sam psalm dzisiejsza egzegeza ST czyta raczej jako scenę rady Bożej). Argument biegnie a minori ad maius: jeśli WOLNO było nazwać bogami zwykłych adresatów słowa — a Pismo nie może być rozwiązane (οὐ δύναται λυθῆναι ἡ γραφή: zdanie wtrącone mimochodem, które stało się kartą przetargową całej teologii natchnienia) — to jakim prawem zarzucacie bluźnierstwo Temu, którego sam Ojciec UŚWIĘCIŁ i POSŁAŁ, gdy mówi o sobie mniej: jestem SYNEM Bożym? Argument bywa odczytywany jako uskok w dół (Jezus chowa się za słabszym tytułem) — ale jest odwrotnie: na święcie poświęcenia ołtarza słowo ἡγίασεν ogłasza, że prawdziwa konsekracja dotyczy Osoby posłanej na świat; a różnica między „do których skierowano słowo\" a Tym, który sam JEST Słowem (1,1), stanowi niewypowiedzianą, lecz oczywistą pointę."
       ],
       [
        "τοῖς ἔργοις πιστεύετε",
@@ -520,11 +528,11 @@
      "children": [
       [
        "Chanuka: święto światła po profanacji",
-       "W grudniu 167 r. przed Chr. Antioch IV Epifanes postawił na ołtarzu całopalenia „ohydę spustoszenia\" (1 Mch 1,54; Dn 11,31) — ołtarz Zeusa Olimpijskiego; dokładnie trzy lata później Juda Machabeusz oczyścił świątynię, zbudował nowy ołtarz i ustanowił ośmiodniowe święto odnowienia (enkainia, hebr. chanukka; 1 Mch 4,36-59). Za czasów Jezusa obchodzono je zapalaniem świateł (Józef Flawiusz zwie je „Świętem Świateł\"), z Hallelem i radością wzorowaną na Sukkot. Teologiczne pytanie święta — kto i co może konsekrować Bogu? — jest dokładnie pytaniem, na które odpowiada w. 36: Ojciec uświęcił (ἡγίασεν) i posłał Syna; prawdziwe enkainia to nie rededykacja budynku, lecz konsekracja Osoby. Jan, który już w 2,19-21 przeniósł świątynię na ciało Jezusa, dopisuje tu drugi akt tej samej teologii."
+       "W grudniu 167 r. przed Chr. Antioch IV Epifanes postawił na ołtarzu całopalenia „ohydę spustoszenia\" (1 Mch 1,54; Dn 11,31) — ołtarz Zeusa Olimpijskiego; dokładnie trzy lata później Juda Machabeusz oczyścił świątynię, zbudował nowy ołtarz i ustanowił ośmiodniowe święto odnowienia (enkainia, hebr. chanukka; 1 Mch 4,36-59). Za czasów Jezusa obchodzono je zapalaniem świateł (Józef Flawiusz zwie je „Świętem Świateł\", Ant. XII 325), z Hallelem i radością wzorowaną na Sukkot. Teologiczne pytanie święta — kto i co może konsekrować Bogu? — jest dokładnie pytaniem, na które odpowiada w. 36: Ojciec uświęcił (ἡγίασεν) i posłał Syna; prawdziwe enkainia to nie rededykacja budynku, lecz konsekracja Osoby. Jan, który już w 2,19-21 przeniósł świątynię na ciało Jezusa, dopisuje tu drugi akt tej samej teologii."
       ],
       [
        "Portyk Salomona: zima, poganie i przyszły Kościół",
-       "Wschodnia kolumnada zewnętrznego dziedzińca — według tradycji jedyna pozostałość budowli Salomonowej (Józef Flawiusz, Ant. XX 221) — osłaniała od zimnego wiatru znad Pustyni Judzkiej, stąd zimą wybierano ją na nauczanie i dysputy. Leżała na dziedzińcu pogan: mowa o jedności z Ojcem pada w części świątyni dostępnej wszystkim narodom, o krok od napisów grożących poganom śmiercią za wejście dalej. Dzieje Apostolskie umieszczą w tej samej stoi pierwsze zgromadzenia Kościoła jerozolimskiego (Dz 3,11; 5,12): miejsce, w którym padło ἕν ἐσμεν, stało się pierwszą przestrzenią, gdzie wyznawano tę jedność publicznie."
+       "Wschodnia kolumnada zewnętrznego dziedzińca — którą Józef Flawiusz przypisuje jeszcze budowli Salomona (Ant. XX 220-221) — była kryta i wsparta o mur wschodni, więc dawała osłonę przed wiatrem i deszczem; zimą naturalnie wybierano ją na nauczanie i dysputy. Leżała na dziedzińcu pogan: mowa o jedności z Ojcem pada w części świątyni dostępnej wszystkim narodom, o krok od napisów grożących poganom śmiercią za wejście dalej. Dzieje Apostolskie umieszczą w tej samej stoi pierwsze zgromadzenia Kościoła jerozolimskiego (Dz 3,11; 5,12): miejsce, w którym padło ἕν ἐσμεν, stało się pierwszą przestrzenią, gdzie wyznawano tę jedność publicznie."
       ],
       [
        "Bluźnierstwo i kamienie: rama prawna sceny",
@@ -532,7 +540,7 @@
       ],
       [
        "Ps 82 w rękach rabiego: argument, który wiąże",
-       "Odpowiedź z w. 34-36 jest wzorcowym qal wachomer (a minori ad maius) i zarazem drażniącą zagadką: kogo Ps 82,6 nazywa bogami? Tradycja rabiniczna odnosiła werset do sędziów (elohim jako urząd sądzenia w imieniu Boga; por. Wj 21,6; 22,7-8) albo do Izraela na Synaju, który przyjmując Torę stał się „jak bogowie\" — nieśmiertelny aż do grzechu cielca. W obu lekturach mechanizm argumentu działa tak samo: skoro Pismo bez bluźnierstwa tytułuje elohim ludzi BĘDĄCYCH ADRESATAMI słowa, to Ten, który jest od adresatów nieskończenie więcej — uświęcony i posłany, sam będący Słowem — nie bluźni, mówiąc „Syn Boży\". Argument ma jeszcze jedno ostrze, często przeoczane: „w Prawie WASZYM\" nie dystansuje Jezusa od Pisma (za chwilę powie, że nie może być rozwiązane), lecz przybija oskarżycieli do ich własnego kanonu: skazując Go, musieliby rozwiązać własne Pismo."
+       "Odpowiedź z w. 34-36 jest wzorcowym qal wachomer (a minori ad maius) i zarazem drażniącą zagadką: kogo Ps 82,6 nazywa bogami? Dzisiejsza egzegeza Starego Testamentu czyta psalm najczęściej jako scenę rady Bożej, w której elohim to istoty niebieskie; lektura „ludzka\", którą zakłada argument w Ewangelii, jest lekturą żydowską czasów Jezusa i tradycji rabinicznej: werset odnoszono do sędziów (elohim jako urząd sądzenia w imieniu Boga; por. Wj 21,6; 22,7-8) albo do Izraela na Synaju, który przyjmując Torę stał się „jak bogowie\". W obu lekturach mechanizm argumentu działa tak samo: skoro Pismo bez bluźnierstwa tytułuje elohim ludzi BĘDĄCYCH ADRESATAMI słowa, to Ten, który jest od adresatów nieskończenie więcej — uświęcony i posłany, sam będący Słowem — nie bluźni, mówiąc „Syn Boży\". Argument ma jeszcze jedno ostrze, często przeoczane: „w Prawie WASZYM\" nie dystansuje Jezusa od Pisma (za chwilę powie, że nie może być rozwiązane), lecz przybija oskarżycieli do ich własnego kanonu: skazując Go, musieliby rozwiązać własne Pismo."
       ]
      ]
     },
@@ -563,13 +571,13 @@
      "type": "autor_ludzki",
      "title": "Autor ludzki: kim jest i co chce przekazać",
      "children": [],
-     "body": "Autor domyka tą perykopą wielką jerozolimską sekcję Ewangelii (rozdziały 5-10) i czyni to z wyczuciem kompozytora: wszystkie wątki procesu wracają po raz ostatni w stężeniu — dzieła jako świadectwo (5,36), owce i głos (10,3-5.14), zarzut czynienia się Bogiem (5,18), kamienie (8,59), godzina jeszcze nie nadeszła (7,30) — a potem scena pustoszeje i akcja wraca tam, skąd wyszła: za Jordan, do miejsca Jana. Ta klamra geograficzna jest deklaracją literacką: publiczny spór Jezusa z Jerozolimą jest zamknięty; wszystko zostało powiedziane i pokazane; następny znak (Łazarz) nie będzie już argumentem w sporze, lecz detonatorem wyroku. Autor prowadzi też swoją społeczność: wybór Chanuki — święta pamięci o przemocy religijnej i o świątyni odzyskanej — mówi czytelnikom po Jawne, że prawdziwa świątynia i prawdziwa konsekracja są w Chrystusie, więc utrata dostępu do świątyni kamiennej (zburzonej zresztą w 70 r.) niczego im nie odbiera. Wreszcie epitafium Jana Chrzciciela (znaku nie uczynił żadnego, ale wszystko, co powiedział, było prawdziwe) jest autoportretem ewangelisty i jego ideałem świadka: wartość świadectwa mierzy się prawdą, nie mocą — zdanie-motto dla wspólnoty, która cudów nie czyni, a świadczyć musi."
+     "body": "Autor domyka tą perykopą wielką jerozolimską sekcję Ewangelii (rozdziały 5-10) i czyni to z wyczuciem kompozytora: wszystkie wątki procesu wracają po raz ostatni w stężeniu — dzieła jako świadectwo (5,36), owce i głos (10,3-5.14), zarzut czynienia się Bogiem (5,18), kamienie (8,59), godzina jeszcze nie nadeszła (7,30) — a potem scena pustoszeje i akcja wraca tam, skąd wyszła: za Jordan, do miejsca Jana. Ta klamra geograficzna jest deklaracją literacką: publiczny spór Jezusa z Jerozolimą jest zamknięty; wszystko zostało powiedziane i pokazane; następny znak (Łazarz) nie będzie już argumentem w sporze, lecz detonatorem wyroku. Autor prowadzi też swoją społeczność: wybór Chanuki — święta pamięci o przemocy religijnej i o świątyni odzyskanej — mówi czytelnikom z czasu po roku 70, gdy drogi Kościoła i synagogi już się rozchodziły, że prawdziwa świątynia i prawdziwa konsekracja są w Chrystusie, więc utrata dostępu do świątyni kamiennej (zburzonej zresztą w 70 r.) niczego im nie odbiera. Wreszcie epitafium Jana Chrzciciela (znaku nie uczynił żadnego, ale wszystko, co powiedział, było prawdziwe) jest autoportretem ewangelisty i jego ideałem świadka: wartość świadectwa mierzy się prawdą, nie mocą — zdanie-motto dla wspólnoty, która cudów nie czyni, a świadczyć musi."
     },
     {
      "type": "autor_bozy",
      "title": "Autor Boży: co Duch Święty chce przekazać",
      "children": [],
-     "body": "Duch Święty przekazuje w tej perykopie trzy prawdy, na których stoi chrześcijańska dogmatyka, i jedną, na której stoi chrześcijańska ufność. Pierwsza: jedność Ojca i Syna nie jest metaforą — ἕν ἐσμεν wypowiada jedność istoty, którą Nicea nazwie homoousios; kto czyta to zdanie słabiej, musi wyjaśnić, czemu słuchacze sięgnęli po kamienie i czemu Jezus, broniąc się, roszczenia nie odwołał. Druga: Pismo nie może być rozwiązane — natchnienie i nienaruszalność słowa Bożego mają w 10,35 swoją najkrótszą kartę, wypowiedzianą przez samo Słowo. Trzecia: prawdziwa konsekracja jest chrystologiczna — na święcie poświęconego ołtarza objawia się Ten, którego poświęcił Ojciec; cała sakramentalna świętość Kościoła (ołtarze, oleje, ręce, wody) jest odtąd uczestnictwem w tym jednym namaszczeniu. A prawda ufności brzmi: nikt i nic nie wyrwie owiec z ręki Pasterza, bo ta ręka jest ręką Boga. Duch nie mówi tego zdania teologom do analizy, lecz owcom do życia: przez wszystkie prześladowania, ciemności i zimy Kościoła — a scena dzieje się zimą, wśród kamieni — wierzący ma prawo powtarzać: jestem trzymany; nie utrzymuję się sam. Ostatni obraz perykopy dopowiada, gdzie ta ufność dojrzewa: za Jordanem, w miejscu pierwszego świadectwa, gdzie wielu uwierzyło — wiara wraca do źródeł i tam się umacnia."
+     "body": "Duch Święty przekazuje w tej perykopie trzy prawdy, na których stoi chrześcijańska dogmatyka, i jedną, na której stoi chrześcijańska ufność. Pierwsza: jedność Ojca i Syna nie jest metaforą — bezpośrednim kontekstem ἕν ἐσμεν jest jedność mocy strzegącej owiec, ale Kościół odczytał w tym zdaniu jedność istoty, którą Nicea nazwie homoousios; kto czyta to zdanie słabiej, musi wyjaśnić, czemu słuchacze sięgnęli po kamienie i czemu Jezus, broniąc się, roszczenia nie odwołał. Druga: Pismo nie może być rozwiązane — natchnienie i nienaruszalność słowa Bożego mają w 10,35 swoją najkrótszą kartę, wypowiedzianą przez samo Słowo. Trzecia: prawdziwa konsekracja jest chrystologiczna — na święcie poświęconego ołtarza objawia się Ten, którego poświęcił Ojciec; cała sakramentalna świętość Kościoła (ołtarze, oleje, ręce, wody) jest odtąd uczestnictwem w tym jednym namaszczeniu. A prawda ufności brzmi: nikt i nic nie wyrwie owiec z ręki Pasterza, bo ta ręka jest ręką Boga. Duch nie mówi tego zdania teologom do analizy, lecz owcom do życia: przez wszystkie prześladowania, ciemności i zimy Kościoła — a scena dzieje się zimą, wśród kamieni — wierzący ma prawo powtarzać: jestem trzymany; nie utrzymuję się sam. Ostatni obraz perykopy dopowiada, gdzie ta ufność dojrzewa: za Jordanem, w miejscu pierwszego świadectwa, gdzie wielu uwierzyło — wiara wraca do źródeł i tam się umacnia."
     },
     {
      "type": "odniesienia",
@@ -586,7 +594,7 @@
       ],
       [
        "Ps 82,6 → w. 34 (cytat wprost)",
-       "Ja rzekłem: bogami jesteście — jedyny w tej perykopie cytat formalny; sędziowie (lub Izrael pod Synajem) nazwani elohim, bo do nich skierowano słowo Boga; dźwignia argumentu a minori ad maius z w. 35-36."
+       "Ja rzekłem: bogami jesteście — jedyny w tej perykopie cytat formalny; w lekturze żydowskiej czasów Jezusa sędziowie (lub Izrael pod Synajem) nazwani elohim, bo do nich skierowano słowo Boga; dźwignia argumentu a minori ad maius z w. 35-36."
       ],
       [
        "Kpł 24,15-16 → w. 31-33",
@@ -625,11 +633,11 @@
      "children": [
       [
        "Liturgia",
-       "J 10,27-30 (owce moje słuchają głosu mego) jest Ewangelią 4. Niedzieli Wielkanocnej roku C — trzecim skrzydłem tryptyku Niedzieli Dobrego Pasterza; fragment 10,22-30 czyta się we wtorek 4. tygodnia wielkanocnego, a 10,31-42 — w piątek 5. tygodnia Wielkiego Postu, tuż przed Niedzielą Palmową, gdzie kamienie i zarzut bluźnierstwa brzmią już jak preludium Męki. Werset 10,30 wszedł do liturgii godzin jako antyfona okresu wielkanocnego, a „nikt nie wyrwie ich z ręki mojej\" — do liturgii pogrzebowej i do modlitw za prześladowanych: Kościół powtarza to zdanie wszędzie tam, gdzie ufność musi być mocniejsza od okoliczności. W tradycji bizantyjskiej perykopa pasterska z J 10 towarzyszy świętom pasterzy Kościoła (hierarchów), wiążąc urząd biskupi z kryteriami mowy pasterskiej."
+       "J 10,27-30 (owce moje słuchają głosu mego) jest Ewangelią 4. Niedzieli Wielkanocnej roku C — trzecim skrzydłem tryptyku Niedzieli Dobrego Pasterza; fragment 10,22-30 czyta się we wtorek 4. tygodnia wielkanocnego, a 10,31-42 — w piątek 5. tygodnia Wielkiego Postu, tuż przed Niedzielą Palmową, gdzie kamienie i zarzut bluźnierstwa brzmią już jak preludium Męki. Poza lekcjonarzem zdanie „nikt nie wyrwie ich z ręki mojej\" żyje przede wszystkim w modlitwie ufności i w pociesze przy umierających — nie jako perykopa obrzędu pogrzebu (lekcjonarz pogrzebowy sięga po J 6, 11, 14 i 17), lecz jako formuła powtarzana wszędzie tam, gdzie ufność musi być mocniejsza od okoliczności."
       ],
       [
        "Recepcja teologiczna",
-       "Żaden werset czwartej Ewangelii nie pracował w historii dogmatu ciężej niż 10,30. Przeciw Ariuszowi cytowano go na Soborze Nicejskim jako dowód współistotności; Sabeliusz i modaliści rozbijali się o „jesteśmy\"; Augustynowa formuła (unum przeciw Ariuszowi, sumus przeciw Sabeliuszowi — Tract. in Io. 36-37 i In Io. 48) stała się podręcznikowym skrótem ortodoksji. Wersety 34-36 zbudowały z kolei teologię Pisma: „non potest solvi Scriptura\" cytują Ojcowie, scholastyka i Providentissimus Deus po Dei Verbum jako biblijną kartę nienaruszalności natchnionego słowa. Ps 82,6 w ustach Jezusa stał się też — od Ireneusza przez Atanazego po Palamasa — biblijnym zwornikiem teologii przebóstwienia: „bogami jesteście\" czytano jako obietnicę udziału w naturze Bożej (2 P 1,4), możliwego dlatego, że Ten, który jest Bogiem z natury, stał się człowiekiem. A „nikt nie wyrwie ich z ręki mojej\" przeszło do duchowości jako karta ufności: od starożytnych aktów męczenników po współczesną teologię nadziei zdanie pracuje wszędzie tam, gdzie wiara musi się oprzeć nie na sile owiec, lecz na uścigu dłoni Pasterza."
+       "Żaden werset czwartej Ewangelii nie pracował w historii dogmatu ciężej niż 10,30. Akt Soboru Nicejskiego nie mamy, więc o cytowaniu go na samym soborze nic pewnego powiedzieć nie można — ale w sporze poniceajskim 10,30 stało się jednym z głównych tekstów dowodowych obrońców współistotności (Atanazy, Or. c. Arianos III; Hilary, De Trin. VII-VIII); Sabeliusz i modaliści rozbijali się o „jesteśmy\"; Augustynowa formuła (unum przeciw Ariuszowi, sumus przeciw Sabeliuszowi — Tract. in Io. 36; wykład samej perykopy: Tract. in Io. 48) stała się podręcznikowym skrótem ortodoksji. Wersety 34-36 zbudowały z kolei teologię Pisma: „non potest solvi Scriptura\" cytują Ojcowie i scholastyka, a nowożytne nauczanie o natchnieniu — od Providentissimus Deus po Dei Verbum 11 — idzie tą samą linią, choć dziś czyta ją razem z pytaniem o rodzaje literackie i prawdę zbawczą (Dei Verbum 12). Ps 82,6 w ustach Jezusa stał się też — od Ireneusza przez Atanazego po Palamasa — biblijnym zwornikiem teologii przebóstwienia: „bogami jesteście\" czytano jako obietnicę udziału w naturze Bożej (2 P 1,4), możliwego dlatego, że Ten, który jest Bogiem z natury, stał się człowiekiem. A „nikt nie wyrwie ich z ręki mojej\" przeszło do duchowości jako karta ufności: od starożytnych aktów męczenników po współczesną teologię nadziei zdanie pracuje wszędzie tam, gdzie wiara musi się oprzeć nie na sile owiec, lecz na uścigu dłoni Pasterza."
       ]
      ]
     },
@@ -637,7 +645,7 @@
      "type": "patrystyka",
      "title": "Komentarze Ojców Kościoła (catena patrum)",
      "children": [],
-     "body": "Katena tej perykopy jest ukształtowana przez spory trynitarne: 10,30 i 10,38 należały do najczęściej cytowanych wersetów IV wieku. Augustyn daje formułę przeciw obu herezjom naraz; Atanazy i Hilary budują na jedności mocy argument o jedności istoty; Chryzostom pilnuje równowagi (jedność bez zlania); Cyryl rozwija wzajemną immanencję; Beda zbiera całość dla średniowiecza z akcentem na epitafium Jana Chrzciciela."
+     "body": "Katena tej perykopy jest ukształtowana przez spory trynitarne: 10,30 i 10,38 należały do najczęściej cytowanych wersetów IV wieku. Augustyn daje formułę przeciw obu herezjom naraz i jemu też oddany jest epilog zajordański (Tract. in Io. 48 obejmuje całą perykopę); Atanazy i Hilary budują na jedności mocy argument o jedności istoty; Chryzostom pilnuje równowagi (jedność bez zlania); Cyryl — o ile pozwalają na to zachowane fragmenty ks. VII — rozwija wzajemną immanencję."
     },
     {
      "type": "zakonczenie",
@@ -649,7 +657,7 @@
      "type": "nota",
      "title": "Nota warsztatowa",
      "children": [],
-     "body": "Tekst grecki wszystkich 21 wersetów złożono programowo ze źródła prawdy (db.sqlite, words, księga 500), ze zdjęciem znaków aparatu, i zweryfikowano co do znaku. Trzy noty tekstualne (w. 26, 29, 38) oparto na aparacie NA28 z tabeli commentaries; crux wersetu 29 omówiono szerzej, bo NA28 idzie tu za samotnym niemal B* i tekst przyjęty jest realnie niepewny. Przekład roboczy własny, dosłowny; w w. 29 oddano lekcję NA28 (ὃ … μεῖζον: „[w] tym, co mi dał, jest większy\") z zaznaczeniem składniowej chropowatości oryginału. Idiom z w. 24 (αἴρεις τὴν ψυχὴν ἡμῶν) przełożono „trzymasz duszę naszą w zawieszeniu\" z odnotowaniem gry z 10,18. Podział na cztery bloki idzie za dramaturgią sceny (ekspozycja — mowa pasterska — rozprawa — epilog zajordański). Dodano księgę 1 Mch (tło Chanuki). Katena sześciu głosów z przewagą tradycji antyariańskiej; locusy Atanazego (Or. c. Arianos III) i Hilarego (De Trin. VII) wg numeracji standardowej, do potwierdzenia w rewizji."
+     "body": "Tekst grecki wszystkich 21 wersetów złożono programowo ze źródła prawdy (db.sqlite, words, księga 500), ze zdjęciem znaków aparatu, i zweryfikowano co do znaku. Trzy noty tekstualne (w. 26, 29, 38) oparto na aparacie NA28 z tabeli commentaries; crux wersetu 29 omówiono szerzej, bo NA28 idzie tu za samotnym niemal B* i tekst przyjęty jest realnie niepewny. Przekład roboczy własny, dosłowny; w w. 29 oddano lekcję NA28 z jej nijakim ὃ … μεῖζον („to, co Ojciec mój mi dał, jest większe od wszystkiego\"), zgodnie z Wulgatą tej kolumny (quod dedit mihi maius omnibus est); wariant męski (ὃς … μείζων: „Ojciec, który mi dał, jest większy\") odnotowuje nota tekstualna. Zwrot z w. 24 (αἴρεις τὴν ψυχὴν ἡμῶν) przełożono „trzymasz duszę naszą w zawieszeniu\", odnotowując zarówno słabe poświadczenie idiomu, jak i grę z 10,18. Podział na cztery bloki idzie za dramaturgią sceny (ekspozycja — mowa pasterska — rozprawa — epilog zajordański). Dodano księgę 1 Mch (tło Chanuki). Katena sześciu głosów z przewagą tradycji antyariańskiej: Chryzostom (Hom. in Io. 61 obejmuje całe J 10,22-42), dwa głosy Augustyna z Tract. in Io. 48 (formuła anty-ariańska i anty-sabeliańska pochodzi z Tract. 36), Atanazy (Or. c. Arianos III, 3-4), Hilary (De Trin. VII, 22-24 wg podziału standardowego), Cyryl — z zastrzeżeniem, że ks. VII jego komentarza zachowała się tylko we fragmentach katen. Wpis Bedy Czcigodnego usunięto: komentarz do Jana z PL 92 nie należy do dzieł autentycznych Bedy (jak ustalono już przy adultera.json i niewidomy.json); jego miejsce zajął Augustyn do w. 40-42. Wszystkie locusy patrystyczne wymagają jeszcze kontroli przy wydaniach źródłowych (ŹMT, PSP, Migne)."
     }
    ],
    "refs": [
@@ -1004,13 +1012,13 @@
      "w. 25–30",
      "św. Augustyn",
      "In Iohannis Evangelium tractatus",
-     "Tract. in Io. 48,4-6",
-     "Nad „ja i Ojciec jedno jesteśmy\" Augustyn wypowiada formułę, która stała się mnemotechniką ortodoksji: audi unum, et liberaris ab Ario; audi sumus, et liberaris a Sabellio — usłysz JEDNO, a uwolnisz się od Ariusza; usłysz JESTEŚMY, a uwolnisz się od Sabeliusza. Jedno — więc nie dwie natury, nie większy i mniejszy; jesteśmy — więc nie jedna osoba pod dwiema maskami. A kontekst dłoni, z której nikt nie wyrywa, dowodzi, że jedność jest jednością mocy, moc zaś idzie za istotą: gdyby ręka Syna była słabsza, owce miałyby dwie opieki nierównej pewności — a mają jedną. Biskup Hippony dodaje pociechę: skoro trzyma nas taka dłoń, nasza słabość nie jest miarą naszego bezpieczeństwa."
+     "Tract. in Io. 48",
+     "Tractatus 48 jest Augustynowym wykładem całej tej perykopy (J 10,22-42). Nad „ja i Ojciec jedno jesteśmy\" powraca u niego formuła, którą wypowiedział w Tract. in Io. 36: quod ait „unum\", liberat te ab Ario; quod ait „sumus\", liberat te a Sabellio — że powiedział JEDNO, uwalnia cię od Ariusza; że powiedział JESTEŚMY, uwalnia cię od Sabeliusza. Jedno — więc nie dwie natury, nie większy i mniejszy; jesteśmy — więc nie jedna osoba pod dwiema maskami. A kontekst dłoni, z której nikt nie wyrywa, dowodzi, że jedność jest jednością mocy, moc zaś idzie za istotą: gdyby ręka Syna była słabsza, owce miałyby dwie opieki nierównej pewności — a mają jedną. Biskup Hippony dodaje pociechę: skoro trzyma nas taka dłoń, nasza słabość nie jest miarą naszego bezpieczeństwa."
     ],
     [
      "w. 25–30",
      "św. Atanazy",
-     null,
+     "Orationes contra Arianos",
      "Or. contra Arianos III, 3-4",
      "Atanazy uczynił z 10,30 oś obrony Nicei: jedno są Ojciec i Syn nie zgodnością woli — bo zgodność mają z Bogiem i święci, a nikt o świętych nie mówi, że z ich ręki nikt nie wyrwie — lecz jednością bóstwa: Syn jest własnym Słowem i Obrazem istoty Ojca, całym w całym. Czytać „jedno\" moralnie znaczy uczynić ze zdania banał, którego nikt by nie kamienował; Żydzi zrozumieli lepiej niż Ariusz — dlatego sięgnęli po kamienie. A immanencja z w. 38 (ja w Ojcu, Ojciec we mnie) dopowiada sposób tej jedności: nie zlanie i nie sąsiedztwo, lecz wzajemne całkowite przebywanie, które później nazwano perychorezą."
     ],
@@ -1018,22 +1026,22 @@
      "w. 31–39",
      "św. Hilary z Poitiers",
      "De Trinitate",
-     "De Trin. VII, 23-25",
+     "De Trin. VII, 22-24",
      "Hilary rozbiera obronę z Ps 82 jak jurysta: Jezus nie cofa się do niższego tytułu, lecz przeprowadza dowód nie wprost. Jeśli Pismo — które rozwiązane być nie może — nazywa bogami ludzi jedynie z racji skierowanego do nich słowa, to zarzut bluźnierstwa upada a fortiori wobec Tego, którego Ojciec uświęcił i posłał; a kim jest Uświęcony, pokazują dzieła, których nikt inny nie czyni. Biskup Poitiers podkreśla misterną równowagę: Pan mówi „Syn Boży\" tam, gdzie oskarżyciele usłyszeli „Bogiem\" — nie by umniejszyć roszczenie, lecz by wskazać jego podstawę: synostwo z natury, nie z nadania; bo synem z łaski jest wielu, Synem współistotnym — Jeden."
     ],
     [
      "w. 31–39",
      "św. Cyryl Aleksandryjski",
      "Commentarii in Ioannem",
-     "In Io., ks. VII, ad 10,34-38",
-     "Cyryl zatrzymuje się nad „wierzcie dziełom\": Pan zniża się do słabości słuchaczy jak lekarz, który choremu na oczy podaje lekarstwo w ciemności — nie mogą znieść blasku tożsamości, niech więc zaczną od dzieł, bo dzieła doprowadzą ich za rękę do Osoby. Ale cel jest wyższy niż uznanie cudotwórcy: abyście POZNALI I POZNAWALI, że Ojciec we mnie, a ja w Ojcu — poznanie trwałe, rosnące, które jest już uczestnictwem. Aleksandryjczyk widzi tu też miarę dla teologii: o jedności Bożej mówić można tylko od wewnątrz wzajemnego przebywania Osób, nie z zewnątrz, z pozycji mierniczego; kto mierzy z zewnątrz, temu zostają kamienie."
+     "In Io., fragmenty ks. VII (katena)",
+     "Księgi VII i VIII komentarza Cyryla zaginęły i znamy je tylko z wypisów w katenach (stąd ostrożność co do brzmienia poszczególnych zdań), ale linia wykładu jest czytelna: nad „wierzcie dziełom\" Aleksandryjczyk widzi Pana zniżającego się do słabości słuchaczy — nie mogą znieść blasku tożsamości, niech więc zaczną od dzieł, bo dzieła doprowadzą ich za rękę do Osoby. Ale cel jest wyższy niż uznanie cudotwórcy: abyście POZNALI I POZNAWALI, że Ojciec we mnie, a ja w Ojcu — poznanie trwałe, rosnące, które jest już uczestnictwem. Aleksandryjczyk widzi tu też miarę dla teologii: o jedności Bożej mówić można tylko od wewnątrz wzajemnego przebywania Osób, nie z zewnątrz, z pozycji mierniczego; kto mierzy z zewnątrz, temu zostają kamienie."
     ],
     [
      "w. 40–42",
-     "św. Beda Czcigodny",
-     "In S. Ioannis Evangelium expositio",
-     "In Io. Ev. exp., ad cap. X",
-     "Beda czyta epilog zajordański jako lekcję o świadectwie i czasie. Pan wraca na miejsce, gdzie Jan najpierw chrzcił — bo łaska chętnie nawiedza miejsca pierwszej wierności — i tam wielu wierzy, wspominając słowa Chrzciciela. Oto pochwała świadka, jakiej nie otrzymał żaden cudotwórca: znaku nie uczynił żadnego, ale wszystko, co powiedział, było prawdziwe. Beda wyciąga z tego regułę dla Kościoła: nie każdemu dano czynić znaki, każdemu dano mówić prawdę o Chrystusie; a prawda powiedziana dziś owocuje nieraz po latach, gdy Pan sam przechodzi przez miejsca naszego dawnego świadectwa. Siej więc słowo prawdziwe i nie licz żniwa — żniwo przyjdzie z Tym, o którym świadczysz."
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 48",
+     "Nad epilogiem zajordańskim Augustyn zatrzymuje się przy zdaniu o Janie: znaku nie uczynił żadnego. Wylicza, czego Chrzciciel nie zrobił — nie wypędzał demonów, nie oddalał gorączki, nie otwierał oczu niewidomym, nie wskrzeszał umarłych, nie nasycił tysięcy chlebem, nie chodził po morzu, nie rozkazywał wiatrom i falom — a potem stawia drugą stronę rachunku: we wszystkim, co mówił, świadczył o Nim, i wszystko to było prawdą. Janowi przypadła rola lampy (por. 5,35): przy jej świetle idzie się ku dniowi, a nie ku niej samej. Stąd reguła dla świadka: nie miarą znaków mierzy się posługa, lecz prawdziwością tego, co się o Chrystusie powiedziało — i cierpliwością, z jaką czeka się na owoc, który przychodzi wtedy, gdy przychodzi Pan."
     ]
    ],
    "liturgy": [
@@ -1054,12 +1062,6 @@
      "Piątek 5. tygodnia Wielkiego Postu",
      "J 10,31-42",
      "Kamienie, zarzut bluźnierstwa i wyjście z ich ręki — czytane tuż przed Niedzielą Palmową jako preludium Męki: godzina jeszcze nie nadeszła, ale już widać jej kształt."
-    ],
-    [
-     "godzin",
-     "Okres wielkanocny — antyfony i czytania patrystyczne",
-     "J 10,30 i konteksty",
-     "„Ja i Ojciec jedno jesteśmy\" w antyfonach okresu wielkanocnego; komentarze Ojców do J 10 (Augustyn, Cyryl) w Godzinie czytań — trynitarna recepcja perykopy w modlitwie Kościoła."
     ]
    ],
    "textual": [
@@ -1067,21 +1069,21 @@
      26,
      "brak / + καθὼς εἶπον ὑμῖν",
      "wariant lekcji",
-     "NA28 kończy werset na τῶν ἐμῶν — za P66c P75 ℵ B K L W Θ 33 lat co. Tradycja bizantyjska (A D Ψ f1.13 M it sy) dodaje: καθὼς εἶπον ὑμῖν — „jak wam powiedziałem\".",
-     "Dodatek jest wtórnym pomostem redakcyjnym: kopistom brakowało odesłania do mowy pasterskiej sprzed święta, więc je dopisali. Krótsza lekcja ma lepszych świadków i tłumaczy powstanie dłuższej (nie odwrotnie). Ciekawostka recepcji: Wulgata klementyńska poszła za dodatkiem, stąd „sicut dixi vobis\" w starszych przekładach polskich."
+     "NA28 kończy werset na τῶν ἐμῶν — za P66c P75 ℵ B K L W Θ 33. 1241 oraz aur c vg sa ac bo(część). Dodatek καθὼς εἶπον ὑμῖν („jak wam powiedziałem\") niosą P66* (pierwsza ręka tego samego papirusu), A D Ψ f1.13 M it sy pbo i część bo.",
+     "Dodatek jest wtórnym pomostem redakcyjnym: kopistom brakowało odesłania do mowy pasterskiej sprzed święta, więc je dopisali — i stało się to wcześnie, skoro czyta go pierwsza ręka P66, poprawiona zaraz w tym samym kodeksie. Krótsza lekcja ma lepszych świadków i tłumaczy powstanie dłuższej (nie odwrotnie). Ciekawostka recepcji: Wulgata (a za nią Wujek) idzie za lekcją krótszą, natomiast dodatek wszedł do Textus Receptus — stąd „jako wam powiedziałem\" w Biblii Gdańskiej i przekładach od niej zależnych."
     ],
     [
      29,
      "ὁ πατήρ μου ὃ δέδωκέν μοι πάντων μεῖζόν ἐστιν — crux lekcji",
      "wariant lekcji",
-     "NA28 drukuje ὃ … μεῖζον (nijakie: „to, co mi dał Ojciec, jest większe od wszystkiego\") — za B* i częścią przekładów. Główne alternatywy: ὃς … μείζων (P66 f1.13 33 M: „Ojciec, KTÓRY mi dał, JEST WIĘKSZY od wszystkich\"), ὃς … μεῖζον (A Θ), ὃ … μείζων (ℵ D L W Ψ).",
+     "NA28 drukuje ὃ … μεῖζον (nijakie: „to, co mi dał Ojciec, jest większe od wszystkiego\") — za B*, przekładami łacińskimi (Wulgata: quod dedit mihi maius omnibus est) i bohairskim. Główne alternatywy: ὃς … μείζων (P66 f1.13 33 M: „Ojciec, KTÓRY mi dał, JEST WIĘKSZY od wszystkich\"), ὃς … μεῖζον (A Θ), ὃ … μείζων (ℵ D L W Ψ).",
      "Podręcznikowy crux: świadkowie rozkładają się na cztery kombinacje zaimka i przymiotnika, a tekst przyjęty opiera się niemal na samym Watykańskim. Lekcja nijaka jest najtrudniejsza składniowo (co dokładnie „jest większe\" — dar? owczarnia?) i dlatego najłatwiej tłumaczy pozostałe jako wygładzenia; lekcja męska daje sens prostszy i zgodny z 14,28 (Ojciec większy jest ode mnie). Teologicznie obie zbiegają się w tym samym: bezpieczeństwo owiec ma miarę Boga, nie okoliczności. Przekład roboczy oddaje lekcję NA28 z zachowaniem jej chropowatości."
     ],
     [
      38,
      "γνῶτε καὶ γινώσκητε / γνῶτε καὶ πιστεύσητε",
      "wariant lekcji",
-     "NA28: ἵνα γνῶτε καὶ γινώσκητε (abyście poznali i poznawali) — za P45 P66c P75 B L W Θ. Tradycja bizantyjska: γνῶτε καὶ πιστεύσητε (poznali i uwierzyli: A Ψ f13 M); D upraszcza całość.",
+     "NA28: ἵνα γνῶτε καὶ γινώσκητε (abyście poznali i poznawali) — za P45 P66 P75 B L (W) Θ 1. 33. 565 i przekładami koptyjskimi. Tradycja bizantyjska: γνῶτε καὶ πιστεύσητε (poznali i uwierzyli: A Ψ f13 M); ℵ (579. 1241) ma pośrednie γνῶτε καὶ πιστεύητε; D całą frazę opuszcza.",
      "Podwojenie tego samego czasownika w dwóch aspektach (aoryst + praesens) jest lectio difficilior — kopistom wydawało się redundantne, więc drugi człon zamieniali na „uwierzyli\". Tymczasem podwojenie niesie sens: poznanie inicjalne ma przejść w poznawanie trwałe — dokładnie Janowa gramatyka wiary jako drogi, nie aktu jednorazowego. Papirusy i najstarsze kodeksy zgodnie bronią lekcji trudniejszej."
     ]
    ],
