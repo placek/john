@@ -121,7 +121,7 @@
    "θύρα",
    "thyra",
    "rzeczownik",
-   "brama, drzwi — drugie ἐγώ εἰμι rozdziału (10,7.9): nie tylko pasterz wchodzi przez bramę — On sam JEST bramą, jedynym przejściem do zbawienia i pastwiska; w realiach palestyńskich pasterz sypiający w wejściu zagrody był dosłownie jej bramą"
+   "brama, drzwi — drugie ἐγώ εἰμι rozdziału (10,7.9): nie tylko pasterz wchodzi przez bramę — On sam JEST bramą, jedynym przejściem do zbawienia i pastwiska; nowożytne obserwacje pasterstwa palestyńskiego (nie źródła starożytne) opisują pasterza sypiającego w wejściu zagrody, który bywał dosłownie jej bramą"
   ],
   [
    "πρόβατον",
@@ -145,7 +145,7 @@
    "λύκος",
    "lykos",
    "rzeczownik",
-   "wilk — jedyny drapieżnik czwartej Ewangelii (10,12); porywa i rozprasza — czasowniki odwrotne do gromadzenia w jedno (11,52); tradycja widziała w nim i prześladowcę, i fałszywego nauczyciela"
+   "wilk — jedyny drapieżnik czwartej Ewangelii (10,12); porywa i rozprasza — czasowniki odwrotne do gromadzenia w jedno (11,52); tradycja patrystyczna widziała w nim diabła, prześladowcę i fałszywego nauczyciela"
   ],
   [
    "κλέπτης",
@@ -169,7 +169,7 @@
    "περισσός",
    "perissos",
    "przymiotnik",
-   "obfity, przekraczający miarę — ζωὴν περισσόν (10,10): życie nie tylko uratowane, lecz przelewające się; cel przyjścia Jezusa wypowiedziany jednym przysłówkiem nadmiaru"
+   "obfity, przekraczający miarę — ἵνα ζωὴν ἔχωσιν καὶ περισσὸν ἔχωσιν (10,10: aby życie miały i obficie miały): życie nie tylko uratowane, lecz przelewające się; περισσόν stoi tu jako przymiotnik w funkcji przysłówkowej — cel przyjścia Jezusa wypowiedziany jednym słowem nadmiaru"
   ]
  ],
  "semitic": [
@@ -201,8 +201,18 @@
  "occurrences": [
   [
    "ποιμήν",
+   2,
+   "ποιμήν"
+  ],
+  [
+   "ποιμήν",
    11,
    "ποιμὴν ×2"
+  ],
+  [
+   "ποιμήν",
+   12,
+   "ποιμήν"
   ],
   [
    "ποιμήν",
@@ -321,6 +331,11 @@
   ],
   [
    "φωνή",
+   5,
+   "φωνήν"
+  ],
+  [
+   "φωνή",
    16,
    "φωνῆς"
   ],
@@ -366,13 +381,28 @@
   ],
   [
    "ἐγώ εἰμι",
+   9,
+   "ἐγώ εἰμι ἡ θύρα"
+  ],
+  [
+   "ἐγώ εἰμι",
    11,
+   "ἐγώ εἰμι ὁ ποιμὴν ὁ καλός"
+  ],
+  [
+   "ἐγώ εἰμι",
+   14,
    "ἐγώ εἰμι ὁ ποιμὴν ὁ καλός"
   ],
   [
    "ψυχή",
    11,
    "ψυχὴν"
+  ],
+  [
+   "ψυχή",
+   15,
+   "ψυχήν"
   ],
   [
    "ψυχή",
@@ -399,7 +429,7 @@
     "status": "ukonczona",
     "position": 24
    },
-   "intro": "Mowa o pasterzu nie zaczyna nowej sceny — jest dalszym ciągiem tamtej nocy po uzdrowieniu niewidomego: Jezus wciąż mówi do faryzeuszów, którzy właśnie wyrzucili z synagogi Jego owcę. Zaczyna od zagadki o owczarni, bramie i głosie, której słuchacze nie pojmują, więc rozkłada ją na dwa wielkie JA JESTEM: brama — jedyne wejście, przez które i pasterz wchodzi, i owce wychodzą na pastwisko; oraz pasterz dobry — ten, którego od najemnika odróżnia jedno: życie położone za owce. W środku mowy horyzont nagle się rozszerza (mam także inne owce, które nie są z tej owczarni), a pod koniec pada zdanie teologicznie najgęstsze w całym rozdziale: nikt mi życia nie zabiera — ja kładę je od siebie i mam władzę znów je wziąć. Krzyż, który nadciąga, zostaje z góry wypowiedziany jako akt suwerennej miłości, nie jako klęska. Mowa kończy się — jak każde słowo Jezusa w tych rozdziałach — rozłamem: demona ma; nie, opętany tak nie mówi. Czy demon może otwierać oczy niewidomym?",
+   "intro": "Mowa o pasterzu nie zaczyna nowej sceny — jest dalszym ciągiem tamtej sceny po uzdrowieniu niewidomego: Jezus wciąż mówi do faryzeuszów, którzy właśnie wyrzucili z synagogi Jego owcę. Zaczyna od zagadki o owczarni, bramie i głosie, której słuchacze nie pojmują, więc rozkłada ją na dwa wielkie JA JESTEM: brama — jedyne wejście, przez które i pasterz wchodzi, i owce wychodzą na pastwisko; oraz pasterz dobry — ten, którego od najemnika odróżnia jedno: życie położone za owce. W środku mowy horyzont nagle się rozszerza (mam także inne owce, które nie są z tej owczarni), a pod koniec pada zdanie teologicznie najgęstsze w całym rozdziale: nikt mi życia nie zabiera — ja kładę je od siebie i mam władzę znów je wziąć. Krzyż, który nadciąga, zostaje z góry wypowiedziany jako akt suwerennej miłości, nie jako klęska. Mowa kończy się — jak każde słowo Jezusa w tych rozdziałach — rozłamem: demona ma; nie, opętany tak nie mówi. Czy demon może otwierać oczy niewidomym?",
    "struktura": "Perykopa ma budowę zagadki i jej dwustopniowego rozwiązania, zamkniętych reakcją słuchaczy. Najpierw παροιμία (w. 1-6): obraz z życia — zagroda, brama, odźwierny, złodziej wdzierający się przez mur, pasterz wchodzący jawnie, owce znające głos i własne imię; oraz zdanie o niezrozumieniu (w. 6), które u Jana zawsze zapowiada mowę objaśniającą. Rozwiązanie pierwsze (w. 7-10): JA JESTEM bramą — Jezus utożsamia się nie z pasterzem (jak oczekiwałaby alegoria), lecz z BRAMĄ z wersetu 1-2: jedynym prawomocnym wejściem; kto przez Niego wchodzi, będzie zbawiony, wejdzie i wyjdzie, znajdzie pastwisko; złodziej przychodzi kraść i niszczyć — On przyszedł, aby życie było w obfitości. Rozwiązanie drugie (w. 11-18): JA JESTEM pasterzem dobrym — i natychmiast definicja: pasterz dobry kładzie życie za owce; kontrast z najemnikiem (w. 12-13), którego zdradza nie zły czyn, lecz ucieczka; wzajemne poznanie owiec i pasterza wpisane w poznanie Ojca i Syna (w. 14-15); otwarcie na inne owce i obietnica jednej owczarni pod jednym pasterzem (w. 16); wreszcie szczyt (w. 17-18): miłość Ojca, dobrowolność śmierci, władza położenia i wzięcia na powrót, przykazanie otrzymane od Ojca. Reakcja (w. 19-21): σχίσμα — po raz trzeci w Ewangelii; zarzut opętania i trzeźwa riposta drugiej strony, która wraca do faktu z rozdziału 9: czy demon może otwierać oczy niewidomym? Klamra z poprzednią perykopą jest podwójna: retoryczna (mowa toczy się wobec tych samych słuchaczy) i tematyczna (prawdziwi i fałszywi pasterze Izraela — nazajutrz po tym, jak fałszywi wyrzucili owcę, którą prawdziwy właśnie odnalazł).",
    "blocks": [
     {
@@ -439,17 +469,17 @@
       [
        "ἐγώ εἰμι ἡ θύρα τῶν προβάτων",
        "JA JESTEM bramą",
-       "Rozwiązanie zagadki zaskakuje: słuchacz oczekiwał „ja jestem pasterzem\" — a słyszy „ja jestem BRAMĄ\". Zaskoczenie jest tak stare, że już P75 poprawia bramę na pasterza (zob. nota tekstualna). Ale brama jest tu pierwsza nieprzypadkowo: zanim powie się COŚ o pasterzach (także tych przyszłych, kościelnych), trzeba powiedzieć, KTÓRĘDY wchodzi każdy prawomocny pasterz — przez Niego. Realia dopowiadają resztę: w zagrodach polowych pasterz kładł się spać w prześwicie muru i jego ciało było bramą; nic nie weszło ani nie wyszło inaczej niż po nim. Metafora bramy nie jest więc architektoniczna, lecz osobowa: przejście do owiec i przejście owiec do życia prowadzi przez ciało Pasterza."
+       "Rozwiązanie zagadki zaskakuje: słuchacz oczekiwał „ja jestem pasterzem\" — a słyszy „ja jestem BRAMĄ\". Zaskoczenie jest tak stare, że już P75 poprawia bramę na pasterza (zob. nota tekstualna). Ale brama jest tu pierwsza nieprzypadkowo: zanim powie się COŚ o pasterzach (także tych przyszłych, kościelnych), trzeba powiedzieć, KTÓRĘDY wchodzi każdy prawomocny pasterz — przez Niego. Realia dopowiadają resztę — z zastrzeżeniem, że znamy je z relacji podróżników i obserwacji pasterstwa palestyńskiego XIX i XX w., nie ze źródeł starożytnych: w zagrodach polowych bez wrót pasterz miał kłaść się spać w prześwicie muru, tak że jego ciało było bramą. Metafora bramy nie jest więc architektoniczna, lecz osobowa: przejście do owiec i przejście owiec do życia prowadzi przez ciało Pasterza."
       ],
       [
        "πάντες ὅσοι ἦλθον πρὸ ἐμοῦ",
        "wszyscy, którzy przyszli przede mną",
-       "Zdanie brzmi skandalicznie, jeśli czytać je płasko: czyżby Mojżesz i prorocy byli złodziejami? Gnostycy (Walentynianie) tak właśnie je czytali — przeciw całemu Staremu Testamentowi — i zapewne dlatego część najstarszych świadków opuszcza πρὸ ἐμοῦ (zob. nota tekstualna). Ale kontekst rozstrzyga inaczej: „przyszli\" (ἦλθον) jest u Jana czasownikiem roszczenia mesjańskiego (5,43: jeśli inny przyjdzie we własnym imieniu), a całą mowę otwiera obraz wdzierania się do owczarni NIE PRZEZ BRAMĘ. Chodzi więc o uzurpatorów — pretendentów mesjańskich, przywódców pasących samych siebie (Ez 34,2-8) — nie o proroków, którzy właśnie przez bramę weszli i o Nim mówili (5,46). Kryterium zresztą podaje sam tekst: owce ich NIE POSŁUCHAŁY — reszta wierna nigdy nie poszła za uzurpatorami."
+       "Zdanie brzmi skandalicznie, jeśli czytać je płasko: czyżby Mojżesz i prorocy byli złodziejami? Tak właśnie czytali je heretycy odrzucający Stary Testament — polemizuje z tą lekturą już Chryzostom („nie mówi tu o prorokach, jak twierdzą heretycy\") — i komentatorzy przypuszczają, że stąd wzięło się opuszczenie πρὸ ἐμοῦ (przede mną) u części najstarszych świadków (zob. nota tekstualna). Ale kontekst rozstrzyga inaczej: „przyszli\" (ἦλθον) jest u Jana czasownikiem roszczenia mesjańskiego (5,43: jeśli inny przyjdzie we własnym imieniu), a całą mowę otwiera obraz wdzierania się do owczarni NIE PRZEZ BRAMĘ. Chodzi więc o uzurpatorów — pretendentów mesjańskich, przywódców pasących samych siebie (Ez 34,2-8) — nie o proroków, którzy właśnie przez bramę weszli i o Nim mówili (5,46). Kryterium zresztą podaje sam tekst: owce ich NIE POSŁUCHAŁY — reszta wierna nigdy nie poszła za uzurpatorami."
       ],
       [
        "ἐγὼ ἦλθον ἵνα ζωὴν ἔχωσιν καὶ περισσὸν ἔχωσιν",
        "życie w obfitości",
-       "Antyteza z wersetu 10 jest podsumowaniem całej Janowej soteriologii w jednym zdaniu: złodziej przychodzi kraść, zabijać (θύσῃ — dosłownie: zarzynać, słowo ofiarnicze użyte o rzezi bez ofiary) i niszczyć; JA przyszedłem, aby życie miały — i miały περισσόν, ponad miarę. Nie samo przetrwanie owczarni jest celem, lecz nadmiar: pastwisko z wersetu 9 (νομή), „wejdzie i wyjdzie\" — hebrajska formuła pełnej swobody poruszania się (Lb 27,17; Pwt 28,6). Zbawienie Janowe nie jest ocaleniem z opresji minimum życia, lecz wprowadzeniem w życie przelewające się — to samo, które w 2,6-10 miało smak sześciuset litrów wina, a w 6,13 zostawiło dwanaście koszy ułomków."
+       "Antyteza z wersetu 10 jest podsumowaniem całej Janowej soteriologii w jednym zdaniu: złodziej przychodzi kraść, zabijać (θύσῃ — dosłownie: zarzynać, słowo ofiarnicze użyte o rzezi bez ofiary) i niszczyć; JA przyszedłem, aby życie miały — i miały περισσόν, ponad miarę. Nie samo przetrwanie owczarni jest celem, lecz nadmiar: pastwisko z wersetu 9 (νομή), „wejdzie i wyjdzie\" — hebrajska formuła pełnej swobody poruszania się (Lb 27,17; Pwt 28,6). Zbawienie Janowe nie jest ocaleniem z opresji minimum życia, lecz wprowadzeniem w życie przelewające się — to samo, które w 2,6-10 miało smak kilkuset litrów wina (12-18 metretesów, ok. 400-700 l), a w 6,13 zostawiło dwanaście koszy ułomków."
       ]
      ],
      "greek": "Εἶπεν οὖν πάλιν ὁ Ἰησοῦς· ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ἐγώ εἰμι ἡ θύρα τῶν προβάτων· πάντες ὅσοι ἦλθον πρὸ ἐμοῦ κλέπται εἰσὶν καὶ λῃσταί, ἀλλʼ οὐκ ἤκουσαν αὐτῶν τὰ πρόβατα· ἐγώ εἰμι ἡ θύρα· διʼ ἐμοῦ ἐάν τις εἰσέλθῃ σωθήσεται καὶ εἰσελεύσεται καὶ ἐξελεύσεται καὶ νομὴν εὑρήσει· ὁ κλέπτης οὐκ ἔρχεται εἰ μὴ ἵνα κλέψῃ καὶ θύσῃ καὶ ἀπολέσῃ· ἐγὼ ἦλθον ἵνα ζωὴν ἔχωσιν καὶ περισσὸν ἔχωσιν·",
@@ -470,7 +500,7 @@
       [
        "ὁ μισθωτὸς … θεωρεῖ τὸν λύκον ἐρχόμενον καὶ φεύγει",
        "najemnik i wilk",
-       "Najemnik jest figurą subtelniejszą niż złodziej: niczego nie kradnie, wchodzi legalnie, pasie poprawnie — dopóki nic to nie kosztuje. Zdradza go dopiero wilk: w chwili próby ucieka, bo owce nie są jego (οὐκ ἔστιν τὰ πρόβατα ἴδια) i nie zależy mu na nich (οὐ μέλει αὐτῷ). Jan nie mówi, że najemnik jest zły — mówi, że jest NAJEMNIKIEM: jego więź ze stadem jest kontraktowa, nie miłosna, więc kończy się tam, gdzie zaczyna się ryzyko. Wilk zaś porywa i ROZPRASZA (σκορπίζει) — czyni dokładnie to, co odwrotne do dzieła Jezusa, który gromadzi rozproszone dzieci Boże w jedno (11,52). Tradycja czytała tę figurę dwojako i obie lektury są prawomocne: wilk to prześladowca (tak Chryzostom) i fałszywy nauczyciel (tak Augustyn); najemnik — każdy pasterz Kościoła, który przy pierwszym wilku wybiera siebie."
+       "Najemnik jest figurą subtelniejszą niż złodziej: niczego nie kradnie, wchodzi legalnie, pasie poprawnie — dopóki nic to nie kosztuje. Zdradza go dopiero wilk: w chwili próby ucieka, bo owce nie są jego (οὐκ ἔστιν τὰ πρόβατα ἴδια) i nie zależy mu na nich (οὐ μέλει αὐτῷ). Jan nie mówi, że najemnik jest zły — mówi, że jest NAJEMNIKIEM: jego więź ze stadem jest kontraktowa, nie miłosna, więc kończy się tam, gdzie zaczyna się ryzyko. Wilk zaś porywa i ROZPRASZA (σκορπίζει) — czyni dokładnie to, co odwrotne do dzieła Jezusa, który gromadzi rozproszone dzieci Boże w jedno (11,52). Tradycja patrystyczna czytała tę figurę wielorako i lektury te się nie wykluczają: wilkiem jest diabeł, prześladowca i fałszywy nauczyciel; najemnikiem — każdy pasterz Kościoła, który przy pierwszym wilku wybiera siebie."
       ],
       [
        "ὅτι μισθωτός ἐστιν",
@@ -491,12 +521,12 @@
       [
        "γινώσκω τὰ ἐμὰ καὶ γινώσκουσί με τὰ ἐμά",
        "poznanie wzajemne",
-       "Powtórzone ἐγώ εἰμι wprowadza nową głębię: wzajemność. Pasterz zna swoje i swoje znają jego — a miarą tej wzajemności jest zdanie, które w ustach człowieka byłoby bluźnierstwem: JAK mnie zna Ojciec, a ja znam Ojca (καθώς — w tej samej mierze, na ten sam sposób). Poznanie owiec przez pasterza nie jest więc ewidencją stada, lecz uczestnictwem w poznaniu, jakim Ojciec i Syn znają się nawzajem: więź Jezusa z wierzącymi zostaje wpisana w życie trynitarne. Biblijne jada dopowiada resztę: poznać znaczy być w komunii, nie mieć informacje. To najdalej posunięta obietnica całej mowy — dalej niż pastwisko i obfitość: owca jest znana TAK, jak Syn jest znany Ojcu."
+       "Powtórzone ἐγώ εἰμι wprowadza nową głębię: wzajemność. Pasterz zna swoje i swoje znają jego — a miarą tej wzajemności jest zdanie, które w ustach człowieka byłoby bluźnierstwem: JAK mnie zna Ojciec, a ja znam Ojca (καθώς — w tej samej mierze, na ten sam sposób). Poznanie owiec przez pasterza nie jest więc ewidencją stada, lecz uczestnictwem w poznaniu, jakim Ojciec i Syn znają się nawzajem: więź Jezusa z wierzącymi zostaje wpisana w życie trynitarne. Biblijne jada (יָדַע, poznawać) dopowiada resztę: poznać znaczy być w komunii, nie mieć informacje. To najdalej posunięta obietnica całej mowy — dalej niż pastwisko i obfitość: owca jest znana TAK, jak Syn jest znany Ojcu."
       ],
       [
        "ἄλλα πρόβατα ἔχω",
        "inne owce i jedna owczarnia",
-       "Werset 16 rozsadza horyzont mowy: MAM także inne owce (czas teraźniejszy — już są Jego, zanim usłyszały), które nie są z tej owczarni; i te MUSZĘ (δεῖ — konieczność Bożego planu) przyprowadzić. Pierwsi czytelnicy słyszeli tu misję do pogan — owczarnia Izraela nie jest ostatnim horyzontem — a wers domyka wizja: γενήσονται μία ποίμνη, εἷς ποιμήν, nastanie jedna trzoda, jeden pasterz. Gra słów ποίμνη/ποιμήν (niemal to samo słowo) mówi, że jedność owczarni nie jest organizacyjna, lecz osobowa: trzoda jest jedna dokładnie dlatego, że pasterz jest jeden. Wulgata przetłumaczyła ποίμνη jako ovile (owczarnia-zagroda) zamiast grex (trzoda) — i z tego przesunięcia wyrosły stulecia sporów o granice Kościoła; grecki tekst mówi ostrożniej i mocniej zarazem: jedna TRZODA wokół jednego głosu, choćby zagród było wiele."
+       "Werset 16 rozsadza horyzont mowy: MAM także inne owce (czas teraźniejszy — już są Jego, zanim usłyszały), które nie są z tej owczarni; i te MUSZĘ (δεῖ — konieczność Bożego planu) przyprowadzić. Pierwsi czytelnicy słyszeli tu misję do pogan — owczarnia Izraela nie jest ostatnim horyzontem — a wers domyka wizja: γενήσονται μία ποίμνη, εἷς ποιμήν, nastanie jedna trzoda, jeden pasterz. Gra słów ποίμνη/ποιμήν (niemal to samo słowo) mówi, że jedność owczarni nie jest organizacyjna, lecz osobowa: trzoda jest jedna dokładnie dlatego, że pasterz jest jeden. Wulgata przetłumaczyła ποίμνη jako ovile (owczarnia-zagroda) zamiast grex (trzoda) — tym samym słowem, którym w pierwszej połowie wersetu oddała αὐλή (zagroda): et fiet unum ovile et unus pastor; z tego przesunięcia wyrosły stulecia sporów o granice Kościoła, a Neowulgata je cofnęła, czytając et fient unus grex, unus pastor (i staną się jedną trzodą, jeden pasterz); grecki tekst mówi ostrożniej i mocniej zarazem: jedna TRZODA wokół jednego głosu, choćby zagród było wiele."
       ],
       [
        "τῆς φωνῆς μου ἀκούσουσιν",
@@ -517,7 +547,7 @@
       [
        "διὰ τοῦτό με ὁ πατὴρ ἀγαπᾷ",
        "miłość Ojca a ofiara Syna",
-       "Zdanie ma precyzję dogmatu: Ojciec miłuje Syna DLATEGO, że Syn kładzie życie, ABY je znów wziąć. Nie znaczy to, że miłość Ojca jest zapłatą za śmierć — Syn jest umiłowany przed założeniem świata (17,24) — lecz że w dobrowolnym położeniu życia miłość Ojca i Syna znajduje swoje najpełniejsze wzajemne przejrzenie: Syn oddaje się w tym samym geście, w którym Ojciec odwiecznie wszystko Mu daje. Celownik ἵνα πάλιν λάβω (aby znów wziąć) chroni zdanie przed czczeniem śmierci jako takiej: położenie życia nie jest celem, lecz drogą; celem jest życie odzyskane i rozdane — zmartwychwstanie, które owce włącza w obfitość z wersetu 10."
+       "Zdanie ma precyzję dogmatu: Ojciec miłuje Syna DLATEGO, że Syn kładzie życie, ABY je znów wziąć. Nie znaczy to, że miłość Ojca jest zapłatą za śmierć — Syn jest umiłowany przed założeniem świata (17,24) — lecz że w dobrowolnym położeniu życia miłość Ojca i Syna znajduje swoje najpełniejsze wzajemne przejrzenie: Syn oddaje się w tym samym geście, w którym Ojciec odwiecznie wszystko Mu daje. Zdanie celowe ἵνα πάλιν λάβω (aby znów wziąć) chroni całość przed czczeniem śmierci jako takiej: położenie życia nie jest celem, lecz drogą; celem jest życie odzyskane i rozdane — zmartwychwstanie, które owce włącza w obfitość z wersetu 10."
       ],
       [
        "οὐδεὶς αἴρει αὐτὴν ἀπʼ ἐμοῦ",
@@ -538,7 +568,7 @@
       [
        "σχίσμα πάλιν ἐγένετο",
        "trzeci rozłam",
-       "Po raz trzeci słowo Jezusa rozcina słuchaczy (7,43; 9,16; 10,19) — πάλιν, znowu, jakby ewangelista chciał powiedzieć: to już reguła. Mowa o pasterzu, najczulszy tekst Ewangelii, wywołuje ten sam podział co uzdrowienia: bo nie treść mowy dzieli, lecz Osoba mówiącego. Zarzut „demona ma i szaleje\" jest starym zarzutem (7,20; 8,48) w nowej eskalacji — μαίνεται, szaleje, mówi się o kimś, kogo już się nie słucha, tylko diagnozuje. Pytanie „czemu Go słuchacie?\" jest próbą zerwania jedynej więzi, jaką mowa właśnie ustanowiła: słuchania głosu."
+       "Po raz trzeci słowo Jezusa rozcina słuchaczy (7,43; 9,16; 10,19) — πάλιν, znowu, jakby ewangelista chciał powiedzieć: to już reguła. Mowa o pasterzu, najczulszy tekst Ewangelii, wywołuje ten sam podział co uzdrowienia: bo nie treść mowy dzieli, lecz Osoba mówiącego. Zarzut „demona ma i szaleje\" jest starym zarzutem (7,20; 8,48.52) w nowej eskalacji — μαίνεται, szaleje, mówi się o kimś, kogo już się nie słucha, tylko diagnozuje. Pytanie „czemu Go słuchacie?\" jest próbą zerwania jedynej więzi, jaką mowa właśnie ustanowiła: słuchania głosu."
       ],
       [
        "μὴ δαιμόνιον δύναται τυφλῶν ὀφθαλμοὺς ἀνοῖξαι;",
@@ -558,7 +588,7 @@
     {
      "type": "kontekst",
      "title": "Kontekst historyczny, językowy, kulturowy i religijny",
-     "body": "Cztery tła mowy: pasterz jako tytuł Boga i oskarżenie władców w prorockiej tradycji Izraela; realia pasterskie Palestyny (owczarnia wspólna, brama, odźwierny); Janowa paroimia wobec hebrajskiego maszal; oraz miejsce mowy między nocą rozdziału 9 a Świętem Poświęcenia.",
+     "body": "Cztery tła mowy: pasterz jako tytuł Boga i oskarżenie władców w prorockiej tradycji Izraela; realia pasterskie Palestyny (owczarnia wspólna, brama, odźwierny); Janowa paroimia wobec hebrajskiego maszal; oraz miejsce mowy między rozdziałem 9 a Świętem Poświęcenia.",
      "children": [
       [
        "Pasterz w Izraelu: od zawodu do tytułu Boga i oskarżenia władców",
@@ -566,15 +596,15 @@
       ],
       [
        "Owczarnia, brama, odźwierny: realia, na których stoi metafora",
-       "Palestyńska αὐλή to kamienny dziedziniec przy domu lub w polu, często wspólny dla stad kilku właścicieli, z jednym wejściem strzeżonym przez odźwiernego (θυρωρός). Rano każdy pasterz wywoływał swoje owce — stąd wołanie po imieniu i rozpoznawanie głosu nie są poetycką przesadą, lecz codzienną techniką pracy: owce rzeczywiście reagują na indywidualne zawołania swojego pasterza, a obcego głosu się płoszą. W zagrodach polowych bez wrót pasterz kładł się na noc w prześwicie muru: jego ciało było bramą — tło, na którym „JA JESTEM bramą owiec\" przestaje być mieszaniną metafor, a staje się opisem. Wyjście i wejście (w. 9) to hebrajski idiom pełnej swobody (Lb 27,17; Pwt 28,6; Ps 121,8), a νομή — pastwisko — słowo Psalmów o Bożej obfitości (Ps 23,2; 100,3: owce Jego pastwiska)."
+       "Palestyńska αὐλή to kamienny dziedziniec przy domu lub w polu, często wspólny dla stad kilku właścicieli, z jednym wejściem strzeżonym przez odźwiernego (θυρωρός). Rano każdy pasterz wywoływał swoje owce — stąd wołanie po imieniu i rozpoznawanie głosu nie są poetycką przesadą, lecz codzienną techniką pracy: owce rzeczywiście reagują na indywidualne zawołania swojego pasterza, a obcego głosu się płoszą. Często powtarzany obraz pasterza kładącego się na noc w prześwicie muru zagrody polowej — „jego ciało było bramą\" — pochodzi z nowożytnych relacji o pasterstwie palestyńskim, nie ze źródeł starożytnych; z tym zastrzeżeniem daje on tło, na którym „JA JESTEM bramą owiec\" przestaje być mieszaniną metafor. Wyjście i wejście (w. 9) to hebrajski idiom pełnej swobody (Lb 27,17; Pwt 28,6; Ps 121,8), a νομή — pastwisko — słowo, którym LXX opisuje trzodę Bożą (Ps 79,13; 95,7; 100,3: owce Jego pastwiska) i obietnicę z Ez 34,14 (νομὴ ἀγαθή, dobre pastwisko); sam Ps 23,2 LXX ma w tym miejscu τόπος χλόης (miejsce zieleni)."
       ],
       [
        "Paroimia i maszal: mowa, która dzieli słuchaczy",
        "Jan nie używa synoptycznego παραβολή; jego słowem jest παροιμία (10,6; 16,25.29) — w LXX odpowiednik maszal, gatunku rozpiętego od przysłowia po zagadkę. Różnica nie jest kosmetyczna: parabola synoptyczna ilustruje i przybliża, Janowa paroimia jest mową graniczną — zakłada, że zrozumienie nie zależy od inteligencji słuchacza, lecz od jego przynależności (8,43: dlaczego nie rozumiecie mowy mojej? bo nie możecie słuchać słowa mego). Werset 6 (nie pojęli, co im mówił) pełni więc w kompozycji tę samą funkcję, co niezrozumienia Nikodema i Samarytanki: otwiera przestrzeń dla mowy objaśniającej, ale zarazem wykonuje sąd — ci, którzy przed chwilą orzekli „widzimy\" (9,41), teraz nie widzą sensu najprostszego obrazu ze swojej codzienności."
       ],
       [
-       "Między nocą rozdziału 9 a Świętem Poświęcenia",
-       "Mowa nie ma własnego wstępu narracyjnego — toczy się wobec tych samych faryzeuszów, którym Jezus właśnie powiedział „grzech wasz trwa\" (9,41), i jeszcze w 10,21 słuchacze wspominają otwarcie oczu niewidomego. Dopiero 10,22 przeniesie akcję na Święto Poświęcenia (Chanuka, grudzień), gdzie mowa pasterska otrzyma dalszy ciąg (10,26-29: owce moje słuchają głosu mego). Ta rama czasowa ma wagę interpretacyjną: między Sukkot (J 7-9) a Chanuką mowa o prawdziwym i fałszywych pasterzach pada w miesiącach, w których synagoga czytała właśnie Ez 34 jako haftarę okresu — a Chanuka, święto oczyszczenia świątyni po profanacji przez pasterzy-uzurpatorów (arcykapłanów z nadania Antiocha), dopisze do mowy swój własny komentarz historyczny. Jan buduje kalendarzem: fałszywi pasterze, o których mówi Ezechiel, mieli w pamięci słuchaczy twarze całkiem konkretne."
+       "Między rozdziałem 9 a Świętem Poświęcenia",
+       "Mowa nie ma własnego wstępu narracyjnego — toczy się wobec tych samych faryzeuszów, którym Jezus właśnie powiedział „grzech wasz trwa\" (9,41), i jeszcze w 10,21 słuchacze wspominają otwarcie oczu niewidomego. Dopiero 10,22 przeniesie akcję na Święto Poświęcenia (Chanuka, grudzień), gdzie mowa pasterska otrzyma dalszy ciąg (10,26-29: owce moje słuchają głosu mego). Ta rama czasowa ma wagę interpretacyjną: mowa o prawdziwym i fałszywych pasterzach pada między Sukkot (J 7-9) a Chanuką, świętem oczyszczenia świątyni po profanacji z czasów arcykapłanów z nadania Antiocha IV — a więc święto samo dopisuje do mowy komentarz historyczny o pasterzach-uzurpatorach. (Dalej idąca hipoteza, jakoby Jan komponował wprost pod synagogalny cykl czytań i sięgał po Ez 34 jako haftarę tego okresu, pochodzi od A. Guilding i nie została przez biblistykę przyjęta — pierwszowieczny lekcjonarz trzyletni nie jest poświadczony.) Fałszywi pasterze, o których mówi Ezechiel, mieli w pamięci słuchaczy twarze całkiem konkretne."
       ]
      ]
     },
@@ -624,7 +654,7 @@
       ],
       [
        "Ps 23 → w. 9-11",
-       "Pan moim pasterzem: pastwiska zielone (νομή), prowadzenie po ścieżkach, dolina ciemności bez lęku „bo Ty jesteś ze mną\" — psalm daje mowie słownictwo obfitości i towarzyszenia; a jego przejście przez dolinę śmierci znajduje w 10,11 odpowiedź, o której psalmista nie śnił: pasterz sam wchodzi w śmierć za owce."
+       "Pan moim pasterzem: pastwiska zielone (LXX: τόπος χλόης; νομή wejdzie do słownika pasterskiego przez Ps 79,13; 95,7; 100,3 i Ez 34,14), prowadzenie po ścieżkach, dolina ciemności bez lęku „bo Ty jesteś ze mną\" — psalm daje mowie słownictwo obfitości i towarzyszenia; a jego przejście przez dolinę śmierci znajduje w 10,11 odpowiedź, o której psalmista nie śnił: pasterz sam wchodzi w śmierć za owce."
       ],
       [
        "Jr 23,1-8 → w. 1.8",
@@ -640,7 +670,7 @@
       ],
       [
        "1 Sm 17,34-37 → w. 11-12",
-       "Dawid przed Goliatem wspomina, jak jako pasterz gonił lwa i niedźwiedzia, i wyrywał owcę z paszczy: jedyny w ST obraz pasterza fizycznie walczącego o owce własnym ciałem — figura pasterza, który nie ucieka przed drapieżnikiem, spełniona w Tym, który przed wilkiem nie cofnął się w ogóle."
+       "Dawid przed Goliatem wspomina, jak jako pasterz gonił lwa i niedźwiedzia, i wyrywał owcę z paszczy: najpełniejszy starotestamentowy obraz pasterza walczącego o owce własnym ciałem — figura pasterza, który nie ucieka przed drapieżnikiem, spełniona w Tym, który przed wilkiem nie cofnął się w ogóle."
       ],
       [
        "Mi 2,12-13 → w. 3-4.9",
@@ -663,11 +693,11 @@
      "children": [
       [
        "Liturgia",
-       "Czwarta niedziela wielkanocna jest w całym Kościele rzymskim Niedzielą Dobrego Pasterza: w roku A czyta się J 10,1-10 (brama), w roku B — 10,11-18 (pasterz dobry), w roku C — 10,27-30 (owce słuchają głosu); od 1964 r. jest to zarazem Światowy Dzień Modlitw o Powołania, co czyni z mowy pasterskiej stały tekst Kościoła o kapłaństwie. W dni powszednie 4. tygodnia wielkanocnego perykopa wraca w lekcjonarzu ferialnym. W Liturgii Godzin homilie o Dobrym Pasterzu (Grzegorz Wielki, Hom. in Ev. 14; Augustyn o pasterzach, Sermo 46 — czytany serialnie we wrześniu) należą do najobszerniej reprezentowanych tekstów patrystycznych. Ikonograficznie Dobry Pasterz jest najstarszym wizerunkiem Chrystusa w ogóle: bezbrody młodzieniec z owcą na ramionach w katakumbach Kaliksta i Pryscylli (III w.) i na setkach sarkofagów — zanim krzyż stał się przedstawialny, wiara malowała pasterza."
+       "Czwarta niedziela wielkanocna jest w całym Kościele rzymskim Niedzielą Dobrego Pasterza: w roku A czyta się J 10,1-10 (brama), w roku B — 10,11-18 (pasterz dobry), w roku C — 10,27-30 (owce słuchają głosu); od 1964 r. jest to zarazem Światowy Dzień Modlitw o Powołania, co czyni z mowy pasterskiej stały tekst Kościoła o kapłaństwie. W dni powszednie 4. tygodnia wielkanocnego perykopa wraca w lekcjonarzu ferialnym. W Liturgii Godzin Godzina czytań 4. Niedzieli Wielkanocnej podaje homilię Grzegorza Wielkiego (Hom. in Ev. 14, 3-6: PL 76, 1129-1130), a kazanie Augustyna o pasterzach (Sermo 46, De pastoribus) czytane jest serialnie w 25. tygodniu zwykłym, obok czytania biblijnego z Ez 34. Ikonograficznie Dobry Pasterz jest jednym z najstarszych i najczęstszych przedstawień Chrystusa: bezbrody młodzieniec z owcą na ramionach w katakumbach Kaliksta i Pryscylli (III w.), w katakumbach rzymskich ok. 120 razy, oraz na sarkofagach — przy czym sam typ ikonograficzny (kriofor, niosący barana) jest starszy od chrześcijaństwa i zostaje przez nie przejęty; zanim krzyż stał się przedstawialny, wiara malowała pasterza."
       ],
       [
        "Recepcja teologiczna",
-       "Werset 18 (nikt mi życia nie zabiera) stał się kluczem chrystologii Męki: od Ojców po Katechizm (KKK 609-610) czyta się nim Wielki Piątek — śmierć Jezusa jako akt wolności, nie fatum. Werset 16 (jedna owczarnia, jeden pasterz) miał historię burzliwszą: łacińskie unum ovile (jedna ZAGRODA zamiast jednej TRZODY, grex) wspierało przez wieki ekskluzywistyczną lekturę granic Kościoła, aż filologia i Sobór przywróciły greckie rozróżnienie — jedna trzoda jednego pasterza może przekraczać widzialne zagrody (Unitatis redintegratio 2-3 cytuje J 10,16 w teologii ekumenizmu). Obraz bramy zasilił teologię jedyności pośrednictwa Chrystusa (Dominus Iesus 13-15 przywołuje J 10,9), a figura najemnika — całą tradycję reformy pasterskiej od Grzegorza Wielkiego (Regula pastoralis) po współczesne dokumenty o formacji kapłańskiej; Augustynowe kazanie o pasterzach (Sermo 46: „chcą korzyści z owiec, nie owiec\") pozostaje najostrzejszym tekstem tej tradycji. W duchowości powołaniowej i katechezie Pierwszej Komunii Dobry Pasterz jest do dziś pierwszym obrazem, przez który dzieci poznają Chrystusa — intuicja Marii Montessori i katechezy Dobrego Pasterza wyrasta wprost z tej perykopy."
+       "Werset 18 (nikt mi życia nie zabiera) stał się kluczem chrystologii Męki: od Ojców po Katechizm (KKK 609, który cytuje ten werset wprost) czyta się nim Wielki Piątek — śmierć Jezusa jako akt wolności, nie fatum. Werset 16 (jedna owczarnia, jeden pasterz) miał historię burzliwszą: łacińskie unum ovile (jedna ZAGRODA zamiast jednej TRZODY, grex) wspierało przez wieki ekskluzywistyczną lekturę granic Kościoła, aż filologia i nowsze przekłady przywróciły greckie rozróżnienie (Neowulgata: unus grex) — jedna trzoda jednego pasterza może przekraczać widzialne zagrody; obrazem jednej owczarni Bożej posługuje się soborowy dekret o ekumenizmie (Unitatis redintegratio 2-3: unicus Dei grex, jedyna trzoda Boża). Obraz bramy zasilił teologię jedyności pośrednictwa Chrystusa (por. Dominus Iesus 13-15 o jedynym i powszechnym pośrednictwie), a figura najemnika — całą tradycję reformy pasterskiej od Grzegorza Wielkiego (Regula pastoralis) po współczesne dokumenty o formacji kapłańskiej; Augustynowe kazanie o pasterzach (Sermo 46, De pastoribus), wyrzucające pasterzom, że szukają swego, a nie tego, co Jezusa Chrystusa (por. Flp 2,21), pozostaje jednym z najostrzejszych tekstów tej tradycji. W duchowości powołaniowej i katechezie dziecięcej Dobry Pasterz jest do dziś pierwszym obrazem, przez który dzieci poznają Chrystusa: Katecheza Dobrego Pasterza, wypracowana w Rzymie od 1954 r. przez biblistkę Sofię Cavalletti i montessoriankę Giannę Gobbi na zasadach pedagogiki Marii Montessori, wyrasta wprost z tej perykopy."
       ]
      ]
     },
@@ -675,7 +705,7 @@
      "type": "patrystyka",
      "title": "Komentarze Ojców Kościoła (catena patrum)",
      "children": [],
-     "body": "Katena pasterska jest obfita jak mało która: brama i pasterz należą do ulubionych tematów patrystycznej ekklezjologii. Augustyn daje lekturę podwójną (brama-pokora, pasterz-miłość) i najostrzejszą krytykę najemników; Chryzostom czyta mowę jako sąd nad przywódcami z rozdziału 9; Cyryl buduje na w. 15 i 18 chrystologię; Grzegorz Wielki przekuwa całość w regułę pasterzy Kościoła; Beda syntetyzuje dla średniowiecza."
+     "body": "Katena pasterska jest obfita jak mało która: brama i pasterz należą do ulubionych tematów patrystycznej eklezjologii, a cała perykopa ma u Ojców komentarze ciągłe, dokładnie pokrywające jej bloki. Augustyn poświęca jej trzy traktaty (45 — brama i pokora; 46 — najemnik i wilk; 47 — jeden Pasterz i wielu pasterzy, nemo tollit eam a me); Chryzostom dwie homilie (59 — brama i uzurpatorzy; 60 — dobrowolność śmierci i rozłam); Cyryl buduje na w. 14-15 naukę o poznaniu przez uczestnictwo; Grzegorz Wielki przekuwa całość w regułę pasterzy Kościoła."
     },
     {
      "type": "zakonczenie",
@@ -687,7 +717,7 @@
      "type": "nota",
      "title": "Nota warsztatowa",
      "children": [],
-     "body": "Tekst grecki wszystkich 21 wersetów złożono programowo ze źródła prawdy (db.sqlite, words, księga 500), ze zdjęciem znaków aparatu, i zweryfikowano co do znaku. Trzy noty tekstualne (w. 7, 8, 18) oparto na aparacie NA28 z tabeli commentaries; wariant P75 w w. 7 (ὁ ποιμήν za ἡ θύρα) omówiono także w analizie, bo ilustruje starożytność zaskoczenia bramą. Przekład roboczy własny, dosłowny; ποίμνη w w. 16 oddano jako „owczarnia\" za tradycją polską, ale analiza odnotowuje różnicę ποίμνη (trzoda) / αὐλή (zagroda) i jej wagę ekumeniczną. Podział na sześć bloków idzie za strukturą mowy (paroimia — brama — najemnik — wzajemność — exousia — rozłam). Katena sześciu głosów; locusy Augustyna (Tract. 45-47, Sermo 46), Chryzostoma (Hom. 59-60) i Grzegorza (Hom. in Ev. 14) do potwierdzenia w rewizji co do numeracji wydań. Perykopa obejmuje w. 1-21; Święto Poświęcenia (10,22-42) stanowi następną jednostkę."
+     "body": "Tekst grecki wszystkich 21 wersetów złożono programowo ze źródła prawdy (db.sqlite, words, księga 500), ze zdjęciem znaków aparatu, i zweryfikowano co do znaku. Trzy noty tekstualne (w. 7, 8, 18) oparto na aparacie NA28 z tabeli commentaries; wariant P75 w w. 7 (ὁ ποιμήν za ἡ θύρα) omówiono także w analizie, bo ilustruje starożytność zaskoczenia bramą. Przekład roboczy własny, dosłowny; ποίμνη w w. 16 oddano jako „owczarnia\" za tradycją polską, ale analiza odnotowuje różnicę ποίμνη (trzoda) / αὐλή (zagroda), jej los w Wulgacie (ovile) i korektę Neowulgaty (grex) oraz wagę ekumeniczną. Podział na sześć bloków idzie za strukturą mowy (paroimia — brama — najemnik — wzajemność — exousia — rozłam). Katena siedmiu głosów, po recenzji przypięta do bloków wedle rzeczywistych zakresów dzieł: Augustyn Tract. in Io. 45 (J 10,1-10), 46 (10,11-13) i 47 (10,14-21); Chryzostom Hom. in Io. 59 (J 9,35-10,13) i 60 (10,14-21); Cyryl, In Io. ks. VI (J 8,44-10,17 — księgi VII-VIII, na J 10,18-12,48, zaginęły); Grzegorz Wielki, Hom. in Ev. 14 (J 10,11-16; PL 76, 1127-1130). Usunięto wpis św. Bedy Czcigodnego: komentarz do Jana z PL 92 nie należy do dzieł autentycznych Bedy (jak ustaliły recenzje adultera.json i niewidomy.json). Numeracje wydań źródłowych wymagają jeszcze kontroli przy Migne/SCh/CCSL. Perykopa obejmuje w. 1-21; Święto Poświęcenia (10,22-42) stanowi następną jednostkę."
     }
    ],
    "refs": [
@@ -982,7 +1012,7 @@
    "citations": [
     [
      "św. Tomasz z Akwinu",
-     "Super Io., cap. X, lect. 1-4",
+     "Super Io., cap. X",
      [
       "section",
       "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
@@ -1022,7 +1052,7 @@
     ],
     [
      "R. Schnackenburg",
-     "Das Johannesevangelium II, ekskurs o pasterzu",
+     "Das Johannesevangelium II, ad loc. (J 10)",
      [
       "section",
       "Sieć odniesień biblijnych"
@@ -1036,43 +1066,50 @@
      "w. 1–6",
      "św. Augustyn",
      "In Iohannis Evangelium tractatus",
-     "Tract. in Io. 45,5-9",
-     "Augustyn pyta, kim jest odźwierny, i odpowiada z właściwą sobie swobodą: może sam Pan jest i bramą, i odźwiernym, a może odźwiernym jest Duch Święty, który otwiera rozumienie Pisma — bo owczarnią jest Kościół, a Pismo jego ogrodzeniem. Ważniejsze jest dla niego, kto wchodzi inaczej: wdzierają się przez mur wszyscy, którzy chcą dojść do owiec nie przez Chrystusa — filozofowie obiecujący oczyszczenie duszy bez Pośrednika, donatyści budujący zagrodę obok zagrody. Wchodzić przez bramę to wchodzić przez pokorę Ukrzyżowanego: kto ma coś innego za tytuł swej władzy nad duszami — urodzenie, uczoność, świętość własną — ten, choćby stał przy owcach, wszedł skądinąd."
+     "Tract. in Io. 45",
+     "Augustyn pyta, kim jest odźwierny, i odpowiada z właściwą sobie swobodą: może sam Pan jest i bramą, i pasterzem, a odźwiernym — Duch Święty, który wprowadza w całą prawdę i otwiera rozumienie Pisma; nie wzbrania się być odźwiernym Ten, skoro Syn nie wzbraniał się być bramą. Ważniejsze jest dla niego, kto wchodzi inaczej: przez mur przechodzi ten, kto się wywyższa, zamiast schylić się przed niskimi drzwiami pokory Ukrzyżowanego — i bywa wywyższony tylko po to, by upaść. Owczarnią jest Kościół katolicki, a znakiem fałszywego pasterza jest to, że szuka własnej chwały: „wielu, szukając swojej chwały, rozproszyło owce Chrystusa, zamiast je zgromadzić\". Nie wystarczy chlubić się imieniem Chrystusa ani twierdzić, że się widzi: wejść przez bramę to wejść przez pokorę Ukrzyżowanego, a kto ma coś innego za tytuł swej władzy nad duszami, ten — choćby stał przy owcach — wszedł skądinąd."
     ],
     [
      "w. 7–10",
      "św. Jan Chryzostom",
      "Homilie na Ewangelię Jana",
      "Hom. in Io. 59",
-     "Złotousty zwraca uwagę, że Chrystus nazywa się najpierw bramą, a dopiero potem pasterzem — i widzi w tym porządek zbawczej ekonomii: przez siebie samego wprowadza do Ojca, i przez siebie samego ustanawia wszystkich prawdziwych pasterzy. „Którzy przyszli przede mną\" nie godzi w proroków — oni weszli przez bramę, bo o Nim mówili — lecz w Teudasa, Judasza Galilejczyka i każdego, kto przyszedł we własnym imieniu; znak rozpoznawczy podał sam Pan: owce ich nie posłuchały. A obfitość życia Chryzostom czyta doksologicznie: nie samo zbawienie od kary, lecz królestwo, synostwo, zażyłość z Bogiem — więcej, niż śmiał prosić ktokolwiek ze zbawianych."
+     "Złotousty zwraca uwagę, że Chrystus nazywa się najpierw bramą, a dopiero potem pasterzem — i widzi w tym porządek zbawczej ekonomii: przez siebie samego wprowadza do Ojca, i przez siebie samego ustanawia wszystkich prawdziwych pasterzy. „Którzy przyszli przede mną\" nie godzi w proroków — „nie mówi tu o prorokach, jak twierdzą heretycy\", zastrzega Złotousty, bo ci, którzy uwierzyli Chrystusowi, słuchali i proroków — lecz w Teudasa, Judasza Galilejczyka i każdego, kto przyszedł we własnym imieniu; znak rozpoznawczy podał sam Pan: owce ich nie posłuchały. A obfitość życia Chryzostom czyta doksologicznie: nie samo zbawienie od kary, lecz królestwo, synostwo, zażyłość z Bogiem — więcej, niż śmiał prosić ktokolwiek ze zbawianych."
     ],
     [
      "w. 11–13",
      "św. Augustyn",
-     "Sermones",
-     "Sermo 46 (De pastoribus), 20-30",
-     "W wielkim kazaniu o pasterzach Augustyn przeprowadza sąd nad najemnikami, którego Kościół nigdy nie zdołał zapomnieć: najemnik to ten, kto szuka w owczarni własnej korzyści — sua quaerunt, non quae Iesu Christi; chce od owiec mleka i wełny, nie owiec. Nie czyni nic jawnie złego, i właśnie to czyni go niebezpiecznym: pozna się go dopiero po wilku. Widzi wilka i ucieka — a wilkiem jest diabeł i każdy, kto porywa dusze; ucieczką zaś nie zawsze jest odejście: milczy się, gdy trzeba upomnieć, bo strach przed utratą wygody jest już ucieczką nóg wewnętrznych. Ale i pociechę dodaje: gdzie pasterze są najemnikami, tam owce niech słuchają głosu Pasterza przez nich, bo katedra Mojżeszowa nie unieważnia słowa — czyńcie, co mówią, nie czyńcie, co czynią."
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 46",
+     "W traktacie poświęconym wprost tym wersetom Augustyn przeprowadza sąd nad najemnikami, którego Kościół nigdy nie zdołał zapomnieć: najemnik to ten, kto szuka w owczarni własnej korzyści, a nie tego, co Jezusa Chrystusa. Nie czyni nic jawnie złego, i właśnie to czyni go niebezpiecznym: pozna się go dopiero po wilku. Widzi wilka i ucieka — a wilkiem jest diabeł i każdy, kto porywa dusze; ucieczką zaś nie zawsze jest odejście: milczy się, gdy trzeba upomnieć, bo strach przed utratą wygody jest już ucieczką nóg wewnętrznych. Ale i pociechę dodaje: gdzie pasterze są najemnikami, tam owce niech słuchają przez nich głosu Pasterza, bo katedra Mojżeszowa nie unieważnia słowa — czyńcie, co mówią, nie czyńcie, co czynią. Najemnik jest w Kościele na coś potrzebny; nie jest jednak tym, za kim idzie się przez wilka."
     ],
     [
      "w. 14–16",
      "św. Cyryl Aleksandryjski",
      "Commentarii in Ioannem",
-     "In Io., ks. VI, ad 10,14-16",
-     "Cyryl zatrzymuje się nad καθώς: poznanie owiec przez pasterza jest tej samej natury, co poznanie Syna przez Ojca — nie równe co do miary, lecz jedno co do rodzaju, bo dokonuje się w Duchu, który jednoczy. Stąd wyprowadza swoją ulubioną myśl o przebóstwieniu: Syn zna Ojca naturą, my poznajemy Syna przez uczestnictwo w Jego Duchu — owca jest znana i poznaje, bo została wzięta w krąg życia trynitarnego. Inne owce to narody: Chrystus jest jednym pasterzem obojga ludów, który z dwóch czyni jedno (Ef 2,14), a jedna trzoda jest już nie według ciała — z obrzezania czy z pogan — lecz według wiary jednego głosu."
+     "In Io., ks. VI (ad 10,14-16)",
+     "Cyryl zatrzymuje się nad καθώς: poznanie owiec przez pasterza jest tej samej natury, co poznanie Syna przez Ojca — nie równe co do miary, lecz jedno co do rodzaju, bo dokonuje się w Duchu, który jednoczy. Stąd wyprowadza swoją ulubioną myśl o przebóstwieniu: Syn zna Ojca naturą, my poznajemy Syna przez uczestnictwo w Jego Duchu — owca jest znana i poznaje, bo została wzięta w krąg życia trynitarnego. Inne owce to narody: Chrystus jest jednym pasterzem obojga ludów, który z dwóch czyni jedno, a jedna trzoda jest już nie według ciała — z obrzezania czy z pogan — lecz według wiary jednego głosu. (Księgi VII i VIII komentarza, obejmujące J 10,18-12,48, zaginęły i znane są tylko z fragmentów katen — na w. 17-18 Cyryl w tym dziele już nie odpowiada.)"
+    ],
+    [
+     "w. 14–16",
+     "św. Grzegorz Wielki",
+     "Homiliae in Evangelia",
+     "Hom. in Ev. 14 (PL 76, 1127-1130)",
+     "Homilia wygłoszona w bazylice św. Piotra na niedzielę Dobrego Pasterza bierze za lemat dokładnie J 10,11-16 i czyta mowę jako regułę oraz rachunek sumienia urzędu. Jej sławny fragment (Hom. 14, 3-6; do dziś czytany w Godzinie czytań 4. Niedzieli Wielkanocnej) komentuje właśnie „znam moje\": „znam moje — to znaczy: miłuję je — a moje mnie znają\"; poznanie pasterza i owiec nie jest ewidencją, lecz miłością, bo kto nie miłuje prawdy, ten jeszcze jej nie poznał. Stąd kryterium, które Grzegorz zostawia pasterzom i owcom naraz: sprawdzianem poznania jest pójście za Nim — miłujący idą, a kto nie idzie, ten nie poznał, choćby umiał powiedzieć o Nim wszystko."
     ],
     [
      "w. 17–18",
-     "św. Grzegorz Wielki",
-     "Homiliae in Evangelia",
-     "Hom. in Ev. I, 14",
-     "Grzegorz — sam pasterz Kościoła w czasach zarazy i wojny — czyta mowę jako regułę i rachunek sumienia urzędu: pasterz dobry oddał życie, aby nikt z nas, pasterzy, nie śmiał nazywać ofiarą tego, co jest tylko niewygodą. Kto nie oddaje owcom mienia, jakże odda życie? — pyta; a kto milczy wobec możnych z lęku, ten już uciekł, choć stoi na ambonie. Wilkiem jest każdy, kto dusze rozdziera; najemnikiem — kto na urzędzie szuka honoru, nie służby. Ale zdanie „mam władzę znów je wziąć\" Grzegorz każe czytać owcom ku nadziei: skoro Pasterz położył życie własną władzą i własną władzą je wziął, śmierć pasterzy i owiec nie jest już przepaścią, lecz drogą, którą On przeszedł pierwszy — przodem, jak zawsze chodzi pasterz."
+     "św. Augustyn",
+     "In Iohannis Evangelium tractatus",
+     "Tract. in Io. 47",
+     "Traktat na J 10,14-21 rozstrzyga naprzód, w jakim sensie pasterzy jest wielu, a Pasterz jeden: dobrzy pasterze są członkami jedynego Pasterza, i gdy oni kładą życie za owce, czyni to w nich On — „beze mnie nic uczynić nie możecie\". Na tym tle Augustyn czyta nemo tollit eam a me: skoro nikt nie zabiera Mu życia, to również nikt nie dał Mu śmierci, lecz On ją przyjął; władza położenia i wzięcia na powrót jest tą samą władzą, a nie dwiema. Stąd wniosek eklezjalny, który Augustyn wyciąga w tym samym traktacie wprost przeciw rozłamowi: wszystkie owce mają wchodzić przez Chrystusa i żadna nie ma iść za Donatem — jedna owczarnia i jeden pasterz nie znoszą się z zagrodą budowaną obok."
     ],
     [
      "w. 19–21",
-     "św. Beda Czcigodny",
-     "In S. Ioannis Evangelium expositio",
-     "In Io. Ev. exp., ad cap. X",
-     "Beda zamyka katenę uwagą o rozłamie: słowo Boże, gdziekolwiek pada z mocą, dzieli — nie dlatego, że niesie niezgodę, lecz że odsłania serca, i jedni idą za głosem, a drudzy za podejrzeniem. Zarzut szaleństwa jest ostatnią redutą tych, którzy nie mogą już zaprzeczyć czynom: skoro znak jest niezaprzeczalny (czy demon otwiera oczy niewidomym?), pozostaje zohydzić Osobę. Beda widzi w tym pouczenie dla Kościoła każdego czasu: nie dziwić się, gdy mowa najczulsza — o pasterzu, który kładzie życie — spotyka się z największą wściekłością; tak było za Pana, tak bywa za sług. Kryterium zostaje to, które podali sami słuchacze: patrzeć na czyny i po nich rozpoznawać, czyj głos mówi."
+     "św. Jan Chryzostom",
+     "Homilie na Ewangelię Jana",
+     "Hom. in Io. 60",
+     "Złotousty odnotowuje z policzalną dokładnością, że zarzut opętania pada tu po raz czwarty — i że Chrystus tym razem nie odpowiada na niego ani słowem. Wcześniej rzekł „ja nie mam demona\"; teraz milczy, bo dowód złożył już w czynach, a tam, gdzie mówią dzieła, obrona słowna jest zbyteczna. Powód zarzutu Chryzostom widzi w samej wielkości mowy: słowa były większe, niż przystoi człowiekowi, i niepodobne do codziennych — więc ci, którzy nie mogli ich przyjąć, nazwali je szaleństwem. Druga strona rozłamu odpowiada jedynym argumentem, jaki w takiej sytuacji zostaje: czy demon może otwierać oczy niewidomym? Homilia domyka w ten sposób to, co otwarła mowa o pasterzu — kto ma stać na czele Kościoła, potrzebuje i mądrości, i męstwa, bo pasterz różni się od najemnika tym, że jeden zawsze patrzy na własne bezpieczeństwo, a drugi na owce."
     ]
    ],
    "liturgy": [
@@ -1098,7 +1135,7 @@
      "godzin",
      "Godzina czytań — pasterze Kościoła",
      "św. Augustyn, Sermo 46 (De pastoribus)",
-     "Wielkie kazanie o pasterzach czytane serialnie (17.-31. tydzień zwykły) jest liturgiczną recepcją figury najemnika i pasterza z J 10 — najdłuższy cykl patrystyczny w całej Liturgii Godzin."
+     "Wielkie kazanie o pasterzach, czytane serialnie w 25. tygodniu zwykłym obok czytania biblijnego z Ez 34, jest liturgiczną recepcją figury najemnika i pasterza z J 10."
     ]
    ],
    "textual": [
@@ -1106,21 +1143,21 @@
      7,
      "ἡ θύρα / ὁ ποιμήν",
      "wariant lekcji",
-     "NA28: ἐγώ εἰμι ἡ θύρα τῶν προβάτων — za zdecydowaną większością tradycji (P66 ℵ A B D W Θ Ψ f1.13 M). P75 oraz część przekładów koptyjskich (sa ac mf) czytają: ὁ ποιμήν — „ja jestem PASTERZEM owiec\".",
+     "NA28: ἐγώ εἰμι ἡ θύρα τῶν προβάτων (ja jestem bramą owiec). Aparat wymienia w tym miejscu wyłącznie świadków wariantu — ὁ ποιμήν (pasterz) czytają P75 oraz koptyjskie sa, ac i mf — lekcja θύρα stoi więc za całą pozostałą tradycją rękopiśmienną.",
      "Wariant P75 jest podręcznikowym przykładem ułatwienia: skoro dalej mowa o pasterzu (w. 11), kopista wygładził zaskakującą bramę na oczekiwanego pasterza. Właśnie zaskoczenie broni lekcji θύρα jako pierwotnej (lectio difficilior) — i czyni ją teologicznie cenną: zanim Jezus nazwie się pasterzem, nazywa się WEJŚCIEM, przez które każdy pasterz musi wejść. Świadectwo P75 pokazuje, że trudność odczuwano już około roku 200."
     ],
     [
      8,
      "πάντες ὅσοι ἦλθον πρὸ ἐμοῦ — opuszczenie πρὸ ἐμοῦ",
      "wariant lekcji",
-     "NA28 zatrzymuje πρὸ ἐμοῦ w tekście — za P66 ℵ² A B D K L W Ψ f13 33 M. Opuszczają je P45vid P75 ℵ* Γ Δ 892s 1424 pm, przekłady starołacińskie i syryjskie sinaickie oraz część tradycji koptyjskiej; u części świadków także przestawienia szyku.",
-     "Opuszczenie jest niemal na pewno wtórne i apologetyczne: „wszyscy, którzy przyszli przede mną\" brzmiało jak potępienie Mojżesza i proroków — i tak właśnie czytali werset gnostycy przeciw Staremu Testamentowi — więc usunięcie πρὸ ἐμοῦ zdejmowało pokusę. Tekst pełny, z kontekstem wdzierania się nie przez bramę i kryterium „owce ich nie posłuchały\", mówi o uzurpatorach, nie o prorokach; nota broni lekcji trudniejszej i jej właściwej lektury zarazem."
+     "NA28 zatrzymuje πρὸ ἐμοῦ (przede mną) w tekście — za P66 ℵ² A B D K L W Ψ (0250) f13 33. 579. 700. 1241 pm, sy^h**; Lcf. Opuszczają je P45vid P75 ℵ* Γ Δ 892s 1424 pm, lat (Wulgata i większość starołacińskich), sy^s.p, sa ac² pbo oraz Augustyn; Θ f1 565 l2211 pc przestawiają szyk (πρὸ ἐμοῦ ἦλθον). Znak pm po obu stronach znaczy, że tradycja większościowa jest w tym miejscu podzielona.",
+     "Opuszczenie jest niemal na pewno wtórne, a komentatorzy (Barrett, dawniej Ellicott) tłumaczą je apologetycznie: „wszyscy, którzy przyszli przede mną\" brzmiało jak potępienie Mojżesza i proroków — i tak właśnie czytali werset heretycy odrzucający Stary Testament, przeciw którym polemizuje Chryzostom — więc usunięcie πρὸ ἐμοῦ zdejmowało pokusę. Motyw ten pozostaje domysłem: sam aparat go nie poświadcza (opuszczenie wspiera zresztą także Augustyn). Tekst pełny, z kontekstem wdzierania się nie przez bramę i kryterium „owce ich nie posłuchały\", mówi o uzurpatorach, nie o prorokach; nota broni lekcji trudniejszej i jej właściwej lektury zarazem."
     ],
     [
      18,
      "αἴρει / ἦρεν",
      "wariant lekcji",
-     "NA28: οὐδεὶς αἴρει αὐτὴν ἀπʼ ἐμοῦ (praesens: nikt mi go nie ZABIERA) — za P66 i ogromną większością. P45 ℵ* B oraz syryjska Peszitta czytają aoryst ἦρεν: nikt mi go NIE ZABRAŁ.",
+     "NA28: οὐδεὶς αἴρει αὐτὴν ἀπʼ ἐμοῦ (praesens: nikt mi go nie ZABIERA) — za P66 i całą resztą tradycji (rell). P45 ℵ* B oraz syryjska Peszitta (sy^p) czytają aoryst ἦρεν: nikt mi go NIE ZABRAŁ. Osobno D i lekcjonarz l pomijają zdanie końcowe („to przykazanie otrzymałem od Ojca mego\").",
      "Rzadki przypadek, gdy Watykański i pierwotny Synaicki stoją przeciw tekstowi przyjętemu: aoryst brzmi jak spojrzenie wstecz — spoza Paschy — na dokonaną już Mękę i mógł powstać w liturgicznej lekturze po zmartwychwstaniu. Praesens jest trudniejsze w ustach Jezusa przed Męką (wyprzedza wydarzenia) i lepiej niesie sens zasadniczy: dobrowolność nie jest jednorazowym epizodem, lecz stałą władzą Syna. Wahanie tradycji między czasami gramatycznymi jest samo w sobie wykładem: zdanie jest prawdziwe przed krzyżem, na krzyżu i po nim."
     ]
    ],
