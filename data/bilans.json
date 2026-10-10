@@ -86,7 +86,7 @@
    "πωρόω",
    "poroo",
    "czasownik",
-   "zatwardzić, uczynić nieczułym (dosł. pokryć zrogowaceniem) — ἐπώρωσεν τὴν καρδίαν (12,40); słowo twardnienia tkanki przeniesione na serce; Paweł użyje go o częściowej zatwardziałości Izraela (Rz 11,7.25) w tej samej teologicznej sprawie"
+   "zatwardzić, uczynić nieczułym (dosł. pokryć zrogowaceniem) — ἐπώρωσεν τὴν καρδίαν (12,40); słowo twardnienia tkanki przeniesione na serce; Paweł użyje go o zatwardziałości części Izraela (Rz 11,7; rzeczownik πώρωσις w Rz 11,25) w tej samej teologicznej sprawie"
   ],
   [
    "ὁμολογέω",
@@ -128,7 +128,7 @@
    "ἐντολή",
    "entole",
    "rzeczownik",
-   "przykazanie — Ojciec dał mi przykazanie, co mówić (12,49-50); u Jana entole spina posłuszeństwo Syna (10,18; 12,49; 14,31) z przykazaniem nowym danym uczniom (13,34); zdanie „przykazanie Jego jest życiem wiecznym\" jest szczytem Janowej teologii słowa"
+   "przykazanie — Ojciec dał mi przykazanie, co mówić (12,49-50); u Jana entole spina posłuszeństwo Syna (10,18; 12,49-50; w 14,31 ta sama myśl przez czasownik ἐνετείλατο — przykazał) z przykazaniem nowym danym uczniom (13,34); zdanie „przykazanie Jego jest życiem wiecznym\" jest szczytem Janowej teologii słowa"
   ]
  ],
  "semitic": [
@@ -304,11 +304,6 @@
    "ἰάσομαι"
   ],
   [
-   "θεάομαι",
-   45,
-   "θεωρῶν / θεωρεῖ"
-  ],
-  [
    "φυλάσσω",
    47,
    "φυλάξῃ"
@@ -348,8 +343,8 @@
     "status": "ukonczona",
     "position": 31
    },
-   "intro": "Księga Znaków kończy się podwójnym zamknięciem: bilansem narratora i ostatnim wołaniem Jezusa. Bilans jest bezlitosny w swej zwięzłości: tak wielkie znaki — a nie wierzyli. Jan nie łagodzi tego zawodu; sięga po najtwardsze teksty Izajasza — pytanie znad pieśni o Słudze (któż uwierzył naszej wieści?) i wyrok z wizji tronowej (zaślepił ich oczy, zatwardził serce) — i dopisuje zdanie, które zapiera dech teologiczną śmiałością: Izajasz powiedział to, PONIEWAŻ UJRZAŁ JEGO CHWAŁĘ — chwała, którą prorok oglądał na tronie wysokim i wyniosłym, była chwałą Chrystusa. Obok wielkiej niewiary bilans odnotowuje wiarę połowiczną: wielu przywódców uwierzyło, lecz nie wyznawało — bo aposynagogos, bo faryzeusze, bo „umiłowali chwałę ludzką bardziej niż chwałę Boga\"; jedno zdanie, w którym mieści się cała patologia wiary prywatnej. A potem, choć scena już opustoszała (Jezus ukrył się w 12,36), ewangelista daje Mu zawołać raz jeszcze — ἔκραξεν — w wołaniu, które nie ma już ani miejsca, ani słuchaczy, bo jest skierowane ponad sceną do każdego czytelnika: streszczenie całej Ewangelii w siedmiu wersetach. Kto wierzy we mnie — wierzy w Tego, który mnie posłał; kto mnie widzi — widzi Jego; przyszedłem jako światłość; nie przyszedłem sądzić, lecz zbawić; a kto odrzuca — ma sędziego: samo słowo osądzi go w dniu ostatecznym; bo źródłem słowa jest przykazanie Ojca, a przykazanie Jego jest życiem wiecznym. Na tych słowach publiczna działalność Jezusa w czwartej Ewangelii kończy się definitywnie: następne zdanie księgi otworzy już Wieczernik.",
-   "struktura": "Perykopa jest epilogiem Księgi Znaków o dwóch skrzydłach: głos narratora (w. 37-43) i głos Jezusa (w. 44-50). Skrzydło pierwsze ma budowę bilansu z podwójnym uzasadnieniem prorockim: konstatacja (w. 37: τοσαῦτα σημεῖα — a nie wierzyli), pierwszy cytat (w. 38, Iz 53,1: pytanie o wiarę i o ramię — Księga Znaków jako obnażone ramię JHWH, któremu nie uwierzono), zaostrzenie (w. 39-40, Iz 6,10 w Janowej parafrazie: nie mogli wierzyć, bo Zaślepiający zaślepił) i zdanie-klucz hermeneutyczny (w. 41: Izajasz ujrzał JEGO chwałę — chrystofania tronowa jako tajna metryka całej niewiary i całej nadziei); potem kontrapunkt kryptowierzących (w. 42-43): wiara bez wyznania, zważona jedną frazą o dwóch chwałach. Skrzydło drugie (w. 44-50) jest jedyną w Ewangeliach mową bez sceny: bez miejsca, czasu i audytorium — Jan komponuje z autentycznych motywów Jezusowych podsumowanie całego objawienia, wykrzyczane (ἔκραξεν) ponad narracją wprost do czytelnika. Struktura wołania jest koncentryczna: wiara i widzenie przeniesione na Posyłającego (w. 44-45), autoprezentacja światłości (w. 46), podwójna definicja sądu (w. 47-48: nie sądzę — ale słowo osądzi; soteriologia i eschatologia w dwóch zdaniach), i fundament wszystkiego (w. 49-50): Syn mówi tylko to, co Ojciec przykazał, a Jego przykazanie JEST życiem wiecznym — ostatnie słowo publicznego Jezusa jest wyznaniem doskonałego posłuszeństwa. Funkcja całości w architekturze księgi: domknąć dwunastorozdziałową nawę znaków (inkluzja z 1,11: do swoich przyszedł, a swoi Go nie przyjęli), wyjaśnić teologicznie skandal niewiary (Pismo, nie przypadek), ostrzec wspólnotę przed wiarą niewyznaną — i przekazać czytelnikowi, jako testament Księgi Znaków, samo jądro orędzia, zanim zacznie się Księga Chwały.",
+   "intro": "Księga Znaków kończy się podwójnym zamknięciem: bilansem narratora i ostatnim wołaniem Jezusa. Bilans jest bezlitosny w swej zwięzłości: tak wielkie znaki — a nie wierzyli. Jan nie łagodzi tego zawodu; sięga po najtwardsze teksty Izajasza — pytanie znad pieśni o Słudze (któż uwierzył naszej wieści?) i wyrok z wizji tronowej (zaślepił ich oczy, zatwardził serce) — i dopisuje zdanie, które zapiera dech teologiczną śmiałością: Izajasz powiedział to, PONIEWAŻ UJRZAŁ JEGO CHWAŁĘ — chwała, którą prorok oglądał na tronie wysokim i wyniosłym, była chwałą Chrystusa. Obok wielkiej niewiary bilans odnotowuje wiarę połowiczną: wielu przywódców uwierzyło, lecz nie wyznawało — bo aposynagogos (wyłączenie z synagogi), bo faryzeusze, bo „umiłowali chwałę ludzką bardziej niż chwałę Boga\"; jedno zdanie, w którym mieści się cała patologia wiary prywatnej. A potem, choć scena już opustoszała (Jezus ukrył się w 12,36), ewangelista daje Mu zawołać raz jeszcze — ἔκραξεν — w wołaniu, które nie ma już ani miejsca, ani słuchaczy, bo jest skierowane ponad sceną do każdego czytelnika: streszczenie całej Ewangelii w siedmiu wersetach. Kto wierzy we mnie — wierzy w Tego, który mnie posłał; kto mnie widzi — widzi Jego; przyszedłem jako światłość; nie przyszedłem sądzić, lecz zbawić; a kto odrzuca — ma sędziego: samo słowo osądzi go w dniu ostatecznym; bo źródłem słowa jest przykazanie Ojca, a przykazanie Jego jest życiem wiecznym. Na tych słowach publiczna działalność Jezusa w czwartej Ewangelii kończy się definitywnie: następne zdanie księgi otworzy już Wieczernik.",
+   "struktura": "Perykopa jest epilogiem Księgi Znaków o dwóch skrzydłach: głos narratora (w. 37-43) i głos Jezusa (w. 44-50). Skrzydło pierwsze ma budowę bilansu z podwójnym uzasadnieniem prorockim: konstatacja (w. 37: τοσαῦτα σημεῖα — tak wielkie znaki — a nie wierzyli), pierwszy cytat (w. 38, Iz 53,1: pytanie o wiarę i o ramię — Księga Znaków jako obnażone ramię JHWH, któremu nie uwierzono), zaostrzenie (w. 39-40, Iz 6,10 w Janowej parafrazie: nie mogli wierzyć, bo Zaślepiający zaślepił) i zdanie-klucz hermeneutyczny (w. 41: Izajasz ujrzał JEGO chwałę — chrystofania tronowa jako tajna metryka całej niewiary i całej nadziei); potem kontrapunkt kryptowierzących (w. 42-43): wiara bez wyznania, zważona jedną frazą o dwóch chwałach. Skrzydło drugie (w. 44-50) jest jedyną w Ewangeliach mową bez sceny: bez miejsca, czasu i audytorium — Jan komponuje z autentycznych motywów Jezusowych podsumowanie całego objawienia, wykrzyczane (ἔκραξεν) ponad narracją wprost do czytelnika. Struktura wołania jest koncentryczna: wiara i widzenie przeniesione na Posyłającego (w. 44-45), autoprezentacja światłości (w. 46), podwójna definicja sądu (w. 47-48: nie sądzę — ale słowo osądzi; soteriologia i eschatologia w dwóch zdaniach), i fundament wszystkiego (w. 49-50): Syn mówi tylko to, co Ojciec przykazał, a Jego przykazanie JEST życiem wiecznym — ostatnie słowo publicznego Jezusa jest wyznaniem doskonałego posłuszeństwa. Funkcja całości w architekturze księgi: domknąć dwunastorozdziałową nawę znaków (inkluzja z 1,11: do swoich przyszedł, a swoi Go nie przyjęli), wyjaśnić teologicznie skandal niewiary (Pismo, nie przypadek), ostrzec wspólnotę przed wiarą niewyznaną — i przekazać czytelnikowi, jako testament Księgi Znaków, samo jądro orędzia, zanim zacznie się Księga Chwały.",
    "blocks": [
     {
      "label": "w. 37–43",
@@ -362,7 +357,7 @@
       [
        "ἵνα ὁ λόγος Ἠσαΐου πληρωθῇ",
        "podwójny Izajasz",
-       "Dwa cytaty tworzą dwustopniowy wywód. Pierwszy (Iz 53,1 za LXX, słowo w słowo): Panie, któż uwierzył naszej wieści, a ramię Pańskie komu zostało objawione? — pytanie otwierające czwartą pieśń o Słudze, a więc padające dokładnie na progu opowieści o Męce: niewiara wobec znaków jest tą samą niewiarą, która nie rozpozna Sługi w wzgardzonym. Drugi (w. 40) to Iz 6,10 w swobodnej, twardej parafrazie: ZAŚLEPIŁ ich oczy i ZATWARDZIŁ serce... Jan przestawia werset z trybu rozkazu (u Izajasza: zatwardź serce tego ludu) w dokonany oznajmujący i opuszcza uszy — zostają oczy i serce, organy widzenia znaków. Formuła „nie mogli wierzyć\" (οὐκ ἠδύναντο) jest celowo skandaliczna i taka ma zostać: Jan nie rozwiązuje tu dialektyki zatwardzenia i wolności (uczyni to cała tradycja po nim — zob. sekcja tomistyczna), lecz kładzie ją przed czytelnikiem jako biblijną powagę: bywa niewiara, która jest sądem nad wcześniejszym odrzuceniem światła (por. 3,19-21; 9,39-41)."
+       "Dwa cytaty tworzą dwustopniowy wywód. Pierwszy (Iz 53,1 za LXX, słowo w słowo): Panie, któż uwierzył naszej wieści, a ramię Pańskie komu zostało objawione? — pytanie otwierające czwartą pieśń o Słudze, a więc padające dokładnie na progu opowieści o Męce: niewiara wobec znaków jest tą samą niewiarą, która nie rozpozna Sługi w wzgardzonym. Drugi (w. 40) to Iz 6,10 w swobodnej, twardej parafrazie: ZAŚLEPIŁ ich oczy i ZATWARDZIŁ serce... Hebrajski ma tu imperatywy skierowane do proroka (zatwardź serce tego ludu, uszy jego przytęp, oczy zaklej), LXX — oznajmujące formy o ludzie (zgrubiało serce); Janowa wersja idzie o krok dalej i czyni Boga jawnym podmiotem dwóch czynności dokonanych (τετύφλωκεν — perfectum, ἐπώρωσεν — aoryst), opuszczając zarazem uszy: zostają oczy i serce, organy widzenia znaków. Ostatni człon zdania — καὶ ἰάσομαι αὐτούς (i uzdrowię ich) — stoi w futurum oznajmującym po ἵνα μή i jest znanym crux składniowym; przekład idzie za rozwiązaniem konsekutywnym („i abym ich nie uzdrowił\"), przyjętym także w polskiej tradycji translatorskiej. Formuła „nie mogli wierzyć\" (οὐκ ἠδύναντο) jest celowo skandaliczna i taka ma zostać: Jan nie rozwiązuje tu dialektyki zatwardzenia i wolności (uczyni to cała tradycja po nim — zob. sekcja tomistyczna), lecz kładzie ją przed czytelnikiem jako biblijną powagę: bywa niewiara, która jest sądem nad wcześniejszym odrzuceniem światła (por. 3,19-21; 9,39-41)."
       ],
       [
        "ὅτι εἶδεν τὴν δόξαν αὐτοῦ",
@@ -438,15 +433,15 @@
      "children": [
       [
        "Izajasz — ewangelista przed Ewangelią",
-       "Żaden prorok nie ukształtował chrześcijańskiej lektury Jezusa tak jak Izajasz: pieśni o Słudze (42; 49; 50; 52,13-53,12) dały słownik Męki, wizja tronowa (6) — słownik chwały, a ich połączenie w J 12,38-41 jest programowe: ten sam prorok, który pytał „któż uwierzył?\", widział chwałę. Kościół apostolski cytował Iz 53,1 w tej samej sprawie (Rz 10,16), a Iz 6,9-10 stało się wspólnym tekstem wszystkich czterech Ewangelii i Dziejów (Mk 4,12 par.; Dz 28,26-27) na wyjaśnienie niewiary Izraela — Jan idzie najdalej, wprost utożsamiając oglądaną przez Izajasza chwałę z chwałą Chrystusa (ślad tej samej intuicji w Targumie: „widziałem jekara — chwałę — Pana\"). Dla czytelnika bazy: to najstarsza chrześcijańska hermeneutyka Starego Testamentu w działaniu."
+       "Żaden prorok nie ukształtował chrześcijańskiej lektury Jezusa tak jak Izajasz: pieśni o Słudze (42; 49; 50; 52,13-53,12) dały słownik Męki, wizja tronowa (6) — słownik chwały, a ich połączenie w J 12,38-41 jest programowe: ten sam prorok, który pytał „któż uwierzył?\", widział chwałę. Kościół apostolski cytował Iz 53,1 w tej samej sprawie (Rz 10,16), a Iz 6,9-10 stało się wspólnym tekstem wszystkich czterech Ewangelii i Dziejów (Mk 4,12 par.; Dz 28,26-27) na wyjaśnienie niewiary Izraela — Jan idzie najdalej, wprost utożsamiając oglądaną przez Izajasza chwałę z chwałą Chrystusa (ślad tej samej ostrożności w Targumie do Proroków, który „widziałem Pana\" z Iz 6,1 oddaje jako „widziałem jekara — chwałę — Pana\", a Iz 6,5 przez „chwałę Szechiny\"). Dla czytelnika bazy: to najstarsza chrześcijańska hermeneutyka Starego Testamentu w działaniu."
       ],
       [
        "Zatwardzenie serca: od faraona po Jawne",
        "Biblia zna zatwardzenie jako tajemnicę o dwóch stronach: faraon zatwardza swoje serce (Wj 8,11.28) i Bóg je zatwardza (Wj 9,12; 10,1) — ta sama historia opowiedziana obiema stronami; Iz 6,9-10 przenosi tę dialektykę na Izraela wobec proroka. Tradycja rabiniczna łagodziła: Bóg zatwardza tego, kto się uprzednio zatwardził (por. midrasze o faraonie — „skoro sam zatwardził, Ja dodam\"); tradycja chrześcijańska od Ojców po Tomasza pójdzie tą samą drogą (zob. sekcja teologiczna). Historycznie ważne: Jan pisze te zdania nie jako outsider, lecz z wnętrza wielkiego bólu — jego wspólnota to Żydzi, których macierzysty naród w większości nie poszedł za Mesjaszem; bilans niewiary jest w tym samym stopniu teologią, co raną (dokładnie jak Rz 9,2: wielki smutek i nieustanny ból serca)."
       ],
       [
-       "Kryptowierzący: wiara w cieniu klątwy synagogalnej",
-       "Wersety 42-43 są socjologicznie najkonkretniejszym zdaniem Ewangelii o elicie: wielu z ἄρχοντες (członków rad, ludzi pozycji) uwierzyło, lecz nie wyznawało. Jan zna ten typ z imienia — Nikodem przychodzący nocą (3,1-2), broniący proceduralnie (7,50-52), niosący sto funtów wonności dopiero po śmierci (19,39); Józef z Arymatei, „uczeń, lecz ukryty ze strachu przed Żydami\" (19,38). Groźba jest ta sama, którą znamy z 9,22: aposynagogos — w realiach po Jawne utrata synagogi znaczyła utratę wspólnoty, statusu, sieci gospodarczej, often rodziny. Ewangelista nie szydzi z tego lęku; wystawia mu tylko rachunek teologiczny (dwie chwały) i pokaże w epilogu Męki, że kryptowierzący potrafią dojrzeć: to właśnie Nikodem i Józef pochowają Króla."
+       "Kryptowierzący: wiara w cieniu wykluczenia z synagogi",
+       "Wersety 42-43 są socjologicznie najkonkretniejszym zdaniem Ewangelii o elicie: wielu z ἄρχοντες (członków rad, ludzi pozycji) uwierzyło, lecz nie wyznawało. Jan zna ten typ z imienia — Nikodem przychodzący nocą (3,1-2), broniący proceduralnie (7,50-52), niosący sto funtów wonności dopiero po śmierci (19,39); Józef z Arymatei, „uczeń, lecz ukryty ze strachu przed Żydami\" (19,38). Groźba jest ta sama, którą znamy z 9,22: aposynagogos (wyłączony z synagogi) — utrata synagogi znaczyła utratę wspólnoty, statusu, sieci gospodarczej, często rodziny. Klasyczne wiązanie tego wykluczenia z jawneńskim birkat ha-minim (błogosławieństwo przeciw odstępcom), w postaci nadanej mu przez J. L. Martyna, uchodzi dziś za niedowiedzione (R. Kimelman, 1981; R. Langer, 2012): pewna pozostaje realna cena wyznania, nie procedura ani jej data. Ewangelista nie szydzi z tego lęku; wystawia mu tylko rachunek teologiczny (dwie chwały) i pokaże w epilogu Męki, że kryptowierzący potrafią dojrzeć: to właśnie Nikodem i Józef pochowają Króla."
       ],
       [
        "Mowa bez sceny: forma w. 44-50",
@@ -461,7 +456,7 @@
      "children": [
       [
        "Excaecatio — jak Bóg „zaślepia\", nie niszcząc wolności",
-       "„Nie mogli wierzyć, bo zaślepił ich oczy\" — zdanie, na którym wykoleiło się niejedno kazanie, ma w tradycji precyzyjną wykładnię. Tomasz (za Augustynem): Bóg nie wlewa złości ani nie odbiera światła jako pierwszy — zaślepienie jest KARĄ za uprzednie odrzucenie łaski: subtractio gratiae, cofnięcie światła wzgardzonego, oraz dopuszczenie, by serce poszło za własnym uporem (S. Th. I-II, q. 79, a. 3-4; Super Io. XII, lect. 7). Przyczynowość jest więc złożona: człowiek zamyka oczy — Bóg, szanując ten wybór, przestaje je otwierać; „nie mogli\" jest niemożnością nabytą, nie wrodzoną (jak nałóg jest niewolą realną, choć zawinioną). Dlatego ta sama Ewangelia mówi „nie mogli wierzyć\" i „aby nie zostali synami światłości — uwierzcie\" (12,36): wezwanie pozostaje szczere do końca, a zatwardzenie nigdy nie jest ostatnim słowem Boga (Paweł dopowie: Rz 11,25-32 — zatwardziałość CZĘŚCIOWA i CZASOWA, aż wejdzie pełnia)."
+       "„Nie mogli wierzyć, bo zaślepił ich oczy\" — zdanie, na którym wykoleiło się niejedno kazanie, ma w tradycji precyzyjną wykładnię. Tomasz (za Augustynem): Bóg nie wlewa złości ani nie odbiera światła jako pierwszy — zaślepienie jest KARĄ za uprzednie odrzucenie łaski: subtractio gratiae, cofnięcie światła wzgardzonego, oraz dopuszczenie, by serce poszło za własnym uporem (S. Th. I-II, q. 79, a. 3-4; Super Io., cap. XII). Przyczynowość jest więc złożona: człowiek zamyka oczy — Bóg, szanując ten wybór, przestaje je otwierać; „nie mogli\" jest niemożnością nabytą, nie wrodzoną (jak nałóg jest niewolą realną, choć zawinioną). Dlatego ta sama Ewangelia mówi „nie mogli wierzyć\" i „aby nie zostali synami światłości — uwierzcie\" (12,36): wezwanie pozostaje szczere do końca, a zatwardzenie nigdy nie jest ostatnim słowem Boga (Paweł dopowie: Rz 11,25-32 — zatwardziałość CZĘŚCIOWA i CZASOWA, aż wejdzie pełnia)."
       ],
       [
        "Fides sine confessione — wiara niewyznana jako wiara okaleczona",
@@ -469,11 +464,11 @@
       ],
       [
        "Sermo iudex — słowo jako sędzia dnia ostatecznego",
-       "„Słowo, które powiedziałem, ono go osądzi\" — zdanie buduje całą teologię sądu bez obrazu trybunału zewnętrznego: sądem jest KONFRONTACJA z odrzuconym słowem. Tomistycznie: sąd szczegółowy i ostateczny nie dodaje nowej normy — ujawnia prawdę o relacji człowieka do prawdy już danej; Chrystus sądzi jako Słowo, które było światłem każdego (1,9), więc nikt nie stanie przed normą obcą. Stąd dwie konsekwencje. Pocieszająca: sędzią jest to samo słowo, które chciało zbawić — sąd nie jest zemstą systemu, lecz odsłonięciem miłości przyjętej lub odepchniętej; nikt nie zostanie osądzony przez coś innego niż Ewangelia, którą słyszał. I poważna: słowo słyszane a niestrzeżone (w. 47) nie znika — czeka; każda usłyszana Ewangelia zostaje w aktach. Augustyn ujął to najkrócej: Verbum quod contemnis, ipsum te iudicabit — słowo, którym gardzisz, ono cię osądzi."
+       "„Słowo, które powiedziałem, ono go osądzi\" — zdanie buduje całą teologię sądu bez obrazu trybunału zewnętrznego: sądem jest KONFRONTACJA z odrzuconym słowem. Tomistycznie: sąd szczegółowy i ostateczny nie dodaje nowej normy — ujawnia prawdę o relacji człowieka do prawdy już danej; Chrystus sądzi jako Słowo, które było światłem każdego (1,9), więc nikt nie stanie przed normą obcą. Stąd dwie konsekwencje. Pocieszająca: sędzią jest to samo słowo, które chciało zbawić — sąd nie jest zemstą systemu, lecz odsłonięciem miłości przyjętej lub odepchniętej; nikt nie zostanie osądzony przez coś innego niż Ewangelia, którą słyszał. I poważna: słowo słyszane a niestrzeżone (w. 47) nie znika — czeka; każda usłyszana Ewangelia zostaje w aktach. Augustyn trzyma się tu litery samego tekstu, którą łacina Wulgaty utrwaliła jako formułę: sermo quem locutus sum, ille iudicabit eum in novissimo die (słowo, które powiedziałem, ono go osądzi w dniu ostatecznym)."
       ],
       [
        "Mandatum vita est — przykazanie jako życie wieczne",
-       "Ostatnie zdanie Księgi Znaków — przykazanie Jego JEST życiem wiecznym — rozbraja odwieczną opozycję prawa i życia. W perspektywie tomistycznej: przykazanie Boże nie jest arbitralnym testem posłuszeństwa, lecz komunikacją samego dobra Bożego — lex aeterna to sam Bóg jako miara; gdy Ojciec „przykazuje\" Synowi, co mówić, treścią przykazania jest samoudzielenie się Życia. Dlatego przyjęcie słowa nie „zasługuje\" dopiero na życie — już nim jest (17,3: to JEST życie wieczne: znać Ciebie); a posłuszeństwo Syna (nic od siebie) nie jest heteronomią, lecz doskonałą jednością woli, w której rozkaz i miłość są tym samym aktem (10,18: przykazanie wziąłem — i sam kładę życie). Etyka Janowa wyrasta stąd w całości: nowe przykazanie (13,34) będzie tym samym życiem podanym dalej — miłujcie się, JAK Ja was umiłowałem; kto w przykazaniu widzi ciężar, jeszcze go nie usłyszał."
+       "Ostatnie zdanie Księgi Znaków — przykazanie Jego JEST życiem wiecznym — rozbraja odwieczną opozycję prawa i życia. W perspektywie tomistycznej: przykazanie Boże nie jest arbitralnym testem posłuszeństwa, lecz komunikacją samego dobra Bożego — lex aeterna (prawo wieczne) to sam Bóg jako miara; gdy Ojciec „przykazuje\" Synowi, co mówić, treścią przykazania jest samoudzielenie się Życia. Dlatego przyjęcie słowa nie „zasługuje\" dopiero na życie — już nim jest (17,3: to JEST życie wieczne: znać Ciebie); a posłuszeństwo Syna (nic od siebie) nie jest heteronomią, lecz doskonałą jednością woli, w której rozkaz i miłość są tym samym aktem (10,18: przykazanie wziąłem — i sam kładę życie). Etyka Janowa wyrasta stąd w całości: nowe przykazanie (13,34) będzie tym samym życiem podanym dalej — miłujcie się, JAK Ja was umiłowałem; kto w przykazaniu widzi ciężar, jeszcze go nie usłyszał."
       ]
      ]
     },
@@ -481,7 +476,7 @@
      "type": "autor_ludzki",
      "title": "Autor ludzki: kim jest i co chce przekazać",
      "children": [],
-     "body": "Autor zamyka tą perykopą pierwszą księgę swego dzieła i czyni to z pełną samoświadomością architekta. Bilans (w. 37-43) jest jego osobistym głosem — jednym z najdłuższych komentarzy narratora w całej Ewangelii — i pełni trzy funkcje: teologiczną (niewiara wyjaśniona Pismem, nie przypadkiem: podwójny Izajasz), polemiczno-duszpasterską (portret kryptowierzących jako lustro dla czytelników z elit, którzy w latach 90. wciąż stali przed tym samym wyborem między synagogą a wyznaniem) i chrystologiczną (w. 41 jako klucz: cała historia Izraela, z wizją tronową włącznie, była już historią chwały Chrystusa). Wołanie (w. 44-50) jest zabiegiem formalnie brawurowym: mową bez sceny, skomponowaną z motywów rozsianych po całej księdze — autor daje czytelnikowi kondensat, „małą Ewangelię\", na wypadek gdyby z dwunastu rozdziałów miał zapamiętać tylko siedem wersetów. Inkluzje domykają nawę: „swoi Go nie przyjęli\" (1,11) — „nie wierzyli w Niego\" (12,37); „światłość świeci w ciemności\" (1,5) — „przyszedłem jako światłość\" (12,46); prolog i epilog Księgi Znaków patrzą na siebie przez dwanaście rozdziałów. A ostatnie słowo — posłuszeństwo Syna przykazaniu, które jest życiem — jest progiem, z którego autor za chwilę poprowadzi czytelnika do Wieczernika: Księga Chwały pokaże to samo posłuszeństwo już nie w mowach, lecz w umywaniu nóg i na krzyżu."
+     "body": "Autor zamyka tą perykopą pierwszą księgę swego dzieła i czyni to z pełną samoświadomością architekta. Bilans (w. 37-43) jest jego osobistym głosem — jednym z najdłuższych komentarzy narratora w całej Ewangelii — i pełni trzy funkcje: teologiczną (niewiara wyjaśniona Pismem, nie przypadkiem: podwójny Izajasz), polemiczno-duszpasterską (portret kryptowierzących jako lustro dla czytelników z elit, którzy pod koniec I wieku wciąż stali przed tym samym wyborem między synagogą a wyznaniem) i chrystologiczną (w. 41 jako klucz: cała historia Izraela, z wizją tronową włącznie, była już historią chwały Chrystusa). Wołanie (w. 44-50) jest zabiegiem formalnie brawurowym: mową bez sceny, skomponowaną z motywów rozsianych po całej księdze — autor daje czytelnikowi kondensat, „małą Ewangelię\", na wypadek gdyby z dwunastu rozdziałów miał zapamiętać tylko siedem wersetów. Inkluzje domykają nawę: „swoi Go nie przyjęli\" (1,11) — „nie wierzyli w Niego\" (12,37); „światłość świeci w ciemności\" (1,5) — „przyszedłem jako światłość\" (12,46); prolog i epilog Księgi Znaków patrzą na siebie przez dwanaście rozdziałów. A ostatnie słowo — posłuszeństwo Syna przykazaniu, które jest życiem — jest progiem, z którego autor za chwilę poprowadzi czytelnika do Wieczernika: Księga Chwały pokaże to samo posłuszeństwo już nie w mowach, lecz w umywaniu nóg i na krzyżu."
     },
     {
      "type": "autor_bozy",
@@ -543,11 +538,11 @@
      "children": [
       [
        "Liturgia",
-       "Wołanie J 12,44-50 czyta się w środę 4. tygodnia wielkanocnego — w samym środku mystagogii paschalnej Kościół słucha kondensatu Ewangelii: światłość, nie-sąd, słowo-sędzia, przykazanie-życie. Cytaty Izajaszowe perykopy żyją w liturgii własnym życiem: Iz 53 jest pierwszym czytaniem Wielkiego Piątku (pytanie „któż uwierzył naszej wieści?\" otwiera liturgię Męki — dokładnie w funkcji, którą nadał mu Jan), a wizja tronowa z Iz 6 brzmi w każdym Sanctus; werset 41 pozwala Kościołowi śpiewać „Święty, Święty, Święty\" ze świadomością, komu śpiewali serafini. W tradycji bizantyjskiej motyw zaślepienia i chwały przenika hymnografię Wielkiego Tygodnia (kontakia o niewierze), a w. 46 (światłość, by nikt nie pozostał w ciemności) należy do tekstów towarzyszących liturgii światła."
+       "Wołanie J 12,44-50 czyta się w środę 4. tygodnia wielkanocnego — w samym środku mystagogii paschalnej Kościół słucha kondensatu Ewangelii: światłość, nie-sąd, słowo-sędzia, przykazanie-życie. Cytaty Izajaszowe perykopy żyją w liturgii własnym życiem: Iz 53 jest pierwszym czytaniem Wielkiego Piątku (pytanie „któż uwierzył naszej wieści?\" otwiera liturgię Męki — dokładnie w funkcji, którą nadał mu Jan), a śpiew serafinów z Iz 6,3 brzmi w Sanctus każdej Mszy; werset 41 pozwala Kościołowi śpiewać „Święty, Święty, Święty\" ze świadomością, komu śpiewali serafini."
       ],
       [
        "Recepcja teologiczna",
-       "Perykopa pracowała w trzech wielkich sprawach. W teologii Izraela i łaski: Iz 6,10 u Jana — obok Rz 9-11 — był przez wieki tekstem sporów o predestynację i zatwardzenie (Augustyn przeciw pelagianom, spory de auxiliis, debaty reformacyjne); współczesna teologia po Nostra aetate czyta bilans niewiary z Pawłowym dopowiedzeniem o nieodwołalnych darach, przeciw wszelkiej teologii zastąpienia. W chrystologii: w. 41 stał się patrystycznym dowodem preegzystencji — „Izajasz widział chwałę Chrystusa\" cytują Ojcowie od Ireneusza po Cyryla jako klucz do teofanii starotestamentowych (to Syn był widziany, ilekroć „widziano Boga\"); ikonografia Chrystusa w mandorli na tronie ma tu swoją biblijną metrykę. W teologii słowa: „słowo, które powiedziałem, ono go osądzi\" karmiło naukę o powadze przepowiadania (od Grzegorzowej Reguły pasterskiej po Dei verbum i współczesną teologię ambony), a „przykazanie Jego jest życiem wiecznym\" — mistykę posłuszeństwa i całą duchowość lectio divina: czytać tę księgę znaczy podlegać słowu, które będzie sędzią i chce być życiem. Kryptowierzący z w. 42-43 zrobili osobną karierę jako zwierciadło: od kazań patrystycznych o wstydzie wyznania po współczesne rachunki sumienia z wiary prywatyzowanej."
+       "Perykopa pracowała w trzech wielkich sprawach. W teologii Izraela i łaski: Iz 6,10 u Jana — obok Rz 9-11 — był przez wieki tekstem sporów o predestynację i zatwardzenie (Augustyn przeciw pelagianom, spory de auxiliis, debaty reformacyjne); współczesna teologia po Nostra aetate czyta bilans niewiary z Pawłowym dopowiedzeniem o nieodwołalnych darach, przeciw wszelkiej teologii zastąpienia. W chrystologii: w. 41 był argumentem za preegzystencją Syna i za chrystologiczną lekturą teofanii Starego Przymierza — linia, którą wyznacza Justyn Męczennik w Dialogu z Tryfonem i która prowadzi do Ojców greckich i Cyryla Aleksandryjskiego. Nie jest to jednak lektura powszechna: Augustyn w De Trinitate (ks. II-IV) świadomie odmawia zakładania, że każda teofania Starego Przymierza była ukazaniem się Syna — objawienia te dokonywały się przez stworzone pośrednictwa, a chrystologiczne odczytanie Iz 6 pozostaje u niego wnioskiem z Janowego zdania, nie z teorii teofanii. W teologii słowa: „słowo, które powiedziałem, ono go osądzi\" karmiło naukę o powadze przepowiadania (od Grzegorzowej Reguły pasterskiej po Dei verbum i współczesną teologię ambony), a „przykazanie Jego jest życiem wiecznym\" — mistykę posłuszeństwa i całą duchowość lectio divina: czytać tę księgę znaczy podlegać słowu, które będzie sędzią i chce być życiem. Kryptowierzący z w. 42-43 zrobili osobną karierę jako zwierciadło: od kazań patrystycznych o wstydzie wyznania po współczesne rachunki sumienia z wiary prywatyzowanej."
       ]
      ]
     },
@@ -555,7 +550,7 @@
      "type": "patrystyka",
      "title": "Komentarze Ojców Kościoła (catena patrum)",
      "children": [],
-     "body": "Katena epilogu Księgi Znaków krąży wokół trzech ognisk: jak czytać zatwardzenie, nie obwiniając Boga (Augustyn, Chryzostom); co znaczy, że Izajasz widział chwałę Syna (Cyryl); i jak słowo staje się sędzią, pozostając zbawieniem (Augustyn, Beda). Chryzostom dokłada bezlitosny portret kryptowierzących."
+     "body": "Katena epilogu Księgi Znaków krąży wokół trzech ognisk: jak czytać zatwardzenie, nie obwiniając Boga (Chryzostom, Augustyn); jak słowo staje się sędzią, pozostając zbawieniem (Augustyn); i dlaczego „nie mówiłem od siebie\" jest tytułem Posłanego, a nie Jego umniejszeniem (Cyryl, którego zachowany komentarz dotyka tej perykopy dopiero od w. 49). Chryzostom dokłada bezlitosny portret kryptowierzących."
     },
     {
      "type": "zakonczenie",
@@ -567,7 +562,7 @@
      "type": "nota",
      "title": "Nota warsztatowa",
      "children": [],
-     "body": "Tekst grecki wszystkich 14 wersetów złożono programowo ze źródła prawdy (db.sqlite, words, księga 500), ze zdjęciem znaków aparatu, i zweryfikowano co do znaku. Trzy noty tekstualne (w. 40, 41, 47) oparto na aparacie NA28 z tabeli commentaries. Przekład roboczy własny, dosłowny; w w. 40 zachowano twardą składnię parafrazy Izajaszowej (z „i abym ich nie uzdrowił\" wedle tekstu Janowego), a w w. 46 szyk „Ja, światłość, przyszedłem\" za emfazą oryginału. Podział na trzy bloki za dwuskrzydłową budową epilogu (bilans — wołanie: wiara i światłość — wołanie: sąd i przykazanie). Tytuły sekcji bez numeracji rzymskiej (konwencja repozytorium). Katena sześciu głosów (Augustyn i Chryzostom dwukrotnie — epilog jest ich żywiołem). Perykopa domyka Księgę Znaków; następna jednostka (13,1-20: umycie nóg) otworzy Księgę Chwały."
+     "body": "Tekst grecki wszystkich 14 wersetów złożono programowo ze źródła prawdy (db.sqlite, words, księga 500), ze zdjęciem znaków aparatu, i zweryfikowano co do znaku. Trzy noty tekstualne (w. 40, 41, 47) oparto na aparacie NA28 z tabeli commentaries. Przekład roboczy własny, dosłowny; w w. 40 zachowano twardą składnię parafrazy Izajaszowej (z „i abym ich nie uzdrowił\" wedle tekstu Janowego), a w w. 46 szyk „Ja, światłość, przyszedłem\" za emfazą oryginału. Podział na trzy bloki za dwuskrzydłową budową epilogu (bilans — wołanie: wiara i światłość — wołanie: sąd i przykazanie). Tytuły sekcji bez numeracji rzymskiej (konwencja repozytorium). Katena pięciu głosów (Augustyn i Chryzostom dwukrotnie — epilog jest ich żywiołem); komentarz Cyryla do J 12 zachował się dopiero od w. 49, bo księgi V-VIII jego dzieła są zaginione, a przypisywany Bedzie komentarz do Jana (PL 92) nie należy do dzieł autentycznych, więc oba wpisy poprowadzono tylko tam, gdzie mają poświadczoną podstawę. Perykopa domyka Księgę Znaków; następna jednostka (13,1-20: umycie nóg) otworzy Księgę Chwały."
     }
    ],
    "refs": [
@@ -814,7 +809,7 @@
      null,
      "Mt 10,40",
      "paralela",
-     "Kto was przyjmuje, mnie przyjmuje, a kto mnie — Tego, który mnie posłał: synoptyczna zasada szaliah."
+     "Kto was przyjmuje, mnie przyjmuje, a kto mnie — Tego, który mnie posłał: synoptyczna zasada szaliach (wysłannik reprezentuje posyłającego)."
     ],
     [
      [
@@ -865,7 +860,7 @@
    "citations": [
     [
      "św. Tomasz z Akwinu",
-     "Super Io., cap. XII, lect. 7-8",
+     "Super Io., cap. XII",
      [
       "section",
       "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
@@ -895,7 +890,7 @@
     ],
     [
      "S. Mędala",
-     "Ewangelia według św. Jana II, ad loc.",
+     "Ewangelia według św. Jana I (rozdz. 1-12), ad loc.",
      [
       "section",
       "Autor ludzki: kim jest i co chce przekazać"
@@ -919,22 +914,15 @@
      "w. 37–43",
      "św. Jan Chryzostom",
      "Homilie na Ewangelię Jana",
-     "Hom. in Io. 68",
-     "Chryzostom rozbraja pozorny fatalizm cytatów: prorok nie SPRAWIŁ niewiary, przepowiadając ją — jak lekarz nie sprawia śmierci, zapowiadając ją choremu, który nie chce leczenia. „Nie mogli wierzyć\" znaczy: nie chcieli tak uparcie, że niemożność stała się ich drugą naturą; Bóg zaślepia tych, którzy zamknęli oczy — odbierając światło wzgardzone, nie wlewając ciemności. A nad kryptowierzącymi Złotousty nie ma litości retorycznej: cóż z wiary, która kłania się ludzkim opiniom? Umiłowali chwałę ludzką — to znaczy: przehandlowali wieczną za sezonową; bali się wyłączenia z synagogi, a nie bali się wyłączenia z nieba. Niech każdy, kto wierzy w ukryciu przed śmiechem świata, przeczyta ten werset jak własny akt oskarżenia — i jak zaproszenie, bo drzwi wyznania stoją otworem, póki trwa dziś."
+     "Hom. in Io. 68-69",
+     "Chryzostom rozbraja pozorny fatalizm cytatów jednym odwróceniem: nie dlatego nie uwierzyli, że Izajasz powiedział, lecz dlatego Izajasz powiedział, że nie mieli uwierzyć — „ponieważ\" i „powiedział\" wskazują nie przyczynę niewiary, lecz zdarzenie, które zostało zapowiedziane; celem ewangelisty jest wykazać nieomylność Pisma, a nie unieważnić wolność. „Nie mogli wierzyć\" znaczy zatem: nie chcieli tak uparcie, że niemożność stała się ich drugą naturą. A nad kryptowierzącymi Złotousty nie ma litości retorycznej: cóż z wiary, która kłania się ludzkim opiniom? Umiłowali chwałę ludzką — to znaczy: przehandlowali wieczną za sezonową; bali się wyłączenia z synagogi, a nie bali się wyłączenia z nieba. Niech każdy, kto wierzy w ukryciu przed śmiechem świata, przeczyta ten werset jak własny akt oskarżenia — i jak zaproszenie, bo drzwi wyznania stoją otworem, póki trwa dziś."
     ],
     [
      "w. 37–43",
      "św. Augustyn",
      "In Iohannis Evangelium tractatus",
-     "Tract. in Io. 53,5-11",
-     "Augustyn stawia pytanie, którego nie wolno ominąć: jeśli nie mogli wierzyć — czyż mieli winę? I odpowiada z całą subtelnością nauki o łasce: zaślepienie jest KARĄ za grzechy poprzedzające — Bóg nie zatwardza, wlewając złość, lecz nie udzielając miłosierdzia temu, kto nim wzgardził; niemożność jest nabyta, jak niewola pijaka, który mógł nie pić. A jednak — dodaje — dopóki żyją, nie jest to wyrok ostateczny: niejeden z tych zaślepionych przejrzał po Pięćdziesiątnicy; prorok mówi o stanie, nie o przeznaczeniu. O chwale zaś, którą widział Izajasz, mówi krótko i wielkopańsko: widział chwałę Syna, bo Syn jest widzialnością Ojca — ilekroć w Starym Przymierzu „widziano Boga\", widziano Tego, który miał się stać ciałem; Pisma obu Testamentów są jedną księgą o jednym Chrystusie."
-    ],
-    [
-     "w. 44–46",
-     "św. Cyryl Aleksandryjski",
-     "Commentarii in Ioannem",
-     "In Io., ks. IX, ad 12,44-46",
-     "Cyryl czyta wołanie jako lekcję o przezroczystości Syna: kto wierzy we mnie, nie we mnie wierzy — nie dlatego, żeby Syn nie był godzien wiary, lecz że nie jest KIM INNYM niż Ojciec co do natury; wiara nie zatrzymuje się na Nim jak na stworzeniu, lecz przez Niego jak przez doskonały obraz przechodzi do Archetypu — nie opuszczając obrazu, bo obraz jest współistotny. Tak i widzenie: kto widzi Syna, widzi Ojca — nie oczami ciała, lecz oczami wiary oświeconej, które w dziełach i słowach rozpoznają jedną boskość. A „światłość przyszła na świat\" znaczy: nie po to Słońce sprawiedliwości wzeszło, by ktokolwiek musiał nocować w ciemności — jeśli kto w niej trwa, sam sobie zamknął okiennice; światła nie brakło."
+     "Tract. in Io. 53",
+     "Augustyn stawia pytanie, którego nie wolno ominąć: jeśli nie mogli wierzyć — czyż mieli winę? I odpowiada z całą subtelnością nauki o łasce: zaślepienie jest KARĄ za grzechy poprzedzające — Bóg nie zatwardza, wlewając złość, lecz nie udzielając miłosierdzia temu, kto nim wzgardził; niemożność jest nabyta, jak niewola pijaka, który mógł nie pić. A jednak — dodaje — dopóki żyją, nie jest to wyrok ostateczny: niejeden z tych zaślepionych przejrzał po Pięćdziesiątnicy; prorok mówi o stanie, nie o przeznaczeniu. O chwale zaś, którą widział Izajasz, powie tyle, ile mówi samo zdanie Jana: prorok widział chwałę Chrystusa, a Pisma obu Testamentów są jedną księgą o jednym Chrystusie. Dalej Augustyn nie idzie — w De Trinitate (ks. II-IV) odmawia wprost założenia, że każda teofania Starego Przymierza była ukazaniem się Syna; jego chrystologiczna lektura Iz 6 jest wnioskiem z tekstu Janowego, nie z ogólnej teorii widzeń."
     ],
     [
      "w. 44–46",
@@ -947,15 +935,15 @@
      "w. 47–50",
      "św. Augustyn",
      "In Iohannis Evangelium tractatus",
-     "Tract. in Io. 54,4-8",
-     "Augustyn wykłada podwójny sąd z precyzją prawnika łaski: Chrystus nie sądzi TERAZ, bo teraz jest czas miłosierdzia — pierwszy adwent jest lekarstwem, nie trybunałem; ale słowo wzgardzone nie przepada: ono stanie w dniu ostatecznym jako świadek i sędzia. Verbum quod contemnis, ipsum te iudicabit: słowo, którym gardzisz, ono cię osądzi — nie obcy kodeks, lecz ta właśnie Ewangelia, którą słyszałeś; sąd będzie tylko odsłonięciem twojej odpowiedzi. A o przykazaniu, które jest życiem wiecznym, mówi z zachwytem: gdzie indziej rozkaz i nagroda są dwiema rzeczami — tu są jednym; Ojciec nie nakazuje niczego prócz tego, czym sam jest dla nas: życia. Przeto zachować Jego przykazanie to nie dźwigać ciężar, lecz nosić w sobie źródło."
+     "Tract. in Io. 54",
+     "Augustyn wykłada podwójny sąd z precyzją prawnika łaski: Chrystus nie sądzi TERAZ, bo teraz jest czas miłosierdzia — pierwszy adwent jest lekarstwem, nie trybunałem; ale słowo wzgardzone nie przepada: ono stanie w dniu ostatecznym jako świadek i sędzia. sermo quem locutus sum, ille iudicabit eum in novissimo die (słowo, które powiedziałem, ono go osądzi w dniu ostatecznym) — a więc nie obcy kodeks, lecz ta właśnie Ewangelia, którą słyszałeś; sąd będzie tylko odsłonięciem twojej odpowiedzi. A o przykazaniu, które jest życiem wiecznym, mówi z zachwytem: gdzie indziej rozkaz i nagroda są dwiema rzeczami — tu są jednym; Ojciec nie nakazuje niczego prócz tego, czym sam jest dla nas: życia. Przeto zachować Jego przykazanie to nie dźwigać ciężar, lecz nosić w sobie źródło."
     ],
     [
      "w. 47–50",
-     "św. Beda Czcigodny",
-     "In S. Ioannis Evangelium expositio",
-     "In Io. Ev. exp., ad cap. XII",
-     "Beda zamyka Księgę Znaków spojrzeniem wstecz i w przód. Wstecz: dwanaście rozdziałów znaków kończy się nie triumfem, lecz wołaniem do opornych — taka jest cierpliwość Nauczyciela, który do ostatniej lekcji powtarza pierwszą: wierzcie w światłość. W przód: ostatnie zdanie — „jak mi powiedział Ojciec, tak mówię\" — jest progiem Męki; kto tak mówi, ten tak samo będzie CZYNIŁ: jak mu przykazał Ojciec, tak pójdzie na krzyż (14,31). Niech czytelnik nauczy się od tego przejścia porządku własnego życia: najpierw słuchać słów, które są życiem, potem iść za Tym, który od słów przechodzi do dzieła; bo Ewangelia nie dzieli się naprawdę na księgę znaków i księgę męki — dzieli się na czas, gdy Chrystus mówi do nas, i czas, gdy z nami umiera i zmartwychwstaje. Błogosławiony, kto z pierwszego przeszedł do drugiego."
+     "św. Cyryl Aleksandryjski",
+     "Commentarii in Ioannem",
+     "In Io., ks. IX (ad 12,49-50)",
+     "Zachowany komentarz Cyryla do czwartej Ewangelii otwiera księgę dziewiątą dokładnie na tych wersetach: „Nie mówiłem od siebie, lecz Ojciec, który mnie posłał, On mi dał przykazanie, co mam powiedzieć\". Aleksandryjczyk czyta to zdanie nie jako pomniejszenie Syna, lecz jako Jego legitymację: mówiąc, że otrzymał przykazanie i nie mówi od siebie, Jezus wykazuje, że jest właśnie owym Prorokiem zapowiedzianym w Prawie i obwieszczonym wcześniej głosem Boga Ojca (Pwt 18,18-19) — przyjmuje miarę Posłanego, bo w tej mierze przyszedł. Skoro zaś przykazanie Ojca JEST życiem wiecznym, posłuszeństwo Syna nie okazuje się służbą niższego, lecz szafunkiem tego samego życia: Ojciec nie przykazuje nic poza tym, czym sam obdarza."
     ]
    ],
    "liturgy": [
@@ -967,7 +955,7 @@
     ],
     [
      "rzymski",
-     "Wielki Piątek — pierwsza czytanie",
+     "Wielki Piątek — pierwsze czytanie",
      "Iz 52,13-53,12 (z pytaniem 53,1)",
      "Liturgia Męki otwiera się pytaniem, które Jan wpisał w bilans: „któż uwierzył naszej wieści?\" — Kościół czyta pieśń o Słudze dokładnie w funkcji nadanej jej przez czwartą Ewangelię."
     ],
@@ -975,13 +963,7 @@
      "rzymski",
      "Sanctus — echo Iz 6 przez w. 41",
      "Iz 6,3 / J 12,41",
-     "Trisagion serafinów w każdej Mszy; werset 41 pozwala Kościołowi wiedzieć, czyją chwałę opiewali — chwałę Tego, który jest na ołtarzu."
-    ],
-    [
-     "godzin",
-     "Godzina czytań — okres wielkanocny",
-     "Tract. in Io. 53-54 (fragmenty)",
-     "Augustynowe traktaty o zatwardzeniu, dwóch chwałach i słowie-sędzim w patrystycznej lekturze Kościoła."
+     "Śpiew serafinów (Iz 6,3) w Sanctus każdej Mszy; werset 41 pozwala Kościołowi wiedzieć, czyją chwałę opiewali — chwałę Tego, który jest na ołtarzu."
     ]
    ],
    "textual": [
@@ -989,22 +971,22 @@
      40,
      "ἐπώρωσεν / ἐπήρωσεν / πεπώρωκεν",
      "wariant lekcji",
-     "NA28: τετύφλωκεν... καὶ ἐπώρωσεν (zatwardził — aoryst) za A B* L Θ Ψ f13 33. Najstarsi świadkowie P66 P75 ℵ K W czytają ἐπήρωσεν („okaleczył/uszkodził\"), a B2 f1 z tekstem bizantyjskim — perfectum πεπώρωκεν; w drugiej części wersetu tradycja waha się też między στραφῶσιν i (ἐπι)στρέψωσιν.",
-     "Wariant P66 P75 ℵ jest fonetycznie bliski (o/ē) i znaczeniowo pokrewny — „uszkodził serce\" zamiast „zatwardził\" — ale lekcja z π-ω-ρ (od πῶρος, zrogowacenie) jest terminologicznie osadzona w tradycji zatwardzenia (Mk 6,52; Rz 11,7.25; Ef 4,18) i lepiej tłumaczy pozostałe warianty jako itacyzmy. Rzadki przypadek, gdy tekst przyjęty idzie przeciw trzem najstarszym papirusom-kodeksom — nota odnotowuje wagę rozstrzygnięcia."
+     "NA28: τετύφλωκεν... καὶ ἐπώρωσεν (zatwardził — aoryst) za A B* L Θ Ψ f13 33. Papirusy P66 P75 i Synajski, a z nimi K W, czytają ἐπήρωσεν („okaleczył/uszkodził\"), natomiast B2 f1 z tekstem bizantyjskim — perfectum πεπώρωκεν; w drugiej części wersetu tradycja waha się też między στραφῶσιν (tekst) oraz ἐπιστρέψωσιν (K L W Θ) i ἐπιστραφῶσιν (A Dc f1 M).",
+     "Rozbieżność nie jest błędem kopisty, lecz pomieszaniem dwóch czasowników o zbliżonym brzmieniu (ω/η): πωρόω („zatwardzić\", od πῶρος — zrogowacenie, stwardnienie) i πηρόω („okaleczyć, pozbawić sprawności\"). Lekcja z π-ω-ρ jest terminologicznie osadzona w tradycji zatwardzenia serca (Mk 6,52; Rz 11,7; Ef 4,18; rzeczownik πώρωσις w Rz 11,25), a πεπώρωκεν tłumaczy się jako wygładzenie do perfectum pod wpływem poprzedzającego τετύφλωκεν. Rzadki przypadek, gdy tekst przyjęty idzie przeciw P66, P75 i Synajskiemu — nota odnotowuje wagę rozstrzygnięcia."
     ],
     [
      41,
      "ὅτι / ὅτε εἶδεν (oraz + τοῦ θεοῦ)",
      "wariant lekcji",
-     "NA28: ταῦτα εἶπεν Ἠσαΐας ὅτι εἶδεν τὴν δόξαν αὐτοῦ — „PONIEWAŻ ujrzał Jego chwałę\" (P66 P75 ℵ A B L Θ Ψ 33). Tekst bizantyjski z D f13: ὅτε — „GDY ujrzał\"; nadto Θ f13 i przekłady dodają τοῦ θεοῦ („chwałę Boga\"), a D — „chwałę Boga swego\".",
+     "NA28: ταῦτα εἶπεν Ἠσαΐας ὅτι εἶδεν τὴν δόξαν αὐτοῦ — „PONIEWAŻ ujrzał Jego chwałę\" (P66 P75 ℵ A B L Θ Ψ 33). Tekst bizantyjski z D f13 i tradycją syryjską: ὅτε — „GDY ujrzał\"; W ma ἐπεί („skoro\"); nadto Θ f13 i przekłady koptyjskie dodają τοῦ θεοῦ („chwałę Boga\"), a D — „chwałę Boga swego\".",
      "Różnica jednej litery zmienia teologię zdania: ὅτε (gdy) czyni wizję jedynie okolicznością czasową; ὅτι (ponieważ) — ŹRÓDŁEM proroctwa: Izajasz mówił o Chrystusie, bo widział Jego chwałę. Najstarsi świadkowie jednogłośnie wspierają lekcję przyczynową, a dodatek „Boga\" jest wygładzeniem ostrożnościowym, które rozbraja chrystologiczną śmiałość wersetu. Zatrzymujemy ὅτι z pełną świadomością stawki: to jedna litera, na której wisi patrystyczny dowód preegzystencji."
     ],
     [
      47,
      "καὶ μὴ φυλάξῃ / καὶ μὴ πιστεύσῃ",
      "wariant lekcji",
-     "NA28: ἐάν τίς μου ἀκούσῃ τῶν ῥημάτων καὶ μὴ φυλάξῃ — „usłyszy i NIE USTRZEŻE\" (P66* P75 ℵ A B K L Ψ f1.13 33). Tekst bizantyjski (0250 M sy): καὶ μὴ πιστεύσῃ — „i nie uwierzy\"; drobne odmiany szyku i opuszczenia w tradycji zachodniej.",
-     "Lekcja „nie ustrzeże\" jest trudniejsza i głębsza: opisuje nie niewierzącego, lecz słuchacza, który przyjął słowa i ich NIE ZACHOWAŁ — adresatem zdania o nie-sądzeniu jest więc także letni chrześcijanin, nie tylko jawny przeciwnik. Bizantyjska zamiana na „nie uwierzy\" upraszcza scenę do opozycji wiara/niewiara i zaciera pastoralne ostrze. Papirusy i wielkie kodeksy zgodnie bronią czasownika strzeżenia — tego samego, którym Jezus opisze zachowywanie Jego słowa w 14,23-24."
+     "NA28: ἐάν τίς μου ἀκούσῃ τῶν ῥημάτων καὶ μὴ φυλάξῃ — „usłyszy i NIE USTRZEŻE\" (P66* P75 ℵ A B K L Ψ f1.13 33). Tekst bizantyjski (0250 M q syhmg): καὶ μὴ πιστεύσῃ — „i nie uwierzy\"; drobne odmiany szyku w tradycji zachodniej (P66c D Θ 070 it), a kodeks e całą frazę opuszcza.",
+     "Lekcja „nie ustrzeże\" jest trudniejsza i głębsza: opisuje nie niewierzącego, lecz słuchacza, który przyjął słowa i ich NIE ZACHOWAŁ — adresatem zdania o nie-sądzeniu jest więc także letni chrześcijanin, nie tylko jawny przeciwnik. Bizantyjska zamiana na „nie uwierzy\" upraszcza scenę do opozycji wiara/niewiara i zaciera pastoralne ostrze. Papirusy, wielkie kodeksy, Wulgata i główna tradycja syryjska zgodnie bronią czasownika strzeżenia — tego samego, którym Jezus opisze zachowywanie Jego słowa w 14,23-24."
     ]
    ],
    "theme_links": [
@@ -1057,7 +1039,7 @@
      ]
     ]
    ],
-   "revision_note": "Perykopa 31 dodana w cyklu iteracyjnym: pełna egzegeza J 12,37-50 z greką złożoną ze źródła prawdy (db.sqlite) i notami tekstualnymi z aparatu NA28 (w. 40, 41, 47)."
+   "revision_note": "Perykopa 31 dodana w cyklu iteracyjnym: pełna egzegeza J 12,37-50 z greką złożoną ze źródła prawdy (db.sqlite) i notami tekstualnymi z aparatu NA28 (w. 40, 41, 47). Recenzja naukowa 2026-09-26: tekst grecki wszystkich 14 wersetów potwierdzony znak w znak wobec db.sqlite; noty tekstualne uzgodnione z aparatem NA28 z tabeli commentaries; katena skrócona do pięciu głosów (usunięto wpis przypisywany Bedzie — komentarz do Jana z PL 92 nie jest dziełem autentycznym; wpis Cyryla przeniesiono do w. 47-50, bo jego komentarz do J 12 zachował się dopiero od w. 49); usunięto niepoświadczony aforyzm łaciński przypisywany Augustynowi i sprostowano przypisaną mu tezę o teofaniach; osłabiono rekonstrukcję jawneńską (birkat ha-minim) zgodnie z ustaleniem recenzji niewidomy.json."
   }
  ]
 }
