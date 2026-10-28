@@ -3,6 +3,7 @@
 *.md
 !README.md
 !data/REVIEW_LOG.md
+!docs/superpowers/**/*.md
 
 # The SQLite database is generated from data/*.json (make build).
 data/egzegeza_jana.sqlite
