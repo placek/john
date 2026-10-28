@@ -1,7 +1,10 @@
-# Markdown files are generated exports (make export); keep only the README
-# and the hand-maintained review log.
+# Markdown files are generated exports (make export); the hand-maintained ones
+# are whitelisted below. CLAUDE.md and SKILL.md were caught by this rule by
+# accident — invisible to review, they drifted out of date (October 2026).
 *.md
 !README.md
+!CLAUDE.md
+!SKILL.md
 !data/REVIEW_LOG.md
 !docs/superpowers/**/*.md
 

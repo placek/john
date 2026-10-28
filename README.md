@@ -263,8 +263,9 @@ czyta — od tekstu do szczegółu:
    na marginesie (perykopy przekraczające granicę rozdziałów dostają znaczniki
    rozdziału i numery w postaci `8,12`). Kolumnę łacińską można schować
    przyciskiem; wybór pamięta się między perykopami
-2. **Komentarz** — „Struktura całości" oraz sekcje II–VII z podsekcjami,
-   zakończenie i nota warsztatowa
+2. **Komentarz** — „Struktura całości" oraz sekcje II–VII z podsekcjami
+   i zakończenie; sekcję „Nota warsztatowa" przeglądarka filtruje (tak samo
+   PDF — wchodzi tylko do eksportu Markdown)
 3. **Ojcowie Kościoła** — katena z autorem, dziełem, miejscem (locus) i blokiem
    wersetowym, którego dotyczy
 4. **Analiza wers po wersie** — blok po bloku: **interlinia** grecko-polska
