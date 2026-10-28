@@ -626,7 +626,7 @@
      "children": [
       [
        "Liturgia",
-       "Perykopa rozpięta jest w liturgii na dwie pory roku: Wielki Tydzień czyta ją w cieniu Męki — Wielki Wtorek ma J 13,21-33.36-38 (zapowiedź zdrady i zaparcia), a bizantyjska jutrznia Wielkiego Piątku OTWIERA Dwanaście Ewangelii Męki właśnie od J 13,31 (mowa pożegnalna czytana w noc pojmania) — natomiast okres wielkanocny czyta ją w świetle chwały: 5. Niedziela Wielkanocna roku C bierze w. 31-35 jako Ewangelię Kościoła, który uczy się być poznawanym po miłości. Antyfona Mandatum novum do vobis dała nazwę obrzędowi umycia nóg Wielkiego Czwartku, a śpiew Ubi caritas et amor, Deus ibi est jest najkrótszym komentarzem recepcji: gdzie miłość wzajemna — tam Bóg. Zdanie „tej nocy, której został wydany\" weszło do opowiadania o ustanowieniu w III Modlitwie eucharystycznej („On bowiem tej nocy, której był wydany, wziął chleb\"); Kanon rzymski mówi w tym miejscu inaczej („w przeddzień męki\" — Qui pridie quam pateretur), lecz i on umieszcza konsekrację w nocy Wieczernika z w. 30."
+       "Perykopa rozpięta jest w liturgii na dwie pory roku: Wielki Tydzień czyta ją w cieniu Męki — Wielki Wtorek ma J 13,21–33.36–38 (zapowiedź zdrady i zaparcia), a bizantyjska jutrznia Wielkiego Piątku OTWIERA Dwanaście Ewangelii Męki właśnie od J 13,31 (pierwsze czytanie obejmuje J 13,31–18,1: mowa pożegnalna słuchana w noc pojmania, w cerkwi ciemnej od zgaszonych świec) — natomiast okres wielkanocny czyta ją w świetle chwały: 5. Niedziela Wielkanocna roku C bierze J 13,31–33a.34–35 jako Ewangelię Kościoła, który uczy się być poznawanym po miłości. Antyfona *Mandatum novum do vobis* (Przykazanie nowe daję wam) dała nazwę obrzędowi umycia nóg Wielkiego Czwartku, wiążąc w. 34 z gestem z 13,5–15 w jedną liturgiczną całość, a śpiew Ubi caritas et amor, Deus ibi est jest najkrótszym komentarzem recepcji: gdzie miłość wzajemna — tam Bóg. Zdanie „tej nocy, której został wydany\" weszło do opowiadania o ustanowieniu w III Modlitwie eucharystycznej („On bowiem tej nocy, której był wydany, wziął chleb\"); Kanon rzymski mówi w tym miejscu inaczej („w przeddzień męki\" — Qui pridie quam pateretur), lecz i on umieszcza konsekrację w nocy Wieczernika z w. 30."
       ],
       [
        "Recepcja teologiczna",
@@ -1011,32 +1011,7 @@
      "Chryzostom słyszy w pytaniu Piotra nie ciekawość, lecz gorliwość: pytał „dokąd idziesz?\" nie tyle, by się dowiedzieć, ile dlatego, że chciał iść. Miłość — mówi Złotousty — jest mocniejsza od ognia i nie zna przeszkody, ale sama, bez pomocy z góry, nie utrzyma się w próbie. Dlatego Chrystus nie wepchnął Piotra w zaparcie: przestał go powstrzymywać i zostawił samemu sobie, aby poznał własną słabość — „mówię: nie możesz, a ty mówisz: mogę? Poznasz z tej próby, że twoja miłość bez wsparcia z wysoka jest niczym\"."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "Wielki Wtorek",
-     "J 13,21-33.36-38",
-     "Ewangelia dnia: zapowiedź zdrady i zaparcia czytana w progu Triduum — Kościół wchodzi w Mękę przez noc Wieczernika, z doksologią „teraz został uwielbiony\" pośrodku."
-    ],
-    [
-     "rzymski",
-     "5. Niedziela Wielkanocna, rok C",
-     "J 13,31-33a.34-35",
-     "Ta sama doksologia i mandatum czytane w świetle Paschy: wspólnota zmartwychwstałego Pana słyszy swoje jedyne prawo — miłość wzajemną jako znak rozpoznawczy wobec „wszystkich\"."
-    ],
-    [
-     "rzymski",
-     "Wielki Czwartek — antyfona Mandatum novum",
-     "J 13,34",
-     "Pierwsza antyfona obrzędu umycia nóg dała mu łacińską nazwę (mandatum); przykazanie nowe śpiewane nad misą z wodą wiąże w. 34 z gestem z 13,5-15 w jedną liturgiczną całość."
-    ],
-    [
-     "bizantyjski",
-     "Jutrznia Wielkiego Piątku — pierwsza z Dwunastu Ewangelii Męki",
-     "J 13,31–18,1",
-     "Bizantyjska służba Dwunastu Ewangelii otwiera czytania Męki od J 13,31 (przez rozdziały 14-18,1): mowa pożegnalna z przykazaniem nowym czytana w noc pojmania, w cerkwi ciemnej od zgaszonych świec."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      24,

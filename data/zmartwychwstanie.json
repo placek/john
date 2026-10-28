@@ -938,7 +938,7 @@
      "children": [
       [
        "Liturgia",
-       "Rozdział 20 jest Ewangelią samego serca roku liturgicznego: poranek pustego grobu (20,1-9) czyta się w mszy dnia Niedzieli Zmartwychwstania, a scena Tomasza z pierwszym zakończeniem (20,19-31) jest Ewangelią II Niedzieli Wielkanocnej — oktawy — we wszystkich trzech latach cyklu; ta niedziela, od starożytności zwana in albis (neofici składali białe szaty), nosi od 2000 r. tytuł Niedzieli Miłosierdzia Bożego. Fragment o tchnieniu (20,19-23) jest Ewangelią mszy w dzień uroczystości Zesłania Ducha Świętego — Janowa Pięćdziesiątnica obok Łukaszowej z pierwszego czytania (Dz 2,1-11); msza wigilijna czyta co innego (J 7,37-39); scena Magdaleny (20,11-18) jest Ewangelią wtorku oktawy, a w nieco szerszym wyborze (20,1-2.11-18) — święta św. Marii Magdaleny (22 lipca, podniesionego przez Franciszka w 2016 r. z wspomnienia do rangi święta, z prefacją De apostolorum apostola). Sekwencja wielkanocna Victimae paschali laudes wprost dialoguje z tym rozdziałem („Powiedz nam, Mario, coś widziała w drodze?\"), a hymn O filii et filiae poświęca scenie Tomasza osobne strofy. W rycie bizantyjskim Niedziela Antypaschy (Tomasza) otwiera cykl niedziel po Passze, Ewangelie jutrzni niedzielnych (heothina) czerpią z chrystofanii, a troparion Antypaschy — „Gdy grób był opieczętowany… wszedłeś przez zamknięte drzwi\" — streszcza wprost scenę wieczernika (śpiewane przez cały okres „Chrystus powstał z martwych, śmiercią podeptał śmierć\" jest troparionem paschalnym, nie troparionem tego święta)."
+       "Rozdział 20 jest Ewangelią samego serca roku liturgicznego: poranek pustego grobu (20,1–9) czyta się w mszy dnia Niedzieli Zmartwychwstania, a scena Tomasza z pierwszym zakończeniem (20,19–31) jest Ewangelią II Niedzieli Wielkanocnej — oktawy — we wszystkich trzech latach cyklu; ta niedziela, od starożytności zwana *in albis* (neofici składali białe szaty), nosi od 2000 r. tytuł Niedzieli Miłosierdzia Bożego. Fragment o tchnieniu (20,19–23) jest Ewangelią mszy w dzień uroczystości Zesłania Ducha Świętego — Janowa Pięćdziesiątnica obok Łukaszowej z pierwszego czytania (Dz 2,1–11); msza wigilijna czyta co innego (J 7,37–39); scena Magdaleny (20,11–18) jest Ewangelią wtorku oktawy, a w nieco szerszym wyborze (20,1–2.11–18) — święta św. Marii Magdaleny (22 lipca, podniesionego dekretem z 3 czerwca 2016 r. ze wspomnienia do rangi święta, z prefacją *De apostolorum apostola* — O apostołce apostołów). Sekwencja wielkanocna *Victimae paschali laudes* (Ofierze paschalnej chwały) wprost dialoguje z tym rozdziałem („Powiedz nam, Mario, coś widziała w drodze?\"), a hymn *O filii et filiae* (O synowie i córki) poświęca scenie Tomasza osobne strofy. W rycie bizantyjskim Niedziela Antypaschy (Tomasza) otwiera cykl niedziel po Passce, a jej Ewangelią liturgii jest J 20,19–31; J 20,19–23 czyta się na jutrzni Pięćdziesiątnicy — Ewangelią liturgii tego dnia jest na Wschodzie J 7,37–52; 8,12 — jako Janową odsłonę daru Ducha. Ewangelie jutrzni niedzielnych (heothina) czerpią zaś z chrystofanii, a troparion Antypaschy — „Gdy grób był opieczętowany… wszedłeś przez zamknięte drzwi\" — streszcza wprost scenę wieczernika (śpiewane przez cały okres „Chrystus powstał z martwych, śmiercią podeptał śmierć\" jest troparionem paschalnym, nie troparionem tego święta)."
       ],
       [
        "Recepcja teologiczna",
@@ -1334,32 +1334,7 @@
      "Złotousty podziwia zniżenie się Pana do słabszego ucznia: nie czekał, aż Tomasz dojrzeje, lecz przyszedł z jego własnymi słowami na ustach — pokazując, że był obecny i przy tamtej rozmowie; taka jest pedagogia Boża: nie łamie trzciny nadłamanej, ale schodzi do miary wątpiącego, by go podnieść ponad miarę wierzących. Zauważ jednak — dodaje — że wiara Tomasza wyszła poza to, co zobaczył: oczy widziały rany człowieka, a język wyznał Pana i Boga; zmysły były drabiną, nie fundamentem. Dlatego i nam, którzy ran nie dotkniemy, nie brak niczego do wiary: mamy słowo świadków — a Pan nazwał błogosławionymi właśnie nas."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "Niedziela Zmartwychwstania Pańskiego — msza w dzień",
-     "J 20,1-9",
-     "Poranek pustego grobu jest Ewangelią mszy dnia Wielkanocy: Kościół zaczyna świętowanie nie od chrystofanii, lecz od znaku odczytanego z wiarą — drogą umiłowanego ucznia."
-    ],
-    [
-     "rzymski",
-     "II Niedziela Wielkanocna (Miłosierdzia Bożego), lata A-B-C",
-     "J 20,19-31",
-     "Scena wieczernika i Tomasza z pierwszym zakończeniem księgi — Ewangelia oktawy paschalnej we wszystkich trzech latach; od 2000 r. niedziela nosi tytuł Miłosierdzia Bożego."
-    ],
-    [
-     "rzymski",
-     "Święto św. Marii Magdaleny (22 VII); wtorek oktawy Wielkanocy",
-     "J 20,1-2.11-18",
-     "Ewangelia święta (J 20,1-2.11-18) podniesionego dekretem z 3 VI 2016 r. z wspomnienia do rangi święta, z własną prefacją De apostolorum apostola (O apostołce apostołów; przekłady wprowadzano w następnych latach); wtorek oktawy czyta J 20,11-18. Sekwencja Victimae paschali laudes wprost dialoguje z tą sceną: „Powiedz nam, Mario…\"."
-    ],
-    [
-     "bizantyjski",
-     "Niedziela Antypaschy (Tomasza); jutrznia Pięćdziesiątnicy",
-     "J 20,19-31",
-     "Niedziela Tomasza (Antypascha) otwiera cykl niedziel po Passze — jej Ewangelią liturgii jest J 20,19-31; J 20,19-23 czyta się na jutrzni Pięćdziesiątnicy (Ewangelią liturgii tego dnia jest J 7,37-52; 8,12) jako Janową odsłonę daru Ducha."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      16,
