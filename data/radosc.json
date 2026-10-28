@@ -742,7 +742,7 @@
      "children": [
       [
        "Liturgia",
-       "Perykopa jest Ewangelią „radości paschalnej w oczekiwaniu\": lekcjonarz dzieli ją na cztery czytania dni powszednich — J 16,16-20 (czwartek), 16,20-23a (piątek) i 16,23b-28 (sobota) 6. tygodnia wielkanocnego oraz 16,29-33 (poniedziałek 7. tygodnia) — i prowadzi Kościół ku Pięćdziesiątnicy dokładnie po linii swojej treści: nie widzicie — zobaczycie; smutek — radość. W dawnym mszale J 16,16-22 było Ewangelią 3. niedzieli po Wielkanocy, a antyfonę na komunię brano z w. 16 (Modicum, et iam non videbitis me); nazwa tej niedzieli pochodzi jednak od introitu Jubilate Deo omnis terra (Ps 66), nie od w. 22. Werset 33 wraca w modlitwie Kościołów uciskanych — Mszał ma formularz za prześladowanych chrześcijan w Mszach w różnych potrzebach i okolicznościach — a motyw zwycięstwa w pozornej klęsce jest bliski prefacjom o męczennikach. W tradycji bizantyjskiej fragment wchodzi w pierwszą z Dwunastu Ewangelii Męki (J 13,31-18,1), a wątek „smutek w radość\" wybrzmiewa w kanonie Paschy Jana z Damaszku."
+       "Perykopa jest Ewangelią „radości paschalnej w oczekiwaniu\": lekcjonarz dzieli ją na cztery czytania dni powszednich — J 16,16–20 (czwartek), 16,20–23a (piątek) i 16,23b–28 (sobota) 6. tygodnia wielkanocnego oraz 16,29–33 (poniedziałek 7. tygodnia) — i prowadzi Kościół ku Pięćdziesiątnicy dokładnie po linii swojej treści: nie widzicie — zobaczycie; smutek — radość. W dawnym mszale J 16,16–22 było Ewangelią 3. niedzieli po Wielkanocy, a antyfonę na komunię brano z w. 16 (*Modicum, et iam non videbitis me* — Jeszcze chwila i już mnie nie ujrzycie); nazwa tej niedzieli pochodzi jednak od introitu *Jubilate Deo omnis terra* (Radujcie się w Bogu, cała ziemio — Ps 66), nie od w. 22. Werset 33 wraca w modlitwie Kościołów uciskanych — Mszał ma formularz za prześladowanych chrześcijan w Mszach w różnych potrzebach i okolicznościach, z J 16,20–22.33, gdzie „jam zwyciężył świat\" jest zdaniem przywoływanym najczęściej — a motyw zwycięstwa w pozornej klęsce jest bliski prefacjom o męczennikach. W tradycji bizantyjskiej fragment wchodzi w pierwszą z Dwunastu Ewangelii Męki (J 13,31–18,1), a wątek „smutek w radość\" wybrzmiewa w kanonie Paschy Jana z Damaszku: „z śmierci do życia i z ziemi do nieba Chrystus Bóg nas przeprowadził\"."
       ],
       [
        "Recepcja teologiczna",
@@ -1143,32 +1143,7 @@
      "Cyryl widzi w zdumieniu uczniów reakcję na jawność mowy: podziwiają oczywistość dowodu i czystość języka, w którym nie ma już nic trudnego ani nic z przypowieści. Ich „teraz wiemy\" rozkłada na argument: skoro wiesz, co szepczemy na boku, i uprzedziłeś pytanie, którego nie zdążyliśmy zadać — jesteśmy przekonani, że przyszedłeś od Boga, bo znać rzeczy ukryte może tylko Bóg wszystkiego. Dopiero na tej drodze rozpoznania wybrzmiewa ostatnie słowo: abyście we mnie pokój mieli; na świecie macie ucisk, ale ufajcie — jam zwyciężył świat."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "6. tydzień wielkanocny (czwartek-sobota) i 7. tydzień (poniedziałek)",
-     "J 16,16-33",
-     "Perykopa czytana w czterech fragmentach — J 16,16-20; 16,20-23a; 16,23b-28 (czwartek, piątek i sobota 6. tygodnia) oraz 16,29-33 (poniedziałek 7. tygodnia) — u progu Pięćdziesiątnicy; Kościół przechodzi liturgicznie dokładnie tę drogę, o której tekst mówi: od „nie widzicie mnie\" do radości, której nikt nie odbierze."
-    ],
-    [
-     "rzymski",
-     "3. niedziela po Wielkanocy (Jubilate) w dawnym mszale",
-     "J 16,16-22",
-     "Dawny mszał czytał J 16,16-22 w 3. niedzielę po Wielkanocy, a antyfonę na komunię brał z w. 16 (Modicum, et iam non videbitis me); nazwa „Jubilate\" pochodzi od introitu Jubilate Deo omnis terra (Ps 66), nie od tekstu Ewangelii."
-    ],
-    [
-     "rzymski",
-     "Formularze w czasie prześladowania i o męczennikach",
-     "J 16,20-22.33",
-     "Mszał ma formularz za prześladowanych chrześcijan (Msze w różnych potrzebach i okolicznościach); „jam zwyciężył świat\" jest w tym kontekście zdaniem najczęściej przywoływanym, a motyw zwycięstwa w pozornej klęsce bliski prefacjom o męczennikach."
-    ],
-    [
-     "bizantyjski",
-     "Jutrznia Wielkiego Piątku — Ewangelie Męki; kanon Paschy",
-     "J 16,16-33",
-     "Fragment wchodzi w pierwszą z Dwunastu Ewangelii Męki (J 13,31-18,1); motyw smutku przemienionego w radość wybrzmiewa w kanonie paschalnym Jana z Damaszku („z śmierci do życia i z ziemi do nieba Chrystus Bóg nas przeprowadził\")."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      16,

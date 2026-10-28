@@ -801,7 +801,7 @@
      "children": [
       [
        "Liturgia",
-       "Perykopa otwiera Janową Pasję, którą Kościół rzymski czyta w całości (J 18,1-19,42) jako Ewangelię liturgii Męki Pańskiej w Wielki Piątek — tak w Mszale przedsoborowym, tak i w Mszale Pawła VI, z podziałem na role; scena ogrodu i zaparcia stanowi jej pierwszą część. W tradycji bizantyjskiej fragment należy do Dwunastu Ewangelii Męki jutrzni Wielkiego Piątku (druga Ewangelia: J 18,1-28; w Godzinach Królewskich czyta się już dalszy ciąg Janowej Pasji, J 18,28-19,37); obraz upadającej kohorty przenika teksty o dobrowolności Męki („dziś wisi na drzewie Ten, który zawiesił ziemię nad wodami\"). Logion kielicha wszedł w duchowość Godziny Świętej i modlitwy ogrójcowej; a trzykrotne „nie jestem\" Piotra — w rachunki sumienia i nabożeństwa pokutne. Ogień węglowy z dziedzińca sam narzuca kaznodziejską paralelę z węglami kadzielnicy: żar, przy którym można się zaprzeć, i żar, na którym składa się wonność."
+       "Perykopa otwiera Janową Pasję, którą Kościół rzymski czyta w całości (J 18,1–19,42) jako Ewangelię liturgii Męki Pańskiej w Wielki Piątek — tak w Mszale przedsoborowym, tak i w Mszale Pawła VI, z podziałem na role, bez wyjątku we wszystkich latach cyklu; scena ogrodu i zaparcia stanowi jej pierwszą część. W tradycji bizantyjskiej fragment należy do Dwunastu Ewangelii Męki jutrzni Wielkiego Piątku (druga Ewangelia: J 18,1–28; w Godzinach Królewskich czyta się już dalszy ciąg Janowej Pasji, J 18,28–19,37); obraz upadającej kohorty przenika teksty o dobrowolności Męki („dziś wisi na drzewie Ten, który zawiesił ziemię nad wodami\"). Logion kielicha (J 18,1–11) wszedł w duchowość Godziny świętej i modlitwy ogrójcowej, gdzie czwartkowa adoracja nocna łączy Getsemani synoptyków z Janowym ogrodem: „kielich, który dał mi Ojciec\" jest osnową rozmyślań o zgodzie woli. Trzykrotne „nie jestem\" Piotra (J 18,15–27) weszło zaś w rachunki sumienia i nabożeństwa pokutne — czytane w parze z J 21, jako pierwsza połowa historii, której drugą jest potrójne wyznanie miłości. Ogień węglowy z dziedzińca sam narzuca kaznodziejską paralelę z węglami kadzielnicy: żar, przy którym można się zaprzeć, i żar, na którym składa się wonność."
       ],
       [
        "Recepcja teologiczna",
@@ -1199,32 +1199,7 @@
      "Grzegorz czyta zaparcie od drugiego końca — od poranka, w którym anioł każe powiedzieć „uczniom i Piotrowi\". Po co wymieniać z imienia jednego z Dwunastu? Si nominatim non exprimeretur Petrus, qui magistrum negaverat, venire inter discipulos non auderet; vocatur ergo ex nomine, ne desperaret ex negatione: gdyby nie padło jego imię, ten, który zaparł się Mistrza, nie ośmieliłby się przyjść między uczniów — wzywa się go więc po imieniu, aby nie rozpaczał z powodu zaparcia. Taka jest u Grzegorza reguła miłosierdzia: łaska nie przemilcza upadku, lecz wymienia upadłego z imienia. Dlatego noc przy ognisku nie jest u Jana wyrokiem — jest pierwszą połową zdania, którego drugą wypowie Zmartwychwstały."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "Wielki Piątek — liturgia Męki Pańskiej",
-     "J 18,1-27",
-     "Pierwsza część Janowej Pasji (J 18,1-19,42), czytanej w całości z podziałem na role: Kościół co roku wchodzi w Mękę przez ogród, JA JESTEM i noc zaparcia — pasja Janowa jest Ewangelią Wielkiego Piątku bez wyjątku, we wszystkich latach cyklu."
-    ],
-    [
-     "bizantyjski",
-     "Jutrznia Wielkiego Piątku — druga z Dwunastu Ewangelii Męki",
-     "J 18,1-28",
-     "Po pierwszej Ewangelii (mowa pożegnalna) następuje właśnie ta perykopa; hymnografia nocy podejmuje jej paradoks: „dziś wisi na drzewie Ten, który zawiesił ziemię nad wodami\" — dobrowolność Męki wprost ze sceny ogrodu."
-    ],
-    [
-     "rzymski",
-     "Godzina święta i nabożeństwa ogrójcowe",
-     "J 18,1-11",
-     "Czwartkowa adoracja nocna (Godzina święta) łączy Getsemani synoptyków z Janowym ogrodem; logion kielicha jest osnową rozmyślań o zgodzie woli — „kielich, który dał mi Ojciec\" jako szczyt modlitwy Ogrójca."
-    ],
-    [
-     "rzymski",
-     "Liturgia pokutna i rachunek sumienia",
-     "J 18,15-27",
-     "Trzykrotne „nie jestem\" Piotra weszło do tradycji rachunku sumienia i nabożeństw pokutnych; Kościół czyta zaparcie w parze z J 21 — jako pierwszą połowę historii, której drugą jest potrójne wyznanie miłości."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      1,

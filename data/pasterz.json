@@ -693,7 +693,7 @@
      "children": [
       [
        "Liturgia",
-       "Czwarta niedziela wielkanocna jest w całym Kościele rzymskim Niedzielą Dobrego Pasterza: w roku A czyta się J 10,1-10 (brama), w roku B — 10,11-18 (pasterz dobry), w roku C — 10,27-30 (owce słuchają głosu); od 1964 r. jest to zarazem Światowy Dzień Modlitw o Powołania, co czyni z mowy pasterskiej stały tekst Kościoła o kapłaństwie. W dni powszednie 4. tygodnia wielkanocnego perykopa wraca w lekcjonarzu ferialnym. W Liturgii Godzin Godzina czytań 4. Niedzieli Wielkanocnej podaje homilię Grzegorza Wielkiego (Hom. in Ev. 14, 3-6: PL 76, 1129-1130), a kazanie Augustyna o pasterzach (Sermo 46, De pastoribus) czytane jest serialnie w 25. tygodniu zwykłym, obok czytania biblijnego z Ez 34. Ikonograficznie Dobry Pasterz jest jednym z najstarszych i najczęstszych przedstawień Chrystusa: bezbrody młodzieniec z owcą na ramionach w katakumbach Kaliksta i Pryscylli (III w.), w katakumbach rzymskich ok. 120 razy, oraz na sarkofagach — przy czym sam typ ikonograficzny (kriofor, niosący barana) jest starszy od chrześcijaństwa i zostaje przez nie przejęty; zanim krzyż stał się przedstawialny, wiara malowała pasterza."
+       "Czwarta niedziela wielkanocna jest w całym Kościele rzymskim Niedzielą Dobrego Pasterza: w roku A czyta się J 10,1–10 (brama), w roku B — 10,11–18 (pasterz dobry, kładący życie dobrowolnie i mający władzę wzięcia go na powrót), w roku C — 10,27–30 (owce słuchają głosu); od 1964 r. jest to zarazem Światowy Dzień Modlitw o Powołania, co czyni z mowy pasterskiej stały tekst Kościoła o kapłaństwie. W lekcjonarzu ferialnym perykopa wraca w 4. tygodniu wielkanocnym — J 10,1–10 w poniedziałek, w rytmie mystagogii paschalnej. W Liturgii Godzin Godzina czytań 4. Niedzieli Wielkanocnej podaje homilię Grzegorza Wielkiego (Hom. in Ev. 14, 3–6: PL 76, 1129–1130), a kazanie Augustyna o pasterzach (Sermo 46, *De pastoribus* — O pasterzach) czytane jest serialnie w 25. tygodniu zwykłym, obok czytania biblijnego z Ez 34. Ikonograficznie Dobry Pasterz jest jednym z najstarszych i najczęstszych przedstawień Chrystusa: bezbrody młodzieniec z owcą na ramionach w katakumbach Kaliksta i Pryscylli (III w.), w katakumbach rzymskich ok. 120 razy, oraz na sarkofagach — przy czym sam typ ikonograficzny (kriofor, niosący barana) jest starszy od chrześcijaństwa i zostaje przez nie przejęty; zanim krzyż stał się przedstawialny, wiara malowała pasterza."
       ],
       [
        "Recepcja teologiczna",
@@ -1112,32 +1112,7 @@
      "Złotousty odnotowuje z policzalną dokładnością, że zarzut opętania pada tu po raz czwarty — i że Chrystus tym razem nie odpowiada na niego ani słowem. Wcześniej rzekł „ja nie mam demona\"; teraz milczy, bo dowód złożył już w czynach, a tam, gdzie mówią dzieła, obrona słowna jest zbyteczna. Powód zarzutu Chryzostom widzi w samej wielkości mowy: słowa były większe, niż przystoi człowiekowi, i niepodobne do codziennych — więc ci, którzy nie mogli ich przyjąć, nazwali je szaleństwem. Druga strona rozłamu odpowiada jedynym argumentem, jaki w takiej sytuacji zostaje: czy demon może otwierać oczy niewidomym? Homilia domyka w ten sposób to, co otwarła mowa o pasterzu — kto ma stać na czele Kościoła, potrzebuje i mądrości, i męstwa, bo pasterz różni się od najemnika tym, że jeden zawsze patrzy na własne bezpieczeństwo, a drugi na owce."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "4. Niedziela Wielkanocna (Niedziela Dobrego Pasterza), rok A",
-     "J 10,1-10",
-     "Ewangelia o bramie owiec; od 1964 r. niedziela ta jest Światowym Dniem Modlitw o Powołania — mowa pasterska jako stały tekst Kościoła o kapłaństwie i powołaniu."
-    ],
-    [
-     "rzymski",
-     "4. Niedziela Wielkanocna, rok B",
-     "J 10,11-18",
-     "Pasterz dobry kładzie życie: Ewangelia niedzieli powołaniowej w roku B, czytana w kluczu paschalnym — dobrowolność śmierci i władza wzięcia życia na powrót."
-    ],
-    [
-     "rzymski",
-     "Poniedziałek 4. tygodnia wielkanocnego",
-     "J 10,1-10",
-     "Lekcjonarz ferialny okresu wielkanocnego wraca do bramy i obfitości życia w rytmie mystagogii paschalnej."
-    ],
-    [
-     "godzin",
-     "Godzina czytań — pasterze Kościoła",
-     "św. Augustyn, Sermo 46 (De pastoribus)",
-     "Wielkie kazanie o pasterzach, czytane serialnie w 25. tygodniu zwykłym obok czytania biblijnego z Ez 34, jest liturgiczną recepcją figury najemnika i pasterza z J 10."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      7,
