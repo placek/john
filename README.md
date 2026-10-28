@@ -287,6 +287,72 @@ Grekę i „ł" wpisuj w pełnym zapisie.
 `/api/pericopes`, `/api/pericope?id=N`, `/api/search?q=…`, `/api/lexicon`, `/api/themes`
 — wszystkie zwracają JSON.
 
+## Redakcja prozy lokalnym modelem (Bielik)
+
+`tools/bielik_redakcja.py` przepuszcza polską prozę z `data/*.json` przez lokalny
+model językowy i podmienia ją na wersję po korekcie. Struktura, klucze i wartości
+poza zakresem zostają nietknięte.
+
+**Serwer.** Obraz llama.cpp z CUDA, model w `/srv/data/models`:
+
+```bash
+docker run -d --name bielik-redakcja --device nvidia.com/gpu=all \
+  -p 127.0.0.1:8091:8080 -v /srv/data/models:/models:ro \
+  ghcr.io/ggml-org/llama.cpp:server-cuda \
+  --host 0.0.0.0 --port 8080 --jinja --flash-attn on \
+  --model /models/Bielik-11B-v3.0-Instruct.Q6_K.gguf \
+  --alias bielik --ctx-size 8192 --n-gpu-layers 99 --parallel 2
+```
+
+Model: `speakleash/Bielik-11B-v3.0-Instruct-GGUF`, kwantyzacja Q6_K (8,53 GB,
+Apache-2.0). Na RTX 5080 zajmuje ~10,6 GB VRAM i daje ~50 tok/s.
+
+**Wybór pól idzie po ŚCIEŻCE, nie po kluczu.** Ten korpus trzyma treść
+w tablicach pozycyjnych: `units[j][1]` to dosłowna glosa frazy greckiej,
+a `units[j][2]` to akapit analizy — oba pod tym samym kluczem `units`.
+Filtrowanie po kluczu wysłałoby do modelu przekład roboczy. Profile:
+
+```bash
+python3 tools/bielik_redakcja.py data/ --profil jan-proza --dry-run
+python3 tools/bielik_redakcja.py data/ --profil jan-proza --out /tmp/redakcja --workers 2
+```
+
+`jan-proza` obejmuje: `intro`, `struktura`, `sections[*].body`,
+`children[*][1]`, `section_viii.body`, `units[*][2]`, `patristic[*][4]`
+oraz prozę Wprowadzenia. `jan-aparat` dokłada uwagi przy `refs`, `citations`,
+`themes` i glosy leksemów. **Poza zakresem świadomie:** greka NA28 i przekład
+roboczy (`verses.items`, `blocks.greek/transl`, `units[*][0..1]`), etykiety
+bloków, sigla, loci, autorzy, dzieła, tytuły sekcji, `revision_note`
+i cały aparat tekstualny.
+
+**Dwa tryby i dlaczego domyślny jest ostrożny.** `--styl elegancki` używa
+oryginalnego promptu („pisz elegancko i płynnie"). Na tym korpusie to szkodzi:
+w próbie 8 tekstów zmienił 608 słów i wszystkie 8 wyników odpadło na walidacji,
+a merytorycznie spłaszczał terminologię — `czwartej Ewangelii` → `Ewangelii
+Jana`, `Siedem odsłon` → `Siedem scen` (po czym „scena" znaczyła dwie rzeczy),
+`w geometrycznym środku` → `umieszczoną centralnie`, `sędzia` → `Piłat`.
+Dlatego domyślny `--styl ostrozny` każe poprawiać wyłącznie literówki,
+interpunkcję i zdania niegramatyczne, a dobór słów i szyk zostawić autorowi.
+
+**Strażnicy (`--pl-guards`, domyślnie włączone przy `--profil jan-*`).**
+Walidacja odrzuca wynik, gdy zmieni się liczba gwiazdek kursywy, cudzysłowów
+`„` i `"`, półpauz, em-pauz albo wielokropków, albo gdy w zakresie pojawi się
+dywiz. Dodatkowo `”` i `’` są deterministycznie normalizowane do `"` i `'` —
+w korpusie nie występują ani razu, a model je emituje, więc podmiana jest
+bezstratna i nie ma sensu odrzucać za nią poprawnej treści.
+
+**Strażnik językowy** (`--lang-guard strict`, domyślny) pomija w całości każdą
+wartość z greką, hebrajskim albo łaciną. Na tym korpusie odsiewa to 1123 z 2191
+tekstów objętych profilem — czyli dokładnie te najbardziej wrażliwe.
+
+**Wynik pomiaru: na tym korpusie nie ma czego poprawiać.** W próbie 120 tekostów
+w trybie ostrożnym model zwrócił większość **znak w znak bez zmian**. To
+oczekiwane: `data/REVIEW_LOG.md` notuje 45 recenzji przy źródłach, w których
+poprawki szły na poziomie pojedynczych słów. Narzędzie ma więc sens jako
+jednorazowe sito na literówki w **nowej, nierecenzowanej** perykopie, a nie jako
+przebieg po całości. Przed podmianą czegokolwiek w `data/` puszczaj z `--out`
+do katalogu tymczasowego i czytaj `git diff --no-index`.
+
 ## GitHub Pages (wersja statyczna)
 
 GitHub Pages nie uruchomi Pythona, więc przeglądarkę publikuje się w wersji
