@@ -197,9 +197,6 @@ def api_pericope(pid):
                 WHERE sr.pericope_id = ? OR sec.pericope_id = ? OR s2.pericope_id = ?
                 ORDER BY sr.id""", (pid, pid, pid))
 
-    liturgy = q("""SELECT rite, occasion, passage, description_md
-                   FROM liturgical_use WHERE pericope_id = ? ORDER BY id""", (pid,))
-
     textual = q("""SELECT v.chapter, v.verse_num, tn.lemma_text, tn.issue,
                           tn.readings_md, tn.assessment_md
                    FROM textual_note tn JOIN verse v ON v.id = tn.verse_id
@@ -263,7 +260,7 @@ def api_pericope(pid):
 
     return {"head": head, "verses": verses, "sections": sections,
             "blocks": blocks, "units": units, "catena": catena,
-            "refs": refs, "liturgy": liturgy, "textual": textual,
+            "refs": refs, "textual": textual,
             "lexemes": lexemes, "interlinia": interlinia, "aparat": aparat,
             "lacina": lacina, "themes": [t["name"] for t in themes]}
 

@@ -316,20 +316,6 @@ def komentarz(d):
     return "\n\n".join(out)
 
 
-def liturgia(d):
-    if not d.get("liturgy"):
-        return ""
-    out = [r'#heading(level: 3)[Liturgia]']
-    for l in d["liturgy"]:
-        wiersz = f'#strong[{esc(l["rite"])}] — {esc(l["occasion"])}'
-        if l["passage"]:
-            wiersz += f' ({esc(l["passage"])})'
-        out.append(wiersz + "\n")
-        if l["description_md"]:
-            out.append(md(l["description_md"]))
-    return "\n\n".join(out)
-
-
 def leksykon(d):
     """Leksemy perykopy z mapą wystąpień. W przeglądarce znaczenia słów żyją
     w dymkach interlinii — w druku dymków nie ma, więc warstwa słownikowa
@@ -419,7 +405,7 @@ def perykopa(pid):
         out.append(md(intro["body_md"]))
     out.append(r'#heading(level: 3)[Tekst perykopy]')
     out.append(tekst_paralelny(d))
-    for czesc in (komentarz(d), liturgia(d), analiza(d), leksykon(d),
+    for czesc in (komentarz(d), analiza(d), leksykon(d),
                   odniesienia(d)):
         if czesc:
             out.append(czesc)
@@ -453,7 +439,6 @@ def sprawdz_kompletnosc(dokument, perykopy):
             ("tekst perykopy", bool(d["verses"]), "Tekst perykopy"),
             ("analiza", bool(d["units"]), "Analiza wers po wersie"),
             ("leksykon", bool(d["lexemes"]), "Leksykon"),
-            ("liturgia", bool(d["liturgy"]), "Liturgia"),
             ("odniesienia", bool(d["refs"] or d["themes"]), "Odniesienia i motywy"),
             ("katena", bool(d["catena"]), "Ojcowie Kościoła"),
             ("aparat krytyczny", bool(d["textual"]), "Aparat krytyczny"),

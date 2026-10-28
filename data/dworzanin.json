@@ -371,7 +371,7 @@
      "children": [
       [
        "Liturgia",
-       "Lekcjonarz rzymski czyta perykopę w poniedziałek IV tygodnia Wielkiego Postu — otwiera ona wielkopostny ciąg Janowych uzdrowień i sporów (rozdziały 4–5 i 7–8 wypełniają ferie aż po Wielki Tydzień): post zaczyna szkołę wiary „na słowo\" od jej biblijnego pierwowzoru. Mszał rzymski w postaci trydenckiej (Missale Romanum 1570–1962) czytał ją jako Ewangelię dwudziestej niedzieli po Zesłaniu Ducha Świętego (J 4,46–53): wielowiekowa obecność sceny w rytmie roku uczyniła z „idź, syn twój żyje\" zdanie dobrze w Kościele Zachodu zadomowione. Pokrewna scena setnika dała liturgii eucharystycznej modlitwę „Panie, nie jestem godzien… ale powiedz tylko słowo\" — i choć to słowa setnika, teologia obu scen jest ta sama: Komunia przyjmowana jest zawsze „na słowo\", którego skuteczność nie zależy od tego, co widać. Lekcjonarz do duszpasterstwa chorych ma J 4,46–53 wśród czytań do wyboru, zalecanych zwłaszcza przy odwiedzinach chorych dzieci."
+       "Lekcjonarz rzymski czyta perykopę w poniedziałek IV tygodnia Wielkiego Postu — otwiera ona wielkopostny ciąg Janowych uzdrowień i sporów (rozdziały 4–5 i 7–8 wypełniają ferie aż po Wielki Tydzień): post zaczyna szkołę wiary „na słowo\" od jej biblijnego pierwowzoru. Mszał rzymski w postaci trydenckiej (*Missale Romanum* — Mszał rzymski, 1570–1962) czytał ją jako Ewangelię dwudziestej niedzieli po Zesłaniu Ducha Świętego (J 4,46–53): wielowiekowa obecność sceny w rytmie roku uczyniła z „idź, syn twój żyje\" zdanie dobrze w Kościele Zachodu zadomowione. Pokrewna scena setnika dała liturgii eucharystycznej modlitwę „Panie, nie jestem godzien… ale powiedz tylko słowo\" — i choć to słowa setnika, teologia obu scen jest ta sama: Komunia przyjmowana jest zawsze „na słowo\", którego skuteczność nie zależy od tego, co widać. Lekcjonarz do duszpasterstwa chorych ma J 4,46–53 wśród czytań do wyboru, zalecanych zwłaszcza przy odwiedzinach chorych dzieci."
       ],
       [
        "Duchowość i duszpasterstwo",
@@ -644,26 +644,6 @@
      "Augustyn zamyka katenę spojrzeniem na całą drabinę sceny: proszący nie wierzył jeszcze w pełni; uwierzył, gdy usłyszał; uwierzył głębiej, gdy poznał godzinę; uwierzył z całym domem, gdy wrócił — wiara nie jest u niego punktem, lecz rzeką, która po drodze przybiera. Stąd rada duszpasterska, którą biskup Hippony daje słabo wierzącym swojej owczarni: nie mierz się z wiarą doskonałych — zacznij od prośby, choćby interesownej; Pan przyjmuje wiarę w zalążku i sam ją prowadzi przez próby i potwierdzenia aż do wyznania. A „drugi znak\" jest dla Augustyna obietnicą kolejnych: kto uwierzył słowu w małej sprawie domu, tego Bóg poprowadzi ku znakom większym — aż po ten ostatni, w którym słowo „żyje\" zostanie powiedziane nie o chłopcu z Kafarnaum, lecz o Ukrzyżowanym trzeciego dnia."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "Poniedziałek IV tygodnia Wielkiego Postu",
-     "J 4,43–54",
-     "Otwiera wielkopostny ciąg Janowych uzdrowień i sporów — post jako szkoła wiary na słowo."
-    ],
-    [
-     "rzymski",
-     "Mszał trydencki: XX niedziela po Zesłaniu Ducha Świętego",
-     "J 4,46–53",
-     "Wielowiekowa obecność sceny w rytmie roku liturgicznego Zachodu (Missale Romanum 1570–1962)."
-    ],
-    [
-     "rzymski",
-     "Duszpasterstwo chorych (lekcjonarz, czytania do wyboru)",
-     "J 4,46–53",
-     "Czytanie zalecane zwłaszcza przy odwiedzinach chorych dzieci."
-    ]
-   ],
    "textual": [
     [
      51,
@@ -709,7 +689,7 @@
      ]
     ]
    ],
-   "revision_note": "Dodano perykopę Syn dworzanina (J 4,43–54) w pełnym opracowaniu: analiza filologiczna (paradoks w. 44, σημεῖα καὶ τέρατα, formuła Eliaszowa ζῇ ὁ υἱός σου, godzina siódma, wiara domu), struktura ramy od Kany do Kany, sekcje II–VIII z podsekcjami, katena sześciu głosów (z Grzegorzem Wielkim Hom. in Ev. II,28), aparat (w. 51.52.53.54), odniesienia (1 Krl 17; 2 Krl 5; Dz 16), cytowania, liturgia; status: ukończona. Recenzja naukowa (2026-09): przepisano trzy noty tekstualne wedle rzeczywistego aparatu NA28 (w. 51 — παῖς αὐτοῦ za P66*, P75, ℵ, A, B, C, W^s; w. 53 — ἐν pomijają P75, ℵ*, B, C, T; w. 54 — δέ mają P66, P75, B, C*, T, W^s wbrew większości) i dodano notę do w. 52; poprawiono księgę homilii Grzegorza Wielkiego (II,28), usunięto numerację lekcji Tomaszowego Super Ioannem, akapitów Augustynowego Tract. in Io. 16 oraz łacińskie formuły podane jako sentencje scholastyczne; sprostowano recepcję trydencką (XX niedziela po Zesłaniu, nie „mszały przedtrydenckie\"), usunięto niepotwierdzony czwartek po III niedzieli Postu, urealniono paralele Eliaszowe i Elizeuszowe (szyk ζῇ ὁ υἱός σου, 2 Krl 5,11), osłabiono tezę o „pierwszej wierze czysto słownej\" (por. 4,41) i przekotwiczono motywy przekrojowe"
+   "revision_note": "Dodano perykopę Syn dworzanina (J 4,43–54) w pełnym opracowaniu: analiza filologiczna (paradoks w. 44, σημεῖα καὶ τέρατα, formuła Eliaszowa ζῇ ὁ υἱός σου, godzina siódma, wiara domu), struktura ramy od Kany do Kany, sekcje II–VIII z podsekcjami, katena sześciu głosów (z Grzegorzem Wielkim Hom. in Ev. II,28), aparat (w. 51.52.53.54), odniesienia (1 Krl 17; 2 Krl 5; Dz 16), cytowania, liturgia; status: ukończona. Recenzja naukowa (2026–09): przepisano trzy noty tekstualne wedle rzeczywistego aparatu NA28 (w. 51 — παῖς αὐτοῦ za P66*, P75, ℵ, A, B, C, W^s; w. 53 — ἐν pomijają P75, ℵ*, B, C, T; w. 54 — δέ mają P66, P75, B, C*, T, W^s wbrew większości) i dodano notę do w. 52; poprawiono księgę homilii Grzegorza Wielkiego (II,28), usunięto numerację lekcji Tomaszowego Super Ioannem, akapitów Augustynowego Tract. in Io. 16 oraz łacińskie formuły podane jako sentencje scholastyczne; sprostowano recepcję trydencką (XX niedziela po Zesłaniu, nie „mszały przedtrydenckie\"), usunięto niepotwierdzony czwartek po III niedzieli Postu, urealniono paralele Eliaszowe i Elizeuszowe (szyk ζῇ ὁ υἱός σου, 2 Krl 5,11), osłabiono tezę o „pierwszej wierze czysto słownej\" (por. 4,41) i przekotwiczono motywy przekrojowe"
   }
  ]
 }

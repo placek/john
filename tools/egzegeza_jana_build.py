@@ -77,7 +77,7 @@ SECTION_I_TITLE = ("Tekst grecki (Nestle-Aland, wyd. 28) z przekładem "
 TABLES = ["intro_section", "book", "verse", "pericope", "section", "commentary_block",
           "analysis_unit", "lexeme", "semitic_term", "lexeme_semitic",
           "lexeme_occurrence", "scripture_ref", "work", "citation",
-          "patristic_comment", "liturgical_use", "textual_note",
+          "patristic_comment", "textual_note",
           "theme", "theme_link"]
 
 
@@ -159,10 +159,6 @@ def insert_pericope(cur, bundle, chapter, resolve):
                        VALUES (?,?,?,?,?)""",
                     (work_of(author, wtitle), block_id[blabel], locus, body.strip(),
                      pos_per_block[blabel]))
-
-    for rite, occ, passage, desc in bundle["liturgy"]:
-        cur.execute("""INSERT INTO liturgical_use(pericope_id, rite, occasion, passage, description_md)
-                       VALUES (?,?,?,?,?)""", (pid, rite, occ, passage, desc))
 
     # nota to [nr wersetu, ...] w rozdziale pliku albo [rozdział, nr wersetu, ...]
     for item in bundle["textual"]:

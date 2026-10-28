@@ -114,9 +114,8 @@ dworzanin → betesda → mowa → chleb → eucharystia → bracia → swieto �
 6. **Katena patrystyczna**: `patristic_comment` — komentarz Ojca Kościoła
    (work + locus + treść) przypięty do bloku wersetowego; widok `v_catena`;
    sekcja VIII w eksporcie składa się z tej tabeli automatycznie
-7. **Recepcja**: `liturgical_use`
-8. **Przekroje**: `theme` + `theme_link` (nici tematyczne przez całą księgę)
-9. **Warsztat**: `meta`, `revision_log`, triggery `updated_at`, FTS5
+7. **Przekroje**: `theme` + `theme_link` (nici tematyczne przez całą księgę)
+8. **Warsztat**: `meta`, `revision_log`, triggery `updated_at`, FTS5
 
 ## Otwieranie
 
@@ -167,7 +166,7 @@ Nie dotyka się już kodu — dopisuje się dane.
 3. `python3 tools/export_pericope.py 2 kana_export.md` — kontrola.
 
 Struktura pojedynczej perykopy (`bundle`): `pericope`, `intro` (sekcja I),
-`blocks` (z `units`), `sections` (II…), `refs`, `patristic`, `liturgy`,
+`blocks` (z `units`), `sections` (II…), `refs`, `patristic`,
 `textual`, `theme_links`; opcjonalnie `struktura`, `section_viii`,
 `citations`, `revision_note`.
 
@@ -264,18 +263,18 @@ czyta — od tekstu do szczegółu:
    na marginesie (perykopy przekraczające granicę rozdziałów dostają znaczniki
    rozdziału i numery w postaci `8,12`). Kolumnę łacińską można schować
    przyciskiem; wybór pamięta się między perykopami
-2. **Komentarz** — „Struktura całości" oraz sekcje II–VII z podsekcjami,
-   zakończenie i nota warsztatowa
+2. **Komentarz** — „Struktura całości" oraz sekcje II–VII z podsekcjami
+   i zakończenie; sekcję „Nota warsztatowa" przeglądarka filtruje (tak samo
+   PDF — wchodzi tylko do eksportu Markdown)
 3. **Ojcowie Kościoła** — katena z autorem, dziełem, miejscem (locus) i blokiem
    wersetowym, którego dotyczy
-4. **Liturgia** — recepcja liturgiczna: ryt, okazja, perykopa lekcjonarza, opis
-5. **Analiza wers po wersie** — blok po bloku: **interlinia** grecko-polska
+4. **Analiza wers po wersie** — blok po bloku: **interlinia** grecko-polska
    z `db.sqlite` (nad każdym słowem greka, pod nim polski odpowiednik; słowa
    Jezusa na czerwono, kliknięcie słowa otwiera Stronga i morfologię po
    polsku), pod nią przekład ciągły, jednostki analizy frazowej, *leksykon*
    słów-kluczy tego bloku, *aparat NA28* z `commentaries` oraz autorskie
    *noty tekstualne* przypisane do jego wersetów
-6. **Odniesienia i motywy** — tabela odniesień biblijnych i motywy przekrojowe
+5. **Odniesienia i motywy** — tabela odniesień biblijnych i motywy przekrojowe
 
 Do tego: lewa kolumna z listą perykop, przyklejony spis części (podświetla
 sekcję, którą właśnie czytasz), górne przyciski *Leksykon* i *Motywy*, tryb
