@@ -501,7 +501,7 @@
      "children": [
       [
        "Liturgia",
-       "Zachód rozpisuje perykopę na dwa dni: wtorek IV tygodnia Wielkiego Postu (Ez 47,1–9.12 + J 5,1–16) i środę tego samego tygodnia (J 5,17–30) — w bloku wielkopostnych scen wody i uzdrowienia, tuż po dworzaninie. Woda z Betesdy weszła zaś wcześnie do wyobraźni chrzcielnej: za tekstem dłuższym z aniołem (zob. aparat) czytali ją Tertulian (De baptismo 5) i Ambroży (De mysteriis 4,22–24), dla którego poruszenie wody jest typem chrztu — w kąpieli Kościoła „porusza\" ją Duch, a uzdrowienie nie zna kolejki ani liczby. Wschód poświęca scenie osobną niedzielę okresu paschalnego — Niedzielę Paralityka, czwartą niedzielę Paschy, czyli trzecią po Passce (Dz 9,32–42 + J 5,1–15): troparia i kanon święta wołają do Chrystusa jako do „lekarza chorych\" i każą Kościołowi rozpoznać się w człowieku bez człowieka („Człowieka nie mam — a Ty, Człowieku i Boże, stałeś się moim wszystkim\"); to jedna z najpiękniejszych liturgicznych egzegez w. 7. W obu tradycjach scena służy też duszpasterstwu chorych: pytanie „czy chcesz stać się zdrowy?\" otwiera obrzędy i modlitwy o uzdrowienie, strzegąc ich przed magią — łaska pyta o wolę."
+       "Zachód rozpisuje perykopę na dwa dni: wtorek IV tygodnia Wielkiego Postu (Ez 47,1–9.12 + J 5,1–16) i środę tego samego tygodnia (J 5,17–30), gdzie obrona z w. 17 otwiera już mowę o Synu i świadectwach, czyli perykopę następną — w bloku wielkopostnych scen wody i uzdrowienia, tuż po dworzaninie. Woda z Betesdy weszła zaś wcześnie do wyobraźni chrzcielnej: za tekstem dłuższym z aniołem (zob. aparat) czytali J 5,1–9 Tertulian (*De baptismo* 5 — O chrzcie) i Ambroży (*De mysteriis* 4,22–24 — O misteriach), dla którego poruszenie wody jest typem chrztu — w kąpieli Kościoła „porusza\" ją Duch, a uzdrowienie nie zna kolejki ani liczby. Wschód poświęca scenie osobną niedzielę okresu paschalnego — Niedzielę Paralityka, czwartą niedzielę Paschy, czyli trzecią po Passce (Dz 9,32–42 + J 5,1–15): troparia i kanon święta wołają do Chrystusa jako do „lekarza chorych\" i każą Kościołowi rozpoznać się w człowieku bez człowieka („Człowieka nie mam — a Ty, Człowieku i Boże, stałeś się moim wszystkim\"); to jedna z najpiękniejszych liturgicznych egzegez w. 7. W obu tradycjach scena służy też duszpasterstwu chorych: pytanie „czy chcesz stać się zdrowy?\" otwiera obrzędy i modlitwy o uzdrowienie, strzegąc ich przed magią — łaska pyta o wolę."
       ],
       [
        "Duchowość i wyobraźnia",
@@ -774,32 +774,7 @@
      "Augustyn spina scenę klamrą stworzenia i Opatrzności: Bóg odpoczął od tworzenia nowych natur, lecz nie od rządzenia stworzonymi — gdyby cofnął rękę, świat by się rozsypał jak głos, gdy zamilknie mówiący; w tym sensie „Ojciec działa aż dotąd\": nosi wszystko, co uczynił. Syn zaś mówi „i Ja działam\" nie jak pomocnik, lecz jak współsprawca tych samych dzieł — bo przez Niego wszystko się stało i w Nim wszystko trwa. Stąd rada Augustyna dla czytelnika zgorszonego „naruszeniem\" szabatu: zapytaj, kto tu działa — jeśli człowiek, gorszysz się słusznie; jeśli Ten, który i ciebie w tej chwili trzyma w istnieniu, to twoje oburzenie jest niewdzięcznością bytu wobec Źródła. A żydowskim oskarżycielom — i każdemu z nas, gdy sądzimy Boga według własnych przepisów o Nim — zostawia regułę, którą sformułował gdzie indziej: intellege, ut credas; crede, ut intellegas — „zrozum, byś uwierzył; uwierz, byś zrozumiał\" (Sermo 43,9): równość Syna nie mieści się w paragrafie, mieści się w wierze."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "Wtorek IV tygodnia Wielkiego Postu",
-     "J 5,1–16",
-     "Wielkopostny blok wody i uzdrowienia — Betesda po dworzaninie, przed wielkim sporem jerozolimskim; pierwsze czytanie Ez 47,1–9.12 (woda spod progu świątyni)."
-    ],
-    [
-     "rzymski",
-     "Środa IV tygodnia Wielkiego Postu",
-     "J 5,17–30",
-     "Ciąg dalszy sceny: obrona z w. 17 otwiera mowę o Synu i świadectwach (kolejna perykopa)."
-    ],
-    [
-     "bizantyjski",
-     "Niedziela Paralityka (czwarta niedziela Paschy, trzecia po Passce)",
-     "J 5,1–15",
-     "Osobna niedziela paschalna (Dz 9,32–42 + J 5,1–15); hymnografia rozwija skargę „człowieka nie mam\" ku wyznaniu Boga-Człowieka."
-    ],
-    [
-     "patrystyczny",
-     "Mistagogia chrzcielna (tekst dłuższy z w. 4)",
-     "J 5,1–9",
-     "Poruszenie wody jako typ chrztu: Tertulian (De baptismo 5) i Ambroży (De mysteriis 4,22–24) — w kąpieli Kościoła porusza wodę Duch, a uzdrowienie nie zna kolejki."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      3,

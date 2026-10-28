@@ -571,7 +571,7 @@
      "children": [
       [
        "Liturgia",
-       "Perykopa otwiera najdłuższą Janową przygodę lekcjonarza rzymskiego: od 17. niedzieli zwykłej roku B (J 6,1-15) liturgia porzuca Marka na pięć niedziel i czyta cały rozdział szósty (6,24-35; 41-51; 51-58; 60-69) — jedyny taki wtręt w roku synoptycznym, dowód, że Kościół uznaje J 6 za swój podstawowy katechizm eucharystyczny; nasza scena pełni w tym cyklu rolę, którą pełniła w Ewangelii: czytania-matki przed homilią. W okresie wielkanocnym oba skrzydła dyptyku wracają w ferie II tygodnia (piątek: J 6,1-15; sobota: J 6,16-21) — tuż przed lekturą mowy eucharystycznej w tygodniu III. Rozmnożenie chleba jest też klasyczną perykopą uroczystości Najświętszego Ciała i Krwi Chrystusa (rok C czyta wersję Łukaszową; procesja Bożego Ciała z jej stacjami niesie ten sam obraz: Chleb rozdawany w drodze, pośród tłumu). Na Wschodzie kroczenie po morzu (w wersji Mateuszowej) ma własną niedzielę (IX po Pięćdziesiątnicy), a modlitwy nad chlebami (artoklasia) i liturgia przygotowania darów żyją słownictwem naszej sceny. Do liturgicznej recepcji należy wreszcie Didache 9 — najstarszy pozabiblijny formularz modlitw eucharystycznych, posługujący się tym samym obrazem co 6,12-13 (literacka zależność od Jana pozostaje sporna): rozproszone po górach klasma, zebrane w jedno — jak Kościół; werset o zbieraniu ułomków modli się w niej do dziś."
+       "Perykopa otwiera najdłuższą Janową przygodę lekcjonarza rzymskiego: od 17. niedzieli zwykłej roku B (J 6,1–15) liturgia porzuca Marka na pięć niedziel i czyta cały rozdział szósty (6,24–35; 41–51; 51–58; 60–69) — jedyny taki wtręt w roku synoptycznym, dowód, że Kościół uznaje J 6 za swój podstawowy katechizm eucharystyczny; nasza scena pełni w tym cyklu rolę, którą pełniła w Ewangelii: czytania-matki przed homilią. W okresie wielkanocnym oba skrzydła dyptyku wracają w ferie II tygodnia (piątek: J 6,1–15; sobota: J 6,16–21) — tuż przed lekturą mowy eucharystycznej w tygodniu III. Rozmnożenie chleba jest też klasyczną perykopą uroczystości Najświętszego Ciała i Krwi Chrystusa, choć rok C czyta wersję Łukaszową (Łk 9,11–17); procesja Bożego Ciała z jej stacjami niesie ten sam obraz: Chleb rozdawany w drodze, pośród tłumu. Na Wschodzie kroczenie po morzu ma własną niedzielę — IX po Pięćdziesiątnicy, w wersji Mateuszowej (Mt 14,22–34) — a modlitwy nad chlebami, czyli błogosławieństwo pięciu chlebów (artoklasia, ἀρτοκλασία — łamanie chleba), oraz liturgia przygotowania darów żyją słownictwem naszej sceny. Do liturgicznej recepcji należy wreszcie Didache 9 — najstarszy pozabiblijny formularz modlitw eucharystycznych, posługujący się tym samym obrazem co 6,12–13 (literacka zależność od Jana pozostaje sporna): rozproszone po górach klasma (κλάσμα — ułomek chleba), zebrane w jedno — jak Kościół; werset o zbieraniu ułomków modli się w niej do dziś."
       ],
       [
        "Ikonografia i duchowość",
@@ -900,32 +900,7 @@
      "Dla Cyryla kroczenie po morzu jest wykładem chrystologii bez jednego terminu technicznego: morze nie nosi nikogo — a nosi Tego, którego słucha jak Stwórcy; Ten sam, który przed chwilą jadł z tłumem chleb jęczmienny, idzie po falach jak po posadzce — oto dwie natury w jednym obrazie: prawdziwy człowiek zmęczonych uczniów i prawdziwy Bóg ujarzmionego żywiołu. Słowo ἐγώ εἰμι czyta Cyryl przez Izajasza i Wyjście: to nie przedstawienie się nocnego wędrowca, lecz imię, które na Horebie zapaliło krzew — wypowiedziane teraz nad wodami, jak niegdyś Duch unosił się nad wodami początku; dlatego skutkiem nie jest tylko ulga, lecz port: gdzie wchodzi Ten, Który Jest, tam podróż stworzenia dobiega celu, bo On jest i drogą, i brzegiem. A że uczniowie „chcieli Go wziąć do łodzi\" — w tym chceniu widzi Cyryl całą różnicę między Kościołem a tłumem: tłum chciał Go porwać dla siebie, uczniowie chcieli Go przyjąć do siebie; porwanie kończy się pustą górą, przyjęcie — ziemią, do której zmierzali."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "17. Niedziela zwykła, rok B",
-     "J 6,1-15",
-     "Otwarcie pięciu Janowych niedziel roku B (J 6): znak chleba jako czytanie-matka przed cyklem mowy eucharystycznej."
-    ],
-    [
-     "rzymski",
-     "Piątek i sobota II tygodnia Okresu Wielkanocnego",
-     "J 6,1-15; 6,16-21",
-     "Oba skrzydła dyptyku w ferialnej lekturze wielkanocnej, tuż przed mową o chlebie życia w tygodniu III."
-    ],
-    [
-     "bizantyjski",
-     "IX Niedziela po Pięćdziesiątnicy (Mt 14,22-34) i tradycja artoklasii",
-     "J 6 (par.)",
-     "Kroczenie po morzu w cyklu niedzielnym; błogosławieństwo pięciu chlebów (artoklasia) żyje obrazem znaku."
-    ],
-    [
-     "rzymski",
-     "Uroczystość Najświętszego Ciała i Krwi Chrystusa (tradycja perykopy rozmnożenia)",
-     "Łk 9,11-17 (rok C)",
-     "Rozmnożenie chleba w sercu święta Eucharystii — Chleb rozdawany w drodze, pośród tłumu; Didache 9 modli się słowami o zebranych ułomkach."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      14,
