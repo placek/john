@@ -463,7 +463,7 @@
      "children": [
       [
        "Liturgia",
-       "Procesja Niedzieli Palmowej należy do najwcześniej i najdokładniej opisanych procesji chrześcijańskich: Egeria (pielgrzymka ok. 381-384) relacjonuje jerozolimski pochód z Góry Oliwnej z gałązkami palm i oliwek, z dziećmi i śpiewem Ps 118 — Benedictus qui venit (Itinerarium 31). W rycie rzymskim J 12,12-16 jest w roku B Ewangelią procesji — do wyboru obok Mk 11,1-10; Wschód czyta Janowy wjazd (12,1-18) jako Ewangelię liturgii Niedzieli Palmowej — u Greków to Kyriake ton Baion, Niedziela Palm (βαΐα z 12,13 weszło do nazwy święta!), u Słowian Niedziela Kwietna z wierzbami zamiast palm. Aklamacja wjazdu weszła na stałe do Sanctus każdej anafory — Benedictus qui venit in nomine Domini, hosanna in excelsis — czyniąc z Eucharystii codzienny adventus; a palmy święcone w Niedzielę Palmową wracają rok później jako popiół Środy Popielcowej: liturgia sama komentuje kruchość tłumnych entuzjazmów. Hymnografia sceny jest przebogata — od Gloria, laus et honor Teodulfa z Orleanu (IX w.), śpiewanego w procesji od tysiąclecia, po wschodni kondakion „na tronie w niebie, na oślęciu na ziemi\"."
+       "Procesja Niedzieli Palmowej należy do najwcześniej i najdokładniej opisanych procesji chrześcijańskich: Egeria (pielgrzymka ok. 381–384) relacjonuje jerozolimski pochód z Góry Oliwnej z gałązkami palm i oliwek, z dziećmi i śpiewem Ps 118 — *Benedictus qui venit* (Błogosławiony, który przychodzi; *Itinerarium* 31). W rycie rzymskim J 12,12–16 jest w roku B Ewangelią procesji — do wyboru obok Mk 11,1–10 — po której liturgia słowa przechodzi w czytanie Męki: palma i pasja w jednym obrzędzie. Wschód czyta Janowy wjazd (12,1–18) jako Ewangelię liturgii Niedzieli Palmowej — u Greków to Kyriake ton Baion, Niedziela Palm (βαΐα — gałązki palmowe, z 12,13, weszło do nazwy święta!), u Słowian Niedziela Kwietna z wierzbami zamiast palm. Aklamacja wjazdu weszła na stałe do Sanctus każdej anafory — *Benedictus qui venit in nomine Domini, hosanna in excelsis* (Błogosławiony, który przychodzi w imię Pańskie, hosanna na wysokościach), wziętej z Ps 118,26 przez J 12,13 — czyniąc z Eucharystii codzienny *adventus* (przyjście); a palmy święcone w Niedzielę Palmową wracają rok później jako popiół Środy Popielcowej: liturgia sama komentuje kruchość tłumnych entuzjazmów. Hymnografia sceny jest przebogata — od *Gloria, laus et honor* (Chwała, cześć i uwielbienie) Teodulfa z Orleanu (IX w.), śpiewanego w procesji od tysiąclecia, po wschodni kondakion „na tronie w niebie, na oślęciu na ziemi\". Godzina czytań Niedzieli Palmowej podaje zaś mowę św. Andrzeja z Krety *Oratio in ramos palmarum* (Mowa na gałązki palmowe; PG 97, 990–994) z wezwaniem „rozścielmy przed Nim samych siebie\" — recepcja sceny w modlitwie całego Kościoła."
       ],
       [
        "Recepcja teologiczna",
@@ -876,32 +876,7 @@
      "Nad westchnieniem faryzeuszów Złotousty zatrzymuje się z gorzką satysfakcją: „nic nie osiągacie\" — oto bilans wszystkich knowań przeciw prawdzie; zakazali, grozili, uchwalili śmierć — a tłum rośnie. Taka jest natura prawdy: prześladowana, krzepnie; tłumiona, rozlewa się szerzej — jakby przeszkody były jej żaglami. Niech więc Kościół w uciskach czyta to zdanie jak obietnicę: gdy wrogowie mówią między sobą „nic nie wskóramy\", w niebie zapisuje się ich mimowolne wyznanie. Ale niech i wierzący usłyszą przestrogę odwrotną: świat, który „poszedł za Nim\" w niedzielę palm, w piątek stał pod krzyżem po obu stronach — iść za Jezusem trzeba dalej niż od bramy do bramy."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "Niedziela Palmowa — procesja z palmami, rok B",
-     "J 12,12-16",
-     "Ewangelia procesji — w roku B do wyboru obok Mk 11,1-10: Kościół rokrocznie wchodzi cieleśnie w scenę wjazdu, z gałązkami, śpiewem Hosanna i Gloria, laus Teodulfa, nim liturgia słowa przejdzie w czytanie Męki: palma i pasja w jednym obrzędzie."
-    ],
-    [
-     "rzymski",
-     "Sanctus każdej Mszy — Benedictus qui venit",
-     "Ps 118,26 przez J 12,13",
-     "Aklamacja wjazdu na stałe w anaforze: u progu modlitwy eucharystycznej zgromadzenie staje w bramie Jerozolimy, witając Przychodzącego pod postaciami pokorniejszymi niż oślę."
-    ],
-    [
-     "bizantyjski",
-     "Niedziela Palmowa (Kyriake ton Baion)",
-     "J 12,1-18",
-     "Wschód czyta Janowy wjazd jako Ewangelię dnia — a nazwę święta wziął wprost z 12,13: Niedziela Baion, Palm; kondakion śpiewa: „na tronie w niebie, na oślęciu na ziemi, Chryste Boże\"."
-    ],
-    [
-     "godzin",
-     "Godzina czytań Niedzieli Palmowej",
-     "św. Andrzej z Krety, Oratio in ramos palmarum (PG 97, 990-994)",
-     "Mowa Andrzeja z Krety — „rozścielmy przed Nim samych siebie\" — jest patrystycznym czytaniem dnia: recepcja sceny w modlitwie całego Kościoła."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      13,
