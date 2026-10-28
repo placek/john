@@ -738,7 +738,7 @@
      "children": [
       [
        "Liturgia",
-       "Rozdział 9 jest Ewangelią czwartej niedzieli Wielkiego Postu roku A (niedziela Laetare) i pozostaje nią do dziś w cyklu skrutyniów: gdy w parafii są kandydaci do chrztu, czyta się go także w latach B i C podczas drugiego skrutynium — bo tak czynił Kościół starożytny. W Rzymie IV-V wieku katechumeni przechodzili w Wielkim Poście obrzęd otwarcia uszu i oczu; Ewangelia o niewidomym była im wykładana jako zapowiedź tego, co stanie się z nimi w noc paschalną: photismos, oświecenie. Ślad tej katechezy nosi sama terminologia — od Justyna po mistagogów IV wieku chrzest nazywa się oświeceniem, a neofitów: oświeconymi (illuminati, neophotistoi). W rycie przedsoborowym perykopę czytano w środę po czwartej niedzieli Wielkiego Postu — w dniu wielkiego skrutynium in aperitione aurium (przy otwarciu uszu) — ze stacją u św. Pawła za Murami; antyfona na komunię tego dnia brzmi Lutum fecit ex sputo Dominus, et linivit oculos meos (Uczynił Pan błoto ze śliny i pomazał moje oczy — J 9,11). Motyw sadzawki-Posłanego przeszedł do teologii chrzcielnicy: fons jako Sziloach, woda, która ma imię Chrystusa."
+       "Rozdział 9 jest Ewangelią czwartej niedzieli Wielkiego Postu roku A (niedziela Laetare) i pozostaje nią do dziś w cyklu skrutyniów: gdy w parafii są kandydaci do chrztu, czyta się go także w latach B i C podczas drugiego skrutynium — bo tak czynił Kościół starożytny. Same obrzędy tego skrutynium są wykładem perykopy: modlitwa nad wybranymi prosi o wyzwolenie z ciemności i dar widzenia w Chrystusie, a egzorcyzm mniejszy i namaszczenie nawiązują wprost do błota i do obmycia. W Rzymie IV–V wieku katechumeni przechodzili w Wielkim Poście obrzęd otwarcia uszu i oczu; Ewangelia o niewidomym była im wykładana jako zapowiedź tego, co stanie się z nimi w noc paschalną: photismos, oświecenie. Ślad tej katechezy nosi sama terminologia — od Justyna po mistagogów IV wieku chrzest nazywa się oświeceniem, a neofitów: oświeconymi (illuminati, neophotistoi). W rycie przedsoborowym perykopę czytano w środę po czwartej niedzieli Wielkiego Postu (J 9,1–38) — w dniu wielkiego skrutynium in aperitione aurium (przy otwarciu uszu) — ze stacją u św. Pawła za Murami; antyfona na komunię tego dnia brzmi Lutum fecit ex sputo Dominus, et linivit oculos meos (Uczynił Pan błoto ze śliny i pomazał moje oczy — J 9,11). Chrzcielną lekturę rozdziału utrwala też Godzina czytań Wielkiego Postu, która podaje fragmenty Augustynowego *Tract. in Io.* 44 (Objaśnienia Ewangelii Jana) z alegorią niewidomego jako rodzaju ludzkiego. Motyw sadzawki-Posłanego przeszedł wreszcie do teologii chrzcielnicy: *fons* (źródło) jako Sziloach, woda, która ma imię Chrystusa."
       ],
       [
        "Recepcja teologiczna",
@@ -1165,32 +1165,7 @@
      "Ten sam Tractatus, który otwiera rozdział alegorią rodzaju ludzkiego, zamyka go wykładem o sądzie. Chrystus przyszedł „na sąd\" — to znaczy na rozdzielenie: nie po to, by komukolwiek odebrać wzrok, lecz po to, by wyszło na jaw, kto swoją ślepotę uznaje, a kto nazywa ją widzeniem. Gdy faryzeusze pytają „czy i my jesteśmy niewidomi?\", pytają o rzecz, którą sami już rozstrzygnęli: ich „widzimy\" jest pychą, a pycha jest jedyną ślepotą, której światło nie leczy, bo ona go nie przyjmuje. Stąd wyrok: gdybyście byli niewidomi, nie mielibyście grzechu; teraz mówicie „widzimy\" — grzech wasz trwa. Uzdrowiony przeszedł drogę dokładnie odwrotną: wyznał, że nie widzi, i dlatego zobaczył — najpierw oczami ciała, na końcu wiarą, gdy padł na twarz przed Tym, który go znalazł."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "4. Niedziela Wielkiego Postu, rok A (Laetare)",
-     "J 9,1-41",
-     "Ewangelia skrutyniów: czytana także w latach B i C, gdy odbywa się drugie skrutynium katechumenów — rozdział o oświeceniu prowadzi wybranych ku chrzcielnemu photismos nocy paschalnej."
-    ],
-    [
-     "rzymski",
-     "Drugie skrutynium (OCIA/RCIA)",
-     "J 9,1-41",
-     "Modlitwa nad wybranymi o wyzwolenie z ciemności i dar widzenia w Chrystusie; egzorcyzm mniejszy i namaszczenie nawiązują wprost do błota i obmycia."
-    ],
-    [
-     "rzymski (forma nadzwyczajna)",
-     "Środa po 4. Niedzieli Wielkiego Postu",
-     "J 9,1-38",
-     "Dzień wielkiego skrutynium in aperitione aurium (przy otwarciu uszu), stacja u św. Pawła za Murami: starożytna katecheza chrzcielna zachowana w mszale z 1962 r.; antyfona na komunię — Lutum fecit ex sputo Dominus, et linivit oculos meos (Uczynił Pan błoto ze śliny i pomazał moje oczy — J 9,11)."
-    ],
-    [
-     "godzin",
-     "Wielki Post — czytania patrystyczne",
-     "Tract. in Io. 44 (fragmenty)",
-     "Augustynowa alegoria niewidomego-rodzaju ludzkiego w Godzinie czytań okresu Wielkiego Postu utrwala chrzcielną lekturę rozdziału."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      4,

@@ -470,7 +470,7 @@
       ],
       [
        "Liturgia",
-       "Lekcjonarz rzymski czyta J 3,22–30 w sobotę po Objawieniu Pańskim — ostatni dzień okresu Narodzenia: radość przyjaciela Oblubieńca zamyka czas epifanii, a „On ma wzrastać\" żegna Boże Narodzenie dokładnie tak, jak kalendarz słoneczny żegna przesilenie; kodę w. 31–36 liturgia dołącza w czwartek drugiego tygodnia wielkanocnego, w ciągu lektury rozdziału trzeciego dla neofitów. Uroczystość Narodzenia św. Jana Chrzciciela (24 VI) — jedno z najstarszych świąt kalendarza, poświadczone już w kazaniach Augustyna — nie czyta wprawdzie naszej perykopy w formularzu mszalnym (ewangelią dnia jest Łk 1,57–66.80), ale jej teologią żyje: II czytanie Godziny czytań to Augustynowe kazanie o Janie-głosie i Chrystusie-Słowie (Sermo 293), a hymnem II Nieszporów Ut queant laxis — ten, z którego Gwido z Arezzo wziął nazwy nut, zostawiając Chrzcicielowi ślad w samym alfabecie muzyki. Wersety 29–30 weszły natomiast na trwałe do kaznodziejstwa o posłudze — od prymicji po jubileusze — jako gotowy program: stać, słuchać i radować się głosem Cudzego wesela."
+       "Lekcjonarz rzymski czyta J 3,22–30 w sobotę po Objawieniu Pańskim — ostatni dzień okresu Narodzenia: radość przyjaciela Oblubieńca zamyka czas epifanii, a „On ma wzrastać\" żegna Boże Narodzenie dokładnie tak, jak kalendarz słoneczny żegna przesilenie; kodę w. 31–36 (Przychodzący z góry, Duch bez miary, wiara i życie) liturgia dołącza w czwartek drugiego tygodnia wielkanocnego, w ciągu lektury rozdziału trzeciego dla neofitów. Uroczystość Narodzenia św. Jana Chrzciciela (24 VI) — jedno z najstarszych świąt kalendarza, poświadczone już w kazaniach Augustyna — nie czyta wprawdzie naszej perykopy w formularzu mszalnym (ewangelią dnia jest Łk 1,57–66.80), ale jej teologią żyje: II czytanie Godziny czytań to Augustynowe kazanie o Janie-głosie i Chrystusie-Słowie (Sermo 293), a hymnem II Nieszporów *Ut queant laxis* (Aby swobodnie mogli) — ten, z którego Gwido z Arezzo wziął nazwy nut, zostawiając Chrzcicielowi ślad w samym alfabecie muzyki. Wersety 29–30 weszły natomiast na trwałe do kaznodziejstwa o posłudze — od prymicji po jubileusze — jako gotowy program: stać, słuchać i radować się głosem Cudzego wesela."
       ]
      ]
     },
@@ -739,26 +739,7 @@
      "„Ojciec miłuje Syna i wszystko dał w Jego rękę\" — Cyryl czyta to zdanie trynitarnie i zbawczo naraz. Trynitarnie: „dał\" nie oznacza, że Syn kiedyś nie miał — odwieczne rodzenie jest odwiecznym dawaniem wszystkiego, co Ojcowskie, a miłość Ojca do Syna nie jest epizodem, lecz samym życiem Boga; werset uchyla drzwi do tej samej komnaty, którą Prolog nazwał łonem Ojca. Zbawczo: skoro wszystko złożono w rękę Syna, nic z naszego losu nie leży poza nią — ani życie, ani sąd, ani Duch, którego daje bez miary; wiara jest przełożeniem tego wersetu na biografię: powierzyć się ręce, w której i tak wszystko spoczywa. Cyryl spina tym samym początek i koniec perykopy: Jan umiał się umniejszyć, bo wiedział, w czyją rękę przechodzi jego dzieło — umniejszenie przed taką ręką nie jest ryzykiem, lecz jedynym całkowicie bezpiecznym ruchem, jaki człowiek może wykonać."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "Sobota po Objawieniu Pańskim",
-     "J 3,22–30",
-     "Radość przyjaciela Oblubieńca zamyka okres Narodzenia Pańskiego — „On ma wzrastać\" jako pożegnanie czasu epifanii."
-    ],
-    [
-     "rzymski",
-     "Czwartek II tygodnia wielkanocnego",
-     "J 3,31–36",
-     "Koda perykopy w wielkanocnej lekturze rozdziału trzeciego: Przychodzący z góry, Duch bez miary, wiara i życie."
-    ],
-    [
-     "rzymski",
-     "Narodzenie św. Jana Chrzciciela (24 VI) — teologia święta",
-     "J 3,29–30 (motyw)",
-     "Najstarsze święto Poprzednika: formularz mszalny czyta Łk 1,57–66.80, ale teologia dnia jest teologią przyjaciela Oblubieńca (Godzina czytań: Augustyn, Sermo 293 — głos a Słowo), a przesilenie letnie stanowi kosmiczny komentarz do „ja się umniejszać\"."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      25,

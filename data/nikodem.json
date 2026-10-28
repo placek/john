@@ -574,7 +574,7 @@
       ],
       [
        "Liturgia",
-       "Lekcjonarz rzymski czyta perykopę w rytmie jej własnych ciężarów: J 3,14–21 w IV Niedzielę Wielkiego Postu roku B (Laetare — niedziela radości: „tak Bóg umiłował świat\" w połowie postu), J 3,13–17 w święto Podwyższenia Krzyża Świętego (14 IX — wąż i wywyższenie jako Ewangelia dnia), J 3,16–18 w uroczystość Trójcy Świętej roku A oraz całą perykopę w dni powszednie II tygodnia wielkanocnego (poniedziałek J 3,1–8, wtorek J 3,7–15, środa J 3,16–21), gdy Kościół czyta neofitom o ich własnych narodzinach. Wigilia Paschalna jest niepisaną liturgią całej sceny: woda święcona z zanurzoną świecą (światło w wodzie!), wezwanie Ducha, kąpiel odrodzenia — mistagogia w. 5 rozpisana na obrzędy. W pobożności krzyż z wężem Mojżeszowym wszedł do ikonografii (typologia na krucyfiksach, w Biblii pauperum zestawiana z Ukrzyżowaniem), a w. 8 stał się ulubionym wersetem teologii duchowości o rozeznawaniu: Ducha poznaje się po głosie i owocach, nie po trasie. Werset 16 zaś liturgia umieściła tam, gdzie jego miejsce: w aklamacjach i przy Komunii — jako zdanie, które wystarczy, gdy zabraknie wszystkich innych."
+       "Lekcjonarz rzymski czyta perykopę w rytmie jej własnych ciężarów: J 3,14–21 w IV Niedzielę Wielkiego Postu roku B (Laetare — niedziela radości: „tak Bóg umiłował świat\" w połowie postu), J 3,13–17 w święto Podwyższenia Krzyża Świętego (14 IX — wąż i wywyższenie jako Ewangelia dnia), J 3,16–18 w uroczystość Trójcy Świętej roku A oraz całą perykopę w dni powszednie II tygodnia wielkanocnego (poniedziałek J 3,1–8, wtorek J 3,7–15, środa J 3,16–21), gdy Kościół czyta neofitom o ich własnych narodzinach. Wigilia Paschalna jest niepisaną liturgią całej sceny: woda święcona z zanurzoną świecą (światło w wodzie!), wezwanie Ducha, kąpiel odrodzenia — mistagogia w. 5 rozpisana na obrzędy. W pobożności krzyż z wężem Mojżeszowym wszedł do ikonografii (typologia na krucyfiksach, w *Biblia pauperum* — Biblii ubogich — zestawiana z Ukrzyżowaniem), a w. 8 stał się ulubionym wersetem teologii duchowości o rozeznawaniu: Ducha poznaje się po głosie i owocach, nie po trasie. Werset 16 zaś liturgia umieściła tam, gdzie jego miejsce: w aklamacjach i przy Komunii — jako zdanie, które wystarczy, gdy zabraknie wszystkich innych."
       ]
      ]
     },
@@ -869,32 +869,7 @@
      "Dlaczego światło bywa znienawidzone? Cyryl odpowiada analizą, która wyprzedza całe traktaty o samooszustwie: zło potrzebuje ciemności podwójnie — zewnętrznej, by ujść oczom ludzi, i wewnętrznej, by ujść oczom własnym; światło odbiera obie kryjówki naraz, dlatego złe uczynki rodzą nienawiść do tego, co je ujawnia, i grzesznik zaczyna zwalczać nie swój grzech, lecz swoje lustro. Ale Aleksandryjczyk nie zostawia diagnozy bez terapii: „czynić prawdę\" to u niego zacząć od jednego uczciwego kroku ku światłu — od przyznania, nie od doskonałości; kto przychodzi do światła z tym, co ma, temu światło nie wypomina, lecz dokonuje w nim reszty — bo uczynki takiego człowieka „w Bogu są dokonane\": Bóg kończy to, ku czemu człowiek się obrócił. Tak domyka się nocna scena: Nikodem, który przyszedł w ciemności, usłyszał na końcu obietnicę dla wszystkich przychodzących — i księga pokaże, że z niej skorzystał."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "IV Niedziela Wielkiego Postu roku B (Laetare)",
-     "J 3,14–21",
-     "„Tak Bóg umiłował świat\" w niedzielę radości pośrodku postu — wywyższenie węża jako Ewangelia pocieszenia przed Paschą."
-    ],
-    [
-     "rzymski",
-     "Podwyższenie Krzyża Świętego (14 IX)",
-     "J 3,13–17",
-     "Typologia węża miedzianego jako Ewangelia święta Krzyża: podniesienie na krzyż i wyniesienie w chwale w jednym czasowniku."
-    ],
-    [
-     "rzymski",
-     "Uroczystość Trójcy Świętej, rok A",
-     "J 3,16–18",
-     "Posłanie Syna przez Ojca dla zbawienia świata — trynitarna lektura serca perykopy."
-    ],
-    [
-     "rzymski",
-     "II tydzień wielkanocny (poniedziałek, wtorek, środa)",
-     "J 3,1–8; 3,7–15; 3,16–21",
-     "Nocna rozmowa czytana neofitom w bieli: katecheza o narodzinach z wody i Ducha tuż po ich własnych narodzinach."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      13,
