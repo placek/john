@@ -582,8 +582,19 @@ def fmt_path(path: tuple) -> str:
 # --------------------------------------------------------------------------- #
 # Redakcja pojedynczego tekstu
 # --------------------------------------------------------------------------- #
+class BladApi(Exception):
+    """Serwer nie odpowiada poprawnie — to nie jest przypadek do fallbacku."""
+
+
+# Błąd API to NIE to samo co odrzucenie przez walidację: zły adres serwera dawałby
+# cichy przebieg „bez zmian" na całym korpusie i zatruty cache (tekst → tekst).
+LICZNIK_BLEDOW_API = {"pod_rzad": 0, "razem": 0}
+PROG_BLEDOW_API = 5
+
+
 def redact_text(text: str, client: BielikClient, cache: Cache, args) -> tuple[str, str]:
-    """Zwraca (wynik, status): status in {cache, ok, fallback}."""
+    """Zwraca (wynik, status): status in {cache, ok, fallback}.
+    Podnosi BladApi, gdy serwer konsekwentnie nie odpowiada."""
     cached = cache.get(text)
     if cached is not None:
         return cached, "cache"
@@ -596,8 +607,17 @@ def redact_text(text: str, client: BielikClient, cache: Cache, args) -> tuple[st
             raw, powod = client.rewrite(wejscie, hint)
         except (urllib.error.URLError, TimeoutError, ConnectionError, KeyError, json.JSONDecodeError) as e:
             last_problem = f"błąd API: {e}"
+            LICZNIK_BLEDOW_API["pod_rzad"] += 1
+            LICZNIK_BLEDOW_API["razem"] += 1
+            if LICZNIK_BLEDOW_API["pod_rzad"] >= PROG_BLEDOW_API:
+                raise BladApi(
+                    f"{PROG_BLEDOW_API} błędów API pod rząd ({e}). "
+                    f"Sprawdź --base-url (teraz: {client.url}) i czy serwer stoi. "
+                    "Przebieg przerwany, żeby nie zapisać oryginałów jako wyniku."
+                ) from e
             time.sleep(min(2 ** attempt, 10))
             continue
+        LICZNIK_BLEDOW_API["pod_rzad"] = 0
         if args.maskuj:
             raw = odmaskuj(raw, schowek)
         new = clean_output(text, raw, args.pl_guards)
@@ -617,7 +637,8 @@ def redact_text(text: str, client: BielikClient, cache: Cache, args) -> tuple[st
             "nie dodawaj komentarzy i zachowaj podobną długość."
         )
     print(f"  ! zostawiam oryginał ({last_problem}): {text[:60]!r}", file=sys.stderr)
-    cache.put(text, text)  # nie męcz modelu w kółko tym samym
+    if not last_problem.startswith("błąd API"):
+        cache.put(text, text)  # nie męcz modelu w kółko tym samym
     return text, "fallback"
 
 
@@ -818,6 +839,13 @@ def main() -> None:
     # UWAGA: str(Path("")) == "." — puste --cache dawało próbę otwarcia katalogu
     sciezka_cache = None if str(args.cache) in ("", ".") else args.cache
     cache = Cache(sciezka_cache, args.model)
+
+    if not args.dry_run:
+        try:
+            client.rewrite("Zdanie próbne.")
+        except Exception as e:
+            sys.exit(f"Serwer nie odpowiada na {client.url}: {e}\n"
+                     f"Podaj --base-url wskazujący na działający llama-server.")
 
     jobs = resolve_jobs(args.input, args.out, args.suffix)
     if not jobs:
