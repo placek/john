@@ -7,9 +7,8 @@
 --    3. komentarz    : section (drzewo), commentary_block, analysis_unit
 --    4. słowniki     : lexeme, semitic_term (+ powiązania, wystąpienia)
 --    5. aparat       : scripture_ref, textual_note, work, citation
---    6. recepcja     : liturgical_use
---    7. przekroje    : theme (+ theme_link)
---    8. warsztat     : meta, revision_log, FTS5, widoki
+--    6. przekroje    : theme (+ theme_link)
+--    7. warsztat     : meta, revision_log, FTS5, widoki
 --  Wymaga SQLite >= 3.37 (STRICT). Zalecane: PRAGMA foreign_keys = ON;
 -- ============================================================
 
@@ -234,19 +233,7 @@ CREATE TABLE citation (
 ) STRICT;
 
 -- ------------------------------------------------------------
--- 6. RECEPCJA LITURGICZNA
--- ------------------------------------------------------------
-CREATE TABLE liturgical_use (
-    id             INTEGER PRIMARY KEY,
-    pericope_id    INTEGER NOT NULL REFERENCES pericope(id) ON DELETE CASCADE,
-    rite           TEXT NOT NULL,              -- 'rzymski', 'bizantyjski', …
-    occasion       TEXT NOT NULL,              -- 'Msza w dzień Narodzenia Pańskiego'
-    passage        TEXT,                       -- 'J 1,1–14'
-    description_md TEXT
-) STRICT;
-
--- ------------------------------------------------------------
--- 7. PRZEKROJE TEMATYCZNE
+-- 6. PRZEKROJE TEMATYCZNE
 -- ------------------------------------------------------------
 CREATE TABLE theme (
     id             INTEGER PRIMARY KEY,
@@ -268,7 +255,7 @@ CREATE TABLE theme_link (
 ) STRICT;
 
 -- ------------------------------------------------------------
--- 8. WARSZTAT: dziennik zmian
+-- 7. WARSZTAT: dziennik zmian
 -- ------------------------------------------------------------
 CREATE TABLE revision_log (
     id         INTEGER PRIMARY KEY,
@@ -446,7 +433,7 @@ SELECT l.id, l.lemma, l.translit, l.pos, l.gloss_pl,
 FROM lexeme l;
 
 -- ------------------------------------------------------------
--- 9. KATENA PATRYSTYCZNA
+-- 8. KATENA PATRYSTYCZNA
 --    Komentarz Ojca Kościoła przypięty do bloku wersetowego
 --    (lub całej perykopy). work = autor+dzieło, locus = miejsce.
 -- ------------------------------------------------------------

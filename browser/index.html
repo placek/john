@@ -254,20 +254,6 @@
   }
   .ojcowie-bloku .ojciec:last-child { margin-bottom: 0; }
 
-  /* ---------------------------------------------------------- liturgia */
-  .liturgia-poz {
-    display: grid; grid-template-columns: 7.5rem 1fr; gap: .2rem 1rem;
-    padding: .85rem 0; border-bottom: 1px solid var(--linia);
-  }
-  .liturgia-poz:last-child { border-bottom: none; }
-  .liturgia-poz .ryt {
-    font-size: .72rem; text-transform: uppercase; letter-spacing: .1em;
-    color: var(--zloto); padding-top: .25rem;
-  }
-  .liturgia-poz .okazja { font-size: 1.02rem; }
-  .liturgia-poz .perykopa-siglum { color: var(--greka); font-size: .9rem; }
-  .liturgia-poz .opis { grid-column: 2; color: var(--przygaszony); font-size: .92rem; }
-
   /* ---------------------------------------------------------- analiza blokowa */
   .blok { margin-bottom: 3rem; scroll-margin-top: 7.5rem; }
   .blok-glowka {
@@ -470,8 +456,6 @@
     .legenda { margin-left: 0; flex-basis: 100%; }
     .il-nr { min-width: 1.7rem; }
     .leks-poz { grid-template-columns: 1fr; gap: 0; }
-    .liturgia-poz { grid-template-columns: 1fr; }
-    .liturgia-poz .opis { grid-column: 1; }
     /* długi żeton motywu (np. „oświecenie (φωτισμός)…") nie mieści się w jednej linii */
     .motywy .pigulka { white-space: normal; }
   }
@@ -808,26 +792,7 @@ function ojcowieBloku(d, b) {
     </div>`;
 }
 
-// ---------- 4. liturgia ----------
-function czescLiturgia(d) {
-  if (!d.liturgy.length) return '';
-  return `
-    <section class="czesc" id="cz-liturgia">
-      <h2 class="naglowek-czesci">Liturgia
-        <span class="liczba">${d.liturgy.length} miejsc w recepcji</span></h2>
-      ${d.liturgy.map(l => `
-        <div class="liturgia-poz">
-          <div class="ryt">${esc(l.rite)}</div>
-          <div>
-            <div class="okazja">${esc(l.occasion)}</div>
-            ${l.passage ? `<div class="perykopa-siglum">${linkBiblii(l.passage)}</div>` : ''}
-          </div>
-          ${l.description_md ? `<div class="opis">${esc(l.description_md)}</div>` : ''}
-        </div>`).join('')}
-    </section>`;
-}
-
-// ---------- 5. analiza wers po wersie ----------
+// ---------- 3. analiza wers po wersie ----------
 function leksykonBloku(d, b) {
   const od = [b.chapter_start, b.verse_start], az = [b.chapter_end, b.verse_end];
   // Gdy blok ma interlinię, znaczenia słów żyją w dymkach interlinii —
@@ -1004,7 +969,7 @@ function czescAnaliza(d) {
     </section>`;
 }
 
-// ---------- 6. odniesienia i motywy ----------
+// ---------- 4. odniesienia i motywy ----------
 function czescOdniesienia(d) {
   if (!d.refs.length && !d.themes.length) return '';
   return `
@@ -1037,7 +1002,6 @@ async function otworz(id) {
   const czesci = [
     ['cz-tekst', 'Tekst', czescTekst(d)],
     ['cz-komentarz', 'Komentarz', czescKomentarz(d)],
-    ['cz-liturgia', 'Liturgia', czescLiturgia(d)],
     ['cz-analiza', 'Analiza', czescAnaliza(d)],
     ['cz-odniesienia', 'Odniesienia', czescOdniesienia(d)],
   ].filter(([, , html]) => html);
