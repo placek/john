@@ -11,7 +11,7 @@
    "Księga Ozeasza",
    "ST",
    35
-]
+  ]
  ],
  "verses": {
   "chapter": 2,
@@ -488,7 +488,7 @@
      "children": [
       [
        "Liturgia: Epifania i lekcjonarz",
-       "Zachodnia liturgia związała Kanę z Epifanią (Objawieniem Pańskim): antyfona do Magnificat II Nieszporów uroczystości śpiewa o dniu „ozdobionym trzema cudami\" (Tribus miraculis ornatum diem sanctum colimus: hodie stella magos duxit ad praesepium; hodie vinum ex aqua factum est ad nuptias; hodie in Iordane a Ioanne Christus baptizari voluit, ut salvaret nos — dzień święty ozdobiony trzema cudami czcimy: dziś gwiazda przywiodła Magów do żłóbka, dziś woda stała się winem na godach, dziś w Jordanie Chrystus chciał być ochrzczony przez Jana, aby nas zbawić) — pokłon Magów, chrzest w Jordanie i woda przemieniona w wino to trzy odsłony jednego objawienia chwały. Splot ten jest specyfiką łacińską: bizantyńska Teofania (6 I) skupia hymnografię na samym chrzcie w Jordanie. W lekcjonarzu rzymskim J 2,1–11 czyta się w II Niedzielę zwykłą roku C — tuż po święcie Chrztu Pańskiego, zgodnie ze starą logiką epifanijną — oraz jako jedną z perykop ewangelijnych do wyboru w obrzędzie sakramentu małżeństwa: Kana jest biblijną ikoną tego sakramentu. Jan Paweł II, dodając w 2002 r. tajemnice światła do różańca (Rosarium Virginis Mariae), uczynił Kanę drugą z nich: „objawienie siebie na weselu w Kanie\" — jedyną w całym różańcu tajemnicę opartą na scenie przekazanej wyłącznie przez czwartą Ewangelię."
+       "Zachodnia liturgia związała Kanę z Epifanią (Objawieniem Pańskim): antyfona do Magnificat II Nieszporów uroczystości śpiewa o dniu „ozdobionym trzema cudami\" (Tribus miraculis ornatum diem sanctum colimus: hodie stella magos duxit ad praesepium; hodie vinum ex aqua factum est ad nuptias; hodie in Iordane a Ioanne Christus baptizari voluit, ut salvaret nos — dzień święty ozdobiony trzema cudami czcimy: dziś gwiazda przywiodła Magów do żłóbka, dziś woda stała się winem na godach, dziś w Jordanie Chrystus chciał być ochrzczony przez Jana, aby nas zbawić) — pokłon Magów, chrzest w Jordanie i woda przemieniona w wino to trzy odsłony jednego objawienia chwały. Splot ten jest specyfiką łacińską: bizantyńska Teofania (6 I) skupia hymnografię na samym chrzcie w Jordanie. W lekcjonarzu rzymskim J 2,1–11 czyta się w II Niedzielę zwykłą roku C — tuż po święcie Chrztu Pańskiego, zgodnie ze starą logiką epifanijną — oraz jako jedną z perykop ewangelijnych do wyboru w obrzędzie sakramentu małżeństwa: Kana jest biblijną ikoną tego sakramentu, Chrystus zaś gościem i dawcą radości godów. Jan Paweł II, dodając w 2002 r. tajemnice światła do różańca (*Rosarium Virginis Mariae* — Różaniec Dziewicy Maryi), uczynił Kanę drugą z nich: „objawienie siebie na weselu w Kanie\" — jedyną w całym różańcu tajemnicę opartą na scenie przekazanej wyłącznie przez czwartą Ewangelię, a zarazem oś maryjnej drogi „czyńcie, cokolwiek wam powie\"."
       ],
       [
        "Duchowość, sztuka, wyobraźnia",
@@ -780,32 +780,7 @@
      "Dlaczego „objawił chwałę swoją\", skoro widzieli tylko nieliczni? Chryzostom: chwała Boża nie potrzebuje widowni — potrzebuje świadków; znak zobaczyli słudzy, uczniowie i matka, a przecież „uwierzyli w Niego Jego uczniowie\" — ci, którzy już szli za Nim: cud nie stwarza wiary z niczego, cud karmi wiarę, która przyszła posłuszna za świadectwem. Kaznodzieja zauważa też takt Zbawiciela: nie upokorzył pana młodego ogłoszeniem braku, nie wystawił daru na pokaz — chwała Janowa działa dyskretnie, jak zaczyn; kto szuka Boga w hałasie efektów, przeoczy Go przy własnym stole. I ostatnia uwaga, całkiem praktyczna: pierwszy znak uczynił Jezus na prośbę matki dla ubogiej rodziny — nauka dla uczniów wszystkich czasów, od czego zaczyna się objawianie chwały: od cudzego wstydu, któremu można zaradzić."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "Epifania — antyfona Tribus miraculis (nieszpory Objawienia Pańskiego)",
-     "J 2,1–11",
-     "Trzy cuda jednego objawienia: Magowie, Jordan, Kana — starożytny splot epifanijny."
-    ],
-    [
-     "rzymski",
-     "II Niedziela zwykła, rok C",
-     "J 2,1–11",
-     "Kana tuż po święcie Chrztu Pańskiego — kontynuacja logiki epifanijnej lekcjonarza."
-    ],
-    [
-     "rzymski",
-     "Msza obrzędowa za nowożeńców (czytania ślubne)",
-     "J 2,1–11",
-     "Biblijna ikona sakramentu małżeństwa: Chrystus gościem i dawcą radości godów."
-    ],
-    [
-     "pobożność",
-     "Różaniec — II tajemnica światła (od 2002, Rosarium Virginis Mariae)",
-     "J 2,1–11",
-     "Objawienie siebie na weselu w Kanie; oś maryjnej drogi „czyńcie, cokolwiek wam powie\"."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      3,

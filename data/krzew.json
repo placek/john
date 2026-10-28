@@ -755,7 +755,7 @@
      "children": [
       [
        "Liturgia",
-       "Perykopa należy do okresu wielkanocnego: 5. Niedziela Wielkanocna roku B czyta J 15,1-8 (winorośl i latorośle), 6. Niedziela roku B — J 15,9-17 (trwajcie w mojej miłości; przyjaciele), a dni powszednie piątego tygodnia Wielkanocy przechodzą całość werset po wersecie. To dobór teologicznie precyzyjny: wspólnota, która świętuje zmartwychwstanie i zbliża się do Pięćdziesiątnicy, uczy się, czym jest jej związek ze Zmartwychwstałym w czasie Kościoła. Drugą część perykopy (J 15,9-17) lekcjonarz rzymski daje nadto we wspólnym o świętych oraz w mszach rytualnych — przy święceniach, profesji zakonnej i konsekracji dziewic; wspólne o męczennikach bierze z tej mowy fragment następny (J 15,18-21), a formularze za zmarłych nie czytają J 15 wcale. Werset 13 („nikt nie ma większej miłości\") zrobił natomiast karierę poza lekcjonarzem: jest jednym z najczęstszych napisów na pomnikach poległych i tablicach nagrobnych, zwłaszcza na cmentarzach i w kościołach po pierwszej wojnie światowej. Obraz winorośli wszedł też w ikonografię eucharystyczną: krzew z gronami na kielichach, patenach i portalach (Chrystus w prasie winnej — mistyczna tłocznia późnego średniowiecza), a w sztuce wschodniej — ikona „Chrystus winoroślą prawdziwą\" z apostołami wyrastającymi jako pędy z Jego boku."
+       "Perykopa należy do okresu wielkanocnego: 5. Niedziela Wielkanocna roku B czyta J 15,1–8 (winorośl i latorośle), 6. Niedziela roku B — J 15,9–17 (trwajcie w mojej miłości; przyjaciele), a dni powszednie piątego tygodnia Wielkanocy przechodzą całość werset po wersecie. To dobór teologicznie precyzyjny: wspólnota, która świętuje zmartwychwstanie i zbliża się do Pięćdziesiątnicy, uczy się, czym jest jej związek ze Zmartwychwstałym w czasie Kościoła. Drugą część perykopy (J 15,9–17) lekcjonarz rzymski daje nadto we wspólnym o świętych oraz w mszach rytualnych — przy święceniach, profesji zakonnej i konsekracji dziewic; wspólne o męczennikach bierze z tej mowy fragment następny (J 15,18–21), a formularze za zmarłych nie czytają J 15 wcale. W rycie bizantyjskim cały rozdział wchodzi w pierwszą z Dwunastu Ewangelii Męki (J 13,31–18,1): alegoria winorośli i mowa o przyjaciołach czytane są w noc, w której Przyjaciel kładzie życie za przyjaciół.\n\nWerset 13 („nikt nie ma większej miłości\") zrobił natomiast karierę poza lekcjonarzem: jest jednym z najczęstszych napisów na pomnikach poległych i tablicach nagrobnych, zwłaszcza na cmentarzach i w kościołach po pierwszej wojnie światowej. Obraz winorośli wszedł też w ikonografię eucharystyczną: krzew z gronami na kielichach, patenach i portalach (Chrystus w prasie winnej — mistyczna tłocznia późnego średniowiecza), a w sztuce wschodniej — ikona „Chrystus winoroślą prawdziwą\" z apostołami wyrastającymi jako pędy z Jego boku."
       ],
       [
        "Recepcja teologiczna",
@@ -1154,32 +1154,7 @@
      "Nad zdaniem „nie wy mnie wybraliście\" Augustyn stawia całą naukę o łaskawości wybrania: gdyby Bóg wybierał tych, którzy już wierzą, to On zostałby wybrany pierwszy — a tymczasem miłosierdzie uprzedziło. Stąd zdanie, które przejęła cała tradycja: nie wybiera dobrych, lecz czyni dobrymi tych, których wybrał (non eligit bonos, sed facit quos elegerit bonos). Przeciw tym, którzy w miejsce łaski wstawiają Bożą przedwiedzę zasług, przywołuje Pawła: jeśli z łaski, to już nie z uczynków, bo inaczej łaska nie jest już łaską (Rz 11,5-6) — pierwszeństwo zasługi zniosłoby samo pojęcie daru."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "5. Niedziela Wielkanocna, rok B",
-     "J 15,1-8",
-     "Ewangelia niedzieli: alegoria winorośli w sercu okresu wielkanocnego — wspólnota Zmartwychwstałego uczy się, że jej związek z Nim jest organiczny, a owoc jest chwałą Ojca."
-    ],
-    [
-     "rzymski",
-     "6. Niedziela Wielkanocna, rok B",
-     "J 15,9-17",
-     "Druga część perykopy: trwanie w miłości, radość dopełniona, przykazanie miłości wzajemnej i zmiana tytułu ze sług na przyjaciół — czytana tuż przed Wniebowstąpieniem."
-    ],
-    [
-     "rzymski",
-     "Wspólne o świętych; msze rytualne (święcenia, profesja zakonna, konsekracja dziewic)",
-     "J 15,9-17",
-     "Druga część perykopy — trwanie w miłości, przyjaciele, wybranie i posłanie — jest w lekcjonarzu rzymskim Ewangelią wspólnego o świętych oraz mszy rytualnych przy święceniach, profesji zakonnej i konsekracji dziewic. Uwaga: wspólne o męczennikach czyta fragment następny (J 15,18-21), a formularze za zmarłych nie sięgają do J 15; kariera w. 13 („nikt nie ma większej miłości\") jest epigraficzna — to jeden z najczęstszych napisów na pomnikach poległych — a nie lekcjonarzowa."
-    ],
-    [
-     "bizantyjski",
-     "Jutrznia Wielkiego Piątku — Ewangelie Męki",
-     "J 15,1-17",
-     "Rozdział 15 wchodzi w pierwszą z Dwunastu Ewangelii Męki (J 13,31-18,1): alegoria winorośli i mowa o przyjaciołach czytane w noc, w której Przyjaciel kładzie życie za przyjaciół."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      6,
