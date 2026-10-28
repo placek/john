@@ -19,3 +19,6 @@ __pycache__/
 
 # Claude Code session directory.
 .claude/
+
+# graft's local graph cache — regenerable, not committed (run `graft build`).
+/graft/
