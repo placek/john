@@ -714,7 +714,7 @@
      "children": [
       [
        "Liturgia",
-       "Żadna scena Janowa nie weszła w liturgię tak dosłownie: Kościół nie tylko czyta perykopę w Wielki Czwartek — on ją ODGRYWA. Mandatum (od pierwszego słowa antyfony „Mandatum novum do vobis\" — Przykazanie nowe daję wam) jest obrzędem Mszy Wieczerzy Pańskiej: celebrans, zdjąwszy ornat, polewa wodą stopy wybranych i je ociera; dekret Kongregacji Kultu Bożego z 6 stycznia 2016 r. (In Missa in Cena Domini — We Mszy Wieczerzy Pańskiej) zmienił rubrykę tak, że wybiera się spośród całego ludu Bożego, a więc dopuścił do obrzędu kobiety. Na Wschodzie hierarcha myje nogi dwunastu kapłanom w obrzędzie zwanym po prostu Νιπτήρ; w Mediolanie Ambrożego pedilavium było częścią samego chrztu. Do sceny odwołuje się też śpiew Ubi caritas i cała teologia „Kościoła ręcznika\"; papieski obrzęd jest poświadczony od VII w. (Ordo Romanus in Coena Domini — papież umywa nogi swoim posługującym), a w średniowieczu biskupi i papieże umywali nogi dwunastu ubogim; opowieść o Grzegorzu Wielkim, któremu przy tej posłudze ukazał się anioł, należy do legendy hagiograficznej, nie do historii liturgii. Wielki Czwartek pozostaje dniem, w którym liturgia i etyka są jednym gestem."
+       "Żadna scena Janowa nie weszła w liturgię tak dosłownie: Kościół nie tylko czyta perykopę w Wielki Czwartek — on ją ODGRYWA. Mandatum (od pierwszego słowa antyfony „Mandatum novum do vobis\" — Przykazanie nowe daję wam) jest obrzędem Mszy Wieczerzy Pańskiej, w której J 13,1–15 jest Ewangelią dnia: po homilii celebrans, zdjąwszy ornat, polewa wodą stopy wybranych i je ociera, a towarzyszą temu antyfony z tego samego rozdziału — *Mandatum novum* i *Ubi caritas* (Gdzie miłość). Dekret Kongregacji Kultu Bożego z 6 stycznia 2016 r. (*In Missa in Cena Domini* — We Mszy Wieczerzy Pańskiej) zmienił rubrykę tak, że wybiera się spośród całego ludu Bożego, a więc dopuścił do obrzędu kobiety.\n\nDruga część perykopy ma w lekcjonarzu własne miejsce: J 13,16–20 wraca jako samodzielna Ewangelia czwartku IV tygodnia okresu wielkanocnego — logion o słudze i posłanym, makaryzm czynu, cytat Ps 41,10 i zasada przyjęcia posłanego. Zestawiona, jak wszystkie wielkanocne dni powszednie, z Dziejami Apostolskimi, czytana jest wtedy jako tekst o misji: dokładnie tak, jak rozumie siebie w. 20.\n\nWschód odgrywa scenę jeszcze ściślej. Obrzęd Umycia (ὁ Νιπτήρ — miednica; nazwa wzięta od Janowego hapaksu z w. 5) prowadzi J 13,3–17 zdanie po zdaniu: diakon czyta, hierarcha wykonuje, a ostatni z dwunastu kapłanów odgrywa Piotra i wypowiada jego protest, na który biskup odpowiada słowami Chrystusa — po czym wraca w szaty i sam czyta zakończenie perykopy. W Mediolanie Ambrożego *pedilavium* (umycie nóg) nie było obrzędem Wielkiego Czwartku, lecz częścią samego chrztu: za świadectwem Ambrożego (*De sacramentis* III — O sakramentach) neofitom umywano nogi na podstawie J 13,8–10, a lokalnej tradycji broniono wprost wobec praktyki rzymskiej — „idziemy za tym, co uczynił Chrystus\".\n\nDo sceny odwołuje się cała teologia „Kościoła ręcznika\"; papieski obrzęd jest poświadczony od VII w. (*Ordo Romanus in Coena Domini* — Porządek rzymski na Wieczerzę Pańską: papież umywa nogi swoim posługującym), a w średniowieczu biskupi i papieże umywali nogi dwunastu ubogim; opowieść o Grzegorzu Wielkim, któremu przy tej posłudze ukazał się anioł, należy do legendy hagiograficznej, nie do historii liturgii. Wielki Czwartek pozostaje dniem, w którym liturgia i etyka są jednym gestem."
       ],
       [
        "Recepcja teologiczna",
@@ -1117,32 +1117,7 @@
      "Chryzostom zatrzymuje się nad delikatnością zapowiedzi: Pan jeszcze nie wskazuje zdrajcy wprost, lecz zasłania rzecz słowami psalmu — „ten, kto je mój chleb, podniósł na mnie piętę\" — i tym samym zostawia Judaszowi miejsce na nawrócenie. Logion o słudze, który nie jest większy od pana, czyta zaś jako pociechę dla uczniów: gdy kiedyś doznają krzywdy od swoich, niech spojrzą na Judasza, który za tyle dobra odpłacił przeciwnym — i niech się nie zgorszą. Zapowiedź nie jest więc wyrokiem, lecz osłoną wiary: co przepowiedziane, nie może już obalić."
     ]
    ],
-   "liturgy": [
-    [
-     "rzymski",
-     "Wielki Czwartek — Msza Wieczerzy Pańskiej (mandatum)",
-     "J 13,1-15",
-     "Jedyna liturgia roku, która perykopę ODGRYWA: po homilii celebrans, zdjąwszy ornat, polewa wodą stopy wybranych i je ociera; antyfony z J 13 (Mandatum novum, Ubi caritas) towarzyszą obrzędowi, a Ewangelią dnia jest właśnie ta scena."
-    ],
-    [
-     "rzymski",
-     "Czwartek IV tygodnia okresu wielkanocnego",
-     "J 13,16-20",
-     "Druga część perykopy wraca w lekcjonarzu ferialnym jako samodzielna Ewangelia dnia: logion o słudze i posłanym, makaryzm czynu, cytat Ps 41,10 i zasada przyjęcia posłanego. Zestawiona — jak wszystkie wielkanocne dni powszednie — z Dziejami Apostolskimi, czytana jest wtedy jako tekst o misji: dokładnie tak, jak rozumie siebie w. 20."
-    ],
-    [
-     "bizantyjski",
-     "Wielki Czwartek — obrzęd Umycia (ὁ Νιπτήρ)",
-     "J 13,3-17",
-     "Hierarcha umywa nogi dwunastu kapłanom podczas czytania perykopy zdanie po zdaniu — diakon czyta, biskup wykonuje; ostatni z kapłanów odgrywa rolę Piotra i wypowiada jego protest, a biskup odpowiada słowami Chrystusa, po czym wraca w szaty i czyta zakończenie perykopy; obrzęd nosi nazwę od Janowego hapaksu νιπτήρ."
-    ],
-    [
-     "mediolański (ambrozjański)",
-     "Pedilavium chrzcielne starożytnego Mediolanu",
-     "J 13,8-10",
-     "Za świadectwem Ambrożego (De sacramentis III) Mediolan umywał neofitom nogi jako część obrzędów chrzcielnych — lokalna tradycja broniona wprost wobec praktyki rzymskiej: „idziemy za tym, co uczynił Chrystus\"."
-    ]
-   ],
+   "liturgy": [],
    "textual": [
     [
      2,
