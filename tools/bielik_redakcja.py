@@ -107,6 +107,10 @@ SYSTEM_PROMPT_CZYTELNY = (
     "\u27e61\u27e7 — to zasłonięte sigla i liczby. Przepisz je BEZ ZMIANY, co do "
     "znaku, i zostaw w tych samych miejscach zdania. Nie licz ich, nie tłumacz, "
     "nie pomijaj.\n"
+    "8c. Każdy fragment w cudzysłowie „…\" dłuższy niż kilka słów to PRZYTOCZENIE "
+    "źródła — wersetu, formuły liturgicznej, zdania Ojca Kościoła. Przepisz go "
+    "co do słowa, razem z cudzysłowami. Nie streszczaj go, nie parafrazuj i nie "
+    "zastępuj samym odsyłaczem.\n"
     "9. Nie zmieniaj kwalifikatorów pewności: „prawdopodobnie\", „bywa "
     "kwestionowane\", „aluzja\" kontra „cytat\". Ich osłabienie albo wzmocnienie "
     "jest zmianą twierdzenia.\n"
@@ -391,12 +395,15 @@ def looks_like_prose(s: str, min_chars: int, min_words: int) -> bool:
 # ANI RAZU (sprawdzone: ” 0×, ’ 0× wobec „ 4987×). Podmiana jest więc bezstratna
 # i robimy ją deterministycznie, zamiast prosić o nią model.
 TYPO_NORM = {"\u201d": '"', "\u2019": "'"}
+# Dywiz ze spacjami: w korpusie 0 wystąpień wobec 11900 em-pauz, a model degraduje
+# „ — " na „ - " niemal w każdym tekście. Podmiana jest więc bezstratna.
+SPACJOWANY_DYWIZ = re.compile(r"(?<=\s)-(?=\s)")
 
 
 def normalizuj_typografie(s: str) -> str:
     for zly, dobry in TYPO_NORM.items():
         s = s.replace(zly, dobry)
-    return s
+    return SPACJOWANY_DYWIZ.sub("\u2014", s)
 
 
 # Maskowanie sigli i liczb. Pomiar na 40 tekstach pokazał, że 74% odrzuceń
@@ -463,6 +470,20 @@ def obce_tokeny(s: str) -> Counter:
     return out
 
 
+# Cytat treściowy: „…" dłuższy niż 25 znaków. To przytoczone źródło — werset,
+# formuła liturgiczna, zdanie Ojca — i musi przetrwać co do słowa. Krótkie
+# cudzysłowy przy pojedynczych terminach to znaczniki, nie cytaty, więc wolno im
+# się przesuwać. W zakresie profilu jest 3758 cytatów, z czego 1140 treściowych.
+CYTAT_RE = re.compile(r"\u201e([^\u201e\"]{3,})\"")
+MIN_CYTAT = 25
+
+
+def cytaty(s: str) -> Counter:
+    return Counter(re.sub(r"\s+", " ", m.group(1)).strip()
+                   for m in CYTAT_RE.finditer(s)
+                   if len(m.group(1)) > MIN_CYTAT)
+
+
 KURSYWA_RE = re.compile(r"\*([^*\n]{2,})\*")
 
 
@@ -493,6 +514,10 @@ def validate(original: str, new: str, max_ratio: float, pl_guards: bool = False,
         brak = obce_tokeny(original) - obce_tokeny(new)
         if brak:
             return f"zgubione wyrażenia obce: {', '.join(list(brak)[:4])}"
+        brak_cyt = cytaty(original) - cytaty(new)
+        if brak_cyt:
+            skr = [c[:44] + ("…" if len(c) > 44 else "") for c in list(brak_cyt)[:2]]
+            return f"zgubiony cytat: {'; '.join(skr)}"
         brak_kur = kursywy(original) - kursywy(new)
         if brak_kur:
             skr = [k[:38] + ("…" if len(k) > 38 else "") for k in list(brak_kur)[:3]]
