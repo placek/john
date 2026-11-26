@@ -164,6 +164,30 @@ def ksiega(tytul, perykopy):
     ])
 
 
+def greka_perykopy(v):
+    """Kolumna grecka tekstu perykopy, pisana ligaturami RGreekL.
+
+    app.koduj_rgreekl() oddaje werset w odcinkach: zakodowane (krój RGreekL)
+    i surowe — nawiasy edytorskie NA28, których ten font nie ma, bo ( ) trzyma
+    jako klawisze przydechu. Te zostają na New Athena.
+
+    top-edge/bottom-edge są ustawione na sztywno, bo rgreek.ttf deklaruje
+    pudełko wiersza prawie dwa razy wyższe niż New Athena (1209/-717 zamiast
+    732/-284 przy 1000 jednostkach na firet) i bez tego wiersze tabeli
+    rozdymają się dwukrotnie."""
+    odcinki = v.get("greek_rgreekl")
+    if not odcinki:
+        return q(bez_sigli(v["text_greek"]))
+    czesci = []
+    for o in odcinki:
+        if o["lig"]:
+            czesci.append('#text(font: "%s", top-edge: 0.72em, bottom-edge: -0.28em, %s)'
+                          % (app.RGREEKL_RODZINA, q(o["text"])))
+        else:
+            czesci.append("#" + q(o["text"]))
+    return "[" + "".join(czesci) + "]"
+
+
 def tekst_paralelny(d):
     """Grecko-polska (i łacińska) kolumna tekstu perykopy."""
     lac = {(l["chapter"], l["verse"]): l["text"] for l in d.get("lacina", [])}
@@ -181,7 +205,7 @@ def tekst_paralelny(d):
         nr = (str(v["verse_num"]) if d["head"]["chapter_start"] == d["head"]["chapter_end"]
               else f'{v["chapter"]},{v["verse_num"]}')
         cele = [f'iv({q(nr)})',
-                q(bez_sigli(v["text_greek"])),
+                greka_perykopy(v),
                 q(v["text_working_pl"] or "")]
         if jest_lac:
             cele.append(f'emph({q(lac.get(klucz, ""))})')
