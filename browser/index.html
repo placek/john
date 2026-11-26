@@ -13,6 +13,23 @@
   }
   [lang="grc"], .ap-gr { font-family: 'New Athena Unicode', 'GFS Neohellenic', serif; }
 
+  /* greka pisana ligaturami — krój RGreekL (rgreek.ttf) w tekście perykopy */
+  @font-face {
+    font-family: 'Rgreekl2';
+    src: url('rgreek.ttf') format('truetype');
+    font-display: swap;
+  }
+  /* Ten krój deklaruje pudełko wiersza prawie dwa razy wyższe od New Athena
+     (hhea 1209/-717 przy 1000 jednostek na firet), więc interlinię odcinka
+     trzymamy na sztywno — inaczej wiersze paraleli rozdymają się dwukrotnie.
+     "liga" 0 na wypadek, gdyby krój się nie wczytał i tekst spadł na szeryfowy
+     zapas: wtedy nie chcemy jeszcze łacińskich ligatur fi/fl na wierzchu. */
+  .lig {
+    font-family: 'Rgreekl2', serif;
+    font-feature-settings: "liga" 0;
+    line-height: 1.05;
+  }
+
   /* paleta Solarized (Ethan Schoonover) — akcenty identyczne w obu wariantach */
   :root {
     --tlo: #eee8d5;              /* base2  — tło strony */
@@ -710,6 +727,19 @@ function numerWersetu(h, v) {
 }
 
 // ---------- 1. tekst paralelny ----------
+// Greka w tekście perykopy idzie krojem ligaturowym. Serwer (app.py) oddaje ją
+// jako odcinki: lig=true to znaki zakodowane dla RGreekL — same w sobie łacińskie,
+// greckie dopiero pod tym krojem; lig=false to nawiasy edytorskie NA28, których
+// ten font nie ma (mapuje ( ) na przydechy), więc zostają w zwykłym kroju.
+// Bez odcinków (brak ../rgreekl) rysujemy zwykłą grekę Unicode.
+function grekaLigaturami(v) {
+  const odcinki = v.greek_rgreekl;
+  if (!odcinki || !odcinki.length) return esc(v.text_greek);
+  return odcinki.map(o => o.lig
+    ? `<span class="lig">${esc(o.text)}</span>`
+    : esc(o.text)).join('');
+}
+
 function czescTekst(d) {
   const h = d.head;
   if (!d.verses.length) return '';
@@ -725,7 +755,7 @@ function czescTekst(d) {
     return znacznik + `
       <div class="wiersz">
         <div class="nr">${numerWersetu(h, v)}</div>
-        <div class="gr" lang="grc">${esc(v.text_greek)}</div>
+        <div class="gr" lang="grc">${grekaLigaturami(v)}</div>
         <div class="pl">${esc(v.text_working_pl)}</div>
         ${jestLacina ? `<div class="la" lang="la">${
           esc(lacina.get(v.chapter + ',' + v.verse_num) || '')}</div>` : ''}

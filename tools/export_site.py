@@ -93,10 +93,16 @@ def main():
     if pdf.exists():
         shutil.copy(pdf, SITE / "egzegeza.pdf")
 
-    # krój grecki (New Athena Unicode) używany przez @font-face w index.html
-    font = ROOT / "newathu.ttf"
-    if font.exists():
-        shutil.copy(font, SITE / "newathu.ttf")
+    # kroje greckie używane przez @font-face w index.html: New Athena Unicode
+    # z korzenia repo i RGreekL (ligatury w tekście perykopy) z ../rgreekl.
+    # RGreekL leży poza repozytorium, więc dla strony statycznej musi tu wejść
+    # kopią — inaczej na hostingu nie ma skąd go wziąć.
+    for zrodlo, nazwa in ((ROOT / "newathu.ttf", "newathu.ttf"),
+                          (app.RGREEKL_FONT, "rgreek.ttf")):
+        if zrodlo.exists():
+            shutil.copy(zrodlo, SITE / nazwa)
+        else:
+            print(f"uwaga: brak {zrodlo} — strona wyświetli grekę krojem zapasowym")
 
     rozmiar = sum(f.stat().st_size for f in SITE.rglob("*") if f.is_file())
     print(f"OK -> {SITE}  ({len(perykopy)} perykop, {rozmiar} bajtów)")

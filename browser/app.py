@@ -12,12 +12,15 @@ Baza jest otwierana w trybie tylko do odczytu.
 import html
 import html.parser
 import http.server
+import itertools
 import json
 import os
 import pathlib
 import re
 import socketserver
 import sqlite3
+import sys
+import unicodedata
 import urllib.parse
 
 HERE = pathlib.Path(__file__).resolve().parent          # browser/
@@ -31,6 +34,84 @@ DB_TEKST = ROOT / "db.sqlite"
 MA_TEKST = DB_TEKST.exists()
 KSIEGA_JANA = 500
 PORT = int(os.environ.get("PORT", "8000"))
+
+# ---- krój RGreekL: greka pisana ligaturami ---------------------------------
+# Silnik mieszka poza tym repozytorium (../rgreekl) i zostaje tam, gdzie jest —
+# wciągamy rgreekl.py jako moduł, nie kopiujemy go tutaj. Ścieżkę nadpisuje
+# zmienna RGREEKL_DIR. Gdy katalogu nie ma, pole greek_rgreekl jest None
+# i przeglądarka rysuje zwykłą grekę Unicode — nic się nie psuje.
+RGREEKL_DIR = pathlib.Path(os.environ.get("RGREEKL_DIR") or ROOT.parent / "rgreekl")
+RGREEKL_FONT = RGREEKL_DIR / "rgreek.ttf"
+RGREEKL_RODZINA = "Rgreekl2"          # nazwa rodziny w rgreek.ttf
+
+
+def _wczytaj_rgreekl():
+    """(modul, ustawienia) albo None. Ustawienia = domyślne skryptu, czyli to,
+    co rgreekl.py robi wywołany bez argumentów."""
+    if not (RGREEKL_DIR / "rgreekl.py").exists():
+        return None
+    if str(RGREEKL_DIR) not in sys.path:
+        sys.path.insert(0, str(RGREEKL_DIR))
+    try:
+        import rgreekl
+    except ImportError:
+        return None
+    return rgreekl, rgreekl.settings_from(rgreekl.build_parser().parse_args([]))
+
+
+RGREEKL = _wczytaj_rgreekl()
+
+# Diakrytyki pisane osobno przed wielką literą — w tekście Jana jest to U+1FCF
+# przed Η (J 11,1; 11,55; 12,20; 18,25). Enkoder normalizuje wejście do NFD
+# i taki znak rozkłada mu się na spację z markami, bez litery bazowej, więc
+# przydech i cyrkumfleks przepadają. Składamy je z następną literą wcześniej:
+# U+1FCF + Η daje Ἦ (U+1F2E), które enkoder rozumie.
+_MARKI_PISANE_OSOBNO = {}
+for _cp in range(0x1FBD, 0x2000):
+    _rozklad = unicodedata.normalize("NFKD", chr(_cp))
+    if (len(_rozklad) > 1 and _rozklad[0] == " "
+            and all(unicodedata.combining(_c) for _c in _rozklad[1:])):
+        _MARKI_PISANE_OSOBNO[chr(_cp)] = _rozklad[1:]
+
+
+def _zloz_marki(tekst):
+    wynik = []
+    i = 0
+    while i < len(tekst):
+        znak = tekst[i]
+        nastepny = tekst[i + 1] if i + 1 < len(tekst) else ""
+        marki = _MARKI_PISANE_OSOBNO.get(znak)
+        if marki and nastepny.isalpha():
+            wynik.append(unicodedata.normalize("NFC", nastepny + marki))
+            i += 2
+        else:
+            wynik.append(znak)
+            i += 1
+    return "".join(wynik)
+
+
+def koduj_rgreekl(tekst):
+    """Werset jako lista odcinków [{lig, text}, ...] albo None, gdy silnika nie ma.
+
+    Odcinki lig=True są zakodowane dla kroju RGreekL — to znaki z zakresów
+    łacińskich, które wyglądają jak greka dopiero pod tym krojem. Odcinki
+    lig=False to nawiasy edytorskie NA28: ten font mapuje ( ) na przydechy,
+    a [ ] na litery, więc muszą zostać poza krojem ligaturowym. Kryterium jest
+    zbiór rgreekl.ODD — dokładnie te znaki, które font trzyma jako klawisze.
+    """
+    if not RGREEKL or not tekst:
+        return None
+    modul, ustawienia = RGREEKL
+    odcinki = []
+    for ligatury, znaki in itertools.groupby(_zloz_marki(tekst),
+                                             lambda z: z not in modul.ODD):
+        frag = "".join(znaki)
+        if ligatury:
+            klastry, _ = modul.parse_unicode(frag, ustawienia["circ"])
+            frag = modul.encode(klastry, ustawienia)["text"]
+        odcinki.append({"lig": ligatury, "text": frag})
+    return odcinki
+
 
 
 def _pytaj(sql, args=()):
@@ -155,6 +236,8 @@ def api_pericope(pid):
                   WHERE v.book_id = ?
                     AND (v.chapter, v.verse_num) BETWEEN (?, ?) AND (?, ?)
                   ORDER BY v.chapter, v.verse_num""", zakres)
+    for v in verses:
+        v["greek_rgreekl"] = koduj_rgreekl(v["text_greek"])
 
     sections = q("""SELECT id, parent_id, section_type, title, body_md, position
                     FROM section WHERE pericope_id = ?
@@ -406,11 +489,12 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 self.end_headers()
                 self.wfile.write(payload)
             return
-        # zasoby spoza browser/ (korzeń repo): PDF i krój grecki
-        for sciezka, typ in (("/egzegeza.pdf", "application/pdf"),
-                             ("/newathu.ttf", "font/ttf")):
+        # zasoby spoza browser/: PDF i kroje. rgreek.ttf leży w ../rgreekl,
+        # czyli poza repozytorium — podajemy go z miejsca, w którym mieszka.
+        for sciezka, plik, typ in (("/egzegeza.pdf", ROOT / "egzegeza.pdf", "application/pdf"),
+                                   ("/newathu.ttf", ROOT / "newathu.ttf", "font/ttf"),
+                                   ("/rgreek.ttf", RGREEKL_FONT, "font/ttf")):
             if parsed.path == sciezka:
-                plik = ROOT / sciezka.lstrip("/")
                 if not plik.exists():
                     self.send_error(404, f"Brak {plik.name}")
                     return
