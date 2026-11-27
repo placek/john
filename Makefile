@@ -78,4 +78,6 @@ $(PDF): $(TYP) newathu.ttf rgreek.ttf
 ## usuń wygenerowaną bazę, stronę statyczną i eksport Typst
 clean:
 	rm -f $(DB) egzegeza.typ egzegeza.pdf
+	rm -f egzegeza_jan1.md pericope_*.md
 	rm -rf site
+	find . -name __pycache__ -type d -prune -exec rm -rf {} +
