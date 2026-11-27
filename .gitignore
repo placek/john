@@ -26,6 +26,3 @@ __pycache__/
 
 # graft's local graph cache — regenerable, not committed (run `graft build`).
 /graft/
-
-# Cache redakcji Bielikiem (tools/bielik_redakcja.py) — odtwarzalny.
-.bielik_cache.jsonl
