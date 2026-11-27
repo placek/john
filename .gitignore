@@ -5,6 +5,7 @@
 !README.md
 !CLAUDE.md
 !SKILL.md
+!NOWA_KSIEGA.md
 !data/REVIEW_LOG.md
 
 # The SQLite database is generated from data/*.json (make build).
