@@ -7,7 +7,9 @@ description: Dodanie nowej perykopy do bazy egzegezy Ewangelii Jana — pełna p
 
 ## Zanim napiszesz pierwsze słowo
 
-1. Przeczytaj `CLAUDE.md` (konwencje, uczciwość warsztatowa, pułapki).
+1. Przeczytaj `CLAUDE.md` (konwencje, uczciwość warsztatowa, pułapki)
+   oraz `humanizer.md` — standard redakcyjny obowiązuje od pierwszego zdania,
+   a nie dopiero przy korekcie.
 2. Obejrzyj wzorzec: `python3 tools/export_pericope.py 1 /tmp/wzor.md` — Prolog
    jest miarą gęstości i tonu. Druga miara, krótsza: perykopa 7 (Kana).
 3. Sprawdź, co już jest: `python3 -c "import sqlite3;
@@ -17,7 +19,9 @@ description: Dodanie nowej perykopy do bazy egzegezy Ewangelii Jana — pełna p
 
 Uwaga o stanie prac: wszystkie 45 perykop Ewangelii są opracowane. Ten skill
 służy dziś przede wszystkim **rewizji istniejącej perykopy**; procedura niżej
-opisuje oba wypadki, bo kształt danych jest ten sam.
+opisuje oba wypadki, bo kształt danych jest ten sam. Jeśli zadanie dotyczy
+innej księgi Pisma niż Jan, kształt pracy zostaje ten sam, ale repozytorium
+stawia się wedle `NOWA_KSIEGA.md`.
 
 ## Krok 1: gdzie mieszkają dane
 
@@ -130,6 +134,45 @@ Recepcja liturgiczna jest **podsekcją sekcji VII** (`recepcja`): ryty, sigla
 lekcjonarza, loci Godziny czytań i obrzędy wplatasz w akapit, nie w wiersze
 tabeli. Wzorzec: podsekcja „Liturgia" w `data/umycie.json`.
 
+## Zapis greki i typografia
+
+**Grekę pisz w formie złożonej (NFC).** Przydech ani akcent nie mogą stać
+osobno przed literą. Kolumna grecka sekcji „Tekst perykopy" idzie krojem
+ligaturowym RGreekL (`tools/rgreekl.py`), a enkoder normalizuje wejście do NFD
+i samodzielny znak rozkłada mu się na spację z markami, **bez litery bazowej**
+— przydech i cyrkumfleks przepadają. Pisz `Ἦν` (U+1F2E), nie `῏Ην`
+(U+1FCF + Η). Dotyczy to `verses.items[*][1]`, `blocks[*].greek`
+i `units[*][0]`.
+
+Dług historyczny: w danych stoi dziś 15 takich miejsc w 11 plikach.
+`browser/app.py` składa je w locie (`_zloz_marki`), więc nic nie jest zepsute,
+ale nowych nie dokładaj. Samodzielne `᾽` (koronis) i `᾿` (psili) jako znak
+elizji — `δ᾽`, `ἀλλ᾽` — są poprawne i zostają; problemem jest wyłącznie znak
+stojący **przed literą**.
+
+**Nawiasy edytorskie NA28** (`[ ]`, `( )`) zostają w tekście, ale pamiętaj,
+że ten font mapuje `( )` na przydechy, a `[ ]` na litery, więc werset idzie
+do API w odcinkach i nawiasy lądują poza krojem ligaturowym. To obsłużone
+w kodzie; nie obchodź tego, zmieniając dane.
+
+**Cudzysłowy.** Otwierający to `„` (U+201E), zamykający to **zwykły ASCII `"`**
+(U+0022) — nie `”`. W korpusie: `„` 4986×, `"` 4986×, `”` 0×, `’` 0×. Zachowaj
+tę równowagę; niedomknięty cudzysłów to błąd danych, którego build nie złapie.
+
+**Pauzy.** Em-pauza `—` dla wtrąceń (11 909 w korpusie), półpauza `–`
+w zakresach (3954). Dywiz ze spacjami: 0 wystąpień — nie wprowadzaj go.
+Jedyne dywizy między cyframi to daty ISO w notach rewizji.
+
+**Przytoczenia są nienaruszalne.** Fragment w `„…"` dłuższy niż kilka słów to
+przytoczony werset, formuła liturgiczna albo zdanie Ojca. Przepisuj go co do
+słowa, razem z wielkością liter — zmiana `„na trzeci dzień…"` na
+`„Na trzeci dzień…"` przy przebudowie zdania jest już przekłamaniem źródła.
+
+**Zapis plików danych.** `json.dumps(obj, ensure_ascii=False, indent=1)` —
+dokładnie to formatowanie, inaczej diff obejmie cały plik zamiast zmienionego
+łańcucha. `data/lazarz.json` i `data/pilat.json` nie mają kończącej nowej linii;
+zachowaj ten stan.
+
 ## Krok 3: budowa i kontrola
 
 ```bash
@@ -150,6 +193,25 @@ for f in glob.glob('data/*.json'):
     t = open(f, encoding='utf-8').read()
     for m in re.finditer(r'(?<=\d)-(?=\d)', t):
         print(f, repr(t[m.start()-18:m.end()+10]))" | grep -v '20[0-9][0-9]-'
+```
+
+Sprawdź też zapis greki i cudzysłowy. W surowym JSON-ie cudzysłów zamykający
+stoi jako `\\"`, więc liczy się jego, nie goły znak:
+
+```bash
+python3 - <<'PY'
+import glob, re
+for f in sorted(glob.glob('data/*.json')):
+    t = open(f, encoding='utf-8').read()
+    for m in re.finditer(r'[\u1FBD\u1FBF\u1FCF](?=[^\W\d_])', t):
+        print('greka niezlozona:', f, repr(t[m.start()-20:m.end()+12]))
+    otw, zam = t.count('\u201e'), t.count(r'\"')
+    if otw != zam:
+        print('cudzyslowy niezbilansowane:', f, otw, '->', zam)
+    for z, n in (('\u201d', 'obcy cudzyslow \u201d'), ('\u2019', 'obcy apostrof \u2019')):
+        if z in t:
+            print(n + ':', f)
+PY
 ```
 
 ## Kryteria jakości — sprawdź przed commitem
@@ -191,6 +253,39 @@ samej myśli. Przypisz do bloku, którego realnie dotyczy.
 **Aparat.** Noty tekstualne tylko tam, gdzie NA28 notuje realny problem.
 Nie wymyślaj wariantów.
 
+## Standard redakcyjny: wzorce pisania AI
+
+Procedura stoi w `humanizer.md`; tu jest to, co wyszło z przebiegu po całej
+Ewangelii i czego nie widać, pisząc jedną perykopę.
+
+**Najgroźniejszy jest szablon powtórzony między perykopami.** Sekcję
+zamykającą **22 perykop** otwierało to samo zdanie („Jeśli zebrać wszystko
+w jedno zdanie:"). Pojedynczo brzmi nieszkodliwie, w książce jest to główna
+oznaka maszyny. Jeśli łapiesz się na stałym otwarciu sekcji, zmień je.
+
+**Ten sam aforyzm nie może stać w trzech sekcjach.** W Kanie „najlepsze
+u Boga nie jest za nami" wracało w sekcji IV, VII i VIII w trzech wariantach,
+a sekwencja „brak — słowo — posłuszeństwo — przemiana — chwała — wiara" trzy
+razy. Zostaw jedno wystąpienie, w sekcji, do której należy.
+
+**Nie zapowiadaj, że przejdziesz do sedna — przejdź.** Wypadły: „Warto
+zauważyć, że…" i dwukropki zapowiadające własną kategorię („Epistemologia
+sceny jest precyzyjna:"). Zdanie, które mówi tylko „to, co teraz powiem, jest
+ważne", nie wnosi faktu.
+
+**Antytezę „nie X, lecz Y" zostaw tam, gdzie koryguje błędne przekonanie.**
+W korpusie jest jej ponad 600 i celowo nie została przerzedzona — „Jan nie
+mówi, że Słowo stało się na początku, lecz że było" to rozstrzygnięcie
+merytoryczne. Tylko nie używaj jej jako rytmu w każdym akapicie.
+
+**Powtórzenie wersetu kluczowego jest zamierzone.** „JA JESTEM
+zmartwychwstaniem i życiem" w intro, strukturze i zakończeniu to nie wzorzec
+AI, lecz klamra. Nie ruszaj przytoczeń Pisma przy redakcji stylu.
+
+Przy redakcji po fakcie chroń bezwzględnie: wyrażenia w pismach niełacińskich,
+przytoczenia w `„…"` dłuższe niż kilka słów, kursywę (łacina i tytuły dzieł)
+oraz sigla i liczby. Tekst po redakcji ma być **krótszy**, nie dłuższy.
+
 ## Czego nie robić
 
 - Nie zmieniaj schematu bazy bez wyraźnej potrzeby — jeśli nowa warstwa
@@ -203,6 +298,15 @@ Nie wymyślaj wariantów.
 - Nie dubluj leksemów ani motywów, które już są w bazie — sprawdź
   `SELECT lemma FROM lexeme` i `SELECT name FROM theme` przed dopisaniem.
 - Nie parafrazuj polskich przekładów objętych prawem autorskim.
+- Nie dokładaj greki z samodzielnym przydechem przed literą (`῏Ην`) — enkoder
+  ligatur gubi literę bazową. Pisz formę złożoną (`Ἦν`).
+- Nie otwieraj sekcji zamykającej stałą formułą i nie powtarzaj tej samej
+  puenty w kilku sekcjach.
+- Nie puszczaj lokalnego modelu po korpusie „dla poprawy stylu". Próbowano
+  tego w październiku 2026: przebieg spłaszczał autorską dykcję
+  (`licytuje się z Barabaszem o poklask` → `konkuruje o popularność`),
+  rozdymał tekst o 6%, podnosił liczbę oznak AI i w leksemach **wymyślał
+  grekę** (`οὗτος` → `ὃς οὗτος`). Narzędzie zostało usunięte z repozytorium.
 
 ## Na koniec
 
