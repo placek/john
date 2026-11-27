@@ -287,6 +287,33 @@ Grekę i „ł" wpisuj w pełnym zapisie.
 `/api/pericopes`, `/api/pericope?id=N`, `/api/search?q=…`, `/api/lexicon`, `/api/themes`
 — wszystkie zwracają JSON.
 
+## Kroje greckie i ligatury RGreekL
+
+Greka stoi w dwóch krojach. Kolumna grecka sekcji „Tekst perykopy" idzie
+krojem **RGreekL** (`rgreek.ttf`, rodzina `Rgreekl2`), który rysuje ligatury
+rękopiśmienne; cała pozostała greka — interlinia, leksykon, analiza, aparat —
+zostaje na **New Athena Unicode** (`newathu.ttf`).
+
+RGreekL nie przyjmuje Unicode: tekst trzeba zakodować na znaki z zakresów
+łacińskich, które wyglądają jak greka dopiero pod tym krojem. Robi to
+`tools/rgreekl.py`, wciągany jako moduł przez `browser/app.py`, i wynik idzie
+do API jako `greek_rgreekl` — lista odcinków `{lig, text}`. Odcinki `lig=false`
+to nawiasy edytorskie NA28, które muszą zostać poza krojem ligaturowym, bo ten
+font mapuje `( )` na przydechy, a `[ ]` na litery.
+
+Silnik i krój **leżą w repozytorium**, bo GitHub Actions buduje stronę i PDF
+z samego checkoutu. Trzymane obok repo, w `../rgreekl`, były dla runnera
+niewidoczne i ligatury cicho znikały: `greek_rgreekl` schodziło do `null`,
+`rgreek.ttf` nie trafiał do `site/`, a `typst` wypisywał `unknown font family:
+Rgreekl2` i kończył sukcesem — Pages wdrażało się na zielono bez ligatur.
+Ścieżkę nadal nadpisuje `RGREEKL_DIR`; gdy silnika nie ma, pole jest `null`
+i rysuje się zwykła greka Unicode, a build, `site` i `pdf` przechodzą.
+
+**Licencja.** RGreekL jest freeware Vernona E. Kooya: wolno go rozprowadzać
+i osadzać w dokumencie, nie wolno modyfikować **ani używać komercyjnie** —
+szczegóły w `rgreek.ttf.LICENSE`. Przy płatnej publikacji trzeba go zastąpić
+albo uzyskać zgodę autora.
+
 ## GitHub Pages (wersja statyczna)
 
 GitHub Pages nie uruchomi Pythona, więc przeglądarkę publikuje się w wersji

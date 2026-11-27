@@ -19,8 +19,6 @@
 
 PYTHON ?= python3
 TYPST  ?= typst
-# silnik i krój RGreekL (ligatury greckie) — poza repozytorium, obok niego
-RGREEKL_DIR ?= ../rgreekl
 DB      = data/egzegeza_jana.sqlite
 TYP     = egzegeza.typ
 PDF     = egzegeza.pdf
@@ -74,8 +72,8 @@ $(TYP): $(DB) tools/export_typst.py
 ## złóż PDF z reprezentacji Typst (wymaga typst — patrz shell.nix)
 pdf: $(PDF)
 
-$(PDF): $(TYP) newathu.ttf
-	$(TYPST) compile --font-path . --font-path $(RGREEKL_DIR) $(TYP) $(PDF)
+$(PDF): $(TYP) newathu.ttf rgreek.ttf
+	$(TYPST) compile --font-path . $(TYP) $(PDF)
 
 ## usuń wygenerowaną bazę, stronę statyczną i eksport Typst
 clean:
