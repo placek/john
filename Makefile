@@ -34,7 +34,7 @@ SOURCES = tools/egzegeza_jana_build.py data/schema.sql \
 BUILD   = tools/egzegeza_jana_build.py
 APP     = browser/app.py
 EXPORT  = tools/export_pericope.py
-PORT    ?= 8000
+PORT    ?= 8007
 PID     ?= all
 OUT     ?=
 
