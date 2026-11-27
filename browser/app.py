@@ -36,12 +36,17 @@ KSIEGA_JANA = 500
 PORT = int(os.environ.get("PORT", "8000"))
 
 # ---- krój RGreekL: greka pisana ligaturami ---------------------------------
-# Silnik mieszka poza tym repozytorium (../rgreekl) i zostaje tam, gdzie jest —
-# wciągamy rgreekl.py jako moduł, nie kopiujemy go tutaj. Ścieżkę nadpisuje
-# zmienna RGREEKL_DIR. Gdy katalogu nie ma, pole greek_rgreekl jest None
-# i przeglądarka rysuje zwykłą grekę Unicode — nic się nie psuje.
-RGREEKL_DIR = pathlib.Path(os.environ.get("RGREEKL_DIR") or ROOT.parent / "rgreekl")
-RGREEKL_FONT = RGREEKL_DIR / "rgreek.ttf"
+# Silnik (tools/rgreekl.py) i krój (rgreek.ttf) leżą w repozytorium, bo CI
+# buduje stronę i PDF z samego checkoutu — trzymane obok, w ../rgreekl, były
+# niewidoczne dla runnera i ligatury cicho znikały z Pages i z PDF.
+# Krój jest freeware Vernona E. Kooya: wolno rozprowadzać i osadzać
+# w dokumencie, nie wolno modyfikować ani używać komercyjnie.
+# RGREEKL_DIR nadal nadpisuje jedno i drugie, gdy silnik trzymasz poza repo.
+# Gdy silnika nie ma, pole greek_rgreekl jest None i przeglądarka rysuje
+# zwykłą grekę Unicode — nic się nie psuje.
+_RGREEKL_ZEWN = os.environ.get("RGREEKL_DIR")
+RGREEKL_DIR = pathlib.Path(_RGREEKL_ZEWN) if _RGREEKL_ZEWN else ROOT / "tools"
+RGREEKL_FONT = (RGREEKL_DIR if _RGREEKL_ZEWN else ROOT) / "rgreek.ttf"
 RGREEKL_RODZINA = "Rgreekl2"          # nazwa rodziny w rgreek.ttf
 
 

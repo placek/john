@@ -1,0 +1,19 @@
+Rgreekl2 (rgreek.ttf)
+Projektant: Vernon E. Kooy PhD <vkooy@charter.net>
+
+Warunki, dosłownie z tabeli `name` samego pliku kroju (identyfikatory 13 i 14):
+
+    This font is freeware, it may not be used for commercial purposes.
+    The font may be freely distributed but not modified, but may be
+    embedded in a document.
+
+Z tego wynika dla tego repozytorium:
+
+- rozprowadzanie kroju wraz z repozytorium jest dozwolone;
+- osadzanie go w PDF (egzegeza.pdf) jest dozwolone wprost;
+- plik jest tu bajt w bajt taki, jak otrzymany — nie wolno go modyfikować;
+- UŻYCIE KOMERCYJNE JEST ZABRONIONE. Jeśli egzegeza miałaby się kiedyś
+  ukazać jako płatna publikacja, ten krój trzeba wcześniej zastąpić albo
+  uzyskać zgodę autora.
+
+Krój drugi, newathu.ttf (New Athena Unicode), ma własne, odrębne warunki.
